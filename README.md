@@ -21,6 +21,20 @@ Các nhóm và từ khóa được khai báo trước trong [config/seasonal.jso
 
 Công cụ hiện khảo sát các nhóm đã chọn, chưa tự khám phá nhóm hot mới ngoài cấu hình. Trends là chỉ số tương đối; lịch sử bốn năm là lịch sử từ khóa, còn thông tin Amazon được ghi tại ngày lấy. Tháng tương lai chưa có dữ liệu.
 
+## Một số kết quả demo
+
+### Xu hướng tìm kiếm quà tặng và đồ trang trí Q4
+
+So sánh mức quan tâm tại Mỹ trong tháng 10–12 qua các năm 2023–2026, giúp nhận biết thời điểm từng nhóm sản phẩm được tìm kiếm nhiều hơn. Các tháng chưa có dữ liệu được để trống.
+
+![Xu hướng tìm kiếm Q4 tại Mỹ](docs/images/pic2.png)
+
+### Top 5 sản phẩm tham khảo cho tháng 11
+
+Xếp hạng trong mẫu đã thu thập, kết hợp xu hướng tìm kiếm theo tháng với thông tin Amazon: giá, nhãn lượt mua, đánh giá và nhận xét. Thông tin Amazon được ghi nhận ngày 22/10/2026; đây không phải bảng doanh số tháng 11 của các năm trước.
+
+![Sản phẩm tham khảo tháng 11](docs/images/pic1.png)
+
 ## Luồng dữ liệu
 
 ```mermaid
@@ -49,6 +63,7 @@ flowchart TD
 | `api/` | `.env` chứa key, `.env.example` là mẫu. Key không đưa lên GitHub. |
 | `data/` | Nguồn JSON, CSV và kết quả từng nghiên cứu. Q4 mẫu nằm trong `seasonal-gifts-us/`. |
 | `tests/` | Kiểm tra dữ liệu và chức năng chương trình. |
+| `docs/images/` | Ảnh chụp dashboard dùng trong README. |
 
 ## Demo với dữ liệu có sẵn
 
