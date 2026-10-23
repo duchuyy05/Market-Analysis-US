@@ -1,0 +1,91 @@
+{
+  "category": "Valentine gifts and small decorations",
+  "market": "US",
+  "marketplace": "amazon.com",
+  "language": "en_US",
+  "years": [
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "months": [
+    1,
+    2,
+    3
+  ],
+  "as_of_date": "2026-10-22",
+  "products_per_family": 2,
+  "top_n": 5,
+  "max_mobile_review_requests": 4,
+  "max_serpapi_requests": 56,
+  "max_tavily_requests": 4,
+  "min_positive_week_points_per_period": 3,
+  "min_completed_years_for_timing": 2,
+  "ramp_up_profile_threshold_pct": 40,
+  "niches": [
+    {
+      "id": "topic",
+      "name": "Valentine gifts",
+      "name_vi": "Valentine gifts",
+      "discovery_query": "Valentine gifts and small decorations Valentine gifts USA products reviews"
+    }
+  ],
+  "families": [
+    {
+      "id": "group_1",
+      "niche_id": "topic",
+      "name": "valentines gift basket",
+      "name_vi": "valentines gift basket",
+      "keyword": "valentines gift basket",
+      "amazon_query": "valentines gift basket",
+      "required_patterns": [
+        "valentine",
+        "basket"
+      ],
+      "idea_vi": "Đối chiếu quy cách, giá, đóng gói và review của nhóm valentines gift basket trước khi chọn mẫu thử."
+    },
+    {
+      "id": "group_2",
+      "niche_id": "topic",
+      "name": "valentines scented candles",
+      "name_vi": "valentines scented candles",
+      "keyword": "valentines scented candles",
+      "amazon_query": "valentines scented candles",
+      "required_patterns": [
+        "valentine",
+        "scented",
+        "candle"
+      ],
+      "idea_vi": "Đối chiếu quy cách, giá, đóng gói và review của nhóm valentines scented candles trước khi chọn mẫu thử."
+    },
+    {
+      "id": "group_3",
+      "niche_id": "topic",
+      "name": "valentines plush toys",
+      "name_vi": "valentines plush toys",
+      "keyword": "valentines plush toys",
+      "amazon_query": "valentines plush toys",
+      "required_patterns": [
+        "valentine",
+        "plush",
+        "toys"
+      ],
+      "idea_vi": "Đối chiếu quy cách, giá, đóng gói và review của nhóm valentines plush toys trước khi chọn mẫu thử."
+    },
+    {
+      "id": "group_4",
+      "niche_id": "topic",
+      "name": "valentines decorations",
+      "name_vi": "valentines decorations",
+      "keyword": "valentines decorations",
+      "amazon_query": "valentines decorations",
+      "required_patterns": [
+        "valentine",
+        "decoration"
+      ],
+      "idea_vi": "Đối chiếu quy cách, giá, đóng gói và review của nhóm valentines decorations trước khi chọn mẫu thử."
+    }
+  ],
+  "schema_version": 4
+}

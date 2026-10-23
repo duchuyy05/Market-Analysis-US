@@ -1,0 +1,92 @@
+{
+  "category": "Home gardening tools and accessories",
+  "market": "US",
+  "marketplace": "amazon.com",
+  "language": "en_US",
+  "years": [
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "months": [
+    4,
+    5,
+    6
+  ],
+  "as_of_date": "2026-10-22",
+  "products_per_family": 2,
+  "top_n": 5,
+  "max_mobile_review_requests": 4,
+  "max_serpapi_requests": 56,
+  "max_tavily_requests": 4,
+  "min_positive_week_points_per_period": 3,
+  "min_completed_years_for_timing": 2,
+  "ramp_up_profile_threshold_pct": 40,
+  "niches": [
+    {
+      "id": "topic",
+      "name": "Gardening accessories",
+      "name_vi": "Gardening accessories",
+      "discovery_query": "Home gardening tools and accessories Gardening accessories USA products reviews"
+    }
+  ],
+  "families": [
+    {
+      "id": "group_1",
+      "niche_id": "topic",
+      "name": "gardening gloves",
+      "name_vi": "gardening gloves",
+      "keyword": "gardening gloves",
+      "amazon_query": "gardening gloves",
+      "required_patterns": [
+        "gardening",
+        "glove"
+      ],
+      "idea_vi": "Đối chiếu quy cách, giá, đóng gói và review của nhóm gardening gloves trước khi chọn mẫu thử."
+    },
+    {
+      "id": "group_2",
+      "niche_id": "topic",
+      "name": "seed starter kit",
+      "name_vi": "seed starter kit",
+      "keyword": "seed starter kit",
+      "amazon_query": "seed starter kit",
+      "required_patterns": [
+        "seed",
+        "starter",
+        "kit"
+      ],
+      "idea_vi": "Đối chiếu quy cách, giá, đóng gói và review của nhóm seed starter kit trước khi chọn mẫu thử."
+    },
+    {
+      "id": "group_3",
+      "niche_id": "topic",
+      "name": "plant watering spikes",
+      "name_vi": "plant watering spikes",
+      "keyword": "plant watering spikes",
+      "amazon_query": "plant watering spikes",
+      "required_patterns": [
+        "plant",
+        "watering",
+        "spike"
+      ],
+      "idea_vi": "Đối chiếu quy cách, giá, đóng gói và review của nhóm plant watering spikes trước khi chọn mẫu thử."
+    },
+    {
+      "id": "group_4",
+      "niche_id": "topic",
+      "name": "garden tool set",
+      "name_vi": "garden tool set",
+      "keyword": "garden tool set",
+      "amazon_query": "garden tool set",
+      "required_patterns": [
+        "garden",
+        "tool",
+        "set"
+      ],
+      "idea_vi": "Đối chiếu quy cách, giá, đóng gói và review của nhóm garden tool set trước khi chọn mẫu thử."
+    }
+  ],
+  "schema_version": 4
+}

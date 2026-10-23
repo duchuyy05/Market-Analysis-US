@@ -1,0 +1,1537 @@
+{
+  "provider": "serpapi",
+  "endpoint": "https://serpapi.com/search.json",
+  "parameters": {
+    "engine": "amazon_product",
+    "asin": "B0F831L31B",
+    "amazon_domain": "amazon.com",
+    "language": "en_US",
+    "shipping_location": "US",
+    "device": "tablet",
+    "output": "json"
+  },
+  "fetched_at_utc": "2026-10-22T16:11:11.879581+00:00",
+  "raw_file": "supplements/supplement-2026-10-22T1610589019850000-ed08e5/raw/serpapi-b2ebd984a77a75c2f3dc.json",
+  "response": {
+    "search_metadata": {
+      "id": "6ada35a07d123363c8b171d0",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/xq8Mu8V6mEcAIzda_oY4UaLy83Ne3cmBMi6_rveNpZY/6ada35a07d123363c8b171d0.json",
+      "markdown_endpoint": "https://serpapi.com/searches/xq8Mu8V6mEcAIzda_oY4UaLy83Ne3cmBMi6_rveNpZY/6ada35a07d123363c8b171d0.md",
+      "created_at": "2026-10-22 16:11:12 UTC",
+      "processed_at": "2026-10-22 16:11:12 UTC",
+      "amazon_product_url": "https://www.amazon.com/dp/B0F831L31B/?language=en_US",
+      "raw_html_file": "https://serpapi.com/searches/xq8Mu8V6mEcAIzda_oY4UaLy83Ne3cmBMi6_rveNpZY/6ada35a07d123363c8b171d0.html",
+      "total_time_taken": 10.49
+    },
+    "search_parameters": {
+      "engine": "amazon_product",
+      "asin": "B0F831L31B",
+      "amazon_domain": "amazon.com",
+      "language": "en_US",
+      "device": "tablet",
+      "shipping_location": "US"
+    },
+    "product_results": {
+      "categories": [
+        {
+          "position": 1,
+          "name": "Home & Kitchen",
+          "link": "https://www.amazon.com/home-garden-kitchen-furniture-bedding/b/ref=dp_bc_1?ie=UTF8&node=1055398",
+          "node": "1055398",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=tablet&engine=amazon&language=en_US&node=1055398&shipping_location=US"
+        },
+        {
+          "position": 2,
+          "name": "Seasonal Décor",
+          "link": "https://www.amazon.com/seasonal-d%C3%A9cor/b/ref=dp_bc_2?ie=UTF8&node=13679381",
+          "node": "13679381",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=tablet&engine=amazon&language=en_US&node=13679381&shipping_location=US"
+        }
+      ],
+      "asin": "B0F831L31B",
+      "title": "Piteno® 140Pcs Bats Halloween Decorations Party Supplies, Realistic PVC 3D Black Scary Bat Stickers for Creepy Home Decor Halloween Party Decorations DIY Wall Window Decal Bathroom Indoor",
+      "link": "https://www.amazon.com/Halloween-Decorations-Supplies-Realistic-Stickers/dp/B0F831L31B/",
+      "link_clean": "https://www.amazon.com/dp/B0F831L31B/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0F831L31B&device=tablet&engine=amazon_product&language=en_US&shipping_location=US",
+      "badges": [
+        "Amazon's Choice"
+      ],
+      "variants": [
+        {
+          "title": "Size",
+          "items": [
+            {
+              "position": 1,
+              "asin": "B0H1LBQ51W",
+              "name": "Large",
+              "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0H1LBQ51W&device=tablet&engine=amazon_product&language=en_US&shipping_location=US"
+            },
+            {
+              "position": 2,
+              "asin": "B0F831L31B",
+              "name": "Standard",
+              "selected": true,
+              "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0F831L31B&device=tablet&engine=amazon_product&language=en_US&shipping_location=US"
+            }
+          ]
+        }
+      ],
+      "brand": "Brand: Piteno",
+      "thumbnail": "https://m.media-amazon.com/images/I/61Dme-fvWvL._AC_SY300_SX300_QL70_FMwebp_.jpg",
+      "thumbnails": [
+        "https://m.media-amazon.com/images/I/61Dme-fvWvL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71EI04JL-NL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71gEuYse3OL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/716Cw9kmvjL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71VK64cw7+L._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71S3uL+i9kL._AC_SL1500_.jpg"
+      ],
+      "rating": 4.6,
+      "reviews": 1302,
+      "bought_last_month": "30K+ bought in past month",
+      "price": "$9.99",
+      "extracted_price": 9.99,
+      "price_unit": "$0.07 / count",
+      "extracted_price_unit": 0.07,
+      "prime": true,
+      "delivery": [
+        "FREE delivery on orders over $35 shipped by Amazon."
+      ],
+      "stock": "In Stock"
+    },
+    "purchase_options": {
+      "single_offer": {
+        "price": "$9.99",
+        "extracted_price": 9.99,
+        "price_unit": "$0.07 / count",
+        "extracted_price_unit": 0.07,
+        "delivery": [
+          "FREE delivery on orders over $35 shipped by Amazon."
+        ],
+        "stock": "In Stock",
+        "features": {
+          "ships_from": {
+            "text": "Amazon",
+            "details": {
+              "heading": "Ships from",
+              "content": "Amazon"
+            }
+          },
+          "sold_by": {
+            "text": "Piteno Direct",
+            "details": {
+              "heading": "Sold by",
+              "content": "Piteno Direct"
+            },
+            "link": {
+              "text": "Piteno Direct",
+              "link": "https://www.amazon.com/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A278R1VXJM7NZB&asin=B0F831L31B&ref_=dp_merchant_link&isAmazonFulfilled=1"
+            }
+          },
+          "returns": {
+            "text": "FREE 30-day refund/replacement",
+            "details": {
+              "heading": "FREE 30-day refund/replacement"
+            },
+            "link": {
+              "text": "See exceptions",
+              "link": "https://www.amazon.com/gp/help/customer/display.html/?nodeId=GKQNFKFK5CF3C54B"
+            }
+          },
+          "packaging": {
+            "text": "Ships in product packaging",
+            "details": {
+              "heading": "Ships in product packaging",
+              "content": "This item has been tested to certify it can ship safely in its original box or bag to avoid unnecessary packaging. Since 2015, we have reduced the weight of outbound packaging per shipment by 41% on average, that’s over 2 million tons of packaging material.If you still require Amazon packaging for this item, choose \"Ship in Amazon packaging\" at checkout. Learn more"
+            },
+            "link": {
+              "text": "Learn more",
+              "link": "https://www.amazon.com/sipp_home"
+            }
+          }
+        }
+      }
+    },
+    "item_specifications": {
+      "brand": "Piteno",
+      "color": "Black",
+      "surface_recommendation": "Wood, Glass, Metal, Plastic",
+      "recommended_uses_for_product": "Diy Crafts, Halloween Party Decoration, Holiday Decoration, Home Decor, Indoor Decoration, Wall Decoration, Window",
+      "material": "Plastic",
+      "theme": "Halloween",
+      "cartoon_character": "Halloween",
+      "special_feature": "Custom, Removable, Reusable, Waterproof",
+      "number_of_pieces": "140",
+      "style": "Classic"
+    },
+    "about_item": [
+      "【Excellent Halloween Decoration】Our 3D bats wall decor are perfect for Halloween Party. They can be pasted both indoors and outdoors, bring some horror atmosphere to the Halloween party. At that time, the fluttering bat stickers will amaze your guests!",
+      "【Premium Material】These 3D bats Halloween stickers made of waterproof PVC, removable and reusable. Fit any SMOOTH & DRY surface like cabinets, bookshelf, walls, doors and windows (REMEMBER to CLEAN the dust before using). Do not stick to the vents.",
+      "【Package Included】Halloween Decorative Bats Set of 140 scary 3D bats in 5 different sizes: 20Pcs 7.9\"x 2\", 20Pcs 6.3\"x 1.6\", 20Pcs 4.7\"x 1.2\", 60Pcs 3.5\"x 0.8\", 20Pcs 3.1\"x 1.6\". Create your \"bat cave\" \"Halloween wreath\" with these scary 3D bats for wall, all over the wall or window! Five different sizes of bats are suitable for different scenarios.",
+      "【Easy to Use】The package comes with double-sided foam tape. Bats are flat-packed. First, fold the bat wings, then stick the bottom with the provided foam tape, and finally arrange them in the way you like! This is a good project to do with the children. They will like it!",
+      "【Easy to Remove】If you want to remove the bat sticker, just heat it up with a hair dryer and you can take it off easily. If there are sticky residues on the wall, they can be wiped off with alcohol."
+    ],
+    "bought_together": [
+      {
+        "position": 1,
+        "title": "Piteno® 140Pcs Bats Halloween Decorations Party Supplies, Realistic PVC 3D Black Scary Bat Stickers for Creepy Home Decor Halloween Party Decorations DIY Wall Window Decal Bathroom Indoor",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/61Dme-fvWvL._AC_UL116_SR116,116_.jpg",
+        "price": "$9.99",
+        "extracted_price": 9.99,
+        "price_unit": "$0.07/count",
+        "extracted_price_unit": 0.07,
+        "stock": "In Stock"
+      },
+      {
+        "position": 2,
+        "title": "1000 sqft Spider Webs Halloween Decorations with 30 Fake Spiders | Super Stretch Cobwebs for Halloween Indoor and Outdoor Party Supplies",
+        "link": "https://www.amazon.com/Halloween-Decorations-Spiders-Stretch-Supplies/dp/B07HMRZSWT/ref=pd_bxgy_thbs_d_sccl_1/132-6022809-9842321?pd_rd_w=boeMJ&content-id=amzn1.sym.1fbb380b-ee1d-4eeb-a44a-61f4d3013ea6&pf_rd_p=1fbb380b-ee1d-4eeb-a44a-61f4d3013ea6&pf_rd_r=S57JNBC4FVZVVDX3R4YN&pd_rd_wg=UvVko&pd_rd_r=d516bb7a-7390-4f46-8ffd-9b0e3ff64633&pd_rd_i=B07HMRZSWT&psc=1",
+        "asin": "B07HMRZSWT",
+        "link_clean": "https://www.amazon.com/Halloween-Decorations-Spiders-Stretch-Supplies/dp/B07HMRZSWT/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B07HMRZSWT&device=tablet&engine=amazon_product&language=en_US&shipping_location=US",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/81JCNXXndQL._AC_UL116_SR116,116_.jpg",
+        "price": "$14.49",
+        "extracted_price": 14.49,
+        "delivery": [
+          "Get it as soon as Tuesday, Oct 27"
+        ],
+        "stock": "In Stock"
+      },
+      {
+        "position": 3,
+        "title": "5Pcs Halloween Creepy Cloth Black 30×72inch - Halloween Decorations Clearance - Creepy Spooky Halloween Decorations Outdoor Indoor",
+        "link": "https://www.amazon.com/Halloween-Creepy-Cloth-Black-30%C3%9772inch/dp/B09C5Q8S89/ref=pd_bxgy_thbs_d_sccl_2/132-6022809-9842321?pd_rd_w=boeMJ&content-id=amzn1.sym.1fbb380b-ee1d-4eeb-a44a-61f4d3013ea6&pf_rd_p=1fbb380b-ee1d-4eeb-a44a-61f4d3013ea6&pf_rd_r=S57JNBC4FVZVVDX3R4YN&pd_rd_wg=UvVko&pd_rd_r=d516bb7a-7390-4f46-8ffd-9b0e3ff64633&pd_rd_i=B09C5Q8S89&psc=1",
+        "asin": "B09C5Q8S89",
+        "link_clean": "https://www.amazon.com/Halloween-Creepy-Cloth-Black-30%C3%9772inch/dp/B09C5Q8S89/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B09C5Q8S89&device=tablet&engine=amazon_product&language=en_US&shipping_location=US",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/91HvHi81uNL._AC_UL116_SR116,116_.jpg",
+        "price": "$13.99",
+        "extracted_price": 13.99,
+        "price_unit": "$2.80/count",
+        "extracted_price_unit": 2.8,
+        "delivery": [
+          "Get it as soon as Wednesday, Oct 28"
+        ],
+        "stock": "In Stock"
+      }
+    ],
+    "related_products": [
+      {
+        "position": 1,
+        "asin": "B0B3WXJSB6",
+        "title": "Halloween Wood Felt Bat Garland for Halloween Decorations Indoor | Farmhouse Bat Ga...",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo1MjE4ODgzODY3Njk2MTI2OjE3OTI2ODU0ODE6c3BfZGV0YWlsX3RoZW1hdGljOjMwMDAyMDcxOTI1MzYwMjo6Ojo&url=%2Fdp%2FB0B3WXJSB6%2Fref%3Dsspa_dk_detail_0%3Fpsc%3D1%26pd_rd_i%3DB0B3WXJSB6%26pd_rd_w%3DcvKd3%26content-id%3Damzn1.sym.3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_p%3D3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_r%3DS57JNBC4FVZVVDX3R4YN%26pd_rd_wg%3DUvVko%26pd_rd_r%3Dd516bb7a-7390-4f46-8ffd-9b0e3ff64633%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM",
+        "link_clean": "https://www.amazon.com/dp/B0B3WXJSB6/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0B3WXJSB6&device=tablet&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "badges": [
+          "Limited time deal"
+        ],
+        "thumbnail": "https://m.media-amazon.com/images/I/71sdr3Ji56L._AC_UF480,480_SR480,480_.jpg",
+        "rating": 4.6,
+        "reviews": 742,
+        "discount": "-25%",
+        "price": "$5.99",
+        "extracted_price": 5.99,
+        "old_price": "null"
+      },
+      {
+        "position": 2,
+        "asin": "B0H8RW1298",
+        "title": "3 Pack Pre-Assembled Hanging Ghosts Halloween Decorations with Warm Glow,Ghost Decor with Remote Timer & Upgraded Double-Layer Sheet, Swinging Ghost for Indoor Outdoor Tree Porch Yard Garden Party",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo1MjE4ODgzODY3Njk2MTI2OjE3OTI2ODU0ODE6c3BfZGV0YWlsX3RoZW1hdGljOjMwMTQ0NDIwNzE3MjAwMjo6Ojo&url=%2Fdp%2FB0H8RW1298%2Fref%3Dsspa_dk_detail_1%3Fpsc%3D1%26pd_rd_i%3DB0H8RW1298%26pd_rd_w%3DcvKd3%26content-id%3Damzn1.sym.3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_p%3D3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_r%3DS57JNBC4FVZVVDX3R4YN%26pd_rd_wg%3DUvVko%26pd_rd_r%3Dd516bb7a-7390-4f46-8ffd-9b0e3ff64633%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM",
+        "link_clean": "https://www.amazon.com/dp/B0H8RW1298/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0H8RW1298&device=tablet&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "badges": [
+          "Limited time deal"
+        ],
+        "thumbnail": "https://m.media-amazon.com/images/I/71x7msn9PoL._AC_UF480,480_SR480,480_.jpg",
+        "rating": 4.2,
+        "reviews": 74,
+        "discount": "-21%",
+        "price": "$30.99",
+        "extracted_price": 30.99,
+        "old_price": "null"
+      },
+      {
+        "position": 3,
+        "asin": "B0DCSHCVKP",
+        "title": "Halloween Decorations Outdoor, 2PCS 79\" Scary Giant Spiders, Party Decor. | Halloween Party Decorations, Large Haunted House Props,Yard Lawn Decorations Indoor Black 7FT",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo1MjE4ODgzODY3Njk2MTI2OjE3OTI2ODU0ODE6c3BfZGV0YWlsX3RoZW1hdGljOjMwMTQ5OTgwNDQ3MjEwMjo6Ojo&url=%2Fdp%2FB0DCSHCVKP%2Fref%3Dsspa_dk_detail_2%3Fpsc%3D1%26pd_rd_i%3DB0DCSHCVKP%26pd_rd_w%3DcvKd3%26content-id%3Damzn1.sym.3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_p%3D3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_r%3DS57JNBC4FVZVVDX3R4YN%26pd_rd_wg%3DUvVko%26pd_rd_r%3Dd516bb7a-7390-4f46-8ffd-9b0e3ff64633%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM",
+        "link_clean": "https://www.amazon.com/dp/B0DCSHCVKP/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0DCSHCVKP&device=tablet&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "badges": [
+          "Amazon's Choice",
+          "Limited time deal"
+        ],
+        "thumbnail": "https://m.media-amazon.com/images/I/71pcc9PWALL._AC_UF480,480_SR480,480_.jpg",
+        "rating": 4.7,
+        "reviews": 146,
+        "discount": "-10%",
+        "price": "$12.95",
+        "extracted_price": 12.95,
+        "price_unit": "$6.48 / count",
+        "extracted_price_unit": 6.48,
+        "old_price": "null"
+      },
+      {
+        "position": 4,
+        "asin": "B0GYRV4GJR",
+        "title": "Crashing Witch Halloween Decor, 43in Tree Hugging Witch Yard Decoration | Halloween Decoration,Weatherproof Witch Decor, Funny Spooky Ornament for Tree Porch Yard Halloween Party Outdoor Decorations",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo1MjE4ODgzODY3Njk2MTI2OjE3OTI2ODU0ODE6c3BfZGV0YWlsX3RoZW1hdGljOjMwMTM3NTgxNzM3NTMwMjo6Ojo&url=%2Fdp%2FB0GYRV4GJR%2Fref%3Dsspa_dk_detail_3%3Fpsc%3D1%26pd_rd_i%3DB0GYRV4GJR%26pd_rd_w%3DcvKd3%26content-id%3Damzn1.sym.3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_p%3D3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_r%3DS57JNBC4FVZVVDX3R4YN%26pd_rd_wg%3DUvVko%26pd_rd_r%3Dd516bb7a-7390-4f46-8ffd-9b0e3ff64633%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM",
+        "link_clean": "https://www.amazon.com/dp/B0GYRV4GJR/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0GYRV4GJR&device=tablet&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "badges": [
+          "Limited time deal"
+        ],
+        "thumbnail": "https://m.media-amazon.com/images/I/91xZV84XokL._AC_UF480,480_SR480,480_.jpg",
+        "rating": 4.4,
+        "reviews": 23,
+        "discount": "-29%",
+        "price": "$9.99",
+        "extracted_price": 9.99,
+        "old_price": "null"
+      },
+      {
+        "position": 5,
+        "asin": "B0H45CNZMW",
+        "title": "Cheerland Ghost Garland Decorations Pixel Cute Boo Retro Vintage Halloween Decorations Halloween Party Decor Spooky One Ghost Hanging Banner Video Game Party Decor Pixelized Haunted House Decor",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo1MjE4ODgzODY3Njk2MTI2OjE3OTI2ODU0ODE6c3BfZGV0YWlsX3RoZW1hdGljOjMwMTU5ODM0ODc1NDEwMjo6Ojo&url=%2Fdp%2FB0H45CNZMW%2Fref%3Dsspa_dk_detail_4%3Fpsc%3D1%26pd_rd_i%3DB0H45CNZMW%26pd_rd_w%3DcvKd3%26content-id%3Damzn1.sym.3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_p%3D3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_r%3DS57JNBC4FVZVVDX3R4YN%26pd_rd_wg%3DUvVko%26pd_rd_r%3Dd516bb7a-7390-4f46-8ffd-9b0e3ff64633%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM",
+        "link_clean": "https://www.amazon.com/dp/B0H45CNZMW/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0H45CNZMW&device=tablet&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "badges": [
+          "Limited time deal"
+        ],
+        "thumbnail": "https://m.media-amazon.com/images/I/8136BWoA+TL._AC_UF480,480_SR480,480_.jpg",
+        "rating": 4.0,
+        "reviews": 2,
+        "discount": "-50%",
+        "price": "$6.49",
+        "extracted_price": 6.49,
+        "old_price": "null",
+        "save_with_coupon": "You pay $6.03"
+      },
+      {
+        "position": 6,
+        "asin": "B0GYRX6DS6",
+        "title": "Halloween Wall Decor, Gothic Set of 3, LED Candle Hands Indoor Decoration | Halloween Wall Decorations Set of 3, Gothic Reaching Hands with LED Candles, Life-Sized Horror Props for Indoor Outdoor Party",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo1MjE4ODgzODY3Njk2MTI2OjE3OTI2ODU0ODE6c3BfZGV0YWlsX3RoZW1hdGljOjMwMTM1NDkzMTk1MjIwMjo6Ojo&url=%2Fdp%2FB0GYRX6DS6%2Fref%3Dsspa_dk_detail_5%3Fpsc%3D1%26pd_rd_i%3DB0GYRX6DS6%26pd_rd_w%3DcvKd3%26content-id%3Damzn1.sym.3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_p%3D3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_r%3DS57JNBC4FVZVVDX3R4YN%26pd_rd_wg%3DUvVko%26pd_rd_r%3Dd516bb7a-7390-4f46-8ffd-9b0e3ff64633%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM",
+        "link_clean": "https://www.amazon.com/dp/B0GYRX6DS6/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0GYRX6DS6&device=tablet&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "badges": [
+          "Limited time deal"
+        ],
+        "thumbnail": "https://m.media-amazon.com/images/I/71YoJE2XUwL._AC_UF480,480_SR480,480_.jpg",
+        "rating": 4.1,
+        "reviews": 29,
+        "discount": "-10%",
+        "price": "$14.39",
+        "extracted_price": 14.39,
+        "old_price": "null"
+      },
+      {
+        "position": 7,
+        "asin": "B0H987WXW3",
+        "title": "79 × 89 Inch Hanging Ghosts Halloween Decor Large Ghost Decor | Spooky Face Swing G...",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo1MjE4ODgzODY3Njk2MTI2OjE3OTI2ODU0ODE6c3BfZGV0YWlsX3RoZW1hdGljOjMwMTU0MDg2NjcyMDQwMjo6Ojo&url=%2Fdp%2FB0H987WXW3%2Fref%3Dsspa_dk_detail_6%3Fpsc%3D1%26pd_rd_i%3DB0H987WXW3%26pd_rd_w%3DcvKd3%26content-id%3Damzn1.sym.3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_p%3D3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_r%3DS57JNBC4FVZVVDX3R4YN%26pd_rd_wg%3DUvVko%26pd_rd_r%3Dd516bb7a-7390-4f46-8ffd-9b0e3ff64633%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM",
+        "link_clean": "https://www.amazon.com/dp/B0H987WXW3/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0H987WXW3&device=tablet&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "badges": [
+          "Limited time deal"
+        ],
+        "thumbnail": "https://m.media-amazon.com/images/I/81cAoR7mhlL._AC_UF480,480_SR480,480_.jpg",
+        "rating": 1.0,
+        "reviews": 1,
+        "discount": "-20%",
+        "price": "$15.99",
+        "extracted_price": 15.99,
+        "old_price": "null",
+        "save_with_coupon": "You pay $14.39"
+      },
+      {
+        "position": 8,
+        "asin": "B0HFJ26KYZ",
+        "title": "HOMELEX 39.4in Halloween Hanging Foam Bat Decor, Black Spooky Party Prop | Large foam bat with raised wings and hand-pulled wing action creates a spooky doorway, porch, or party focal point",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MToyOTU4MTA4OTAwNzk2Nzk3OjE3OTI2ODU0ODE6c3BfZGV0YWlsMjozMDE1NjExMTk4NjExMDI6Ojo6&url=%2Fdp%2FB0HFJ26KYZ%2Fref%3Dsspa_dk_detail_0%3Fpsc%3D1%26pd_rd_i%3DB0HFJ26KYZ%26pd_rd_w%3D38PiI%26content-id%3Damzn1.sym.4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_p%3D4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_r%3DS57JNBC4FVZVVDX3R4YN%26pd_rd_wg%3DUvVko%26pd_rd_r%3Dd516bb7a-7390-4f46-8ffd-9b0e3ff64633%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+        "link_clean": "https://www.amazon.com/dp/B0HFJ26KYZ/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0HFJ26KYZ&device=tablet&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "thumbnail": "https://m.media-amazon.com/images/I/71PNX88sq0L._AC_UF480,480_SR480,480_.jpg",
+        "rating": 3.0,
+        "reviews": 2,
+        "discount": "-50%",
+        "price": "$14.99",
+        "extracted_price": 14.99,
+        "old_price": "null"
+      },
+      {
+        "position": 9,
+        "asin": "B0C9YZ2XDZ",
+        "title": "16Pcs Halloween Hanging Bats Decorations Outdoor, Large Flying Bats with Glowing Ey...",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MToyOTU4MTA4OTAwNzk2Nzk3OjE3OTI2ODU0ODE6c3BfZGV0YWlsMjozMDE1OTAyNjM1NzU1MDI6Ojo6&url=%2Fdp%2FB0C9YZ2XDZ%2Fref%3Dsspa_dk_detail_1%3Fpsc%3D1%26pd_rd_i%3DB0C9YZ2XDZ%26pd_rd_w%3D38PiI%26content-id%3Damzn1.sym.4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_p%3D4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_r%3DS57JNBC4FVZVVDX3R4YN%26pd_rd_wg%3DUvVko%26pd_rd_r%3Dd516bb7a-7390-4f46-8ffd-9b0e3ff64633%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+        "link_clean": "https://www.amazon.com/dp/B0C9YZ2XDZ/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0C9YZ2XDZ&device=tablet&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "thumbnail": "https://m.media-amazon.com/images/I/81g5mzrvM2L._AC_UF480,480_SR480,480_.jpg",
+        "rating": 4.0,
+        "reviews": 119,
+        "price": "$9.99",
+        "extracted_price": 9.99
+      },
+      {
+        "position": 10,
+        "asin": "B0F1XFPZQV",
+        "title": "DR.DUDU 36 Pack Bats Halloween Decorations Indoor Bat Wall Decor | Light Up Green LED, Assorted Size, 3D Bat Stickers, for Bedroom Party Walls Bathroom Mirrors Garages Door, Indoor/Outdoor Use",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MToyOTU4MTA4OTAwNzk2Nzk3OjE3OTI2ODU0ODE6c3BfZGV0YWlsMjozMDEzOTA5MDgzMDE3MDI6Ojo6&url=%2Fdp%2FB0F1XFPZQV%2Fref%3Dsspa_dk_detail_2%3Fpsc%3D1%26pd_rd_i%3DB0F1XFPZQV%26pd_rd_w%3D38PiI%26content-id%3Damzn1.sym.4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_p%3D4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_r%3DS57JNBC4FVZVVDX3R4YN%26pd_rd_wg%3DUvVko%26pd_rd_r%3Dd516bb7a-7390-4f46-8ffd-9b0e3ff64633%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+        "link_clean": "https://www.amazon.com/dp/B0F1XFPZQV/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0F1XFPZQV&device=tablet&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "thumbnail": "https://m.media-amazon.com/images/I/71jJB1pbBPL._AC_UF480,480_SR480,480_.jpg",
+        "rating": 3.6,
+        "reviews": 702,
+        "discount": "-40%",
+        "price": "$13.79",
+        "extracted_price": 13.79,
+        "price_unit": "$0.38 / count",
+        "extracted_price_unit": 0.38,
+        "old_price": "null"
+      },
+      {
+        "position": 11,
+        "asin": "B0B76W28LG",
+        "title": "(18 Pcs) Hanging Bats Halloween Decoration Outside, Large Flying Plastic Bats Outdo...",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MToyOTU4MTA4OTAwNzk2Nzk3OjE3OTI2ODU0ODE6c3BfZGV0YWlsMjozMDE0NzAwMTYxNzY4MDI6Ojo6&url=%2Fdp%2FB0B76W28LG%2Fref%3Dsspa_dk_detail_3%3Fpsc%3D1%26pd_rd_i%3DB0B76W28LG%26pd_rd_w%3D38PiI%26content-id%3Damzn1.sym.4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_p%3D4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_r%3DS57JNBC4FVZVVDX3R4YN%26pd_rd_wg%3DUvVko%26pd_rd_r%3Dd516bb7a-7390-4f46-8ffd-9b0e3ff64633%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+        "link_clean": "https://www.amazon.com/dp/B0B76W28LG/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0B76W28LG&device=tablet&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "badges": [
+          "Limited time deal"
+        ],
+        "thumbnail": "https://m.media-amazon.com/images/I/71xPgEXcoFL._AC_UF480,480_SR480,480_.jpg",
+        "rating": 4.4,
+        "reviews": 499,
+        "discount": "-33%",
+        "price": "$9.99",
+        "extracted_price": 9.99,
+        "price_unit": "$0.56 / count",
+        "extracted_price_unit": 0.56,
+        "old_price": "null"
+      },
+      {
+        "position": 12,
+        "asin": "B0B1H2KZCC",
+        "title": "Halloween Bats Decorations Wall Decor 140pcs Black PVC Bat Stickers | Halloween Reu...",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MToyOTU4MTA4OTAwNzk2Nzk3OjE3OTI2ODU0ODE6c3BfZGV0YWlsMjozMDAwMzg4MDQ0Mzg2MDI6Ojo6&url=%2Fdp%2FB0B1H2KZCC%2Fref%3Dsspa_dk_detail_4%3Fpsc%3D1%26pd_rd_i%3DB0B1H2KZCC%26pd_rd_w%3D38PiI%26content-id%3Damzn1.sym.4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_p%3D4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_r%3DS57JNBC4FVZVVDX3R4YN%26pd_rd_wg%3DUvVko%26pd_rd_r%3Dd516bb7a-7390-4f46-8ffd-9b0e3ff64633%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+        "link_clean": "https://www.amazon.com/dp/B0B1H2KZCC/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0B1H2KZCC&device=tablet&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "badges": [
+          "#1 Best Seller"
+        ],
+        "thumbnail": "https://m.media-amazon.com/images/I/71ka1WYb0qL._AC_UF480,480_SR480,480_.jpg",
+        "rating": 4.5,
+        "reviews": 2114,
+        "price": "$6.99",
+        "extracted_price": 6.99
+      },
+      {
+        "position": 13,
+        "asin": "B07KJL5FXV",
+        "title": "Y- STOP Upgraded Flame Light Bulbs, 4 Modes Flickering Light Bulb Outdoor with Upside Down Effect, E26 Base Flame Bulb for Christmas Decorations Outdoor, Halloween Lights, Party Decor (2 Pack)",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MToyOTU4MTA4OTAwNzk2Nzk3OjE3OTI2ODU0ODE6c3BfZGV0YWlsMjozMDE0ODk0OTk3NTcxMDI6Ojo6&url=%2Fdp%2FB07KJL5FXV%2Fref%3Dsspa_dk_detail_5%3Fpsc%3D1%26pd_rd_i%3DB07KJL5FXV%26pd_rd_w%3D38PiI%26content-id%3Damzn1.sym.4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_p%3D4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_r%3DS57JNBC4FVZVVDX3R4YN%26pd_rd_wg%3DUvVko%26pd_rd_r%3Dd516bb7a-7390-4f46-8ffd-9b0e3ff64633%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+        "link_clean": "https://www.amazon.com/dp/B07KJL5FXV/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B07KJL5FXV&device=tablet&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "badges": [
+          "Limited time deal"
+        ],
+        "thumbnail": "https://m.media-amazon.com/images/I/71w-K+KyMCL._AC_UF480,480_SR480,480_.jpg",
+        "rating": 4.4,
+        "reviews": 9936,
+        "discount": "-15%",
+        "price": "$11.87",
+        "extracted_price": 11.87,
+        "price_unit": "$5.94 / count",
+        "extracted_price_unit": 5.94,
+        "old_price": "null",
+        "climate_pledge_friendly": true
+      },
+      {
+        "position": 14,
+        "asin": "B0CB6HDTCH",
+        "title": "5Pack Halloween Spiderweb Tablecloth Runner Fireplace Scarf Lampshade Bats | Hallow...",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MToyOTU4MTA4OTAwNzk2Nzk3OjE3OTI2ODU0ODE6c3BfZGV0YWlsMjozMDA4NzgxNDQxMjYxMDI6Ojo6&url=%2Fdp%2FB0CB6HDTCH%2Fref%3Dsspa_dk_detail_6%3Fpsc%3D1%26pd_rd_i%3DB0CB6HDTCH%26pd_rd_w%3D38PiI%26content-id%3Damzn1.sym.4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_p%3D4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_r%3DS57JNBC4FVZVVDX3R4YN%26pd_rd_wg%3DUvVko%26pd_rd_r%3Dd516bb7a-7390-4f46-8ffd-9b0e3ff64633%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+        "link_clean": "https://www.amazon.com/dp/B0CB6HDTCH/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0CB6HDTCH&device=tablet&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "thumbnail": "https://m.media-amazon.com/images/I/91wNHyEyEcL._AC_UF480,480_SR480,480_.jpg",
+        "rating": 4.7,
+        "reviews": 368,
+        "price": "$19.99",
+        "extracted_price": 19.99,
+        "save_with_coupon": "You pay $15.99"
+      }
+    ],
+    "related_product_sections": [
+      {
+        "title": "Deals on related products",
+        "items": [
+          {
+            "position": 1,
+            "asin": "B0B3WXJSB6",
+            "title": "Halloween Wood Felt Bat Garland for Halloween Decorations Indoor | Farmhouse Bat Ga...",
+            "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo1MjE4ODgzODY3Njk2MTI2OjE3OTI2ODU0ODE6c3BfZGV0YWlsX3RoZW1hdGljOjMwMDAyMDcxOTI1MzYwMjo6Ojo&url=%2Fdp%2FB0B3WXJSB6%2Fref%3Dsspa_dk_detail_0%3Fpsc%3D1%26pd_rd_i%3DB0B3WXJSB6%26pd_rd_w%3DcvKd3%26content-id%3Damzn1.sym.3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_p%3D3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_r%3DS57JNBC4FVZVVDX3R4YN%26pd_rd_wg%3DUvVko%26pd_rd_r%3Dd516bb7a-7390-4f46-8ffd-9b0e3ff64633%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM",
+            "link_clean": "https://www.amazon.com/dp/B0B3WXJSB6/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0B3WXJSB6&device=tablet&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "badges": [
+              "Limited time deal"
+            ],
+            "thumbnail": "https://m.media-amazon.com/images/I/71sdr3Ji56L._AC_UF480,480_SR480,480_.jpg",
+            "rating": 4.6,
+            "reviews": 742,
+            "discount": "-25%",
+            "price": "$5.99",
+            "extracted_price": 5.99,
+            "old_price": "null"
+          },
+          {
+            "position": 2,
+            "asin": "B0H8RW1298",
+            "title": "3 Pack Pre-Assembled Hanging Ghosts Halloween Decorations with Warm Glow,Ghost Decor with Remote Timer & Upgraded Double-Layer Sheet, Swinging Ghost for Indoor Outdoor Tree Porch Yard Garden Party",
+            "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo1MjE4ODgzODY3Njk2MTI2OjE3OTI2ODU0ODE6c3BfZGV0YWlsX3RoZW1hdGljOjMwMTQ0NDIwNzE3MjAwMjo6Ojo&url=%2Fdp%2FB0H8RW1298%2Fref%3Dsspa_dk_detail_1%3Fpsc%3D1%26pd_rd_i%3DB0H8RW1298%26pd_rd_w%3DcvKd3%26content-id%3Damzn1.sym.3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_p%3D3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_r%3DS57JNBC4FVZVVDX3R4YN%26pd_rd_wg%3DUvVko%26pd_rd_r%3Dd516bb7a-7390-4f46-8ffd-9b0e3ff64633%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM",
+            "link_clean": "https://www.amazon.com/dp/B0H8RW1298/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0H8RW1298&device=tablet&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "badges": [
+              "Limited time deal"
+            ],
+            "thumbnail": "https://m.media-amazon.com/images/I/71x7msn9PoL._AC_UF480,480_SR480,480_.jpg",
+            "rating": 4.2,
+            "reviews": 74,
+            "discount": "-21%",
+            "price": "$30.99",
+            "extracted_price": 30.99,
+            "old_price": "null"
+          },
+          {
+            "position": 3,
+            "asin": "B0DCSHCVKP",
+            "title": "Halloween Decorations Outdoor, 2PCS 79\" Scary Giant Spiders, Party Decor. | Halloween Party Decorations, Large Haunted House Props,Yard Lawn Decorations Indoor Black 7FT",
+            "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo1MjE4ODgzODY3Njk2MTI2OjE3OTI2ODU0ODE6c3BfZGV0YWlsX3RoZW1hdGljOjMwMTQ5OTgwNDQ3MjEwMjo6Ojo&url=%2Fdp%2FB0DCSHCVKP%2Fref%3Dsspa_dk_detail_2%3Fpsc%3D1%26pd_rd_i%3DB0DCSHCVKP%26pd_rd_w%3DcvKd3%26content-id%3Damzn1.sym.3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_p%3D3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_r%3DS57JNBC4FVZVVDX3R4YN%26pd_rd_wg%3DUvVko%26pd_rd_r%3Dd516bb7a-7390-4f46-8ffd-9b0e3ff64633%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM",
+            "link_clean": "https://www.amazon.com/dp/B0DCSHCVKP/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0DCSHCVKP&device=tablet&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "badges": [
+              "Amazon's Choice",
+              "Limited time deal"
+            ],
+            "thumbnail": "https://m.media-amazon.com/images/I/71pcc9PWALL._AC_UF480,480_SR480,480_.jpg",
+            "rating": 4.7,
+            "reviews": 146,
+            "discount": "-10%",
+            "price": "$12.95",
+            "extracted_price": 12.95,
+            "price_unit": "$6.48 / count",
+            "extracted_price_unit": 6.48,
+            "old_price": "null"
+          },
+          {
+            "position": 4,
+            "asin": "B0GYRV4GJR",
+            "title": "Crashing Witch Halloween Decor, 43in Tree Hugging Witch Yard Decoration | Halloween Decoration,Weatherproof Witch Decor, Funny Spooky Ornament for Tree Porch Yard Halloween Party Outdoor Decorations",
+            "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo1MjE4ODgzODY3Njk2MTI2OjE3OTI2ODU0ODE6c3BfZGV0YWlsX3RoZW1hdGljOjMwMTM3NTgxNzM3NTMwMjo6Ojo&url=%2Fdp%2FB0GYRV4GJR%2Fref%3Dsspa_dk_detail_3%3Fpsc%3D1%26pd_rd_i%3DB0GYRV4GJR%26pd_rd_w%3DcvKd3%26content-id%3Damzn1.sym.3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_p%3D3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_r%3DS57JNBC4FVZVVDX3R4YN%26pd_rd_wg%3DUvVko%26pd_rd_r%3Dd516bb7a-7390-4f46-8ffd-9b0e3ff64633%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM",
+            "link_clean": "https://www.amazon.com/dp/B0GYRV4GJR/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0GYRV4GJR&device=tablet&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "badges": [
+              "Limited time deal"
+            ],
+            "thumbnail": "https://m.media-amazon.com/images/I/91xZV84XokL._AC_UF480,480_SR480,480_.jpg",
+            "rating": 4.4,
+            "reviews": 23,
+            "discount": "-29%",
+            "price": "$9.99",
+            "extracted_price": 9.99,
+            "old_price": "null"
+          },
+          {
+            "position": 5,
+            "asin": "B0H45CNZMW",
+            "title": "Cheerland Ghost Garland Decorations Pixel Cute Boo Retro Vintage Halloween Decorations Halloween Party Decor Spooky One Ghost Hanging Banner Video Game Party Decor Pixelized Haunted House Decor",
+            "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo1MjE4ODgzODY3Njk2MTI2OjE3OTI2ODU0ODE6c3BfZGV0YWlsX3RoZW1hdGljOjMwMTU5ODM0ODc1NDEwMjo6Ojo&url=%2Fdp%2FB0H45CNZMW%2Fref%3Dsspa_dk_detail_4%3Fpsc%3D1%26pd_rd_i%3DB0H45CNZMW%26pd_rd_w%3DcvKd3%26content-id%3Damzn1.sym.3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_p%3D3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_r%3DS57JNBC4FVZVVDX3R4YN%26pd_rd_wg%3DUvVko%26pd_rd_r%3Dd516bb7a-7390-4f46-8ffd-9b0e3ff64633%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM",
+            "link_clean": "https://www.amazon.com/dp/B0H45CNZMW/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0H45CNZMW&device=tablet&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "badges": [
+              "Limited time deal"
+            ],
+            "thumbnail": "https://m.media-amazon.com/images/I/8136BWoA+TL._AC_UF480,480_SR480,480_.jpg",
+            "rating": 4.0,
+            "reviews": 2,
+            "discount": "-50%",
+            "price": "$6.49",
+            "extracted_price": 6.49,
+            "old_price": "null",
+            "save_with_coupon": "You pay $6.03"
+          },
+          {
+            "position": 6,
+            "asin": "B0GYRX6DS6",
+            "title": "Halloween Wall Decor, Gothic Set of 3, LED Candle Hands Indoor Decoration | Halloween Wall Decorations Set of 3, Gothic Reaching Hands with LED Candles, Life-Sized Horror Props for Indoor Outdoor Party",
+            "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo1MjE4ODgzODY3Njk2MTI2OjE3OTI2ODU0ODE6c3BfZGV0YWlsX3RoZW1hdGljOjMwMTM1NDkzMTk1MjIwMjo6Ojo&url=%2Fdp%2FB0GYRX6DS6%2Fref%3Dsspa_dk_detail_5%3Fpsc%3D1%26pd_rd_i%3DB0GYRX6DS6%26pd_rd_w%3DcvKd3%26content-id%3Damzn1.sym.3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_p%3D3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_r%3DS57JNBC4FVZVVDX3R4YN%26pd_rd_wg%3DUvVko%26pd_rd_r%3Dd516bb7a-7390-4f46-8ffd-9b0e3ff64633%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM",
+            "link_clean": "https://www.amazon.com/dp/B0GYRX6DS6/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0GYRX6DS6&device=tablet&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "badges": [
+              "Limited time deal"
+            ],
+            "thumbnail": "https://m.media-amazon.com/images/I/71YoJE2XUwL._AC_UF480,480_SR480,480_.jpg",
+            "rating": 4.1,
+            "reviews": 29,
+            "discount": "-10%",
+            "price": "$14.39",
+            "extracted_price": 14.39,
+            "old_price": "null"
+          },
+          {
+            "position": 7,
+            "asin": "B0H987WXW3",
+            "title": "79 × 89 Inch Hanging Ghosts Halloween Decor Large Ghost Decor | Spooky Face Swing G...",
+            "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo1MjE4ODgzODY3Njk2MTI2OjE3OTI2ODU0ODE6c3BfZGV0YWlsX3RoZW1hdGljOjMwMTU0MDg2NjcyMDQwMjo6Ojo&url=%2Fdp%2FB0H987WXW3%2Fref%3Dsspa_dk_detail_6%3Fpsc%3D1%26pd_rd_i%3DB0H987WXW3%26pd_rd_w%3DcvKd3%26content-id%3Damzn1.sym.3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_p%3D3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_r%3DS57JNBC4FVZVVDX3R4YN%26pd_rd_wg%3DUvVko%26pd_rd_r%3Dd516bb7a-7390-4f46-8ffd-9b0e3ff64633%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM",
+            "link_clean": "https://www.amazon.com/dp/B0H987WXW3/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0H987WXW3&device=tablet&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "badges": [
+              "Limited time deal"
+            ],
+            "thumbnail": "https://m.media-amazon.com/images/I/81cAoR7mhlL._AC_UF480,480_SR480,480_.jpg",
+            "rating": 1.0,
+            "reviews": 1,
+            "discount": "-20%",
+            "price": "$15.99",
+            "extracted_price": 15.99,
+            "old_price": "null",
+            "save_with_coupon": "You pay $14.39"
+          }
+        ]
+      },
+      {
+        "title": "Products related to this item",
+        "items": [
+          {
+            "position": 1,
+            "asin": "B0HFJ26KYZ",
+            "title": "HOMELEX 39.4in Halloween Hanging Foam Bat Decor, Black Spooky Party Prop | Large foam bat with raised wings and hand-pulled wing action creates a spooky doorway, porch, or party focal point",
+            "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MToyOTU4MTA4OTAwNzk2Nzk3OjE3OTI2ODU0ODE6c3BfZGV0YWlsMjozMDE1NjExMTk4NjExMDI6Ojo6&url=%2Fdp%2FB0HFJ26KYZ%2Fref%3Dsspa_dk_detail_0%3Fpsc%3D1%26pd_rd_i%3DB0HFJ26KYZ%26pd_rd_w%3D38PiI%26content-id%3Damzn1.sym.4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_p%3D4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_r%3DS57JNBC4FVZVVDX3R4YN%26pd_rd_wg%3DUvVko%26pd_rd_r%3Dd516bb7a-7390-4f46-8ffd-9b0e3ff64633%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+            "link_clean": "https://www.amazon.com/dp/B0HFJ26KYZ/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0HFJ26KYZ&device=tablet&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "thumbnail": "https://m.media-amazon.com/images/I/71PNX88sq0L._AC_UF480,480_SR480,480_.jpg",
+            "rating": 3.0,
+            "reviews": 2,
+            "discount": "-50%",
+            "price": "$14.99",
+            "extracted_price": 14.99,
+            "old_price": "null"
+          },
+          {
+            "position": 2,
+            "asin": "B0C9YZ2XDZ",
+            "title": "16Pcs Halloween Hanging Bats Decorations Outdoor, Large Flying Bats with Glowing Ey...",
+            "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MToyOTU4MTA4OTAwNzk2Nzk3OjE3OTI2ODU0ODE6c3BfZGV0YWlsMjozMDE1OTAyNjM1NzU1MDI6Ojo6&url=%2Fdp%2FB0C9YZ2XDZ%2Fref%3Dsspa_dk_detail_1%3Fpsc%3D1%26pd_rd_i%3DB0C9YZ2XDZ%26pd_rd_w%3D38PiI%26content-id%3Damzn1.sym.4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_p%3D4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_r%3DS57JNBC4FVZVVDX3R4YN%26pd_rd_wg%3DUvVko%26pd_rd_r%3Dd516bb7a-7390-4f46-8ffd-9b0e3ff64633%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+            "link_clean": "https://www.amazon.com/dp/B0C9YZ2XDZ/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0C9YZ2XDZ&device=tablet&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "thumbnail": "https://m.media-amazon.com/images/I/81g5mzrvM2L._AC_UF480,480_SR480,480_.jpg",
+            "rating": 4.0,
+            "reviews": 119,
+            "price": "$9.99",
+            "extracted_price": 9.99
+          },
+          {
+            "position": 3,
+            "asin": "B0F1XFPZQV",
+            "title": "DR.DUDU 36 Pack Bats Halloween Decorations Indoor Bat Wall Decor | Light Up Green LED, Assorted Size, 3D Bat Stickers, for Bedroom Party Walls Bathroom Mirrors Garages Door, Indoor/Outdoor Use",
+            "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MToyOTU4MTA4OTAwNzk2Nzk3OjE3OTI2ODU0ODE6c3BfZGV0YWlsMjozMDEzOTA5MDgzMDE3MDI6Ojo6&url=%2Fdp%2FB0F1XFPZQV%2Fref%3Dsspa_dk_detail_2%3Fpsc%3D1%26pd_rd_i%3DB0F1XFPZQV%26pd_rd_w%3D38PiI%26content-id%3Damzn1.sym.4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_p%3D4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_r%3DS57JNBC4FVZVVDX3R4YN%26pd_rd_wg%3DUvVko%26pd_rd_r%3Dd516bb7a-7390-4f46-8ffd-9b0e3ff64633%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+            "link_clean": "https://www.amazon.com/dp/B0F1XFPZQV/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0F1XFPZQV&device=tablet&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "thumbnail": "https://m.media-amazon.com/images/I/71jJB1pbBPL._AC_UF480,480_SR480,480_.jpg",
+            "rating": 3.6,
+            "reviews": 702,
+            "discount": "-40%",
+            "price": "$13.79",
+            "extracted_price": 13.79,
+            "price_unit": "$0.38 / count",
+            "extracted_price_unit": 0.38,
+            "old_price": "null"
+          },
+          {
+            "position": 4,
+            "asin": "B0B76W28LG",
+            "title": "(18 Pcs) Hanging Bats Halloween Decoration Outside, Large Flying Plastic Bats Outdo...",
+            "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MToyOTU4MTA4OTAwNzk2Nzk3OjE3OTI2ODU0ODE6c3BfZGV0YWlsMjozMDE0NzAwMTYxNzY4MDI6Ojo6&url=%2Fdp%2FB0B76W28LG%2Fref%3Dsspa_dk_detail_3%3Fpsc%3D1%26pd_rd_i%3DB0B76W28LG%26pd_rd_w%3D38PiI%26content-id%3Damzn1.sym.4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_p%3D4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_r%3DS57JNBC4FVZVVDX3R4YN%26pd_rd_wg%3DUvVko%26pd_rd_r%3Dd516bb7a-7390-4f46-8ffd-9b0e3ff64633%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+            "link_clean": "https://www.amazon.com/dp/B0B76W28LG/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0B76W28LG&device=tablet&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "badges": [
+              "Limited time deal"
+            ],
+            "thumbnail": "https://m.media-amazon.com/images/I/71xPgEXcoFL._AC_UF480,480_SR480,480_.jpg",
+            "rating": 4.4,
+            "reviews": 499,
+            "discount": "-33%",
+            "price": "$9.99",
+            "extracted_price": 9.99,
+            "price_unit": "$0.56 / count",
+            "extracted_price_unit": 0.56,
+            "old_price": "null"
+          },
+          {
+            "position": 5,
+            "asin": "B0B1H2KZCC",
+            "title": "Halloween Bats Decorations Wall Decor 140pcs Black PVC Bat Stickers | Halloween Reu...",
+            "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MToyOTU4MTA4OTAwNzk2Nzk3OjE3OTI2ODU0ODE6c3BfZGV0YWlsMjozMDAwMzg4MDQ0Mzg2MDI6Ojo6&url=%2Fdp%2FB0B1H2KZCC%2Fref%3Dsspa_dk_detail_4%3Fpsc%3D1%26pd_rd_i%3DB0B1H2KZCC%26pd_rd_w%3D38PiI%26content-id%3Damzn1.sym.4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_p%3D4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_r%3DS57JNBC4FVZVVDX3R4YN%26pd_rd_wg%3DUvVko%26pd_rd_r%3Dd516bb7a-7390-4f46-8ffd-9b0e3ff64633%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+            "link_clean": "https://www.amazon.com/dp/B0B1H2KZCC/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0B1H2KZCC&device=tablet&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "badges": [
+              "#1 Best Seller"
+            ],
+            "thumbnail": "https://m.media-amazon.com/images/I/71ka1WYb0qL._AC_UF480,480_SR480,480_.jpg",
+            "rating": 4.5,
+            "reviews": 2114,
+            "price": "$6.99",
+            "extracted_price": 6.99
+          },
+          {
+            "position": 6,
+            "asin": "B07KJL5FXV",
+            "title": "Y- STOP Upgraded Flame Light Bulbs, 4 Modes Flickering Light Bulb Outdoor with Upside Down Effect, E26 Base Flame Bulb for Christmas Decorations Outdoor, Halloween Lights, Party Decor (2 Pack)",
+            "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MToyOTU4MTA4OTAwNzk2Nzk3OjE3OTI2ODU0ODE6c3BfZGV0YWlsMjozMDE0ODk0OTk3NTcxMDI6Ojo6&url=%2Fdp%2FB07KJL5FXV%2Fref%3Dsspa_dk_detail_5%3Fpsc%3D1%26pd_rd_i%3DB07KJL5FXV%26pd_rd_w%3D38PiI%26content-id%3Damzn1.sym.4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_p%3D4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_r%3DS57JNBC4FVZVVDX3R4YN%26pd_rd_wg%3DUvVko%26pd_rd_r%3Dd516bb7a-7390-4f46-8ffd-9b0e3ff64633%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+            "link_clean": "https://www.amazon.com/dp/B07KJL5FXV/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B07KJL5FXV&device=tablet&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "badges": [
+              "Limited time deal"
+            ],
+            "thumbnail": "https://m.media-amazon.com/images/I/71w-K+KyMCL._AC_UF480,480_SR480,480_.jpg",
+            "rating": 4.4,
+            "reviews": 9936,
+            "discount": "-15%",
+            "price": "$11.87",
+            "extracted_price": 11.87,
+            "price_unit": "$5.94 / count",
+            "extracted_price_unit": 5.94,
+            "old_price": "null",
+            "climate_pledge_friendly": true
+          },
+          {
+            "position": 7,
+            "asin": "B0CB6HDTCH",
+            "title": "5Pack Halloween Spiderweb Tablecloth Runner Fireplace Scarf Lampshade Bats | Hallow...",
+            "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MToyOTU4MTA4OTAwNzk2Nzk3OjE3OTI2ODU0ODE6c3BfZGV0YWlsMjozMDA4NzgxNDQxMjYxMDI6Ojo6&url=%2Fdp%2FB0CB6HDTCH%2Fref%3Dsspa_dk_detail_6%3Fpsc%3D1%26pd_rd_i%3DB0CB6HDTCH%26pd_rd_w%3D38PiI%26content-id%3Damzn1.sym.4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_p%3D4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_r%3DS57JNBC4FVZVVDX3R4YN%26pd_rd_wg%3DUvVko%26pd_rd_r%3Dd516bb7a-7390-4f46-8ffd-9b0e3ff64633%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+            "link_clean": "https://www.amazon.com/dp/B0CB6HDTCH/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0CB6HDTCH&device=tablet&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "thumbnail": "https://m.media-amazon.com/images/I/91wNHyEyEcL._AC_UF480,480_SR480,480_.jpg",
+            "rating": 4.7,
+            "reviews": 368,
+            "price": "$19.99",
+            "extracted_price": 19.99,
+            "save_with_coupon": "You pay $15.99"
+          }
+        ]
+      }
+    ],
+    "videos": [
+      {
+        "position": 1,
+        "title": "Realistic Halloween Bats Easy Halloween Wall Decor",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/63f666e4-b1a9-476f-89cc-39cdfe2f2423/embedded.cc.default.vertical.jobtemplate.hls.m3u8",
+        "thumbnail": "https://m.media-amazon.com/images/I/61KOL4xmSSL.jpg",
+        "duration": "0:51",
+        "vendor": "Candice Gurr",
+        "vendor_thumbnail": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SL34_.png",
+        "date": "Oct 14, 2026"
+      },
+      {
+        "position": 2,
+        "title": "Budget friendly and fun Halloween decor",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/878f271b-64bd-475e-b62f-8163c2bf7fb6/default.jobtemplate.hls.m3u8",
+        "thumbnail": "https://m.media-amazon.com/images/I/61sj3Xwp11L.jpg",
+        "duration": "0:37",
+        "vendor": "Nicole Weber",
+        "vendor_thumbnail": "https://m.media-amazon.com/images/I/91YXCmWPsVL._CR0,0,2316,2316_._FMjpg_._SL34_.jpg",
+        "date": "Sep 28, 2025"
+      },
+      {
+        "position": 3,
+        "title": "Watch THIS BEFORE buying these bat decorations!",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/78a16ab0-1d67-4b2e-b115-5b5e184398ef/default.vertical.jobtemplate.hls.m3u8",
+        "thumbnail": "https://m.media-amazon.com/images/I/91cl-16-ksL.png",
+        "duration": "0:39",
+        "vendor": "✅️Stephanie Reviews!",
+        "vendor_thumbnail": "https://m.media-amazon.com/images/I/91Zxc9AYwWL._CR0,0,1944,1944_._FMjpg_._SL34_.jpg",
+        "date": "Sep 5, 2025"
+      },
+      {
+        "position": 4,
+        "title": "AWESOME BAT DECORATIONS",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/869ed020-fe8e-44dd-b7df-808ba0c1f96a/default.vertical.jobtemplate.hls.m3u8",
+        "thumbnail": "https://m.media-amazon.com/images/I/51I+4O7IDGL.jpg",
+        "duration": "1:05",
+        "vendor": "Arfendly Bailey",
+        "vendor_thumbnail": "https://m.media-amazon.com/images/S/amazon-avatars-global/318ae8ab-1380-47cc-bce0-5c574c3bd82d._CR0%2C0%2C1125%2C1125_SX460_._SL34_.jpg",
+        "date": "Oct 26, 2025"
+      },
+      {
+        "position": 5,
+        "title": "Easy & Bat-tastic!",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/4afe3d46-19e6-4c8d-bcfa-ec8b4f6db12e/embedded.cc.default.vertical.jobtemplate.hls.m3u8",
+        "thumbnail": "https://m.media-amazon.com/images/I/61j3p-vI9UL.jpg",
+        "duration": "0:13",
+        "vendor": "Prime Rock Princess",
+        "vendor_thumbnail": "https://m.media-amazon.com/images/S/amazon-avatars-global/8fbe45f4-9b66-4317-b6de-5eed6e70f91a._CR0%2C0%2C500%2C500_SX460_._SL34_.jpeg",
+        "date": "Oct 6, 2025"
+      },
+      {
+        "position": 6,
+        "title": "A must have. Love how they fold to add dimension!",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/fb4524a2-24c7-4158-ac09-7e48786ccd78/default.vertical.jobtemplate.hls.m3u8",
+        "thumbnail": "https://m.media-amazon.com/images/I/61qg7FUWqZL.jpg",
+        "duration": "0:56",
+        "vendor": "Taylor Christensen",
+        "vendor_thumbnail": "https://m.media-amazon.com/images/I/91mRxrvKrFL._CR0,0,2316,2316_._FMjpg_._SL34_.jpg",
+        "date": "Sep 22, 2025"
+      },
+      {
+        "position": 7,
+        "title": "let&#39;s decorate for Halloween. The kids will love these.",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/b6fad8de-7f1a-44bb-8f21-6e29df8119a7/default.jobtemplate.hls.m3u8",
+        "thumbnail": "https://m.media-amazon.com/images/I/41em1+hHnRL.jpg",
+        "duration": "1:42",
+        "vendor": "Lisa",
+        "vendor_thumbnail": "https://m.media-amazon.com/images/I/8155A7SmvcL._CR0,0,1283,1283_._FMjpg_._SL34_.jpg",
+        "date": "Oct 5, 2026"
+      },
+      {
+        "position": 8,
+        "title": "Do These Look Cute In Real Life?",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/7cb5d1fa-87ad-4c95-80ed-a72b03350038/default.jobtemplate.hls.m3u8",
+        "thumbnail": "https://m.media-amazon.com/images/I/710A7X41tKL.jpg",
+        "duration": "1:21",
+        "vendor": "Raphaela's Reviews",
+        "vendor_thumbnail": "https://m.media-amazon.com/images/I/71GnekuylKL._CR0,0,1000,1000_._FMjpg_._SL34_.jpg",
+        "date": "Sep 30, 2026"
+      },
+      {
+        "position": 9,
+        "title": "Classy spooky bat decor",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/bdb240ca-f5e7-4696-b69d-0672b0a3597a/embedded.cc.default.vertical.jobtemplate.hls.m3u8",
+        "thumbnail": "https://m.media-amazon.com/images/I/61McCmce40L.jpg",
+        "duration": "0:05",
+        "vendor": "Laura-ElephantJuice",
+        "vendor_thumbnail": "https://m.media-amazon.com/images/S/amazon-avatars-global/19667623-2d4f-4cb6-b83b-8fd0e9f2dbfa._CR0%2C0%2C364%2C364_UX460_._SL34_.jpg",
+        "date": "Dec 18, 2025"
+      },
+      {
+        "position": 10,
+        "title": "Simple way to add a little spooky atmosphere to your decor",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/ccd4c35d-098b-4a5d-9671-4f4afde5627b/default.jobtemplate.hls.m3u8",
+        "thumbnail": "https://m.media-amazon.com/images/I/91aufs31ysL.png",
+        "duration": "1:46",
+        "vendor": "Sparrow House Collective",
+        "vendor_thumbnail": "https://m.media-amazon.com/images/I/61ROwvLh7yL._CR0,0,590,590_._FMjpg_._SL34_.jpg",
+        "date": "Sep 29, 2026"
+      }
+    ],
+    "product_description": [
+      {
+        "position": 1,
+        "title": "bf",
+        "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/90c247d5-25dc-46bf-91aa-238344d01ec5.__CR0,0,1500,928_PT0_SX970_V1___.jpg"
+      },
+      {
+        "position": 2
+      },
+      {
+        "position": 3
+      },
+      {
+        "position": 4,
+        "title": "bf",
+        "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/4e0c2947-231d-4757-a6b5-73a587c9d61a.__CR0,1,1500,928_PT0_SX970_V1___.jpg"
+      },
+      {
+        "position": 5,
+        "title": "bf",
+        "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/03fb3e44-2ecb-4fbb-9f12-3aa27b365a57.__CR0,1,1500,928_PT0_SX970_V1___.jpg"
+      },
+      {
+        "position": 6,
+        "title": "1",
+        "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/d91b2a83-0d91-4bf1-b9d6-1b8bb00c519a.__CR0,1,1600,990_PT0_SX970_V1___.jpg"
+      },
+      {
+        "position": 7,
+        "compare_with_similar": [
+          {
+            "position": 1,
+            "asin": "B0GYTGMS6Z",
+            "title": "1200 sqft Spider Webs Halloween Decorations with 40 Fake Spiders",
+            "thumbnail": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/1fbdeb7a-d0b2-429a-ba91-e66b45e40cd5.__CR0,0,500,1000_PT0_SX150_V1___.jpg",
+            "link": "https://www.amazon.com/dp/B0GYTGMS6Z?ref=emc_s_m_5_i_atc",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0GYTGMS6Z&device=tablet&engine=amazon_product&language=en_US&shipping_location=US",
+            "rating": 4.4,
+            "reviews": 153,
+            "price": "$12.49",
+            "extracted_price": 12.49,
+            "color": "White",
+            "size": "1200 SqFt Stretch Area",
+            "quantity": "40 Plastic Spiders",
+            "material": "Stretchable Fiber Web"
+          },
+          {
+            "position": 2,
+            "asin": "B0GYT8RPB6",
+            "title": "1200 sqft Spider Webs Halloween Decorations with 40 Fake Spiders",
+            "thumbnail": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/32bb66e9-a917-460d-a12c-ed36fd8dccf5.__CR0,0,500,1000_PT0_SX150_V1___.jpg",
+            "link": "https://www.amazon.com/dp/B0GYT8RPB6?ref=emc_s_m_5_i_atc",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0GYT8RPB6&device=tablet&engine=amazon_product&language=en_US&shipping_location=US",
+            "rating": 4.4,
+            "reviews": 153,
+            "price": "$16.99",
+            "extracted_price": 16.99,
+            "color": "Black",
+            "size": "1200 SqFt Stretch Area",
+            "quantity": "40 Plastic Spiders",
+            "material": "Stretchable Fiber Web"
+          },
+          {
+            "position": 3,
+            "asin": "B0GYT54XJ3",
+            "title": "1200 sqft Spider Webs Halloween Decorations with 40 Fake Spiders",
+            "thumbnail": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/07aa43e1-cf32-4958-96c6-fadfdafdd3dd.__CR0,0,500,1000_PT0_SX150_V1___.jpg",
+            "link": "https://www.amazon.com/dp/B0GYT54XJ3?ref=emc_s_m_5_i_atc",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0GYT54XJ3&device=tablet&engine=amazon_product&language=en_US&shipping_location=US",
+            "rating": 4.4,
+            "reviews": 153,
+            "price": "$15.99",
+            "extracted_price": 15.99,
+            "color": "Green",
+            "size": "1200 SqFt Stretch Area",
+            "quantity": "40 Plastic Spiders",
+            "material": "Stretchable Fiber Web"
+          },
+          {
+            "position": 4,
+            "asin": "B0GYSVY7Q1",
+            "title": "1200 sqft Spider Webs Halloween Decorations with 40 Fake Spiders",
+            "thumbnail": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/6fd19d3f-ed6d-4a43-91f6-671b30e78a6f.__CR0,0,500,1000_PT0_SX150_V1___.jpg",
+            "link": "https://www.amazon.com/dp/B0GYSVY7Q1?ref=emc_s_m_5_i_atc",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0GYSVY7Q1&device=tablet&engine=amazon_product&language=en_US&shipping_location=US",
+            "rating": 4.4,
+            "reviews": 153,
+            "price": "$15.99",
+            "extracted_price": 15.99,
+            "color": "Orange",
+            "size": "1200 SqFt Stretch Area",
+            "quantity": "40 Plastic Spiders",
+            "material": "Stretchable Fiber Web"
+          },
+          {
+            "position": 5,
+            "asin": "B0GYTB6LCW",
+            "title": "1200 sqft Spider Webs Halloween Decorations with 40 Fake Spiders",
+            "thumbnail": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/96a762e0-314b-4c31-bd92-cb3a9d412a7e.__CR0,0,500,1000_PT0_SX150_V1___.jpg",
+            "link": "https://www.amazon.com/dp/B0GYTB6LCW?ref=emc_s_m_5_i_atc",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0GYTB6LCW&device=tablet&engine=amazon_product&language=en_US&shipping_location=US",
+            "rating": 4.4,
+            "reviews": 153,
+            "price": "— no data",
+            "color": "Purple",
+            "size": "1200 SqFt Stretch Area",
+            "quantity": "40 Plastic Spiders",
+            "material": "Stretchable Fiber Web"
+          },
+          {
+            "position": 6,
+            "asin": "B0H1LBQ51W",
+            "title": "96Pcs Bats Halloween Decorations Party Supplies",
+            "thumbnail": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/7f2e70ad-e0e3-4d0c-836b-b3ea8bdf4ca4.__CR0,0,500,1000_PT0_SX150_V1___.jpg",
+            "link": "https://www.amazon.com/dp/B0H1LBQ51W?ref=emc_s_m_5_i_atc",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0H1LBQ51W&device=tablet&engine=amazon_product&language=en_US&shipping_location=US",
+            "rating": 4.6,
+            "reviews": 1302,
+            "price": "$13.99",
+            "extracted_price": 13.99,
+            "color": "Black",
+            "size": "5 Different Sizes",
+            "quantity": "96 Pcs Bats",
+            "material": "PVC"
+          }
+        ]
+      }
+    ],
+    "product_details": {
+      "color": "Black",
+      "theme": "Halloween",
+      "subject_character": "Halloween",
+      "product_style": "Classic",
+      "item_form": "Peel And Stick",
+      "pattern": "bats",
+      "shape": "Irregular",
+      "animal_theme": "Bat",
+      "seasons": "Fall, Halloween",
+      "number_of_pieces": "140",
+      "unit_count": "140 Count",
+      "number_of_items": "140",
+      "size": "Standard",
+      "additional_features": "Custom, Removable, Reusable, Waterproof",
+      "embellishment_feature": "3d Realistic Design, Diy Decorative, Scary Bat Shape",
+      "reusability": "Reusable",
+      "brand_name": "Piteno",
+      "target_audience": "Adults celebrating Halloween, Young Adults and Children",
+      "set_name": "BF140",
+      "manufacturer": "Piteno",
+      "model_number": "BF140",
+      "manufacturer_part_number": "BF140",
+      "best_sellers_rank": [
+        {
+          "text": "#492 in Home & Kitchen (See Top 100 in Home & Kitchen)",
+          "extracted_rank": 492,
+          "link": "https://www.amazon.com/gp/bestsellers/home-garden/ref=pd_zg_ts_home-garden",
+          "link_text": "See Top 100 in Home & Kitchen"
+        },
+        {
+          "text": "#15 in Seasonal Décor",
+          "extracted_rank": 15,
+          "link": "https://www.amazon.com/gp/bestsellers/home-garden/13679381/ref=pd_zg_hrsr_home-garden",
+          "link_text": "Seasonal Décor"
+        }
+      ],
+      "asin": "B0F831L31B",
+      "customer_reviews": "4.6 out of 5 stars",
+      "rating": 4.6,
+      "reviews": 1302,
+      "surface_recommendation": "Wood, Glass, Metal, Plastic",
+      "recommended_uses_for_product": "Diy Crafts, Halloween Party Decoration, Holiday Decoration, Home Decor, Indoor Decoration, Wall Decoration, Window",
+      "indoor_outdoor_usage": "Indoor, Outdoor",
+      "material_type": "Plastic",
+      "finish_type": "Glossy"
+    },
+    "sponsored_brands": [
+      {
+        "position": 1,
+        "asin": "B0C452J5HT",
+        "title": "kakoya Flameless Floating Candles with Wand，20 Pcs Magic LED Hanging Taper Candles，Flickering Battery Operated Taper Candle with Wand Remote for Halloween Decorations Best Gift（White）",
+        "link": "https://aax-us-east-retail-direct.amazon.com/x/c/JKt8LUDp4nct7wwJWYWEdJUAAAGhZGGfAAEAAAH2AQBvbm9fdHhuX2JpZDEgICBvbm9fdHhuX2ltcDEgICA4wStq/clv1c_ek-wBff3FcTW3et7cOoEbugzmllWFnq5AE5yemKql25yvMQttSpT7iLEp9c1U6dFngLmpydM82-jwUu_VN9TU2vU3XyLBCnLbAroaBeEzK8mTwkobDX8ViHQUvlyvXR9eCBfvTAk3dpB99wZqpf-cRHfpc-81lbktsPaiw_qbIQaXweF3tQ_0lt9xQB7MP1ST5BJOWgTD-YIVS95uWCsofxqF1cXLDayVm5sI5Fl0Tpc6zDlAvEGwbfsBur7WWTZvkQbrUWjQtTblPW8dBqI0Kf6f0NLLZDIRqSXZj6mzCR_thdoH3aLi8pSNkcCSD6Tus8TSJSIMTtVKTdA_3DIkLXmU1HHgCjWStXc9i9Ff7NiIrOaG--wIh_QelN4cMP36i7F_uVn8c3YwuvKDZK6XL6oXfQ3iys9AZDVsNdrVxds18HmMnnxSNhASzM7n4mRaNuWO8-4fLokvdYvJ7xgMRkRJ9XYYBA6QJmRuNJm3dkOTkwliv8QJK8ytEYRgIngJvl9S7e0K46k2l0kQSVunTlEsmg1RxocSNyVDMjZvkJ89DpEbiECrnRg0vDFs4J5zx4fud6cfipA6Rn1J5JF93tTFv67LNbzoLpIvHbjaNikUH-ba0RZbSrdbYPH2DIWbW15QoegHgha7bVKteLyEffTE7A6sml7jUP7-Pj1JsJVob4fpVlEEYX1gJ8naamYSSZ8zRRjNM8WCLdRWD5fmjiimG0_RTvnOYjtBIHSuX_vSvn8PZP0mFHyeQgz-Jdi9WOAxHDlLkVuW8CKX6o-UFpmLOgThTHQfoDENiEPOiSvPerMntK_aajEFJdBLgSQKBW0JoMhKY9pHc3sCOzSc48czhSZYPjjrBbHLh2b2H-xgmUZ73bz_n_Wqof5mzSNg0-1-xVdaNdj0oAAWndscak2RTCJbWoomx9e-oG96MU0hFZufBt0vxButHGSMocLeVatno47F1b_npo-eLJVyHQwuMgY7ycilxWe_UTG1oiJOnbAgJ1RqpmSNMsXbxqw2ocGfS1xA9Y1unDbw-zGaODp3jVDmEfh0Fg2XNqoKv5wx0eSMSzMEuhdvU-M7HuV2N4Sp3_AICs84r1-A6Fb-FCCqRM0kLQRitwLjGaR_tolbF7N0NpgtJrbgI_a2P9OGRY6IMHUBqns1nVx5bukPA2xoV1rnWdED9-6tAh5KiYZiJPjiz8-PrMRfue3oJHL4G1MnnA28NHnxvdhjF62vXcEQH78DFlmi-osu_1x9LKtDNZyzClTzFnj7jqH4K9XshPgJHWCCAB0AmzD6vOx_j_6ZlxhQgc98xk_joza34MxFAe_DT8vpGi-RxucP-1rcnnzfrCy2gu8mYoBnRMoAYsMBKb1CFvdjV9JQQ2tD0B5F66LXN8lmRz2-5ZLJNnTI-7S3oSCuzMFMO87CgA06z4EJ98w3KQf6HoxaS4Fh0kD1yFoT2CHKqfYOc-xAvcWBpQRMHF_w0fk9GvJpvZSlWF2OTbK3nntFa30ETnBVggnbbpKWIFSMx17Jo3bBUcTE8tlsP7dOeI62x_oDU1j2CwiBBlUsMc8sMv0uMc8C7Vd3OfZrr7Q1SxjMt2pv_1mOg/https://www.amazon.com/dp/B0C452J5HT/?_encoding=UTF8&pd_rd_i=B0C452J5HT&pd_rd_i=B0C452J5HT&ref_=sbx_be_s_sparkle_ssd_cta&pd_rd_w=q2hAz&content-id=amzn1.sym.fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=S57JNBC4FVZVVDX3R4YN&pd_rd_wg=UvVko&pd_rd_r=d516bb7a-7390-4f46-8ffd-9b0e3ff64633",
+        "link_clean": "https://www.amazon.com/dp/B0C452J5HT/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0C452J5HT&device=tablet&engine=amazon_product&language=en_US&shipping_location=US",
+        "thumbnail": "https://m.media-amazon.com/images/I/51qmUAcuG9L._AC_SR100,100_QL65_.jpg",
+        "video": {
+          "link": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/5e184f86-f881-4f10-b64e-33ced99488eb.mp4/productVideoOptimized.mp4",
+          "thumbnail": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/5e184f86-f881-4f10-b64e-33ced99488eb.mp4/r/THUMBNAIL_1080P_FRAME_3_CAPTURE_2.JPG"
+        },
+        "rating": 4.3,
+        "reviews": 1124,
+        "price": "$29.99",
+        "extracted_price": 29.99
+      },
+      {
+        "position": 2,
+        "asin": "B0924L7552",
+        "title": "CCINEE 3D Halloween Hanging Bats Decoration,Large Glittery Bat Wall Decal Stickers for Halloween Party Decor Supply,36PCS",
+        "link": "https://aax-us-east-retail-direct.amazon.com/x/c/JAqqQ3gOwkyLNMJMGGsKmQoAAAGhZGGfAgEAAAH2AQBvbm9fdHhuX2JpZDEgICBvbm9fdHhuX2ltcDEgICD_nJVM/clv1c_ek-IBfHXFbbWzjK3YivOrRfcuXaZLo9pXMN9-Jk6mgHfNhqdltcj3Ng0gVpkYGWmv3IxfSrW8O2pIsu_nigBstdQXb3axIx_4h1MtAlZszQuhnBnrchCwu2Vxe0sJvI81P52obFp1Mbd6WTvEjMyyY1qSH3clFnyskWW_hZozYwCUVt93WyNZZ6vKFrvrJ4tmI1w9K8ePsVK3eP763K0sgtAr_MVJO4XPfbEY2-D4X7Dq8DUFPb26kM6_7l2u1f-xPlizqAu8hZerlPhV6AMsVPyyzeymXtzpesyNOF4lOs76SduvSkySU37n9AJV99gAW5i3o13MJSImFrPA_9FA8t71-Tzn7js7ge7m5B4awohJx3fk01TXF60CM42T4sxnsvdoo56xI5Wj4gWlqFPJT9Eg2NOmNtlYsi1S2PVHdD8OB7umLYGsrkNi-3MrndJDtao_BQ4x4IIAZXqH5yliW-m7a6L5a00-ywADg39nBIa3QzXnv6nZaHyyUiUJjGznr8Qz-OepHSTRBWQITtE4haz5LiaunDV8qPiLKzs4Aorm0sA3GlhMYwgLfGKgLdTN6KOiy372FuLotVSqsbMu6swHM9tmCSlHDxNm2nkxCIRrl1OJltryxMc4noRZ2g8G7ITJJPeBcS814Y2xNN4IgjNYJj_XKpk7dcjnn7xG9caNPx7uf6FbGgV3AIqzMsl0YYAvQ9QewblL8kR21yMCjRhJ6JVl5gc70_RVsP2tyM4b_2u-Qfq_VJVIMOOeXwB6oxRKZt66V_1_JifOHOROec02VMUAqBzlijwel5l4lf8jIWLpVAEN4jSaypH_EjPd4mz7LOeESJfU-YXJsxFP-m-j00GTuQ5S6VKN6BcNdt0zLua2jIXQNuorrBLkRnQiOJOGfFEajQoW0bcXM8Q9ZNPdlS-SaVS1bG6VkYp9Xfwj4cMuuQZSKNid4qEqZL4OkmRT45HNcFhB6bWXFiIDijMReSkUK0Anr47-Pl-W8Za5ZHueuMis8-RU_LNnY2fqHOm8IBHeTUpMtGBcqlo_KspixqkUry0ohOcHbrlH_wPe9mSVAGptV7LxlSdJ1kzvh-yAMya3yO5zlihl-58si4atuschFvkQZc7U_6FggtlUvzQVmXNES6IWyaqZfeaoas7RBf4XGKxi_6EjQSEixqoCkBXgMxaA6ss7fWgGd3hcPjKS4Oo2B3hnEI8cMFmsOSN6c5GUl6sHr_33R5M_8ygwSO6qOmV2J0j_NujacUwwV2QSJc8GOlYjIo6LmgndUVb5wg5sGGaRqPA_UaUS7Osn9jkhp2OgTgvjOC9cV6dAaZuztb5HDUAdmnQd_CPkMhhw--NiGJx-CyiJenjakjjzwWM7MJXIQDKuf_GtIoCV2mdCWrbn8k0S_za2Cpb4ZhUqsaJsGXZnOctEuSTJrd43yFakWCXndIHPrRtKwB2zRRI-3_HaEbRGfkAf-PKIVDM5y50RUlvvAWaj-GU3MTLH_h1yH9zmPy73pbfH3dZytr3ZKZ8SDVjl5lITebGmuGUlPU3wxb0AtQch_1zA9waRNMYj-G-1Hket0dQMCvMEKFHNmdiaBfOpBoF94N440eIA6OjEFlvX90wPfesJaPjFfGpunU/https://www.amazon.com/dp/B0924L7552/?_encoding=UTF8&pd_rd_i=B0924L7552&pd_rd_i=B0924L7552&ref_=sbx_be_s_sparkle_ssd_cta&pd_rd_w=q2hAz&content-id=amzn1.sym.fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=S57JNBC4FVZVVDX3R4YN&pd_rd_wg=UvVko&pd_rd_r=d516bb7a-7390-4f46-8ffd-9b0e3ff64633",
+        "link_clean": "https://www.amazon.com/dp/B0924L7552/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0924L7552&device=tablet&engine=amazon_product&language=en_US&shipping_location=US",
+        "thumbnail": "https://m.media-amazon.com/images/I/51UkQPc+6nL._AC_SR100,100_QL65_.jpg",
+        "video": {
+          "link": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/8754f1af-8379-4553-9537-562c1fa7f5d6.mp4/productVideoOptimized.mp4",
+          "thumbnail": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/8754f1af-8379-4553-9537-562c1fa7f5d6.mp4/r/THUMBNAIL_360P_FRAME_3_CAPTURE_2.JPG"
+        },
+        "rating": 4.6,
+        "reviews": 497,
+        "price": "$6.99",
+        "extracted_price": 6.99,
+        "old_price": "$7.99",
+        "extracted_old_price": 7.99
+      },
+      {
+        "position": 3,
+        "asin": "B0F1XFPZQV",
+        "title": "DR.DUDU 36 Pack Bats Halloween Decorations Indoor Bat Wall Decor | Light Up Green LED, Assorted Size, 3D Bat Stickers, for Bedroom Party Walls Bathroom Mirrors Garages Door, Indoor/Outdoor Use",
+        "link": "https://aax-us-east-retail-direct.amazon.com/x/c/JK9uph4W1ZjJqy40BFx5KRYAAAGhZGGfAwEAAAH2AQBvbm9fdHhuX2JpZDEgICBvbm9fdHhuX2ltcDEgICDO1EN8/clv1c_ek-IxfX3VcbWTfWXjyWX7umWmlAkb3hzxvYwhdjxyCE3zGzeBl4xWcLRVcutj6DvbFGSUjM2BwZa36bngkOsgJNPtQqNI0PgqI-PbA0dvP1QhxUqG8Q1OF0V4PdiBpLzV2GALJRp3asuu02fB71UUkJWqunUFlbhhvT85ydLzAsVfTOtfyKTs1pkQYYKRqtLLBDCfLlbfkZM1ueTslXwKsy_NG13LGa8muF1zT72Nt3Rz3f4w-dtX1xUXV3A83vLB01Lr7w_iRVfZutQZ2L3hiOne8V81wi-BYQFMyE5q-c337ojcArQwX42ivMaITZkI5E6tWdr56ATRkIBkMVt691xUhSn0yQjT1MC7g03cphytFEKowBrA226qsDomZ2vC3h_WVi2YRH1cI9VAO_ktaq0r4LHpiC7tW4GSnDausxW7zuLJkO9RxUgC7u_42VJ3pkrz91jlMCqZnNbsOlkHP7Yj3p6ijhjZ45gXtt0qhl7Rxybg_tmZupF0eTJDny3MFf9k-YpELoz20HS-61-YlHBxsK_Nue3r12hw-_mRAb_mdzoXPzDgXgfdVTzcDqkPw1v8btyGfz-XOCKN-IBeDWiry9knC42IKxmVbamhELcB4euumMY_28mP16xnH1TiYDSHS6V9FShOIOB0VsnuP55QCuEvzbG_1ggUm-0Hbjz8oEMYdVYPSt5egKurMiXGH1JUHRSOE8KBNfGHtLDMRIYibagfAYwpX6CYUjpJU8wUUVudrpzu6iO-e_WDTfyzb7IELjQkR3DpVbTSBEQ_d-FeqlwqKS4ZIjby9tg22jpOvJZ_BfWNO8zHuaRnzr2rCrpg2x-rVY1fJWKBM1CEqYD8cRLhwda47oxlp0DDF456aWF-_o3X7PTAAUyRnwU1piNDfKul8EYu3SC1s-t__pu5APq4kyzpBHlRQoJRoXwgzQE3YklAzOsukAJY4mcUcF66TZPrOqTgG8gg-0eUGBq1DvTNOAkmbWUpdxngv0skrGQLu9lVi-K_Tiexk5rrQYFbycZ-JtnFGEuct8Ibl9KGWCstq8jaAP3TgEeFrkn8z07qkdhWkIV88bE4lvLLioSl2o0mIxCo0-3h7CtRRIEK7-6bBuPy631p05gWC5UQhIH_YAVIH6i4EreuR2neteV_TIYm_XQCxwLWHwSeJuRU198sekItqjiH_XcGLjMjbnqt8KwUr8smihdpRPQ61f6c33xgChJDUK2_Zhtx05zwoOqKXTwPC5fGgg2LF50NLEiY9yAvebijennFuhPRZVX_hVB-pQFvOFMaBrh5ssPFF5-5xEbeKsrSBeBWzXZnWnJ0FbFqDlvRJNke3ihgVqEvADSx2LqlhKEBUJn7ehHMlbNddJXpQXSuWs8CT-Irkg6sB7XgmABOoSrSsWcz8vNY2fjm--qIbcjjMEZUrMtO_nyCOSYHY2FKpTj-x8JNflCH3rNZbq5ZPOQFn4IsidEXk6rnfh2EAo3YOsQGciOF6L4FiKJBYToorsinhfJ8hTCk_zBMeaiNiWFmO7nWp1w9BeQbEZ7BC0Ay9iOK2d1KngB6vX1XM0him7Yz03AjH0YJ92pxgVefgLXomHOthCWCvSsvh4WOhYPHazUToTHSsXfK6Y/https://www.amazon.com/dp/B0F1XFPZQV/?_encoding=UTF8&pd_rd_i=B0F1XFPZQV&pd_rd_i=B0F1XFPZQV&ref_=sbx_be_s_sparkle_ssd_cta&pd_rd_w=q2hAz&content-id=amzn1.sym.fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=S57JNBC4FVZVVDX3R4YN&pd_rd_wg=UvVko&pd_rd_r=d516bb7a-7390-4f46-8ffd-9b0e3ff64633",
+        "link_clean": "https://www.amazon.com/dp/B0F1XFPZQV/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0F1XFPZQV&device=tablet&engine=amazon_product&language=en_US&shipping_location=US",
+        "thumbnail": "https://m.media-amazon.com/images/I/51sZpMdHmvL._AC_SR100,100_QL65_.jpg",
+        "video": {
+          "link": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/a012fbcc-8f73-4ae8-82c0-71e1ae27e242.mp4/productVideoOptimized.mp4",
+          "thumbnail": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/a012fbcc-8f73-4ae8-82c0-71e1ae27e242.mp4/r/THUMBNAIL_360P_FRAME_3_CAPTURE_2.JPG"
+        },
+        "rating": 3.6,
+        "reviews": 702,
+        "price": "$13.79",
+        "extracted_price": 13.79,
+        "old_price": "$22.99",
+        "extracted_old_price": 22.99
+      },
+      {
+        "position": 4,
+        "asin": "B07TLWRZTT",
+        "title": "LUDILO 100Pcs Bats Halloween Decorations: Halloween Bats Wall Décor Sticker | PVC 3D Bats Wall Stickers, Scary Halloween Party Decorations Indoor Outdoor, DIY Home/Window/Door/Décor, Fall Décor",
+        "link": "https://aax-us-east-retail-direct.amazon.com/x/c/JPXE70HBGKQ3tRKJcNe8kpwAAAGhZGGfBQEAAAH2AQBvbm9fdHhuX2JpZDEgICBvbm9fdHhuX2ltcDEgICAL-zNc/clv1c_ek-YBfHXEsTW3uLbkz9lydv98LgzLJYvU2BcfhzqakjreNMbjSxsIEfx2YaUGHOrhCw9i8K1vPejv9zca6KhC-M87w8XZ7zZGXj36xMjxO-6nzBzss8D12_p5BmU5PFfAAfSrKE4mSVROQ1bxe5SkgGbI924ZpXqxWVySDKG6lZ_mO9DAte6UjY5bnLltZxuNpUVqshKARH8DdBV94gUtvu7XJn_JG6mo9N0OF3s0zzWE4LpiEkYVYOsqdqalgaP07WcBAjGsUAqjl0ot7EgCMdwPUkLTa7B6u8m6CbrQVrNK3NAbMUnN-2IZtQCjUcWN4l0V5dx44kF0C-5Df_ZNILt6L7yH1WA9qkpJRl6_v5iW9KeCKDblQqO1DmW1aNTJ50pfSJOvbTn04cxrRbYNjHuZJB_uBPkYdkBSgKDuoDFTGJR2qED5RoT0Lwc8fgAJSuf3317oaVTfqFenYMx7Jqp_rdE6Kdj0uDRq5fA9pHy0IyrL4QQEib18WYMsazC_xbZOhRPRMbRz-_4y6V4fYaaeClS94h2MPXIuAd3G8dMEmrH4xr6GE9YZkn_dX5zdsSPapzJG7tAD5q5ur75D4WmRglMS_yFWsPg9ZgVWEz0uuP9OIGz7clw6IGtY-POE6CV6eq2rbnIXVf_6SWFuDq6u5CQ1Su0iG69JDNYvZ1JkLfuSs_ZcsalYWmVDa2qpD6abx3phkbbG70r3oM3WX1xFgj2nQo2Q-l0dwmHrcXIedYGC6ibrw-CDalh2SxhRwRdnFhJj6e9UUn89LjTcKG3g_qEQrLkQ_vNU-A0nX2CAgH7wL12emnQG2Eg2kFmyahdRbyVKDjXdOfjdNC2qBIre8SOlizcyR2RAJUDrb8T7RD9u2JQi3JEg3LUpZxLTCxwR12XJnZQfjAiivcWVD1c7OnPMvPTE16aVw8vNbcH0s_Xd_bphTzeZ_kOp0rHkuen6nvmazrmwkwOxOmoV3KKl4FHk_9Igj_7Mtgn4b5LYTUG0acIuee0DMIT9ENkR2gi6ReMK48XPCQjSxrcw03jLlPYgDQEGdho_IVgzbGQ1y0fPOax7h3lMSWKuAavV4j7A2na7CGji0_QeknpKbU5NU0iNKbHbwCwZWPrU6fVht-_HHyvRhmeVeQupiyHtkxQr5O5iK_s4uO-OnNk85Li5moLgmInADSOF3XaC9-xLyLkugDlHFkwmeWJ49TbOo_rQTexA_5bo5drPx4PFe_7Ug6sIEUNAXJMeiSrfzFXzvfwHdQL-_7Gc7bbwIHZwv2UqnoqZ2ItKC7XcpcKmjpC-j_Epkj5Qa5dzIgAkl_G4Hc-iB_0JgjGlT0ppJLyDh1muYwc4K9gi9vxJYNbH5jiH-jT4z_3fNZbNxxv0CFt5oE67gJBtYiwRIQksE33gWzxKYxFajQP11haOq4HDaowZnvjyNM27JJqVraIvr8K_Zyiczdfl9vWAh0rSz6NCbMv1MuXu2sMS5Z0te8qSF8vZjuvBFDAO3RLav02H9P6slEiUEPyGUjjQaP-dZw6X6Gczzg9AfLbw_7xi-eiQ9bYHMpBM84cNF3cTfVV2nQhKGdYdDkL6B1uLoITKrraD4RPrkXZdFzxuzBRKavLYOSUPQ/https://www.amazon.com/dp/B07TLWRZTT/?_encoding=UTF8&pd_rd_i=B07TLWRZTT&pd_rd_i=B07TLWRZTT&ref_=sbx_be_s_sparkle_ssd_cta&pd_rd_w=q2hAz&content-id=amzn1.sym.fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=S57JNBC4FVZVVDX3R4YN&pd_rd_wg=UvVko&pd_rd_r=d516bb7a-7390-4f46-8ffd-9b0e3ff64633",
+        "link_clean": "https://www.amazon.com/dp/B07TLWRZTT/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B07TLWRZTT&device=tablet&engine=amazon_product&language=en_US&shipping_location=US",
+        "thumbnail": "https://m.media-amazon.com/images/I/519jovR5m-L._AC_SR100,100_QL65_.jpg",
+        "video": {
+          "link": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/ee195e4d-a070-4362-bb8b-39e4b2595f51.mp4/productVideoOptimized.mp4",
+          "thumbnail": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/ee195e4d-a070-4362-bb8b-39e4b2595f51.mp4/r/THUMBNAIL_360P_FRAME_3_CAPTURE_2.JPG"
+        },
+        "rating": 4.5,
+        "reviews": 10177,
+        "price": "$6.99",
+        "extracted_price": 6.99
+      },
+      {
+        "position": 5,
+        "asin": "B0DZNR1RD3",
+        "title": "DIYASY 144 Pcs Pink Bats Wall Decor, Halloween 3D Bats Decorations Outside Blush & Black PVC Bat Cutouts Sticky Plastic Pink Decals for Home Indoor Outdoor Window Door Party Supplies",
+        "link": "https://aax-us-east-retail-direct.amazon.com/x/c/JNErn-_npxoUTWsURTo6cs4AAAGhZGGfBgEAAAH2AQBvbm9fdHhuX2JpZDEgICBvbm9fdHhuX2ltcDEgICAyxg2V/clv1c_ek-YBfHXFbbWzjK3YivOrRfcuXaZLo9pXMP78S2kngHfw8R0qI4N75aJS0Bovkfhp5lOfWqQ_P-HK0gTVNf90f-Z4KFD7mWy-Sk4HglhLP1wSGmDGnkGzVvr8PX0Z_Y36vgH_YSnEWFHbmucZi8yXbLp4V-UngVqkQ22TjehxPLfGegU44ep3KBDzY1r-Sypq24qbElJEw94dSWb9c3AIfj-SN6zguh0h5PoGnElaLHCij5tA0gbwmMKdCWMZ7eevlPcSRvoZEU_MgbXSB2CvwhHvliiqbIXCbk0WpLS8RAcQ9dU1i1iuK5fkHwlzFj55bP3bNER5IB7c1pUV0QWoqTtUQD7gAjSEsVcy68EbdV_3h_pSJLsFCUWj3m5QC0ZUm2gSn2DSrhxU89SyNbjORjo68QnpNZ_M9wL10MpXbrAjlnyDuFQrkyIhGdrWH-EeRkhkbHTnbjLyuLkaeQyJU0CjL56lDjj11KxNEkmflKtbTaLh3HgZ21tWk8hGfB0MU_7M8mzQu6tcG1oF4IeU2TbjPkMM2RMPVBoy2-DX46DfCYgMcAO0Nf5HUgoC0W0z31fEbrXStOSzekuJG52pfi0Iq8anu41MOxTNzwU5_8GeSUcZYGvHJ4YAr6wjD1cibZdZIJY9Jced-3oBiBJ42qa9qNqAKqXt8fr1GpMaZA4OEIMjUS6neG1j2e6-LFpQxXqTA3zdMyfSAhBRSgbAwYU6jp_Hrw9lCuNYrWsOfroaX4GRo4vVVwUcbrsqcCmu8pvKqtiAdW6WVuTKeDxmt6znDbD4yt8W7y2KkaYWAkkPXW8V96Tir0WL4Ac6VCe3bVHAOT7aJ_c4ux0TliG7JLff-ute2U3aQPuor7-9xb_rN8nmJhZJxf9CPcLwk4XoZmVJx9me8nIcW6KxUqkHvoT0-Zs_RTFh4eHK-i9Ac35kcEPSXYXMVSxwkWo-X0_ArzhvHMqZFb9TDUq6VgvJ4Nrxcr5jnw_v9IIAlbNyngJG0l8iIClvuaVw23VTtzKPIEMrR5__EHTZa_3YeX-y3vf4SMLvDlzrqcalSLk13XUYYg6CcjVjKJPbJjFGni-wKsVl1PwK4agMYlJ6aUtWywwWgmy24lPgFrFzKxeczikMR_SXRuLJh3W1cOquBoFjFG7R-NEOYBjaZ5giFbIqJgbTDxijiKSg2zRrKh9sYqBhbL7az8-542Q1ilKcAR0y6OqIxUcvkcxHCEGLi7esFJHhp4VvPYwNrI0GPwM8bu6bzU4fka2eRSQZXrWod2OSagTXaBy_1wuU1vFZYh8rj8cbzA7UG851WkyGJ_zVgqS0sUfGcCaIsL79PucW9CI3wC3XvV9u9CjHE5CL6J-OJRvv7BZUNB-gNpwO5e6B9ax_4G4uWDjRdv68bOzNJQaHkUun3TiWf8kj-TBFjVkN5OKPQ8_ElBUn1H0hP2VXBpHkFd0DlE9jdUAurniDh5kCsEppw5_HEwq55EtXE2nloMLOHx0MPUkUwksugFIVyHSo87VkQZq4otiJvetC-AtXa8kVZnktBSK_Frwr-621qXUIXLRGVYXveYDUoOO3Ym_u6wHLLSeoau3hc6lHUokJSaG/https://www.amazon.com/dp/B0DZNR1RD3/?_encoding=UTF8&pd_rd_i=B0DZNR1RD3&pd_rd_i=B0DZNR1RD3&ref_=sbx_be_s_sparkle_ssd_cta&pd_rd_w=q2hAz&content-id=amzn1.sym.fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=S57JNBC4FVZVVDX3R4YN&pd_rd_wg=UvVko&pd_rd_r=d516bb7a-7390-4f46-8ffd-9b0e3ff64633",
+        "link_clean": "https://www.amazon.com/dp/B0DZNR1RD3/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0DZNR1RD3&device=tablet&engine=amazon_product&language=en_US&shipping_location=US",
+        "thumbnail": "https://m.media-amazon.com/images/I/41vxHmXZ0HL._AC_SR100,100_QL65_.jpg",
+        "video": {
+          "link": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/a7db615b-223c-4a5b-a8eb-e3bd518ad198.mp4/productVideoOptimized.mp4",
+          "thumbnail": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/a7db615b-223c-4a5b-a8eb-e3bd518ad198.mp4/r/THUMBNAIL_360P_FRAME_3_CAPTURE_2.JPG"
+        },
+        "rating": 4.5,
+        "reviews": 71,
+        "price": "$6.98",
+        "extracted_price": 6.98
+      }
+    ],
+    "reviews_information": {
+      "summary": {
+        "text": "Customers find these Halloween bat stickers easy to apply and appreciate their value for money, noting they're worth the price and come in several sizes. The appearance receives positive feedback, with customers saying they look exactly as pictured and make their houses look Halloween-themed. While some customers report the stickers stay in place for a week, others mention they fall off easily. The durability receives mixed reviews, with some finding them durable while others describe them as flimsy.",
+        "insights": [
+          {
+            "title": "Quality",
+            "sentiment": "positive",
+            "mentions": {
+              "total": 156,
+              "positive": 144,
+              "negative": 12
+            },
+            "summary": "Customers love these bat decorations and find them perfect for their needs.",
+            "examples": [
+              {
+                "position": 1,
+                "snippet": "They were great just needed to use different tape for them to stick Held up for Halloween Would definitely order again",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R2LMXQNXCDQ2TC"
+              },
+              {
+                "position": 2,
+                "snippet": "Love them, buy it every year a cheap cute decoration for Halloween",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/RPVLDOZ6W1PJT"
+              },
+              {
+                "position": 3,
+                "snippet": "Love these!! They are super easy and very affordable and they look really really cute!! My cat tries to knock them off the wall😂😂Great purchase!!",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/RTYT903ZP6QQA"
+              },
+              {
+                "position": 4,
+                "snippet": "Super cute and good quality but the foam sticky’s left a residue all over the wall/tore the paint off. You’re better off using tape or sticky puffy.",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R1M2WGIXMRN9SJ"
+              }
+            ]
+          },
+          {
+            "title": "Appearance",
+            "sentiment": "positive",
+            "mentions": {
+              "total": 123,
+              "positive": 122,
+              "negative": 1
+            },
+            "summary": "Customers love the appearance of these bats, describing them as beautiful Halloween decorations that make their houses look festive. One customer mentions they add a lot of volume to their Halloween decorations.",
+            "examples": [
+              {
+                "position": 1,
+                "snippet": "They are cute, but the package did not contain enough sticky pads to put all the bats up..... also they are falling off the walls a here and there,...",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R2J23F06OK4QFM"
+              },
+              {
+                "position": 2,
+                "snippet": "Super cute but you need to put each sticker onto each bat which took a lot of time considering I needed 100 bats for my garage door but they look...",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R3HIR255WJT1RS"
+              },
+              {
+                "position": 3,
+                "snippet": "Great quality, so cute, great size, and a great price 😊 my only issue is with the adhesive staying to the wall, but that’s mostly because I have dogs...",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R10WY1ABLWD3R8"
+              },
+              {
+                "position": 4,
+                "snippet": "Very cute, just flimsy. I wish they were a little more sturdy but they are doing the job",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/RZG78HEKYAKTX"
+              }
+            ]
+          },
+          {
+            "title": "Easy to apply",
+            "sentiment": "positive",
+            "mentions": {
+              "total": 85,
+              "positive": 82,
+              "negative": 3
+            },
+            "summary": "Customers find the bat stickers easy to apply, with multiple mentioning they are simple to put up and hang. One customer notes that the included glue sheet makes the process particularly convenient.",
+            "examples": [
+              {
+                "position": 1,
+                "snippet": "Great price for what you get, easy to use and easy to stick to walls for Halloween! I’m loving putting these up in my house for Halloween this year....",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R1LOVQEUE4S8RH"
+              },
+              {
+                "position": 2,
+                "snippet": "...They are waterproof so October rain won’t affect them and easy to put up. They come with little adhesive squares. I love how it turned out!",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R3AVOWKMEGG9NC"
+              },
+              {
+                "position": 3,
+                "snippet": "Cute and easy to apply bats perfect for Halloween decoration! I love that you can bend the wings or leave them completely flat....",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/RE4XUDYIXX4TQ"
+              },
+              {
+                "position": 4,
+                "snippet": "Quick and easy. So much easier than cutting them out myself. They lasted through the season and stuck through the wind....",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R1405UCXRAB1AT"
+              }
+            ]
+          },
+          {
+            "title": "Value for money",
+            "sentiment": "positive",
+            "mentions": {
+              "total": 61,
+              "positive": 57,
+              "negative": 4
+            },
+            "summary": "Customers find these bat stickers to be good value for money, offering great quality and quantity for the price.",
+            "examples": [
+              {
+                "position": 1,
+                "snippet": "Great quality, so cute, great size, and a great price 😊 my only issue is with the adhesive staying to the wall, but that’s mostly because I have dogs...",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R10WY1ABLWD3R8"
+              },
+              {
+                "position": 2,
+                "snippet": "...its given my place the spooky feel inside and out definitely worth the money it comes in variety of sizes from small to large....",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R1WBJQFEXMSF4"
+              },
+              {
+                "position": 3,
+                "snippet": "This item was great. Great value for the money. Would buy again or recommend.",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/RBT0N66Q3XM8T"
+              },
+              {
+                "position": 4,
+                "snippet": "...And the price is great for the look and variety. Worth it.",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R1WG4YDMAX9SFZ"
+              }
+            ]
+          },
+          {
+            "title": "Decoration",
+            "sentiment": "positive",
+            "mentions": {
+              "total": 55,
+              "positive": 55,
+              "negative": 0
+            },
+            "summary": "Customers find these bat stickers perfect for Halloween parties and decorating walls, with one customer mentioning they work well as an accent to wreaths.",
+            "examples": [
+              {
+                "position": 1,
+                "snippet": "These \"batty bats\" are super cute and fun! There are a lot of little guys, and we will most likely use them after Halloween as well!...",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R392DDY4D8LR35"
+              },
+              {
+                "position": 2,
+                "snippet": "These were fun to put up, our kids love them. They helped, even with my OCD. The different/variety of sizes is awesome!...",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R2VSVZ092ROVDO"
+              },
+              {
+                "position": 3,
+                "snippet": "...Perfect for Halloween!",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R17MJWJ3YHROC"
+              },
+              {
+                "position": 4,
+                "snippet": "Great decorations. Easy to put up and look terrific.",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R2F95CXW2RDEHY"
+              }
+            ]
+          },
+          {
+            "title": "Size options",
+            "sentiment": "positive",
+            "mentions": {
+              "total": 51,
+              "positive": 38,
+              "negative": 13
+            },
+            "summary": "Customers appreciate the variety of sizes available for these bat stickers, with one customer noting that the different sizes make them look super realistic.",
+            "examples": [
+              {
+                "position": 1,
+                "snippet": "Great quality, so cute, great size, and a great price 😊 my only issue is with the adhesive staying to the wall, but that’s mostly because I have dogs...",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R10WY1ABLWD3R8"
+              },
+              {
+                "position": 2,
+                "snippet": "...As pictured, there are a variety of sizes and shapes, and it was easy to \"design\" a flight pattern to fit a variety of settings...",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/RDI3UT3D61QAB"
+              },
+              {
+                "position": 3,
+                "snippet": "Small",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R1ZV1MJF87XPPF"
+              },
+              {
+                "position": 4,
+                "snippet": "...There's various sizes in the pack as the picture shows the largest and smallest size. I'm so excited!!!!",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/RUDMR8YS30LW2"
+              }
+            ]
+          },
+          {
+            "title": "Wall adhesion",
+            "sentiment": "mixed",
+            "mentions": {
+              "total": 95,
+              "positive": 54,
+              "negative": 41
+            },
+            "summary": "Customers have mixed experiences with the bats' wall adhesion: while some report they stick well and stay in place for about a week, others mention that they fall off easily and the adhesive quality is poor.",
+            "examples": [
+              {
+                "position": 1,
+                "snippet": "...I love that you can bend the wings or leave them completely flat. They stick well and are a great way to add decoration with very little effort!",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/RE4XUDYIXX4TQ"
+              },
+              {
+                "position": 2,
+                "snippet": "...enough sticky pads to put all the bats up..... also they are falling off the walls a here and there, but i would rather have that then the pads be...",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R2J23F06OK4QFM"
+              },
+              {
+                "position": 3,
+                "snippet": "...Lasted a month before I took them down. None fell, stick well. Thin plastic. I'm Happy",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R24N6PYTZSZ6LD"
+              },
+              {
+                "position": 4,
+                "snippet": "They fall off the wall.",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R2MP67W4YM4LUE"
+              }
+            ]
+          },
+          {
+            "title": "Durability",
+            "sentiment": "mixed",
+            "mentions": {
+              "total": 41,
+              "positive": 27,
+              "negative": 14
+            },
+            "summary": "Customers have mixed experiences with the durability of the bat stickers, with some finding them durable and lasting throughout, while others report they are not sturdy enough.",
+            "examples": [
+              {
+                "position": 1,
+                "snippet": "Durable, adhesive sticks well to wall, doesn't appear to harm paint or wall surface at this point.",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R6IZKPC1DWLDZ"
+              },
+              {
+                "position": 2,
+                "snippet": "Cute and decorative. Only a few have fallen, and we've had them up for about two weeks now. Not bad!",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R6KL1E9PTVPU0"
+              },
+              {
+                "position": 3,
+                "snippet": "...just a film residue behind, they are basically impossible to tear very durable, and there are also so many stickers and a lot of sizes over all a...",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/RR0HMLVJSRHFN"
+              },
+              {
+                "position": 4,
+                "snippet": "Long lasting",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R3I7GJQU7LJWEG"
+              }
+            ]
+          }
+        ],
+        "images": [
+          "https://m.media-amazon.com/images/I/613TkBQrr8L.jpg",
+          "https://m.media-amazon.com/images/I/71Eek+vButL.jpg",
+          "https://m.media-amazon.com/images/I/710mHMdZUhL.jpg",
+          "https://m.media-amazon.com/images/I/61r8oXdk+qL.jpg",
+          "https://m.media-amazon.com/images/I/612VFKzAkpL.jpg",
+          "https://m.media-amazon.com/images/I/61mPt3WaP2L.jpg",
+          "https://m.media-amazon.com/images/I/61HDs7xQq8L.jpg",
+          "https://m.media-amazon.com/images/I/71uiaCBBp5L.jpg",
+          "https://m.media-amazon.com/images/I/81bVQIhdDxL.jpg",
+          "https://m.media-amazon.com/images/I/5131-F+3QOL.jpg",
+          "https://m.media-amazon.com/images/I/51wu+5mPh2L.jpg",
+          "https://m.media-amazon.com/images/I/712PU7AdEgL.jpg"
+        ],
+        "customer_reviews": {
+          "5 star": 77,
+          "4 star": 13,
+          "3 star": 6,
+          "2 star": 2,
+          "1 star": 2
+        }
+      },
+      "authors_reviews": [
+        {
+          "position": 1,
+          "title": "The best bat decor",
+          "text": "Great quality, I order these every other year. Multiple different sizes. Easy to use and remove without ruining walls or cabinets.",
+          "rating": 5.0,
+          "date": "September 30, 2026",
+          "author": "Brittney",
+          "author_link": "https://www.amazon.com/gp/profile/amzn1.account.AF5EBYBWFTSIIQONXBPIC27B6X2A?ref=cm_cr_dp_d_bdcrb_top",
+          "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SX48_.png",
+          "verified_purchase": true,
+          "product": {
+            "size": "Standard"
+          }
+        },
+        {
+          "position": 2,
+          "title": "Durable & so easy!",
+          "text": "These bats are absolutely the greatest ever. They are so adorable long lasting easy to install anywhere or display anywhere. I absolutely love them and you get a ton of them. I’m so glad I took a chance on these. If they had other styles and other things I’m gonna research that cause I would buy those as well!",
+          "rating": 5.0,
+          "date": "September 4, 2026",
+          "author": "Too flimsy and soft. Doesn’t hug corners well.",
+          "author_link": "https://www.amazon.com/gp/profile/amzn1.account.AGMBQWT7SKELDL7OKX7YFKETIZYQ?ref=cm_cr_dp_d_bdcrb_top",
+          "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SX48_.png",
+          "images": [
+            "https://m.media-amazon.com/images/I/710avdyijeL.jpg"
+          ],
+          "helpful_votes": "8 people found this helpful",
+          "verified_purchase": true,
+          "product": {
+            "size": "Large"
+          }
+        },
+        {
+          "position": 3,
+          "title": "Cool bats",
+          "text": "These are very cool. They look very nice with our decorations. They stick great and you get enough to cover a big area. Highly recomend they seem very durable. I bet you can use them for years to come just might need extra double stick tape. Enjoy",
+          "rating": 5.0,
+          "date": "October 7, 2026",
+          "author": "Timothy G.",
+          "author_link": "https://www.amazon.com/gp/profile/amzn1.account.AGNZB34QIK2AXLIFVWUNLTR4DO5Q?ref=cm_cr_dp_d_bdcrb_top",
+          "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SX48_.png",
+          "helpful_votes": "One person found this helpful",
+          "verified_purchase": true,
+          "product": {
+            "size": "Large"
+          }
+        },
+        {
+          "position": 4,
+          "title": "Look Amazing, but Be Careful Removing Them",
+          "text": "These 3D PVC bat decorations look fantastic once they’re up — very realistic, lightweight, and they instantly make a space feel spooky and festive. The variety of sizes adds great depth, and they stick well to walls and doors.However, be careful when taking them down — the adhesive can pull paint off if you’re not gentle. Despite that, they’re still an awesome, dramatic decoration for Halloween parties or displays, just best used on surfaces where paint damage isn’t a concern. They stayed up for 4 plus weeks. They were fun to put up and definitely worth the cost.",
+          "rating": 4.0,
+          "date": "October 31, 2025",
+          "author": "Abigail",
+          "author_link": "https://www.amazon.com/gp/profile/amzn1.account.AHMB5WSTCLYVPBN37EZ7NCC456PA?ref=cm_cr_dp_d_bdcrb_top",
+          "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SX48_.png",
+          "helpful_votes": "One person found this helpful",
+          "verified_purchase": true,
+          "product": {
+            "size": "Standard"
+          }
+        },
+        {
+          "position": 5,
+          "title": "Awesome to die for",
+          "text": "This was so easily cute to apply its given my place the spooky feel inside and out definitely worth the money it comes in variety of sizes from small to large. You get itty bitty ones all the way up to larger ones a few inches across. Chose your pick. It can easily stick well. You can remove them in no time.",
+          "rating": 5.0,
+          "date": "October 5, 2026",
+          "author": "Christina Mattioli",
+          "author_link": "https://www.amazon.com/gp/profile/amzn1.account.AFCI5TNGRHKQCMWNU27K4VJTP6XQ?ref=cm_cr_dp_d_bdcrb_top",
+          "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SX48_.png",
+          "images": [
+            "https://m.media-amazon.com/images/I/710mHMdZUhL.jpg"
+          ],
+          "helpful_votes": "2 people found this helpful",
+          "verified_purchase": true,
+          "product": {
+            "size": "Large"
+          }
+        },
+        {
+          "position": 6,
+          "title": "Great fecorations",
+          "text": "Great decorations. Easy to put up and look terrific.",
+          "rating": 5.0,
+          "date": "October 5, 2026",
+          "author": "C. Slowik",
+          "author_link": "https://www.amazon.com/gp/profile/amzn1.account.AFRNU2FOVW4PHDGR3JFQO5VB54AQ?ref=cm_cr_dp_d_bdcrb_top",
+          "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SX48_.png",
+          "helpful_votes": "One person found this helpful",
+          "verified_purchase": true,
+          "product": {
+            "size": "Large"
+          }
+        },
+        {
+          "position": 7,
+          "title": "Great quality",
+          "text": "So perfect this is just a portion of them. They look exactly like the photos and what I love about it as I could remove them and re-put them back on and they’re still sticky and they don’t leave any residue.",
+          "rating": 5.0,
+          "date": "October 9, 2026",
+          "author": "Amazon Customer",
+          "author_link": "https://www.amazon.com/gp/profile/amzn1.account.AF5HBUOLGPMSL3HBZJRDESO2B6QA?ref=cm_cr_dp_d_bdcrb_top",
+          "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SX48_.png",
+          "images": [
+            "https://m.media-amazon.com/images/I/612VFKzAkpL.jpg"
+          ],
+          "helpful_votes": "One person found this helpful",
+          "verified_purchase": true,
+          "product": {
+            "size": "Standard"
+          }
+        },
+        {
+          "position": 8,
+          "title": "Inadequate adhesive",
+          "text": "The sticky adhesive to connect the bats to surfaces doesn't last very long.",
+          "rating": 3.0,
+          "date": "October 18, 2026",
+          "author": "Amazon Customer",
+          "author_link": "https://www.amazon.com/gp/profile/amzn1.account.AEZCNM3WEBMMNDEP3XOZFPRONYDA?ref=cm_cr_dp_d_bdcrb_top",
+          "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/3542c834-5a76-4a37-97f2-1421bf256ad3._CR81%2C0%2C338%2C338_SX460_SX48_.jpg",
+          "verified_purchase": true,
+          "product": {
+            "size": "Standard"
+          }
+        }
+      ]
+    }
+  }
+}

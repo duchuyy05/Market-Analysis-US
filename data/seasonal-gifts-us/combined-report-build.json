@@ -1,0 +1,22 @@
+{
+  "generated_at_utc": "2026-10-23T06:59:05.103235+00:00",
+  "mode": "combined_with_llm",
+  "input_sha256": "9d2aadc83ca60b05e9db965c7aff3eb820ec421942924c6b0183ff4e4fd4d829",
+  "analysis_sha256": "91ab9dfadc2737bdd28cb66651edbbcb3da8c942fa39b6fb2dccef02397addc4",
+  "llm_paragraphs": 10,
+  "llm_run": "llm-reports/2026-10-23T0350454912950000-e3de0c",
+  "llm_status": "partial",
+  "model": "recursive/flint-v1.0:free",
+  "warnings": [
+    "Phần LLM còn thiếu một số mục hoặc đã có đoạn bị loại sau khi đọc đối chiếu; không xem là phân tích hoàn chỉnh."
+  ],
+  "config_ideas_included": false,
+  "served_models": [
+    "recursive/flint-v1.0:free"
+  ],
+  "manual_review_recorded": true,
+  "outputs": [
+    "report-combined.md",
+    "report-combined.html"
+  ]
+}

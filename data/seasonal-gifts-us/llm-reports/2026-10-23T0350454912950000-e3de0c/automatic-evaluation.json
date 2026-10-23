@@ -1,0 +1,195 @@
+{
+  "model": "recursive/flint-v1.0:free",
+  "profile": "combined",
+  "started_at_utc": "2026-10-23T03:50:45.509541+00:00",
+  "input_sha256": "9d2aadc83ca60b05e9db965c7aff3eb820ec421942924c6b0183ff4e4fd4d829",
+  "baseline_sha256": "580cfe4fdade0c4cbc858b8d1748dd7443e4e6cc532580a02cf8e63b946f16db",
+  "analysis_sha256": "91ab9dfadc2737bdd28cb66651edbbcb3da8c942fa39b6fb2dccef02397addc4",
+  "run_directory": "llm-reports/2026-10-23T0350454912950000-e3de0c",
+  "max_calls": 6,
+  "calls": 4,
+  "attempts": [
+    {
+      "task": "halloween",
+      "attempt": 1,
+      "raw_file": "raw/openrouter-406a6da15f7dcb98410e.json",
+      "served_model": "recursive/flint-v1.0:free",
+      "usage": {
+        "prompt_tokens": 12338,
+        "completion_tokens": 5691,
+        "total_tokens": 18029,
+        "cost": 0,
+        "is_byok": false,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "audio_tokens": 0,
+          "video_tokens": 0
+        },
+        "cost_details": {
+          "upstream_inference_cost": 0,
+          "upstream_inference_prompt_cost": 0,
+          "upstream_inference_completions_cost": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 5826,
+          "image_tokens": 0,
+          "audio_tokens": 0
+        }
+      },
+      "finish_reason": "stop",
+      "accepted": 6,
+      "rejected": 0,
+      "missing_sections": [],
+      "network_calls": 1,
+      "elapsed_seconds": 41.24
+    },
+    {
+      "task": "thanksgiving",
+      "attempt": 1,
+      "raw_file": "raw/openrouter-585cf69ff35283d4b087.json",
+      "served_model": "recursive/flint-v1.0:free",
+      "usage": {
+        "prompt_tokens": 7491,
+        "completion_tokens": 7037,
+        "total_tokens": 14528,
+        "cost": 0,
+        "is_byok": false,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "audio_tokens": 0,
+          "video_tokens": 0
+        },
+        "cost_details": {
+          "upstream_inference_cost": 0,
+          "upstream_inference_prompt_cost": 0,
+          "upstream_inference_completions_cost": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 6992,
+          "image_tokens": 0,
+          "audio_tokens": 0
+        }
+      },
+      "finish_reason": "stop",
+      "accepted": 6,
+      "rejected": 0,
+      "missing_sections": [],
+      "network_calls": 1,
+      "elapsed_seconds": 56.27
+    },
+    {
+      "task": "christmas",
+      "attempt": 1,
+      "raw_file": "raw/openrouter-7afd33c8f2d2ec964000.json",
+      "served_model": "recursive/flint-v1.0:free",
+      "usage": {
+        "prompt_tokens": 11560,
+        "completion_tokens": 12295,
+        "total_tokens": 23855,
+        "cost": 0,
+        "is_byok": false,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "audio_tokens": 0,
+          "video_tokens": 0
+        },
+        "cost_details": {
+          "upstream_inference_cost": 0,
+          "upstream_inference_prompt_cost": 0,
+          "upstream_inference_completions_cost": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 12338,
+          "image_tokens": 0,
+          "audio_tokens": 0
+        }
+      },
+      "finish_reason": "stop",
+      "accepted": 6,
+      "rejected": 0,
+      "missing_sections": [],
+      "network_calls": 1,
+      "elapsed_seconds": 91.48
+    },
+    {
+      "task": "overview",
+      "attempt": 1,
+      "raw_file": "raw/openrouter-79b23daa712bd513c878.json",
+      "served_model": "recursive/flint-v1.0:free",
+      "usage": {
+        "prompt_tokens": 24505,
+        "completion_tokens": 10188,
+        "total_tokens": 34693,
+        "cost": 0,
+        "is_byok": false,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "audio_tokens": 0,
+          "video_tokens": 0
+        },
+        "cost_details": {
+          "upstream_inference_cost": 0,
+          "upstream_inference_prompt_cost": 0,
+          "upstream_inference_completions_cost": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 11744,
+          "image_tokens": 0,
+          "audio_tokens": 0
+        }
+      },
+      "finish_reason": "stop",
+      "accepted": 3,
+      "rejected": 0,
+      "missing_sections": [],
+      "network_calls": 1,
+      "elapsed_seconds": 71.78
+    }
+  ],
+  "warnings": [],
+  "prompt_sha256": "4c2ba339665931c7df8784a9d0d6163f0922ac560b2989ef467ba2e7432c1fef",
+  "automatic_checks": [
+    "known short evidence IDs",
+    "exact review quote",
+    "matching ASIN/family",
+    "no digits, URLs or HTML in Vietnamese paragraphs"
+  ],
+  "not_verified": [
+    "semantic correctness of every inference",
+    "Vietnamese naturalness",
+    "representativeness of reviews"
+  ],
+  "comparison_scope": "One model/run is not evidence that all free models are weaker or stronger than paid models. No paid model called.",
+  "status": "generated_needs_reading",
+  "accepted_paragraphs": 21,
+  "rejected_paragraphs": 0,
+  "sections": [
+    {
+      "id": "overview",
+      "title": "Tổng quan và hướng kiểm chứng tiếp theo",
+      "paragraphs": 3
+    },
+    {
+      "id": "halloween",
+      "title": "Quà và đồ trang trí Halloween",
+      "paragraphs": 6
+    },
+    {
+      "id": "thanksgiving",
+      "title": "Đồ trang trí bàn tiệc Thanksgiving",
+      "paragraphs": 6
+    },
+    {
+      "id": "christmas",
+      "title": "Quà và đồ trang trí Noel",
+      "paragraphs": 6
+    }
+  ],
+  "finished_at_utc": "2026-10-23T03:55:06.281807+00:00",
+  "elapsed_seconds": 260.77,
+  "reported_cost_usd": 0
+}

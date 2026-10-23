@@ -1,0 +1,795 @@
+{
+  "provider": "serpapi",
+  "endpoint": "https://serpapi.com/search.json",
+  "parameters": {
+    "engine": "amazon_product",
+    "asin": "B0HDSY9X4M",
+    "amazon_domain": "amazon.com",
+    "language": "en_US",
+    "shipping_location": "US",
+    "output": "json"
+  },
+  "fetched_at_utc": "2026-10-22T08:43:22.318028+00:00",
+  "raw_file": "raw/serpapi-8367bb073e640cbd583d.json",
+  "response": {
+    "search_metadata": {
+      "id": "6ad9ccab136b1a01ba2b59c3",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/VWTpA3ZpanGhuQmJEdtGq7GxA4ew73uieG1VfiqgNFo/6ad9ccab136b1a01ba2b59c3.json",
+      "markdown_endpoint": "https://serpapi.com/searches/VWTpA3ZpanGhuQmJEdtGq7GxA4ew73uieG1VfiqgNFo/6ad9ccab136b1a01ba2b59c3.md",
+      "created_at": "2026-10-22 08:43:23 UTC",
+      "processed_at": "2026-10-22 08:43:23 UTC",
+      "amazon_product_url": "https://www.amazon.com/dp/B0HDSY9X4M/?language=en_US",
+      "raw_html_file": "https://serpapi.com/searches/VWTpA3ZpanGhuQmJEdtGq7GxA4ew73uieG1VfiqgNFo/6ad9ccab136b1a01ba2b59c3.html",
+      "total_time_taken": 4.17
+    },
+    "search_parameters": {
+      "engine": "amazon_product",
+      "asin": "B0HDSY9X4M",
+      "amazon_domain": "amazon.com",
+      "language": "en_US",
+      "device": "desktop",
+      "shipping_location": "US"
+    },
+    "product_results": {
+      "categories": [
+        {
+          "position": 1,
+          "name": "Arts, Crafts & Sewing",
+          "link": "https://www.amazon.com/Arts-Crafts-Sewing/b/ref=dp_bc_1?ie=UTF8&node=2617941011",
+          "node": "2617941011",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&language=en_US&node=2617941011&shipping_location=US"
+        },
+        {
+          "position": 2,
+          "name": "Crafting",
+          "link": "https://www.amazon.com/crafting/b/ref=dp_bc_2?ie=UTF8&node=378733011",
+          "node": "378733011",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&language=en_US&node=378733011&shipping_location=US"
+        },
+        {
+          "position": 3,
+          "name": "Mosaic Making",
+          "link": "https://www.amazon.com/mosaic-making/b/ref=dp_bc_3?ie=UTF8&node=262611011",
+          "node": "262611011",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&language=en_US&node=262611011&shipping_location=US"
+        },
+        {
+          "position": 4,
+          "name": "Diamond Painting Kits & Accessories",
+          "link": "https://www.amazon.com/Diamond-Painting-Kits-Accessories/b/ref=dp_bc_4?ie=UTF8&node=23542710011",
+          "node": "23542710011",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&language=en_US&node=23542710011&shipping_location=US"
+        },
+        {
+          "position": 5,
+          "name": "Diamond Painting Kits",
+          "link": "https://www.amazon.com/Diamond-Painting-Kits/b/ref=dp_bc_5?ie=UTF8&node=23542712011",
+          "node": "23542712011",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&language=en_US&node=23542712011&shipping_location=US"
+        }
+      ],
+      "asin": "B0HDSY9X4M",
+      "title": "12PCS Christmas Ornaments DIY Pearl Diamond Art Kits for Adults",
+      "link": "https://www.amazon.com/Pearl-Diamond-Art-Kits-Adults/dp/B0HDSY9X4M/",
+      "link_clean": "https://www.amazon.com/dp/B0HDSY9X4M/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0HDSY9X4M&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+      "variants": [
+        {
+          "title": "Color",
+          "items": [
+            {
+              "position": 1,
+              "asin": "B0HDSY9X4M",
+              "name": "#B-12pcs",
+              "image": "https://m.media-amazon.com/images/I/61KBfvtyELL._SS64_.jpg",
+              "selected": true,
+              "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0HDSY9X4M&device=desktop&engine=amazon_product&language=en_US&shipping_location=US"
+            },
+            {
+              "position": 2,
+              "asin": "B0HKD4FLPL",
+              "name": "#A-12pcs",
+              "image": "https://m.media-amazon.com/images/I/612KZwm9hqL._SS64_.jpg",
+              "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0HKD4FLPL&device=desktop&engine=amazon_product&language=en_US&shipping_location=US"
+            },
+            {
+              "position": 3,
+              "asin": "B0HLQ3QW6N",
+              "name": "#C-12pcs",
+              "image": "https://m.media-amazon.com/images/I/61HWhobOUnL._SS64_.jpg",
+              "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0HLQ3QW6N&device=desktop&engine=amazon_product&language=en_US&shipping_location=US"
+            },
+            {
+              "position": 4,
+              "asin": "B0HDSV63KP",
+              "name": "#D-12pcs",
+              "image": "https://m.media-amazon.com/images/I/61oMP0o0saL._SS64_.jpg",
+              "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0HDSV63KP&device=desktop&engine=amazon_product&language=en_US&shipping_location=US"
+            },
+            {
+              "position": 5,
+              "asin": "B0HK19XKSG",
+              "name": "#E-12Pcs",
+              "image": "https://m.media-amazon.com/images/I/61KtHhtOMcL._SS64_.jpg",
+              "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0HK19XKSG&device=desktop&engine=amazon_product&language=en_US&shipping_location=US"
+            },
+            {
+              "position": 6,
+              "asin": "B0HKF2HD1L",
+              "name": "#F-12Pcs",
+              "image": "https://m.media-amazon.com/images/I/61NL8hnt8jL._SS64_.jpg",
+              "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0HKF2HD1L&device=desktop&engine=amazon_product&language=en_US&shipping_location=US"
+            },
+            {
+              "position": 7,
+              "asin": "B0HDSSH66C",
+              "name": "#G-12pcs",
+              "image": "https://m.media-amazon.com/images/I/61jYwlSPTCL._SS64_.jpg",
+              "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0HDSSH66C&device=desktop&engine=amazon_product&language=en_US&shipping_location=US"
+            },
+            {
+              "position": 8,
+              "asin": "B0HDSTXD1J",
+              "name": "#H-12pcs",
+              "image": "https://m.media-amazon.com/images/I/61ouc55ChqL._SS64_.jpg",
+              "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0HDSTXD1J&device=desktop&engine=amazon_product&language=en_US&shipping_location=US"
+            },
+            {
+              "position": 9,
+              "asin": "B0HK2G3CL9",
+              "name": "#I-12Pcs",
+              "image": "https://m.media-amazon.com/images/I/61CFJMNg1VL._SS64_.jpg",
+              "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0HK2G3CL9&device=desktop&engine=amazon_product&language=en_US&shipping_location=US"
+            },
+            {
+              "position": 10,
+              "asin": "B0HKRXGBM8",
+              "name": "Wooden-#A-12pcs",
+              "image": "https://m.media-amazon.com/images/I/61CVkd0hyML._SS64_.jpg",
+              "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0HKRXGBM8&device=desktop&engine=amazon_product&language=en_US&shipping_location=US"
+            },
+            {
+              "position": 11,
+              "asin": "B0HKS2R8TP",
+              "name": "Wooden-#B-12pcs",
+              "image": "https://m.media-amazon.com/images/I/61VUUWFUrjL._SS64_.jpg",
+              "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0HKS2R8TP&device=desktop&engine=amazon_product&language=en_US&shipping_location=US"
+            }
+          ]
+        }
+      ],
+      "brand": "Brand: Lirynzoventa",
+      "thumbnail": "https://m.media-amazon.com/images/I/81ePfZtoqZL._AC_SY300_SX300_QL70_FMwebp_.jpg",
+      "thumbnails": [
+        "https://m.media-amazon.com/images/I/81ePfZtoqZL._AC_SL1254_.jpg",
+        "https://m.media-amazon.com/images/I/81dF4nhIHdL._AC_SL1254_.jpg",
+        "https://m.media-amazon.com/images/I/81dhpCEAh0L._AC_SL1254_.jpg",
+        "https://m.media-amazon.com/images/I/81o5-zcnR+L._AC_SL1254_.jpg",
+        "https://m.media-amazon.com/images/I/81UJKRoscpL._AC_SL1254_.jpg",
+        "https://m.media-amazon.com/images/I/81k1kmSOwjL._AC_SL1254_.jpg",
+        "https://m.media-amazon.com/images/I/81OkUnWcR0L._AC_SL1254_.jpg"
+      ],
+      "rating": 4.3,
+      "reviews": 97,
+      "bought_last_month": "4K+ bought in past month",
+      "price": "$12.88",
+      "extracted_price": 12.88,
+      "promotions": [
+        {
+          "type": "offer",
+          "text": "Save 12%",
+          "discount_percent": 12,
+          "link": "https://www.amazon.com/promotion/psp/A2HDB5P3OZW9MY?ref=psp_external&redirectAsin=B0HDSY9X4M&redirectMerchantId=AHA72W474XCXS&ref=cxcw_psp_A2HDB5P3OZW9MY&source=dp_cxcw"
+        },
+        {
+          "type": "offer",
+          "text": "Save 15%",
+          "discount_percent": 15,
+          "link": "https://www.amazon.com/promotion/psp/A39B4P9QANCI87?ref=psp_external&redirectAsin=B0HDSY9X4M&redirectMerchantId=AHA72W474XCXS&ref=cxcw_psp_A39B4P9QANCI87&source=dp_cxcw"
+        },
+        {
+          "type": "offer",
+          "text": "Save 20%",
+          "discount_percent": 20,
+          "link": "https://www.amazon.com/promotion/psp/A39JBOPY0QWPK?ref=psp_external&redirectAsin=B0HDSY9X4M&redirectMerchantId=AHA72W474XCXS&ref=cxcw_psp_A39JBOPY0QWPK&source=dp_cxcw"
+        },
+        {
+          "type": "offer",
+          "text": "Save 25%",
+          "discount_percent": 25,
+          "link": "https://www.amazon.com/promotion/psp/A3UZZHKQXN9Z22?ref=psp_external&redirectAsin=B0HDSY9X4M&redirectMerchantId=AHA72W474XCXS&ref=cxcw_psp_A3UZZHKQXN9Z22&source=dp_cxcw"
+        }
+      ],
+      "offers": [
+        "Save 12% on 2 select item(s)",
+        "Save 15% on 3 select item(s)",
+        "Save 20% on 4 select item(s)",
+        "Save 25% on 5 select item(s)"
+      ],
+      "delivery": [
+        "$2.99 delivery November 2 - 5. Details"
+      ],
+      "stock": "In Stock"
+    },
+    "purchase_options": {
+      "single_offer": {
+        "price": "$12.88",
+        "extracted_price": 12.88,
+        "delivery": [
+          "$2.99 delivery November 2 - 5. Details"
+        ],
+        "stock": "In Stock",
+        "features": {
+          "shipper_seller": {
+            "text": "lifengman",
+            "details": {
+              "heading": "Shipper / Seller",
+              "content": "lifengman"
+            },
+            "link": {
+              "text": "lifengman",
+              "link": "https://www.amazon.com/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AHA72W474XCXS&asin=B0HDSY9X4M&ref_=dp_merchant_link"
+            }
+          },
+          "returns": {
+            "text": "30-day refund/replacement",
+            "details": {
+              "heading": "30-day refund/replacement"
+            },
+            "link": {
+              "text": "See exceptions",
+              "link": "https://www.amazon.com/gp/help/customer/display.html/?nodeId=GKQNFKFK5CF3C54B"
+            }
+          },
+          "payment": {
+            "text": "Secure transaction",
+            "details": {
+              "heading": "Your transaction is secure",
+              "content": "We work hard to protect your security and privacy. Our payment security system encrypts your information during transmission. We don’t share your credit card details with third-party sellers, and we don’t sell your information to others. Learn more"
+            },
+            "link": {
+              "text": "Learn more",
+              "link": "https://www.amazon.com/gp/help/customer/display.html?nodeId=201909010"
+            }
+          }
+        }
+      }
+    },
+    "about_item": [
+      "🎄【Complete 12‑Piece Holiday Set】Diamond art kits for adults include Santa, snowman, reindeer, stocking, tree, and wreath, perfect for holiday decor. They save time and costs, creating a unified display on tree, wreath, or mantel easily—ideal for busy families.",
+      "🎈【Super-Strong Gem Adhesion】Christmas pearl diamond art kits for adults use premium industrial‑strength adhesive to lock gems firmly. Gems stay put through handling and storage—no falling or touch‑ups. The lasting bond keeps creations flawless for years, ready to display.",
+      "🎁【Effortless Crafting for Beginners】Designed for beginners, these diamond painting kits for adults include boards, guides, and tools (pen, tweezers, tray). Just match and press gems—no glue or tricky steps. Relaxing fun yields beautiful results in hours.",
+      "🔮【3D Texture & Vibrant Colors】Our christmas pearl diamond art kits for adults boast rich, saturated colors on waterproof PET boards. Rhinestones and pearls create 3D shimmer and depth. Even near windows or lights, diamond painting kits resist warping, peeling, or fading.",
+      "🎨【Ready to Hang & Perfect for Gifting】Each ornament in these diamond art kits for adults comes with a durable hemp rope for instant hanging. These handmade diamond painting kits make great gifts, adding your personal touch and spreading cheer as cherished keepsakes."
+    ],
+    "bought_together": [
+      {
+        "position": 1,
+        "title": "12PCS Christmas Ornaments DIY Pearl Diamond Art Kits for Adults | Christmas Pearl Art Kits for Adults with Twine for Holiday Window Diamond Painting Kit Hanging Christmas Tree Decorations",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/81ePfZtoqZL._AC_UL116_SR116,116_.jpg",
+        "price": "$12.88",
+        "extracted_price": 12.88,
+        "delivery": [
+          "Get it Nov 2 - 5"
+        ],
+        "stock": "In Stock"
+      },
+      {
+        "position": 2,
+        "title": "6 PCS DIY Pearl Diamond Art Kits for Adults, Wooden Christmas Ornaments | Christmas Pearl Art Kits for Adults with Twine, 3.94 in Wooden Hanging Ornaments for Tree & Window Decorations",
+        "link": "https://www.amazon.com/Diamond-Christmas-Ornaments-Hanging-Decorations/dp/B0HJ2C1VX5/ref=pd_bxgy_thbs_d_sccl_1/140-2174737-4134146?pd_rd_w=B0p0v&content-id=amzn1.sym.1fbb380b-ee1d-4eeb-a44a-61f4d3013ea6&pf_rd_p=1fbb380b-ee1d-4eeb-a44a-61f4d3013ea6&pf_rd_r=WBRR2A9DTXNHJ61KJEE0&pd_rd_wg=nEb7d&pd_rd_r=49fa466d-c9b3-4269-89e6-e8f57d76fa5b&pd_rd_i=B0HJ2C1VX5&psc=1",
+        "asin": "B0HJ2C1VX5",
+        "link_clean": "https://www.amazon.com/Diamond-Christmas-Ornaments-Hanging-Decorations/dp/B0HJ2C1VX5/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0HJ2C1VX5&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/81cV7T3A5qL._AC_UL116_SR116,116_.jpg",
+        "price": "$16.98",
+        "extracted_price": 16.98,
+        "delivery": [
+          "Get it as soon as Tuesday, Oct 27"
+        ],
+        "stock": "In Stock"
+      },
+      {
+        "position": 3,
+        "title": "Christmas Pearl Diamond Painting Kit with LED String Lights (SNM 1, 9.84in) | 9.84 Inch DIY Acrylic Diamond Art Suncatcher Wreath with Pearl Beads and LED String Lights, Holiday Craft Gift",
+        "link": "https://www.amazon.com/Christmas-Diamond-Painting-String-Lights/dp/B0HH8JXFRZ/ref=pd_bxgy_thbs_d_sccl_2/140-2174737-4134146?pd_rd_w=B0p0v&content-id=amzn1.sym.1fbb380b-ee1d-4eeb-a44a-61f4d3013ea6&pf_rd_p=1fbb380b-ee1d-4eeb-a44a-61f4d3013ea6&pf_rd_r=WBRR2A9DTXNHJ61KJEE0&pd_rd_wg=nEb7d&pd_rd_r=49fa466d-c9b3-4269-89e6-e8f57d76fa5b&pd_rd_i=B0HH8JXFRZ&psc=1",
+        "asin": "B0HH8JXFRZ",
+        "link_clean": "https://www.amazon.com/Christmas-Diamond-Painting-String-Lights/dp/B0HH8JXFRZ/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0HH8JXFRZ&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/81WbpRWzwAL._AC_UL116_SR116,116_.jpg",
+        "price": "$15.99",
+        "extracted_price": 15.99,
+        "delivery": [
+          "Get it as soon as Friday, Oct 30"
+        ]
+      }
+    ],
+    "related_products": [
+      {
+        "position": 1,
+        "title": "12pcs Diamond Painting Art Christmas Ornaments, DIY Pearl Diamond Art Kits for Adults Hanging Pendant Style Pearl Art Kits fo",
+        "link": "https://www.amazon.com/Diamond-Painting-Christmas-Ornaments-Hanging/dp/B0HFM6LPR9/ref=pd_sbs_d_sccl_1_1/140-2174737-4134146?pd_rd_w=170vZ&content-id=amzn1.sym.0cb10f30-7cd4-4985-9826-58b2c1174c19&pf_rd_p=0cb10f30-7cd4-4985-9826-58b2c1174c19&pf_rd_r=WBRR2A9DTXNHJ61KJEE0&pd_rd_wg=nEb7d&pd_rd_r=49fa466d-c9b3-4269-89e6-e8f57d76fa5b&pd_rd_i=B0HFM6LPR9&psc=1",
+        "asin": "B0HFM6LPR9",
+        "link_clean": "https://www.amazon.com/Diamond-Painting-Christmas-Ornaments-Hanging/dp/B0HFM6LPR9/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0HFM6LPR9&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/81ky4vZysEL._AC_UL165_SR165,165_.jpg",
+        "rating": 4.3,
+        "reviews": 53,
+        "price": "$12.88",
+        "extracted_price": 12.88,
+        "delivery": [
+          "Get it Nov 2 - 9"
+        ]
+      },
+      {
+        "position": 2,
+        "title": "12PCS Christmas Ornaments DIY Pearl Diamond Art Kits for Adults",
+        "link": "https://www.amazon.com/Pearl-Diamond-Art-Kits-Adults/dp/B0HDSQTNFX/ref=pd_sbs_d_sccl_1_2/140-2174737-4134146?pd_rd_w=170vZ&content-id=amzn1.sym.0cb10f30-7cd4-4985-9826-58b2c1174c19&pf_rd_p=0cb10f30-7cd4-4985-9826-58b2c1174c19&pf_rd_r=WBRR2A9DTXNHJ61KJEE0&pd_rd_wg=nEb7d&pd_rd_r=49fa466d-c9b3-4269-89e6-e8f57d76fa5b&pd_rd_i=B0HDSQTNFX&psc=1",
+        "asin": "B0HDSQTNFX",
+        "link_clean": "https://www.amazon.com/Pearl-Diamond-Art-Kits-Adults/dp/B0HDSQTNFX/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0HDSQTNFX&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/81pm0h3aAGL._AC_UL165_SR165,165_.jpg",
+        "rating": 4.1,
+        "reviews": 6,
+        "price": "$12.88",
+        "extracted_price": 12.88,
+        "delivery": [
+          "Get it Oct 30 - Nov 4"
+        ]
+      },
+      {
+        "position": 3,
+        "title": "10PCS Christmas Ornaments DIY Pearl Diamond Art Kits for Adults Santa Claus | Christmas Pearl Art Kits for Adults Wooden with",
+        "link": "https://www.amazon.com/10PCS-Christmas-Ornaments-DIY-Painting/dp/B0HJ8XWY5Y/ref=pd_sbs_d_sccl_1_3/140-2174737-4134146?pd_rd_w=170vZ&content-id=amzn1.sym.0cb10f30-7cd4-4985-9826-58b2c1174c19&pf_rd_p=0cb10f30-7cd4-4985-9826-58b2c1174c19&pf_rd_r=WBRR2A9DTXNHJ61KJEE0&pd_rd_wg=nEb7d&pd_rd_r=49fa466d-c9b3-4269-89e6-e8f57d76fa5b&pd_rd_i=B0HJ8XWY5Y&psc=1",
+        "asin": "B0HJ8XWY5Y",
+        "link_clean": "https://www.amazon.com/10PCS-Christmas-Ornaments-DIY-Painting/dp/B0HJ8XWY5Y/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0HJ8XWY5Y&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/81W1hQLfuYL._AC_UL165_SR165,165_.jpg",
+        "rating": 4.7,
+        "reviews": 30,
+        "price": "$13.98",
+        "extracted_price": 13.98,
+        "delivery": [
+          "Get it Nov 3 - 10"
+        ]
+      },
+      {
+        "position": 4,
+        "title": "Lirynzoventa 6PCS Christmas Ornaments DIY Pearl Diamond Art Kits for Adults | Pearl Art Kits for Adults with Twine for Holida",
+        "link": "https://www.amazon.com/Lirynzoventa-Christmas-Ornaments-Diamond-Holiday/dp/B0HDTKX53H/ref=pd_sbs_d_sccl_1_4/140-2174737-4134146?pd_rd_w=170vZ&content-id=amzn1.sym.0cb10f30-7cd4-4985-9826-58b2c1174c19&pf_rd_p=0cb10f30-7cd4-4985-9826-58b2c1174c19&pf_rd_r=WBRR2A9DTXNHJ61KJEE0&pd_rd_wg=nEb7d&pd_rd_r=49fa466d-c9b3-4269-89e6-e8f57d76fa5b&pd_rd_i=B0HDTKX53H&psc=1",
+        "asin": "B0HDTKX53H",
+        "link_clean": "https://www.amazon.com/Lirynzoventa-Christmas-Ornaments-Diamond-Holiday/dp/B0HDTKX53H/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0HDTKX53H&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/81XypYOaYcL._AC_UL165_SR165,165_.jpg",
+        "rating": 4.5,
+        "reviews": 64,
+        "price": "$10.88",
+        "extracted_price": 10.88,
+        "delivery": [
+          "Get it Nov 2 - 5"
+        ]
+      },
+      {
+        "position": 5,
+        "title": "2027 New Christmas Diamond Art Ornaments, DIY 3D Pearl Art Kit, 6 Pcs | Wooden Diamond Art Kits, Ready to Hang, Jute Twine, T",
+        "link": "https://www.amazon.com/Christmas-Diamond-Ornaments-Handmade-Keepsakes/dp/B0HGB52MSN/ref=pd_sbs_d_sccl_1_5/140-2174737-4134146?pd_rd_w=170vZ&content-id=amzn1.sym.0cb10f30-7cd4-4985-9826-58b2c1174c19&pf_rd_p=0cb10f30-7cd4-4985-9826-58b2c1174c19&pf_rd_r=WBRR2A9DTXNHJ61KJEE0&pd_rd_wg=nEb7d&pd_rd_r=49fa466d-c9b3-4269-89e6-e8f57d76fa5b&pd_rd_i=B0HGB52MSN&psc=1",
+        "asin": "B0HGB52MSN",
+        "link_clean": "https://www.amazon.com/Christmas-Diamond-Ornaments-Handmade-Keepsakes/dp/B0HGB52MSN/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0HGB52MSN&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/91UhbyB7ZlL._AC_UL165_SR165,165_.jpg",
+        "rating": 4.0,
+        "reviews": 23,
+        "price": "$9.69",
+        "extracted_price": 9.69
+      },
+      {
+        "position": 6,
+        "title": "Christmas Diamond Painting Kit, 10 PCS Pearl Art Acrylic Hanging Ornaments | Pearl Beads, Rhinestone Craft, Acrylic Hanging D",
+        "link": "https://www.amazon.com/Christmas-Diamond-Painting-Acrylic-Ornaments/dp/B0HJ2RPNLH/ref=pd_sbs_d_sccl_1_6/140-2174737-4134146?pd_rd_w=170vZ&content-id=amzn1.sym.0cb10f30-7cd4-4985-9826-58b2c1174c19&pf_rd_p=0cb10f30-7cd4-4985-9826-58b2c1174c19&pf_rd_r=WBRR2A9DTXNHJ61KJEE0&pd_rd_wg=nEb7d&pd_rd_r=49fa466d-c9b3-4269-89e6-e8f57d76fa5b&pd_rd_i=B0HJ2RPNLH&psc=1",
+        "asin": "B0HJ2RPNLH",
+        "link_clean": "https://www.amazon.com/Christmas-Diamond-Painting-Acrylic-Ornaments/dp/B0HJ2RPNLH/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0HJ2RPNLH&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/911DJ8CSJwL._AC_UL165_SR165,165_.jpg",
+        "rating": 3.0,
+        "reviews": 4,
+        "price": "$10.99",
+        "extracted_price": 10.99,
+        "delivery": [
+          "Get it Nov 2 - 6"
+        ]
+      }
+    ],
+    "related_product_sections": [
+      {
+        "title": "Customers who viewed this item also viewed",
+        "items": [
+          {
+            "position": 1,
+            "title": "12pcs Diamond Painting Art Christmas Ornaments, DIY Pearl Diamond Art Kits for Adults Hanging Pendant Style Pearl Art Kits fo",
+            "link": "https://www.amazon.com/Diamond-Painting-Christmas-Ornaments-Hanging/dp/B0HFM6LPR9/ref=pd_sbs_d_sccl_1_1/140-2174737-4134146?pd_rd_w=170vZ&content-id=amzn1.sym.0cb10f30-7cd4-4985-9826-58b2c1174c19&pf_rd_p=0cb10f30-7cd4-4985-9826-58b2c1174c19&pf_rd_r=WBRR2A9DTXNHJ61KJEE0&pd_rd_wg=nEb7d&pd_rd_r=49fa466d-c9b3-4269-89e6-e8f57d76fa5b&pd_rd_i=B0HFM6LPR9&psc=1",
+            "asin": "B0HFM6LPR9",
+            "link_clean": "https://www.amazon.com/Diamond-Painting-Christmas-Ornaments-Hanging/dp/B0HFM6LPR9/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0HFM6LPR9&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/81ky4vZysEL._AC_UL165_SR165,165_.jpg",
+            "rating": 4.3,
+            "reviews": 53,
+            "price": "$12.88",
+            "extracted_price": 12.88,
+            "delivery": [
+              "Get it Nov 2 - 9"
+            ]
+          },
+          {
+            "position": 2,
+            "title": "12PCS Christmas Ornaments DIY Pearl Diamond Art Kits for Adults",
+            "link": "https://www.amazon.com/Pearl-Diamond-Art-Kits-Adults/dp/B0HDSQTNFX/ref=pd_sbs_d_sccl_1_2/140-2174737-4134146?pd_rd_w=170vZ&content-id=amzn1.sym.0cb10f30-7cd4-4985-9826-58b2c1174c19&pf_rd_p=0cb10f30-7cd4-4985-9826-58b2c1174c19&pf_rd_r=WBRR2A9DTXNHJ61KJEE0&pd_rd_wg=nEb7d&pd_rd_r=49fa466d-c9b3-4269-89e6-e8f57d76fa5b&pd_rd_i=B0HDSQTNFX&psc=1",
+            "asin": "B0HDSQTNFX",
+            "link_clean": "https://www.amazon.com/Pearl-Diamond-Art-Kits-Adults/dp/B0HDSQTNFX/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0HDSQTNFX&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/81pm0h3aAGL._AC_UL165_SR165,165_.jpg",
+            "rating": 4.1,
+            "reviews": 6,
+            "price": "$12.88",
+            "extracted_price": 12.88,
+            "delivery": [
+              "Get it Oct 30 - Nov 4"
+            ]
+          },
+          {
+            "position": 3,
+            "title": "10PCS Christmas Ornaments DIY Pearl Diamond Art Kits for Adults Santa Claus | Christmas Pearl Art Kits for Adults Wooden with",
+            "link": "https://www.amazon.com/10PCS-Christmas-Ornaments-DIY-Painting/dp/B0HJ8XWY5Y/ref=pd_sbs_d_sccl_1_3/140-2174737-4134146?pd_rd_w=170vZ&content-id=amzn1.sym.0cb10f30-7cd4-4985-9826-58b2c1174c19&pf_rd_p=0cb10f30-7cd4-4985-9826-58b2c1174c19&pf_rd_r=WBRR2A9DTXNHJ61KJEE0&pd_rd_wg=nEb7d&pd_rd_r=49fa466d-c9b3-4269-89e6-e8f57d76fa5b&pd_rd_i=B0HJ8XWY5Y&psc=1",
+            "asin": "B0HJ8XWY5Y",
+            "link_clean": "https://www.amazon.com/10PCS-Christmas-Ornaments-DIY-Painting/dp/B0HJ8XWY5Y/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0HJ8XWY5Y&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/81W1hQLfuYL._AC_UL165_SR165,165_.jpg",
+            "rating": 4.7,
+            "reviews": 30,
+            "price": "$13.98",
+            "extracted_price": 13.98,
+            "delivery": [
+              "Get it Nov 3 - 10"
+            ]
+          },
+          {
+            "position": 4,
+            "title": "Lirynzoventa 6PCS Christmas Ornaments DIY Pearl Diamond Art Kits for Adults | Pearl Art Kits for Adults with Twine for Holida",
+            "link": "https://www.amazon.com/Lirynzoventa-Christmas-Ornaments-Diamond-Holiday/dp/B0HDTKX53H/ref=pd_sbs_d_sccl_1_4/140-2174737-4134146?pd_rd_w=170vZ&content-id=amzn1.sym.0cb10f30-7cd4-4985-9826-58b2c1174c19&pf_rd_p=0cb10f30-7cd4-4985-9826-58b2c1174c19&pf_rd_r=WBRR2A9DTXNHJ61KJEE0&pd_rd_wg=nEb7d&pd_rd_r=49fa466d-c9b3-4269-89e6-e8f57d76fa5b&pd_rd_i=B0HDTKX53H&psc=1",
+            "asin": "B0HDTKX53H",
+            "link_clean": "https://www.amazon.com/Lirynzoventa-Christmas-Ornaments-Diamond-Holiday/dp/B0HDTKX53H/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0HDTKX53H&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/81XypYOaYcL._AC_UL165_SR165,165_.jpg",
+            "rating": 4.5,
+            "reviews": 64,
+            "price": "$10.88",
+            "extracted_price": 10.88,
+            "delivery": [
+              "Get it Nov 2 - 5"
+            ]
+          },
+          {
+            "position": 5,
+            "title": "2027 New Christmas Diamond Art Ornaments, DIY 3D Pearl Art Kit, 6 Pcs | Wooden Diamond Art Kits, Ready to Hang, Jute Twine, T",
+            "link": "https://www.amazon.com/Christmas-Diamond-Ornaments-Handmade-Keepsakes/dp/B0HGB52MSN/ref=pd_sbs_d_sccl_1_5/140-2174737-4134146?pd_rd_w=170vZ&content-id=amzn1.sym.0cb10f30-7cd4-4985-9826-58b2c1174c19&pf_rd_p=0cb10f30-7cd4-4985-9826-58b2c1174c19&pf_rd_r=WBRR2A9DTXNHJ61KJEE0&pd_rd_wg=nEb7d&pd_rd_r=49fa466d-c9b3-4269-89e6-e8f57d76fa5b&pd_rd_i=B0HGB52MSN&psc=1",
+            "asin": "B0HGB52MSN",
+            "link_clean": "https://www.amazon.com/Christmas-Diamond-Ornaments-Handmade-Keepsakes/dp/B0HGB52MSN/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0HGB52MSN&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/91UhbyB7ZlL._AC_UL165_SR165,165_.jpg",
+            "rating": 4.0,
+            "reviews": 23,
+            "price": "$9.69",
+            "extracted_price": 9.69
+          },
+          {
+            "position": 6,
+            "title": "Christmas Diamond Painting Kit, 10 PCS Pearl Art Acrylic Hanging Ornaments | Pearl Beads, Rhinestone Craft, Acrylic Hanging D",
+            "link": "https://www.amazon.com/Christmas-Diamond-Painting-Acrylic-Ornaments/dp/B0HJ2RPNLH/ref=pd_sbs_d_sccl_1_6/140-2174737-4134146?pd_rd_w=170vZ&content-id=amzn1.sym.0cb10f30-7cd4-4985-9826-58b2c1174c19&pf_rd_p=0cb10f30-7cd4-4985-9826-58b2c1174c19&pf_rd_r=WBRR2A9DTXNHJ61KJEE0&pd_rd_wg=nEb7d&pd_rd_r=49fa466d-c9b3-4269-89e6-e8f57d76fa5b&pd_rd_i=B0HJ2RPNLH&psc=1",
+            "asin": "B0HJ2RPNLH",
+            "link_clean": "https://www.amazon.com/Christmas-Diamond-Painting-Acrylic-Ornaments/dp/B0HJ2RPNLH/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0HJ2RPNLH&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/911DJ8CSJwL._AC_UL165_SR165,165_.jpg",
+            "rating": 3.0,
+            "reviews": 4,
+            "price": "$10.99",
+            "extracted_price": 10.99,
+            "delivery": [
+              "Get it Nov 2 - 6"
+            ]
+          }
+        ]
+      }
+    ],
+    "videos": [
+      {
+        "position": 1,
+        "title": "Honest Review of Diamond Art Christmas Ornaments",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/29c278af-210c-47b7-be59-6cc90ae49d26/default.jobtemplate.hls.m3u8",
+        "thumbnail": "https://m.media-amazon.com/images/I/91jWdLtDM9L.png",
+        "duration": "1:22",
+        "vendor": "Laura Stutz",
+        "vendor_thumbnail": "https://m.media-amazon.com/images/I/A11XyTmBubL._CR0,0,4284,4284_._FMjpg_._SL34_.jpg",
+        "date": "Oct 11, 2026"
+      }
+    ],
+    "product_description": [
+      {
+        "position": 1,
+        "title": "12PCS Christmas Wooden Ornaments DIY Pearl Diamond Painting Kit",
+        "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/b90b1679-081e-4396-a4f1-6b3f193926ee.__CR0,0,1959,803_PT0_SX1464_V1___.png"
+      },
+      {
+        "position": 2,
+        "title": "12PCS Christmas Wooden Ornaments DIY Pearl Diamond Painting Kit",
+        "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/41401175-8c0b-45f1-9faf-b515992897c6.__CR0,0,1959,803_PT0_SX1464_V1___.png"
+      },
+      {
+        "position": 3,
+        "title": "12PCS Christmas Wooden Ornaments DIY Pearl Diamond Painting Kit",
+        "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/6c9c6f6a-7590-40f5-8875-59018d541c35.__CR0,0,1959,803_PT0_SX1464_V1___.png"
+      },
+      {
+        "position": 4,
+        "title": "12PCS Christmas Wooden Ornaments DIY Pearl Diamond Painting Kit",
+        "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/9b923c97-f30b-4b5f-bbb0-c6f65ab74cf0.__CR0,0,1959,803_PT0_SX1464_V1___.png"
+      },
+      {
+        "position": 5,
+        "title": "12PCS Christmas Wooden Ornaments DIY Pearl Diamond Painting Kit",
+        "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/a51ac0f3-3f17-43ca-8908-d83503e9b9f7.__CR0,0,1959,803_PT0_SX1464_V1___.png"
+      },
+      {
+        "position": 6,
+        "title": "12PCS Christmas Wooden Ornaments DIY Pearl Diamond Painting Kit",
+        "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/e0ce75f4-f265-41c8-9f85-b47a68fcf72b.__CR0,0,1958,802_PT0_SX1464_V1___.png"
+      },
+      {
+        "position": 7,
+        "compare_with_similar": [
+          {
+            "position": 1,
+            "asin": "B0HFFFRPKJ",
+            "title": "6PCS Christmas Ornaments",
+            "thumbnail": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/ab9da50e-1059-4b4d-8bfd-638fbf3d6046.__AC_SR200,225___.jpg",
+            "link": "https://www.amazon.com/dp/B0HFFFRPKJ?ref=emc_p_m_5_i_atc",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0HFFFRPKJ&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "rating": 4.0,
+            "reviews": 13,
+            "price": "$10.88",
+            "extracted_price": 10.88,
+            "high_tack": "✔",
+            "easy_start": "✔",
+            "fade_resistant": "✔",
+            "3d": "✔",
+            "creative_gift": "✔"
+          },
+          {
+            "position": 2,
+            "asin": "B0HKS2QHWV",
+            "title": "6PCS Christmas Ornaments",
+            "thumbnail": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/6c8b1f87-f305-4119-a66f-5bb23a8722ec.__AC_SR200,225___.jpg",
+            "link": "https://www.amazon.com/dp/B0HKS2QHWV?ref=emc_p_m_5_i_atc",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0HKS2QHWV&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "rating": 4.5,
+            "reviews": 64,
+            "price": "$10.88",
+            "extracted_price": 10.88,
+            "high_tack": "✔",
+            "easy_start": "✔",
+            "fade_resistant": "✔",
+            "3d": "✔",
+            "creative_gift": "✔"
+          },
+          {
+            "position": 3,
+            "asin": "B0HKS8TVGG",
+            "title": "6PCS Christmas Ornaments",
+            "thumbnail": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/0066eb0e-d46f-4b87-ab80-c9fef505f154.__AC_SR200,225___.jpg",
+            "link": "https://www.amazon.com/dp/B0HKS8TVGG?ref=emc_p_m_5_i_atc",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0HKS8TVGG&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "rating": 4.5,
+            "reviews": 64,
+            "price": "$10.88",
+            "extracted_price": 10.88,
+            "high_tack": "✔",
+            "easy_start": "✔",
+            "fade_resistant": "✔",
+            "3d": "✔",
+            "creative_gift": "✔"
+          },
+          {
+            "position": 4,
+            "asin": "B0HDSYPJFG",
+            "title": "6PCS Christmas Ornaments",
+            "thumbnail": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/9460916e-cba6-4183-9651-80751d01ff6e.__AC_SR200,225___.jpg",
+            "link": "https://www.amazon.com/dp/B0HDSYPJFG?ref=emc_p_m_5_i_atc",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0HDSYPJFG&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "rating": 4.0,
+            "reviews": 13,
+            "price": "$10.88",
+            "extracted_price": 10.88,
+            "high_tack": "✔",
+            "easy_start": "✔",
+            "fade_resistant": "✔",
+            "3d": "✔",
+            "creative_gift": "✔"
+          },
+          {
+            "position": 5,
+            "asin": "B0HF56Z5FY",
+            "title": "Diamond Painting Kit",
+            "thumbnail": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/498d260d-336d-4778-9468-dca80444a3c4.__AC_SR200,225___.jpg",
+            "link": "https://www.amazon.com/dp/B0HF56Z5FY?ref=emc_p_m_5_i_atc",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0HF56Z5FY&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "rating": 5.0,
+            "reviews": 4,
+            "price": "$10.88",
+            "extracted_price": 10.88,
+            "high_tack": "✔",
+            "easy_start": "✔",
+            "fade_resistant": "✔",
+            "3d": "✔",
+            "creative_gift": "✔"
+          },
+          {
+            "position": 6,
+            "asin": "B0HF4W3Q9R",
+            "title": "Diamond Painting Kit",
+            "thumbnail": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/6d29d0d2-8837-4934-a38f-636ffc39aac5.__AC_SR200,225___.jpg",
+            "link": "https://www.amazon.com/dp/B0HF4W3Q9R?ref=emc_p_m_5_i_atc",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0HF4W3Q9R&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "rating": 5.0,
+            "reviews": 4,
+            "price": "$10.88",
+            "extracted_price": 10.88,
+            "high_tack": "✔",
+            "easy_start": "✔",
+            "fade_resistant": "✔",
+            "3d": "✔",
+            "creative_gift": "✔"
+          },
+          {
+            "position": 7,
+            "asin": "B0HF525Y2L",
+            "title": "Diamond Painting Kit",
+            "thumbnail": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/e133e6c2-0e16-405f-91de-b60a41827365.__AC_SR200,225___.jpg",
+            "link": "https://www.amazon.com/dp/B0HF525Y2L?ref=emc_p_m_5_i_atc",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0HF525Y2L&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "rating": 5.0,
+            "reviews": 4,
+            "price": "$10.88",
+            "extracted_price": 10.88,
+            "high_tack": "✔",
+            "easy_start": "✔",
+            "fade_resistant": "✔",
+            "3d": "✔",
+            "creative_gift": "✔"
+          }
+        ]
+      }
+    ],
+    "product_details": {
+      "color": "#B-12pcs",
+      "occasion": "Christmas",
+      "theme": "Animal",
+      "product_style": "Christmas",
+      "item_dimensions": "3.94 x 3.94 x 0.2 inches",
+      "unit_count": "1 Count",
+      "item_weight": "8 ounces",
+      "number_of_pieces": "1",
+      "material_type": "Pearl, Rhinestone",
+      "brand_name": "Lirynzoventa",
+      "included_components": "Pearl Beads",
+      "manufacturer": "Lirynzoventa",
+      "upc": "776385671196",
+      "best_sellers_rank": [
+        {
+          "text": "#906 in Arts, Crafts & Sewing (See Top 100 in Arts, Crafts & Sewing)",
+          "extracted_rank": 906,
+          "link": "https://www.amazon.com/gp/bestsellers/arts-crafts/ref=pd_zg_ts_arts-crafts",
+          "link_text": "See Top 100 in Arts, Crafts & Sewing"
+        },
+        {
+          "text": "#19 in Diamond Painting Kits",
+          "extracted_rank": 19,
+          "link": "https://www.amazon.com/gp/bestsellers/arts-crafts/23542712011/ref=pd_zg_hrsr_arts-crafts",
+          "link_text": "Diamond Painting Kits"
+        }
+      ],
+      "asin": "B0HDSY9X4M",
+      "customer_reviews": "4.3 out of 5 stars",
+      "rating": 4.3,
+      "reviews": 97,
+      "mounting_type": "Hanging"
+    },
+    "sponsored_brands": [
+      {
+        "position": 1,
+        "asin": "B0HHHVBW4M",
+        "title": "Zcaonb 2PCS Christmas Pearl Diamond Painting Suncatcher Kits, DIY Craft for Adults, Christmas Diamond Art Ornaments (8IN)",
+        "link": "https://aax-us-east-retail-direct.amazon.com/x/c/JPf3LEhMTZ3HAr9ymrmWkpoAAAGhYseIngEAAAH2AQBvbm9fdHhuX2JpZDcgICBvbm9fdHhuX2ltcDIgICD35yXq/clv1c_ek-YBXf2FcTW3uu7cOoEbugzmllWFnq5GImNSk7rPk-UXTNYu2rnGfMGx1fXSdXhDIQipoPJ-UH9bSsQbBIY9M7zVuVo7aXeMwUjvBVexK-ymnPvMd3sYdF4Y_xsfkJRbZKNvJF1gB0RGi0d7Ph1wNzhiJ2cm0HO2sjYL9aqRYweVbMtFTY_80DQM70MiihmGd9QDUP738RJ1HPzqjgYllYFNdz_Zl-_sA1rM7F11fwxtF87Q_f5mLV2aHWuAazGM4q1z9toZDzX8axIG0RJS7_fLwVmk_9hcriraj4J0Z0KpTdGfBK-RArJky_fyZmueD3iNueHIF4kJiTfIqRrLbhwKD-eg30fHe_aSz0lQ3zjPLXbS9KOK8jSpXDZY2WBl79PlLXNZax00C3zV23SmR_K_tVNKDDsEhHBW3lqMCKGF9bz5gnEMowwPkVYvn5GVSZIEgkFe1z8dyzlN5032AmR5lPneyjnGacAkhGioADsLGSy8tMQank8jw_JWl2qy7rs3b_1pK0aVsIK44gQNM6azEjyfg7tnMGMDRYZRe6MuVSMRxesdUPOPUpydzP2pju0zWKiaCRxB-Ylsk3BuWKGhW-DS7ZAA9tndW9A-YbIykreJaV76GY6aiqfw7NMBMdV0934XL2mDvakPc-qMlHpMwa9hleLUAxdR1dzp0QVPuxZo47bDTMAgukwcyHBmuhlT0jJByBghhivmHTEwuBgvrE_JQ3f9WwdjBZhx60LR2tYrg8E9CmpXKPVzYKb3HXk5NQ0lKmv5rUyn2p4xM-AsbSmjXC3yJF7Dq8EXeKB_mXoD9LVZAelflZv2nWc7mUffkt0hNDDYzUPYn1GkEi5UdTaORJmfXQxuSoK1nltnbPT9rBygU5u14AA-rMxHnGkYQszOQ5g6q9BioQmZCDLH4ATqtC1bgNanT_v-ynnkeq9Z1O8bo0OKhf8tc9RJpHYR8Ng0EJ33f-yXFLla174TRnIbYW84z0o116kZ969T11EU1kWg5QfEUkZpSYxlhbcrOaixnuYWhoRcLgvSDS12252_iyvs2dnb2gf_xcEwyqIT7BYeBEOYAwKrJ9KiVCY02r4EfK_1cnRzONppOL7D9Y68R4pq0AjD66OT5VpRlCOlP39AEi137n1M_OH_xh-QW1lS0GSvJvHE1egvyR14w6fMtGULybc2UEZdCO-URNf5_xmJWlabBDUZcGSc9bsnZ_dwqjf1PZZSpwRm45awbfxq9x1dHhIWBMMNJTkeKaCCifJ_HwzM3cJXhceK_sRw_aluqVsdVTyv5WvBe2PsxfcXCDZEfjK3giXbrFlYqxcxTt94XfnCptzO0-XUYDdhxzpbwdIsUuWKzGC3T2yE80jzOo38k_72e13Mye4L6E8RmI9lWgyPcQV6kjWUsWEptH62-PzmDpxF_e7qCNSyC1n5vJHOwj8ud6BrdSRr4baNRw-LeEPO3nIlPj-AlI-yJ5ohj2FN8DTPQhPMMz3LM9o3ur4oxPyhjTk3j5-kHg98Yx1oESn_BNUm7H8zopez9sVnMJQQvFXI7GFH6ToRGjxOmuhdGHG0jSGZj5yUF5SxhO6NhTlsOJeTbZW-m_wIjUnPv60KfXKOg7G9Q/https://www.amazon.com/dp/B0HHHVBW4M/?_encoding=UTF8&pd_rd_i=B0HHHVBW4M&pd_rd_i=B0HHHVBW4M&ref_=sbx_be_s_sparkle_ssd_cta&pd_rd_w=SriYo&content-id=amzn1.sym.fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=WBRR2A9DTXNHJ61KJEE0&pd_rd_wg=nEb7d&pd_rd_r=49fa466d-c9b3-4269-89e6-e8f57d76fa5b",
+        "link_clean": "https://www.amazon.com/dp/B0HHHVBW4M/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0HHHVBW4M&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "thumbnail": "https://m.media-amazon.com/images/I/511AG6IsCtL._AC_SR100,100_QL65_.jpg",
+        "video": {
+          "link": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/fe2326e5-0a0b-49ef-9045-372b85278580.mp4/productVideoOptimized.mp4",
+          "thumbnail": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/fe2326e5-0a0b-49ef-9045-372b85278580.mp4/r/THUMBNAIL_360P_FRAME_3_CAPTURE_2.JPG"
+        },
+        "rating": 4.6,
+        "reviews": 52,
+        "price": "$20.08",
+        "extracted_price": 20.08,
+        "old_price": "$22.31",
+        "extracted_old_price": 22.31
+      },
+      {
+        "position": 2,
+        "asin": "B0HGD81V6K",
+        "title": "Fiada 24 Pcs Christmas Ornament Pearl Diamond DIY Art Kit for Adults | Xmas Rhinestone Hanging Pendants, 5d Craft Painting Decor, 2.75 Inches, for Tree, Home, Key Chains, Holiday, Gift, Party",
+        "link": "https://aax-us-east-retail-direct.amazon.com/x/c/JLs3ZIvtGvCkLvBae3efh_YAAAGhYseInwEAAAH2AQBvbm9fdHhuX2JpZDcgICBvbm9fdHhuX2ltcDIgICDZ9iqv/clv1c_ek-wxQfWLcTaTBVEai7mqxvoNBUpfhMUAgokIe-j3aMyvvCLQKYLG6khPoCyhY-_IPiCbnVqzRK1-k7sHI_1v_D7RuFozbPZbwo87ZaHtOy26gnBwEI5fy346emEB_LQfiIGoGd59wsieGM6d__QtPazIN6bmuUqINXwTDGe5hb_GW4e2Y_AGl-lpnT-5cPGUH1eFmdzrwdL0-HHpHpgomfC23QfJW1V9YdV7Yg36bWha7-nziZfi94JJrCOEediOCo4u50d6rr0EJ88o02F6ZkRsFhAtwHRbRIyGvU4GsX8jw8gGWebZir8fEpgucvF2NV1IJF1Ips1Xy8Ik9O2G-izEB5vPSiRpKLvYPY1ccw84o7CT9dQZy9BfZ6PzP-whHRpib_9H7bSFmMGxKyIdY1BsYIu0AHYBzJNfc3SzBgnbACVEzasVNkl8VtHr_cic6I0ywZ856xyUjAcrcFcmz-otfxM_8JL6wGFB9NzKGi68IsE-m-rFoLh7WBzXdBBTZwJRkl91WYUHSDnlZjohm6tJyTVQKtRPtuNNZHj1E78JW-nKZu3KSiw4ARZsf0X9VTFRvmEzHsjDv7njkuv19YcXitz0tFnDMnk-alkcRuAsL8-3_up2Alw7bS40OfPFNWPV7beNbGVLIaZv_YMT0dfSuwp85cRpTeoKaYyGv-R5nWLF4mlvCVZqregvZguMEDGmFr79RTOWcztCBD8O1f9whj9NvOuH3ksVYg84iPTCv3opKl2HASvZQgz-Jdy95kNGwQqFWBBFlDYRENTKnN2rxCqKyWfWXBoMksXwYRQSaoxuB_zCWDejVah88vJ2Xzvbons373dGObdJxPS-VmxpITyf6gpsZz0OtX8Mfiy07bN15yvI7ixgZ38aJeKlbINDyKEPe76YswD4JU1J20t5vspqUa6L0DwcnPyxBc25pl4EWGNxrodbwxCT4De66vSGc3GDmT_iyvfejI_vaZ1w_Qp581LMa_OB1fKBgtaf90Q874E5esobXsob8r-aN48TFUHCxa1RFYu5xqwBPyEYT-LpQ3VbuqxEMpnu8NhFLRrNMVwU1_Q-zkKF8kdRUp4FCFafnGnKU3Mveh1ofxQlDEXaGv12VrXJ4KvbRgSOlf7E-z0e2wK9p_c2Skzw4U_RESUa2ad7yHv_zLP3svcK5YuUNQ0WmffIY_5JJldOueo5oJh3YQjg13b1B5blmtBwkYvcSA1pr1Cbb8UVtIHNWX4-yvbKPi5O1dGngE1lL2SBkUavwROgzS-n1Uuy1S65_ACzqhjX_1sTjWoHbS9pt6-ojaFcYR6LM70V2DZTSj7I6X2IzM4zbY6ZONnaAdnAhyjitdrFXnNLn3Fqf3F6vnv6YlSqW67DirAGMwu0Ph-olgs1A_x05EiNDlLcCNXf4wvonvryf_SlCWnNIpGoKXPOjSANwskElkz47PlELqpQd3jE0JyxaLvahY-nHlCz4R6oRtDX8dqCwZtT2mRRAtLo2sFg70Xy_bIa02RlUIiFGph4gC40TQ_2OK40ZxuyKr4F8TO_OKMXy3PgJjEEUOIjLBt2POrfXMJLxub8pqwG4KuMrnNnww8VmjoQrBpJe92CepqJ5iXZ19-ltpWOZ8W7ggTHRqbiL1W/https://www.amazon.com/dp/B0HGD81V6K/?_encoding=UTF8&pd_rd_i=B0HGD81V6K&pd_rd_i=B0HGD81V6K&ref_=sbx_be_s_sparkle_ssd_cta&pd_rd_w=SriYo&content-id=amzn1.sym.fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=WBRR2A9DTXNHJ61KJEE0&pd_rd_wg=nEb7d&pd_rd_r=49fa466d-c9b3-4269-89e6-e8f57d76fa5b",
+        "link_clean": "https://www.amazon.com/dp/B0HGD81V6K/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0HGD81V6K&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "thumbnail": "https://m.media-amazon.com/images/I/61jsG2gM0ZL._AC_SR100,100_QL65_.jpg",
+        "video": {
+          "link": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/915f037b-359c-4ba4-b245-f30c53edd23c.mp4/productVideoOptimized.mp4",
+          "thumbnail": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/915f037b-359c-4ba4-b245-f30c53edd23c.mp4/r/THUMBNAIL_360P_FRAME_3_CAPTURE_2.JPG"
+        },
+        "rating": 5.0,
+        "reviews": 2,
+        "price": "$19.99",
+        "extracted_price": 19.99
+      },
+      {
+        "position": 3,
+        "asin": "B0HKN24WNH",
+        "title": "Christmas Diamond Painting Art Kit, DIY Pearl Art Craft Kits for Adult (#A) | DIY Craft Kit, Pearl Art Design, Holiday Theme, Adult Activity, Creative Art Set",
+        "link": "https://aax-us-east-retail-direct.amazon.com/x/c/JBy4z7ZGQDCyanqU_suh04wAAAGhYseInwEAAAH2AQBvbm9fdHhuX2JpZDcgICBvbm9fdHhuX2ltcDIgICDqcnso/clv1c_ek-YBXf2VcbW3jI2m8VSJvBwCsVHk2g1-JOvW3u2NaEGu1P0n28JpVWV6jHj92pE9xsvSHabQfsCFGc6etffwR-qtEMCywuxDhh3bKfXGsQVTxnd2DZ5ey9-5-HslhI3TUmxp57JZMpJCHjRM91V1taT4N2RghFivmwQLzcjwJgrgVs0esOngHWkIpQ8lO4eg30fJiuLHQDP07j7w4ih4RujSF6xxx9HkAXttH1y1Y0tdhwdyLxTMKadXjiP5deePlKxFNOxDF9t-62u2GSBiMG_ZN2CrbJXKS1ifTqtzDl_HlcGmKCj9aM5Dv1kzFj-5Mb69dIh66ERGT9H7_M70BlCe4S-O9z7tQBUiZpQvSK-lWGuwf9m-3d0SPhAYcl7jWNBb0744LrDdzKBr3evnBgtRhamSabVA-GQjhhyuStyfbsOuUW0DJ7KKreZYiuK71XJetny3KSnUwkp8VY4c5oMl_6Jv7OfJbK4a6OJ8gd1_bsFjGvzE6li8WtElJJBUzajnnygSKgBYDOIkup34o0QRQ-bBtSdWetiDoN-rPaeYEkawEBKy_RgUM3ldiHWcAuN6u0AHS5K5u-lQpXKmRN9-6Vl_8rNVoWT6qvFFQgnH0TLZHvOOz9JnNlT8g9SCr_TGLuG0Kpgq4FrgL65ihrqQ67fQUC_KDqz7etPflVTf206SmnguiYRuT9T_acPmPfV7OjSgst6ciUAYnvzrcFzOeAzD4PJ4y-qB4HUa4_7YUzoOddOsNnCFyfqf7Ip4Li5B2OL2w8GzNkDWvhb7tMzpA0eKXrkYq_hQ_c7YITQzkU3bpFZlza5ytmnXPsKM8KFc13cygFdndjNlqYY7h5WW7wNA8pU5d3DGoD3ZTY-71so4HQtHXi4YdyBueChhhCyA9Ilfv7nDreiSbp2MJtr6cpWE2AX2AWP6Ew3_Zdn6INYu-hFBKjgCCnJhRkcb3-QVhjuy947COxSfJTIyi0qGgaKEgMwsqWFlfwd482qPFADz2Tzjz3ada0O13Y3hiw3w84fegTGubB3qKAZYmGj9ZPirytCZWdp-HQeYjhPef7LCFQiTYj_FVHri4TjRlbtKliIu8a7bnvGHPEK8Qa9BRGh4uuE9LF6CPBLiewhxCJFwwx2WM90nHClnvVIN4hc-1qHJuSIHXMN66pE3wCSg0P-2VjkYxfW5Tkp52pbgv8VuAXkClzqONAmwo6Apz3ywx31r00EstqGHftVwqH-bgY2stWS1wIo_MOc3cBLAIOpVZM3vpZ4-8BvJtXXceul9Mq_IY1n5zo3RxE7S0djCU8Lf8Q-s6nkjOldeaoGWXfsMLUsprCbw_cUNDPNc9lCk9VbvhFlpGJT8dRXiA0SUZXa-bxvxhDsOGE-saD7KU9eMEBhb_5iz49fsgEwVAgoeWjygCNnHiMabYKUYGLNoaWODyPo-wEYlbUuVmoZeJzvPDuKZN9P1HRd6KiEjdKjfQ1gXkcpGQ-KkrnvbeVyRLlCNjgnH-MIaiFHjMcq1HcS4g08CaJIyO74tGXv0hDrxswidD7UmUgvAaWes-ZwmVlU9GW2LZHO6EwZ8h8B4IhlY8PQlFW2GEGveyIHFwO7lozvf4wy__Q3QONQppTrG2c/https://www.amazon.com/dp/B0HKN24WNH/?_encoding=UTF8&pd_rd_i=B0HKN24WNH&pd_rd_i=B0HKN24WNH&ref_=sbx_be_s_sparkle_ssd_cta&pd_rd_w=SriYo&content-id=amzn1.sym.fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=WBRR2A9DTXNHJ61KJEE0&pd_rd_wg=nEb7d&pd_rd_r=49fa466d-c9b3-4269-89e6-e8f57d76fa5b",
+        "link_clean": "https://www.amazon.com/dp/B0HKN24WNH/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0HKN24WNH&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "thumbnail": "https://m.media-amazon.com/images/I/51IAKsr2ZkL._AC_SR100,100_QL65_.jpg",
+        "video": {
+          "link": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/f1d8f451-b4d2-4d16-a409-5d79ce05ac2f.mp4/productVideoOptimized.mp4",
+          "thumbnail": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/f1d8f451-b4d2-4d16-a409-5d79ce05ac2f.mp4/r/THUMBNAIL_360P_FRAME_3_CAPTURE_2.JPG"
+        },
+        "price": "$24.98",
+        "extracted_price": 24.98
+      },
+      {
+        "position": 4,
+        "asin": "B0HDZDDGLK",
+        "title": "12Pcs Christmas Diamond Art Keychains Kits - Diamond Painting Ornaments | Christmas Crafts for Adults - Make Your Own Xmas Hanging Paint Kits for Family Decor, Gift Tags and Winter Crafts",
+        "link": "https://aax-us-east-retail-direct.amazon.com/x/c/JD4rYa00ZVAuvYolmE1VClUAAAGhYseIoAEAAAH2AQBvbm9fdHhuX2JpZDcgICBvbm9fdHhuX2ltcDIgICAnJNf_/clv1c_ek-wBfv3VcbW3jI2m8VSJvBwCsVHk2g1-BNuhrOzNiFxrGkyTaMAWQ5x0VFc7EFsinCSyLliqmFxun1c81TLC_F0t_M7jwlJV29_wxQj1O26u3Mz4sOBtmn99DkUZPIofV5eL_wiSHahgHs6d6qKS8n7odeIBsXKI1TQDzao1fbPOahZhnIkwWk58sQEaNg7o-RxIPtr34bJQuXgp5Bm3nmP_WcjBtDe55vBDIMt4WwCYoiHwb7MD0mOD33s-VdJqbfhKRXDvUaMGFo2IEln1DiR3MJgZaqnxZ7scH60-qSIGMEVfpqlpp1pjuzVjyhj26q0SReUuerWM98-rMfC61st0ah1b9m_lJqAlLb35JqIsPUNlXbQwgcLYjBiLFT8YO0D_JfzDAWS-xvx9KFT8wGAQVUlwuK6MTr3GiJc6gkftD0gP4p6NImsMdOBhHUVLbaQU_ksPxW9WlEdpIFCICnWVjzkx9uRtmAadoG-5v_kJQ0-JgQxpQyFJ7gPDdEAnSKyVq_i28ENYsity-jX3p5brSjdAMtWPrMoxR-drda32ka5-tb4AIO6WlU1UKNTsVjEEhOm1k8KtgcaDPEFUqgFTu9qmGpfpfUkG_3xRwWspN_fQtce-PWWMCjsW6F97QGR734MsGGekTttaRJj5qYIM02RwnYFWMX1QJm5Gbd7AW8q4k6K4wEX1jJefKlNncYtil8bgrHytmMB88-N1Baw9cfXA1WPoaTNvZ3kAcmhWziuvrHEp-2J8D4xkD-xV71OL2P4-wLDmXJFC5FvHUqHyFgrY8tVBiJB3qBYo-s6ZzohfgvOwzglp-vbriY31dpg8rx0fVke58WCBoPu1LcShGju0F8xWklq7tFLUpEumfold2QkFfg0lyETQ9cAkre2HaovNZRiumrBoQJRqxNRS799HyKc_3ABkkmsnA2AwEgwZrqZymajTgA6VYdDS2_mJWK7-G7-Sb6wrMbhxpuq7UZQzpgKRlpC67Sm3IpmWoMjenwBN3wxWEEcnaqM4nRqD6QDe-M-aVqH6FLeCaM5to5gl1Ni4mtfbzFwEE9C30E-BfvypUJcgJuO5tkbStPDkba9wm0gGlgiceAbr27ksaoyRuORgepu4Uj0c0sEU0eQYtPr0MVPbZrDVpwBnOonYGeFjECZVtqD48dx7kOkz7c6KranZoPiLgyOyV9lruEkeEpw0C0hllzFPL-BbkKhnZZg3mzjndanAhCkDWawZ2g3H3VXPGje5_jycBDvus3ohJOux2Oz8tSotX_lm3rIuKpGRv7GVfOeJTvV3sHLUPtjm5chULvXmJbxHfDBgQPonLPA6OYkVJAJWV6ygRmLMuJRAxWc77QI6P7IcMgZPvSaWVKFDbGEUpj6Eb3AIJU1WDrwq67e_5neP0HDqB6SmWhsGp5-p16wLabE4gaLejys6LRZii4OVTsYq3VrAOXl0FxxPhvKFHYYB79sHmyImpEZdH-g-vhYXqwyuXf3U9n6JwPo1ljFmBN0xni5P0W5HgZpaa71eQm4m-o3asssp1le9tGLrwTViwqoR9S02sMnhF2GOeWyurWDIRRnWvrFc9syRsL4o5Xm-NJ4QKxt-caWv5vnMA/https://www.amazon.com/dp/B0HDZDDGLK/?_encoding=UTF8&pd_rd_i=B0HDZDDGLK&pd_rd_i=B0HDZDDGLK&ref_=sbx_be_s_sparkle_ssd_cta&pd_rd_w=SriYo&content-id=amzn1.sym.fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=WBRR2A9DTXNHJ61KJEE0&pd_rd_wg=nEb7d&pd_rd_r=49fa466d-c9b3-4269-89e6-e8f57d76fa5b",
+        "link_clean": "https://www.amazon.com/dp/B0HDZDDGLK/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0HDZDDGLK&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "thumbnail": "https://m.media-amazon.com/images/I/51aLApO3D1L._AC_SR100,100_QL65_.jpg",
+        "video": {
+          "link": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/efa89fb4-195c-41ef-9087-2735c2db5be5.mp4/productVideoOptimized.mp4",
+          "thumbnail": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/efa89fb4-195c-41ef-9087-2735c2db5be5.mp4/r/THUMBNAIL_360P_FRAME_3_CAPTURE_2.JPG"
+        },
+        "rating": 4.9,
+        "reviews": 24,
+        "price": "$9.99",
+        "extracted_price": 9.99
+      },
+      {
+        "position": 5,
+        "asin": "B0HBX4K434",
+        "title": "5PCS Christmas Pearl Diamond Painting Art Kit, DIY Beads Craft for Adults | 3D Pearl Bead Art Crafts Kits with Frame for Beginners Gemstone Diamonds Dots Beads Painting for Fall Home Wall Decor",
+        "link": "https://aax-us-east-retail-direct.amazon.com/x/c/JMabbMqNUVfq5nq1WEJdI3sAAAGhYseIoQEAAAH2AQBvbm9fdHhuX2JpZDcgICBvbm9fdHhuX2ltcDIgICAHNOJw/clv1c_ek-YBQf2UsbWHn0mG_3P82PkEFX3EpdxbXDgeGnxtgFredrBBi-2EFd86UJKjIdd9tZ-WA7E2EUZk9obrBJYdVfyVuDaiB9fKo1xLQj_y6-6u1NnSgsOjMHPhqH0J3sycbPxNoKCAfWUm1wDWJo2mRd5I9mYRhWrFgxwxTmkXG7_GOgQTZCJV-38eGePe_vBT_sGiMP738ZJ1HPzqjgYtiPJeb_v1FqK9b8ju2gKB8HmRAGO6CpHM4Yd1ON_OGMZdSYTj02_Yrr95Y78ZB4IkKfqe2JEzKjG0cWNYYEgJj7mo4-w0jyoJKK38vP6pDWFyrJ5eOIsHZ58RgGTxOqZw8FJ9G6tuHQK-KNk3e9VC07SJVT8P19_EuUe2uUc9ASmfPlY7K8-jX6pJb2o7msoHwPrlA6q0Tc1o_VKPgM_-E4J7foUV7ui3Ekk_UBeQNwjnWkPv6Kqu_53Qzrp-sCWeVTABf7QrA1Uj5TjuJTyUqljUTKGrR-QZxM6cyaxtfmsSh6EUW_JuXI9FHzU4id8cL9veaxxbNqeGDBFF9utpBmIB4ziX85EfdZcd4MrR8G8wjkuncM-pJ52FAMi6Vg5hHC_Bp6AW5q6ywY2hxXCxZVI05l9__TMwQkioQDJNSco7OU9H7ZihvwTRM5XOMIu4YBBJcDlX4gFn8_qtssJbOLZvGlevU_Nw0jhk__dREkZhgyYDT3tt7EStQY7cLQ8-4E8Nw6QzcfTXOYMPVxGD3QiJm2pcq7Tp-3umuIJyfyip-t8aBtFg4a10ElExbmW-2ZdU9ajYrbFTzjh8LrJanGCgKH8cx_jiGL-kJoj2tgR-RZwdxFwBzRbBgXNkfX-u1f1CNDOpmGXFb-siOTd8LNyIPwv2z5SHO0S710LgJa1HVadxM21ecYIQ6fZNSoki8jVIIEQqtD0M8wanT_v9yqnke4_Z5G89n-1KpT8JW2D2ugQKivemu8zgTMX4KukK7bKD8VYkbovRQSNTYH7lfFExho1zP_4hEOVuK7G8lwUNJmrOzEP2eYG-QnzAL2nmZstx8szMjkduOI9B_KZ35E4fFpZ_CrqbVVLiJuMwDkGaRCLjdTsP98-LD0bgiXXkvJBICZVN1ryG8PJ7Ehlf5pyvIzHiHCdPA1IxbwPNowUqLu25U_5x6L4RifYNK6Bc8YRg2Lca9Tx5w8l5qR-xkdHShlifu_d67F5Jdfn0QsZ8yQPYROoI4CV8VeonKdc5SCPlG1KzlL0uN4feZXIbF3MaIRqTbc5lmyG01YD7VTmVmA_bzxsuKb1fMGbWOEbNOZCXQC5k6ly64MKNBFU_HiEMJhXKxGXqRs9OX0MP702L5L_ePYDoiqxvsfjkDfluy2xI1LwLwbfVSslAqjUjeXVlRZ6JQYVUu32oUgK5NhM7cIhC041-QE34CfelzGueMa2KsVQFd827vIybFwJY_LUZpvrgZI79anvkY4Ac4MStWGA2Xv_qHm8C6MXSq0D2Edukopg8fd-QagWCdBezMMOCOoB57zehx0A3KphrkHhXqsUmaqVcoTD4rStY6USppVZfJjTvX9zpVYs7QiHt7QVRdlBcTAazgkmf0BvQJ0roWw6wUF3tAVYhyMuhkPp6Pc/https://www.amazon.com/dp/B0HBX4K434/?_encoding=UTF8&pd_rd_i=B0HBX4K434&pd_rd_i=B0HBX4K434&ref_=sbx_be_s_sparkle_ssd_cta&pd_rd_w=SriYo&content-id=amzn1.sym.fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=WBRR2A9DTXNHJ61KJEE0&pd_rd_wg=nEb7d&pd_rd_r=49fa466d-c9b3-4269-89e6-e8f57d76fa5b",
+        "link_clean": "https://www.amazon.com/dp/B0HBX4K434/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0HBX4K434&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "thumbnail": "https://m.media-amazon.com/images/I/51m2vm-rUkL._AC_SR100,100_QL65_.jpg",
+        "video": {
+          "link": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/e57c9157-22b4-49a5-83f6-ed90bc5db888.mp4/productVideoOptimized.mp4",
+          "thumbnail": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/e57c9157-22b4-49a5-83f6-ed90bc5db888.mp4/r/THUMBNAIL_360P_FRAME_3_CAPTURE_2.JPG"
+        },
+        "rating": 4.6,
+        "reviews": 5,
+        "price": "$38.99",
+        "extracted_price": 38.99,
+        "old_price": "$46.99",
+        "extracted_old_price": 46.99
+      }
+    ]
+  }
+}

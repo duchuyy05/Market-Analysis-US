@@ -1,0 +1,1934 @@
+{
+  "provider": "serpapi",
+  "endpoint": "https://serpapi.com/search.json",
+  "parameters": {
+    "engine": "amazon_product",
+    "asin": "B095JZTMGX",
+    "amazon_domain": "amazon.com",
+    "language": "en_US",
+    "shipping_location": "US",
+    "output": "json"
+  },
+  "fetched_at_utc": "2026-10-22T08:44:49.880541+00:00",
+  "raw_file": "raw/serpapi-bdffb079faeffaec61ca.json",
+  "response": {
+    "search_metadata": {
+      "id": "6ad9cd0225bc2ce7b55c9142",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/jZDVeE-i6OYJ2l2DFSziBIrSkF9Lnmvy0e-EeqcV95o/6ad9cd0225bc2ce7b55c9142.json",
+      "markdown_endpoint": "https://serpapi.com/searches/jZDVeE-i6OYJ2l2DFSziBIrSkF9Lnmvy0e-EeqcV95o/6ad9cd0225bc2ce7b55c9142.md",
+      "created_at": "2026-10-22 08:44:50 UTC",
+      "processed_at": "2026-10-22 08:44:50 UTC",
+      "amazon_product_url": "https://www.amazon.com/dp/B095JZTMGX/?language=en_US",
+      "raw_html_file": "https://serpapi.com/searches/jZDVeE-i6OYJ2l2DFSziBIrSkF9Lnmvy0e-EeqcV95o/6ad9cd0225bc2ce7b55c9142.html",
+      "total_time_taken": 9.41
+    },
+    "search_parameters": {
+      "engine": "amazon_product",
+      "asin": "B095JZTMGX",
+      "amazon_domain": "amazon.com",
+      "language": "en_US",
+      "device": "desktop",
+      "shipping_location": "US"
+    },
+    "product_results": {
+      "categories": [
+        {
+          "position": 1,
+          "name": "Health & Household",
+          "link": "https://www.amazon.com/health-personal-care-nutrition-fitness/b/ref=dp_bc_1?ie=UTF8&node=3760901",
+          "node": "3760901",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&language=en_US&node=3760901&shipping_location=US"
+        },
+        {
+          "position": 2,
+          "name": "Household Supplies",
+          "link": "https://www.amazon.com/Household-Supplies-Products/b/ref=dp_bc_2?ie=UTF8&node=15342811",
+          "node": "15342811",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&language=en_US&node=15342811&shipping_location=US"
+        },
+        {
+          "position": 3,
+          "name": "Lighters & Matches",
+          "link": "https://www.amazon.com/Lighters-Matches/b/ref=dp_bc_3?ie=UTF8&node=10342347011",
+          "node": "10342347011",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&language=en_US&node=10342347011&shipping_location=US"
+        },
+        {
+          "position": 4,
+          "name": "Matches",
+          "link": "https://www.amazon.com/Matches/b/ref=dp_bc_4?ie=UTF8&node=10342355011",
+          "node": "10342355011",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&language=en_US&node=10342355011&shipping_location=US"
+        }
+      ],
+      "asin": "B095JZTMGX",
+      "title": "Electric Candle Lighter, Christmas Stocking Stuffers Gifts for Women Mom Men Wife, USB Arc Rechargeable Windproof Long Lighter for Candle BBQ Housewarming Birthday Gifts Idals",
+      "link": "https://www.amazon.com/hp/wlp/pipeline/membersignup?ref=primedp_ventures_desktopBelowThreshold&primeCampaignId=primedp_ventures_desktopBelowThreshold",
+      "link_clean": "https://www.amazon.com/dp/B095JZTMGX/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B095JZTMGX&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+      "badges": [
+        "#1 Best Seller"
+      ],
+      "variants": [
+        {
+          "title": "Color",
+          "items": [
+            {
+              "position": 1,
+              "asin": "B095JZTMGX",
+              "name": "Rose Gold",
+              "image": "https://m.media-amazon.com/images/I/31BU0HbkpYL._SS64_.jpg",
+              "selected": true,
+              "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B095JZTMGX&device=desktop&engine=amazon_product&language=en_US&shipping_location=US"
+            },
+            {
+              "position": 2,
+              "asin": "B095K46F7X",
+              "name": "Black",
+              "image": "https://m.media-amazon.com/images/I/31hdQcnjSgL._SS64_.jpg",
+              "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B095K46F7X&device=desktop&engine=amazon_product&language=en_US&shipping_location=US"
+            },
+            {
+              "position": 3,
+              "asin": "B0CQQ8KDGC",
+              "name": "Black / Champagne Gold",
+              "image": "https://m.media-amazon.com/images/I/31bvraCK05L._SS64_.jpg",
+              "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0CQQ8KDGC&device=desktop&engine=amazon_product&language=en_US&shipping_location=US"
+            },
+            {
+              "position": 4,
+              "asin": "B0CH9K1GXX",
+              "name": "Black / Rose Gold",
+              "image": "https://m.media-amazon.com/images/I/31aBpNH+bxL._SS64_.jpg",
+              "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0CH9K1GXX&device=desktop&engine=amazon_product&language=en_US&shipping_location=US"
+            },
+            {
+              "position": 5,
+              "asin": "B0CH9JC319",
+              "name": "Black / Silver",
+              "image": "https://m.media-amazon.com/images/I/31wpBPEkkBL._SS64_.jpg",
+              "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0CH9JC319&device=desktop&engine=amazon_product&language=en_US&shipping_location=US"
+            },
+            {
+              "position": 6,
+              "asin": "B0D9LPKGFV",
+              "name": "Black / Space Gray",
+              "image": "https://m.media-amazon.com/images/I/415O3raMBEL._SS64_.jpg",
+              "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0D9LPKGFV&device=desktop&engine=amazon_product&language=en_US&shipping_location=US"
+            },
+            {
+              "position": 7,
+              "asin": "B095K3ZZVG",
+              "name": "Blue",
+              "image": "https://m.media-amazon.com/images/I/313xv2WZ9CL._SS64_.jpg",
+              "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B095K3ZZVG&device=desktop&engine=amazon_product&language=en_US&shipping_location=US"
+            },
+            {
+              "position": 8,
+              "asin": "B0BY7YG32Q",
+              "name": "Champagne Gold",
+              "image": "https://m.media-amazon.com/images/I/31E1WlloYzL._SS64_.jpg",
+              "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0BY7YG32Q&device=desktop&engine=amazon_product&language=en_US&shipping_location=US"
+            },
+            {
+              "position": 9,
+              "asin": "B095K4T33V",
+              "name": "Green",
+              "image": "https://m.media-amazon.com/images/I/314uKRzTWyL._SS64_.jpg",
+              "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B095K4T33V&device=desktop&engine=amazon_product&language=en_US&shipping_location=US"
+            },
+            {
+              "position": 10,
+              "asin": "B095K44MYG",
+              "name": "Light Blue",
+              "image": "https://m.media-amazon.com/images/I/31m3LIXJbIS._SS64_.jpg",
+              "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B095K44MYG&device=desktop&engine=amazon_product&language=en_US&shipping_location=US"
+            },
+            {
+              "position": 11,
+              "asin": "B095K58ZK2",
+              "name": "Purple",
+              "image": "https://m.media-amazon.com/images/I/31rYVx7tFOL._SS64_.jpg",
+              "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B095K58ZK2&device=desktop&engine=amazon_product&language=en_US&shipping_location=US"
+            },
+            {
+              "position": 12,
+              "asin": "B0CNQVHXSD",
+              "name": "Rose Gold / Rose Gold",
+              "image": "https://m.media-amazon.com/images/I/31KITswDgUL._SS64_.jpg",
+              "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0CNQVHXSD&device=desktop&engine=amazon_product&language=en_US&shipping_location=US"
+            },
+            {
+              "position": 13,
+              "asin": "B0CH9HKBPL",
+              "name": "Rose Gold / Silver",
+              "image": "https://m.media-amazon.com/images/I/31lIHhRS0HL._SS64_.jpg",
+              "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0CH9HKBPL&device=desktop&engine=amazon_product&language=en_US&shipping_location=US"
+            },
+            {
+              "position": 14,
+              "asin": "B095K3ZL81",
+              "name": "Silver",
+              "image": "https://m.media-amazon.com/images/I/31MnHzXYbFL._SS64_.jpg",
+              "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B095K3ZL81&device=desktop&engine=amazon_product&language=en_US&shipping_location=US"
+            },
+            {
+              "position": 15,
+              "asin": "B0D9M2B668",
+              "name": "Space Gray",
+              "image": "https://m.media-amazon.com/images/I/31FF8pJVTKL._SS64_.jpg",
+              "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0D9M2B668&device=desktop&engine=amazon_product&language=en_US&shipping_location=US"
+            }
+          ]
+        }
+      ],
+      "variant_combinations": [
+        {
+          "dimensions": {
+            "color": "Black",
+            "total_product_quantity": "1 Count"
+          },
+          "asin": "B095K46F7X",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B095K46F7X&device=desktop&engine=amazon_product&language=en_US&shipping_location=US"
+        },
+        {
+          "dimensions": {
+            "color": "Black / Champagne Gold",
+            "total_product_quantity": "1 Count"
+          },
+          "asin": "B0CQQ8KDGC",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0CQQ8KDGC&device=desktop&engine=amazon_product&language=en_US&shipping_location=US"
+        },
+        {
+          "dimensions": {
+            "color": "Black / Rose Gold",
+            "total_product_quantity": "1 Count"
+          },
+          "asin": "B0CH9K1GXX",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0CH9K1GXX&device=desktop&engine=amazon_product&language=en_US&shipping_location=US"
+        },
+        {
+          "dimensions": {
+            "color": "Black / Silver",
+            "total_product_quantity": "1 Count"
+          },
+          "asin": "B0CH9JC319",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0CH9JC319&device=desktop&engine=amazon_product&language=en_US&shipping_location=US"
+        },
+        {
+          "dimensions": {
+            "color": "Black / Space Gray",
+            "total_product_quantity": "1 Count"
+          },
+          "asin": "B0D9LPKGFV",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0D9LPKGFV&device=desktop&engine=amazon_product&language=en_US&shipping_location=US"
+        },
+        {
+          "dimensions": {
+            "color": "Blue",
+            "total_product_quantity": "1 Count"
+          },
+          "asin": "B095K3ZZVG",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B095K3ZZVG&device=desktop&engine=amazon_product&language=en_US&shipping_location=US"
+        },
+        {
+          "dimensions": {
+            "color": "Champagne Gold",
+            "total_product_quantity": "1 Count"
+          },
+          "asin": "B0BY7YG32Q",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0BY7YG32Q&device=desktop&engine=amazon_product&language=en_US&shipping_location=US"
+        },
+        {
+          "dimensions": {
+            "color": "Green",
+            "total_product_quantity": "1 Count"
+          },
+          "asin": "B095K4T33V",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B095K4T33V&device=desktop&engine=amazon_product&language=en_US&shipping_location=US"
+        },
+        {
+          "dimensions": {
+            "color": "Light Blue",
+            "total_product_quantity": "1 Count"
+          },
+          "asin": "B095K44MYG",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B095K44MYG&device=desktop&engine=amazon_product&language=en_US&shipping_location=US"
+        },
+        {
+          "dimensions": {
+            "color": "Purple",
+            "total_product_quantity": "1 Count"
+          },
+          "asin": "B095K58ZK2",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B095K58ZK2&device=desktop&engine=amazon_product&language=en_US&shipping_location=US"
+        },
+        {
+          "dimensions": {
+            "color": "Rose Gold",
+            "total_product_quantity": "1 Count"
+          },
+          "asin": "B095JZTMGX",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B095JZTMGX&device=desktop&engine=amazon_product&language=en_US&shipping_location=US"
+        },
+        {
+          "dimensions": {
+            "color": "Rose Gold / Rose Gold",
+            "total_product_quantity": "1 Count"
+          },
+          "asin": "B0CNQVHXSD",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0CNQVHXSD&device=desktop&engine=amazon_product&language=en_US&shipping_location=US"
+        },
+        {
+          "dimensions": {
+            "color": "Rose Gold / Silver",
+            "total_product_quantity": "1 Count"
+          },
+          "asin": "B0CH9HKBPL",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0CH9HKBPL&device=desktop&engine=amazon_product&language=en_US&shipping_location=US"
+        },
+        {
+          "dimensions": {
+            "color": "Silver",
+            "total_product_quantity": "1 Count"
+          },
+          "asin": "B095K3ZL81",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B095K3ZL81&device=desktop&engine=amazon_product&language=en_US&shipping_location=US"
+        },
+        {
+          "dimensions": {
+            "color": "Space Gray",
+            "total_product_quantity": "1 Count"
+          },
+          "asin": "B0D9M2B668",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0D9M2B668&device=desktop&engine=amazon_product&language=en_US&shipping_location=US"
+        }
+      ],
+      "brand": "Visit the MEIRUBY Store",
+      "thumbnail": "https://m.media-amazon.com/images/I/61-kUNGSMyL._AC_SY300_SX300_QL70_FMwebp_.jpg",
+      "thumbnails": [
+        "https://m.media-amazon.com/images/I/61-kUNGSMyL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71PR8HsDlhL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81lNw1DxNwL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61Q94ZStqKL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71LTwXatmeL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81pEmpeYuGL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71rDCrNXy0L._AC_SL1500_.jpg"
+      ],
+      "rating": 4.4,
+      "reviews": 23864,
+      "bought_last_month": "10K+ bought in past month",
+      "price": "$12.99",
+      "extracted_price": 12.99,
+      "delivery": [
+        "FREE delivery Tuesday, October 27 on orders shipped by Amazon over $35"
+      ],
+      "stock": "In Stock"
+    },
+    "purchase_options": {
+      "single_offer": {
+        "price": "$12.99",
+        "extracted_price": 12.99,
+        "delivery": [
+          "FREE delivery Tuesday, October 27 on orders shipped by Amazon over $35"
+        ],
+        "stock": "In Stock",
+        "features": {
+          "ships_from": {
+            "text": "Amazon",
+            "details": {
+              "heading": "Ships from",
+              "content": "Amazon"
+            }
+          },
+          "sold_by": {
+            "text": "MEIRUBY-Direct",
+            "details": {
+              "heading": "Sold by",
+              "content": "MEIRUBY-Direct"
+            },
+            "link": {
+              "text": "MEIRUBY-Direct",
+              "link": "https://www.amazon.com/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1M3GKFTXYXYYI&asin=B095JZTMGX&ref_=dp_merchant_link&isAmazonFulfilled=1"
+            }
+          },
+          "returns": {
+            "text": "FREE 30-day refund/replacement",
+            "details": {
+              "heading": "FREE 30-day refund/replacement"
+            },
+            "link": {
+              "text": "See exceptions",
+              "link": "https://www.amazon.com/gp/help/customer/display.html/?nodeId=GKQNFKFK5CF3C54B"
+            }
+          },
+          "payment": {
+            "text": "Secure transaction",
+            "details": {
+              "heading": "Your transaction is secure",
+              "content": "We work hard to protect your security and privacy. Our payment security system encrypts your information during transmission. We don’t share your credit card details with third-party sellers, and we don’t sell your information to others. Learn more"
+            },
+            "link": {
+              "text": "Learn more",
+              "link": "https://www.amazon.com/gp/help/customer/display.html?nodeId=201909010"
+            }
+          }
+        }
+      }
+    },
+    "item_specifications": {
+      "brand": "MEIRUBY",
+      "color": "Rose Gold",
+      "material": "Aluminum",
+      "style": "Electric",
+      "item_weight": "59 g",
+      "fuel_type": "Electric",
+      "product_dimensions": "8.3\"L x 2.2\"W x 0.65\"Th",
+      "number_of_items": "1",
+      "unit_count": "1 Count",
+      "upc": "765473218733"
+    },
+    "about_item": [
+      "Upgrade Electric Lighter: The Windproof and Splashproof Design of the electric arc lighter ensures that you can easily use it under any weather conditions.",
+      "Economical & Environmental Candle Lighter: One electric lighter, which is more economical and environmental,is equal to 300 traditional lighter.",
+      "Rechargeable USB Lighter: The Lighters can be used 600 times on a single charge which display real time battery volume.",
+      "Portable Lighter: The Slender design make it easier to light candles elegantly. It is suitable for daily use.",
+      "What you get: A Electric Lighter ,a USB charging Cable and a Manual. Perfect Mothers Day Gifts for Women Mom Nana Wife Sister Nana."
+    ],
+    "bought_together": [
+      {
+        "position": 1,
+        "title": "MEIRUBY Electric Candle Lighter, Christmas Stocking Stuffers Gifts for Women Mom Men Wife, USB Arc Rechargeable Windproof Long Lighter for Candle BBQ Housewarming Birthday Gifts Idals",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/61-kUNGSMyL._AC_UL116_SR116,116_.jpg",
+        "price": "$12.99",
+        "extracted_price": 12.99,
+        "delivery": [
+          "Get it as soon as Tuesday, Oct 27"
+        ],
+        "stock": "In Stock"
+      },
+      {
+        "position": 2,
+        "title": "Tree Hut Pink Hibiscus Body Scrub, Exfoliating Sugar Scrub, Vegan, 18 Oz | Exfoliating & Nourishing with Shea Butter & Essential Oils, Body Exfoliator for All Skin Types, Self Care Gifts for Women",
+        "link": "https://www.amazon.com/Tree-Hut-Hydrating-Exfoliating-Nourishing/dp/B0BWL4F6WY/ref=pd_bxgy_thbs_d_sccl_1/132-3811398-0308112?pd_rd_w=2rBYh&content-id=amzn1.sym.1fbb380b-ee1d-4eeb-a44a-61f4d3013ea6&pf_rd_p=1fbb380b-ee1d-4eeb-a44a-61f4d3013ea6&pf_rd_r=GQ63SJNMQHAQSQX0N0S7&pd_rd_wg=inEKt&pd_rd_r=eb194bbc-b4cb-40d1-94bd-88985f32a8ec&pd_rd_i=B0BWL4F6WY&psc=1",
+        "asin": "B0BWL4F6WY",
+        "link_clean": "https://www.amazon.com/Tree-Hut-Hydrating-Exfoliating-Nourishing/dp/B0BWL4F6WY/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0BWL4F6WY&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/711iy+aPHoL._AC_UL116_SR116,116_.jpg",
+        "price": "$8.94",
+        "extracted_price": 8.94,
+        "price_unit": "$0.50/ounce",
+        "extracted_price_unit": 0.5,
+        "delivery": [
+          "Get it as soon as Tuesday, Oct 27"
+        ],
+        "stock": "In Stock"
+      },
+      {
+        "position": 3,
+        "title": "Auelife Fall Candle, Vanilla Pumpkin Scented for Home, Soy Wax | Autumn aromatherapy candle; 50-Hour Burn; Fall home decor; Holiday gift for women men",
+        "link": "https://www.amazon.com/Fall-Candle-Vanilla-Pumpkin-Scented/dp/B0D7C4MMT1/ref=pd_bxgy_thbs_d_sccl_2/132-3811398-0308112?pd_rd_w=2rBYh&content-id=amzn1.sym.1fbb380b-ee1d-4eeb-a44a-61f4d3013ea6&pf_rd_p=1fbb380b-ee1d-4eeb-a44a-61f4d3013ea6&pf_rd_r=GQ63SJNMQHAQSQX0N0S7&pd_rd_wg=inEKt&pd_rd_r=eb194bbc-b4cb-40d1-94bd-88985f32a8ec&pd_rd_i=B0D7C4MMT1&psc=1",
+        "asin": "B0D7C4MMT1",
+        "link_clean": "https://www.amazon.com/Fall-Candle-Vanilla-Pumpkin-Scented/dp/B0D7C4MMT1/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0D7C4MMT1&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/61nKDaxNQ-L._AC_UL116_SR116,116_.jpg",
+        "price": "$16.99",
+        "extracted_price": 16.99,
+        "price_unit": "$2.43/ounce",
+        "extracted_price_unit": 2.43,
+        "delivery": [
+          "Get it as soon as Tuesday, Oct 27"
+        ],
+        "stock": "In Stock"
+      }
+    ],
+    "related_products": [
+      {
+        "position": 1,
+        "asin": "B07FFWCWNG",
+        "title": "RONXS Electric Candle Lighter, Windproof Rechargeable Long Gooseneck, Black | Flameless Plasma Arc, Safety Lock, Battery Display with Type C Cable, Flexible Neck for Candles Grill BBQ Camping Fireplace",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MToyNjI3OTE2ODA4NzI2Nzg6MTc5MjY1ODY5NzpzcF9kZXRhaWxfdGhlbWF0aWM6MzAxMTUyNjAzNDMyMTAyOjo6Og&url=%2Fdp%2FB07FFWCWNG%2Fref%3Dsspa_dk_detail_0%3Fpsc%3D1%26pd_rd_i%3DB07FFWCWNG%26pd_rd_w%3DxVJza%26content-id%3Damzn1.sym.4adc092d-0184-45e6-8bd0-773f48fbf8ff%26pf_rd_p%3D4adc092d-0184-45e6-8bd0-773f48fbf8ff%26pf_rd_r%3DGQ63SJNMQHAQSQX0N0S7%26pd_rd_wg%3DinEKt%26pd_rd_r%3Deb194bbc-b4cb-40d1-94bd-88985f32a8ec%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM",
+        "link_clean": "https://www.amazon.com/dp/B07FFWCWNG/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B07FFWCWNG&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "thumbnail": "https://m.media-amazon.com/images/I/51uOcitpgcL._AC_UF480,480_SR480,480_.jpg",
+        "rating": 4.5,
+        "reviews": 41288,
+        "price": "$7.99",
+        "extracted_price": 7.99,
+        "climate_pledge_friendly": true
+      },
+      {
+        "position": 2,
+        "asin": "B09XMFNYPZ",
+        "title": "Lighter Stocking Stuffers for Adults Wife Mom, Electric Candle Lighter for Women Mo...",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MToyNjI3OTE2ODA4NzI2Nzg6MTc5MjY1ODY5NzpzcF9kZXRhaWxfdGhlbWF0aWM6MzAwNTY1MzYwMzQyMzAyOjo6Og&url=%2Fdp%2FB09XMFNYPZ%2Fref%3Dsspa_dk_detail_1%3Fpsc%3D1%26pd_rd_i%3DB09XMFNYPZ%26pd_rd_w%3DxVJza%26content-id%3Damzn1.sym.4adc092d-0184-45e6-8bd0-773f48fbf8ff%26pf_rd_p%3D4adc092d-0184-45e6-8bd0-773f48fbf8ff%26pf_rd_r%3DGQ63SJNMQHAQSQX0N0S7%26pd_rd_wg%3DinEKt%26pd_rd_r%3Deb194bbc-b4cb-40d1-94bd-88985f32a8ec%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM",
+        "link_clean": "https://www.amazon.com/dp/B09XMFNYPZ/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B09XMFNYPZ&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "thumbnail": "https://m.media-amazon.com/images/I/61nJk7r-JrL._AC_UF480,480_SR480,480_.jpg",
+        "rating": 4.6,
+        "reviews": 1975,
+        "price": "$12.99",
+        "extracted_price": 12.99
+      },
+      {
+        "position": 3,
+        "asin": "B0DRV73HD1",
+        "title": "3 Pack Candle Lighters USB Rechargeable Electric Lighters Long Stem Gifts | Safety ...",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MToyNjI3OTE2ODA4NzI2Nzg6MTc5MjY1ODY5NzpzcF9kZXRhaWxfdGhlbWF0aWM6MzAxNTg1MDYzOTA4MDAyOjo6Og&url=%2Fdp%2FB0DRV73HD1%2Fref%3Dsspa_dk_detail_2%3Fpsc%3D1%26pd_rd_i%3DB0DRV73HD1%26pd_rd_w%3DxVJza%26content-id%3Damzn1.sym.4adc092d-0184-45e6-8bd0-773f48fbf8ff%26pf_rd_p%3D4adc092d-0184-45e6-8bd0-773f48fbf8ff%26pf_rd_r%3DGQ63SJNMQHAQSQX0N0S7%26pd_rd_wg%3DinEKt%26pd_rd_r%3Deb194bbc-b4cb-40d1-94bd-88985f32a8ec%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM",
+        "link_clean": "https://www.amazon.com/dp/B0DRV73HD1/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0DRV73HD1&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "thumbnail": "https://m.media-amazon.com/images/I/61aacTUNMfL._AC_UF480,480_SR480,480_.jpg",
+        "rating": 4.7,
+        "reviews": 593,
+        "discount": "-5%",
+        "price": "$9.49",
+        "extracted_price": 9.49,
+        "price_unit": "$3.16 / count",
+        "extracted_price_unit": 3.16,
+        "old_price": "null",
+        "climate_pledge_friendly": true
+      },
+      {
+        "position": 4,
+        "asin": "B0DJZ82X5J",
+        "title": "Flame bird 2 Packs Lighters Electric Candle Lighter Flameless Arc Windproof Flexible Long Neck USB Rechargeable Lighter Matches for BBQ Grill Fireworks Camping.(Black)",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MToyNjI3OTE2ODA4NzI2Nzg6MTc5MjY1ODY5NzpzcF9kZXRhaWxfdGhlbWF0aWM6MzAwNTYzODM2ODYzMjAyOjo6Og&url=%2Fdp%2FB0DJZ82X5J%2Fref%3Dsspa_dk_detail_3%3Fpsc%3D1%26pd_rd_i%3DB0DJZ82X5J%26pd_rd_w%3DxVJza%26content-id%3Damzn1.sym.4adc092d-0184-45e6-8bd0-773f48fbf8ff%26pf_rd_p%3D4adc092d-0184-45e6-8bd0-773f48fbf8ff%26pf_rd_r%3DGQ63SJNMQHAQSQX0N0S7%26pd_rd_wg%3DinEKt%26pd_rd_r%3Deb194bbc-b4cb-40d1-94bd-88985f32a8ec%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM",
+        "link_clean": "https://www.amazon.com/dp/B0DJZ82X5J/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0DJZ82X5J&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "badges": [
+          "Amazon's Choice"
+        ],
+        "thumbnail": "https://m.media-amazon.com/images/I/61pdmiOTuUL._AC_UF480,480_SR480,480_.jpg",
+        "rating": 4.5,
+        "reviews": 3411,
+        "price": "$7.49",
+        "extracted_price": 7.49,
+        "price_unit": "$3.75 / count",
+        "extracted_price_unit": 3.75
+      },
+      {
+        "position": 5,
+        "asin": "B08SJ3KTB2",
+        "title": "Electric Candle Lighter, Christmas Stocking Stuffers Gifts for Women Mom Men Wife, ...",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MToyNjI3OTE2ODA4NzI2Nzg6MTc5MjY1ODY5NzpzcF9kZXRhaWxfdGhlbWF0aWM6MzAwNTQ3MjkxMzM5ODAyOjo6Og&url=%2Fdp%2FB08SJ3KTB2%2Fref%3Dsspa_dk_detail_4%3Fpsc%3D1%26pd_rd_i%3DB08SJ3KTB2%26pd_rd_w%3DxVJza%26content-id%3Damzn1.sym.4adc092d-0184-45e6-8bd0-773f48fbf8ff%26pf_rd_p%3D4adc092d-0184-45e6-8bd0-773f48fbf8ff%26pf_rd_r%3DGQ63SJNMQHAQSQX0N0S7%26pd_rd_wg%3DinEKt%26pd_rd_r%3Deb194bbc-b4cb-40d1-94bd-88985f32a8ec%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM",
+        "link_clean": "https://www.amazon.com/dp/B08SJ3KTB2/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B08SJ3KTB2&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "badges": [
+          "#1 Best Seller"
+        ],
+        "thumbnail": "https://m.media-amazon.com/images/I/518oMBfCfqL._AC_UF480,480_SR480,480_.jpg",
+        "rating": 4.5,
+        "reviews": 27685,
+        "discount": "-7%",
+        "price": "$12.99",
+        "extracted_price": 12.99,
+        "old_price": "null"
+      },
+      {
+        "position": 6,
+        "asin": "B0GM74PHTW",
+        "title": "Rechargeable Type C Electric Candle Lighters, Black, 2 Pack | Flameless and Windpro...",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MToyNjI3OTE2ODA4NzI2Nzg6MTc5MjY1ODY5NzpzcF9kZXRhaWxfdGhlbWF0aWM6MzAxMjU1ODA2MTEzNTAyOjo6Og&url=%2Fdp%2FB0GM74PHTW%2Fref%3Dsspa_dk_detail_5%3Fpsc%3D1%26pd_rd_i%3DB0GM74PHTW%26pd_rd_w%3DxVJza%26content-id%3Damzn1.sym.4adc092d-0184-45e6-8bd0-773f48fbf8ff%26pf_rd_p%3D4adc092d-0184-45e6-8bd0-773f48fbf8ff%26pf_rd_r%3DGQ63SJNMQHAQSQX0N0S7%26pd_rd_wg%3DinEKt%26pd_rd_r%3Deb194bbc-b4cb-40d1-94bd-88985f32a8ec%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM",
+        "link_clean": "https://www.amazon.com/dp/B0GM74PHTW/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0GM74PHTW&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "thumbnail": "https://m.media-amazon.com/images/I/71k7Mi7nnML._AC_UF480,480_SR480,480_.jpg",
+        "rating": 4.1,
+        "reviews": 200,
+        "price": "$6.99",
+        "extracted_price": 6.99,
+        "price_unit": "$3.50 / count",
+        "extracted_price_unit": 3.5
+      },
+      {
+        "position": 7,
+        "asin": "B09HX43WY4",
+        "title": "Electric Candle Lighter USB Rechargeable Plasma Arc Windproof Flameless with Safety Lock Ideal for Candle BBQ Camping Birthday Housewarming Gifts for Women & Men (Sierra Blue, 1 Count)",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MToyNjI3OTE2ODA4NzI2Nzg6MTc5MjY1ODY5NzpzcF9kZXRhaWxfdGhlbWF0aWM6MjAwMDIzMTg2NTU3OTk4Ojo6Og&url=%2Fdp%2FB09HX43WY4%2Fref%3Dsspa_dk_detail_6%3Fpsc%3D1%26pd_rd_i%3DB09HX43WY4%26pd_rd_w%3DxVJza%26content-id%3Damzn1.sym.4adc092d-0184-45e6-8bd0-773f48fbf8ff%26pf_rd_p%3D4adc092d-0184-45e6-8bd0-773f48fbf8ff%26pf_rd_r%3DGQ63SJNMQHAQSQX0N0S7%26pd_rd_wg%3DinEKt%26pd_rd_r%3Deb194bbc-b4cb-40d1-94bd-88985f32a8ec%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM",
+        "link_clean": "https://www.amazon.com/dp/B09HX43WY4/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B09HX43WY4&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "thumbnail": "https://m.media-amazon.com/images/I/61j-zaa539L._AC_UF480,480_SR480,480_.jpg",
+        "rating": 4.4,
+        "reviews": 19149,
+        "price": "$7.99",
+        "extracted_price": 7.99
+      },
+      {
+        "position": 8,
+        "asin": "B0CYWPQLD2",
+        "title": "Torch Lighter, Bright Fire Lighter with Safety Lock and Adjustable Red/Blue Flame, Refillable Butane Gas Windproof Jet Flame Cool Lighters, for Candles Campfires BBQ Baking, Camping, Gift",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTozMTc3MDAxNzk1MjQ2OTY6MTc5MjY1ODY5NzpzcF9kZXRhaWwyOjMwMTU4MDE3NjQ1ODEwMjo6Ojo&url=%2Fdp%2FB0CYWPQLD2%2Fref%3Dsspa_dk_detail_0%3Fpsc%3D1%26pd_rd_i%3DB0CYWPQLD2%26pd_rd_w%3De3yzR%26content-id%3Damzn1.sym.4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_p%3D4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_r%3DGQ63SJNMQHAQSQX0N0S7%26pd_rd_wg%3DinEKt%26pd_rd_r%3Deb194bbc-b4cb-40d1-94bd-88985f32a8ec%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+        "link_clean": "https://www.amazon.com/dp/B0CYWPQLD2/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0CYWPQLD2&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "thumbnail": "https://m.media-amazon.com/images/I/61VdBz3+QvL._AC_UF480,480_SR480,480_.jpg",
+        "rating": 4.3,
+        "reviews": 1304,
+        "price": "$24.99",
+        "extracted_price": 24.99
+      },
+      {
+        "position": 9,
+        "asin": "B09HX43WY4",
+        "title": "Electric Candle Lighter USB Rechargeable Plasma Arc Windproof Flameless with Safety Lock Ideal for Candle BBQ Camping Birthday Housewarming Gifts for Women & Men (Sierra Blue, 1 Count)",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTozMTc3MDAxNzk1MjQ2OTY6MTc5MjY1ODY5NzpzcF9kZXRhaWwyOjMwMDc3MTY1NjYxMjUwMjo6Ojo&url=%2Fdp%2FB09HX43WY4%2Fref%3Dsspa_dk_detail_1%3Fpsc%3D1%26pd_rd_i%3DB09HX43WY4%26pd_rd_w%3De3yzR%26content-id%3Damzn1.sym.4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_p%3D4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_r%3DGQ63SJNMQHAQSQX0N0S7%26pd_rd_wg%3DinEKt%26pd_rd_r%3Deb194bbc-b4cb-40d1-94bd-88985f32a8ec%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+        "link_clean": "https://www.amazon.com/dp/B09HX43WY4/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B09HX43WY4&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "thumbnail": "https://m.media-amazon.com/images/I/61j-zaa539L._AC_UF480,480_SR480,480_.jpg",
+        "rating": 4.4,
+        "reviews": 19149,
+        "price": "$7.99",
+        "extracted_price": 7.99
+      },
+      {
+        "position": 10,
+        "asin": "B08SJDRMSR",
+        "title": "Electric Candle Lighter, Christmas Stocking Stuffers Gifts for Women Mom Men Wife, ...",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTozMTc3MDAxNzk1MjQ2OTY6MTc5MjY1ODY5NzpzcF9kZXRhaWwyOjMwMDU0NzI5MTM0MDMwMjo6Ojo&url=%2Fdp%2FB08SJDRMSR%2Fref%3Dsspa_dk_detail_2%3Fpsc%3D1%26pd_rd_i%3DB08SJDRMSR%26pd_rd_w%3De3yzR%26content-id%3Damzn1.sym.4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_p%3D4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_r%3DGQ63SJNMQHAQSQX0N0S7%26pd_rd_wg%3DinEKt%26pd_rd_r%3Deb194bbc-b4cb-40d1-94bd-88985f32a8ec%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+        "link_clean": "https://www.amazon.com/dp/B08SJDRMSR/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B08SJDRMSR&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "badges": [
+          "#1 Best Seller"
+        ],
+        "thumbnail": "https://m.media-amazon.com/images/I/51aRuCbeIuL._AC_UF480,480_SR480,480_.jpg",
+        "rating": 4.5,
+        "reviews": 27685,
+        "price": "$16.99",
+        "extracted_price": 16.99
+      },
+      {
+        "position": 11,
+        "asin": "B0FGD92WN9",
+        "title": "GenSwin Rechargeable Flameless Taper Candles Charging Base & 2 Remote Ivory | LED Candles Battery Operated, Real Wax Rechargeable Candlesticks, Christmas Wedding Party Home Decor, 6 Pack, 0.78 x 9.8 In",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTozMTc3MDAxNzk1MjQ2OTY6MTc5MjY1ODY5NzpzcF9kZXRhaWwyOjMwMDk0Mjk2MDE4ODgwMjo6Ojo&url=%2Fdp%2FB0FGD92WN9%2Fref%3Dsspa_dk_detail_3%3Fpsc%3D1%26pd_rd_i%3DB0FGD92WN9%26pd_rd_w%3De3yzR%26content-id%3Damzn1.sym.4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_p%3D4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_r%3DGQ63SJNMQHAQSQX0N0S7%26pd_rd_wg%3DinEKt%26pd_rd_r%3Deb194bbc-b4cb-40d1-94bd-88985f32a8ec%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+        "link_clean": "https://www.amazon.com/dp/B0FGD92WN9/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0FGD92WN9&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "badges": [
+          "Limited time deal"
+        ],
+        "thumbnail": "https://m.media-amazon.com/images/I/71-xAQr5rdL._AC_UF480,480_SR480,480_.jpg",
+        "rating": 4.5,
+        "reviews": 16086,
+        "discount": "-15%",
+        "price": "$29.69",
+        "extracted_price": 29.69,
+        "price_unit": "$4.95 / count",
+        "extracted_price_unit": 4.95,
+        "old_price": "null"
+      },
+      {
+        "position": 12,
+        "asin": "B08GLRLH25",
+        "title": "FUKKUDA Electric Candle Lighter, Rechargeable USB Arc Lighter for Candles, Fireplace, Camping BBQ, Christmas Stocking Stuffers, Birthday, Valentines Day and Easter Gifts for Women Men (Obsidian Black)",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTozMTc3MDAxNzk1MjQ2OTY6MTc5MjY1ODY5NzpzcF9kZXRhaWwyOjMwMTExMzE5NTMxMjEwMjo6Ojo&url=%2Fdp%2FB08GLRLH25%2Fref%3Dsspa_dk_detail_4%3Fpsc%3D1%26pd_rd_i%3DB08GLRLH25%26pd_rd_w%3De3yzR%26content-id%3Damzn1.sym.4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_p%3D4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_r%3DGQ63SJNMQHAQSQX0N0S7%26pd_rd_wg%3DinEKt%26pd_rd_r%3Deb194bbc-b4cb-40d1-94bd-88985f32a8ec%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+        "link_clean": "https://www.amazon.com/dp/B08GLRLH25/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B08GLRLH25&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "badges": [
+          "Amazon's Choice"
+        ],
+        "thumbnail": "https://m.media-amazon.com/images/I/51VfDACoTBL._AC_UF480,480_SR480,480_.jpg",
+        "rating": 4.4,
+        "reviews": 20747,
+        "discount": "-10%",
+        "price": "$8.99",
+        "extracted_price": 8.99,
+        "old_price": "null",
+        "climate_pledge_friendly": true
+      },
+      {
+        "position": 13,
+        "asin": "B0DJZ82X5J",
+        "title": "Flame bird 2 Packs Lighters Electric Candle Lighter Flameless Arc Windproof Flexible Long Neck USB Rechargeable Lighter Matches for BBQ Grill Fireworks Camping.(Black)",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTozMTc3MDAxNzk1MjQ2OTY6MTc5MjY1ODY5NzpzcF9kZXRhaWwyOjMwMDU2MzgzNjg2MzIwMjo6Ojo&url=%2Fdp%2FB0DJZ82X5J%2Fref%3Dsspa_dk_detail_5%3Fpsc%3D1%26pd_rd_i%3DB0DJZ82X5J%26pd_rd_w%3De3yzR%26content-id%3Damzn1.sym.4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_p%3D4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_r%3DGQ63SJNMQHAQSQX0N0S7%26pd_rd_wg%3DinEKt%26pd_rd_r%3Deb194bbc-b4cb-40d1-94bd-88985f32a8ec%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+        "link_clean": "https://www.amazon.com/dp/B0DJZ82X5J/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0DJZ82X5J&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "thumbnail": "https://m.media-amazon.com/images/I/61pdmiOTuUL._AC_UF480,480_SR480,480_.jpg",
+        "rating": 4.5,
+        "reviews": 3411,
+        "price": "$7.49",
+        "extracted_price": 7.49,
+        "price_unit": "$3.75 / count",
+        "extracted_price_unit": 3.75
+      },
+      {
+        "position": 14,
+        "asin": "B09XMFNYPZ",
+        "title": "Lighter Stocking Stuffers for Adults Wife Mom, Electric Candle Lighter for Women Mo...",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTozMTc3MDAxNzk1MjQ2OTY6MTc5MjY1ODY5NzpzcF9kZXRhaWwyOjMwMDU2NTM2MDM0MjMwMjo6Ojo&url=%2Fdp%2FB09XMFNYPZ%2Fref%3Dsspa_dk_detail_6%3Fpsc%3D1%26pd_rd_i%3DB09XMFNYPZ%26pd_rd_w%3De3yzR%26content-id%3Damzn1.sym.4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_p%3D4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_r%3DGQ63SJNMQHAQSQX0N0S7%26pd_rd_wg%3DinEKt%26pd_rd_r%3Deb194bbc-b4cb-40d1-94bd-88985f32a8ec%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+        "link_clean": "https://www.amazon.com/dp/B09XMFNYPZ/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B09XMFNYPZ&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "thumbnail": "https://m.media-amazon.com/images/I/61nJk7r-JrL._AC_UF480,480_SR480,480_.jpg",
+        "rating": 4.6,
+        "reviews": 1975,
+        "price": "$12.99",
+        "extracted_price": 12.99
+      }
+    ],
+    "related_product_sections": [
+      {
+        "title": "4 stars and above",
+        "items": [
+          {
+            "position": 1,
+            "asin": "B07FFWCWNG",
+            "title": "RONXS Electric Candle Lighter, Windproof Rechargeable Long Gooseneck, Black | Flameless Plasma Arc, Safety Lock, Battery Display with Type C Cable, Flexible Neck for Candles Grill BBQ Camping Fireplace",
+            "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MToyNjI3OTE2ODA4NzI2Nzg6MTc5MjY1ODY5NzpzcF9kZXRhaWxfdGhlbWF0aWM6MzAxMTUyNjAzNDMyMTAyOjo6Og&url=%2Fdp%2FB07FFWCWNG%2Fref%3Dsspa_dk_detail_0%3Fpsc%3D1%26pd_rd_i%3DB07FFWCWNG%26pd_rd_w%3DxVJza%26content-id%3Damzn1.sym.4adc092d-0184-45e6-8bd0-773f48fbf8ff%26pf_rd_p%3D4adc092d-0184-45e6-8bd0-773f48fbf8ff%26pf_rd_r%3DGQ63SJNMQHAQSQX0N0S7%26pd_rd_wg%3DinEKt%26pd_rd_r%3Deb194bbc-b4cb-40d1-94bd-88985f32a8ec%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM",
+            "link_clean": "https://www.amazon.com/dp/B07FFWCWNG/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B07FFWCWNG&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "thumbnail": "https://m.media-amazon.com/images/I/51uOcitpgcL._AC_UF480,480_SR480,480_.jpg",
+            "rating": 4.5,
+            "reviews": 41288,
+            "price": "$7.99",
+            "extracted_price": 7.99,
+            "climate_pledge_friendly": true
+          },
+          {
+            "position": 2,
+            "asin": "B09XMFNYPZ",
+            "title": "Lighter Stocking Stuffers for Adults Wife Mom, Electric Candle Lighter for Women Mo...",
+            "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MToyNjI3OTE2ODA4NzI2Nzg6MTc5MjY1ODY5NzpzcF9kZXRhaWxfdGhlbWF0aWM6MzAwNTY1MzYwMzQyMzAyOjo6Og&url=%2Fdp%2FB09XMFNYPZ%2Fref%3Dsspa_dk_detail_1%3Fpsc%3D1%26pd_rd_i%3DB09XMFNYPZ%26pd_rd_w%3DxVJza%26content-id%3Damzn1.sym.4adc092d-0184-45e6-8bd0-773f48fbf8ff%26pf_rd_p%3D4adc092d-0184-45e6-8bd0-773f48fbf8ff%26pf_rd_r%3DGQ63SJNMQHAQSQX0N0S7%26pd_rd_wg%3DinEKt%26pd_rd_r%3Deb194bbc-b4cb-40d1-94bd-88985f32a8ec%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM",
+            "link_clean": "https://www.amazon.com/dp/B09XMFNYPZ/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B09XMFNYPZ&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "thumbnail": "https://m.media-amazon.com/images/I/61nJk7r-JrL._AC_UF480,480_SR480,480_.jpg",
+            "rating": 4.6,
+            "reviews": 1975,
+            "price": "$12.99",
+            "extracted_price": 12.99
+          },
+          {
+            "position": 3,
+            "asin": "B0DRV73HD1",
+            "title": "3 Pack Candle Lighters USB Rechargeable Electric Lighters Long Stem Gifts | Safety ...",
+            "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MToyNjI3OTE2ODA4NzI2Nzg6MTc5MjY1ODY5NzpzcF9kZXRhaWxfdGhlbWF0aWM6MzAxNTg1MDYzOTA4MDAyOjo6Og&url=%2Fdp%2FB0DRV73HD1%2Fref%3Dsspa_dk_detail_2%3Fpsc%3D1%26pd_rd_i%3DB0DRV73HD1%26pd_rd_w%3DxVJza%26content-id%3Damzn1.sym.4adc092d-0184-45e6-8bd0-773f48fbf8ff%26pf_rd_p%3D4adc092d-0184-45e6-8bd0-773f48fbf8ff%26pf_rd_r%3DGQ63SJNMQHAQSQX0N0S7%26pd_rd_wg%3DinEKt%26pd_rd_r%3Deb194bbc-b4cb-40d1-94bd-88985f32a8ec%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM",
+            "link_clean": "https://www.amazon.com/dp/B0DRV73HD1/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0DRV73HD1&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "thumbnail": "https://m.media-amazon.com/images/I/61aacTUNMfL._AC_UF480,480_SR480,480_.jpg",
+            "rating": 4.7,
+            "reviews": 593,
+            "discount": "-5%",
+            "price": "$9.49",
+            "extracted_price": 9.49,
+            "price_unit": "$3.16 / count",
+            "extracted_price_unit": 3.16,
+            "old_price": "null",
+            "climate_pledge_friendly": true
+          },
+          {
+            "position": 4,
+            "asin": "B0DJZ82X5J",
+            "title": "Flame bird 2 Packs Lighters Electric Candle Lighter Flameless Arc Windproof Flexible Long Neck USB Rechargeable Lighter Matches for BBQ Grill Fireworks Camping.(Black)",
+            "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MToyNjI3OTE2ODA4NzI2Nzg6MTc5MjY1ODY5NzpzcF9kZXRhaWxfdGhlbWF0aWM6MzAwNTYzODM2ODYzMjAyOjo6Og&url=%2Fdp%2FB0DJZ82X5J%2Fref%3Dsspa_dk_detail_3%3Fpsc%3D1%26pd_rd_i%3DB0DJZ82X5J%26pd_rd_w%3DxVJza%26content-id%3Damzn1.sym.4adc092d-0184-45e6-8bd0-773f48fbf8ff%26pf_rd_p%3D4adc092d-0184-45e6-8bd0-773f48fbf8ff%26pf_rd_r%3DGQ63SJNMQHAQSQX0N0S7%26pd_rd_wg%3DinEKt%26pd_rd_r%3Deb194bbc-b4cb-40d1-94bd-88985f32a8ec%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM",
+            "link_clean": "https://www.amazon.com/dp/B0DJZ82X5J/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0DJZ82X5J&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "badges": [
+              "Amazon's Choice"
+            ],
+            "thumbnail": "https://m.media-amazon.com/images/I/61pdmiOTuUL._AC_UF480,480_SR480,480_.jpg",
+            "rating": 4.5,
+            "reviews": 3411,
+            "price": "$7.49",
+            "extracted_price": 7.49,
+            "price_unit": "$3.75 / count",
+            "extracted_price_unit": 3.75
+          },
+          {
+            "position": 5,
+            "asin": "B08SJ3KTB2",
+            "title": "Electric Candle Lighter, Christmas Stocking Stuffers Gifts for Women Mom Men Wife, ...",
+            "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MToyNjI3OTE2ODA4NzI2Nzg6MTc5MjY1ODY5NzpzcF9kZXRhaWxfdGhlbWF0aWM6MzAwNTQ3MjkxMzM5ODAyOjo6Og&url=%2Fdp%2FB08SJ3KTB2%2Fref%3Dsspa_dk_detail_4%3Fpsc%3D1%26pd_rd_i%3DB08SJ3KTB2%26pd_rd_w%3DxVJza%26content-id%3Damzn1.sym.4adc092d-0184-45e6-8bd0-773f48fbf8ff%26pf_rd_p%3D4adc092d-0184-45e6-8bd0-773f48fbf8ff%26pf_rd_r%3DGQ63SJNMQHAQSQX0N0S7%26pd_rd_wg%3DinEKt%26pd_rd_r%3Deb194bbc-b4cb-40d1-94bd-88985f32a8ec%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM",
+            "link_clean": "https://www.amazon.com/dp/B08SJ3KTB2/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B08SJ3KTB2&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "badges": [
+              "#1 Best Seller"
+            ],
+            "thumbnail": "https://m.media-amazon.com/images/I/518oMBfCfqL._AC_UF480,480_SR480,480_.jpg",
+            "rating": 4.5,
+            "reviews": 27685,
+            "discount": "-7%",
+            "price": "$12.99",
+            "extracted_price": 12.99,
+            "old_price": "null"
+          },
+          {
+            "position": 6,
+            "asin": "B0GM74PHTW",
+            "title": "Rechargeable Type C Electric Candle Lighters, Black, 2 Pack | Flameless and Windpro...",
+            "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MToyNjI3OTE2ODA4NzI2Nzg6MTc5MjY1ODY5NzpzcF9kZXRhaWxfdGhlbWF0aWM6MzAxMjU1ODA2MTEzNTAyOjo6Og&url=%2Fdp%2FB0GM74PHTW%2Fref%3Dsspa_dk_detail_5%3Fpsc%3D1%26pd_rd_i%3DB0GM74PHTW%26pd_rd_w%3DxVJza%26content-id%3Damzn1.sym.4adc092d-0184-45e6-8bd0-773f48fbf8ff%26pf_rd_p%3D4adc092d-0184-45e6-8bd0-773f48fbf8ff%26pf_rd_r%3DGQ63SJNMQHAQSQX0N0S7%26pd_rd_wg%3DinEKt%26pd_rd_r%3Deb194bbc-b4cb-40d1-94bd-88985f32a8ec%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM",
+            "link_clean": "https://www.amazon.com/dp/B0GM74PHTW/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0GM74PHTW&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "thumbnail": "https://m.media-amazon.com/images/I/71k7Mi7nnML._AC_UF480,480_SR480,480_.jpg",
+            "rating": 4.1,
+            "reviews": 200,
+            "price": "$6.99",
+            "extracted_price": 6.99,
+            "price_unit": "$3.50 / count",
+            "extracted_price_unit": 3.5
+          },
+          {
+            "position": 7,
+            "asin": "B09HX43WY4",
+            "title": "Electric Candle Lighter USB Rechargeable Plasma Arc Windproof Flameless with Safety Lock Ideal for Candle BBQ Camping Birthday Housewarming Gifts for Women & Men (Sierra Blue, 1 Count)",
+            "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MToyNjI3OTE2ODA4NzI2Nzg6MTc5MjY1ODY5NzpzcF9kZXRhaWxfdGhlbWF0aWM6MjAwMDIzMTg2NTU3OTk4Ojo6Og&url=%2Fdp%2FB09HX43WY4%2Fref%3Dsspa_dk_detail_6%3Fpsc%3D1%26pd_rd_i%3DB09HX43WY4%26pd_rd_w%3DxVJza%26content-id%3Damzn1.sym.4adc092d-0184-45e6-8bd0-773f48fbf8ff%26pf_rd_p%3D4adc092d-0184-45e6-8bd0-773f48fbf8ff%26pf_rd_r%3DGQ63SJNMQHAQSQX0N0S7%26pd_rd_wg%3DinEKt%26pd_rd_r%3Deb194bbc-b4cb-40d1-94bd-88985f32a8ec%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM",
+            "link_clean": "https://www.amazon.com/dp/B09HX43WY4/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B09HX43WY4&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "thumbnail": "https://m.media-amazon.com/images/I/61j-zaa539L._AC_UF480,480_SR480,480_.jpg",
+            "rating": 4.4,
+            "reviews": 19149,
+            "price": "$7.99",
+            "extracted_price": 7.99
+          }
+        ]
+      },
+      {
+        "title": "Related products with free delivery on eligible orders",
+        "items": [
+          {
+            "position": 1,
+            "asin": "B0CYWPQLD2",
+            "title": "Torch Lighter, Bright Fire Lighter with Safety Lock and Adjustable Red/Blue Flame, Refillable Butane Gas Windproof Jet Flame Cool Lighters, for Candles Campfires BBQ Baking, Camping, Gift",
+            "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTozMTc3MDAxNzk1MjQ2OTY6MTc5MjY1ODY5NzpzcF9kZXRhaWwyOjMwMTU4MDE3NjQ1ODEwMjo6Ojo&url=%2Fdp%2FB0CYWPQLD2%2Fref%3Dsspa_dk_detail_0%3Fpsc%3D1%26pd_rd_i%3DB0CYWPQLD2%26pd_rd_w%3De3yzR%26content-id%3Damzn1.sym.4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_p%3D4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_r%3DGQ63SJNMQHAQSQX0N0S7%26pd_rd_wg%3DinEKt%26pd_rd_r%3Deb194bbc-b4cb-40d1-94bd-88985f32a8ec%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+            "link_clean": "https://www.amazon.com/dp/B0CYWPQLD2/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0CYWPQLD2&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "thumbnail": "https://m.media-amazon.com/images/I/61VdBz3+QvL._AC_UF480,480_SR480,480_.jpg",
+            "rating": 4.3,
+            "reviews": 1304,
+            "price": "$24.99",
+            "extracted_price": 24.99
+          },
+          {
+            "position": 2,
+            "asin": "B09HX43WY4",
+            "title": "Electric Candle Lighter USB Rechargeable Plasma Arc Windproof Flameless with Safety Lock Ideal for Candle BBQ Camping Birthday Housewarming Gifts for Women & Men (Sierra Blue, 1 Count)",
+            "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTozMTc3MDAxNzk1MjQ2OTY6MTc5MjY1ODY5NzpzcF9kZXRhaWwyOjMwMDc3MTY1NjYxMjUwMjo6Ojo&url=%2Fdp%2FB09HX43WY4%2Fref%3Dsspa_dk_detail_1%3Fpsc%3D1%26pd_rd_i%3DB09HX43WY4%26pd_rd_w%3De3yzR%26content-id%3Damzn1.sym.4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_p%3D4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_r%3DGQ63SJNMQHAQSQX0N0S7%26pd_rd_wg%3DinEKt%26pd_rd_r%3Deb194bbc-b4cb-40d1-94bd-88985f32a8ec%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+            "link_clean": "https://www.amazon.com/dp/B09HX43WY4/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B09HX43WY4&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "thumbnail": "https://m.media-amazon.com/images/I/61j-zaa539L._AC_UF480,480_SR480,480_.jpg",
+            "rating": 4.4,
+            "reviews": 19149,
+            "price": "$7.99",
+            "extracted_price": 7.99
+          },
+          {
+            "position": 3,
+            "asin": "B08SJDRMSR",
+            "title": "Electric Candle Lighter, Christmas Stocking Stuffers Gifts for Women Mom Men Wife, ...",
+            "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTozMTc3MDAxNzk1MjQ2OTY6MTc5MjY1ODY5NzpzcF9kZXRhaWwyOjMwMDU0NzI5MTM0MDMwMjo6Ojo&url=%2Fdp%2FB08SJDRMSR%2Fref%3Dsspa_dk_detail_2%3Fpsc%3D1%26pd_rd_i%3DB08SJDRMSR%26pd_rd_w%3De3yzR%26content-id%3Damzn1.sym.4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_p%3D4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_r%3DGQ63SJNMQHAQSQX0N0S7%26pd_rd_wg%3DinEKt%26pd_rd_r%3Deb194bbc-b4cb-40d1-94bd-88985f32a8ec%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+            "link_clean": "https://www.amazon.com/dp/B08SJDRMSR/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B08SJDRMSR&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "badges": [
+              "#1 Best Seller"
+            ],
+            "thumbnail": "https://m.media-amazon.com/images/I/51aRuCbeIuL._AC_UF480,480_SR480,480_.jpg",
+            "rating": 4.5,
+            "reviews": 27685,
+            "price": "$16.99",
+            "extracted_price": 16.99
+          },
+          {
+            "position": 4,
+            "asin": "B0FGD92WN9",
+            "title": "GenSwin Rechargeable Flameless Taper Candles Charging Base & 2 Remote Ivory | LED Candles Battery Operated, Real Wax Rechargeable Candlesticks, Christmas Wedding Party Home Decor, 6 Pack, 0.78 x 9.8 In",
+            "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTozMTc3MDAxNzk1MjQ2OTY6MTc5MjY1ODY5NzpzcF9kZXRhaWwyOjMwMDk0Mjk2MDE4ODgwMjo6Ojo&url=%2Fdp%2FB0FGD92WN9%2Fref%3Dsspa_dk_detail_3%3Fpsc%3D1%26pd_rd_i%3DB0FGD92WN9%26pd_rd_w%3De3yzR%26content-id%3Damzn1.sym.4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_p%3D4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_r%3DGQ63SJNMQHAQSQX0N0S7%26pd_rd_wg%3DinEKt%26pd_rd_r%3Deb194bbc-b4cb-40d1-94bd-88985f32a8ec%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+            "link_clean": "https://www.amazon.com/dp/B0FGD92WN9/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0FGD92WN9&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "badges": [
+              "Limited time deal"
+            ],
+            "thumbnail": "https://m.media-amazon.com/images/I/71-xAQr5rdL._AC_UF480,480_SR480,480_.jpg",
+            "rating": 4.5,
+            "reviews": 16086,
+            "discount": "-15%",
+            "price": "$29.69",
+            "extracted_price": 29.69,
+            "price_unit": "$4.95 / count",
+            "extracted_price_unit": 4.95,
+            "old_price": "null"
+          },
+          {
+            "position": 5,
+            "asin": "B08GLRLH25",
+            "title": "FUKKUDA Electric Candle Lighter, Rechargeable USB Arc Lighter for Candles, Fireplace, Camping BBQ, Christmas Stocking Stuffers, Birthday, Valentines Day and Easter Gifts for Women Men (Obsidian Black)",
+            "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTozMTc3MDAxNzk1MjQ2OTY6MTc5MjY1ODY5NzpzcF9kZXRhaWwyOjMwMTExMzE5NTMxMjEwMjo6Ojo&url=%2Fdp%2FB08GLRLH25%2Fref%3Dsspa_dk_detail_4%3Fpsc%3D1%26pd_rd_i%3DB08GLRLH25%26pd_rd_w%3De3yzR%26content-id%3Damzn1.sym.4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_p%3D4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_r%3DGQ63SJNMQHAQSQX0N0S7%26pd_rd_wg%3DinEKt%26pd_rd_r%3Deb194bbc-b4cb-40d1-94bd-88985f32a8ec%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+            "link_clean": "https://www.amazon.com/dp/B08GLRLH25/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B08GLRLH25&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "badges": [
+              "Amazon's Choice"
+            ],
+            "thumbnail": "https://m.media-amazon.com/images/I/51VfDACoTBL._AC_UF480,480_SR480,480_.jpg",
+            "rating": 4.4,
+            "reviews": 20747,
+            "discount": "-10%",
+            "price": "$8.99",
+            "extracted_price": 8.99,
+            "old_price": "null",
+            "climate_pledge_friendly": true
+          },
+          {
+            "position": 6,
+            "asin": "B0DJZ82X5J",
+            "title": "Flame bird 2 Packs Lighters Electric Candle Lighter Flameless Arc Windproof Flexible Long Neck USB Rechargeable Lighter Matches for BBQ Grill Fireworks Camping.(Black)",
+            "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTozMTc3MDAxNzk1MjQ2OTY6MTc5MjY1ODY5NzpzcF9kZXRhaWwyOjMwMDU2MzgzNjg2MzIwMjo6Ojo&url=%2Fdp%2FB0DJZ82X5J%2Fref%3Dsspa_dk_detail_5%3Fpsc%3D1%26pd_rd_i%3DB0DJZ82X5J%26pd_rd_w%3De3yzR%26content-id%3Damzn1.sym.4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_p%3D4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_r%3DGQ63SJNMQHAQSQX0N0S7%26pd_rd_wg%3DinEKt%26pd_rd_r%3Deb194bbc-b4cb-40d1-94bd-88985f32a8ec%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+            "link_clean": "https://www.amazon.com/dp/B0DJZ82X5J/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0DJZ82X5J&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "thumbnail": "https://m.media-amazon.com/images/I/61pdmiOTuUL._AC_UF480,480_SR480,480_.jpg",
+            "rating": 4.5,
+            "reviews": 3411,
+            "price": "$7.49",
+            "extracted_price": 7.49,
+            "price_unit": "$3.75 / count",
+            "extracted_price_unit": 3.75
+          },
+          {
+            "position": 7,
+            "asin": "B09XMFNYPZ",
+            "title": "Lighter Stocking Stuffers for Adults Wife Mom, Electric Candle Lighter for Women Mo...",
+            "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTozMTc3MDAxNzk1MjQ2OTY6MTc5MjY1ODY5NzpzcF9kZXRhaWwyOjMwMDU2NTM2MDM0MjMwMjo6Ojo&url=%2Fdp%2FB09XMFNYPZ%2Fref%3Dsspa_dk_detail_6%3Fpsc%3D1%26pd_rd_i%3DB09XMFNYPZ%26pd_rd_w%3De3yzR%26content-id%3Damzn1.sym.4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_p%3D4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_r%3DGQ63SJNMQHAQSQX0N0S7%26pd_rd_wg%3DinEKt%26pd_rd_r%3Deb194bbc-b4cb-40d1-94bd-88985f32a8ec%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+            "link_clean": "https://www.amazon.com/dp/B09XMFNYPZ/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B09XMFNYPZ&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "thumbnail": "https://m.media-amazon.com/images/I/61nJk7r-JrL._AC_UF480,480_SR480,480_.jpg",
+            "rating": 4.6,
+            "reviews": 1975,
+            "price": "$12.99",
+            "extracted_price": 12.99
+          }
+        ]
+      }
+    ],
+    "videos": [
+      {
+        "position": 1,
+        "title": "Electric candle lighter",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/b1b21415-5432-4177-8f84-f850e7550872/default.vertical.jobtemplate.hls.m3u8",
+        "thumbnail": "https://m.media-amazon.com/images/I/61tFDcKYXcL.jpg",
+        "duration": "0:09",
+        "vendor": "Jess",
+        "vendor_thumbnail": "https://m.media-amazon.com/images/I/71MNqZxiJgL._CR0,0,1242,1242_._FMjpg_._SL34_.jpg",
+        "date": "Mar 18, 2026"
+      },
+      {
+        "position": 2,
+        "title": "Does it Really work? Let's see! MEIRUBY Lighter Review",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/f6fcbcfa-8351-4035-b283-dfcd257a7fb0/default.jobtemplate.hls.m3u8",
+        "thumbnail": "https://m.media-amazon.com/images/I/A12TD1c7xUL.png",
+        "duration": "1:00",
+        "vendor": "Marcus Stone",
+        "vendor_thumbnail": "https://images-na.ssl-images-amazon.com/images/S/influencer-profile-image-prod/logo/marcusstone_1666805724010_original._CR285,57,488,489_._FMjpg_._SL34_.jpeg",
+        "date": "Jan 2, 2023"
+      },
+      {
+        "position": 3,
+        "title": "Unboxing this ELECTRIC LIGHTER!",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/6af8afdb-3942-47a9-b036-6e0d2c429952/default.jobtemplate.hls.m3u8",
+        "thumbnail": "https://m.media-amazon.com/images/I/51pGUAzPeBL.jpg",
+        "duration": "1:41",
+        "vendor": "Izhar rebollar",
+        "vendor_thumbnail": "https://m.media-amazon.com/images/I/A1OsdtsBykL._CR0,322,1125,1125_._FMjpg_._SL34_.jpg",
+        "date": "Apr 23, 2024"
+      },
+      {
+        "position": 4,
+        "title": "Perfect for the person that has everything!",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/fdb905c7-ff80-453a-a676-6a6e159f5eeb/default.vertical.jobtemplate.hls.m3u8",
+        "thumbnail": "https://m.media-amazon.com/images/I/51rYlzZX8EL.jpg",
+        "duration": "0:28",
+        "vendor": "Elizabeth O",
+        "vendor_thumbnail": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SL34_.png",
+        "date": "Feb 2, 2022"
+      },
+      {
+        "position": 5,
+        "title": "Everyone Should Have These Lighters!",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/705ddc2c-c7eb-4e4b-bffa-1a1a3209e0dc/default.vertical.jobtemplate.hls.m3u8",
+        "thumbnail": "https://m.media-amazon.com/images/I/71CvM5fEysL.jpg",
+        "duration": "0:55",
+        "vendor": "Deanna Charlton",
+        "vendor_thumbnail": "https://m.media-amazon.com/images/I/41Zd8ZeloJL._CR0,0,288,288_._FMjpg_._SL34_.jpg",
+        "date": "Mar 2, 2025"
+      },
+      {
+        "position": 6,
+        "title": "Lovely color and easy to use",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/36a57376-beb9-4434-9b36-69e85fcb4ae9/default.vertical.jobtemplate.hls.m3u8",
+        "thumbnail": "https://m.media-amazon.com/images/I/31eAQobuW0L.jpg",
+        "duration": "0:14",
+        "vendor": "Violetta Cantos",
+        "vendor_thumbnail": "https://m.media-amazon.com/images/S/amazon-avatars-global/ca6f72b6-8bfe-4a4c-aeab-ef1456f5c764._CR62%2C0%2C375%2C375_SX460_._SL34_.jpg",
+        "date": "Oct 17, 2025"
+      },
+      {
+        "position": 7,
+        "title": "Why choose an electric lighter?",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/481a0ede-2094-4e20-a329-0bb9f3f44247/default.jobtemplate.hls.m3u8",
+        "thumbnail": "https://m.media-amazon.com/images/I/91cUzJdftFL.jpg",
+        "duration": "1:18",
+        "vendor": "Jill Holder",
+        "vendor_thumbnail": "https://m.media-amazon.com/images/I/A11v+20N94L._CR0,0,2331,2332_._FMjpg_._SL34_.jpg",
+        "date": "Nov 5, 2025"
+      },
+      {
+        "position": 8,
+        "title": "It has a GREAT Safety Feature - Electric Candle Lighter Demo",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/bb377f59-3223-441c-a0a6-92f82e9633af/default.jobtemplate.hls.m3u8",
+        "thumbnail": "https://m.media-amazon.com/images/I/91DQkHWmqSL.png",
+        "duration": "1:39",
+        "vendor": "Pulling Together Five",
+        "vendor_thumbnail": "https://m.media-amazon.com/images/I/91Oc+cYM8TL._CR0,0,2090,2090_._FMjpg_._SL34_.jpg",
+        "date": "Mar 17, 2024"
+      },
+      {
+        "position": 9,
+        "title": "First impressions on this ELECTRIC LIGHTER!",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/c377ce7b-0edb-478c-9e6c-b3c593456278/default.jobtemplate.hls.m3u8",
+        "thumbnail": "https://m.media-amazon.com/images/I/51eyivL7Z9L.jpg",
+        "duration": "1:38",
+        "vendor": "Izhar rebollar",
+        "vendor_thumbnail": "https://m.media-amazon.com/images/I/A1OsdtsBykL._CR0,322,1125,1125_._FMjpg_._SL34_.jpg",
+        "date": "Apr 23, 2024"
+      },
+      {
+        "position": 10,
+        "title": "We Love This Lighter! So Easy And Always Ready To Use",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/e559a578-9308-4892-8358-46e972d79c83/default.jobtemplate.hls.m3u8",
+        "thumbnail": "https://m.media-amazon.com/images/I/51LxS2HVGaL.jpg",
+        "duration": "0:50",
+        "vendor": "You Didn't Know? with Jim",
+        "vendor_thumbnail": "https://m.media-amazon.com/images/I/31tnvzUamKL._CR0,0,142,142_._FMjpg_._SL34_.jpg",
+        "date": "Dec 16, 2023"
+      }
+    ],
+    "product_description": [
+      {
+        "position": 1,
+        "title": "1",
+        "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/2a8016b5-7275-4601-86b5-b6e46d739bd7.__CR0,0,1464,600_PT0_SX1464_V1___.jpg"
+      },
+      {
+        "position": 2,
+        "title": "2",
+        "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/b7904be4-888d-4cf4-8ab9-700e43d87a78.__CR0,0,1464,600_PT0_SX1464_V1___.jpg"
+      },
+      {
+        "position": 3,
+        "carousel_images": [
+          {
+            "position": 1,
+            "title": "1-1",
+            "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/b4e4d564-2fec-4037-b1da-f48293405b6f.__CR0,0,1464,600_PT0_SX1464_V1___.jpg"
+          },
+          {
+            "position": 2,
+            "title": "2-2",
+            "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/1402e95c-c488-47b9-a2c1-f887ec46f1ef.__CR0,0,1464,600_PT0_SX1464_V1___.jpg"
+          },
+          {
+            "position": 3,
+            "title": "3-3",
+            "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/139c7bcd-d493-4aae-b8ed-51f228da7c3e.__CR0,0,1464,600_PT0_SX1464_V1___.jpg"
+          }
+        ]
+      },
+      {
+        "position": 4,
+        "carousel_images": [
+          {
+            "position": 1,
+            "title": "1",
+            "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/e835b2e8-ac88-4a0b-8781-d3950bbc9fdc.__CR0,0,1464,600_PT0_SX1464_V1___.jpg"
+          },
+          {
+            "position": 2,
+            "title": "1",
+            "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/bdf2a80f-2299-4cb9-92c6-02d9af962bcc.__CR0,0,1464,600_PT0_SX1464_V1___.jpg"
+          },
+          {
+            "position": 3,
+            "title": "1",
+            "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/8904d21f-6043-43da-baca-100902514ab4.__CR0,0,1464,600_PT0_SX1464_V1___.jpg"
+          },
+          {
+            "position": 4,
+            "title": "1",
+            "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/fe4e70e0-07d3-4da0-ab59-22deeff4a386.__CR0,0,1464,600_PT0_SX1464_V1___.jpg"
+          }
+        ]
+      },
+      {
+        "position": 5,
+        "carousel_images": [
+          {
+            "position": 1,
+            "title": "1",
+            "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/11921142-baa2-4a4b-a467-a36ff918a485.__CR0,0,1464,600_PT0_SX1464_V1___.jpeg"
+          },
+          {
+            "position": 2,
+            "title": "1",
+            "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/4b406d96-68c4-45a7-beb4-a445bbd179f7.__CR0,0,1464,600_PT0_SX1464_V1___.jpg"
+          },
+          {
+            "position": 3,
+            "title": "1",
+            "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/cb069a36-57a0-442f-af22-9d9447018580.__CR0,0,1464,600_PT0_SX1464_V1___.jpg"
+          },
+          {
+            "position": 4,
+            "title": "1",
+            "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/7bffd72c-1e85-4b0b-9172-4b776f7a72f2.__CR0,0,1464,600_PT0_SX1464_V1___.jpg"
+          }
+        ]
+      },
+      {
+        "position": 6,
+        "compare_with_similar": [
+          {
+            "position": 1,
+            "asin": "B08SJ3KTB2",
+            "title": "Electric Candle Lighter",
+            "thumbnail": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/f24ebfe8-b9b9-4f07-92e1-2760870e50a0.__CR0,0,200,225_PT0_SX200_V1___.jpeg",
+            "link": "https://www.amazon.com/dp/B08SJ3KTB2?ref=emc_p_m_5_i_atc",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B08SJ3KTB2&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "rating": 4.5,
+            "reviews": 27685,
+            "price": "$12.99",
+            "extracted_price": 12.99,
+            "color": "Rose Gold",
+            "feature_1": "Electric & Rechargeable",
+            "feature_2": "Windproof & No fluid No flame",
+            "feature_3": "360° Flexible Neck & Modern",
+            "double_safety_locks": "✔",
+            "gift_ideas_1": "Woemn / Men Stocking Stuffers",
+            "gift_ideas_2": "Birthday/ Valentine/ Christmas",
+            "gift_ideas_3": "Father's Day/ Mother's Day,etc",
+            "multi_purpose_1": "Candle, BBQ, Kitchen, Stove",
+            "multi_purpose_2": "Birthday Candle, Fireworks",
+            "multi_purpose_3": "Everything you need it to do",
+            "as_a_perfect_gift_or_thank_you": "✔"
+          },
+          {
+            "position": 2,
+            "asin": "B0D4Z9QBNW",
+            "title": "6 in 1 Multitool Pen",
+            "thumbnail": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/06a5fd57-c34c-47e4-9c79-8a0c38483f6d.__CR0,0,200,225_PT0_SX200_V1___.jpeg",
+            "link": "https://www.amazon.com/dp/B0D4Z9QBNW?ref=emc_p_m_5_i_atc",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0D4Z9QBNW&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "rating": 4.5,
+            "reviews": 258,
+            "color": "Space Gray",
+            "feature_1": "Stylus, Bubble Level, Ball Pen",
+            "feature_2": "CM / IN Rulers",
+            "feature_3": "CM / IN Rulers",
+            "double_safety_locks": "✘",
+            "gift_ideas_1": "Woemn / Men Stocking Stuffers",
+            "gift_ideas_2": "Birthday/ Valentine/ Christmas",
+            "gift_ideas_3": "Father's Day/ Mother's Day,etc",
+            "multi_purpose_1": "Writing, Measuring, Repairs",
+            "multi_purpose_2": "Office, Outdoor, DIY, Tool Box",
+            "multi_purpose_3": "Everything you need it to do",
+            "as_a_perfect_gift_or_thank_you": "✔"
+          },
+          {
+            "position": 3,
+            "asin": "B0D4ZFFWHW",
+            "title": "9 in 1 Multitool Pen",
+            "thumbnail": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/77ea3ba3-4a3d-48aa-b8bc-0b90983c66f4.__CR0,0,200,225_PT0_SX200_V1___.jpeg",
+            "link": "https://www.amazon.com/dp/B0D4ZFFWHW?ref=emc_p_m_5_i_atc",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0D4ZFFWHW&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "rating": 4.6,
+            "reviews": 193,
+            "color": "Space Gray",
+            "feature_1": "Stylus, Bubble Level, Ball Pen",
+            "feature_2": "CM / IN Rulers, Bottle Opener",
+            "feature_3": "Flat/Phillips Screwdriver, LED",
+            "double_safety_locks": "✘",
+            "gift_ideas_1": "Woemn / Men Stocking Stuffers",
+            "gift_ideas_2": "Birthday/ Valentine/ Christmas",
+            "gift_ideas_3": "Father's Day/ Mother's Day,etc",
+            "multi_purpose_1": "Writing, Measuring, Repairs",
+            "multi_purpose_2": "Office, Outdoor, DIY, Tool Box",
+            "multi_purpose_3": "Everything you need it to do",
+            "as_a_perfect_gift_or_thank_you": "✔"
+          },
+          {
+            "position": 4,
+            "asin": "B0D4J44QHR",
+            "title": "LED Magnetic Pickup Tool",
+            "thumbnail": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/0d8efdc3-bf2a-451b-95dc-514a4410d0d6.__CR0,0,200,225_PT0_SX200_V1___.jpeg",
+            "link": "https://www.amazon.com/dp/B0D4J44QHR?ref=emc_p_m_5_i_atc",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0D4J44QHR&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "rating": 4.6,
+            "reviews": 428,
+            "price": "$9.99",
+            "extracted_price": 9.99,
+            "color": "Space Gray",
+            "feature_1": "Strong Magnetic Head and Base",
+            "feature_2": "Super Bright LED Light",
+            "feature_3": "360° Flexible Neck",
+            "double_safety_locks": "✘",
+            "gift_ideas_1": "Woemn / Men Stocking Stuffers",
+            "gift_ideas_2": "Birthday/ Valentine/ Christmas",
+            "gift_ideas_3": "Father's Day/ Mother's Day,etc",
+            "multi_purpose_1": "Pickup, Lighting, Maintenance",
+            "multi_purpose_2": "Offices, Industries, Garages",
+            "multi_purpose_3": "Everything you need it to do",
+            "as_a_perfect_gift_or_thank_you": "✔"
+          },
+          {
+            "position": 5,
+            "asin": "B0D7WCFHXQ",
+            "title": "Socket Tools Set",
+            "thumbnail": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/a23c50b4-5a69-4bfb-af25-987595acb266.__CR0,0,200,225_PT0_SX200_V1___.jpeg",
+            "link": "https://www.amazon.com/dp/B0D7WCFHXQ?ref=emc_p_m_5_i_atc",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0D7WCFHXQ&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "rating": 4.5,
+            "reviews": 190,
+            "color": "Blue and Black",
+            "feature_1": "T-Handle Ratchet Driver",
+            "feature_2": "Super Universal Socket Tools",
+            "feature_3": "20 Screwdriver Bits",
+            "double_safety_locks": "✘",
+            "gift_ideas_1": "Woemn / Men Stocking Stuffers",
+            "gift_ideas_2": "Birthday/ Valentine/ Christmas",
+            "gift_ideas_3": "Father's Day/ Mother's Day,etc",
+            "multi_purpose_1": "Carpentry, Auto Repair, DIY",
+            "multi_purpose_2": "Garages, Remodeling, Tool Box",
+            "multi_purpose_3": "Everything you need it to do",
+            "as_a_perfect_gift_or_thank_you": "✔"
+          },
+          {
+            "position": 6,
+            "asin": "B0DBHW74LN",
+            "title": "Magnetic Grill Light",
+            "thumbnail": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/2cf8534d-dd60-41b7-898a-5f90a55bae94.__CR0,0,200,225_PT0_SX200_V1___.jpeg",
+            "link": "https://www.amazon.com/dp/B0DBHW74LN?ref=emc_p_m_5_i_atc",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0DBHW74LN&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "rating": 4.6,
+            "reviews": 209,
+            "price": "$13.99",
+            "extracted_price": 13.99,
+            "color": "Space Gray",
+            "feature_1": "Strong Magnetic Base",
+            "feature_2": "Strong Magnetic Base",
+            "feature_3": "360° Flexible Neck",
+            "double_safety_locks": "✘",
+            "gift_ideas_1": "Woemn / Men Stocking Stuffers",
+            "gift_ideas_2": "Birthday/ Valentine/ Christmas",
+            "gift_ideas_3": "Father's Day/ Mother's Day,etc",
+            "multi_purpose_1": "BBQ, Grill, Booklamp, DIY",
+            "multi_purpose_2": "Outdoor, Camping, Auto Repair",
+            "multi_purpose_3": "Everything you need it to do",
+            "as_a_perfect_gift_or_thank_you": "✔"
+          },
+          {
+            "position": 7,
+            "asin": "B0D2Y1H8YQ",
+            "title": "Lightsaber Torch Lighter",
+            "thumbnail": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/d5501db1-48c2-4e34-b726-7d853c5b1289.__CR0,0,200,225_PT0_SX200_V1___.jpeg",
+            "link": "https://www.amazon.com/dp/B0D2Y1H8YQ?ref=emc_p_m_5_i_atc",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0D2Y1H8YQ&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "rating": 4.5,
+            "reviews": 575,
+            "price": "$29.99",
+            "extracted_price": 29.99,
+            "color": "Black",
+            "feature_1": "Lightsaber & Butane Jet Flame",
+            "feature_2": "Windproof & Flame Adjustable",
+            "feature_3": "1300° High Temperature Flame",
+            "double_safety_locks": "✔",
+            "gift_ideas_1": "Woemn / Men Stocking Stuffers",
+            "gift_ideas_2": "Birthday/ Valentine/ Christmas",
+            "gift_ideas_3": "Father's Day/ Mother's Day,etc",
+            "multi_purpose_1": "Candle, BBQ, Kitchen, Stove",
+            "multi_purpose_2": "Cooking, Grill, Soldered",
+            "multi_purpose_3": "Everything you need it to do",
+            "as_a_perfect_gift_or_thank_you": "✔"
+          }
+        ]
+      }
+    ],
+    "product_details": {
+      "brand_name": "MEIRUBY",
+      "number_of_items": "1",
+      "unit_count": "1 Count",
+      "upc": "765473218733",
+      "number_of_packs": "1",
+      "manufacturer": "MEIRUBY",
+      "item_type_name": "Electric Lighter",
+      "model_number": "MEIRUBY M-13",
+      "manufacturer_part_number": "MEIRUBY M-13",
+      "best_sellers_rank": [
+        {
+          "text": "#2,990 in Health & Household (See Top 100 in Health & Household)",
+          "extracted_rank": 2990,
+          "link": "https://www.amazon.com/gp/bestsellers/hpc/ref=pd_zg_ts_hpc",
+          "link_text": "See Top 100 in Health & Household"
+        },
+        {
+          "text": "#1 in Matches",
+          "extracted_rank": 1,
+          "link": "https://www.amazon.com/gp/bestsellers/hpc/10342355011/ref=pd_zg_hrsr_hpc",
+          "link_text": "Matches"
+        }
+      ],
+      "asin": "B095JZTMGX",
+      "customer_reviews": "4.4 out of 5 stars",
+      "rating": 4.4,
+      "reviews": 23864,
+      "material_type": "Aluminum",
+      "fuel_type": "Electric",
+      "color": "Rose Gold",
+      "style_name": "Electric",
+      "item_weight": "59 g",
+      "item_dimensions_l_x_w_x_thickness": "8.3\"L x 2.2\"W x 0.65\"Th"
+    },
+    "sponsored_brands": [
+      {
+        "position": 1,
+        "asin": "B08SJ3KTB2",
+        "title": "MEIRUBY Electric Candle Lighter, Christmas Stocking Stuffers Gifts for Women Mom Men Wife, USB Arc Rechargeable Windproof Long Lighter for Candle BBQ Birthday Housewarming Gift Idals",
+        "link": "https://aax-events-cell02-cf.us-east.ono.axp.amazon-adsystem.com/x/c/JC9LXlxs-o79_CPJ7yxP2YgAAAGhYsjvLwEAAAH2AQBvbm9fdHhuX2JpZDcgICBvbm9fdHhuX2ltcDEgICCpZOm6/clv1c_ek-wBfH3Vcba3TI2msVSJvBwCsVHq2g1iINp8UhZzd7EOO6HGpdHDYMZ8M3n-P_bgwCICr8rU8rFjOLm2jiDKv-qtEOLLAfG9x0HMFQq_NYupeO1wsmiiG_wOkkUrbxmdzNjRSLR6_H_ASJdhOrk-ei74Jwa2vKoFsPE_afKDAOSovkADpCZ0weIcFxrK1AmU8RIZ0NECXv6maQcLdpkOkq7PHa3XMmfLxisIYuDiTbtAchRix-uwyIWE47KeoMQ4XKWcd9cjVla28C2OQEpa29GIty8GC4QrDjdmKeNxv7TFhXdo2H9Umleuj-BZQbIADRBNx3k7-sDdlukZz4zY7wS4Jdm1HTwr92Lh3kzVWfWFNyrS-Gi8CTSaagwfSIf6bt1Pe3IWGOnnkcZoQkQvlMchrBLl87TOpOYO6fsfRBovGqp0-piBgjbfKY1rBbX2nWbfIaYK8r5ox6aAuGl6wkuYoxAhn5Aylda37WEcYjWE5QysAcUVHATwP5sGrLoNohnrUFl1rHuNJw_PYcnvCMO8Tw6BylQgQpgWTSCC53zYP3zwG9S5IYXslWnRAIvC9egszfk6mORl3jSVJJFYzBfzNJllE6ikHCujWRAVDtTt6bznBWNgLee4bPYaiEeVEcMATxlFbpkyyDxy2zlRIkbIpKfn25c0HWep-2cKAY65_Zv8p_JRo93dgEyhvb1u1MrC_t3dUXWKgR4EHvc4VHatSxNc2DioFggaLAqUO__tyoNkRqipmHzcQK0MsqL9_rcadc2QeDE_T6Peng-XkK8tkxFdTBLT17-mO43ze-tFAEpautY4nBhfTDsXCw1imOyomDfrVFAaaaO8E5RpB2-NMKhVBh2TRmB7UsVF86jlpIXQgCNezXHt_U8_9Ia5lG2c1c49XTsu-KFmDQtFRuGIEIGi_D7Ib9q_EoSu85DUFRg9meUHpMnMPnPsXWZnJFMKErUh5pKpDfniFMC-p_r7DHBoH-tMGkqbnBx6oye3-CYH5yhmTuaWxNoHUhrvMYA74fW5BlXFAkrVdGyxpiyB0SvuvVOTlv-cb0DR6m6jCkG6XkdJkOS-ubeg4RJKDKl37EvxQ4kcD_VKinKYXysIbGx1oXIJ9pFTC0M9yZWbRrzjw00qgDS90OdxA7-LJombkn3C_oAlL_msoUkFGMDrXg_gFl1Sq5j7XsFMRsQ8b-2BVCz8aP5Mn94Jr2oXJk578P1BJir5iwlBcDppdTvKyyducjCuGhkJZWn95D8Y8lsINS9iuRcQlbXn1ucF60voQvSTN8GRYX3X6b57kvPO9gbDSagWZQ-1Q4Je6rPKqXWzFQMtlFA--5J5t9aJ4zKlh0IqD0pYaTgEPmO8je9ZJoBkDeseGTPCp-5wvFnprJLuk81V1kAlRU2cZYT1reENyBenZtKED99KUW5xE7WXj4V9p6NmbsbXGck5bHgb-kWBjTynBJa-cSwG_ItzN22AA_vLJz2AxLeCQl2nGTRfxCcAlzj9WGUCyFUsFha9BRgTdOn68O7vafsxSWfDU7q9vWWfXmGZ4TRxm0DF8syx2AZa8WnovfFh3yXepMadUyMSlF81IU3HMaZKC4A6q9vaTfXwXCQtqxKsViJihzih6BlXw/https://www.amazon.com/dp/B08SJ3KTB2/?_encoding=UTF8&pd_rd_i=B08SJ3KTB2&pd_rd_i=B08SJ3KTB2&ref_=sbx_be_s_sparkle_ssd_cta&pd_rd_w=chjab&content-id=amzn1.sym.fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=GQ63SJNMQHAQSQX0N0S7&pd_rd_wg=inEKt&pd_rd_r=eb194bbc-b4cb-40d1-94bd-88985f32a8ec",
+        "link_clean": "https://www.amazon.com/dp/B08SJ3KTB2/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B08SJ3KTB2&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "thumbnail": "https://m.media-amazon.com/images/I/31TYjF8+RDL._AC_SR100,100_QL65_.jpg",
+        "video": {
+          "link": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/f122a802-eb6d-4bd7-b8c9-6abdcd517a09.mp4/productVideoOptimized.mp4",
+          "thumbnail": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/f122a802-eb6d-4bd7-b8c9-6abdcd517a09.mp4/r/THUMBNAIL_360P_FRAME_3_CAPTURE_2.JPG"
+        },
+        "rating": 4.5,
+        "reviews": 27685,
+        "price": "$12.99",
+        "extracted_price": 12.99,
+        "old_price": "$13.99",
+        "extracted_old_price": 13.99
+      },
+      {
+        "position": 2,
+        "asin": "B0D4PHGPMN",
+        "title": "2 PCS Candle Lighter, long Electric Lighter，Stocking Stuffers for Women | Lighters Long Stem，LED Power Display,Safety Switch,Upgraded Plasma,USB charging,for Birthday Camping BBQ",
+        "link": "https://aax-events-cell02-cf.us-east.ono.axp.amazon-adsystem.com/x/c/JKABz4wHL4xwVauXJdZSAtcAAAGhYsjvMAEAAAH2AQBvbm9fdHhuX2JpZDcgICBvbm9fdHhuX2ltcDEgICAiROhC/clv1c_ek-IBYHXFcbWDn2nI7cAJ16WtD4jqvAbdBo8Jljym5k48ntQ33pDXacRPdmXiJWMW4jaoCfJcCiANhdtwaKyZSzvfBv-6j4_Mxilbs_5v0AGyd3be18j-HfK7rm1IHSsYB4C9qZID_uTZrmYxUiPKtWLIN2A_t36ieAAf7fryYwTwbuUavIviBUQK0SNhu7FYc-gnUpNZ18YtTdctU4T4i_CH146QWimuSgySCzk0zzZG-LFyxsOsOn7_FT7sNu_Vz4XKeIgMag29-ADEdrz3ZdOOLKDIEuywc94gEZjYZYIrWu6EL2oRVM3wrGF6_l4eR5omoRisStyYyiPN33udxu05Yi5iNn7tQJEXy6p2Zp5q7TMc7kbS6ywA0roy1O_LGc7yN-hmrWk0o8PuUGunTPbJiVCENDRmkTIT0J7-ubji2Ka-13mOYAaeTsN5mRNY3RkemRi2qPb7zPT30D9NkILthgs878Trn_SLgOOuO8r8EmTsumsZ4mtnZYPbQevnn4gzXEQ6qjUGPwjCCTqRc1dQv1JMv52A7QbmUlKEc-EDuPRb68FGn79OBCaZrvXwYFCGMj2me5nh2nTd4A8bcQLNNgykeIs7QLyp0RM7IFip6ioStQhLW_UnyOQYWnQqI7zLaKcGMsweJI5zZ6VQjv9Tp3lW1cCtuDmSrkkMXDmex7slR9p7ddJepHSKZOj8WFgULsvQquQ0Rp4EEt8zTXNXcS_IJzjOOaI3__C62ieOrTii-d5aOo73BbfMCjMciKpsjNFh8YD3fQUKYCrY1693C_HkEo47wBiJ04PX8f7ab5BBwmS5HxHoWF0Us4lB6v5Of_cn694jZKu323DSFiy78grTiBe4EOKJtwnVD7GebQ1C9qO0CqtTCZm9X8T-AUUqxwunnwZbrLM8-gegrpop08w9hAlkTEgfIUS20KKZRuCf2SoTavi6ItsSanSm7bxk_dg_iQd7DdG3ttz8Bc2_ylhCrQnwujUuYSflNMcpd1yvODFwFpUPY8EE9rsltbk2MNzb4PTXMvOTcMR9LkQ4QDNLzXab1EKrL0ktCv7VAxrB5rbcXUb_77VmRJz3Pu91NSJQJ-bbJA-DYSmxJWZsdP3Og-5zbPFP0YDqcL0J3LHWxgk4YhoKPTjR_mkTva2ssUbIeKYkL_tEejz-kFFHxnabecq43ubKu02DYEx9nbxabOILNCqvuLtS7ICqw-aK7SZD04rjrGciGV44to8Wwh-3R4a4N1kEQvZVU6cuNbSRYnokLrZzAenS0CiHHSsRXLNe4vrlkdYWhjJSaLxKwwckIf9pAuohj3zaBY4iMAc76IUZzmCtNlcTfKC6I2nqoL2iM68SPkNmm-5BoSZiTLPAAxIuiTtdwCw4e3z3KesQEh1iUJmNquLlG8vuhcZbbb9zRA0oyW5ZLPNmjwi5kztkmLsuwrXmI2A21fK4HwjfapBWdnspOUBlUhenLeXgGHdaC1EnWctmYSDaq_XH2QVo4RxTNqbe7ASfknazlQRTU6yNmX5jEM2ObA2SNgCc4s8QYVLhHenQsvjNRpQ4tOjUvpSXbifl7qntnnZmNgacwfQ0NCyvhi9L2Za71UcewO89lmJ-qExloqa4q3wctv0hJKygc7DsUphkpItp4l4-dgozyrcu6an/https://www.amazon.com/dp/B0D4PHGPMN/?_encoding=UTF8&pd_rd_i=B0D4PHGPMN&pd_rd_i=B0D4PHGPMN&ref_=sbx_be_s_sparkle_ssd_cta&pd_rd_w=chjab&content-id=amzn1.sym.fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=GQ63SJNMQHAQSQX0N0S7&pd_rd_wg=inEKt&pd_rd_r=eb194bbc-b4cb-40d1-94bd-88985f32a8ec",
+        "link_clean": "https://www.amazon.com/dp/B0D4PHGPMN/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0D4PHGPMN&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "thumbnail": "https://m.media-amazon.com/images/I/419qZY9KAML._AC_SR100,100_QL65_.jpg",
+        "video": {
+          "link": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/926d5793-14b4-4484-8589-77f0a7cea4b9.mp4/productVideoOptimized.mp4",
+          "thumbnail": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/926d5793-14b4-4484-8589-77f0a7cea4b9.mp4/r/THUMBNAIL_360P_FRAME_3_CAPTURE_2.JPG"
+        },
+        "rating": 4.6,
+        "reviews": 4151,
+        "price": "$9.96",
+        "extracted_price": 9.96
+      },
+      {
+        "position": 3,
+        "asin": "B0D7SJ9T7G",
+        "title": "Electric Candle Lighter, Best Stocking Stuffers 2025 for Women Men Adults, Birthday Gift for Women Wife Mom Sister Nana Men, Long Rechargeable Lighter for Candle Grill Home Kitchen BBQ Camping",
+        "link": "https://aax-events-cell02-cf.us-east.ono.axp.amazon-adsystem.com/x/c/JFp2Fb3vjOvPdmcZ5dX_j9sAAAGhYsjvMQEAAAH2AQBvbm9fdHhuX2JpZDcgICBvbm9fdHhuX2ltcDEgICAFc8Zf/clv1c_ek-wBfXXVcbe3TK2ZyrC7XdcuEa5cu9p9kRsq5pYzd7EOO7fUXw1VsLR1sst2ybaY9Y_dCuLsAkAYq6boELFPLVIgOgedBAyqTUjFBiGnaomu2EzwguClm399DkUZPIYbUeeBRI6GNWXBSkn6Aa_j9n_YN2ZhGeOhM6093cLz4cFNfNWFfZ7p_kOrKvgBO2l1m_frftr3YbJQurgp5B23sGRbfeXLkxo0d16Kt_0yUqiP9O9ehs_cGja8XcbC4KzMrPEKa1kRsm9sLCBcpMLUMf6fnPLLJDGseDxYGSNX5BJ9bcuvNZUky-jovM4JU1HvVFOeaNWLXjjnJWLOqTvPnOxwZzpW7sJMtLnELW9MsJpZEFmLqhutD7q5BhucJIeXC8iI17ufhPWJP5CyFbg1DRZlyVcknCbCcm3xmLDOyn1D0KMmS44jUkjC1Cu0GtJLErMOsjkGxQ7PK4UKQrMLpIpR4BAmswCyWhh1pHRB2AaT09zae_tZ6148vgBrtYBXf95TEvC_kI2wKjCJKVcbWw1UvYBQisD8-Nus0lGN8CiGj-xjxaMskuw7FJNhCXc1l9uHXkP2DSMB8hHe_Z2fP3xsu8RGOh19WZcRN_HkFfjp7qQkpyj50l5LFeYgLuzz9TcaDd_Zyrkqd3cb2RZSQwLjPcbv0TPbScOjnFlnRM4lFfpwO0Dvh5SkKOo_o-upfdqMry2RvbmuqtAup3KKyufkHJ5-uJh5pwudrMZ-i3jiK1Ioye_ibMueY0uE1_58J5lcDAL157eeiLPDAZthJz6QAm-fnG2zXtNeeIEFg6WYRryn14pjCF8wbGbsk06CFcjGsm2EVzGVeMtD9HLhY8c1Pigp6G3Ud8lgl5M91jEysJWI2AOq5n3ve16xDqAor8wmsgqjZCvYqPzXgRL4zKe5RlDi6GtMr8n30GHcQ16NQMo22JGrTCFY2s2hAhut4Y0dNkPAuEAhQ1L77GAHq5u0xzpR0gka44iXZfaUPUvTgLY5T6v2BbIxgqTM1LaxLTLKhNKWzUp4sQP4hxM9QdH55nIDPR-HyseGbrdH_xua13XYVL6JJ89oAeWRCFstZAZV1xuYeYBhtNN7XOMZqLpkpliIQ-79ia560QKXfh7pkmroLjkV_TDCfalgLJ4NW98-qozD4vYFp2A_BsNX90u0m0ElfaiNgdtxyviIDfOnYaWcOmlsGG8trFrMyUuddPWFwRY5NZJD-wMdHhk8nzh2K4b-oWuv0ZaUnSd07SiqS1v7nLsunMYfmP74Ja-fjV1l41ankRsq7HoHN4wFF1OI_5Dbg8SXMWqYYCuzqThhivm4heuQrbgGhRaBhQUWB9av-XNwporrQlszvY1dfbDIoLNAFuSggr5MKw9xgyKJBBlgQcvJsXG59yfJtLIL_ofryVTk3kLjyDQTvzTT3Z-jN7CLxs1bBrr8IraN0NwTVWBDpPiQxairzlZyqF89aSRZz5dadpsW9FDMbElUB-rj9dbKw4ujheqvPCo3Y7LeKhDZRflTux4MIyG9ma3Xy2lhtoKIMWCCkUCgVO_AEdR5QcFn9Gqp_ZBZSTU6CLY7B1SLK8azC_uDpJ0p2zvSmR4dZl9TOvo2lNWZg6vNw9xpdpF/https://www.amazon.com/dp/B0D7SJ9T7G/?_encoding=UTF8&pd_rd_i=B0D7SJ9T7G&pd_rd_i=B0D7SJ9T7G&ref_=sbx_be_s_sparkle_ssd_cta&pd_rd_w=chjab&content-id=amzn1.sym.fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=GQ63SJNMQHAQSQX0N0S7&pd_rd_wg=inEKt&pd_rd_r=eb194bbc-b4cb-40d1-94bd-88985f32a8ec",
+        "link_clean": "https://www.amazon.com/dp/B0D7SJ9T7G/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0D7SJ9T7G&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "thumbnail": "https://m.media-amazon.com/images/I/41t8ZjIAcXL._AC_SR100,100_QL65_.jpg",
+        "video": {
+          "link": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/522c179d-f592-4f9d-9823-09f17264cc19.mp4/productVideoOptimized.mp4",
+          "thumbnail": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/522c179d-f592-4f9d-9823-09f17264cc19.mp4/r/THUMBNAIL_360P_FRAME_3_CAPTURE_2.JPG"
+        },
+        "rating": 4.4,
+        "reviews": 221,
+        "price": "$9.99",
+        "extracted_price": 9.99
+      },
+      {
+        "position": 4,
+        "asin": "B098VYV9WP",
+        "title": "SUPRUS Electric Lighter Arc Windproof Flameless USB Rechargeable Lighter with Safety Lock for Candle BBQ Camping (Champagne Gold)",
+        "link": "https://aax-events-cell02-cf.us-east.ono.axp.amazon-adsystem.com/x/c/JASU3zkYo1U1UCC3NUcFDIgAAAGhYsjvMgEAAAH2AQBvbm9fdHhuX2JpZDcgICBvbm9fdHhuX2ltcDEgICCDCuH-/clv1c_ek-wBfXXVcbe3TK2ZyrC7XdcuEa5cu9p9iFuBomXOiHfuDOAty-wDE-kt3nMBD4chwFVyBEOFxZ6hGVc818rOhn_QjNXXjmxtkjB39nwOI32y5dmFK9XljyZ4_VSquqzJA0PKgRXsgJiRqr1_is1cPDapvUMBnQ5A-Uyzj23xFZ_ms8jPOEggyk46ZpdaxWoVygnhwrPHASm2Pntb97k21jrdTc1BpDXXqAHXX3mrf0fQTAnpK7kis9Age-DmRxLNA1Ke8w8IMJWhuuq9hBr3MyRbsPucYcP7HFqkdr5LQLexSnSOm8vOdrcMc8G_ajcrEmnIG2cQH8lRpAD_5Z-1KN7if1HdrUJkzdHRtdPTawseSaj7ftvQ77V3LbcWzQDzAYXJxcdMdISQZu0lRnHRGnWVJl-6qzrFjWmz0fpG6r-2KMaLn14brlPFPkHkmh04JxKwiddTuOYZmScXg6VBENVDKRfKlt-1RPWrdXC5T_lJU0-JAQh7_qvSJ6h0dKudMd4GhhLJ_ZUvAos-0B-UXsEddZqQf0Ctgpgg_SjbFn4ZD9GkMurz1TbldjGjo2y6UC47fcJdUFlv7iQTZKlAriKnqDRZk6ilXEC3BxgsSxIOedlMg6gdg1eOx60na29Dxo2oPDMmy61GZxI4pIXbVe_R6uVCF8A6F12PsfZcosYGs5e_3ps5faxTyIe1a6mQf-qkoN6OBFAkNI6RI-gierhkJhZX1IhHY2K5AXvOU1AQgl-hK5jaCjj2Z7GsnSPviGJLKli4cWyuUOTKJA3ENlgA7g_gxEzNi-Vu5xDFfEwnOkbSoVCAtG8EDkVFkOaxcl8hkER065oj5Qxpnw4pdjYtZh_cceVINytmSXx2mRmUMdz2nLbUl4I-fmy6t3mJJAlhhK0l0GhlOZNye2ahgjqh4Pt4syPrDHkRckpRoxFYu6dinXnaqoSKwYrjypCgrq-tiAjCiZYWmUhrHxbdeg7PuD-Qc-tsH8Al9yBIG54RJro-uMiu-ngR8qMndCBOtArs0maiZP5UAPMkm2Zhp05ka9wlZztKrYcYp4ouSnooIavP0X8UGDoQy-oSItdjcOCVcIxxPuL2LCLTVeza0Mkqwzlcr2oOw44ix8h4P9qS3Prho3fVWI9_VMcXRdBPCFfcXjiCrUsqEVbQQXWQgUTeDpDSM8S2kVFSjVoajyKu_KaQLV7WlumvWsNg2YnycCecbxmNdOgLdasCvkZdBtYKektFFAvIjMp60FTImvvB3miBGWJ2aleqk_swQ3Bfdc8tuxuBPkseCM2xVQqGL_tzsy9z0KDYrGWYY2hUCznGBV-IP69V9T05XSmgBcfZVdq4vF_KmCdrbY3JU0GPD54e7c1cRZvnNrgIoVM-MH5stUNoL8UabGBGTr4JkDMcuyfL4LLXkPTU2PyNQI0PH34vebn6b6MOkqdUXli5YGU-kG6n9V4rTBmGFV3Pfz48NA_OFzNUy0Xgj50SYllDY6zk42fS7W95uBO-etw5eWQynB_xqoxujVTRQxuhTL-BEjigFcX9g6T6phyQ4_vuHUlsUugtc80riWUvJloLu1oWKfGNaJjaBnOpFoF94N45EfIeoOtTYqMfM6Y928y3XDTIltbzrE/https://www.amazon.com/dp/B098VYV9WP/?_encoding=UTF8&pd_rd_i=B098VYV9WP&pd_rd_i=B098VYV9WP&ref_=sbx_be_s_sparkle_ssd_cta&pd_rd_w=chjab&content-id=amzn1.sym.fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=GQ63SJNMQHAQSQX0N0S7&pd_rd_wg=inEKt&pd_rd_r=eb194bbc-b4cb-40d1-94bd-88985f32a8ec",
+        "link_clean": "https://www.amazon.com/dp/B098VYV9WP/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B098VYV9WP&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "thumbnail": "https://m.media-amazon.com/images/I/31oS9T4J1UL._AC_SR100,100_QL65_.jpg",
+        "video": {
+          "link": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/94f1f1ec-6948-4680-954d-1eb4d5379987.mp4/productVideoOptimized.mp4",
+          "thumbnail": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/94f1f1ec-6948-4680-954d-1eb4d5379987.mp4/r/THUMBNAIL_360P_FRAME_3_CAPTURE_2.JPG"
+        },
+        "rating": 4.4,
+        "reviews": 26519,
+        "price": "$9.99",
+        "extracted_price": 9.99,
+        "old_price": "$16.99",
+        "extracted_old_price": 16.99
+      },
+      {
+        "position": 5,
+        "asin": "B08GLRLH25",
+        "title": "FUKKUDA Electric Candle Lighter, Rechargeable USB Arc Lighter for Candles, Fireplace, Camping BBQ, Christmas Stocking Stuffers, Birthday, Valentines Day and Easter Gifts for Women Men (Obsidian Black)",
+        "link": "https://aax-events-cell02-cf.us-east.ono.axp.amazon-adsystem.com/x/c/JLA5XxvOeJVIsS-x7ROgND4AAAGhYsjvNAEAAAH2AQBvbm9fdHhuX2JpZDcgICBvbm9fdHhuX2ltcDEgICAXNRpf/clv1c_ek-IBfHXLcTWXmxhtwlAiFyUrhUJs9d-QAlcgHfDC7Osw_SbFaSGXmDQO-deLtb2KErObDKjjI-vX5blUZ0lw_BDI02SmgaaWj8yJPwkGdQXB4HBXkxSvZF55vRE1tOz-fRa7tRD7po0SUa9KQPTh1bTik3cllb78Af0wDTyqCbe22WnUptpUpMfjTh6on800IG64DNzd-eplWE0N0r4hjkJCUZ7IGqz21YqcR8VzbBDgn7sB5tRyiVuhCyuiqyGLIhhbA36tCjc80aDa21kccex9Sd_krZotyiVVMJtXUG6z1RTrB3yGsRuIhSb-xgFA-9RFvSNPRyIyFQH4YRn6SnSj9ve5rRLk4g492c51NtuUdU8kBgqW2pNzf3yzi1E7auWfEoOfobTvI38Vv0x-SJHwLPxiUv8XVtcvO4qZwxJLOjfifNyC4HHCzhTi3kjLvEwlWVS_0a3V2VVHhNbbJt1l5w2RV_HsZVib2yhLWAWwYG_E7-NWant5cPvAmOXK82IHGNldagNoFnc-QH34iWRRdtDAvP_dvsYyo8SvX-MgShnTfDHbHQkAo0E6vjzhtQxSLT9iVg3r1XlanBDImi81suKGTz1YqUuTf0yWQsAdOIEtgKowwgSKe8pGAkeP_LHLPdPeeaH-aVrWTBgHjEyW_e70rd4nUDL4PjHzkDnuf7mxMNPq4ZziPhmHm9mySpqgZKiZJfmWLVDItTyX2YbCWQ_VZrXsaQ922Wg5iyo7uzLHBm5zlQSfXSK9pF8ToWcr2MsUSmP0XWhpb4-fRh2PjznwMb75gmytnZH73XYyepDeWDbwUWVbkoE9WHRNpnJ0tnixkx_VhDiecCVMKLNKXXpqT5KpqmyhjowuuZX1zZ8UzpJLgUOICB78UEHMswXipJI-y_SN6QyUGW8aaYUbt8jiK9TaUokb-os2AJdYtE68L7ASbQ-x6wDtG78O2_dVkwW3stdzGDDAr4ZmH010RNkGCbE5af_Ww6vks8UpfC_vKnfCio8fDoSAYyF0xIwVVKtvTvACLtGXCprvRgeos8an8RlRuGbwBW2g1yISwj86BFWoJ2nXCf3PnoirSIM59sjliKLYqLy__DZcarDNep04cAjGVxebcjDvbbU7UK55ALi03rFZ6eHxAfWXSG7z7_0rOv6THmTwnjUekS42z62hfWkXisSHhJtsuqdD98popf9Sts8jmNT_9TM3AYXOqFr6FonoSGmBJf9ci_Z9eWOdTrchR7XFQWp16J5J4WvW1QPaI_nEteHzgh350IMKwhJY7uIqgirLQx0tmRsqJt2i11sXeZLeGBh7oO-ktVqmPGWeSihzZc7xJxfXF8UYInmUcA5A9vgcZBvmotMl5c9oLVQPyjf3mbSW6XNlHCR9pfC6xZvuE7SxnSknFlopE4NWB3h_OkbOn1FIEHZKXm9eHUmM6EuiVYzgWigxi4jA21DCrJl7Khrua2vBjnzgrJSpTPz0hOVP948fKtAyMPAgSTkXM7OV59SG9ZLdZZRbmbgvTd463SSbcstYF17iKSlzHTOuRhCHg1RHuYzDhIF_EOGjrBnNjamLbmTqvADOetQBG00GE4zxGpbh7wZsQWfRCVpXW92sbCAkHvYjqoDkNN4jhQMWHWQBZ3vUKy-Uva0/https://www.amazon.com/dp/B08GLRLH25/?_encoding=UTF8&pd_rd_i=B08GLRLH25&pd_rd_i=B08GLRLH25&ref_=sbx_be_s_sparkle_ssd_cta&pd_rd_w=chjab&content-id=amzn1.sym.fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=GQ63SJNMQHAQSQX0N0S7&pd_rd_wg=inEKt&pd_rd_r=eb194bbc-b4cb-40d1-94bd-88985f32a8ec",
+        "link_clean": "https://www.amazon.com/dp/B08GLRLH25/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B08GLRLH25&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "thumbnail": "https://m.media-amazon.com/images/I/314g220V0LL._AC_SR100,100_QL65_.jpg",
+        "video": {
+          "link": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/2aa22879-fc85-405a-b863-959c42b81162.mp4/productVideoOptimized.mp4",
+          "thumbnail": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/2aa22879-fc85-405a-b863-959c42b81162.mp4/r/THUMBNAIL_360P_FRAME_3_CAPTURE_2.JPG"
+        },
+        "rating": 4.4,
+        "reviews": 20747,
+        "price": "$8.99",
+        "extracted_price": 8.99,
+        "old_price": "$9.99",
+        "extracted_old_price": 9.99
+      }
+    ],
+    "reviews_information": {
+      "summary": {
+        "text": "Customers find the lighter gorgeous and appreciate that it's easier to use than traditional lighters, particularly for candles. Moreover, the rechargeable feature and battery life receive positive feedback, with customers noting it comes pre-charged. However, the reliability and ignition performance show mixed results - while some find it fantastic, others report it stops working after a few months, and while it lights multiple candles, some mention it only works once. Additionally, durability is a concern as the lighter breaks after a month of use.",
+        "insights": [
+          {
+            "title": "Appearance",
+            "sentiment": "positive",
+            "mentions": {
+              "total": 533,
+              "positive": 525,
+              "negative": 8
+            },
+            "summary": "Customers find the lighter's appearance appealing, describing it as gorgeous and a cool little device.",
+            "examples": [
+              {
+                "position": 1,
+                "snippet": "...This digital one is so effective and somehow feels “safer”. I love it that i bought it in many colors and gave as presents to my sister and parents.",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R2KFE4GQW9LE53"
+              },
+              {
+                "position": 2,
+                "snippet": "Its cute and sleek but it doesn’t last, I lit two three wik candles on a full battery and it died very disappointed it’s a dud, just use a regular...",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/RXW2EP8S3PGWR"
+              },
+              {
+                "position": 3,
+                "snippet": "This little gadget is so helpful and it comes with a charging cord it’s sleek and very effective no searching for a lighter fir your candles",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R2AMR567S0P6KP"
+              },
+              {
+                "position": 4,
+                "snippet": "It's pretty, cool, cheap. Does what it's supposed to do. The 1st item I was sent seemed to have an imperfect (loose) charging port so I returned....",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R1EU4VDXJX8WJ8"
+              }
+            ]
+          },
+          {
+            "title": "Ease of use",
+            "sentiment": "positive",
+            "mentions": {
+              "total": 521,
+              "positive": 466,
+              "negative": 55
+            },
+            "summary": "Customers find the lighter easy to use, describing it as much easier to operate than traditional lighters and convenient to turn on.",
+            "examples": [
+              {
+                "position": 1,
+                "snippet": "...This allows them to be far enough away they feel safer. and IS EASY to use than butane lighter stick! I am getting more for home and 2nd for troop 65",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R3UNW8WOJ9DP3Y"
+              },
+              {
+                "position": 2,
+                "snippet": "I have weakness in my hands from polio. This lighter is so easy to use without having to put pressure on the ignition like typical stick lighters....",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R3ERAJDL4QQX57"
+              },
+              {
+                "position": 3,
+                "snippet": "Works amazing very easy to use i got the rose gold color at lighting candles that 1 are too small for normal lighters or 2 too deep to where you can...",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R1KQ2IV8BGNBX6"
+              },
+              {
+                "position": 4,
+                "snippet": "I love this lighter. It is pretty, makes for a great presentation, easy and fun to use. It makes a very nice gift for candle lovers.",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R1PYEGCY7JOPTE"
+              }
+            ]
+          },
+          {
+            "title": "Rechargeability",
+            "sentiment": "positive",
+            "mentions": {
+              "total": 255,
+              "positive": 208,
+              "negative": 47
+            },
+            "summary": "Customers appreciate that the lighter is USB rechargeable and comes pre-charged.",
+            "examples": [
+              {
+                "position": 1,
+                "snippet": "...easy to store and not bulky, works well, and I love the fact it’s rechargeable. I’ll never go back to using lighter fluid lighters....",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R254WGVV1EZ8TQ"
+              },
+              {
+                "position": 2,
+                "snippet": "Easy to use, easy to light, easy to charge. Lights light up to show you charge leave with every use. Plan to buy a few more to put in every room.",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R1LKRRD4GB5JQ9"
+              },
+              {
+                "position": 3,
+                "snippet": "...Charges with new and current cords usbc. Holds charge longer and charges quickly. If gifting a candle it is a good addition to a basket.",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R1MOISLJF46C14"
+              },
+              {
+                "position": 4,
+                "snippet": "...They really enjoyed the fact that it's rechargeable takes a long time to run out of the charge. Easy use to light candles and enjoys the color option",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R3HQWXKLPVY8LF"
+              }
+            ]
+          },
+          {
+            "title": "Candle-friendly",
+            "sentiment": "positive",
+            "mentions": {
+              "total": 173,
+              "positive": 157,
+              "negative": 16
+            },
+            "summary": "Customers find the lighter particularly suitable for candles, appreciating its ability to light them without disposable lighters or matches.",
+            "examples": [
+              {
+                "position": 1,
+                "snippet": "I like that you can recharge this and it last for a long time. Great for candles!",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R30RZOX09Z720W"
+              },
+              {
+                "position": 2,
+                "snippet": "Best lighter ever ! Is a life savor and game changer ! Definitely going to start buying these as house warming present for my friends",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/RMLT81JQPGB53"
+              },
+              {
+                "position": 3,
+                "snippet": "Worked amazing when I first got it! Perfect for candles without needing lighters around, for safety and ease of use....",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/RKBOPQG31892X"
+              },
+              {
+                "position": 4,
+                "snippet": "...It’s compact, lightweight, and easy to use, making it perfect for lighting candles, BBQs, and even for camping trips....",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R1RGTMVV5XGVHE"
+              }
+            ]
+          },
+          {
+            "title": "Reliability",
+            "sentiment": "mixed",
+            "mentions": {
+              "total": 1300,
+              "positive": 861,
+              "negative": 519
+            },
+            "summary": "Customers have mixed opinions about the lighter's reliability, with some finding it fantastic and their favorite, while others report that it stopped working after a few months.",
+            "examples": [
+              {
+                "position": 1,
+                "snippet": "Love it! I told my husband that it was a fancy flute and he was amazed! Once he found out it was an electric lighter he couldn't stop laughing...",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R2Y8RNKRZBK0RH"
+              },
+              {
+                "position": 2,
+                "snippet": "...while but when I tried to recharge it, it never took a charge and stopped working. Really disappointing because it was perfect when it first arrived.",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R1OFSPI1ZTDED2"
+              },
+              {
+                "position": 3,
+                "snippet": "Very fast shipping, neatly packaged and great product. Very easy to use as well with a simple on/off safety switch and a button to light the arcs.",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R1K1DOJHPHQ6S8"
+              },
+              {
+                "position": 4,
+                "snippet": "This item was great until it stopped working. The battery worked well the first few times but eventually I had to charge it after every use....",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R1ORD1NWLBVBZ0"
+              }
+            ]
+          },
+          {
+            "title": "Ignition",
+            "sentiment": "mixed",
+            "mentions": {
+              "total": 146,
+              "positive": 63,
+              "negative": 83
+            },
+            "summary": "Customers have mixed experiences with the lighter's ignition: while some report it lights candles and fire pits easily, others mention it barely lights one candle and only works once.",
+            "examples": [
+              {
+                "position": 1,
+                "snippet": "...Woke up the next day and it’s dead. No lights, no spark, won’t charge, just dead. Exchanged for a new one and exactly the same thing happens....",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R2YISMXVIUBAGT"
+              },
+              {
+                "position": 2,
+                "snippet": "Lights candles easily, but not punk sticks, which is one of the things I light frequently....",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R3851POXUZ0QHA"
+              },
+              {
+                "position": 3,
+                "snippet": "...it again- it turns on and a light comes on by the button but it will not ignite. Worst $10 I’ve ever spent",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R2GEJJ3U6BY6KH"
+              },
+              {
+                "position": 4,
+                "snippet": "Fantastic product, lights my candles easily and comes with charging cable. Highly recommend",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R3PJ9BECCB85QR"
+              }
+            ]
+          },
+          {
+            "title": "Battery life",
+            "sentiment": "negative",
+            "mentions": {
+              "total": 1000,
+              "positive": 315,
+              "negative": 746
+            },
+            "summary": "Customers report significant issues with the lighter's battery life, noting that it does not stay charged and cannot be recharged.",
+            "examples": [
+              {
+                "position": 1,
+                "snippet": "...Woke up the next day and it’s dead. No lights, no spark, won’t charge, just dead. Exchanged for a new one and exactly the same thing happens....",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R2YISMXVIUBAGT"
+              },
+              {
+                "position": 2,
+                "snippet": "Does not hold a charge. Had it on the charger for 3 days. Showed it was fully charged and went to light my 3 wick candle only to get one wick lit....",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R21CMLHNBWN522"
+              },
+              {
+                "position": 3,
+                "snippet": "...They’re rechargeable, very easy to store, and actually aesthetically pleasing, so they slip right into a drawer without feeling bulky or out of place...",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R130DTLCFUTT69"
+              },
+              {
+                "position": 4,
+                "snippet": "It lasted about 3 years and then the connector broke and it's stopped charging which is unfortunate and speaks to probably some engineering concerns....",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R1F4Q3R4D3MGJ"
+              }
+            ]
+          },
+          {
+            "title": "Durability",
+            "sentiment": "negative",
+            "mentions": {
+              "total": 348,
+              "positive": 69,
+              "negative": 279
+            },
+            "summary": "Customers report significant durability issues with the lighter, noting that it dies after only a few uses and doesn't last more than one to two three-wick candles.",
+            "examples": [
+              {
+                "position": 1,
+                "snippet": "Like the idea but doesn’t last",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R1RLF0KIUHT66S"
+              },
+              {
+                "position": 2,
+                "snippet": "I love this product but after using it after a couple days it died and I tried to put it on the charger, but it just won’t charge… I am sending this...",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R35M432MLYVGB"
+              },
+              {
+                "position": 3,
+                "snippet": "Unfortunately this product was good for one use and broke. Money wasted! I tried recharging it but that was not the problem. It’s fully charged....",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R36EGEBNLFQ4YO"
+              },
+              {
+                "position": 4,
+                "snippet": "It broke after a month",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R1AYTDVRQF2NXW"
+              }
+            ]
+          }
+        ],
+        "images": [
+          "https://m.media-amazon.com/images/I/81My47EBNPL.jpg",
+          "https://m.media-amazon.com/images/I/61ZSSrZVF2L.jpg",
+          "https://m.media-amazon.com/images/I/61G3Y7+lSCL.jpg",
+          "https://m.media-amazon.com/images/I/71LbZf8MyIL.jpg",
+          "https://m.media-amazon.com/images/I/61ZEfgBRE0L.jpg",
+          "https://m.media-amazon.com/images/I/71uYJ-RWJcL.jpg",
+          "https://m.media-amazon.com/images/I/61ei-A12EXL.jpg",
+          "https://m.media-amazon.com/images/I/61EyorNoOxL.jpg",
+          "https://m.media-amazon.com/images/I/71PJ3FZPJ7L.jpg",
+          "https://m.media-amazon.com/images/I/71GxDTxuCaL.jpg",
+          "https://m.media-amazon.com/images/I/61bqRpsH21L.jpg",
+          "https://m.media-amazon.com/images/I/71sMRhmzydL.jpg"
+        ],
+        "customer_reviews": {
+          "5 star": 76,
+          "4 star": 11,
+          "3 star": 5,
+          "2 star": 2,
+          "1 star": 6
+        }
+      },
+      "authors_reviews": [
+        {
+          "position": 1,
+          "title": "Sleek, Reliable, and Easy to Use!",
+          "text": "This rechargeable electric lighter works great and has quickly become one of my favorite household tools. It charges quickly, holds a long-lasting charge, and lights candles with ease—no more struggling with traditional lighters. The long design makes it easy to reach deep candle jars while keeping your hands safely away from the flame. It's lightweight, stylish, and simple to operate. Overall, it's a convenient, reusable alternative to disposable lighters, and I would definitely recommend it!",
+          "rating": 5.0,
+          "date": "July 23, 2026",
+          "author": "Lauren Koehler",
+          "author_link": "https://www.amazon.com/gp/profile/amzn1.account.AHGHTUTD5YXBGBYMRFAXMKWUWDVQ?ref=cm_cr_dp_d_bdcrb_top",
+          "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/383c4021-b69f-4bc8-920f-75f4c47cc83a._CR71%2C0%2C357%2C357_SX460_SX48_.jpg",
+          "helpful_votes": "4 people found this helpful",
+          "verified_purchase": true,
+          "product": {
+            "color": "Rose Gold",
+            "total_product_quantity": "1 Count"
+          }
+        },
+        {
+          "position": 2,
+          "title": "Great tool",
+          "text": "Such a great investment. I honestly think it holds battery charge for a long time. It’s very easy to use. This is great if you use candles a lot.",
+          "rating": 5.0,
+          "date": "October 16, 2026",
+          "author": "Tavia Patterson",
+          "author_link": "https://www.amazon.com/gp/profile/amzn1.account.AH3N2YXZHUDZ7VGUBHLQRJ7MVGQA?ref=cm_cr_dp_d_bdcrb_top",
+          "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SX48_.png",
+          "verified_purchase": true,
+          "product": {
+            "color": "Rose Gold",
+            "total_product_quantity": "1 Count"
+          }
+        },
+        {
+          "position": 3,
+          "title": "Beautiful, efficient and safer than matches",
+          "text": "We have several of these electric lighters in different parts of our house. They are easy to use, they last for several months on a single charge and they light candles quickly.We leave these lighters on the tables next to the candles because their design and finish are very nice.",
+          "rating": 5.0,
+          "date": "October 14, 2026",
+          "author": "Lorenzo",
+          "author_link": "https://www.amazon.com/gp/profile/amzn1.account.AFRBIB5UGORJYKYYMEK2UVALVEWQ?ref=cm_cr_dp_d_bdcrb_top",
+          "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SX48_.png",
+          "verified_purchase": true,
+          "product": {
+            "color": "Champagne Gold",
+            "total_product_quantity": "1 Count"
+          }
+        },
+        {
+          "position": 4,
+          "title": "Good for one year only",
+          "text": "I bought this USB candle lighter in Aug 2024 and it worked great until now, Nov 2025. The charging mechanism is now not charging. I had it plugged in for about 1-1/2 hours and there was no charge. I'm bummed about it.",
+          "rating": 4.0,
+          "date": "November 29, 2025",
+          "author": "lilacjr1",
+          "author_link": "https://www.amazon.com/gp/profile/amzn1.account.AF2VQD6NWDON2RVUM3LHT6XUS2AQ?ref=cm_cr_dp_d_bdcrb_top",
+          "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/365ed998-e57e-4cc1-b2a7-dbbffe5d5605._CR0%2C0%2C500%2C500_SX460_SX48_.jpeg",
+          "helpful_votes": "18 people found this helpful",
+          "verified_purchase": true,
+          "product": {
+            "color": "Rose Gold",
+            "total_product_quantity": "1 Count"
+          }
+        },
+        {
+          "position": 5,
+          "title": "Easy to use",
+          "text": "I really like this electric lighter. It’s easy to use, charges quickly, and is convenient to have around. I also like that it comes with a charger, so it’s simple to recharge when needed. Overall, it works well and is a handy item to have.",
+          "rating": 5.0,
+          "date": "September 18, 2026",
+          "author": "Tonya Grantham",
+          "author_link": "https://www.amazon.com/gp/profile/amzn1.account.AFVYKWNVTSCG6WQ57YC63S3OGWSA?ref=cm_cr_dp_d_bdcrb_top",
+          "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SX48_.png",
+          "helpful_votes": "2 people found this helpful",
+          "verified_purchase": true,
+          "product": {
+            "color": "Rose Gold",
+            "total_product_quantity": "1 Count"
+          }
+        },
+        {
+          "position": 6,
+          "title": "Fantastic inventive product I recommend 100%.",
+          "text": "(MEIRUBY) the manufacturer I have to say made a sturdy, durable, and lightweight easy to use product. Easy to charge which is long lasting charge life. Lights candles so easily and it’s cool to watch it spark and ignite the wick of the candle. Safe to use with a simple switch that covers the on and off button so young children cannot easily power up and start a fire. The length lets you get down to a used candle wick without burning fingers or hands. Does not use fuel so there is no refilling or throwing away once used up. Comes in different colors and it definitely was a great stocking stuffer.",
+          "rating": 5.0,
+          "date": "May 26, 2026",
+          "author": "CW",
+          "author_link": "https://www.amazon.com/gp/profile/amzn1.account.AEYJ7L7RMIZ4FUNJFZWAYFLEQQUQ?ref=cm_cr_dp_d_bdcrb_top",
+          "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SX48_.png",
+          "helpful_votes": "One person found this helpful",
+          "verified_purchase": true,
+          "product": {
+            "color": "Green",
+            "total_product_quantity": "1 Count"
+          }
+        },
+        {
+          "position": 7,
+          "title": "Great lighter for candles and cigarettes!",
+          "text": "Great lighter, lights cigarettes and candles with no problems. Charged very fast and heard it holds a long charge so we shall see.",
+          "rating": 5.0,
+          "date": "September 17, 2026",
+          "author": "Linda",
+          "author_link": "https://www.amazon.com/gp/profile/amzn1.account.AFX3ZGXXBBWVDHJVH2C25ZRUCMLA?ref=cm_cr_dp_d_bdcrb_top",
+          "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/b35f08eb-1dfd-4022-a3e0-1124910bd283._CR0%2C13%2C307%2C307_UX460_SX48_.jpg",
+          "helpful_votes": "One person found this helpful",
+          "verified_purchase": true,
+          "product": {
+            "color": "Rose Gold",
+            "total_product_quantity": "1 Count"
+          }
+        },
+        {
+          "position": 8,
+          "title": "Prongs need to be wider",
+          "text": "Works really well to light candles - I wish the arc/prongs were wider though. I can see why it stops working for some people because it's really easy to dirty up the points. The prongs are barely the width of the wick. Other than that, so far so good!",
+          "rating": 4.0,
+          "date": "October 3, 2026",
+          "author": "Josh Fratrik",
+          "author_link": "https://www.amazon.com/gp/profile/amzn1.account.AGMQCK2HUINIQ3XL3HBZHLBRKIZA?ref=cm_cr_dp_d_bdcrb_top",
+          "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SX48_.png",
+          "verified_purchase": true,
+          "product": {
+            "color": "Blue",
+            "total_product_quantity": "1 Count"
+          }
+        }
+      ],
+      "other_countries_reviews": [
+        {
+          "position": 1,
+          "title": "Doesn't charge",
+          "text": "Loved it when I first got it, but it doesn't charge. I couldn't even charge it ONCE after the charge died the first time. Only after this happened did I find another review saying the same thing.",
+          "rating": 1.0,
+          "date": "November 22, 2024",
+          "author": "Maram",
+          "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SX48_.png",
+          "verified_purchase": true,
+          "product": {
+            "color": "Blue",
+            "total_product_quantity": "1 Count"
+          },
+          "country": {
+            "code": "AE",
+            "name": "United Arab Emirates"
+          },
+          "language": {
+            "code": "en",
+            "name": "English"
+          }
+        },
+        {
+          "position": 2,
+          "title": "Great product & looks cool",
+          "text": "Great for lighting the fire especially if you're a little afraid of fire.You can't use a newer cable like a USB C to USB C cable because it will not charge you'll have to use a USB A to USB C cable.",
+          "rating": 5.0,
+          "date": "January 16, 2024",
+          "author": "Patrick N.",
+          "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SX48_.png",
+          "verified_purchase": true,
+          "product": {
+            "color": "Black",
+            "total_product_quantity": "1 Count"
+          },
+          "country": {
+            "code": "GB",
+            "name": "United Kingdom"
+          },
+          "language": {
+            "code": "en",
+            "name": "English (United Kingdom)"
+          }
+        },
+        {
+          "position": 3,
+          "title": "Schlechter Akku",
+          "text": "An sich ganz gut und tut was es soll. Allerdings ist nach einem Jahr der Akku kaputt und damit das ganze Teil schrott.",
+          "rating": 2.0,
+          "date": "December 7, 2023",
+          "author": "V. Hecht",
+          "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SX48_.png",
+          "verified_purchase": true,
+          "product": {
+            "color": "Black",
+            "total_product_quantity": "1 Count"
+          },
+          "country": {
+            "code": "DE",
+            "name": "Germany"
+          },
+          "language": {
+            "code": "de",
+            "name": "German (Germany)"
+          }
+        },
+        {
+          "position": 4,
+          "title": "Fini de chercher des allumettes ou un briquet partout !",
+          "text": "Depuis que j’ai cet allume-feu électrique, je me demande comment j’ai pu m’en passer aussi longtemps ! 😅Avec une plaque à induction à la maison, je n’ai aucune raison d’avoir constamment des allumettes ou un briquet sous la main. Résultat : chaque fois que je voulais allumer une bougie, je passais mon temps à chercher une boîte d’allumettes dans les tiroirs ou j’attendais que mon mari soit dans les parages pour lui emprunter son briquet.J’ai choisi celui-ci en rose et maintenant il a sa place dans mon tiroir. Je sais toujours où il est et il est immédiatement prêt à servir. Je l’utilise pour mes bougies, de la sauge et tout ce qui nécessite une petite flamme.Il fonctionne très bien et surtout, l’autonomie est excellente. Je l’ai depuis un bon moment et je crois que je ne l’ai rechargé qu’une seule fois. La recharge USB est également beaucoup plus pratique que de devoir penser à racheter des briquets ou des allumettes.J’aime aussi son format fin et discret. Il prend très peu de place et peut facilement être emporté en voyage ou en camping.Bref, un tout petit objet qui m’a simplifié la vie beaucoup plus que je ne l’aurais imaginé. Je le recommande vraiment ! 😊",
+          "rating": 5.0,
+          "date": "August 11, 2026",
+          "author": "Nora",
+          "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/af2d5550-8d20-499c-a11f-190a00df1329._CR0%2C0%2C500%2C500_SX460_SX48_.jpeg",
+          "verified_purchase": true,
+          "product": {
+            "color": "Rose Gold",
+            "total_product_quantity": "1 Count"
+          },
+          "country": {
+            "code": "FR",
+            "name": "France"
+          },
+          "language": {
+            "code": "fr",
+            "name": "French (France)"
+          }
+        },
+        {
+          "position": 5,
+          "title": "UPDATED REVIEW* Really cool device, lots of pros, only one con",
+          "text": "SECOND UPDATE: Okay so I see now how you can burn the lighter. I put the torch into the candle completely vertical and when the wick was lit the flame started melting the lighter. To avoid this, make sure you are using the lighter on a slight angle. It should never be perfectly vertical.UPDATE: been using this lighter for about 5 months and still love it. No issues. I saw a review where someone says it stopped working after 2 months, maybe they got a defective one. Saw another photo of someone's that was completely toasted and my first thought was \"what the hell did you stick it in?!?!\" LOL I can only imagine that happening if you are using it improperly.I love this little thing. Pros:- It's about the size of a pen- The actual lighter part is concealed until you are ready to use it- 4 lights show battery remaining- can charge with any usb-c cable- plasma is so cool, it would be a good gift- just as good as a regular lighter but easier to use cuz you just push a button rather than snapping a lighter striker (which can sometimes get so hawt they burn your thumb)- no burning your finger/awkward maneaouvering to not burn your finger so that you can light that candle wick all the way at the bottom of the jar 🤣Cons:- battery doesn't last as many uses as I thought it would. Maybe about 50 uses. The description sounded like it would be moreOverall super happy with this cool device",
+          "rating": 5.0,
+          "date": "October 5, 2022",
+          "author": "Skip Helps",
+          "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/c56f9b08-220d-44b3-ac40-ab7b99a04f11._CR0%2C0%2C500%2C500_SX460_SX48_.jpg",
+          "images": [
+            "https://m.media-amazon.com/images/I/71zVQGX3lhL.jpg"
+          ],
+          "video": {
+            "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/8b616e19-99cb-4bf9-91da-a91bcb5a4cc9/default.jobtemplate.hls.m3u8",
+            "thumbnail": "https://m.media-amazon.com/images/I/61snr45JhML._SY500_.jpg"
+          },
+          "verified_purchase": true,
+          "product": {
+            "color": "Light Blue",
+            "total_product_quantity": "1 Count"
+          },
+          "country": {
+            "code": "CA",
+            "name": "Canada"
+          },
+          "language": {
+            "code": "en",
+            "name": "English (Canada)"
+          }
+        }
+      ]
+    }
+  }
+}

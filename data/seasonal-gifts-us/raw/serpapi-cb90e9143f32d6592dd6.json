@@ -1,0 +1,1565 @@
+{
+  "provider": "serpapi",
+  "endpoint": "https://serpapi.com/search.json",
+  "parameters": {
+    "engine": "amazon_product",
+    "asin": "B0CC983HPF",
+    "amazon_domain": "amazon.com",
+    "language": "en_US",
+    "shipping_location": "US",
+    "output": "json"
+  },
+  "fetched_at_utc": "2026-10-22T09:01:43.134078+00:00",
+  "raw_file": "raw/serpapi-cb90e9143f32d6592dd6.json",
+  "response": {
+    "search_metadata": {
+      "id": "6ad9d0f82f08570b8744cedd",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/4uBzk5mAIlNVMILLwrcL_127zH6BOYnKtlKhT7FkENE/6ad9d0f82f08570b8744cedd.json",
+      "markdown_endpoint": "https://serpapi.com/searches/4uBzk5mAIlNVMILLwrcL_127zH6BOYnKtlKhT7FkENE/6ad9d0f82f08570b8744cedd.md",
+      "created_at": "2026-10-22 09:01:44 UTC",
+      "processed_at": "2026-10-22 09:01:44 UTC",
+      "amazon_product_url": "https://www.amazon.com/dp/B0CC983HPF/?language=en_US",
+      "raw_html_file": "https://serpapi.com/searches/4uBzk5mAIlNVMILLwrcL_127zH6BOYnKtlKhT7FkENE/6ad9d0f82f08570b8744cedd.html",
+      "total_time_taken": 7.73
+    },
+    "search_parameters": {
+      "engine": "amazon_product",
+      "asin": "B0CC983HPF",
+      "amazon_domain": "amazon.com",
+      "language": "en_US",
+      "device": "desktop",
+      "shipping_location": "US"
+    },
+    "product_results": {
+      "categories": [
+        {
+          "position": 1,
+          "name": "Toys & Games",
+          "link": "https://www.amazon.com/toys/b/ref=dp_bc_1?ie=UTF8&node=165793011",
+          "node": "165793011",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&language=en_US&node=165793011&shipping_location=US"
+        },
+        {
+          "position": 2,
+          "name": "Party Supplies",
+          "link": "https://www.amazon.com/Party-Supplies-Games/b/ref=dp_bc_2?ie=UTF8&node=1266203011",
+          "node": "1266203011",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&language=en_US&node=1266203011&shipping_location=US"
+        },
+        {
+          "position": 3,
+          "name": "Tablecovers",
+          "link": "https://www.amazon.com/Kids-Party-Tablecovers/b/ref=dp_bc_3?ie=UTF8&node=2528083011",
+          "node": "2528083011",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&language=en_US&node=2528083011&shipping_location=US"
+        }
+      ],
+      "asin": "B0CC983HPF",
+      "title": "Halloween Giant Coloring Poster/Tablecloth-Halloween Crafts for Kids-30 x 72 Inches Jumbo Paper Coloring Banner Gifts for Kids Activities Games Toys Party Favors- Halloween Party Decorations",
+      "link": "https://www.amazon.com/OHOME-Halloween-Tablecloth-Halloween-Activities-Decorations/dp/B0CC983HPF/",
+      "link_clean": "https://www.amazon.com/dp/B0CC983HPF/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0CC983HPF&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+      "badges": [
+        "Amazon's Choice"
+      ],
+      "variants": [
+        {
+          "title": "Color",
+          "items": [
+            {
+              "position": 1,
+              "asin": "B0CC983HPF",
+              "name": "Halloween",
+              "image": "https://m.media-amazon.com/images/I/61fBiQLLrbL._SS64_.jpg",
+              "selected": true,
+              "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0CC983HPF&device=desktop&engine=amazon_product&language=en_US&shipping_location=US"
+            },
+            {
+              "position": 2,
+              "asin": "B0CYH1RKQC",
+              "name": "Back to School",
+              "image": "https://m.media-amazon.com/images/I/51CN5ZxRcVL._SS64_.jpg",
+              "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0CYH1RKQC&device=desktop&engine=amazon_product&language=en_US&shipping_location=US"
+            },
+            {
+              "position": 3,
+              "asin": "B0CC98QTGT",
+              "name": "Christmas",
+              "image": "https://m.media-amazon.com/images/I/61lNvoyPxML._SS64_.jpg",
+              "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0CC98QTGT&device=desktop&engine=amazon_product&language=en_US&shipping_location=US"
+            },
+            {
+              "position": 4,
+              "asin": "B0F18V5WRX",
+              "name": "Dinosaur",
+              "image": "https://m.media-amazon.com/images/I/61M3PUWzY6L._SS64_.jpg",
+              "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0F18V5WRX&device=desktop&engine=amazon_product&language=en_US&shipping_location=US"
+            },
+            {
+              "position": 5,
+              "asin": "B0D9LX4MFQ",
+              "name": "Hanukkah",
+              "image": "https://m.media-amazon.com/images/I/510bbxy+g4L._SS64_.jpg",
+              "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0D9LX4MFQ&device=desktop&engine=amazon_product&language=en_US&shipping_location=US"
+            },
+            {
+              "position": 6,
+              "asin": "B0FFGWMHKL",
+              "name": "Jesus",
+              "image": "https://m.media-amazon.com/images/I/61fEjpfRAML._SS64_.jpg",
+              "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0FFGWMHKL&device=desktop&engine=amazon_product&language=en_US&shipping_location=US"
+            },
+            {
+              "position": 7,
+              "asin": "B0DFM5J2HB",
+              "name": "New Year",
+              "image": "https://m.media-amazon.com/images/I/61sorq9XigL._SS64_.jpg",
+              "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0DFM5J2HB&device=desktop&engine=amazon_product&language=en_US&shipping_location=US"
+            },
+            {
+              "position": 8,
+              "asin": "B0F18WBLKL",
+              "name": "Race Car",
+              "image": "https://m.media-amazon.com/images/I/51RHc8Y5OIL._SS64_.jpg",
+              "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0F18WBLKL&device=desktop&engine=amazon_product&language=en_US&shipping_location=US"
+            },
+            {
+              "position": 9,
+              "asin": "B0BQBVGMZJ",
+              "name": "St. Patricks Day",
+              "image": "https://m.media-amazon.com/images/I/61uTYMIFIbL._SS64_.jpg",
+              "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0BQBVGMZJ&device=desktop&engine=amazon_product&language=en_US&shipping_location=US"
+            },
+            {
+              "position": 10,
+              "asin": "B0CC59TGJR",
+              "name": "Thanksgiving",
+              "image": "https://m.media-amazon.com/images/I/612Vtcl5IOL._SS64_.jpg",
+              "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0CC59TGJR&device=desktop&engine=amazon_product&language=en_US&shipping_location=US"
+            },
+            {
+              "position": 11,
+              "asin": "B0D9Q53295",
+              "name": "Winter",
+              "image": "https://m.media-amazon.com/images/I/61pQzhpt3qL._SS64_.jpg",
+              "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0D9Q53295&device=desktop&engine=amazon_product&language=en_US&shipping_location=US"
+            },
+            {
+              "position": 12,
+              "asin": "B0BT9MB7Q8",
+              "name": "4th of July",
+              "image": "https://m.media-amazon.com/images/I/619mRCbOVFL._SS64_.jpg",
+              "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0BT9MB7Q8&device=desktop&engine=amazon_product&language=en_US&shipping_location=US"
+            },
+            {
+              "position": 13,
+              "asin": "B0CSYJPW3X",
+              "name": "Birthday",
+              "image": "https://m.media-amazon.com/images/I/61MQ0AK4FJL._SS64_.jpg",
+              "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0CSYJPW3X&device=desktop&engine=amazon_product&language=en_US&shipping_location=US"
+            },
+            {
+              "position": 14,
+              "asin": "B0D5D36J4Z",
+              "name": "Diwali",
+              "image": "https://m.media-amazon.com/images/I/51fMQ9ANwzL._SS64_.jpg",
+              "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0D5D36J4Z&device=desktop&engine=amazon_product&language=en_US&shipping_location=US"
+            },
+            {
+              "position": 15,
+              "asin": "B0BQBTZ6K8",
+              "name": "Easter",
+              "image": "https://m.media-amazon.com/images/I/51ie1UOzCRL._SS64_.jpg",
+              "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0BQBTZ6K8&device=desktop&engine=amazon_product&language=en_US&shipping_location=US"
+            },
+            {
+              "position": 16,
+              "asin": "B0CX526G7C",
+              "name": "Fathers Day",
+              "image": "https://m.media-amazon.com/images/I/51Jd+QSOwGL._SS64_.jpg",
+              "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0CX526G7C&device=desktop&engine=amazon_product&language=en_US&shipping_location=US"
+            },
+            {
+              "position": 17,
+              "asin": "B0CR5RP85S",
+              "name": "Ramadan",
+              "image": "https://m.media-amazon.com/images/I/512rz8amLzL._SS64_.jpg",
+              "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0CR5RP85S&device=desktop&engine=amazon_product&language=en_US&shipping_location=US"
+            },
+            {
+              "position": 18,
+              "asin": "B0GCJKDQXW",
+              "name": "Soccer",
+              "image": "https://m.media-amazon.com/images/I/616h2tZOD2L._SS64_.jpg",
+              "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0GCJKDQXW&device=desktop&engine=amazon_product&language=en_US&shipping_location=US"
+            },
+            {
+              "position": 19,
+              "asin": "B0G42XYNZX",
+              "name": "Space",
+              "image": "https://m.media-amazon.com/images/I/51fxd36YrTL._SS64_.jpg",
+              "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0G42XYNZX&device=desktop&engine=amazon_product&language=en_US&shipping_location=US"
+            },
+            {
+              "position": 20,
+              "asin": "B0DLP4B5BT",
+              "name": "Spring",
+              "image": "https://m.media-amazon.com/images/I/616k2ue6+hL._SS64_.jpg",
+              "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0DLP4B5BT&device=desktop&engine=amazon_product&language=en_US&shipping_location=US"
+            },
+            {
+              "position": 21,
+              "asin": "B0CVWZCWGW",
+              "name": "Summer",
+              "image": "https://m.media-amazon.com/images/I/511OeWuinkL._SS64_.jpg",
+              "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0CVWZCWGW&device=desktop&engine=amazon_product&language=en_US&shipping_location=US"
+            },
+            {
+              "position": 22,
+              "asin": "B0CMCQQJ76",
+              "name": "Valentines Pink and Red",
+              "image": "https://m.media-amazon.com/images/I/51ixhGh6paL._SS64_.jpg",
+              "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0CMCQQJ76&device=desktop&engine=amazon_product&language=en_US&shipping_location=US"
+            }
+          ]
+        }
+      ],
+      "brand": "Visit the OHOME Store",
+      "thumbnail": "https://m.media-amazon.com/images/I/81svxDtpUWL._AC_SY300_SX300_QL70_FMwebp_.jpg",
+      "thumbnails": [
+        "https://m.media-amazon.com/images/I/81svxDtpUWL._AC_SL1254_.jpg",
+        "https://m.media-amazon.com/images/I/919BTy+E4AL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81feE9-qZbL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/910XA3FO-4L._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/910z4tO5ycL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/91jU6fvonZL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71KKSIcuWZL._AC_SL1500_.jpg"
+      ],
+      "rating": 4.8,
+      "reviews": 1758,
+      "bought_last_month": "8K+ bought in past month",
+      "price": "$9.99",
+      "extracted_price": 9.99,
+      "old_price": "$15.98",
+      "extracted_old_price": 15.98,
+      "delivery": [
+        "FREE delivery Wednesday, October 28 on orders shipped by Amazon over $35",
+        "Or fastest delivery Tuesday, October 27",
+        "Arrives before Halloween"
+      ],
+      "stock": "In Stock"
+    },
+    "purchase_options": {
+      "single_offer": {
+        "price": "$9.99",
+        "extracted_price": 9.99,
+        "delivery": [
+          "FREE delivery Wednesday, October 28 on orders shipped by Amazon over $35",
+          "Or fastest delivery Tuesday, October 27",
+          "Arrives before Halloween"
+        ],
+        "stock": "In Stock",
+        "features": {
+          "ships_from": {
+            "text": "Amazon",
+            "details": {
+              "heading": "Ships from",
+              "content": "Amazon"
+            }
+          },
+          "sold_by": {
+            "text": "Home Daily",
+            "details": {
+              "heading": "Sold by",
+              "content": "Home Daily"
+            },
+            "link": {
+              "text": "Home Daily",
+              "link": "https://www.amazon.com/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2OYTF66U5GITU&asin=B0CC983HPF&ref_=dp_merchant_link&isAmazonFulfilled=1"
+            }
+          },
+          "returns": {
+            "text": "FREE 30-day refund/replacement",
+            "details": {
+              "heading": "FREE 30-day refund/replacement"
+            },
+            "link": {
+              "text": "See exceptions",
+              "link": "https://www.amazon.com/gp/help/customer/display.html/?nodeId=GKQNFKFK5CF3C54B"
+            }
+          },
+          "payment": {
+            "text": "Secure transaction",
+            "details": {
+              "heading": "Your transaction is secure",
+              "content": "We work hard to protect your security and privacy. Our payment security system encrypts your information during transmission. We don’t share your credit card details with third-party sellers, and we don’t sell your information to others. Learn more"
+            },
+            "link": {
+              "text": "Learn more",
+              "link": "https://www.amazon.com/gp/help/customer/display.html?nodeId=201909010"
+            }
+          }
+        }
+      }
+    },
+    "item_specifications": {
+      "brand": "OHOME",
+      "color": "Halloween",
+      "material": "Paper",
+      "product_dimensions": "72\"L x 30\"W",
+      "shape": "Rectangular"
+    },
+    "about_item": [
+      "Halloween Party Decorations - Halloween Decorations Indoor - Halloween Decor.Halloween Tablecloth.Halloween party favors",
+      "[Reliable to Use]: Halloween gifts:32*72 inch.This Halloween activity tablecloth is made of thick paper, which is reliable, clearly printed, and not easy to break, tear off, or fade, providing you with a pleasant using experience.Halloween decorations",
+      "[Unique & Top Halloween Gifts]:Halloween treats for kids,keep kids engaged and having fun this Halloween! They can custom color or paint this adorable huge banner and be entertained for hours.",
+      "[Giant Coloring Poster]:Happy Halloween backdrop.The size of this large coloring poster not only helps create a large arts and crafts area...it also can serve as a tablecloth, keeping your table clean from the kid's messes.Halloween decorations.",
+      "[Halloween Classroom Activity]:Halloween activities for kids.This poster is perfect for classroom parties and crafts! Homeschooling this year? It also makes a great art activity for Halloween themes at home!",
+      "[Beautifully Designed Crafts]:Great Halloween gifts for kids!Get ready to celebrate Halloween in the most creative way! This coloring poster/tablecloth is perfect for kids and adults who love to express their artistic side."
+    ],
+    "bought_together": [
+      {
+        "position": 1,
+        "title": "OHOME Halloween Giant Coloring Poster/Tablecloth-Halloween Crafts for Kids-30 x 72 Inches Jumbo Paper Coloring Banner Gifts for Kids Activities Games Toys Party Favors- Halloween Party Decorations",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/81svxDtpUWL._AC_UL116_SR116,116_.jpg",
+        "price": "$9.99",
+        "extracted_price": 9.99,
+        "delivery": [
+          "Get it as soon as Wednesday, Oct 28"
+        ],
+        "stock": "In Stock"
+      },
+      {
+        "position": 2,
+        "title": "Awinmay Halloween Temporary Tattoos for Kids - 120 Pieces Halloween Trick or Treat Fake Tattoos Stickers for Boys and Girls,Halloween Party Favors for kids Assorted Goodies Tattoos Goody Bag Stuffers",
+        "link": "https://www.amazon.com/Awinmay-Halloween-Temporary-Tattoos-Kids/dp/B0CD4K5LTD/ref=pd_bxgy_thbs_d_sccl_1/137-8729995-5778851?pd_rd_w=Wbqzk&content-id=amzn1.sym.1fbb380b-ee1d-4eeb-a44a-61f4d3013ea6&pf_rd_p=1fbb380b-ee1d-4eeb-a44a-61f4d3013ea6&pf_rd_r=JPDSX1B139BN5QJTR4AY&pd_rd_wg=bxj66&pd_rd_r=086130a7-92c7-4b34-83c7-f8e80c14dfbb&pd_rd_i=B0CD4K5LTD&psc=1",
+        "asin": "B0CD4K5LTD",
+        "link_clean": "https://www.amazon.com/Awinmay-Halloween-Temporary-Tattoos-Kids/dp/B0CD4K5LTD/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0CD4K5LTD&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/71q23DUhZSL._AC_UL116_SR116,116_.jpg",
+        "price": "$8.99",
+        "extracted_price": 8.99,
+        "price_unit": "$0.07/count",
+        "extracted_price_unit": 0.07,
+        "delivery": [
+          "Get it as soon as Tuesday, Oct 27"
+        ],
+        "stock": "In Stock"
+      },
+      {
+        "position": 3,
+        "title": "JOYIN 100 Pcs 8\" Glow Sticks Bulk Party Pack, Neon Glow in the Dark Party Supplies, Light Up Necklaces and Bracelets with Connectors for Halloween, Football, Birthday Decorations",
+        "link": "https://www.amazon.com/JOYIN-Glowsticks-Bracelets-Necklaces-Christmas/dp/B0BKTS39DL/ref=pd_bxgy_thbs_d_sccl_2/137-8729995-5778851?pd_rd_w=Wbqzk&content-id=amzn1.sym.1fbb380b-ee1d-4eeb-a44a-61f4d3013ea6&pf_rd_p=1fbb380b-ee1d-4eeb-a44a-61f4d3013ea6&pf_rd_r=JPDSX1B139BN5QJTR4AY&pd_rd_wg=bxj66&pd_rd_r=086130a7-92c7-4b34-83c7-f8e80c14dfbb&pd_rd_i=B0BKTS39DL&psc=1",
+        "asin": "B0BKTS39DL",
+        "link_clean": "https://www.amazon.com/JOYIN-Glowsticks-Bracelets-Necklaces-Christmas/dp/B0BKTS39DL/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0BKTS39DL&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/71lwlxx8MYL._AC_UL116_SR116,116_.jpg",
+        "price": "$11.99",
+        "extracted_price": 11.99,
+        "price_unit": "$0.12/count",
+        "extracted_price_unit": 0.12,
+        "delivery": [
+          "Get it as soon as Wednesday, Oct 28"
+        ],
+        "stock": "In Stock"
+      }
+    ],
+    "related_products": [
+      {
+        "position": 1,
+        "asin": "B0H4SWYMVQ",
+        "title": "Halloween Activity Poster, 31.5 x 72 Inch Halloween Craft Paper Coloring Banner, Ha...",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo1ODU3MjIwNzczMTEzNzgzOjE3OTI2NTk3MTA6c3BfZGV0YWlsX3RoZW1hdGljOjMwMTQ2ODYzOTcwMjMwMjo6Ojo&url=%2Fdp%2FB0H4SWYMVQ%2Fref%3Dsspa_dk_detail_0%3Fpsc%3D1%26pd_rd_i%3DB0H4SWYMVQ%26pd_rd_w%3DrUEgQ%26content-id%3Damzn1.sym.3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_p%3D3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_r%3DJPDSX1B139BN5QJTR4AY%26pd_rd_wg%3Dbxj66%26pd_rd_r%3D086130a7-92c7-4b34-83c7-f8e80c14dfbb%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM",
+        "link_clean": "https://www.amazon.com/dp/B0H4SWYMVQ/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0H4SWYMVQ&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "badges": [
+          "Limited time deal"
+        ],
+        "thumbnail": "https://m.media-amazon.com/images/I/81v-p+P474L._AC_UF480,480_SR480,480_.jpg",
+        "rating": 4.9,
+        "reviews": 1701,
+        "discount": "-10%",
+        "price": "$8.98",
+        "extracted_price": 8.98,
+        "price_unit": "$4.49 / count",
+        "extracted_price_unit": 4.49,
+        "old_price": "null",
+        "climate_pledge_friendly": true
+      },
+      {
+        "position": 2,
+        "asin": "B0D89SC958",
+        "title": "3 Pack Halloween Giant Coloring Poster - Large Happy Halloween Colorin Table Cloth ...",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo1ODU3MjIwNzczMTEzNzgzOjE3OTI2NTk3MTA6c3BfZGV0YWlsX3RoZW1hdGljOjMwMDQxMTI1MjMxOTYwMjo6Ojo&url=%2Fdp%2FB0D89SC958%2Fref%3Dsspa_dk_detail_1%3Fpsc%3D1%26pd_rd_i%3DB0D89SC958%26pd_rd_w%3DrUEgQ%26content-id%3Damzn1.sym.3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_p%3D3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_r%3DJPDSX1B139BN5QJTR4AY%26pd_rd_wg%3Dbxj66%26pd_rd_r%3D086130a7-92c7-4b34-83c7-f8e80c14dfbb%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM",
+        "link_clean": "https://www.amazon.com/dp/B0D89SC958/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0D89SC958&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "badges": [
+          "Ends in"
+        ],
+        "thumbnail": "https://m.media-amazon.com/images/I/81Ig6UKPkVL._AC_UF480,480_SR480,480_.jpg",
+        "rating": 4.5,
+        "reviews": 56,
+        "discount": "-10%",
+        "price": "$14.39",
+        "extracted_price": 14.39,
+        "price_unit": "$4.80 / count",
+        "extracted_price_unit": 4.8,
+        "old_price": "null"
+      },
+      {
+        "position": 3,
+        "asin": "B0C65SXY3Z",
+        "title": "Halloween Party Supplies - Spider Webs Disposable Tablecloth Plastic Table Cover, I...",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo1ODU3MjIwNzczMTEzNzgzOjE3OTI2NTk3MTA6c3BfZGV0YWlsX3RoZW1hdGljOjMwMDAzODkwNjc2MDYwMjo6Ojo&url=%2Fdp%2FB0C65SXY3Z%2Fref%3Dsspa_dk_detail_2%3Fpsc%3D1%26pd_rd_i%3DB0C65SXY3Z%26pd_rd_w%3DrUEgQ%26content-id%3Damzn1.sym.3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_p%3D3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_r%3DJPDSX1B139BN5QJTR4AY%26pd_rd_wg%3Dbxj66%26pd_rd_r%3D086130a7-92c7-4b34-83c7-f8e80c14dfbb%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM",
+        "link_clean": "https://www.amazon.com/dp/B0C65SXY3Z/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0C65SXY3Z&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "badges": [
+          "Limited time deal"
+        ],
+        "thumbnail": "https://m.media-amazon.com/images/I/71fzoekVMNL._AC_UF480,480_SR480,480_.jpg",
+        "rating": 4.8,
+        "reviews": 3243,
+        "discount": "-10%",
+        "price": "$8.98",
+        "extracted_price": 8.98,
+        "price_unit": "$2.99 / count",
+        "extracted_price_unit": 2.99,
+        "old_price": "null",
+        "climate_pledge_friendly": true
+      },
+      {
+        "position": 4,
+        "asin": "B0CYZWMP45",
+        "title": "2 Pack Construction Table Cloth - Dump Truck Tablecloth, Plastic Disposable Rectangle Yellow Trucks Themed Table Cover for Construction Birthday Party Supplies Tables Decorations Favors, 87 x 51 Inch",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo1ODU3MjIwNzczMTEzNzgzOjE3OTI2NTk3MTA6c3BfZGV0YWlsX3RoZW1hdGljOjMwMDIzNDg2MTQ1MjAwMjo6Ojo&url=%2Fdp%2FB0CYZWMP45%2Fref%3Dsspa_dk_detail_3%3Fpsc%3D1%26pd_rd_i%3DB0CYZWMP45%26pd_rd_w%3DrUEgQ%26content-id%3Damzn1.sym.3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_p%3D3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_r%3DJPDSX1B139BN5QJTR4AY%26pd_rd_wg%3Dbxj66%26pd_rd_r%3D086130a7-92c7-4b34-83c7-f8e80c14dfbb%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM",
+        "link_clean": "https://www.amazon.com/dp/B0CYZWMP45/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0CYZWMP45&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "badges": [
+          "Limited time deal"
+        ],
+        "thumbnail": "https://m.media-amazon.com/images/I/71j+E9QqulL._AC_UF480,480_SR480,480_.jpg",
+        "rating": 4.6,
+        "reviews": 265,
+        "discount": "-10%",
+        "price": "$8.07",
+        "extracted_price": 8.07,
+        "price_unit": "$4.04 / count",
+        "extracted_price_unit": 4.04,
+        "old_price": "null",
+        "climate_pledge_friendly": true
+      },
+      {
+        "position": 5,
+        "asin": "B0CYZTXKM1",
+        "title": "1 Pack Construction Coloring Table Cloth for Kids - Giant Construction Theme Color-in Paper Poster, Dump Truck Painting Activity Tablecloth for Construction Birthday Party Supplies Favors, 54 x 108 In",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo1ODU3MjIwNzczMTEzNzgzOjE3OTI2NTk3MTA6c3BfZGV0YWlsX3RoZW1hdGljOjMwMDIzMjc2NTE0NTYwMjo6Ojo&url=%2Fdp%2FB0CYZTXKM1%2Fref%3Dsspa_dk_detail_4%3Fpsc%3D1%26pd_rd_i%3DB0CYZTXKM1%26pd_rd_w%3DrUEgQ%26content-id%3Damzn1.sym.3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_p%3D3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_r%3DJPDSX1B139BN5QJTR4AY%26pd_rd_wg%3Dbxj66%26pd_rd_r%3D086130a7-92c7-4b34-83c7-f8e80c14dfbb%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM",
+        "link_clean": "https://www.amazon.com/dp/B0CYZTXKM1/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0CYZTXKM1&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "badges": [
+          "Limited time deal"
+        ],
+        "thumbnail": "https://m.media-amazon.com/images/I/81dpD368TzL._AC_UF480,480_SR480,480_.jpg",
+        "rating": 4.8,
+        "reviews": 142,
+        "discount": "-10%",
+        "price": "$7.19",
+        "extracted_price": 7.19,
+        "old_price": "null"
+      },
+      {
+        "position": 6,
+        "asin": "B0DCVM39RC",
+        "title": "Happy Thanksgiving Coloring Tablecloth for Kids-Giant Thanksgiving Paper Activity Table Cover, Jumbo Fall Turkey Coloring Games Poster Crafts for Thanksgivings Table Decor Party Favors,54 x 108 Inch",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo1ODU3MjIwNzczMTEzNzgzOjE3OTI2NTk3MTA6c3BfZGV0YWlsX3RoZW1hdGljOjMwMDk1MTk3OTgxMjUwMjo6Ojo&url=%2Fdp%2FB0DCVM39RC%2Fref%3Dsspa_dk_detail_5%3Fpsc%3D1%26pd_rd_i%3DB0DCVM39RC%26pd_rd_w%3DrUEgQ%26content-id%3Damzn1.sym.3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_p%3D3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_r%3DJPDSX1B139BN5QJTR4AY%26pd_rd_wg%3Dbxj66%26pd_rd_r%3D086130a7-92c7-4b34-83c7-f8e80c14dfbb%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM",
+        "link_clean": "https://www.amazon.com/dp/B0DCVM39RC/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0DCVM39RC&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "badges": [
+          "Limited time deal"
+        ],
+        "thumbnail": "https://m.media-amazon.com/images/I/81OiJvm3SxL._AC_UF480,480_SR480,480_.jpg",
+        "rating": 4.4,
+        "reviews": 110,
+        "discount": "-11%",
+        "price": "$7.99",
+        "extracted_price": 7.99,
+        "old_price": "null"
+      },
+      {
+        "position": 7,
+        "asin": "B0CS32HN3K",
+        "title": "Ice Cream Party Supplies: 2-Pack Ice Cream Birthday Party Decorations,Disposable Pl...",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo1ODU3MjIwNzczMTEzNzgzOjE3OTI2NTk3MTA6c3BfZGV0YWlsX3RoZW1hdGljOjMwMDE0NzE4MTIxODYwMjo6Ojo&url=%2Fdp%2FB0CS32HN3K%2Fref%3Dsspa_dk_detail_6%3Fpsc%3D1%26pd_rd_i%3DB0CS32HN3K%26pd_rd_w%3DrUEgQ%26content-id%3Damzn1.sym.3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_p%3D3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_r%3DJPDSX1B139BN5QJTR4AY%26pd_rd_wg%3Dbxj66%26pd_rd_r%3D086130a7-92c7-4b34-83c7-f8e80c14dfbb%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM",
+        "link_clean": "https://www.amazon.com/dp/B0CS32HN3K/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0CS32HN3K&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "badges": [
+          "Amazon's Choice",
+          "Limited time deal"
+        ],
+        "thumbnail": "https://m.media-amazon.com/images/I/710w1gI2qxL._AC_UF480,480_SR480,480_.jpg",
+        "rating": 4.8,
+        "reviews": 1182,
+        "discount": "-11%",
+        "price": "$7.98",
+        "extracted_price": 7.98,
+        "price_unit": "$3.99 / count",
+        "extracted_price_unit": 3.99,
+        "old_price": "null",
+        "climate_pledge_friendly": true
+      },
+      {
+        "position": 8,
+        "asin": "B0HJX4CYMW",
+        "title": "32 Pcs Halloween Party Favors toys Rainbow Scratch Masks, Art Craft Kit for Kids,DI...",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo2MjI1NTUwNDY0ODIwMzQxOjE3OTI2NTk3MTA6c3BfZGV0YWlsMjozMDE1MzgwMjgyMjgzMDI6Ojo6&url=%2Fdp%2FB0HJX4CYMW%2Fref%3Dsspa_dk_detail_0%3Fpsc%3D1%26pd_rd_i%3DB0HJX4CYMW%26pd_rd_w%3DPaY1V%26content-id%3Damzn1.sym.4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_p%3D4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_r%3DJPDSX1B139BN5QJTR4AY%26pd_rd_wg%3Dbxj66%26pd_rd_r%3D086130a7-92c7-4b34-83c7-f8e80c14dfbb%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+        "link_clean": "https://www.amazon.com/dp/B0HJX4CYMW/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0HJX4CYMW&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "thumbnail": "https://m.media-amazon.com/images/I/71wGA5VRs4L._AC_UF480,480_SR480,480_.jpg",
+        "rating": 4.6,
+        "reviews": 3,
+        "price": "$15.97",
+        "extracted_price": 15.97
+      },
+      {
+        "position": 9,
+        "asin": "B0DDL161QR",
+        "title": "Halloween Party Favors for Kids, 24 Pack Coloring Books Bulk & Goodie Bags | Goodie...",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo2MjI1NTUwNDY0ODIwMzQxOjE3OTI2NTk3MTA6c3BfZGV0YWlsMjozMDA0MzMxNzEyNjA0MDI6Ojo6&url=%2Fdp%2FB0DDL161QR%2Fref%3Dsspa_dk_detail_1%3Fpsc%3D1%26pd_rd_i%3DB0DDL161QR%26pd_rd_w%3DPaY1V%26content-id%3Damzn1.sym.4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_p%3D4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_r%3DJPDSX1B139BN5QJTR4AY%26pd_rd_wg%3Dbxj66%26pd_rd_r%3D086130a7-92c7-4b34-83c7-f8e80c14dfbb%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+        "link_clean": "https://www.amazon.com/dp/B0DDL161QR/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0DDL161QR&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "thumbnail": "https://m.media-amazon.com/images/I/81fLkd4MAwL._AC_UF480,480_SR480,480_.jpg",
+        "rating": 4.6,
+        "reviews": 276,
+        "price": "$12.99",
+        "extracted_price": 12.99,
+        "price_unit": "$0.08 / count",
+        "extracted_price_unit": 0.08
+      },
+      {
+        "position": 10,
+        "asin": "B0CH9K6LJL",
+        "title": "Halloween Giant Mandala Coloring Posters for Kids Adult Halloween DIY Drawing Color...",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo2MjI1NTUwNDY0ODIwMzQxOjE3OTI2NTk3MTA6c3BfZGV0YWlsMjozMDAwNTc5NDQ1MTg3MDI6Ojo6&url=%2Fdp%2FB0CH9K6LJL%2Fref%3Dsspa_dk_detail_2%3Fpsc%3D1%26pd_rd_i%3DB0CH9K6LJL%26pd_rd_w%3DPaY1V%26content-id%3Damzn1.sym.4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_p%3D4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_r%3DJPDSX1B139BN5QJTR4AY%26pd_rd_wg%3Dbxj66%26pd_rd_r%3D086130a7-92c7-4b34-83c7-f8e80c14dfbb%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+        "link_clean": "https://www.amazon.com/dp/B0CH9K6LJL/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0CH9K6LJL&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "thumbnail": "https://m.media-amazon.com/images/I/91yg7terAPL._AC_UF480,480_SR480,480_.jpg",
+        "rating": 4.4,
+        "reviews": 31,
+        "discount": "-11%",
+        "price": "$7.99",
+        "extracted_price": 7.99,
+        "old_price": "null"
+      },
+      {
+        "position": 11,
+        "asin": "B0FCXR639C",
+        "title": "Halloween Crafts for Kids Foil Art No Mess Foil Craft Toy for Kids Ages 4 5 6 7 8 9 10, DIY Activity Kit with Spooky Ghosts, Pumpkins & Bats,Halloween Party Favors Toys & Games for Boys and Girls",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo2MjI1NTUwNDY0ODIwMzQxOjE3OTI2NTk3MTA6c3BfZGV0YWlsMjozMDA5NjA2MzA4MDU0MDI6Ojo6&url=%2Fdp%2FB0FCXR639C%2Fref%3Dsspa_dk_detail_3%3Fpsc%3D1%26pd_rd_i%3DB0FCXR639C%26pd_rd_w%3DPaY1V%26content-id%3Damzn1.sym.4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_p%3D4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_r%3DJPDSX1B139BN5QJTR4AY%26pd_rd_wg%3Dbxj66%26pd_rd_r%3D086130a7-92c7-4b34-83c7-f8e80c14dfbb%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+        "link_clean": "https://www.amazon.com/dp/B0FCXR639C/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0FCXR639C&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "badges": [
+          "Amazon's Choice"
+        ],
+        "thumbnail": "https://m.media-amazon.com/images/I/7155s85cM+L._AC_UF480,480_SR480,480_.jpg",
+        "rating": 4.5,
+        "reviews": 124,
+        "price": "$23.99",
+        "extracted_price": 23.99
+      },
+      {
+        "position": 12,
+        "asin": "B0H4SWYMVQ",
+        "title": "Halloween Activity Poster, 31.5 x 72 Inch Halloween Craft Paper Coloring Banner, Ha...",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo2MjI1NTUwNDY0ODIwMzQxOjE3OTI2NTk3MTA6c3BfZGV0YWlsMjozMDE0Njg2Mzk3MDIzMDI6Ojo6&url=%2Fdp%2FB0H4SWYMVQ%2Fref%3Dsspa_dk_detail_4%3Fpsc%3D1%26pd_rd_i%3DB0H4SWYMVQ%26pd_rd_w%3DPaY1V%26content-id%3Damzn1.sym.4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_p%3D4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_r%3DJPDSX1B139BN5QJTR4AY%26pd_rd_wg%3Dbxj66%26pd_rd_r%3D086130a7-92c7-4b34-83c7-f8e80c14dfbb%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+        "link_clean": "https://www.amazon.com/dp/B0H4SWYMVQ/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0H4SWYMVQ&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "badges": [
+          "Limited time deal"
+        ],
+        "thumbnail": "https://m.media-amazon.com/images/I/81v-p+P474L._AC_UF480,480_SR480,480_.jpg",
+        "rating": 4.9,
+        "reviews": 1701,
+        "discount": "-10%",
+        "price": "$8.98",
+        "extracted_price": 8.98,
+        "price_unit": "$4.49 / count",
+        "extracted_price_unit": 4.49,
+        "old_price": "null",
+        "climate_pledge_friendly": true
+      },
+      {
+        "position": 13,
+        "asin": "B07WMT1XSC",
+        "title": "Easy Playhouse Cardboard Haunted Castle - Kids Fort and Art & Craft House | Large 32x32x43.5in Spooky Fortress to Color and Draw. Indoor Play Tent for Halloween Parties and Creative Role Play Fun",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo2MjI1NTUwNDY0ODIwMzQxOjE3OTI2NTk3MTA6c3BfZGV0YWlsMjoyMDAwOTkwNjE4NTQ5MTE6Ojo6&url=%2Fdp%2FB07WMT1XSC%2Fref%3Dsspa_dk_detail_5%3Fpsc%3D1%26pd_rd_i%3DB07WMT1XSC%26pd_rd_w%3DPaY1V%26content-id%3Damzn1.sym.4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_p%3D4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_r%3DJPDSX1B139BN5QJTR4AY%26pd_rd_wg%3Dbxj66%26pd_rd_r%3D086130a7-92c7-4b34-83c7-f8e80c14dfbb%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+        "link_clean": "https://www.amazon.com/dp/B07WMT1XSC/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B07WMT1XSC&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "thumbnail": "https://m.media-amazon.com/images/I/81gal5BsSWL._AC_UF480,480_SR480,480_.jpg",
+        "rating": 4.6,
+        "reviews": 937,
+        "discount": "-13%",
+        "price": "$34.99",
+        "extracted_price": 34.99,
+        "old_price": "null"
+      },
+      {
+        "position": 14,
+        "asin": "B0H5VT1R15",
+        "title": "Halloween Giant Coloring Tablecloth, 30 x 72 Inch Coloring Poster, Halloween Party ...",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo2MjI1NTUwNDY0ODIwMzQxOjE3OTI2NTk3MTA6c3BfZGV0YWlsMjozMDE0NzU2NzU4NzMyMDI6Ojo6&url=%2Fdp%2FB0H5VT1R15%2Fref%3Dsspa_dk_detail_6%3Fpsc%3D1%26pd_rd_i%3DB0H5VT1R15%26pd_rd_w%3DPaY1V%26content-id%3Damzn1.sym.4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_p%3D4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_r%3DJPDSX1B139BN5QJTR4AY%26pd_rd_wg%3Dbxj66%26pd_rd_r%3D086130a7-92c7-4b34-83c7-f8e80c14dfbb%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+        "link_clean": "https://www.amazon.com/dp/B0H5VT1R15/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0H5VT1R15&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "thumbnail": "https://m.media-amazon.com/images/I/81763dVE24L._AC_UF480,480_SR480,480_.jpg",
+        "rating": 4.6,
+        "reviews": 77,
+        "price": "$5.99",
+        "extracted_price": 5.99
+      }
+    ],
+    "related_product_sections": [
+      {
+        "title": "Deals on related products",
+        "items": [
+          {
+            "position": 1,
+            "asin": "B0H4SWYMVQ",
+            "title": "Halloween Activity Poster, 31.5 x 72 Inch Halloween Craft Paper Coloring Banner, Ha...",
+            "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo1ODU3MjIwNzczMTEzNzgzOjE3OTI2NTk3MTA6c3BfZGV0YWlsX3RoZW1hdGljOjMwMTQ2ODYzOTcwMjMwMjo6Ojo&url=%2Fdp%2FB0H4SWYMVQ%2Fref%3Dsspa_dk_detail_0%3Fpsc%3D1%26pd_rd_i%3DB0H4SWYMVQ%26pd_rd_w%3DrUEgQ%26content-id%3Damzn1.sym.3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_p%3D3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_r%3DJPDSX1B139BN5QJTR4AY%26pd_rd_wg%3Dbxj66%26pd_rd_r%3D086130a7-92c7-4b34-83c7-f8e80c14dfbb%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM",
+            "link_clean": "https://www.amazon.com/dp/B0H4SWYMVQ/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0H4SWYMVQ&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "badges": [
+              "Limited time deal"
+            ],
+            "thumbnail": "https://m.media-amazon.com/images/I/81v-p+P474L._AC_UF480,480_SR480,480_.jpg",
+            "rating": 4.9,
+            "reviews": 1701,
+            "discount": "-10%",
+            "price": "$8.98",
+            "extracted_price": 8.98,
+            "price_unit": "$4.49 / count",
+            "extracted_price_unit": 4.49,
+            "old_price": "null",
+            "climate_pledge_friendly": true
+          },
+          {
+            "position": 2,
+            "asin": "B0D89SC958",
+            "title": "3 Pack Halloween Giant Coloring Poster - Large Happy Halloween Colorin Table Cloth ...",
+            "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo1ODU3MjIwNzczMTEzNzgzOjE3OTI2NTk3MTA6c3BfZGV0YWlsX3RoZW1hdGljOjMwMDQxMTI1MjMxOTYwMjo6Ojo&url=%2Fdp%2FB0D89SC958%2Fref%3Dsspa_dk_detail_1%3Fpsc%3D1%26pd_rd_i%3DB0D89SC958%26pd_rd_w%3DrUEgQ%26content-id%3Damzn1.sym.3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_p%3D3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_r%3DJPDSX1B139BN5QJTR4AY%26pd_rd_wg%3Dbxj66%26pd_rd_r%3D086130a7-92c7-4b34-83c7-f8e80c14dfbb%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM",
+            "link_clean": "https://www.amazon.com/dp/B0D89SC958/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0D89SC958&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "badges": [
+              "Ends in"
+            ],
+            "thumbnail": "https://m.media-amazon.com/images/I/81Ig6UKPkVL._AC_UF480,480_SR480,480_.jpg",
+            "rating": 4.5,
+            "reviews": 56,
+            "discount": "-10%",
+            "price": "$14.39",
+            "extracted_price": 14.39,
+            "price_unit": "$4.80 / count",
+            "extracted_price_unit": 4.8,
+            "old_price": "null"
+          },
+          {
+            "position": 3,
+            "asin": "B0C65SXY3Z",
+            "title": "Halloween Party Supplies - Spider Webs Disposable Tablecloth Plastic Table Cover, I...",
+            "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo1ODU3MjIwNzczMTEzNzgzOjE3OTI2NTk3MTA6c3BfZGV0YWlsX3RoZW1hdGljOjMwMDAzODkwNjc2MDYwMjo6Ojo&url=%2Fdp%2FB0C65SXY3Z%2Fref%3Dsspa_dk_detail_2%3Fpsc%3D1%26pd_rd_i%3DB0C65SXY3Z%26pd_rd_w%3DrUEgQ%26content-id%3Damzn1.sym.3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_p%3D3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_r%3DJPDSX1B139BN5QJTR4AY%26pd_rd_wg%3Dbxj66%26pd_rd_r%3D086130a7-92c7-4b34-83c7-f8e80c14dfbb%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM",
+            "link_clean": "https://www.amazon.com/dp/B0C65SXY3Z/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0C65SXY3Z&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "badges": [
+              "Limited time deal"
+            ],
+            "thumbnail": "https://m.media-amazon.com/images/I/71fzoekVMNL._AC_UF480,480_SR480,480_.jpg",
+            "rating": 4.8,
+            "reviews": 3243,
+            "discount": "-10%",
+            "price": "$8.98",
+            "extracted_price": 8.98,
+            "price_unit": "$2.99 / count",
+            "extracted_price_unit": 2.99,
+            "old_price": "null",
+            "climate_pledge_friendly": true
+          },
+          {
+            "position": 4,
+            "asin": "B0CYZWMP45",
+            "title": "2 Pack Construction Table Cloth - Dump Truck Tablecloth, Plastic Disposable Rectangle Yellow Trucks Themed Table Cover for Construction Birthday Party Supplies Tables Decorations Favors, 87 x 51 Inch",
+            "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo1ODU3MjIwNzczMTEzNzgzOjE3OTI2NTk3MTA6c3BfZGV0YWlsX3RoZW1hdGljOjMwMDIzNDg2MTQ1MjAwMjo6Ojo&url=%2Fdp%2FB0CYZWMP45%2Fref%3Dsspa_dk_detail_3%3Fpsc%3D1%26pd_rd_i%3DB0CYZWMP45%26pd_rd_w%3DrUEgQ%26content-id%3Damzn1.sym.3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_p%3D3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_r%3DJPDSX1B139BN5QJTR4AY%26pd_rd_wg%3Dbxj66%26pd_rd_r%3D086130a7-92c7-4b34-83c7-f8e80c14dfbb%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM",
+            "link_clean": "https://www.amazon.com/dp/B0CYZWMP45/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0CYZWMP45&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "badges": [
+              "Limited time deal"
+            ],
+            "thumbnail": "https://m.media-amazon.com/images/I/71j+E9QqulL._AC_UF480,480_SR480,480_.jpg",
+            "rating": 4.6,
+            "reviews": 265,
+            "discount": "-10%",
+            "price": "$8.07",
+            "extracted_price": 8.07,
+            "price_unit": "$4.04 / count",
+            "extracted_price_unit": 4.04,
+            "old_price": "null",
+            "climate_pledge_friendly": true
+          },
+          {
+            "position": 5,
+            "asin": "B0CYZTXKM1",
+            "title": "1 Pack Construction Coloring Table Cloth for Kids - Giant Construction Theme Color-in Paper Poster, Dump Truck Painting Activity Tablecloth for Construction Birthday Party Supplies Favors, 54 x 108 In",
+            "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo1ODU3MjIwNzczMTEzNzgzOjE3OTI2NTk3MTA6c3BfZGV0YWlsX3RoZW1hdGljOjMwMDIzMjc2NTE0NTYwMjo6Ojo&url=%2Fdp%2FB0CYZTXKM1%2Fref%3Dsspa_dk_detail_4%3Fpsc%3D1%26pd_rd_i%3DB0CYZTXKM1%26pd_rd_w%3DrUEgQ%26content-id%3Damzn1.sym.3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_p%3D3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_r%3DJPDSX1B139BN5QJTR4AY%26pd_rd_wg%3Dbxj66%26pd_rd_r%3D086130a7-92c7-4b34-83c7-f8e80c14dfbb%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM",
+            "link_clean": "https://www.amazon.com/dp/B0CYZTXKM1/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0CYZTXKM1&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "badges": [
+              "Limited time deal"
+            ],
+            "thumbnail": "https://m.media-amazon.com/images/I/81dpD368TzL._AC_UF480,480_SR480,480_.jpg",
+            "rating": 4.8,
+            "reviews": 142,
+            "discount": "-10%",
+            "price": "$7.19",
+            "extracted_price": 7.19,
+            "old_price": "null"
+          },
+          {
+            "position": 6,
+            "asin": "B0DCVM39RC",
+            "title": "Happy Thanksgiving Coloring Tablecloth for Kids-Giant Thanksgiving Paper Activity Table Cover, Jumbo Fall Turkey Coloring Games Poster Crafts for Thanksgivings Table Decor Party Favors,54 x 108 Inch",
+            "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo1ODU3MjIwNzczMTEzNzgzOjE3OTI2NTk3MTA6c3BfZGV0YWlsX3RoZW1hdGljOjMwMDk1MTk3OTgxMjUwMjo6Ojo&url=%2Fdp%2FB0DCVM39RC%2Fref%3Dsspa_dk_detail_5%3Fpsc%3D1%26pd_rd_i%3DB0DCVM39RC%26pd_rd_w%3DrUEgQ%26content-id%3Damzn1.sym.3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_p%3D3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_r%3DJPDSX1B139BN5QJTR4AY%26pd_rd_wg%3Dbxj66%26pd_rd_r%3D086130a7-92c7-4b34-83c7-f8e80c14dfbb%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM",
+            "link_clean": "https://www.amazon.com/dp/B0DCVM39RC/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0DCVM39RC&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "badges": [
+              "Limited time deal"
+            ],
+            "thumbnail": "https://m.media-amazon.com/images/I/81OiJvm3SxL._AC_UF480,480_SR480,480_.jpg",
+            "rating": 4.4,
+            "reviews": 110,
+            "discount": "-11%",
+            "price": "$7.99",
+            "extracted_price": 7.99,
+            "old_price": "null"
+          },
+          {
+            "position": 7,
+            "asin": "B0CS32HN3K",
+            "title": "Ice Cream Party Supplies: 2-Pack Ice Cream Birthday Party Decorations,Disposable Pl...",
+            "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo1ODU3MjIwNzczMTEzNzgzOjE3OTI2NTk3MTA6c3BfZGV0YWlsX3RoZW1hdGljOjMwMDE0NzE4MTIxODYwMjo6Ojo&url=%2Fdp%2FB0CS32HN3K%2Fref%3Dsspa_dk_detail_6%3Fpsc%3D1%26pd_rd_i%3DB0CS32HN3K%26pd_rd_w%3DrUEgQ%26content-id%3Damzn1.sym.3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_p%3D3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_r%3DJPDSX1B139BN5QJTR4AY%26pd_rd_wg%3Dbxj66%26pd_rd_r%3D086130a7-92c7-4b34-83c7-f8e80c14dfbb%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM",
+            "link_clean": "https://www.amazon.com/dp/B0CS32HN3K/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0CS32HN3K&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "badges": [
+              "Amazon's Choice",
+              "Limited time deal"
+            ],
+            "thumbnail": "https://m.media-amazon.com/images/I/710w1gI2qxL._AC_UF480,480_SR480,480_.jpg",
+            "rating": 4.8,
+            "reviews": 1182,
+            "discount": "-11%",
+            "price": "$7.98",
+            "extracted_price": 7.98,
+            "price_unit": "$3.99 / count",
+            "extracted_price_unit": 3.99,
+            "old_price": "null",
+            "climate_pledge_friendly": true
+          }
+        ]
+      },
+      {
+        "title": "Products related to this item",
+        "items": [
+          {
+            "position": 1,
+            "asin": "B0HJX4CYMW",
+            "title": "32 Pcs Halloween Party Favors toys Rainbow Scratch Masks, Art Craft Kit for Kids,DI...",
+            "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo2MjI1NTUwNDY0ODIwMzQxOjE3OTI2NTk3MTA6c3BfZGV0YWlsMjozMDE1MzgwMjgyMjgzMDI6Ojo6&url=%2Fdp%2FB0HJX4CYMW%2Fref%3Dsspa_dk_detail_0%3Fpsc%3D1%26pd_rd_i%3DB0HJX4CYMW%26pd_rd_w%3DPaY1V%26content-id%3Damzn1.sym.4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_p%3D4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_r%3DJPDSX1B139BN5QJTR4AY%26pd_rd_wg%3Dbxj66%26pd_rd_r%3D086130a7-92c7-4b34-83c7-f8e80c14dfbb%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+            "link_clean": "https://www.amazon.com/dp/B0HJX4CYMW/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0HJX4CYMW&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "thumbnail": "https://m.media-amazon.com/images/I/71wGA5VRs4L._AC_UF480,480_SR480,480_.jpg",
+            "rating": 4.6,
+            "reviews": 3,
+            "price": "$15.97",
+            "extracted_price": 15.97
+          },
+          {
+            "position": 2,
+            "asin": "B0DDL161QR",
+            "title": "Halloween Party Favors for Kids, 24 Pack Coloring Books Bulk & Goodie Bags | Goodie...",
+            "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo2MjI1NTUwNDY0ODIwMzQxOjE3OTI2NTk3MTA6c3BfZGV0YWlsMjozMDA0MzMxNzEyNjA0MDI6Ojo6&url=%2Fdp%2FB0DDL161QR%2Fref%3Dsspa_dk_detail_1%3Fpsc%3D1%26pd_rd_i%3DB0DDL161QR%26pd_rd_w%3DPaY1V%26content-id%3Damzn1.sym.4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_p%3D4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_r%3DJPDSX1B139BN5QJTR4AY%26pd_rd_wg%3Dbxj66%26pd_rd_r%3D086130a7-92c7-4b34-83c7-f8e80c14dfbb%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+            "link_clean": "https://www.amazon.com/dp/B0DDL161QR/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0DDL161QR&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "thumbnail": "https://m.media-amazon.com/images/I/81fLkd4MAwL._AC_UF480,480_SR480,480_.jpg",
+            "rating": 4.6,
+            "reviews": 276,
+            "price": "$12.99",
+            "extracted_price": 12.99,
+            "price_unit": "$0.08 / count",
+            "extracted_price_unit": 0.08
+          },
+          {
+            "position": 3,
+            "asin": "B0CH9K6LJL",
+            "title": "Halloween Giant Mandala Coloring Posters for Kids Adult Halloween DIY Drawing Color...",
+            "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo2MjI1NTUwNDY0ODIwMzQxOjE3OTI2NTk3MTA6c3BfZGV0YWlsMjozMDAwNTc5NDQ1MTg3MDI6Ojo6&url=%2Fdp%2FB0CH9K6LJL%2Fref%3Dsspa_dk_detail_2%3Fpsc%3D1%26pd_rd_i%3DB0CH9K6LJL%26pd_rd_w%3DPaY1V%26content-id%3Damzn1.sym.4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_p%3D4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_r%3DJPDSX1B139BN5QJTR4AY%26pd_rd_wg%3Dbxj66%26pd_rd_r%3D086130a7-92c7-4b34-83c7-f8e80c14dfbb%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+            "link_clean": "https://www.amazon.com/dp/B0CH9K6LJL/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0CH9K6LJL&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "thumbnail": "https://m.media-amazon.com/images/I/91yg7terAPL._AC_UF480,480_SR480,480_.jpg",
+            "rating": 4.4,
+            "reviews": 31,
+            "discount": "-11%",
+            "price": "$7.99",
+            "extracted_price": 7.99,
+            "old_price": "null"
+          },
+          {
+            "position": 4,
+            "asin": "B0FCXR639C",
+            "title": "Halloween Crafts for Kids Foil Art No Mess Foil Craft Toy for Kids Ages 4 5 6 7 8 9 10, DIY Activity Kit with Spooky Ghosts, Pumpkins & Bats,Halloween Party Favors Toys & Games for Boys and Girls",
+            "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo2MjI1NTUwNDY0ODIwMzQxOjE3OTI2NTk3MTA6c3BfZGV0YWlsMjozMDA5NjA2MzA4MDU0MDI6Ojo6&url=%2Fdp%2FB0FCXR639C%2Fref%3Dsspa_dk_detail_3%3Fpsc%3D1%26pd_rd_i%3DB0FCXR639C%26pd_rd_w%3DPaY1V%26content-id%3Damzn1.sym.4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_p%3D4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_r%3DJPDSX1B139BN5QJTR4AY%26pd_rd_wg%3Dbxj66%26pd_rd_r%3D086130a7-92c7-4b34-83c7-f8e80c14dfbb%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+            "link_clean": "https://www.amazon.com/dp/B0FCXR639C/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0FCXR639C&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "badges": [
+              "Amazon's Choice"
+            ],
+            "thumbnail": "https://m.media-amazon.com/images/I/7155s85cM+L._AC_UF480,480_SR480,480_.jpg",
+            "rating": 4.5,
+            "reviews": 124,
+            "price": "$23.99",
+            "extracted_price": 23.99
+          },
+          {
+            "position": 5,
+            "asin": "B0H4SWYMVQ",
+            "title": "Halloween Activity Poster, 31.5 x 72 Inch Halloween Craft Paper Coloring Banner, Ha...",
+            "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo2MjI1NTUwNDY0ODIwMzQxOjE3OTI2NTk3MTA6c3BfZGV0YWlsMjozMDE0Njg2Mzk3MDIzMDI6Ojo6&url=%2Fdp%2FB0H4SWYMVQ%2Fref%3Dsspa_dk_detail_4%3Fpsc%3D1%26pd_rd_i%3DB0H4SWYMVQ%26pd_rd_w%3DPaY1V%26content-id%3Damzn1.sym.4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_p%3D4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_r%3DJPDSX1B139BN5QJTR4AY%26pd_rd_wg%3Dbxj66%26pd_rd_r%3D086130a7-92c7-4b34-83c7-f8e80c14dfbb%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+            "link_clean": "https://www.amazon.com/dp/B0H4SWYMVQ/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0H4SWYMVQ&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "badges": [
+              "Limited time deal"
+            ],
+            "thumbnail": "https://m.media-amazon.com/images/I/81v-p+P474L._AC_UF480,480_SR480,480_.jpg",
+            "rating": 4.9,
+            "reviews": 1701,
+            "discount": "-10%",
+            "price": "$8.98",
+            "extracted_price": 8.98,
+            "price_unit": "$4.49 / count",
+            "extracted_price_unit": 4.49,
+            "old_price": "null",
+            "climate_pledge_friendly": true
+          },
+          {
+            "position": 6,
+            "asin": "B07WMT1XSC",
+            "title": "Easy Playhouse Cardboard Haunted Castle - Kids Fort and Art & Craft House | Large 32x32x43.5in Spooky Fortress to Color and Draw. Indoor Play Tent for Halloween Parties and Creative Role Play Fun",
+            "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo2MjI1NTUwNDY0ODIwMzQxOjE3OTI2NTk3MTA6c3BfZGV0YWlsMjoyMDAwOTkwNjE4NTQ5MTE6Ojo6&url=%2Fdp%2FB07WMT1XSC%2Fref%3Dsspa_dk_detail_5%3Fpsc%3D1%26pd_rd_i%3DB07WMT1XSC%26pd_rd_w%3DPaY1V%26content-id%3Damzn1.sym.4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_p%3D4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_r%3DJPDSX1B139BN5QJTR4AY%26pd_rd_wg%3Dbxj66%26pd_rd_r%3D086130a7-92c7-4b34-83c7-f8e80c14dfbb%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+            "link_clean": "https://www.amazon.com/dp/B07WMT1XSC/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B07WMT1XSC&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "thumbnail": "https://m.media-amazon.com/images/I/81gal5BsSWL._AC_UF480,480_SR480,480_.jpg",
+            "rating": 4.6,
+            "reviews": 937,
+            "discount": "-13%",
+            "price": "$34.99",
+            "extracted_price": 34.99,
+            "old_price": "null"
+          },
+          {
+            "position": 7,
+            "asin": "B0H5VT1R15",
+            "title": "Halloween Giant Coloring Tablecloth, 30 x 72 Inch Coloring Poster, Halloween Party ...",
+            "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo2MjI1NTUwNDY0ODIwMzQxOjE3OTI2NTk3MTA6c3BfZGV0YWlsMjozMDE0NzU2NzU4NzMyMDI6Ojo6&url=%2Fdp%2FB0H5VT1R15%2Fref%3Dsspa_dk_detail_6%3Fpsc%3D1%26pd_rd_i%3DB0H5VT1R15%26pd_rd_w%3DPaY1V%26content-id%3Damzn1.sym.4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_p%3D4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_r%3DJPDSX1B139BN5QJTR4AY%26pd_rd_wg%3Dbxj66%26pd_rd_r%3D086130a7-92c7-4b34-83c7-f8e80c14dfbb%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+            "link_clean": "https://www.amazon.com/dp/B0H5VT1R15/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0H5VT1R15&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "thumbnail": "https://m.media-amazon.com/images/I/81763dVE24L._AC_UF480,480_SR480,480_.jpg",
+            "rating": 4.6,
+            "reviews": 77,
+            "price": "$5.99",
+            "extracted_price": 5.99
+          }
+        ]
+      }
+    ],
+    "sustainability_features": {
+      "summary": "This product has sustainability features recognized by trusted certifications.",
+      "climate_pledge_friendly": true,
+      "learn_more_link": "https://www.amazon.com/climatepledgefriendly",
+      "features": [
+        {
+          "position": 1,
+          "title": "Recycled materials",
+          "text": "Contains at least 50% recycled material.",
+          "certified_by": [
+            {
+              "name": "Global Recycled Standard",
+              "logo": "https://m.media-amazon.com/images/I/51IhSrucIyL._SS128_.png",
+              "description": "Global Recycled Standard (GRS) certified products contain recycled content (>50%) that has been independently verified at each stage of the supply chain, from the source to the final product and meet social, environmental, and chemical requirements. The purchase of Global Recycled Standard (GRS) certified products supports the use of recycled content in the supply chain.",
+              "link": "https://textileexchange.org/integrity/"
+            }
+          ]
+        },
+        {
+          "position": 2,
+          "title": "Safer chemicals",
+          "text": "Made with chemicals safer for human health and the environment.",
+          "certified_by": [
+            {
+              "name": "Global Recycled Standard",
+              "logo": "https://m.media-amazon.com/images/I/51IhSrucIyL._SS128_.png",
+              "description": "Global Recycled Standard (GRS) certified products contain recycled content (>50%) that has been independently verified at each stage of the supply chain, from the source to the final product and meet social, environmental, and chemical requirements. The purchase of Global Recycled Standard (GRS) certified products supports the use of recycled content in the supply chain.",
+              "link": "https://textileexchange.org/integrity/"
+            }
+          ]
+        },
+        {
+          "position": 3,
+          "title": "Worker well-being",
+          "text": "Manufactured on farms or in facilities that protect the rights and/or health of workers.",
+          "certified_by": [
+            {
+              "name": "Global Recycled Standard",
+              "logo": "https://m.media-amazon.com/images/I/51IhSrucIyL._SS128_.png",
+              "description": "Global Recycled Standard (GRS) certified products contain recycled content (>50%) that has been independently verified at each stage of the supply chain, from the source to the final product and meet social, environmental, and chemical requirements. The purchase of Global Recycled Standard (GRS) certified products supports the use of recycled content in the supply chain.",
+              "link": "https://textileexchange.org/integrity/"
+            }
+          ]
+        }
+      ]
+    },
+    "videos": [
+      {
+        "position": 1,
+        "title": "Jumbo Poster Perfect for Indoor Days!! Toddler Mom Approved!",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/6966970a-b00e-4a7b-becf-2b14ca80246b/default.vertical.jobtemplate.hls.m3u8",
+        "thumbnail": "https://m.media-amazon.com/images/I/B17G-iJMfOL.jpg",
+        "duration": "1:09",
+        "vendor": "Real Mom Reviews by Megan!",
+        "vendor_thumbnail": "https://m.media-amazon.com/images/I/B1PA07nmT9L._CR331,228,931,931_._FMjpg_._SL34_.jpg",
+        "date": "May 5, 2026"
+      },
+      {
+        "position": 2,
+        "title": "A mothers honest review of this giant coloring page",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/45729349-67db-47d2-9ab6-b3db03977153/default.jobtemplate.hls.m3u8",
+        "thumbnail": "https://m.media-amazon.com/images/I/61536OkhR0L.jpg",
+        "duration": "0:29",
+        "vendor": "T’ellyn Mykenna",
+        "vendor_thumbnail": "https://m.media-amazon.com/images/I/A1AVJekl7qL._CR0,0,3024,3024_._FMjpg_._SL34_.jpg",
+        "date": "Oct 28, 2025"
+      },
+      {
+        "position": 3,
+        "title": "The Giant Spring Coloring Activity That Keeps Kids Busy!",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/83d9c04b-2a41-4cde-bc22-f68f7ea8f5f8/default.jobtemplate.hls.m3u8",
+        "thumbnail": "https://m.media-amazon.com/images/I/61oqY2717BL.jpg",
+        "duration": "0:47",
+        "vendor": "Kayli Allen",
+        "vendor_thumbnail": "https://m.media-amazon.com/images/I/81IrZenjkFL._CR0,0,1631,1631_._FMjpg_._SL34_.jpg",
+        "date": "Apr 22, 2026"
+      },
+      {
+        "position": 4,
+        "title": "Review of large Halloween coloring page! Fun for all ages!",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/29c90eb4-4d7e-44e3-8ecf-f3ca964e1f5e/default.jobtemplate.hls.m3u8",
+        "thumbnail": "https://m.media-amazon.com/images/I/B16iCD4aUWL.jpg",
+        "duration": "0:39",
+        "vendor": "Miranda",
+        "vendor_thumbnail": "https://m.media-amazon.com/images/I/C10nd7DM3dL._CR0,733,2240,2240_._FMjpg_._SL34_.jpg",
+        "date": "Oct 16, 2024"
+      },
+      {
+        "position": 5,
+        "title": "Christmas coloring poster",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/4cb27ce2-37e8-4d3f-acf1-1e0285458003/default.jobtemplate.hls.m3u8",
+        "thumbnail": "https://m.media-amazon.com/images/I/71hmRn3Y2VL.jpg",
+        "duration": "0:14",
+        "vendor": "Home Daily",
+        "date": "Aug 29, 2023"
+      },
+      {
+        "position": 6,
+        "title": "Check This fun project out!",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/c3c97fad-68de-46be-9bd4-2f9e30b7ac33/default.vertical.jobtemplate.hls.m3u8",
+        "thumbnail": "https://m.media-amazon.com/images/I/81AFvcspdHL.jpg",
+        "duration": "0:26",
+        "vendor": "✅ Quick Answers ✅",
+        "vendor_thumbnail": "https://m.media-amazon.com/images/I/715qfx3+B4L._CR141,4,334,333_._FMjpg_._SL34_.jpg",
+        "date": "Sep 17, 2024"
+      },
+      {
+        "position": 7,
+        "title": "Halloween coloring poster",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/3de41197-5067-4a49-b9c2-e2ea1561f16f/default.jobtemplate.hls.m3u8",
+        "thumbnail": "https://m.media-amazon.com/images/I/610Kq7plaBL.jpg",
+        "duration": "0:14",
+        "vendor": "Home Daily",
+        "date": "Aug 29, 2023"
+      },
+      {
+        "position": 8,
+        "title": "I want a coloring table cloth for every holiday",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/5f08f7fc-8784-4ae5-88c7-2b1bb1b72795/default.vertical.jobtemplate.hls.m3u8",
+        "thumbnail": "https://m.media-amazon.com/images/I/81WcoYpDZYL.jpg",
+        "duration": "0:46",
+        "vendor": "Maegan Sanders",
+        "vendor_thumbnail": "https://m.media-amazon.com/images/I/91q0NuwGjxL._CR0,150,828,828_._FMjpg_._SL34_.jpg",
+        "date": "Oct 1, 2024"
+      },
+      {
+        "position": 9,
+        "title": "Cute full size coloring page loved by kids",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/aa94c6cd-f2fd-49f0-ab9b-545a0e490fd1/default.vertical.jobtemplate.hls.m3u8",
+        "thumbnail": "https://m.media-amazon.com/images/I/616q9FiJSPL.jpg",
+        "duration": "0:06",
+        "vendor": "Shaylee",
+        "vendor_thumbnail": "https://m.media-amazon.com/images/S/amazon-avatars-global/3d0d914f-05a7-4392-85b5-1b0bd161e9e3._CR0%2C0%2C500%2C500_SX460_._SL34_.jpeg",
+        "date": "Dec 8, 2025"
+      },
+      {
+        "position": 10,
+        "title": "Honest Review of OHOME Halloween Giant Coloring Poster",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/38c37044-7659-4f1b-bca9-61f3549c6b7f/default.jobtemplate.hls.m3u8",
+        "thumbnail": "https://m.media-amazon.com/images/I/711yG2FmJqL.jpg",
+        "duration": "0:52",
+        "vendor": "Erica gives HONEST Reviews",
+        "vendor_thumbnail": "https://m.media-amazon.com/images/I/51G-oLuI3EL._CR0,0,632,632_._FMjpg_._SL34_.jpg",
+        "date": "Sep 26, 2023"
+      }
+    ],
+    "product_description": [
+      {
+        "position": 1,
+        "title": "&amp;#34;halloween decorations &amp;#34;",
+        "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/97cd41cf-4456-4513-9934-fdf411d09f3d.__CR0,0,970,600_PT0_SX970_V1___.jpg"
+      },
+      {
+        "position": 2,
+        "title": "&amp;#34;halloween party favors &amp;#34;",
+        "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/7a443164-d53f-4a8e-9b0a-ddda522b7a08.__CR0,0,970,600_PT0_SX970_V1___.jpg"
+      },
+      {
+        "position": 3,
+        "title": "halloween games for kids party",
+        "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/a35504e2-6f9e-41c7-a4f1-815dd35edb25.__CR0,0,970,600_PT0_SX970_V1___.jpg"
+      },
+      {
+        "position": 4,
+        "title": "halloween toys",
+        "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/180e4744-a439-4307-ad4b-9a699a9c5a9e.__CR0,0,970,600_PT0_SX970_V1___.jpg"
+      },
+      {
+        "position": 5,
+        "title": "halloween treats",
+        "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/12c278e0-64ef-45b6-8b5e-452e221ce6ad.__CR0,0,970,600_PT0_SX970_V1___.jpg"
+      },
+      {
+        "position": 6,
+        "compare_with_similar": [
+          {
+            "position": 1,
+            "asin": "B0CC98QTGT",
+            "title": "Christmas coloring poster",
+            "thumbnail": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/d97f0357-da7d-4112-99eb-bec1e1576a0a.__CR0,0,150,300_PT0_SX150_V1___.jpg",
+            "link": "https://www.amazon.com/dp/B0CC98QTGT?ref=emc_s_m_5_i_atc",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0CC98QTGT&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "rating": 4.8,
+            "reviews": 1758,
+            "price": "$8.99",
+            "extracted_price": 8.99,
+            "color_theme": "Christmas"
+          },
+          {
+            "position": 2,
+            "asin": "B0CC59TGJR",
+            "title": "Thanksgiving coloring poster",
+            "thumbnail": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/6e34f4ef-c017-4dab-8927-01dd18f0b874.__CR0,0,150,300_PT0_SX150_V1___.jpg",
+            "link": "https://www.amazon.com/dp/B0CC59TGJR?ref=emc_s_m_5_i_atc",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0CC59TGJR&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "rating": 4.8,
+            "reviews": 1758,
+            "price": "$8.99",
+            "extracted_price": 8.99,
+            "color_theme": "Thanksgiving"
+          },
+          {
+            "position": 3,
+            "asin": "B0C3C6RJDX",
+            "title": "Mandala coloring poster",
+            "thumbnail": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/dbd5b541-eff7-48e9-933e-538471b72322.__CR0,0,150,300_PT0_SX150_V1___.jpg",
+            "link": "https://www.amazon.com/dp/B0C3C6RJDX?ref=emc_s_m_5_i_atc",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0C3C6RJDX&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "rating": 4.8,
+            "reviews": 1758,
+            "price": "— no data",
+            "color_theme": "Mandala"
+          },
+          {
+            "position": 4,
+            "asin": "B0BYNJS9RD",
+            "title": "Iridescent Plastic Tablecloth",
+            "thumbnail": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/460da8c8-d1bd-46c7-aea2-b8668adef472.__CR0,0,150,300_PT0_SX150_V1___.jpg",
+            "link": "https://www.amazon.com/dp/B0BYNJS9RD?ref=emc_s_m_5_i_atc",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0BYNJS9RD&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "rating": 4.6,
+            "reviews": 2797,
+            "price": "$7.96",
+            "extracted_price": 7.96,
+            "color_theme": "Iridescent"
+          },
+          {
+            "position": 5,
+            "asin": "B0C49WVN78",
+            "title": "Gold Plastic Tablecloth",
+            "thumbnail": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/41965444-ec48-4ebd-98e9-bff8f3093b7c.__CR0,0,150,300_PT0_SX150_V1___.jpg",
+            "link": "https://www.amazon.com/dp/B0C49WVN78?ref=emc_s_m_5_i_atc",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0C49WVN78&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "rating": 4.6,
+            "reviews": 2302,
+            "price": "$7.99",
+            "extracted_price": 7.99,
+            "color_theme": "White and Gold"
+          },
+          {
+            "position": 6,
+            "asin": "B0C49SH3WQ",
+            "title": "Blue Plastic Tablecloth",
+            "thumbnail": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/c54e101e-1f6a-42ac-af35-bb0534c24bcc.__CR0,0,150,300_PT0_SX150_V1___.jpg",
+            "link": "https://www.amazon.com/dp/B0C49SH3WQ?ref=emc_s_m_5_i_atc",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0C49SH3WQ&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "rating": 4.3,
+            "reviews": 74,
+            "price": "— no data",
+            "color_theme": "White and Light Blue"
+          }
+        ]
+      },
+      {
+        "position": 7,
+        "compare_with_similar": [
+          {
+            "position": 1,
+            "asin": "B0CCR5K854",
+            "title": "Thanksgiving Plastic Tablecloth",
+            "thumbnail": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/3cfafa80-cd21-44fb-96ea-fa343dd8d90f.__CR0,0,150,300_PT0_SX150_V1___.jpg",
+            "link": "https://www.amazon.com/dp/B0CCR5K854?ref=emc_s_m_5_i_atc",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0CCR5K854&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "rating": 4.6,
+            "reviews": 2797,
+            "price": "$5.99",
+            "extracted_price": 5.99,
+            "color_theme": "Thanksgiving"
+          },
+          {
+            "position": 2,
+            "asin": "B0C49S6RRG",
+            "title": "Rose Gold Plastic Tablecloth",
+            "thumbnail": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/9379920a-ef03-4be0-920d-d339a2b8c292.__CR0,0,150,300_PT0_SX150_V1___.jpg",
+            "link": "https://www.amazon.com/dp/B0C49S6RRG?ref=emc_s_m_5_i_atc",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0C49S6RRG&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "rating": 4.6,
+            "reviews": 2302,
+            "price": "$7.99",
+            "extracted_price": 7.99,
+            "color_theme": "White and Rose Gold"
+          },
+          {
+            "position": 3,
+            "asin": "B0C49RYHG8",
+            "title": "Black Plastic Tablecloth",
+            "thumbnail": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/198bf471-8bf7-4d77-a77e-b53963eab49e.__CR0,0,150,300_PT0_SX150_V1___.jpg",
+            "link": "https://www.amazon.com/dp/B0C49RYHG8?ref=emc_s_m_5_i_atc",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0C49RYHG8&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "rating": 4.6,
+            "reviews": 2302,
+            "price": "$7.99",
+            "extracted_price": 7.99,
+            "color_theme": "Black and Gold"
+          },
+          {
+            "position": 4,
+            "asin": "B0BYD2KBSS",
+            "title": "Western Plastic Tablecloth",
+            "thumbnail": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/1d442ab7-0512-4359-a3bd-83551f2a1306.__CR0,0,150,300_PT0_SX150_V1___.jpg",
+            "link": "https://www.amazon.com/dp/B0BYD2KBSS?ref=emc_s_m_5_i_atc",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0BYD2KBSS&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "rating": 4.6,
+            "reviews": 2797,
+            "price": "— no data",
+            "color_theme": "Western"
+          },
+          {
+            "position": 5,
+            "asin": "B0CHVW1LYV",
+            "title": "Mandala love coloring poster",
+            "thumbnail": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/c868913a-4878-44e7-80a4-456d05b3ad70.__CR0,0,150,300_PT0_SX150_V1___.jpg",
+            "link": "https://www.amazon.com/dp/B0CHVW1LYV?ref=emc_s_m_5_i_atc",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0CHVW1LYV&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "rating": 4.8,
+            "reviews": 1758,
+            "price": "— no data",
+            "color_theme": "Mandala Love"
+          }
+        ]
+      }
+    ],
+    "product_details": {
+      "color": "Halloween",
+      "shape": "Rectangular",
+      "pattern": "Cartoon",
+      "style_name": "Halloween",
+      "occasion": "Halloween",
+      "seasons": "All-Season, Fall, Halloween Decorations, Winter",
+      "theme": "halloween banner, halloween crafts, halloween decorations indoor, halloween favors, halloween party, halloween party favors for kids, halloween party supplies, halloween table decorations, halloween tablecloth, halloween toys",
+      "corner_style": "Pleated",
+      "subject_character": "halloween party favors",
+      "item_dimensions_l_x_w": "72\"L x 30\"W",
+      "size": "72\" x 30\" (Rectangular)",
+      "number_of_sets": "1",
+      "unit_count": "1 Count",
+      "number_of_items": "1",
+      "item_weight": "5.6 ounces",
+      "seating_capacity": "10",
+      "brand_name": "OHOME",
+      "recommended_uses_for_product": "Floor,wall,table, Halloween Decorations, halloween accessories, halloween birthday, halloween classroom favors, halloween favors for kids, halloween party favors, halloween party favors for adults, halloween table cloth, halloween table cover, halloween table decor",
+      "included_components": "Halloween Decorations, halloween birthday party decorations, halloween coloring tablecloth, halloween outdoor decorations, halloween party decor",
+      "manufacturer": "OHOME",
+      "item_type_name": "halloween crafts",
+      "best_sellers_rank": [
+        {
+          "text": "#105 in Toys & Games (See Top 100 in Toys & Games)",
+          "extracted_rank": 105,
+          "link": "https://www.amazon.com/gp/bestsellers/toys-and-games/ref=pd_zg_ts_toys-and-games",
+          "link_text": "See Top 100 in Toys & Games"
+        },
+        {
+          "text": "#1 in Kids' Party Tablecovers",
+          "extracted_rank": 1,
+          "link": "https://www.amazon.com/gp/bestsellers/toys-and-games/2528083011/ref=pd_zg_hrsr_toys-and-games",
+          "link_text": "Kids' Party Tablecovers"
+        }
+      ],
+      "asin": "B0CC983HPF",
+      "customer_reviews": "4.8 out of 5 stars",
+      "rating": 4.8,
+      "reviews": 1758,
+      "material_type": "Paper",
+      "product_care_instructions": "Wipe Clean",
+      "fabric_type": "Paper",
+      "finish_types": "Matte",
+      "additional_features": "halloween backdrop, halloween games, halloween gifts, halloween toys, halloween treats",
+      "embellishment_feature": "Halloween Decorations, halloween backdrop, halloween decor, halloween decorations indoor, halloween favors, halloween party, halloween party decorations, halloween party supplies"
+    },
+    "sponsored_brands": [
+      {
+        "position": 1,
+        "name": "Sponsored ad from Creativity For Kids. Shop Creativity For Kids.",
+        "link": "https://aax-us-east-retail-direct.amazon.com/x/c/JNR4C5Rri-th6OmnZ5iOUc0AAAGhYthhyAEAAAH2AQBvbm9fdHhuX2JpZDEgICBvbm9fdHhuX2ltcDIgICDXBevn/clv1c_ek-YBff3FcTa3ut7cOoEbugzoh05WJN4O4WDdoj5uw_vl9aBzcwLJAmD_lOjabJD9geX-gD26Oegoktf1E3nZRxD2jH-qGpSFoBPvzHQ0a9QB1D7STiArqJ5H-os_nKy2hs9Md4aak7LrOGaPKzUav4PJv61NlXvimSgbxeJjgQcfUENfgArN6Mgckm590KLGSTQeJrALRabjXQdd8gLc2STcRhqcUOygJpb58lH2de8t7CWp8EnvGFUyyz5AmrVY4l3K6DuvEk-f8baTvy6HMxhrs-OT-_cBB8wLupi_G5EOtFSJPSovKTIF8Lp4HFVuSwKmgiPvju4MaoTaRzxsiHLumIzXd0zWj4pibk411pj8DX3_78ila9RZhbOTK-aim1dmBzuOQplXLQ-wWgzeVLzXn09miAUuTQFZYzXVt2PZclPi3Z76w0aPatkcYopLI-MGCZjkuKGDwsXdbmnePeTFMiVN4J9o-Kf2FAVndBjdGYKBjncO-5s-V2yXMOF0ajPN89TYVpdV-oD8PNkGfyJG066VkgnLNGNMhpTAm2UCUbeC2B89zWzDWCHxpaaio3FgRGDQSmSBSawGfKydTqiSQdg0w2gZX1symGGk68EuPsd-w4eM0yuNO83w0ie5adNSByvlI7gXP5gDjDXdzwK-FsdPt5X5C4TF4r-3vSVyi_9DfsQeNf_weNeFU8O60GWBbsaKNN2f4otYlufTqnfyS9MwaKI-VV0Hvn4ehrUi1U8d11lFY84N3TyeTqnLwzJNNigtp-raHVQctT8fRFfKlDaLN83YETMAZi6BxTJn4wIHfdgbQa-oz_h3yCSZtXjst51SCPlcx24GlvNHJWAXhZ4DJXbwUIUgllktsEKWChDrK5zCtxP46gP6fNZYEoVTW93SPDB7oa2-fa05l-iaDhhbaF-xyyUFw_WM70KACZk7yX6MjBaLj4desYluL9yuWtI-2i9mTrxNSeORzMf17hOaHh0_PSmMx6o1QwQm3NUwz5yqDDORNttYjH60j_cemjrPQYTznsqwHzpwy4pk7t0gyWo5V7GX2qk0qbIDoFraJWW3pqk9JnlhYYx84sjk1JpPJv7BqMHVnjGHP9etoAEE9FYZVaDHlDUeLSxhznrCYwXCwKBfqfoFMRFUD0KcC21ialqds8TMsjc5f4-7MSf857DYdU9LPxS5uzh0XudGnMuolw7-TguneEpWfrbiDMUeng779w3szhMrG87opePGybb_0PQB10aljHwMAY5fU6_98qFVAiafSAsYhOaXjO9-shDCc1FCK3EzeT6uCus66fOB5FffUGM1BmH4iri77unDT4hIshjpeuArXm_hprU_60wSrqaX-dp-O7YHDkT_cZa3GAS6Y-IfOc_vPRxREj7CbxSLSKNlpZdZSWRsf2holYUk96qgloo4yBSfjLA7aLB53bKq3rJzB95Ai5P30PsjWKZFoYBjovchOIX67nKEmhCvaIfUl3TDZXBuNnJ9DKdeBJMFo-o_3elrt8T3oYk8JAfSxi5vRW1--B55W4Jdg8gV9wKo5nxDqdJLgLB6jSWpey1RNBcPlMxbnza72ePXiM28K0IdX8/https://www.amazon.com/stores/page/33876322-1118-42A1-B51A-20088B6B475F/?_encoding=UTF8&store_ref=SB_A02568262R32G4EMIL3YU-A0186251HXZVCWRMQYGM&pd_rd_plhdr=t&aaxitk=94c744a846a774cefefe8b62a9a772f7&hsa_cr_id=0&lp_slot=desktop-arbies&lp_page_asin=B0CC983HPF&pd_rd_i=ad1&ref_=sbx_be_dp_arbies_mbd_mb0_bkgd&pd_rd_w=3XZQd&content-id=amzn1.sym.d4d91f0b-2ea5-4099-b125-c8f96930ac21&pf_rd_p=d4d91f0b-2ea5-4099-b125-c8f96930ac21&pf_rd_r=JPDSX1B139BN5QJTR4AY&pd_rd_wg=bxj66&pd_rd_r=086130a7-92c7-4b34-83c7-f8e80c14dfbb"
+      },
+      {
+        "position": 2,
+        "name": "Sponsored ad from TkaooJako. Shop TkaooJako.",
+        "link": "https://aax-us-east-retail-direct.amazon.com/x/c/JHTALm3vwFVEg9g9ahIEQMEAAAGhYthhyQEAAAH2AQBvbm9fdHhuX2JpZDEgICBvbm9fdHhuX2ltcDIgICDr87Bl/clv1c_ek-wBXfXFbbazjK3YivOrRfcOWxCnjr_3Rv-tT-Ewys1zIYy9If5NpFXL10-0db0vnIxfSp6nMejO0uUr9ZIzicCJcBXdXsIW-Hnjgkn0UgWDwH3ZlzUfYH68P_0BjGymbgvI7jHZj2nyUNjgbR3wVb7Id2kVlWrEACySTeh_PJfGOoUw-m1th1OlcpWB0bkn32BeXnvEwHMjTSdhOiCcgNSr_U_h8gQhgZI80j22b-ha71Hrm6EDJRXPY3Hw5RPtNqjcRiB8ymcyLdiW7-lLFIxMH3IZbFRLGd4oyIyL5r_XMuTMNUBuf7TOKj4u0igAh8iFDKKMSXjWa5YaMQoTT0ps2RqgzRbkUggeyfR18ptcVvbEK1gIilUhESnNN_oRNDjgmm2WnwX5OYqNrDn_mJfgLM2SQftQgjVWKPldrOlydlf-eYCmkriAovIsT2xXoFIImLnyIQIGRlXUtymRT0pzb5rb_xssxLBkz_NHnznfSEQZ-jQZ-XFRN59widcY-0SCDM4iV0sijcetdF6sOUR_-FRD5xpWccldkKcU89Er0agis6AOmBI0mwu0Rsz7zdshvqf2UPHPduZyNESIpMl-1Cvj1Ckb4KrqorD7UXRoOF6KR66oHcehoeyqcIRCxK1gZ9P7WjNM9Y3Kdx4-3dcCLE0nSZhO0kv2yyeC8a6nmzDcKyI9-hhMrIgIpPBP9Y82fJORqEWgy0_iPvjSrkc9qyiJbmnOVAt2hekeXZAHS1PPGHy672tgscmLDVuLKBnNuvVgFu12ENB5G1TWq5SH5pLv3eRgAWbVG1ABT2GoVXu9gNv0TZHc1F-P_3pFxHqa1eEu4Ih08hQugpge5SYu3ElN-sCoNRg28a0wKxmdmRsc4jjHRhKEBtv5RvP1BU1gHRPJZmd2mBPVb_Zhw7lZdCg9kPYKv1UB7JOaBUUbvV8dsyTKj11_igtJlmZqsPAVqntDuG_sK_6W9sL0rqtj81hVn_k3-OgFIOdEtFoWUgVHaVF_BXugb0oICWqwJ2XcIf45Pb4pCElakgcIhJNmwPCDg_Yu_lH4UCuXNTKQ4jNp2Ved6sfutbbohXqm8mgLhKkpCaf85Ks00xn6ReMVY8AK_yBElm7gn_Yyydl6WUdvNlNPO34MNbH8yf0AG6nuIihz5oVNIgNOmcDNEJBPoH9Dp5Iny-A6p1CtNUsWx2_ifiZQ4zZYBwnNGeDNwAqn25GET4sEZVaehGnPBN2lwzevt7qx4HR0O4fjeBiBxb_VHwL2Mv4Mw7PmwVj1sjomCtqr-_HsGyknl0QTbhc-OU52bULpfca4noHTaqEpkOyZyEXikjl8nj-dTLzVe03g_8J1efhkOHdxrmRXtqioIYppuAeGU-f32XWDq_KUiJBkHPNkcetZAHwdPYdzUSBLL8iZ29KXpcff6rSDgikxD-t6ekz0z6WlMKuWCaqb4ZLjGDrlqHnJp5febNfuDmTFjbko2PR0yTNKa6cvkeKnzmiuTkZi9AhcbG9LBuvseaZ8wZEYYQ56apyJXZPcyK5zf541UnyIEY_Q8lH68OeSv1O_62za9CVGrCJNk0VyuoHjlrbIsvgs63P_gSfgzlRd_VOnk3d/https://www.amazon.com/stores/page/B5BAE197-2E71-4E24-9AF7-1816B9CD25AE/?_encoding=UTF8&store_ref=SB_A07445502FJ5A0LUWLC5I-A01321442YY1EIHIE1YGE&pd_rd_plhdr=t&aaxitk=8ada3782cd6523b063f3ca8addcbdd10&hsa_cr_id=0&lp_slot=desktop-arbies&lp_page_asin=B0CC983HPF&pd_rd_i=ad2&ref_=sbx_be_dp_arbies_mbd_mb1_bkgd&pd_rd_w=3XZQd&content-id=amzn1.sym.d4d91f0b-2ea5-4099-b125-c8f96930ac21&pf_rd_p=d4d91f0b-2ea5-4099-b125-c8f96930ac21&pf_rd_r=JPDSX1B139BN5QJTR4AY&pd_rd_wg=bxj66&pd_rd_r=086130a7-92c7-4b34-83c7-f8e80c14dfbb"
+      },
+      {
+        "position": 3,
+        "name": "Sponsored ad from Tiny Expressions. \"Browse the collection.\" Shop Tiny Expressions.",
+        "link": "https://aax-us-east-retail-direct.amazon.com/x/c/JIh1S1TeS4KhVRuUwYzO5VkAAAGhYthhygEAAAH2AQBvbm9fdHhuX2JpZDEgICBvbm9fdHhuX2ltcDIgICA4C88A/clv1c_ek-wxXfXFbbWTPHXL5usCQuvcRxOLvvntP8WuY34EIAJJWDi8xshqDQ_2icufcv_pWS37E4QSiBI3jlJp-c6FKVV_AkpNdbGsxosjQcRK9EqDxHjNqjvO5biWoM1I3cBTyh7vah3ZK_oKA94nCMOSIIfJvzUtlTviuRg74b77EYeS3YVzqBuUgInT_VsrzFaaLVBZiVvs3arjfQdd8gLcmSzcQypjUTG_OYCKlPMVh8smIBdvq13S9l0iVD5x0rVNywToPhidhVysu-gObi2oG1x0rQNvyhugzNNUCwVMt6u9bab8zm_SyXuR22CZgajSSDZzZNKrQOt7m_iAM8FX3jzgd0oCLy2og0zFqHi6sUlXnayleMArXrdjAlhpyiVcKeExNnv9k-IzA2nfKOEXwWQwm5TyATT1vtAUBGRVgtFebBUubuAbhB_L72MuodtGnG4n1kcPDRZgppP6u3XtfWk1FmeUpiVGje4OmuRs1IV2zpm3rq7sSli5Zelhq59H9hxjCK75Z5_8nDp-RM9j3c7peZtl647BVcv2U9xNIsvlZp9XiiOFMAuuvEkgLWYeoVMgaIBA7bila1z20_HK-UV5V_OOXIjmZX7d4MNA6pThOcTA0BpVySIJi_NJZI_3diXsoRfGKq0RyALt1B6UWduLZuwCONplLvdPFV9o-TOBTZ2IcxQ7OIvx0pGJGxfMgD6wWiAtO_lySa7iCUbsNcE2UGcCZCUHf0LTXFOoaOzgQRzOJG1NjGbDaAVYWQngdtO5_fhgrfg1EGUnlUmyHay6Y4dB6NbWaqLkwSEyGX1AOLH2RFp2EZTnMHKZXE9EYwKUq0XWEEyP91b5inFenBejKnFz-4Ek2cAdcII2nMrpMx0vfZE_In3Te1TBHeiUIJsdEdsdhnahjgD1zGev0xyt4u19NQ8S7aWe_NUgVA_dOKUtEnEwFBcBY4FESrenEKUyEqoDIXzmgiAFM9Txs0mLwmxl5EULBKSzgSl3FD8_DnR5uXy3hK7s0uMbTopZIsBBBsFCWILmPwZEZHUhrJr62iJWdX7f8EaeQdoP-V9pzc_5-WS4aejlmiFr3vlP75Ba2FByvrJlltxXyH3GQSuXkCW1Y1hm3nzgH-cjgUpS318cHqT_s7DsyTDsTY0zwzqbhiNtKsb_GKjw6qxarLKO90lO1mRYgWAKl8CljUHZZN3ERlwacimikXPtiIg_6vzHPRuhurtCeCzaJns8NTPTRWV8Ws1iszTtzd_J8airuaCaccHtllPsRMtKMYOo9X6jBrqWkWJ82eUGkX6FFAtKOWG6iMxf-tpAmO5Mmae5tNbejsDGrL4cCTaJaVuw-7rnHZb50915qS5N6NjljvWKLpzWPI1Ru-XcYct9bQhjxNfqjhlhWAmVc6Ycyn7fDIu-rqEj4l8ZvzRtokF1M9kvVlYEqDPmFyqZcA541VT8onzDWvPHr4P13ngdScPCzRXTIvGy2BcvKjJut_nM3L5ALZRwuLwbL7ihV7drQmnc00P1xxjQ3tvRSwbfQaZNjMADa4T61-oMNdpqD9MErt0cG4VOb9Vry5gf-UWUWtXShCNITNf8xbUpF5FxmAMpwO9FwF_RgwpX7DgSRFsgjkt-KM/https://www.amazon.com/stores/page/0E30CE03-A3F2-4520-B2CB-2FA6228AB9D5/?_encoding=UTF8&store_ref=SB_A08621613VB25WSDNHWQ1-A1032102FHTB0YMCJAKF&pd_rd_plhdr=t&aaxitk=22ab7c135c3585dcb0cbe8f9bd7219ca&hsa_cr_id=0&lp_slot=desktop-arbies&lp_page_asin=B0CC983HPF&pd_rd_i=ad3&ref_=sbx_be_dp_arbies_mbd_mb2_bkgd&pd_rd_w=3XZQd&content-id=amzn1.sym.d4d91f0b-2ea5-4099-b125-c8f96930ac21&pf_rd_p=d4d91f0b-2ea5-4099-b125-c8f96930ac21&pf_rd_r=JPDSX1B139BN5QJTR4AY&pd_rd_wg=bxj66&pd_rd_r=086130a7-92c7-4b34-83c7-f8e80c14dfbb"
+      }
+    ],
+    "reviews_information": {
+      "summary": {
+        "text": "Customers find the tablecloth entertaining and perfect for keeping kids busy, with one noting it's ideal for holiday entertainment. The product receives high marks for its quality and versatility, being suitable for family gatherings and parties. Customers appreciate the large size, which accommodates 6-10 kids coloring simultaneously, and the thick paper that prevents bleeding. They enjoy the coloring experience, with one mentioning it transforms coloring into a collaborative, interactive activity, and consider it well worth the price. Customers praise its durability, with one noting it can withstand hours of coloring without tearing easily.",
+        "insights": [
+          {
+            "title": "Entertaining",
+            "sentiment": "positive",
+            "mentions": {
+              "total": 164,
+              "positive": 164,
+              "negative": 0
+            },
+            "summary": "Customers find the tablecloth entertaining, as it keeps children busy and is perfect for holiday activities, with kids enjoying coloring it.",
+            "examples": [
+              {
+                "position": 1,
+                "snippet": "This was a fun, easy addition to Thanksgiving day. Grandparents and kids colored together while I finished up making dinner....",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R12F8D0LXF5NFM"
+              },
+              {
+                "position": 2,
+                "snippet": "...It’s a great activity and will be a nice gift for old folks home, hospital room, for a shut in, or to send to a grandparent long distance.",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R2JAFCT3Z0R51"
+              },
+              {
+                "position": 3,
+                "snippet": "This was a fun activity at our Thanksgiving gathering. The kids and adults all enjoyed it very much. The quality of the paper is good.",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R1FFMJOZ20489A"
+              },
+              {
+                "position": 4,
+                "snippet": "This is so fun! It exceeded my expectations. Paper is nice and thick and does not bleed....",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R1FDZRNRTZSER5"
+              }
+            ]
+          },
+          {
+            "title": "Quality",
+            "sentiment": "positive",
+            "mentions": {
+              "total": 159,
+              "positive": 157,
+              "negative": 2
+            },
+            "summary": "Customers find the tablecloth to be of excellent quality, describing it as a hit that they can't recommend highly enough.",
+            "examples": [
+              {
+                "position": 1,
+                "snippet": "We bought to use at Friendsgiving. It was great quality but affordable! Everyone loved it! Came folded up neatly (crayons not included).",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R2LJKZDGY44112"
+              },
+              {
+                "position": 2,
+                "snippet": "...This was an awesome, fun activity for all the kids and even some adults to work on together!...",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R1QTEPVWA9YSTX"
+              },
+              {
+                "position": 3,
+                "snippet": "My son loved this! Every day we color a part of it and we’re going to hang it up as a Ramadan banner",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R3P9TK4HJ4RR06"
+              },
+              {
+                "position": 4,
+                "snippet": "Very nice and big enough to have a few color at the same time. Good quality.",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R6WG8IEJFD0KR"
+              }
+            ]
+          },
+          {
+            "title": "Kids enjoyment",
+            "sentiment": "positive",
+            "mentions": {
+              "total": 138,
+              "positive": 138,
+              "negative": 0
+            },
+            "summary": "Customers report that the tablecloth is perfect for family activities during the holidays, with both children and adults enjoying it.",
+            "examples": [
+              {
+                "position": 1,
+                "snippet": "Got these for our fall festival, and it was a total hit! Kids loved it. Even the adults had fun with it. Fits perfectly on a 6 ft table....",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R5NLUZEH7QLK"
+              },
+              {
+                "position": 2,
+                "snippet": "We bought this for Halloween party and the kids loved it. Fit perfectly across a standard size folding table.",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/RWCBJNJA3HH0P"
+              },
+              {
+                "position": 3,
+                "snippet": "Perfect fall activity! My kids loved it",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R205I3DX7LZH14"
+              },
+              {
+                "position": 4,
+                "snippet": "This provided hours of quiet time. Not only did the kids love it, so did the adults. Everyone sat around the table coloring together.",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R3R7FD5UC1U4LK"
+              }
+            ]
+          },
+          {
+            "title": "Coloring",
+            "sentiment": "positive",
+            "mentions": {
+              "total": 59,
+              "positive": 57,
+              "negative": 2
+            },
+            "summary": "Customers enjoy coloring the tablecloth, with several mentioning their children love using it. One customer notes that it's easy to see between the lines, while another appreciates being able to walk around and color different portions.",
+            "examples": [
+              {
+                "position": 1,
+                "snippet": "Lots to color, only complaint is the mirrored image.",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R3F2I70INVLYAM"
+              },
+              {
+                "position": 2,
+                "snippet": "...Made of thick paper and perfect for keeping kiddos busy. Easy to color. Took a very long time to do so....",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R3UOUO1B0762AD"
+              },
+              {
+                "position": 3,
+                "snippet": "Definitely worth the money, fun to color and enough space for everyone to partake !...",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R39O1LA3RCD8EO"
+              },
+              {
+                "position": 4,
+                "snippet": "...coloring sheet to school & our aftercare school aged kids, loved coloring on it. Easy peasy!...",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R19Y5JXSRYYR3E"
+              }
+            ]
+          },
+          {
+            "title": "Size",
+            "sentiment": "positive",
+            "mentions": {
+              "total": 53,
+              "positive": 43,
+              "negative": 10
+            },
+            "summary": "Customers appreciate the tablecloth's size, noting it's perfect for 6ft folding tables and large enough for multiple kids to gather around and color simultaneously.",
+            "examples": [
+              {
+                "position": 1,
+                "snippet": "...They all loved it! It was huge and so much fun for them. We taped it to a card table and it was super easy to set up! Perfect for the kiddos!",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/RNAYYLJJH8QHF"
+              },
+              {
+                "position": 2,
+                "snippet": "...Fyi it's very large haha. Which the kids found exciting. I think we will still be coloring this next year! Lol",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R1KN0NQGG8119G"
+              },
+              {
+                "position": 3,
+                "snippet": "This was just a huge hit with the kids at our party and it’s a great size (our fold out table was giant fyi)!!...",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R1QGGH31RVKLNE"
+              },
+              {
+                "position": 4,
+                "snippet": "Big, High quality paper, and FABULOUS GRAPHICS! HAPPY MARDI GRAS YALL!",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R33U8FV1MI0H9M"
+              }
+            ]
+          },
+          {
+            "title": "Value for money",
+            "sentiment": "positive",
+            "mentions": {
+              "total": 47,
+              "positive": 45,
+              "negative": 2
+            },
+            "summary": "Customers find the tablecloth well worth its price and consider it a great buy, with one customer noting it provides significant entertainment value.",
+            "examples": [
+              {
+                "position": 1,
+                "snippet": "...year, making it a versatile choice for various occasions. • Great Value: Offers a significant amount of entertainment for the price, making it...",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/RD9ISFE8W2820"
+              },
+              {
+                "position": 2,
+                "snippet": "...Nice thick paper that stood up to my kids use. Would buy again.",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R3GZ3VMT38KCX8"
+              },
+              {
+                "position": 3,
+                "snippet": "...Definitely worth the money! Definitely durable enough to fold it up and tuck away until she is ready to color!",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R2CT33XH5FUNPD"
+              },
+              {
+                "position": 4,
+                "snippet": "Great Buy and Super Fun for Kids!",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R1TTQ8X4AASMF8"
+              }
+            ]
+          },
+          {
+            "title": "Durability",
+            "sentiment": "positive",
+            "mentions": {
+              "total": 42,
+              "positive": 37,
+              "negative": 5
+            },
+            "summary": "Customers find the tablecloth durable, with one customer noting it can withstand hours of coloring without tearing, and another mentioning it holds up well with markers.",
+            "examples": [
+              {
+                "position": 1,
+                "snippet": "...Definitely worth the money! Definitely durable enough to fold it up and tuck away until she is ready to color!",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R2CT33XH5FUNPD"
+              },
+              {
+                "position": 2,
+                "snippet": "...setting. • Quality Material: Made from sturdy, thick, and durable paper, this poster can withstand hours of coloring fun without tearing...",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/RD9ISFE8W2820"
+              },
+              {
+                "position": 3,
+                "snippet": "...Very durable with a coating underneath so it handled some toddler water spills pretty well....",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/RF727DNYL2Q3P"
+              },
+              {
+                "position": 4,
+                "snippet": "...I could have used this tablecloth as is, the paper was pretty thick and sturdy but we are extra cautious as the youngest can be very harsh on things!...",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/RUUYXNL572DO7"
+              }
+            ]
+          },
+          {
+            "title": "Thickness",
+            "sentiment": "positive",
+            "mentions": {
+              "total": 42,
+              "positive": 39,
+              "negative": 3
+            },
+            "summary": "Customers like the thickness of the tablecloth, with one mentioning it's thick enough to prevent bleeding.",
+            "examples": [
+              {
+                "position": 1,
+                "snippet": "...Thick paper, so markers do not bleed through. Lots of different things to color for all ages!",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R32OELXP0VTM74"
+              },
+              {
+                "position": 2,
+                "snippet": "...touch to any setting. • Quality Material: Made from sturdy, thick, and durable paper, this poster can withstand hours of coloring fun without...",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/RD9ISFE8W2820"
+              },
+              {
+                "position": 3,
+                "snippet": "...Paper is thick , easy to fold back up to finish coloring a different day .. good for daycare use and decorating or just even at home...",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R39O1LA3RCD8EO"
+              },
+              {
+                "position": 4,
+                "snippet": "...It was very thick and sturdy so it held up very well to lots of interaction without ripping along the edges....",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R33VUCK0GUQK35"
+              }
+            ]
+          }
+        ],
+        "customer_reviews": {
+          "5 star": 89,
+          "4 star": 7,
+          "3 star": 3,
+          "2 star": 1,
+          "1 star": 0
+        }
+      }
+    }
+  }
+}

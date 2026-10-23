@@ -1,0 +1,15 @@
+**/__pycache__/
+*.py[cod]
+**/.env
+**/.env.*
+!**/.env.example
+GIAI-THICH-DU-AN-VA-DU-LIEU.md
+.venv/
+node_modules/
+.artifact-runtime/
+# Keep the bundled, sanitized Q4 demo; other research runs stay local.
+data/*
+!data/seasonal-gifts-us/
+data/**/snapshots/
+data/**/llm-request.json
+data/**/llm-response.json

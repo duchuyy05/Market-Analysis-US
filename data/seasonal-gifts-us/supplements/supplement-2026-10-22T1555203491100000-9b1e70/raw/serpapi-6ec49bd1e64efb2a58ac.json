@@ -1,0 +1,1114 @@
+{
+  "provider": "serpapi",
+  "endpoint": "https://serpapi.com/search.json",
+  "parameters": {
+    "engine": "amazon_product",
+    "asin": "B0F7Y5T78H",
+    "amazon_domain": "amazon.com",
+    "language": "en_US",
+    "shipping_location": "US",
+    "device": "mobile",
+    "output": "json"
+  },
+  "fetched_at_utc": "2026-10-22T15:56:05.033509+00:00",
+  "raw_file": "supplements/supplement-2026-10-22T1555203491100000-9b1e70/raw/serpapi-6ec49bd1e64efb2a58ac.json",
+  "response": {
+    "search_metadata": {
+      "id": "6ada321588f29106e2a300a2",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/jPRh7idWHRWlTKU9H6mK8FjoZHFwPIKMbp5d_i4_adI/6ada321588f29106e2a300a2.json",
+      "markdown_endpoint": "https://serpapi.com/searches/jPRh7idWHRWlTKU9H6mK8FjoZHFwPIKMbp5d_i4_adI/6ada321588f29106e2a300a2.md",
+      "created_at": "2026-10-22 15:56:05 UTC",
+      "processed_at": "2026-10-22 15:56:05 UTC",
+      "amazon_product_url": "https://www.amazon.com/dp/B0F7Y5T78H/?language=en_US",
+      "raw_html_file": "https://serpapi.com/searches/jPRh7idWHRWlTKU9H6mK8FjoZHFwPIKMbp5d_i4_adI/6ada321588f29106e2a300a2.html",
+      "total_time_taken": 12.94
+    },
+    "search_parameters": {
+      "engine": "amazon_product",
+      "asin": "B0F7Y5T78H",
+      "amazon_domain": "amazon.com",
+      "language": "en_US",
+      "device": "mobile",
+      "shipping_location": "US"
+    },
+    "product_results": {
+      "categories": [
+        {
+          "position": 1,
+          "name": "Toys & Games",
+          "link": "https://www.amazon.com/toys/b/ref=m_dp_bc_1?ie=UTF8&node=165793011",
+          "node": "165793011",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=mobile&engine=amazon&language=en_US&node=165793011&shipping_location=US"
+        },
+        {
+          "position": 2,
+          "name": "Arts & Crafts",
+          "link": "https://www.amazon.com/kids-arts-crafts-easel-paper-marker-stamp/b/ref=m_dp_bc_2?ie=UTF8&node=166057011",
+          "node": "166057011",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=mobile&engine=amazon&language=en_US&node=166057011&shipping_location=US"
+        },
+        {
+          "position": 3,
+          "name": "Stickers",
+          "link": "https://www.amazon.com/Kids-Stickers/b/ref=m_dp_bc_3?ie=UTF8&node=676735011",
+          "node": "676735011",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=mobile&engine=amazon&language=en_US&node=676735011&shipping_location=US"
+        }
+      ],
+      "asin": "B0F7Y5T78H",
+      "title": "Halloween Party Favors,Halloween Stickers,DIY Crafts Stickers for Kids Kids Halloween Decorations Games Toys Gifts Treats Activities Party Supplies,Halloween Goodie Bags (24 Sheets)",
+      "link": "https://www.amazon.com/stores/HSHFAMIIY/page/6BD9E1A3-0C30-4C2B-B9DB-E450DE6EDCD1?lp_asin=B0F7Y5T78H&ref_=ast_bln&store_ref=bl_ast_dp_brandlogo_sto&bl_grd_status=override",
+      "link_clean": "https://www.amazon.com/dp/B0F7Y5T78H/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0F7Y5T78H&device=mobile&engine=amazon_product&language=en_US&shipping_location=US",
+      "badges": [
+        "Amazon's Choice"
+      ],
+      "variants": [
+        {
+          "title": "color_name",
+          "items": [
+            {
+              "position": 1,
+              "asin": "B0F1S7QC3Z",
+              "name": "4th of July",
+              "image": "https://m.media-amazon.com/images/I/61l0+vQDziL._QL92_SH45_SS72_.jpg",
+              "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0F1S7QC3Z&device=mobile&engine=amazon_product&language=en_US&shipping_location=US"
+            },
+            {
+              "position": 2,
+              "asin": "B0GGLTJ4PC",
+              "name": "American Flag",
+              "image": "https://m.media-amazon.com/images/I/61TFo5MMP3L._QL92_SH45_SS72_.jpg",
+              "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0GGLTJ4PC&device=mobile&engine=amazon_product&language=en_US&shipping_location=US"
+            },
+            {
+              "position": 3,
+              "asin": "B0F5N6HG2Z",
+              "name": "Animal",
+              "image": "https://m.media-amazon.com/images/I/51AHu8VNGzL._QL92_SH45_SS72_.jpg",
+              "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0F5N6HG2Z&device=mobile&engine=amazon_product&language=en_US&shipping_location=US"
+            },
+            {
+              "position": 4,
+              "asin": "B0F8H5X4L8",
+              "name": "Christmas",
+              "image": "https://m.media-amazon.com/images/I/51+J0aeJkTL._QL92_SH45_SS72_.jpg",
+              "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0F8H5X4L8&device=mobile&engine=amazon_product&language=en_US&shipping_location=US"
+            },
+            {
+              "position": 5,
+              "asin": "B0CQN3B1T4",
+              "name": "Easter",
+              "image": "https://m.media-amazon.com/images/I/61jspcg2CsL._QL92_SH45_SS72_.jpg",
+              "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0CQN3B1T4&device=mobile&engine=amazon_product&language=en_US&shipping_location=US"
+            },
+            {
+              "position": 6,
+              "asin": "B0F7Y5T78H",
+              "name": "Halloween",
+              "image": "https://m.media-amazon.com/images/I/51QfmooMOvL._QL92_SH45_SS72_.jpg",
+              "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0F7Y5T78H&device=mobile&engine=amazon_product&language=en_US&shipping_location=US"
+            },
+            {
+              "position": 7,
+              "asin": "B0D7ZPJFHN",
+              "name": "Thanksgiving",
+              "image": "https://m.media-amazon.com/images/I/514lh5dMG5L._QL92_SH45_SS72_.jpg",
+              "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0D7ZPJFHN&device=mobile&engine=amazon_product&language=en_US&shipping_location=US"
+            },
+            {
+              "position": 8,
+              "asin": "B0FX8LBXDW",
+              "name": "Valentines",
+              "image": "https://m.media-amazon.com/images/I/51RoWOVBkJL._QL92_SH45_SS72_.jpg",
+              "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0FX8LBXDW&device=mobile&engine=amazon_product&language=en_US&shipping_location=US"
+            }
+          ]
+        }
+      ],
+      "brand": ".premium-logoByLine-brand-logo { max-height: 36px; height: auto; max-width: min(154px, 100%); min-width: 4px; width: auto; object-fit: contain; } Visit the HSHFAMIIY Store",
+      "thumbnail": "https://m.media-amazon.com/images/I/815LAo3SYNL._AC_UF894,1000_QL80_FMwebp_.jpg",
+      "thumbnails": [
+        "https://m.media-amazon.com/images/I/815LAo3SYNL._AC_UF894,1000_QL80_FMwebp_.jpg",
+        "https://m.media-amazon.com/images/I/81g0K58IsDL._AC_UF894,1000_QL80_FMwebp_.jpg",
+        "https://m.media-amazon.com/images/I/81EvfMt6wGL._AC_UF894,1000_QL80_FMwebp_.jpg",
+        "https://m.media-amazon.com/images/I/71oYLP3PNkL._AC_UF894,1000_QL80_FMwebp_.jpg",
+        "https://m.media-amazon.com/images/I/81yZSjd0JjL._AC_UF894,1000_QL80_FMwebp_.jpg",
+        "https://m.media-amazon.com/images/I/71-F1tRsNkL._AC_UF894,1000_QL80_FMwebp_.jpg"
+      ],
+      "rating": 4.8,
+      "reviews": 844,
+      "bought_last_month": "9K+ bought in past month",
+      "price": "$7.99",
+      "extracted_price": 7.99,
+      "price_unit": "$0.33 / count",
+      "extracted_price_unit": 0.33,
+      "prime": true,
+      "delivery": [
+        "FREE delivery October 27 - 29 on orders shipped by Amazon over $35",
+        "Or fastest delivery Wednesday, October 28",
+        "Arrives before Halloween"
+      ],
+      "stock": "In Stock"
+    },
+    "purchase_options": {
+      "single_offer": {
+        "price": "$7.99",
+        "extracted_price": 7.99,
+        "delivery": [
+          "FREE delivery October 27 - 29 on orders shipped by Amazon over $35",
+          "Or fastest delivery Wednesday, October 28",
+          "Arrives before Halloween"
+        ],
+        "stock": "In Stock",
+        "features": {
+          "ships_from": {
+            "text": "Amazon",
+            "details": {
+              "heading": "Ships from",
+              "content": "Amazon"
+            }
+          },
+          "sold_by": {
+            "text": "Ronglikeji",
+            "details": {
+              "heading": "Sold by",
+              "content": "Ronglikeji"
+            },
+            "link": {
+              "text": "Ronglikeji",
+              "link": "https://www.amazon.com/gp/aw/sp.html/ref=dp_merchant_link?ie=UTF8&seller=AER7MS0VGYCTN&asin=B0F7Y5T78H&ref_=dp_merchant_link&isAmazonFulfilled=1"
+            }
+          },
+          "returns": {
+            "text": "FREE 30-day refund/replacement",
+            "details": {
+              "heading": "FREE 30-day refund/replacement"
+            },
+            "link": {
+              "text": "See exceptions",
+              "link": "https://www.amazon.com/gp/help/customer/display.html/?nodeId=GKQNFKFK5CF3C54B"
+            }
+          },
+          "payment": {
+            "text": "Secure transaction",
+            "details": {
+              "heading": "Your transaction is secure",
+              "content": "We work hard to protect your security and privacy. Our payment security system encrypts your information during transmission. We don’t share your credit card details with third-party sellers, and we don’t sell your information to others. Learn more"
+            },
+            "link": {
+              "text": "Learn more",
+              "link": "https://www.amazon.com/gp/help/customer/display.html?nodeId=201909010"
+            }
+          }
+        }
+      }
+    },
+    "item_specifications": {
+      "brand": "HSHFAMIIY",
+      "color": "Halloween",
+      "surface_recommendation": "Paper",
+      "recommended_uses_for_product": "Scrapbook",
+      "material": "Paper",
+      "theme": "Halloween"
+    },
+    "about_item": [
+      "Halloween Decorations: Halloween party favors, halloween party decorations, halloween stickers, halloween party supplies, halloween goodie bags, halloween gifts, halloween crafts, halloween",
+      "Halloween Stickers: our halloween DIY stickers for kids contain 8 unique design patterns, each of which incorporates classic Halloween elements, such as pumpkins, ghosts, witches and bats, etc., which can effectively enhance the atmosphere of Halloween, and make children feel the festive fun in celebration.",
+      "Halloween Decorations: Halloween stickers for kids are ideal for Halloween decorations and are suitable for decorating homes, classrooms or party venues. Whether it's windows, walls or party table tops, these stickers will instantly add a festive touch and create a mysterious and joyful Halloween environment.",
+      "Halloween Party Favors: Choosing Halloween party favors is no longer difficult! These kids stickers are perfect Halloween favors for handing out to kids at a party for a laugh and a surprise, adding to the interactive fun of the party.",
+      "Halloween Goodie Bags: Halloween stickers are perfect for Halloween classroom gifts for kids, and teachers can use them to reward students for good behavior or as part of a classroom activity to make the holiday fun and inspire creativity as kids learn.",
+      "Halloween Games: Our DIY stickers are more than just decorations, they can also inspire children's creative potential. Children can freely combine different stickers, use their imagination to create unique facial expressions, enjoy the fun of DIY and develop their artistic talent.",
+      "Halloween Crafts：Accompanied by parents, children use these halloween stickers to create, which allows them to be quiet and focused, avoiding jostling and noise. Through this kind of activity, it not only enhances the parent-child relationship, but also develops children's patience and concentration, so that they can find fun in creating.",
+      "Halloween Stickers for Stickers：halloween gifts for teens , halloween stickers for teens, halloween decorations party, halloween party favors for teens, halloween for teens, halloween party decorations"
+    ],
+    "bought_together": [
+      {
+        "position": 1,
+        "title": "Halloween Party Favors,Halloween Stickers,DIY Crafts Stickers for Kids | Kids Halloween Decorations Games Toys Gifts Treats Activities Party Supplies,Halloween Goodie Bags (24 Sheets)",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/815LAo3SYNL._AC_UL70_SR70,70_.jpg",
+        "price": "$7.99",
+        "extracted_price": 7.99,
+        "price_unit": "$0.33/count",
+        "extracted_price_unit": 0.33
+      },
+      {
+        "position": 2,
+        "title": "Play-Doh 30 Pack Spooky Colors, Individually Wrapped 1 Ounce Sticks for Halloween, Trick or Treat, or Fall Seasonal Arts & Crafts for Kids 2+",
+        "link": "https://www.amazon.com/PLAY-DOH-Individually-Wrapped-Halloween-Seasonal/dp/B0DNGDPTL6/ref=pd_aw_fbt_thbs_m_sccl_1_1/144-3790371-9612366?pd_rd_w=mmwpH&content-id=amzn1.sym.9293aa24-5a66-4075-abc8-e7fe8219fbd2&pf_rd_p=9293aa24-5a66-4075-abc8-e7fe8219fbd2&pf_rd_r=TZT3T1W3NMRHXPE4XP5X&pd_rd_wg=jPeJ0&pd_rd_r=8a0a1405-18c5-4eba-8e0b-b0b940ba1a88&pd_rd_i=B0DNGDPTL6&psc=1",
+        "asin": "B0DNGDPTL6",
+        "link_clean": "https://www.amazon.com/PLAY-DOH-Individually-Wrapped-Halloween-Seasonal/dp/B0DNGDPTL6/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0DNGDPTL6&device=mobile&engine=amazon_product&language=en_US&shipping_location=US",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/71T9+EXqTiL._AC_UL70_SR70,70_.jpg",
+        "price": "$12.99",
+        "extracted_price": 12.99
+      },
+      {
+        "position": 3,
+        "title": "Ring Pop Halloween Candy Lollipops, 20 Count, Assorted Flavor Party Favors | Halloween lollipops, individually wrapped, for candy bowls, trick-or-treat bags, and birthday parties",
+        "link": "https://www.amazon.com/Ring-Pop-Individually-Wrapped-Lollipop/dp/B06XGNL1RX/ref=pd_aw_fbt_thbs_m_sccl_1_2/144-3790371-9612366?pd_rd_w=mmwpH&content-id=amzn1.sym.9293aa24-5a66-4075-abc8-e7fe8219fbd2&pf_rd_p=9293aa24-5a66-4075-abc8-e7fe8219fbd2&pf_rd_r=TZT3T1W3NMRHXPE4XP5X&pd_rd_wg=jPeJ0&pd_rd_r=8a0a1405-18c5-4eba-8e0b-b0b940ba1a88&pd_rd_i=B06XGNL1RX&psc=1",
+        "asin": "B06XGNL1RX",
+        "link_clean": "https://www.amazon.com/Ring-Pop-Individually-Wrapped-Lollipop/dp/B06XGNL1RX/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B06XGNL1RX&device=mobile&engine=amazon_product&language=en_US&shipping_location=US",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/81caeWEBoFL._AC_UL70_SR70,70_.jpg",
+        "price": "$8.54",
+        "extracted_price": 8.54,
+        "price_unit": "$0.85/ounce",
+        "extracted_price_unit": 0.85
+      }
+    ],
+    "videos": [
+      {
+        "position": 1,
+        "title": "The Halloween Craft That Keeps Kids Busy!",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/5d37efeb-700a-4a0a-ba13-a6765364c73a/videopreview.jobtemplate.mp4.default.mp4",
+        "thumbnail": "https://m.media-amazon.com/images/I/51ZoEPqUrqL.jpg",
+        "duration": "1:07",
+        "vendor": "Sweet Prime Deals",
+        "vendor_thumbnail": "https://m.media-amazon.com/images/I/51xm8kMuA0L._CR0,0,355,355_._FMjpg_._SL34_.jpg",
+        "date": "Aug 25, 2026"
+      },
+      {
+        "position": 2,
+        "title": "Honest review from a mom and teacher!",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/2145b2c4-301a-458d-973c-4e98b13bd54a/videopreview.jobtemplate.mp4.default.mp4",
+        "thumbnail": "https://m.media-amazon.com/images/I/C1jjY6l+wwL.png",
+        "duration": "1:03",
+        "vendor": "Mommin' Made Easy: simplify the chaos, one cart at a time!",
+        "vendor_thumbnail": "https://m.media-amazon.com/images/I/91u-Jye3P+L._CR0,0,2103,2103_._FMjpg_._SL34_.jpg",
+        "date": "Jul 17, 2025"
+      },
+      {
+        "position": 3,
+        "title": "Cute Activity",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/9ef2404e-e2ed-48c7-b347-9ee7dc9498ac/videopreview.jobtemplate.mp4.default.mp4",
+        "thumbnail": "https://m.media-amazon.com/images/I/61LfvQbMPrL.jpg",
+        "duration": "0:13",
+        "vendor": "outdoor32",
+        "vendor_thumbnail": "https://m.media-amazon.com/images/S/amazon-avatars-global/9670bad5-a971-4179-a561-72a869e1982c._CR109%2C0%2C281%2C281_SX460_._SL34_.jpg",
+        "date": "Jul 1, 2025"
+      },
+      {
+        "position": 4,
+        "title": "Watch to see all the different ways I use these",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/ada21f64-2277-4349-9b4d-9b9f1ba902e2/videopreview.jobtemplate.mp4.default.mp4",
+        "thumbnail": "https://m.media-amazon.com/images/I/91egToB+9VL.jpg",
+        "duration": "0:36",
+        "vendor": "Jamie Rutledge",
+        "vendor_thumbnail": "https://m.media-amazon.com/images/I/91C-9l1ICjL._CR0,0,2316,2316_._FMjpg_._SL34_.jpg",
+        "date": "Jul 28, 2025"
+      },
+      {
+        "position": 5,
+        "title": "Kids Will LOVE These Halloween Stickers!",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/8a5b4555-006e-47fa-b2f7-33b492311779/videopreview.jobtemplate.mp4.default.mp4",
+        "thumbnail": "https://m.media-amazon.com/images/I/81R8niLgQwL.png",
+        "duration": "1:30",
+        "vendor": "Sweet Prime Deals",
+        "vendor_thumbnail": "https://m.media-amazon.com/images/I/51xm8kMuA0L._CR0,0,355,355_._FMjpg_._SL34_.jpg",
+        "date": "Aug 25, 2026"
+      },
+      {
+        "position": 6,
+        "title": "Halloween party favor stickers",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/503c58cf-5306-417a-9aef-9a2f9e5eef38/videopreview.jobtemplate.mp4.default.mp4",
+        "thumbnail": "https://m.media-amazon.com/images/I/61yRzU7r-UL.jpg",
+        "duration": "0:31",
+        "vendor": "Addictedtoagooddeal",
+        "vendor_thumbnail": "https://m.media-amazon.com/images/I/81thR3mI-5L._CR0,0,1024,1024_._FMjpg_._SL34_.jpg",
+        "date": "Sep 30, 2025"
+      },
+      {
+        "position": 7,
+        "title": "Awesome",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/083e8cb9-efe5-4332-b22a-6b2b2e28ef02/videopreview.jobtemplate.mp4.default.mp4",
+        "thumbnail": "https://m.media-amazon.com/images/I/51zqjP0N8pL.jpg",
+        "duration": "0:35",
+        "vendor": "Tricia",
+        "vendor_thumbnail": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SL34_.png",
+        "date": "Aug 15, 2025"
+      },
+      {
+        "position": 8,
+        "title": "Kids love these and they are teacher approved!!",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/05df3271-e152-4fbd-a769-aca7cc8680db/videopreview.jobtemplate.mp4.default.mp4",
+        "thumbnail": "https://m.media-amazon.com/images/I/91AGE6uBhnL.jpg",
+        "duration": "0:39",
+        "vendor": "Reilly's Amazon Finds",
+        "vendor_thumbnail": "https://m.media-amazon.com/images/I/A1-FqN6yODL._CR0,0,2940,2940_._FMjpg_._SL34_.jpg",
+        "date": "Jul 16, 2025"
+      },
+      {
+        "position": 9,
+        "title": "Halloween for the kids",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/a7032482-f465-4412-b58c-5feafa8bb308/videopreview.jobtemplate.mp4.default.mp4",
+        "thumbnail": "https://m.media-amazon.com/images/I/71JuTMmAtaL.jpg",
+        "duration": "0:48",
+        "vendor": "CHRISTINA ORTEGA",
+        "vendor_thumbnail": "https://m.media-amazon.com/images/I/B12fJRIWjFL._CR374,154,800,800_._FMjpg_._SL34_.jpg",
+        "date": "Jul 16, 2025"
+      }
+    ],
+    "product_description": [
+      {
+        "position": 1,
+        "title": "halloween party favors",
+        "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/6afc9ad9-b92c-4753-98e5-eaaab9bcd94b.__CR0,0,970,600_PT0_SX970_V1___.jpg"
+      },
+      {
+        "position": 2,
+        "title": "halloween decorations",
+        "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/3cac348a-0c2b-4713-88ea-2162ddaf64b3.__CR0,0,970,600_PT0_SX970_V1___.jpg"
+      },
+      {
+        "position": 3,
+        "title": "halloween party decorations",
+        "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/0ae835fa-0c8e-43d4-8f37-eac4c7c6ebd2.__CR0,0,970,600_PT0_SX970_V1___.jpg"
+      },
+      {
+        "position": 4,
+        "title": "halloween goodie bags",
+        "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/0421a981-a84c-4c98-b31e-52e367d50351.__CR0,0,970,600_PT0_SX970_V1___.jpg"
+      },
+      {
+        "position": 5,
+        "title": "halloween stickers",
+        "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/4663a982-b258-40eb-90c4-fc32356a3638.__CR0,0,970,600_PT0_SX970_V1___.jpg"
+      },
+      {
+        "position": 6
+      }
+    ],
+    "product_details": {
+      "color": "Halloween",
+      "theme": "Halloween",
+      "subject_character": "Halloween",
+      "product_style": "Halloween",
+      "item_form": "Sheet",
+      "pattern": "Halloween",
+      "shape": "Irregular",
+      "animal_theme": "Halloween Stickers",
+      "seasons": "Halloween",
+      "brand_name": "HSHFAMIIY",
+      "target_audience": "Boys, Girls, Men, Teachers, Teens",
+      "set_name": "Halloween Sticker Set of 24",
+      "age_range_description": "Kid",
+      "manufacturer": "HSHFAMIIY",
+      "model_number": "WSJDIY001",
+      "manufacturer_part_number": "WSJDIY001",
+      "best_sellers_rank": [
+        {
+          "text": "#134 in Toys & Games (See Top 100 in Toys & Games)",
+          "extracted_rank": 134,
+          "link": "https://www.amazon.com/gp/bestsellers/toys-and-games/ref=pd_zg_ts_toys-and-games",
+          "link_text": "See Top 100 in Toys & Games"
+        },
+        {
+          "text": "#4 in Kids' Stickers",
+          "extracted_rank": 4,
+          "link": "https://www.amazon.com/gp/bestsellers/toys-and-games/676735011/ref=pd_zg_hrsr_toys-and-games",
+          "link_text": "Kids' Stickers"
+        }
+      ],
+      "asin": "B0F7Y5T78H",
+      "customer_reviews": "4.8 out of 5 stars 844Reviews",
+      "number_of_pieces": "24",
+      "unit_count": "24 Count",
+      "number_of_items": "24",
+      "size": "8.2 x 5.9 Inch",
+      "surface_recommendation": "Paper",
+      "recommended_uses_for_product": "Scrapbook",
+      "indoor_outdoor_usage": "Indoor",
+      "additional_features": "Halloween Decorations, Halloween Party Favors, Reusable",
+      "material_type": "Paper"
+    },
+    "sponsored_brands": [
+      {
+        "position": 1,
+        "image": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/c866236d-4898-4460-8e61-3a19968fef43._CR0,0,2000,1047_AC_SX414_CB1169409_QL70_.jpg",
+        "name": "Play-Doh",
+        "brand_logo": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/eb9c8408-3ef4-4d2c-9bba-75a68023c418._CR0,0,600,600_AC_SX96_SY40_CB1169409_QL70_.png",
+        "headline": "Party favors that spark imagination",
+        "link": "https://aax-us-east-retail-direct.amazon.com/x/c/JIx4xnK-sksDLEBqEjDqSyYAAAGhZFPSMwEAAAH2AQBvbm9fdHhuX2JpZDUgICBvbm9fdHhuX2ltcDIgICCC7V1b/clv1c_ek-wxXXWVcbaTbWXb9qsChu3EfxHnzj8TQ-t_egJ1d54w1DNTXwFk8j74YQgzKXF3_WLNMN9zFfaFO6btiUpLS42qJOK-9UIOCdGL93VGPwyD3GNcgBCbof5-9_0BjO2ZgDK6DIUvs7T9rg3jWpU_0Lfop0clVf7msrit--6nYccQH0RDRFhyVQFNqw6h9y6xqbaT2Jvh-epluNgvkWgqty3tlUPLGacCm40PXBr1TygjCB2HPmtx2MKdXVu-X5JUgggaY77sDjaMQxK2FShv6Lqopifp7IXCSlYYwoN04MO9HcufBGfkVOtgvMwJdWtpg5g45wpoVkZxkLsyEiFWesU8sxjrdcC_HcjhoipfKu-XMvmT-xfWXBY769mIrtBlJJBw2G9G_HWtxDm0-3pqmDCFKP3mNYhmm-qtB0-rJlIc-VTaSAr8DQHNTOYOjXAIcEglWdS52R1EwI1FjkjuCOmwp8zRB_WF6AXpcZMuNYrFgc2NugPUslg909j5KY9OFygbwCCx_JqZjPoxDtKnXSyk3Xc8HnaUVl-0H03Tg6wH5C7fp3D9z4uernBhcOS-OVkrHnTAqQzu1sd7OMJQF2NnN8XRSpzWVkz049KqRY5z9Z5HrV0U5DX4Tszx60RUt-F-HMHX3uS0zi0KiQPgpAkUa8Zd5-YW9BfjUIjX3ShC_51Q5qCdfWRT09IpYv6d2i4Cd87jpFm2dlQyL1Ja9UFiESf4dBItrNqRJEXwz_pRPE68P6v0kMUv3V_KsENCmpU45PgvKUGingPk2Kmv65K96q4efv3wxOU7TsnAUccmPWQICXi5H31pVXWS2zgKwo8FerwKgjz1zdZupy4nZQEH38QWV4SFFBOxFjHGa8AtikS5ANYbRcz6skosfY_9yD9YntahjgxPb4qv4DFekBtcm60O8aGJTVJFdmbk66Y-wb2cCeSa8YUU5O82lfSW6kWpKNrRRakkE9QiSIVsnpfKtvCEg9DlMLafNuPMn4pHWVlcpHjMW5ut9P-w2yd1GysqZvcv9SqERDNccGZGsJxP_ipZv1wVDYhxIal_xDb4m0T_64kSgLNE56Rj3gMgxf_c5wmzjtF7OqhS13NFb8pPHbGiShefdpwgTnKVZVogSH7QXJhb8lFzldGAqBEnOIHS3BQX64k6QWeAjYp0i9CiAiNDfu_2dtrCXzyfIUvSyPIRLrlKKtn7dxzlzCNjWIotkCs1jlxZDkxpY-vSjHSBLNmsW-H_-OWByq4hr8eHucRx4BTsgph0MR3kgcuqV4LJwUo2F2xyynuW9rfA3Qy1hSZWRuAUoa4fUf0PM1C6Gix6-QSReDIMBRUTirSjAyAO_AF-UWZWVbZAE7YSdGXr_lZqF9qT8ulJdj6_B-plpWUEo2mJJkkBFJ8hnevwbIGfv2czC2oj60u7b7yuRG0fRW3K63bJwsXmEbD1tFi5w9Wv36rTqwUpPXvRLeEQNLX6sQtrUC4Z33nngbKQd7CiSvuYXd8mGAUEEHuVarGzZ5fUsUC5fZ1lbVH_jRYkro9tpesvxf8L8-_qqGFWMRvFhAZGfhT6nIIw2qSVUwyMkr2ciQyvH5_c_ZJkXHYw30mofFuAQrCaCJ5qFR_B2x7TCQ9Ju3ZZs7hZTKnoUifNw/https://www.amazon.com/stores/page/99D6EE4A-057F-4921-84C5-067F224504D3/?_encoding=UTF8&store_ref=SB_A0808402SPH782RMAH6E-A01964361JGNT3CZK4WW7&pd_rd_plhdr=t&aaxitk=1e4ba9d6c6d461c205c0cd404e6eb87f&hsa_cr_id=0&lp_slot=mobile-arbies&lp_page_asin=B0F7Y5T78H&pd_rd_i=ad1&ref_=sbx_be_dp_arbies_mblsm_mb0_bkgd&pd_rd_w=0zW5A&content-id=amzn1.sym.a0cf6175-49ce-4c72-8721-b2bed4d3a00e&pf_rd_p=a0cf6175-49ce-4c72-8721-b2bed4d3a00e&pf_rd_r=TZT3T1W3NMRHXPE4XP5X&pd_rd_wg=jPeJ0&pd_rd_r=8a0a1405-18c5-4eba-8e0b-b0b940ba1a88"
+      },
+      {
+        "position": 2,
+        "image": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/4bccdcfa-6f91-47c2-b6ed-b2940858c0b0._CR0,477,2000,1047_AC_SX414_CB1169409_QL70_.jpg",
+        "name": "PartySticks",
+        "brand_logo": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/7164cb24-1e1f-4391-8341-9407cfbd966b._CR0,0,500,500_AC_SX96_SY40_CB1169409_QL70_.png",
+        "headline": "Party Brighter with Long Lasting Glow Sticks",
+        "link": "https://aax-us-east-retail-direct.amazon.com/x/c/JO5W9t_ePx0uHhkDIg9q5KcAAAGhZFPSNQEAAAH2AQBvbm9fdHhuX2JpZDUgICBvbm9fdHhuX2ltcDIgICCgg0Yo/clv1c_ek-YBfHXFbbWzjO3YivOrRfcuU2CmFlbTLjNcaVa39qRzJTlHdt3QU0_xEhpnXuWe6wLBgnNY2ngZYBrgpNeUAFLqJSPI8r96QBvemiZA_wsTRmKHqzqfliU29m3onY9Pyh9sfxf0YC0wCUV5b1U2seZqfncF1f2sBTc-8ca7eQdUEExBkxLMkjmxKv6irCiUXlxF3EKnQ7W45DN5unB9KEPeN09GEiwlcHycbM859bBcHg6S81MGjRHykCqWWIXOOjnf8yUbfJj1RMTNzTvWgUyI72Tnj9zB94Czcu4yrhuIAQ1iyYBjHldD_ddFAcwFs7pjkjduy_ijZLsXq9DWJSGf9y-9e9Pwwk_w5kabh8R3czSrFbOBCLgLMjv3rDBKz0mKarHhXM6-jBOO263qIq0b09dY2v_kZN-OvodAecBWiIbjnxRxW4i3waz3zRJI2pJJ6MmxJ2hjyND8Drne5nBLk13H-z5L7zTeU9wlowLLTl3se9rc_EtvDcdrLaFg1dXvjuDZvfl9_lK-hFdrw8tCkttBxSAz8G_QkpzNe4vtJJF_iuSGkjCbxiB1INN0sFYX7V-aXds8N6ZZBLcZVUqdezzkBD8oAV2iK__OZ5555W4n9JF5t-UzWjvKt8qbQb9ocN0qFjFDWiVCTkZBcxtAYU6S0TUas7xfWNwYtRGUjRZYR5wKkS6OJMU2Btserlkjubjzw-LYZZ4ugamgzpzgcaa_JzKLTy6oTX-JmV0DOD0mwpjsvCyY6BR_m2Rwn4oqJu9As8d2SMELI2F5yRFDwXtdWW6bAgNPl-AwITi377vT3Ck1d1NUSEW0tZnvQAfVGif3Y2PQ_i4iYLmN3s7raBaODCjr1EEd7Auoxrag7_3llixpz0uHyvHSz3vq-AaQ8HycxJNVTfP9W8PNewb2ve8fXc33k2xgt--PVBLI5rsKaDcNknxG_gpOUjj3zqYH2m_gbNZ0UixZLkbFWPte2E0wnze_UCpC5mYr6RXPy8OdegSMWgVAFZIeqxX2mJG9C449H-94En7ireXmbH_Vxj1P8hCHyk-D3iV-uaRHqda-F8KLcXQ2nGRLNgT-Uf9z_Mda1oJgwTbv5JfloyRj-tUsrzTlW20utSZhI7Pir1xk1rB02kmb5HzI7RpYSDkbVOVg1QAWoePC7NuW5xVdbF1aQgUTD__4OiOe10hlyNsaEj7z3Tq0_fTnvW3DE9L433uWcjAS1tuHD2_CzBzNvkqDwNJzUf3_K-ClaxTDIp_QfFoYQJ4i7mXwEJ3uWJSNSvmPqoVoNnogENuxlhYon_24QyvLoBXd8GWAvaR6vZc0zjRs90FjWZiE9uwl_B3DYmTFDPdf6yIRE1nQGZepBg1Ds4GD4LyEYonBGwsloakme_QThQ19MyfvF1Md-NR0GVuXrTKZWSuXE2OSPKyPlkiSFznU22fSRF_4ZSAhN6zMQ4M7fd2VwkGQUDuxjqtDXk1UYKUpSl5MKExsB30W8FyN9d_w4HjxJbQOL7CfgJ3S5QLhkv2GYi6bxheh1Qmb_9Q5VGwFafJ0e7zqXzfH0vD6TYCjMtUPbOGPGQzY6RSeuekFFwwtHpiVa74zCvzWyslFw/https://www.amazon.com/stores/page/15746303-4DB5-4C6C-9A48-90836768C00B/?_encoding=UTF8&store_ref=SB_A0376788906UPQO04S0R-A069534320U82CTI0ZO2I&pd_rd_plhdr=t&aaxitk=6342f07ef27dac3d87a5c48a360125a7&hsa_cr_id=0&lp_slot=mobile-arbies&lp_page_asin=B0F7Y5T78H&pd_rd_i=ad2&ref_=sbx_be_dp_arbies_mblsm_mb1_bkgd&pd_rd_w=0zW5A&content-id=amzn1.sym.a0cf6175-49ce-4c72-8721-b2bed4d3a00e&pf_rd_p=a0cf6175-49ce-4c72-8721-b2bed4d3a00e&pf_rd_r=TZT3T1W3NMRHXPE4XP5X&pd_rd_wg=jPeJ0&pd_rd_r=8a0a1405-18c5-4eba-8e0b-b0b940ba1a88"
+      },
+      {
+        "position": 3,
+        "image": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/101b9287-8ffe-477a-bd30-7a198fd8fa2e._CR0,76,1600,837_AC_SX414_CB1169409_QL70_.jpg",
+        "name": "DothRayan",
+        "brand_logo": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/4f8347b2-15ac-4bcd-9563-5a3f726ff4c0._CR0,0,400,400_AC_SX96_SY40_CB1169409_QL70_.jpg",
+        "headline": "Holiday stickers and crowns",
+        "link": "https://aax-us-east-retail-direct.amazon.com/x/c/JEZURlP6BxMP4tNAR_2uGKMAAAGhZFPSNgEAAAH2AQBvbm9fdHhuX2JpZDUgICBvbm9fdHhuX2ltcDIgICDN_qjF/clv1c_ek-wxfXWVcbWTLWXb9qsChu3EfxHnzj8TQ-t_btMtN6IYZnNJllRbf_Rr-tNNJJT7uzQuQQ6GggwATkFNr8pTpfVJaRAvDnW2TcjTOWO1I0mh_D7PFIJtRa4ZPBkjqJQGyrnZ1bUe8OS4P5AKaSvvPKroN6avnEqywwQrnToS4Y9dXOqQYptmFqAhNMSPCk3qb3Q9yrJmArVgd7J9yiZYC4PnB18J1yiE6P9jEw18URCD9vb0ol9ufA2f0REzwXgSgwOevP_ToUVumphCTuIabcGUjWXSD0g6qGtQGzG8c2_ejFgOMgvGzSBJpN0xbvSpVqNGh9C1XUMTc6P1eLu5OZAOMqJJ21hgVMZ6wQSDNc-s6gj2c2RIpRf3bXhbbE5y9CiX9THcI5cCt5F-H6zitf6BEdNJ3b1H3GeVvR3g19tFvnusXwEcA8AElDugLyB7GqEbATUF8CqpBDND5qFRT0olxg8053LAu41Tw2NnAIeHiwnov5uZb9D0kcdKoeFw01q_uD8FvfjyHlL_NYWsXg6uU-TE0xG5l37bNImXhKwdz8WFTOOFE4AVxih1LtV1cBYl7LK-B8prt11idgUhkqsw0v6ESD80hV2-GyeZUa0koyrUIZGsbiz3rUr6A5bruhcNIrZTC6AR0xXMq6TWgkU0-iOnR5Z7XcelhTkiBkdUrooB--fhPcyA7t29vnYr9WeTdeY-FZJm-wJWLA5vcW0yz2QSa6C55NqVcQ5tpn3ZI0dlYvIuFwghTCh3HG5Q2_1a420ZByBlUTZ9BQ1XVwD0gxZytdJxcGOqKoQwkWsq7IERJNIOMcsZO8SG8z7YJauo1wxq-zRgtYOfI4v-NgN9-S_MPCiQuMUaAl79L0Zp6JnCZ-ur5d-46xd6o2-a_2vDnhQ5NyY--plf7VK6oG_hw-dYAnnn5IPDoAed7DWjnbVjSguE0oRrFXf9Nq4h-bvAeqesXW2rpKCZGFZ090OzE6cgYM8nwq7pqbuOwGdFYUFpVgsLHHJqn75RZqDaOxP3dsp5uMCAnNkUmd3JkcBwiYNyqfqQzMVI7gg2nyGOKzJS7cMhMhwj7RTNa9FnHld0u0YzQl4sR-42Yw9hTdivE-vYI4VNT4O6m95sZM3n1otzLhdUlrORNaDqtaVS0DoICOvUhSojqWhG6C8ZoadCVWAzUfFWCH38KMAQzJpB91CaFjQ-Y_xH6IpZBHXZqJtQW4XNI4C42Wbt1Ih_vf3cmAatyDZ0KHL1H3YuSt9d9LqN06RKCVHvV2ZGYLW0nhSj7uAVYsNT6Hco6ZYXeh9gAjkJltmlE4Fv3naFCyjp3n8ApDXgIeKVswG45R_hls0AiaKLfzm9CfAjv_P6vDwRMiheyLkJFWcZjFPLEmbhmEurpKD29crQ9o3XEZm5iAHFatsXOv8loBvq6rl-nG0v7BseqA19kgPTD-Ozdn9FfyuIdwOBxSrYhkDn99sU5Sfcc_yRISDR_A0BrGLR0o3cdcXdRbx_BbJvIv_Qblk3yOOE2XicR1p6v0lBJdQYh10cLvPkZ7te7Puij9jpY2gpEpFvP8e3_G40QnicEDndHVFNjQB1i-aDgKQ10IcOKxE30SWUhE_Aqy986evzOpM/https://www.amazon.com/stores/page/CE0C7ECD-16B4-4C2D-B424-67835E41D413/?_encoding=UTF8&store_ref=SB_A1002387302B2BATCI3CX-A09854631QXIJ9ZJFGM7J&pd_rd_plhdr=t&aaxitk=cca89603746238ef89431486d3108456&hsa_cr_id=0&lp_slot=mobile-arbies&lp_page_asin=B0F7Y5T78H&pd_rd_i=ad3&ref_=sbx_be_dp_arbies_mblsm_mb2_bkgd&pd_rd_w=0zW5A&content-id=amzn1.sym.a0cf6175-49ce-4c72-8721-b2bed4d3a00e&pf_rd_p=a0cf6175-49ce-4c72-8721-b2bed4d3a00e&pf_rd_r=TZT3T1W3NMRHXPE4XP5X&pd_rd_wg=jPeJ0&pd_rd_r=8a0a1405-18c5-4eba-8e0b-b0b940ba1a88"
+      }
+    ],
+    "reviews_information": {
+      "summary": {
+        "text": "Customers find these Christmas stickers entertaining, particularly as class holiday activities, and appreciate their appearance, quality, and value for money. The stickers come in great variety with multiple sheets of each character, and customers find them easy to use, with one noting they're suitable for young kids. The adhesiveness receives mixed feedback - while some say the stickiness is good, others mention they don't stick well.",
+        "insights": [
+          {
+            "title": "Entertaining",
+            "sentiment": "positive",
+            "mentions": {
+              "total": 93,
+              "positive": 93,
+              "negative": 0
+            },
+            "summary": "Customers find these stickers entertaining, with kids enjoying them as a fun craft activity, particularly suitable for class holiday projects.",
+            "examples": [
+              {
+                "position": 1,
+                "snippet": "Super cute & fun! My daughter will do these all day if I let her! These ones are a bit smaller but a good value! So much fun for the littles!",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R3VWZ4EUYDE9DV"
+              },
+              {
+                "position": 2,
+                "snippet": "Fun for kids",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/REHQ3VDZ8XYNW"
+              },
+              {
+                "position": 3,
+                "snippet": "Very cute. Kids love these",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R36519X962EOVW"
+              },
+              {
+                "position": 4,
+                "snippet": "Gave them out when Santa came to town for all the kids. They loved them.",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R3CDVWLM9TPERI"
+              }
+            ]
+          },
+          {
+            "title": "Appearance",
+            "sentiment": "positive",
+            "mentions": {
+              "total": 56,
+              "positive": 56,
+              "negative": 0
+            },
+            "summary": "Customers love the appearance of these stickers, finding them cute and noting that the quality matches the pictures shown.",
+            "examples": [
+              {
+                "position": 1,
+                "snippet": "simple easy to use, stickers were adjustable and cute. was a great prize for my classroom",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R2HCQR95WOIUEK"
+              },
+              {
+                "position": 2,
+                "snippet": "These were so cute! Perfect gift for my sons preschool class and plenty left over for my kids to play with afterwards and it’s such a good price.",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/RAOWW9WCRY31H"
+              },
+              {
+                "position": 3,
+                "snippet": "These were so fun for the kids for Thanksgiving! Great quality, the stickers all come off so nicely and dont tear. Will buy again!",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R34WGA1XXURZA4"
+              },
+              {
+                "position": 4,
+                "snippet": "Super cute & fun! My daughter will do these all day if I let her! These ones are a bit smaller but a good value! So much fun for the littles!",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R3VWZ4EUYDE9DV"
+              }
+            ]
+          },
+          {
+            "title": "Quality",
+            "sentiment": "positive",
+            "mentions": {
+              "total": 27,
+              "positive": 23,
+              "negative": 4
+            },
+            "summary": "Customers find these stickers to be of good quality, describing them as great stocking stuffers that are always a big hit.",
+            "examples": [
+              {
+                "position": 1,
+                "snippet": "These are great but I did not use them as stocking stuffers!...",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R3BRTH1YYFT6Q5"
+              },
+              {
+                "position": 2,
+                "snippet": "Great stickers, my kids spent a long time playing with them.",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R1NBO49GAT9UOM"
+              },
+              {
+                "position": 3,
+                "snippet": "...Highly recommend for any parent looking for engaging, creative activities!",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R3RDJ3QCCJOG1U"
+              },
+              {
+                "position": 4,
+                "snippet": "Love these sticker sets!!",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R201ZEBHRO8YXC"
+              }
+            ]
+          },
+          {
+            "title": "Value for money",
+            "sentiment": "positive",
+            "mentions": {
+              "total": 26,
+              "positive": 26,
+              "negative": 0
+            },
+            "summary": "Customers find the stickers to be good value for money, with multiple customers saying they will buy them again, and one mentioning there are many stickers included for the price.",
+            "examples": [
+              {
+                "position": 1,
+                "snippet": "The kids love these! 7, 4 & 2!! Fun and were a good price! Also good for the littlest with placement.",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R36MEWMQNCX258"
+              },
+              {
+                "position": 2,
+                "snippet": "...Great quality, the stickers all come off so nicely and dont tear. Will buy again!",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R34WGA1XXURZA4"
+              },
+              {
+                "position": 3,
+                "snippet": "Wow !! So many stickers for the price ! I used it in a Christmas guessing game instead of candy! Grandkids loved it !",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/RASL2EG77BEBV"
+              },
+              {
+                "position": 4,
+                "snippet": "Great value and perfect for stocking stuffers",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R27BRXUDU2FG25"
+              }
+            ]
+          },
+          {
+            "title": "Easy to use",
+            "sentiment": "positive",
+            "mentions": {
+              "total": 12,
+              "positive": 12,
+              "negative": 0
+            },
+            "summary": "Customers find the stickers easy to use, with one mentioning they work well for young kids and another noting they can be assembled with just three pieces and paper.",
+            "examples": [
+              {
+                "position": 1,
+                "snippet": "These are super cute for the kids. They're an easy, fun craft for Christmas time!",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R2G6M61LX5EFRN"
+              },
+              {
+                "position": 2,
+                "snippet": "...Very cute and kept the toddlers busy! Even I had fun putting them together. Great for a holiday craft!",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R3NSLI8JKSSWIA"
+              },
+              {
+                "position": 3,
+                "snippet": "...They are easy to apply and have a variety of designs. I was impressed with the quality and I think it is a good value for the money....",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/RLJUR7FTLNYLZ"
+              },
+              {
+                "position": 4,
+                "snippet": "...Kept them busy and easy to use.",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/RRRGLFUOXFHLZ"
+              }
+            ]
+          },
+          {
+            "title": "Size",
+            "sentiment": "positive",
+            "mentions": {
+              "total": 11,
+              "positive": 9,
+              "negative": 2
+            },
+            "summary": "Customers like the size of these stickers, with one mentioning they are large enough for their needs.",
+            "examples": [
+              {
+                "position": 1,
+                "snippet": "Great size and colors!",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R2R2N6L27G6W0N"
+              },
+              {
+                "position": 2,
+                "snippet": "Larger than expected great way to keep kids busy waiting for dinner",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/RN4MEN3M5USLR"
+              },
+              {
+                "position": 3,
+                "snippet": "Loved these! They are good size and the kids had fun making crazy bunnies!",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R1YQUEP30W6TYM"
+              },
+              {
+                "position": 4,
+                "snippet": "Nice size sticker sheets for repeat fun. Children can decorate the face with various eyes, mouths, and other things....",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R1K5OYLOW1JBDE"
+              }
+            ]
+          },
+          {
+            "title": "Variety",
+            "sentiment": "positive",
+            "mentions": {
+              "total": 9,
+              "positive": 9,
+              "negative": 0
+            },
+            "summary": "Customers appreciate the variety of these Christmas stickers, with multiple sheets available for each character, and one customer specifically mentions the abundance of different turkey faces, feathers, decorations, and accessories.",
+            "examples": [
+              {
+                "position": 1,
+                "snippet": "...There was a penguin, snowman, gingerbread, and tree to name a few. Great variety!",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R1RLXD5WQCFF4P"
+              },
+              {
+                "position": 2,
+                "snippet": "Very cute, awesome variety, and excellent color quantity....",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/RY6BVDDY9FT31"
+              },
+              {
+                "position": 3,
+                "snippet": "...They are easy to apply and have a variety of designs. I was impressed with the quality and I think it is a good value for the money....",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/RLJUR7FTLNYLZ"
+              },
+              {
+                "position": 4,
+                "snippet": "...The variety of stickers in this set is fantastic - there are so many different turkey faces, feathers, decorations, and accessories that she could...",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R3RDJ3QCCJOG1U"
+              }
+            ]
+          },
+          {
+            "title": "Adhesiveness",
+            "sentiment": "mixed",
+            "mentions": {
+              "total": 12,
+              "positive": 8,
+              "negative": 4
+            },
+            "summary": "Customers have mixed opinions about the stickers' adhesiveness, with some finding the stickiness good while others report that they don't stick properly.",
+            "examples": [
+              {
+                "position": 1,
+                "snippet": "...The colors are bright, they’re easy to peel, and they’ve been a great little activity to keep on hand. I’d definitely buy them again.",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R25Y74KWZCVGIN"
+              },
+              {
+                "position": 2,
+                "snippet": "These are cute and I love the idea of them. They don’t stick well....",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R1A3NSFKSSA5NA"
+              },
+              {
+                "position": 3,
+                "snippet": "...Item arrived quickly and was exactly as described. The stickers are easy to peel and apply",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R22MG2RLNDZ8AY"
+              },
+              {
+                "position": 4,
+                "snippet": "Bright pictures just the right amount of stickiness!",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/RVNNWRJ3K2OM3"
+              }
+            ]
+          },
+          {
+            "title": "Entertaining",
+            "sentiment": "positive",
+            "mentions": {
+              "total": 93,
+              "positive": 93,
+              "negative": 0
+            },
+            "summary": "Customers find these stickers entertaining, with kids enjoying them as a fun craft activity, particularly suitable for class holiday projects.",
+            "examples": [
+              {
+                "position": 1,
+                "snippet": "Super cute & fun! My daughter will do these all day if I let her! These ones are a bit smaller but a good value! So much fun for the littles!",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R3VWZ4EUYDE9DV"
+              },
+              {
+                "position": 2,
+                "snippet": "Fun for kids",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/REHQ3VDZ8XYNW"
+              },
+              {
+                "position": 3,
+                "snippet": "Very cute. Kids love these",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R36519X962EOVW"
+              },
+              {
+                "position": 4,
+                "snippet": "Gave them out when Santa came to town for all the kids. They loved them.",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R3CDVWLM9TPERI"
+              }
+            ]
+          },
+          {
+            "title": "Appearance",
+            "sentiment": "positive",
+            "mentions": {
+              "total": 56,
+              "positive": 56,
+              "negative": 0
+            },
+            "summary": "Customers love the appearance of these stickers, finding them cute and noting that the quality matches the pictures shown.",
+            "examples": [
+              {
+                "position": 1,
+                "snippet": "simple easy to use, stickers were adjustable and cute. was a great prize for my classroom",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R2HCQR95WOIUEK"
+              },
+              {
+                "position": 2,
+                "snippet": "These were so cute! Perfect gift for my sons preschool class and plenty left over for my kids to play with afterwards and it’s such a good price.",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/RAOWW9WCRY31H"
+              },
+              {
+                "position": 3,
+                "snippet": "These were so fun for the kids for Thanksgiving! Great quality, the stickers all come off so nicely and dont tear. Will buy again!",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R34WGA1XXURZA4"
+              },
+              {
+                "position": 4,
+                "snippet": "Super cute & fun! My daughter will do these all day if I let her! These ones are a bit smaller but a good value! So much fun for the littles!",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R3VWZ4EUYDE9DV"
+              }
+            ]
+          },
+          {
+            "title": "Quality",
+            "sentiment": "positive",
+            "mentions": {
+              "total": 27,
+              "positive": 23,
+              "negative": 4
+            },
+            "summary": "Customers find these stickers to be of good quality, describing them as great stocking stuffers that are always a big hit.",
+            "examples": [
+              {
+                "position": 1,
+                "snippet": "These are great but I did not use them as stocking stuffers!...",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R3BRTH1YYFT6Q5"
+              },
+              {
+                "position": 2,
+                "snippet": "Great stickers, my kids spent a long time playing with them.",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R1NBO49GAT9UOM"
+              },
+              {
+                "position": 3,
+                "snippet": "...Highly recommend for any parent looking for engaging, creative activities!",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R3RDJ3QCCJOG1U"
+              },
+              {
+                "position": 4,
+                "snippet": "Love these sticker sets!!",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R201ZEBHRO8YXC"
+              }
+            ]
+          },
+          {
+            "title": "Value for money",
+            "sentiment": "positive",
+            "mentions": {
+              "total": 26,
+              "positive": 26,
+              "negative": 0
+            },
+            "summary": "Customers find the stickers to be good value for money, with multiple customers saying they will buy them again, and one mentioning there are many stickers included for the price.",
+            "examples": [
+              {
+                "position": 1,
+                "snippet": "The kids love these! 7, 4 & 2!! Fun and were a good price! Also good for the littlest with placement.",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R36MEWMQNCX258"
+              },
+              {
+                "position": 2,
+                "snippet": "...Great quality, the stickers all come off so nicely and dont tear. Will buy again!",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R34WGA1XXURZA4"
+              },
+              {
+                "position": 3,
+                "snippet": "Wow !! So many stickers for the price ! I used it in a Christmas guessing game instead of candy! Grandkids loved it !",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/RASL2EG77BEBV"
+              },
+              {
+                "position": 4,
+                "snippet": "Great value and perfect for stocking stuffers",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R27BRXUDU2FG25"
+              }
+            ]
+          },
+          {
+            "title": "Easy to use",
+            "sentiment": "positive",
+            "mentions": {
+              "total": 12,
+              "positive": 12,
+              "negative": 0
+            },
+            "summary": "Customers find the stickers easy to use, with one mentioning they work well for young kids and another noting they can be assembled with just three pieces and paper.",
+            "examples": [
+              {
+                "position": 1,
+                "snippet": "These are super cute for the kids. They're an easy, fun craft for Christmas time!",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R2G6M61LX5EFRN"
+              },
+              {
+                "position": 2,
+                "snippet": "...Very cute and kept the toddlers busy! Even I had fun putting them together. Great for a holiday craft!",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R3NSLI8JKSSWIA"
+              },
+              {
+                "position": 3,
+                "snippet": "...They are easy to apply and have a variety of designs. I was impressed with the quality and I think it is a good value for the money....",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/RLJUR7FTLNYLZ"
+              },
+              {
+                "position": 4,
+                "snippet": "...Kept them busy and easy to use.",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/RRRGLFUOXFHLZ"
+              }
+            ]
+          },
+          {
+            "title": "Size",
+            "sentiment": "positive",
+            "mentions": {
+              "total": 11,
+              "positive": 9,
+              "negative": 2
+            },
+            "summary": "Customers like the size of these stickers, with one mentioning they are large enough for their needs.",
+            "examples": [
+              {
+                "position": 1,
+                "snippet": "Great size and colors!",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R2R2N6L27G6W0N"
+              },
+              {
+                "position": 2,
+                "snippet": "Larger than expected great way to keep kids busy waiting for dinner",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/RN4MEN3M5USLR"
+              },
+              {
+                "position": 3,
+                "snippet": "Loved these! They are good size and the kids had fun making crazy bunnies!",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R1YQUEP30W6TYM"
+              },
+              {
+                "position": 4,
+                "snippet": "Nice size sticker sheets for repeat fun. Children can decorate the face with various eyes, mouths, and other things....",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R1K5OYLOW1JBDE"
+              }
+            ]
+          },
+          {
+            "title": "Variety",
+            "sentiment": "positive",
+            "mentions": {
+              "total": 9,
+              "positive": 9,
+              "negative": 0
+            },
+            "summary": "Customers appreciate the variety of these Christmas stickers, with multiple sheets available for each character, and one customer specifically mentions the abundance of different turkey faces, feathers, decorations, and accessories.",
+            "examples": [
+              {
+                "position": 1,
+                "snippet": "...There was a penguin, snowman, gingerbread, and tree to name a few. Great variety!",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R1RLXD5WQCFF4P"
+              },
+              {
+                "position": 2,
+                "snippet": "Very cute, awesome variety, and excellent color quantity....",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/RY6BVDDY9FT31"
+              },
+              {
+                "position": 3,
+                "snippet": "...They are easy to apply and have a variety of designs. I was impressed with the quality and I think it is a good value for the money....",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/RLJUR7FTLNYLZ"
+              },
+              {
+                "position": 4,
+                "snippet": "...The variety of stickers in this set is fantastic - there are so many different turkey faces, feathers, decorations, and accessories that she could...",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R3RDJ3QCCJOG1U"
+              }
+            ]
+          },
+          {
+            "title": "Adhesiveness",
+            "sentiment": "mixed",
+            "mentions": {
+              "total": 12,
+              "positive": 8,
+              "negative": 4
+            },
+            "summary": "Customers have mixed opinions about the stickers' adhesiveness, with some finding the stickiness good while others report that they don't stick properly.",
+            "examples": [
+              {
+                "position": 1,
+                "snippet": "...The colors are bright, they’re easy to peel, and they’ve been a great little activity to keep on hand. I’d definitely buy them again.",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R25Y74KWZCVGIN"
+              },
+              {
+                "position": 2,
+                "snippet": "These are cute and I love the idea of them. They don’t stick well....",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R1A3NSFKSSA5NA"
+              },
+              {
+                "position": 3,
+                "snippet": "...Item arrived quickly and was exactly as described. The stickers are easy to peel and apply",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R22MG2RLNDZ8AY"
+              },
+              {
+                "position": 4,
+                "snippet": "Bright pictures just the right amount of stickiness!",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/RVNNWRJ3K2OM3"
+              }
+            ]
+          }
+        ]
+      },
+      "authors_reviews": [
+        {
+          "position": 1,
+          "title": "Family fun activity.",
+          "text": "I enjoyed doing these with my Granddaughter. She loves sticker activities and these Halloween characters were a lot of fun. They are easy to apply and have a variety of designs. I was impressed with the quality and I think it is a good value for the money. Any characters we don’t use, I will probably put in my trick or treat bowl.",
+          "rating": 5.0,
+          "date": "September 24, 2026",
+          "author": "Danielle W",
+          "author_link": "https://www.amazon.com/gp/profile/amzn1.account.AGN7PNJ5NNAQINBEV2MRBIGJ5ZAA?ref=cm_cr_dp_mb_bdcrb_top",
+          "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SX110_.png",
+          "verified_purchase": true,
+          "product": {
+            "color": "Halloween"
+          }
+        },
+        {
+          "position": 2,
+          "title": "My Daughter Absolutely Loved These!",
+          "text": "My daughter absolutely loved these Thanksgiving stickers! She was so excited when they arrived and immediately wanted to start creating. The variety of stickers in this set is fantastic - there are so many different turkey faces, feathers, decorations, and accessories that she could make each turkey completely unique. The quality of the stickers is excellent - they're colorful, vibrant, and stuck well to paper without being difficult to peel or reposition. We spent hours together making different turkey characters, and she was so proud of her creations. She made turkeys for all her grandparents and even decorated placecards for our Thanksgiving table. The stickers sparked her creativity and kept her entertained for a long time, which as a parent is priceless! The set provided great value with plenty of stickers for multiple craft sessions. It was a wonderful hands-on activity that got her excited about the holiday. She loved mixing and matching the different features to give each turkey its own personality. These stickers are perfect for Thanksgiving crafts, classroom activities, or just creative play. My daughter asks to use them constantly and has already requested more craft sticker sets. Highly recommend for any parent looking for engaging, creative activities!",
+          "rating": 5.0,
+          "date": "December 19, 2025",
+          "author": "Palmetto Dan",
+          "author_link": "https://www.amazon.com/gp/profile/amzn1.account.AHGRORJPMX5SPIGOGMVP4VFMA7GA?ref=cm_cr_dp_mb_bdcrb_top",
+          "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SX110_.png",
+          "helpful_votes": "2 people found this helpful",
+          "verified_purchase": true,
+          "product": {
+            "color": "Thanksgiving"
+          }
+        },
+        {
+          "position": 3,
+          "title": "Great Christmas Craft",
+          "text": "These are super cute for the kids. They're an easy, fun craft for Christmas time!",
+          "rating": 5.0,
+          "date": "October 16, 2026",
+          "author": "Nunnya",
+          "author_link": "https://www.amazon.com/gp/profile/amzn1.account.AECXRNYDZGWSQNBP7P4Y7BTFZZPA?ref=cm_cr_dp_mb_bdcrb_top",
+          "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SX110_.png",
+          "verified_purchase": true,
+          "product": {
+            "color": "Christmas"
+          }
+        },
+        {
+          "position": 4,
+          "title": "Kids loved em!",
+          "text": "These were super fun...I still have some left over for this christmas. My nieces couldn't get enough of them and even my 2 year old son could put them together and loved em.",
+          "rating": 5.0,
+          "date": "September 10, 2026",
+          "author": "Mike Nielson",
+          "author_link": "https://www.amazon.com/gp/profile/amzn1.account.AGLY5RIEORHLM5EHUBLYW7EHJOTQ?ref=cm_cr_dp_mb_bdcrb_top",
+          "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SX110_.png",
+          "verified_purchase": true,
+          "product": {
+            "color": "Christmas"
+          }
+        },
+        {
+          "position": 5,
+          "title": "Reusable Fun",
+          "text": "Nice size sticker sheets for repeat fun. Children can decorate the face with various eyes, mouths, and other things. Then change them again as often as they like. I especially like things that children can manipulate and change their minds about. Actually moving things around with their hands instead of just tapping on a screen.",
+          "rating": 5.0,
+          "date": "September 27, 2026",
+          "author": "Cameron Tucker",
+          "author_link": "https://www.amazon.com/gp/profile/amzn1.account.AG7NHGPNMWWLFBZRTYKWELHUAZGQ?ref=cm_cr_dp_mb_bdcrb_top",
+          "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SX110_.png",
+          "verified_purchase": true,
+          "product": {
+            "color": "Halloween"
+          }
+        },
+        {
+          "position": 6,
+          "title": "Nice",
+          "text": "Kids love them",
+          "rating": 4.0,
+          "date": "October 4, 2026",
+          "author": "Kristi Ramseyer",
+          "author_link": "https://www.amazon.com/gp/profile/amzn1.account.AGY7FJYDX6RDFCA6JUYGV3OI4RLA?ref=cm_cr_dp_mb_bdcrb_top",
+          "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SX110_.png",
+          "verified_purchase": true,
+          "product": {
+            "color": "Valentines"
+          }
+        },
+        {
+          "position": 7,
+          "title": "Perfect to entertain my grandkids",
+          "text": "I bought these for when my grandkids come over, and they absolutely love them. There are plenty of different animal faces to choose from, so they have fun picking out which stickers they want each visit. The colors are bright, they’re easy to peel, and they’ve been a great little activity to keep on hand. I’d definitely buy them again.",
+          "rating": 5.0,
+          "date": "July 2, 2026",
+          "author": "Jamie L Alvis",
+          "author_link": "https://www.amazon.com/gp/profile/amzn1.account.AFLXOGGYJ35FGFWQ34JZQ5KVLB5A?ref=cm_cr_dp_mb_bdcrb_top",
+          "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SX110_.png",
+          "verified_purchase": true,
+          "product": {
+            "color": "Animal"
+          }
+        },
+        {
+          "position": 8,
+          "title": "Great activity for young kids.",
+          "text": "Good quality. Kept the kids busy all day long.",
+          "rating": 5.0,
+          "date": "August 26, 2026",
+          "author": "mskaren",
+          "author_link": "https://www.amazon.com/gp/profile/amzn1.account.AE3LWSWT3VSEZLLVUEA744DWDX5Q?ref=cm_cr_dp_mb_bdcrb_top",
+          "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SX110_.png",
+          "verified_purchase": true,
+          "product": {
+            "color": "Easter"
+          }
+        }
+      ],
+      "other_countries_reviews": [
+        {
+          "position": 1,
+          "title": "Muy divertido para los peques",
+          "text": "Buen tamaño y variedad de diseños",
+          "rating": 5.0,
+          "date": "December 4, 2025",
+          "author": "BrendaE",
+          "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SX110_.png",
+          "images": [
+            "https://m.media-amazon.com/images/I/61Wbe9oa5aL._SY500_.jpg",
+            "https://m.media-amazon.com/images/I/71C92XzmxtL._SY500_.jpg"
+          ],
+          "verified_purchase": true,
+          "product": {
+            "color": "Thanksgiving"
+          },
+          "country": {
+            "code": "MX",
+            "name": "Mexico"
+          },
+          "language": {
+            "code": "es",
+            "name": "Spanish (Mexico)"
+          }
+        }
+      ]
+    }
+  }
+}

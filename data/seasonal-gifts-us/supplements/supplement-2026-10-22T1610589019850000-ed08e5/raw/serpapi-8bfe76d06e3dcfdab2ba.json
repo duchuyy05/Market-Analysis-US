@@ -1,0 +1,997 @@
+{
+  "provider": "serpapi",
+  "endpoint": "https://serpapi.com/search.json",
+  "parameters": {
+    "engine": "amazon_product",
+    "asin": "B0FNDCYYFP",
+    "amazon_domain": "amazon.com",
+    "language": "en_US",
+    "shipping_location": "US",
+    "device": "mobile",
+    "output": "json"
+  },
+  "fetched_at_utc": "2026-10-22T16:19:08.293765+00:00",
+  "raw_file": "supplements/supplement-2026-10-22T1610589019850000-ed08e5/raw/serpapi-8bfe76d06e3dcfdab2ba.json",
+  "response": {
+    "search_metadata": {
+      "id": "6ada377c24ba0ae47779f5e2",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/1u_SSv3yhIMhXK0pWPrsOeXGe_F94wshBq46375qULQ/6ada377c24ba0ae47779f5e2.json",
+      "markdown_endpoint": "https://serpapi.com/searches/1u_SSv3yhIMhXK0pWPrsOeXGe_F94wshBq46375qULQ/6ada377c24ba0ae47779f5e2.md",
+      "created_at": "2026-10-22 16:19:08 UTC",
+      "processed_at": "2026-10-22 16:19:08 UTC",
+      "amazon_product_url": "https://www.amazon.com/dp/B0FNDCYYFP/?language=en_US",
+      "raw_html_file": "https://serpapi.com/searches/1u_SSv3yhIMhXK0pWPrsOeXGe_F94wshBq46375qULQ/6ada377c24ba0ae47779f5e2.html",
+      "total_time_taken": 8.77
+    },
+    "search_parameters": {
+      "engine": "amazon_product",
+      "asin": "B0FNDCYYFP",
+      "amazon_domain": "amazon.com",
+      "language": "en_US",
+      "device": "mobile",
+      "shipping_location": "US"
+    },
+    "product_results": {
+      "categories": [
+        {
+          "position": 1,
+          "name": "Toys & Games",
+          "link": "https://www.amazon.com/toys/b/ref=m_dp_bc_1?ie=UTF8&node=165793011",
+          "node": "165793011",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=mobile&engine=amazon&language=en_US&node=165793011&shipping_location=US"
+        },
+        {
+          "position": 2,
+          "name": "Party Supplies",
+          "link": "https://www.amazon.com/Party-Supplies-Games/b/ref=m_dp_bc_2?ie=UTF8&node=1266203011",
+          "node": "1266203011",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=mobile&engine=amazon&language=en_US&node=1266203011&shipping_location=US"
+        },
+        {
+          "position": 3,
+          "name": "Party Favors",
+          "link": "https://www.amazon.com/Kids-Party-Favor-Sets/b/ref=m_dp_bc_3?ie=UTF8&node=166044011",
+          "node": "166044011",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=mobile&engine=amazon&language=en_US&node=166044011&shipping_location=US"
+        },
+        {
+          "position": 4,
+          "name": "Multi-Item Party Favor Packs",
+          "link": "https://www.amazon.com/Kids-Multi-Item-Party-Favor-Packs/b/ref=m_dp_bc_4?ie=UTF8&node=23569992011",
+          "node": "23569992011",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=mobile&engine=amazon&language=en_US&node=23569992011&shipping_location=US"
+        }
+      ],
+      "asin": "B0FNDCYYFP",
+      "title": "24PCS Halloween Party Favors, Squishy Toys for Treat or Trick Goodie Bags Pinata Fillers Halloween Boo Basket Stuffers Classroom Prizes Gifts for Kids",
+      "link": "https://www.amazon.com/s/ref=bl_dp_s_mw_0?ie=UTF8&search-alias=aps&field-keywords=Fumogym",
+      "link_clean": "https://www.amazon.com/dp/B0FNDCYYFP/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0FNDCYYFP&device=mobile&engine=amazon_product&language=en_US&shipping_location=US",
+      "variants": [
+        {
+          "title": "color_name",
+          "items": [
+            {
+              "position": 1,
+              "asin": "B0G4RP9CB1",
+              "name": "Color-02",
+              "image": "https://m.media-amazon.com/images/I/61R6MeffOhL._QL92_SH45_SS100_.jpg",
+              "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0G4RP9CB1&device=mobile&engine=amazon_product&language=en_US&shipping_location=US"
+            },
+            {
+              "position": 2,
+              "asin": "B0FSDVF552",
+              "name": "Color-03",
+              "image": "https://m.media-amazon.com/images/I/5180vNbKZmL._QL92_SH45_SS100_.jpg",
+              "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0FSDVF552&device=mobile&engine=amazon_product&language=en_US&shipping_location=US"
+            },
+            {
+              "position": 3,
+              "asin": "B0FNDCYYFP",
+              "name": "Halloween",
+              "image": "https://m.media-amazon.com/images/I/51QwgErE7PL._QL92_SH45_SS100_.jpg",
+              "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0FNDCYYFP&device=mobile&engine=amazon_product&language=en_US&shipping_location=US"
+            },
+            {
+              "position": 4,
+              "asin": "B0G4RKMFH1",
+              "name": "Valentines",
+              "image": "https://m.media-amazon.com/images/I/61oFd27BEfL._QL92_SH45_SS100_.jpg",
+              "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0G4RKMFH1&device=mobile&engine=amazon_product&language=en_US&shipping_location=US"
+            }
+          ]
+        }
+      ],
+      "brand": ".premium-logoByLine-brand-logo { max-height: 36px; height: auto; max-width: min(154px, 100%); min-width: 4px; width: auto; object-fit: contain; } Brand: Fumogym",
+      "thumbnail": "https://m.media-amazon.com/images/I/81h31Ud5GNL._AC_UF894,1000_QL80_FMwebp_.jpg",
+      "thumbnails": [
+        "https://m.media-amazon.com/images/I/81h31Ud5GNL._AC_UF894,1000_QL80_FMwebp_.jpg",
+        "https://m.media-amazon.com/images/I/81OZBiwVD7L._AC_UF894,1000_QL80_FMwebp_.jpg",
+        "https://m.media-amazon.com/images/I/71pKDLHDR-L._AC_UF894,1000_QL80_FMwebp_.jpg",
+        "https://m.media-amazon.com/images/I/81zuyeeY8jL._AC_UF894,1000_QL80_FMwebp_.jpg",
+        "https://m.media-amazon.com/images/I/81NCvItwW-L._AC_UF894,1000_QL80_FMwebp_.jpg",
+        "https://m.media-amazon.com/images/I/81GbrL9UxNL._AC_UF894,1000_QL80_FMwebp_.jpg"
+      ],
+      "rating": 4.5,
+      "reviews": 225,
+      "bought_last_month": "2K+ bought in past month",
+      "price": "$24.99",
+      "extracted_price": 24.99,
+      "prime": true,
+      "delivery": [
+        "FREE delivery October 29 - November 2 on orders shipped by Amazon over $35",
+        "Or fastest delivery Thursday, October 29",
+        "Arrives before Halloween"
+      ],
+      "description": "24PCS Halloween Party Favors, Squishy Toys for Halloween Treat or Trick Goodie Bags Pinata Fillers Stuffers Halloween Classroom Prizes Gifts for Kids"
+    },
+    "purchase_options": {
+      "single_offer": {
+        "price": "$24.99",
+        "extracted_price": 24.99,
+        "delivery": [
+          "FREE delivery October 29 - November 2 on orders shipped by Amazon over $35",
+          "Or fastest delivery Thursday, October 29",
+          "Arrives before Halloween"
+        ],
+        "features": {
+          "ships_from": {
+            "text": "Amazon",
+            "details": {
+              "heading": "Ships from",
+              "content": "Amazon"
+            }
+          },
+          "sold_by": {
+            "text": "LMY-US88",
+            "details": {
+              "heading": "Sold by",
+              "content": "LMY-US88"
+            },
+            "link": {
+              "text": "LMY-US88",
+              "link": "https://www.amazon.com/gp/aw/sp.html/ref=dp_merchant_link?ie=UTF8&seller=A2P3800NIFDRC4&asin=B0FNDCYYFP&ref_=dp_merchant_link&isAmazonFulfilled=1"
+            }
+          },
+          "returns": {
+            "text": "FREE 30-day refund/replacement",
+            "details": {
+              "heading": "FREE 30-day refund/replacement"
+            },
+            "link": {
+              "text": "See exceptions",
+              "link": "https://www.amazon.com/gp/help/customer/display.html/?nodeId=GKQNFKFK5CF3C54B"
+            }
+          },
+          "packaging": {
+            "text": "Ships in product packaging"
+          }
+        }
+      }
+    },
+    "about_item": [
+      "Value 24-Pack Assortment: 12 unique Halloween designs (2 of each); includes vampires, pumpkins, bats and more for collectible fun​",
+      "Perfectly Sized: Measures 6cm - 8cm; fits easily in pockets, treat bags or desk drawers for on-the-go play​",
+      "Safe & Soft Quality: Made with milk-scented PU foam; slow-rising texture; safety-tested for kids and adults​",
+      "Versatile Halloween Essential: Ideal for party favors, trick-or-treat giveaways, classroom prizes or spooky decor​",
+      "Stress-Relief Tool: Super squeezable design calms nerves; great for office breaks, homework time or sensory needs"
+    ],
+    "bought_together": [
+      {
+        "position": 1,
+        "title": "Fumogym 24PCS Halloween Party Favors, Squishy Toys for Treat or Trick Goodie Bags Pinata Fillers Halloween Boo Basket Stuffers Classroom Prizes Gifts for Kids",
+        "link": "https://www.amazon.com/product-reviews/B0FNDCYYFP/ref=sspa_mw_detail_sbt_m_sccl_1_3_cr/133-2716130-1025014?pd_rd_w=QCQ2q&content-id=amzn1.sym.aa600fb5-43ac-4070-a10d-d536cc783808&pf_rd_p=aa600fb5-43ac-4070-a10d-d536cc783808&pf_rd_r=Y9F4V6T6QAQ200V2M8Q2&pd_rd_wg=80rfH&pd_rd_r=85d7c820-1479-4200-ab34-a9f91d7d1721&pd_rd_i=B0FNDCYYFP",
+        "asin": "B0FNDCYYFP",
+        "link_clean": "https://www.amazon.com/product-reviews/B0FNDCYYFP/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0FNDCYYFP&device=mobile&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/81h31Ud5GNL._AC_UL70_SR70,70_.jpg",
+        "rating": 4.5,
+        "reviews": 225,
+        "price": "$24.99",
+        "extracted_price": 24.99
+      },
+      {
+        "position": 2,
+        "title": "Fall Goodie Treat Bag Stuffers Prizes for Kids 32-64Pack, Autumn Small Bubbles Party Favors Supplies for Toddlers, Thanksgiving Friendsgiving Birthday Classroom Toys Gift Basket Trinkets Decorations",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo4NzU3NzU5Mzk2MzkzMjE0OjE3OTI2ODU5NTU6c3BfcGhvbmVfZGV0YWlsX3RoZW1hdGljOjMwMDg1NTgwNjk1OTQwMjo6MDo6&url=%2FThanksgiving-Stuffers-Friendsgiving-Classroom-Decorations%2Fdp%2FB0F7L43NVG%3Fpsc%3D1%26pd_rd_w%3DQCQ2q%26content-id%3Damzn1.sym.aa600fb5-43ac-4070-a10d-d536cc783808%26pf_rd_p%3Daa600fb5-43ac-4070-a10d-d536cc783808%26pf_rd_r%3DY9F4V6T6QAQ200V2M8Q2%26pd_rd_wg%3D80rfH%26pd_rd_r%3D85d7c820-1479-4200-ab34-a9f91d7d1721%26ref_%3Dsspa_mw_detail_sbt_img_0%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9waG9uZV9kZXRhaWxfdGhlbWF0aWM%3D",
+        "asin": "B0F7L43NVG",
+        "link_clean": "https://www.amazon.com/dp/B0F7L43NVG/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0F7L43NVG&device=mobile&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/71-sSAFeAWL._AC_UL70_SR70,70_.jpg",
+        "rating": 4.7,
+        "reviews": 250,
+        "price": "$14.99",
+        "extracted_price": 14.99,
+        "prime": true
+      },
+      {
+        "position": 3,
+        "title": "UpBrands 48-Pack Halloween Fidget Bracelets for Kids – Bulk Zipper Toys, Goodie Bag Fillers, Classroom Prizes, Halloween Party Favor Treats",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo4NzU3NzU5Mzk2MzkzMjE0OjE3OTI2ODU5NTU6c3BfcGhvbmVfZGV0YWlsX3RoZW1hdGljOjIwMDEyNzA0MDg0NTU5ODo6MTo6&url=%2FUpBrands-Halloween-Bracelets-Birthday-Friendship%2Fdp%2FB089B48DGJ%3Fpsc%3D1%26pd_rd_w%3DQCQ2q%26content-id%3Damzn1.sym.aa600fb5-43ac-4070-a10d-d536cc783808%26pf_rd_p%3Daa600fb5-43ac-4070-a10d-d536cc783808%26pf_rd_r%3DY9F4V6T6QAQ200V2M8Q2%26pd_rd_wg%3D80rfH%26pd_rd_r%3D85d7c820-1479-4200-ab34-a9f91d7d1721%26ref_%3Dsspa_mw_detail_sbt_img_1%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9waG9uZV9kZXRhaWxfdGhlbWF0aWM%3D",
+        "asin": "B089B48DGJ",
+        "link_clean": "https://www.amazon.com/dp/B089B48DGJ/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B089B48DGJ&device=mobile&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/81D3X0p-AEL._AC_UL70_SR70,70_.jpg",
+        "rating": 4.7,
+        "reviews": 925,
+        "price": "$21.99",
+        "extracted_price": 21.99,
+        "prime": true
+      }
+    ],
+    "related_products": [
+      {
+        "position": 1,
+        "asin": "B0F7XP1NK4",
+        "title": "80pcs Halloween Bubble Wands, Halloween Party Favors for Kids, Halloweens&#39; Goodie Bags Fillers, Trick Or Treating Toys Bulk, Halloween Miniatures Prizes, for Kids,",
+        "link": "https://www.amazon.com/dp/B0F7XP1NK4/ref=sspa_mw_detail_0?ie=UTF8&psc=1&spc=MTo2MzgzOTMzNjk4NjAyOTE5OjE3OTI2ODU5NTU6c3BfcGhvbmVfZGV0YWlsOjMwMTU5NDc3NjkzNzQwMjo6Ojo&sp_csd=d2lkZ2V0TmFtZT1zcF9waG9uZV9kZXRhaWw",
+        "link_clean": "https://www.amazon.com/dp/B0F7XP1NK4/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0F7XP1NK4&device=mobile&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "thumbnail": "https://m.media-amazon.com/images/I/815kSqMimBL._AC_UX450_UY450_SR450,450_.jpg",
+        "rating": 4.2,
+        "reviews": 42,
+        "price": "$24.99",
+        "extracted_price": 24.99,
+        "price_unit": "$1.56 / ounce",
+        "extracted_price_unit": 1.56
+      },
+      {
+        "position": 2,
+        "asin": "B0BH8MT1JK",
+        "title": "Halloween Light Up Party Favors for Kids 24PCS,Glow Stick Bracelet Necklace | Bulk LED Toys Accessories Decoration for Toddlers,Halloween Birthday Basket Goodie Bag Stuffers Fillers Gifts for Boys Girls",
+        "link": "https://www.amazon.com/dp/B0BH8MT1JK/ref=sspa_mw_detail_1?ie=UTF8&psc=1&spc=MTo2MzgzOTMzNjk4NjAyOTE5OjE3OTI2ODU5NTU6c3BfcGhvbmVfZGV0YWlsOjMwMDY4MTYwNTQxMjIwMjo6Ojo&sp_csd=d2lkZ2V0TmFtZT1zcF9waG9uZV9kZXRhaWw",
+        "link_clean": "https://www.amazon.com/dp/B0BH8MT1JK/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0BH8MT1JK&device=mobile&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "badges": [
+          "Amazon's Choice"
+        ],
+        "thumbnail": "https://m.media-amazon.com/images/I/81SupUsLo-L._AC_UX450_UY450_SR450,450_.jpg",
+        "rating": 4.6,
+        "reviews": 3629,
+        "price": "$28.89",
+        "extracted_price": 28.89,
+        "price_unit": "$1.20 / count",
+        "extracted_price_unit": 1.2
+      },
+      {
+        "position": 3,
+        "asin": "B0H418W47K",
+        "title": "60 PCS Halloween Party Favors For Kids,Halloween Coil Spring for Kids | Halloween Classies Character Coil Toys For Goodie Bags Stuffers Filler, Halloween Toys For Classroom Prize Reward",
+        "link": "https://www.amazon.com/dp/B0H418W47K/ref=sspa_mw_detail_2?ie=UTF8&psc=1&spc=MTo2MzgzOTMzNjk4NjAyOTE5OjE3OTI2ODU5NTU6c3BfcGhvbmVfZGV0YWlsOjMwMTU0MzkzODUxMjcwMjo6Ojo&sp_csd=d2lkZ2V0TmFtZT1zcF9waG9uZV9kZXRhaWw",
+        "link_clean": "https://www.amazon.com/dp/B0H418W47K/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0H418W47K&device=mobile&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "thumbnail": "https://m.media-amazon.com/images/I/81c+AeH3X6L._AC_UX450_UY450_SR450,450_.jpg",
+        "rating": 5.0,
+        "reviews": 8,
+        "price": "$23.99",
+        "extracted_price": 23.99,
+        "price_unit": "$47.98 / count",
+        "extracted_price_unit": 47.98
+      },
+      {
+        "position": 4,
+        "asin": "B093BHVDPS",
+        "title": "Glow Critters for Halloween Party Favor, Glow in The Dark Toys Set for Kids, School Classroom Game Rewards, Trick or Treating Goodie Supplies, Halloween Miniatures/Prizes,20 Critters 40 Glow Sticks",
+        "link": "https://www.amazon.com/dp/B093BHVDPS/ref=sspa_mw_detail_3?ie=UTF8&psc=1&spc=MTo2MzgzOTMzNjk4NjAyOTE5OjE3OTI2ODU5NTU6c3BfcGhvbmVfZGV0YWlsOjIwMDA5NjIwOTQwMzYzMTo6Ojo&sp_csd=d2lkZ2V0TmFtZT1zcF9waG9uZV9kZXRhaWw",
+        "link_clean": "https://www.amazon.com/dp/B093BHVDPS/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B093BHVDPS&device=mobile&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "thumbnail": "https://m.media-amazon.com/images/I/712lDx6cLEL._AC_UX450_UY450_SR450,450_.jpg",
+        "rating": 4.3,
+        "reviews": 403,
+        "price": "$15.99",
+        "extracted_price": 15.99
+      },
+      {
+        "position": 5,
+        "asin": "B0CBPJTVZY",
+        "title": "Halloween Mini Bubble Wands,80PCS Halloween Party Favors for Kids | Mini Bubble Wands for Trick or Treat, Goodie Bags Stuffers for Kids Toys, Halloween Toys Gifts for Kids Adults (4 Colors)",
+        "link": "https://www.amazon.com/dp/B0CBPJTVZY/ref=sspa_mw_detail_4?ie=UTF8&psc=1&spc=MTo2MzgzOTMzNjk4NjAyOTE5OjE3OTI2ODU5NTU6c3BfcGhvbmVfZGV0YWlsOjMwMDA1MDc1ODI2OTIwMjo6Ojo&sp_csd=d2lkZ2V0TmFtZT1zcF9waG9uZV9kZXRhaWw",
+        "link_clean": "https://www.amazon.com/dp/B0CBPJTVZY/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0CBPJTVZY&device=mobile&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "thumbnail": "https://m.media-amazon.com/images/I/81436IZbivL._AC_UX450_UY450_SR450,450_.jpg",
+        "rating": 4.6,
+        "reviews": 125,
+        "price": "$25.99",
+        "extracted_price": 25.99
+      },
+      {
+        "position": 6,
+        "asin": "B0C4JV86JJ",
+        "title": "30 Pack Halloween Party Favors Stationery Set for Kids Classroom, 240+ piece Halloween Goodie Bags Fillers Bulk for Trick or Treat Gift with Pencil, Eraser, Notebooks, Stamper, Rulers, Sticker",
+        "link": "https://www.amazon.com/dp/B0C4JV86JJ/ref=sspa_mw_detail_5?ie=UTF8&psc=1&spc=MTo2MzgzOTMzNjk4NjAyOTE5OjE3OTI2ODU5NTU6c3BfcGhvbmVfZGV0YWlsOjMwMDA0NzI1MzA3MDUwMjo6Ojo&sp_csd=d2lkZ2V0TmFtZT1zcF9waG9uZV9kZXRhaWw",
+        "link_clean": "https://www.amazon.com/dp/B0C4JV86JJ/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0C4JV86JJ&device=mobile&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "thumbnail": "https://m.media-amazon.com/images/I/91CtqojeaIL._AC_UX450_UY450_SR450,450_.jpg",
+        "rating": 4.5,
+        "reviews": 56,
+        "discount": "-7%",
+        "price": "$27.99",
+        "extracted_price": 27.99,
+        "old_price": "null"
+      },
+      {
+        "position": 7,
+        "asin": "B0H8JDQ4QH",
+        "title": "30 PCS Halloween Party Favors Gifts 3D Fidget Toys Goodie Bag Stuffers | Halloween Party Favors Fidget Toys for Trick or Treat, Halloween Goodie Bag Fillers, Figurine Stress Relief Fidget Toys",
+        "link": "https://www.amazon.com/dp/B0H8JDQ4QH/ref=sspa_mw_detail_6?ie=UTF8&psc=1&spc=MTo2MzgzOTMzNjk4NjAyOTE5OjE3OTI2ODU5NTU6c3BfcGhvbmVfZGV0YWlsOjMwMTU3ODE1NDgyMTMwMjo6Ojo&sp_csd=d2lkZ2V0TmFtZT1zcF9waG9uZV9kZXRhaWw",
+        "link_clean": "https://www.amazon.com/dp/B0H8JDQ4QH/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0H8JDQ4QH&device=mobile&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "thumbnail": "https://m.media-amazon.com/images/I/71q+cZYSJXL._AC_UX450_UY450_SR450,450_.jpg",
+        "rating": 3.5,
+        "reviews": 61,
+        "price": "$16.97",
+        "extracted_price": 16.97,
+        "price_unit": "$0.57 / count",
+        "extracted_price_unit": 0.57
+      }
+    ],
+    "related_product_sections": [
+      {
+        "title": "You might also like",
+        "items": [
+          {
+            "position": 1,
+            "asin": "B0F7XP1NK4",
+            "title": "80pcs Halloween Bubble Wands, Halloween Party Favors for Kids, Halloweens&#39; Goodie Bags Fillers, Trick Or Treating Toys Bulk, Halloween Miniatures Prizes, for Kids,",
+            "link": "https://www.amazon.com/dp/B0F7XP1NK4/ref=sspa_mw_detail_0?ie=UTF8&psc=1&spc=MTo2MzgzOTMzNjk4NjAyOTE5OjE3OTI2ODU5NTU6c3BfcGhvbmVfZGV0YWlsOjMwMTU5NDc3NjkzNzQwMjo6Ojo&sp_csd=d2lkZ2V0TmFtZT1zcF9waG9uZV9kZXRhaWw",
+            "link_clean": "https://www.amazon.com/dp/B0F7XP1NK4/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0F7XP1NK4&device=mobile&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "thumbnail": "https://m.media-amazon.com/images/I/815kSqMimBL._AC_UX450_UY450_SR450,450_.jpg",
+            "rating": 4.2,
+            "reviews": 42,
+            "price": "$24.99",
+            "extracted_price": 24.99,
+            "price_unit": "$1.56 / ounce",
+            "extracted_price_unit": 1.56
+          },
+          {
+            "position": 2,
+            "asin": "B0BH8MT1JK",
+            "title": "Halloween Light Up Party Favors for Kids 24PCS,Glow Stick Bracelet Necklace | Bulk LED Toys Accessories Decoration for Toddlers,Halloween Birthday Basket Goodie Bag Stuffers Fillers Gifts for Boys Girls",
+            "link": "https://www.amazon.com/dp/B0BH8MT1JK/ref=sspa_mw_detail_1?ie=UTF8&psc=1&spc=MTo2MzgzOTMzNjk4NjAyOTE5OjE3OTI2ODU5NTU6c3BfcGhvbmVfZGV0YWlsOjMwMDY4MTYwNTQxMjIwMjo6Ojo&sp_csd=d2lkZ2V0TmFtZT1zcF9waG9uZV9kZXRhaWw",
+            "link_clean": "https://www.amazon.com/dp/B0BH8MT1JK/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0BH8MT1JK&device=mobile&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "badges": [
+              "Amazon's Choice"
+            ],
+            "thumbnail": "https://m.media-amazon.com/images/I/81SupUsLo-L._AC_UX450_UY450_SR450,450_.jpg",
+            "rating": 4.6,
+            "reviews": 3629,
+            "price": "$28.89",
+            "extracted_price": 28.89,
+            "price_unit": "$1.20 / count",
+            "extracted_price_unit": 1.2
+          },
+          {
+            "position": 3,
+            "asin": "B0H418W47K",
+            "title": "60 PCS Halloween Party Favors For Kids,Halloween Coil Spring for Kids | Halloween Classies Character Coil Toys For Goodie Bags Stuffers Filler, Halloween Toys For Classroom Prize Reward",
+            "link": "https://www.amazon.com/dp/B0H418W47K/ref=sspa_mw_detail_2?ie=UTF8&psc=1&spc=MTo2MzgzOTMzNjk4NjAyOTE5OjE3OTI2ODU5NTU6c3BfcGhvbmVfZGV0YWlsOjMwMTU0MzkzODUxMjcwMjo6Ojo&sp_csd=d2lkZ2V0TmFtZT1zcF9waG9uZV9kZXRhaWw",
+            "link_clean": "https://www.amazon.com/dp/B0H418W47K/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0H418W47K&device=mobile&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "thumbnail": "https://m.media-amazon.com/images/I/81c+AeH3X6L._AC_UX450_UY450_SR450,450_.jpg",
+            "rating": 5.0,
+            "reviews": 8,
+            "price": "$23.99",
+            "extracted_price": 23.99,
+            "price_unit": "$47.98 / count",
+            "extracted_price_unit": 47.98
+          },
+          {
+            "position": 4,
+            "asin": "B093BHVDPS",
+            "title": "Glow Critters for Halloween Party Favor, Glow in The Dark Toys Set for Kids, School Classroom Game Rewards, Trick or Treating Goodie Supplies, Halloween Miniatures/Prizes,20 Critters 40 Glow Sticks",
+            "link": "https://www.amazon.com/dp/B093BHVDPS/ref=sspa_mw_detail_3?ie=UTF8&psc=1&spc=MTo2MzgzOTMzNjk4NjAyOTE5OjE3OTI2ODU5NTU6c3BfcGhvbmVfZGV0YWlsOjIwMDA5NjIwOTQwMzYzMTo6Ojo&sp_csd=d2lkZ2V0TmFtZT1zcF9waG9uZV9kZXRhaWw",
+            "link_clean": "https://www.amazon.com/dp/B093BHVDPS/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B093BHVDPS&device=mobile&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "thumbnail": "https://m.media-amazon.com/images/I/712lDx6cLEL._AC_UX450_UY450_SR450,450_.jpg",
+            "rating": 4.3,
+            "reviews": 403,
+            "price": "$15.99",
+            "extracted_price": 15.99
+          },
+          {
+            "position": 5,
+            "asin": "B0CBPJTVZY",
+            "title": "Halloween Mini Bubble Wands,80PCS Halloween Party Favors for Kids | Mini Bubble Wands for Trick or Treat, Goodie Bags Stuffers for Kids Toys, Halloween Toys Gifts for Kids Adults (4 Colors)",
+            "link": "https://www.amazon.com/dp/B0CBPJTVZY/ref=sspa_mw_detail_4?ie=UTF8&psc=1&spc=MTo2MzgzOTMzNjk4NjAyOTE5OjE3OTI2ODU5NTU6c3BfcGhvbmVfZGV0YWlsOjMwMDA1MDc1ODI2OTIwMjo6Ojo&sp_csd=d2lkZ2V0TmFtZT1zcF9waG9uZV9kZXRhaWw",
+            "link_clean": "https://www.amazon.com/dp/B0CBPJTVZY/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0CBPJTVZY&device=mobile&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "thumbnail": "https://m.media-amazon.com/images/I/81436IZbivL._AC_UX450_UY450_SR450,450_.jpg",
+            "rating": 4.6,
+            "reviews": 125,
+            "price": "$25.99",
+            "extracted_price": 25.99
+          },
+          {
+            "position": 6,
+            "asin": "B0C4JV86JJ",
+            "title": "30 Pack Halloween Party Favors Stationery Set for Kids Classroom, 240+ piece Halloween Goodie Bags Fillers Bulk for Trick or Treat Gift with Pencil, Eraser, Notebooks, Stamper, Rulers, Sticker",
+            "link": "https://www.amazon.com/dp/B0C4JV86JJ/ref=sspa_mw_detail_5?ie=UTF8&psc=1&spc=MTo2MzgzOTMzNjk4NjAyOTE5OjE3OTI2ODU5NTU6c3BfcGhvbmVfZGV0YWlsOjMwMDA0NzI1MzA3MDUwMjo6Ojo&sp_csd=d2lkZ2V0TmFtZT1zcF9waG9uZV9kZXRhaWw",
+            "link_clean": "https://www.amazon.com/dp/B0C4JV86JJ/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0C4JV86JJ&device=mobile&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "thumbnail": "https://m.media-amazon.com/images/I/91CtqojeaIL._AC_UX450_UY450_SR450,450_.jpg",
+            "rating": 4.5,
+            "reviews": 56,
+            "discount": "-7%",
+            "price": "$27.99",
+            "extracted_price": 27.99,
+            "old_price": "null"
+          },
+          {
+            "position": 7,
+            "asin": "B0H8JDQ4QH",
+            "title": "30 PCS Halloween Party Favors Gifts 3D Fidget Toys Goodie Bag Stuffers | Halloween Party Favors Fidget Toys for Trick or Treat, Halloween Goodie Bag Fillers, Figurine Stress Relief Fidget Toys",
+            "link": "https://www.amazon.com/dp/B0H8JDQ4QH/ref=sspa_mw_detail_6?ie=UTF8&psc=1&spc=MTo2MzgzOTMzNjk4NjAyOTE5OjE3OTI2ODU5NTU6c3BfcGhvbmVfZGV0YWlsOjMwMTU3ODE1NDgyMTMwMjo6Ojo&sp_csd=d2lkZ2V0TmFtZT1zcF9waG9uZV9kZXRhaWw",
+            "link_clean": "https://www.amazon.com/dp/B0H8JDQ4QH/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0H8JDQ4QH&device=mobile&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "thumbnail": "https://m.media-amazon.com/images/I/71q+cZYSJXL._AC_UX450_UY450_SR450,450_.jpg",
+            "rating": 3.5,
+            "reviews": 61,
+            "price": "$16.97",
+            "extracted_price": 16.97,
+            "price_unit": "$0.57 / count",
+            "extracted_price_unit": 0.57
+          }
+        ]
+      }
+    ],
+    "videos": [
+      {
+        "position": 1,
+        "title": "Super squishy!",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/7bd8bf73-8f33-49f4-ad66-4ed38b280ae5/videopreview.jobtemplate.mp4.default.mp4",
+        "thumbnail": "https://m.media-amazon.com/images/I/51n0xeHsjeL.jpg",
+        "duration": "0:07",
+        "vendor": "DomesticGoddess",
+        "vendor_thumbnail": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SL34_.png",
+        "date": "Nov 4, 2025"
+      },
+      {
+        "position": 2,
+        "title": "24PCS Halloween Squishy Toys For Kids",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/845c350a-9628-4aac-92c5-28a441c0e9d1/videopreview.jobtemplate.mp4.default.mp4",
+        "thumbnail": "https://m.media-amazon.com/images/I/91gChFcFc4L.png",
+        "duration": "0:38",
+        "vendor": "LMY-US88",
+        "date": "Oct 1, 2025"
+      },
+      {
+        "position": 3,
+        "title": "Watch to see what I do with these SQUISHY TOYS!!",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/06873bac-4a29-41b4-aab4-dc5c769331dd/videopreview.jobtemplate.mp4.default.mp4",
+        "thumbnail": "https://m.media-amazon.com/images/I/81tsrz1c7VL.jpg",
+        "duration": "2:48",
+        "vendor": "Mom of Many - Kids and Animals",
+        "vendor_thumbnail": "https://m.media-amazon.com/images/I/41J0bJnAtDL._CR0,0,354,354_._FMjpg_._SL34_.jpg",
+        "date": "Oct 17, 2026"
+      }
+    ],
+    "product_details": {
+      "age_range_description": "Kid",
+      "brand_name": "Fumogym",
+      "number_of_items": "24",
+      "included_components": "Party Favors",
+      "manufacturer": "Fumogym",
+      "model_number": "20250701A",
+      "manufacturer_part_number": "20250701A",
+      "set_name": "Halloween",
+      "best_sellers_rank": [
+        {
+          "text": "#3,706 in Toys & Games (See Top 100 in Toys & Games)",
+          "extracted_rank": 3706,
+          "link": "https://www.amazon.com/gp/bestsellers/toys-and-games/ref=pd_zg_ts_toys-and-games",
+          "link_text": "See Top 100 in Toys & Games"
+        },
+        {
+          "text": "#135 in Kids' Multi-Item Party Favor Packs",
+          "extracted_rank": 135,
+          "link": "https://www.amazon.com/gp/bestsellers/toys-and-games/23569992011/ref=pd_zg_hrsr_toys-and-games",
+          "link_text": "Kids' Multi-Item Party Favor Packs"
+        }
+      ],
+      "asin": "B0FNDCYYFP",
+      "customer_reviews": "4.5 out of 5 stars 225Reviews",
+      "manufacturer_recommended_age": "3 years and up",
+      "size": "6cm - 8cm",
+      "item_dimensions": "2.36 x 1.57 x 3.14 inches",
+      "item_diameter": "6 centimeters",
+      "color": "Halloween",
+      "theme": "Halloween",
+      "subject_character": "halloween",
+      "material_type": "Polyurethane (PU)"
+    },
+    "sponsored_brands": [
+      {
+        "position": 1,
+        "image": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/c09c7e14-f4f7-45ab-9561-449e6921eaf0._CR0,450,1600,838_AC_SX414_CB1169409_QL70_.jpg",
+        "name": "Becfupo",
+        "brand_logo": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/99f3339e-259a-4fd5-b2a9-83628f3db6ba._CR0,0,600,600_AC_SX96_SY40_CB1169409_QL70_.png",
+        "headline": "Party beads necklaces and keychains",
+        "link": "https://aax-us-east-retail-direct.amazon.com/x/c/JKUGjx7CKsUqv96w70z-8OsAAAGhZGjbjwEAAAH2AQBvbm9fdHhuX2JpZDYgICBvbm9fdHhuX2ltcDIgICBadfO6/clv1c_ek-wBffXLbTenOvbk2qFIUk_PR-nstF2eWxX0DNoG9vGZMKCb-iquvWjU41lwxdA2xv3J1iJ9BhgAb1NMZ020-BVJ083VnGGI1jVavAm-IxGyxFb-s-mpUtI0vh1oXRZXVXalAETVhI6swcTLTHruHZYosV8BnTpX4ZxxyyCuKbe3W6HXLK8Xy8kLBg_x2xGlsXPol7SPUtAZYV9_M_O2kbIj0smAHqCkcH2cYv8F8XZt0kmKymINNHDe55T0J3wOtb5nzfCJnHNblpg1n-b6reXoZwAr8Hp49FDCvX5iUIAu4soJb9cZ3K7OU5AzXsc-P11AZn3EJQ1ny8tv48PjZGDnyZOpoqr162Gw5nb8Ca2mqUglRyrlgpmBGYwF45qTWlpMRz5FGT1Bh2u-Fa78M32aUBZE3PYu1g2flU_4MIp__oOOxW-lxmDy5n-KjcALgFoMAxUX7IF92D4rZ0jFG-jCP5PRX-fF6CUpUK58geXZlK3j9PnfSlJhKx69Ct3gU-KfsD8glNHaWbOc6nJB3DbJ7w3qItfScqPGv3-9oeIazfsaSn873UOVeV0VoAxdv7qvTZmoxxLnH2E7YiyuVfDG8-KUJ_9m5hLmFy1rp9fjjzQSjSgCaQhpYNeNmPqqaBLV5vmQ6k1V2QQb9P3F_cTU2i_hrogv5y2Eg2miBltUrpY7C6fxPTQrSs6fDu42NhFWJAPyttIWWmIEngf9c20y72QT66Ch5sK8qbVWash8I0JuotISl09jPDJ2YN9uAKWRIHzK_vJvaXT7LxtDjU69MEadNXhEd7UccJ0mynscNT5BAWZTJM4kvjv1pBsPn_PV4MwGDTrUoe8ivhgJ6oMl4W1aV4TBFA9EED4DiFptCUTZJFYbW7zacuovXhkaVr6kdwGotXZdh4kF-aOylKNWYzUbc8uDiCSKxB1YZJ_NvO1ZN4VBq3J2hswudZTyTmN2yaP1U-698uojq_wtycFn8XvhUUmOz2eQaERYbM9ZtjTOJmSsLYuKJ6ymwBPe2YoJlcQ7mGh8sifr4LPIQ2mNvFiKnCm42N3cTQUit8T0GUCItG-vUAUjjF8pz6UPbYfwlYXJriaQtqhym13f0Gyw94EYlmuJIWtAKvdi3ShizdyFm5Vas_yvb3oMciee0f5IgFVkN7o9HE9J0-zzPlnJyFe_io3YKuhE7O08C_RRT1xRoJDChYR0YDEJQpXoXYWPwUwDDI42dQFZLMyXH02vxozXibYQo86v05eBLUOa4As19b53pOEMRonRJZgHW_FlbyvakFF84GdjTGV2IBONzhHPeCoM7Qjul5kjXnlCeVGdMRXv9P9u29jlNEXy_Je8VeUqSY2oc4rKZoNBQkb75LydxFhGPAHbrVDVvlHsSGbrtARR0dRT-Ztyfa71znezyyTtIfaqCwdaTHmZ1mJ4ZRf-4Y5N4c3r7xOJOPvyzhtX6857qA2Y5E7ew_-BOJmGVZHcFbE55AT9-ImbThTdBkEfMfTA7aI7KOUNXAkZg3NKGGwqd909Q1gI56whuFKWcyJcoSd6nQM5H-l-8n5fNhcttnBuaFyYl6oZ8VY_lYCTOuIJHR1m2xVYEkrZYi8jJdet93hsOksZwj8UpQ/https://www.amazon.com/stores/page/16908409-8809-4EF8-933D-2A2A5EDA13BC/?_encoding=UTF8&store_ref=SB_A07096633HMQPHLXW9A2V-A033670938QJGEH01VNPY&pd_rd_plhdr=t&aaxitk=b9be1b6d75242379995c435983a2d34b&hsa_cr_id=0&lp_slot=mobile-arbies&lp_page_asin=B0FNDCYYFP&pd_rd_i=ad1&ref_=sbx_be_dp_arbies_mblsm_mb0_bkgd&pd_rd_w=UwTPj&content-id=amzn1.sym.a0cf6175-49ce-4c72-8721-b2bed4d3a00e&pf_rd_p=a0cf6175-49ce-4c72-8721-b2bed4d3a00e&pf_rd_r=Y9F4V6T6QAQ200V2M8Q2&pd_rd_wg=80rfH&pd_rd_r=85d7c820-1479-4200-ab34-a9f91d7d1721"
+      }
+    ],
+    "reviews_information": {
+      "summary": {
+        "text": "Customers love these squishy toys and find them to be good value for money. The squishiness is positive, and one customer mentions their class loved them. However, several customers report receiving cards with misspelled words. The durability receives mixed feedback.",
+        "insights": [
+          {
+            "title": "Quality",
+            "sentiment": "positive",
+            "mentions": {
+              "total": 36,
+              "positive": 34,
+              "negative": 2
+            },
+            "summary": "Customers find these squeeze toys to be of good quality and highly recommend them, with kids absolutely loving them.",
+            "examples": [
+              {
+                "position": 1,
+                "snippet": "...Best buy I ever made for Valentines day. Even my 12 yr old loved these and wanted to buy his own box.",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R9LK6K8AF9UI4"
+              },
+              {
+                "position": 2,
+                "snippet": "Great quality",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R2O22L3WKZC1J1"
+              },
+              {
+                "position": 3,
+                "snippet": "...I love that they come with the little self seal bags also. Highly recommend!",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R2ONMR7NFL3WQ7"
+              },
+              {
+                "position": 4,
+                "snippet": "These are GREAT!🩷🩷🩷",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R3G84X610N73YV"
+              }
+            ]
+          },
+          {
+            "title": "Squishiness",
+            "sentiment": "positive",
+            "mentions": {
+              "total": 9,
+              "positive": 8,
+              "negative": 1
+            },
+            "summary": "Customers like the squishiness of these toys, describing them as cute.",
+            "examples": [
+              {
+                "position": 1,
+                "snippet": "...The squishies themselves are soft, easy to squeeze , and they slowly rise back into shape....",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R2I9KMD801EP41"
+              },
+              {
+                "position": 2,
+                "snippet": "...not just for boys, perfect for all the kids, and they’re also super squishy so throw in the fact they can be a fidget toy too lol....",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R19IZLBAWS2SKL"
+              },
+              {
+                "position": 3,
+                "snippet": "...this set was a great value due to the thickness of the cards and cute squishy toys....",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/RW3JX55AFN9LX"
+              },
+              {
+                "position": 4,
+                "snippet": "Great valentine for the price. Squishy animals, they all have a card and a plastic bag that seals....",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/RZVZYHJWIQY9Z"
+              }
+            ]
+          },
+          {
+            "title": "Value for money",
+            "sentiment": "positive",
+            "mentions": {
+              "total": 8,
+              "positive": 7,
+              "negative": 1
+            },
+            "summary": "Customers find these squishy toys to be a great value, with one customer noting they are well-made for the price.",
+            "examples": [
+              {
+                "position": 1,
+                "snippet": "...Overall this set was a great value due to the thickness of the cards and cute squishy toys....",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/RW3JX55AFN9LX"
+              },
+              {
+                "position": 2,
+                "snippet": "Great valentine for the price. Squishy animals, they all have a card and a plastic bag that seals....",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/RZVZYHJWIQY9Z"
+              },
+              {
+                "position": 3,
+                "snippet": "Great valentines. Good value squishy! The kids loved them.",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R1V6KZAAPFPC1C"
+              },
+              {
+                "position": 4,
+                "snippet": "...As a gift , it’s such a nice option - cute, colorful, affordable, and something kids genuinely enjoy. 😊 Highly recommend!",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R2I9KMD801EP41"
+              }
+            ]
+          },
+          {
+            "title": "Durability",
+            "sentiment": "mixed",
+            "mentions": {
+              "total": 5,
+              "positive": 2,
+              "negative": 3
+            },
+            "summary": "Customers have mixed experiences with the durability of these squishy toys, with one customer reporting that they slowly return to their original shape, while another mentions issues with the adhesive dots ripping pieces off.",
+            "examples": [
+              {
+                "position": 1,
+                "snippet": "...1. The adhesive dots provided in the package ripped piece of the squishy toy off. 2. There’s a misspelled card that says “You Metl My Heart”.",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R18VYV9OJMZBP7"
+              },
+              {
+                "position": 2,
+                "snippet": "...squishies themselves are soft, easy to squeeze , and they slowly rise back into shape....",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R2I9KMD801EP41"
+              },
+              {
+                "position": 3,
+                "snippet": "...My kid melted down about it and if I had it all to do over I would just put the monsters in the bag instead of sticking them to the card.",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R1VSHQF2Z40P9C"
+              },
+              {
+                "position": 4,
+                "snippet": "...That said, the price (especially on sale) really makes up for it. You can simply use the monsters on their own and skip the cards",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R2RLHG8DQB8FM3"
+              }
+            ]
+          },
+          {
+            "title": "Accuracy",
+            "sentiment": "negative",
+            "mentions": {
+              "total": 5,
+              "positive": 0,
+              "negative": 5
+            },
+            "summary": "Customers report multiple spelling and grammar mistakes in the cards.",
+            "examples": [
+              {
+                "position": 1,
+                "snippet": "...and tiger (TIGER-IFI instead of TIGER-IFIC) cards had typos....",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/RW3JX55AFN9LX"
+              },
+              {
+                "position": 2,
+                "snippet": "...Also, the tiger card was missing the letter C in the word “Tiger-ific” making that card unusable. But for $10 I can overlook those two issues.",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R7HGD7X13PGK0"
+              },
+              {
+                "position": 3,
+                "snippet": "...I am reducing by a star because two of the cards have a misspelled word. METL instead of MELT. Luckily we didn’t need the full 24",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R1GK3LQ9B69NHA"
+              },
+              {
+                "position": 4,
+                "snippet": "...Unfortunately, there are quite a few spelling and grammar mistakes, which is disappointing because the designs themselves are very sweet....",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R2RLHG8DQB8FM3"
+              }
+            ]
+          },
+          {
+            "title": "Quality",
+            "sentiment": "positive",
+            "mentions": {
+              "total": 36,
+              "positive": 34,
+              "negative": 2
+            },
+            "summary": "Customers find these squeeze toys to be of good quality and highly recommend them, with kids absolutely loving them.",
+            "examples": [
+              {
+                "position": 1,
+                "snippet": "...Best buy I ever made for Valentines day. Even my 12 yr old loved these and wanted to buy his own box.",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R9LK6K8AF9UI4"
+              },
+              {
+                "position": 2,
+                "snippet": "Great quality",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R2O22L3WKZC1J1"
+              },
+              {
+                "position": 3,
+                "snippet": "...I love that they come with the little self seal bags also. Highly recommend!",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R2ONMR7NFL3WQ7"
+              },
+              {
+                "position": 4,
+                "snippet": "These are GREAT!🩷🩷🩷",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R3G84X610N73YV"
+              }
+            ]
+          },
+          {
+            "title": "Squishiness",
+            "sentiment": "positive",
+            "mentions": {
+              "total": 9,
+              "positive": 8,
+              "negative": 1
+            },
+            "summary": "Customers like the squishiness of these toys, describing them as cute.",
+            "examples": [
+              {
+                "position": 1,
+                "snippet": "...The squishies themselves are soft, easy to squeeze , and they slowly rise back into shape....",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R2I9KMD801EP41"
+              },
+              {
+                "position": 2,
+                "snippet": "...not just for boys, perfect for all the kids, and they’re also super squishy so throw in the fact they can be a fidget toy too lol....",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R19IZLBAWS2SKL"
+              },
+              {
+                "position": 3,
+                "snippet": "...this set was a great value due to the thickness of the cards and cute squishy toys....",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/RW3JX55AFN9LX"
+              },
+              {
+                "position": 4,
+                "snippet": "Great valentine for the price. Squishy animals, they all have a card and a plastic bag that seals....",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/RZVZYHJWIQY9Z"
+              }
+            ]
+          },
+          {
+            "title": "Value for money",
+            "sentiment": "positive",
+            "mentions": {
+              "total": 8,
+              "positive": 7,
+              "negative": 1
+            },
+            "summary": "Customers find these squishy toys to be a great value, with one customer noting they are well-made for the price.",
+            "examples": [
+              {
+                "position": 1,
+                "snippet": "...Overall this set was a great value due to the thickness of the cards and cute squishy toys....",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/RW3JX55AFN9LX"
+              },
+              {
+                "position": 2,
+                "snippet": "Great valentine for the price. Squishy animals, they all have a card and a plastic bag that seals....",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/RZVZYHJWIQY9Z"
+              },
+              {
+                "position": 3,
+                "snippet": "Great valentines. Good value squishy! The kids loved them.",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R1V6KZAAPFPC1C"
+              },
+              {
+                "position": 4,
+                "snippet": "...As a gift , it’s such a nice option - cute, colorful, affordable, and something kids genuinely enjoy. 😊 Highly recommend!",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R2I9KMD801EP41"
+              }
+            ]
+          },
+          {
+            "title": "Durability",
+            "sentiment": "mixed",
+            "mentions": {
+              "total": 5,
+              "positive": 2,
+              "negative": 3
+            },
+            "summary": "Customers have mixed experiences with the durability of these squishy toys, with one customer reporting that they slowly return to their original shape, while another mentions issues with the adhesive dots ripping pieces off.",
+            "examples": [
+              {
+                "position": 1,
+                "snippet": "...1. The adhesive dots provided in the package ripped piece of the squishy toy off. 2. There’s a misspelled card that says “You Metl My Heart”.",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R18VYV9OJMZBP7"
+              },
+              {
+                "position": 2,
+                "snippet": "...squishies themselves are soft, easy to squeeze , and they slowly rise back into shape....",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R2I9KMD801EP41"
+              },
+              {
+                "position": 3,
+                "snippet": "...My kid melted down about it and if I had it all to do over I would just put the monsters in the bag instead of sticking them to the card.",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R1VSHQF2Z40P9C"
+              },
+              {
+                "position": 4,
+                "snippet": "...That said, the price (especially on sale) really makes up for it. You can simply use the monsters on their own and skip the cards",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R2RLHG8DQB8FM3"
+              }
+            ]
+          },
+          {
+            "title": "Accuracy",
+            "sentiment": "negative",
+            "mentions": {
+              "total": 5,
+              "positive": 0,
+              "negative": 5
+            },
+            "summary": "Customers report multiple spelling and grammar mistakes in the cards.",
+            "examples": [
+              {
+                "position": 1,
+                "snippet": "...and tiger (TIGER-IFI instead of TIGER-IFIC) cards had typos....",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/RW3JX55AFN9LX"
+              },
+              {
+                "position": 2,
+                "snippet": "...Also, the tiger card was missing the letter C in the word “Tiger-ific” making that card unusable. But for $10 I can overlook those two issues.",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R7HGD7X13PGK0"
+              },
+              {
+                "position": 3,
+                "snippet": "...I am reducing by a star because two of the cards have a misspelled word. METL instead of MELT. Luckily we didn’t need the full 24",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R1GK3LQ9B69NHA"
+              },
+              {
+                "position": 4,
+                "snippet": "...Unfortunately, there are quite a few spelling and grammar mistakes, which is disappointing because the designs themselves are very sweet....",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R2RLHG8DQB8FM3"
+              }
+            ]
+          }
+        ]
+      },
+      "authors_reviews": [
+        {
+          "position": 1,
+          "title": "so uniquely Halloween",
+          "text": "Adorable and unique. My granddaughter loved them",
+          "rating": 5.0,
+          "date": "October 6, 2026",
+          "author": "Kathy",
+          "author_link": "https://www.amazon.com/gp/profile/amzn1.account.AEB73OFWZWRYXNAT4AQZJR3O5VSQ?ref=cm_cr_dp_mb_bdcrb_top",
+          "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SX110_.png",
+          "verified_purchase": true,
+          "product": {
+            "color": "Halloween"
+          }
+        },
+        {
+          "position": 2,
+          "title": "Perfect Valentine’s Day Gift for a Daycare Class",
+          "text": "I bought this set of little monsters for Valentine’s Day for my child's daycare class.The monsters are so adorable! Not scary at all - they’re actually very cute, with funny little faces and bright colors . The cards are neat and nicely printed , and the whole set looks festive and kid - friendly. When I laid them out at home, my son immediately started picking which monster he would give to each friend 😊The squishies themselves are soft, easy to squeeze , and they slowly rise back into shape. The kids absolutely loved that part - it’s both a sweet little gift and a fun stress-relief toy.For the price and quantity , it’s definitely great value for money. There are 24 pieces in set, which was exactly enough for the whole class, and i didn’t have to buy anything extra . It’s perfect for a classroom gift exchange or as small party favors.As a gift , it’s such a nice option - cute, colorful, affordable, and something kids genuinely enjoy. 😊 Highly recommend!",
+          "rating": 5.0,
+          "date": "February 24, 2026",
+          "author": "Natallia",
+          "author_link": "https://www.amazon.com/gp/profile/amzn1.account.AE52B2EDTYHA3WOZONXLAJ7G4UYQ?ref=cm_cr_dp_mb_bdcrb_top",
+          "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SX110_.png",
+          "images": [
+            "https://m.media-amazon.com/images/I/716sFrmoe9L._SY500_.jpg",
+            "https://m.media-amazon.com/images/I/71tUgcY8W5L._SY500_.jpg",
+            "https://m.media-amazon.com/images/I/51BP+5-xNrL._SY500_.jpg"
+          ],
+          "helpful_votes": "One person found this helpful",
+          "verified_purchase": true,
+          "product": {
+            "color": "Valentines"
+          }
+        },
+        {
+          "position": 3,
+          "title": "Awesome toys! Love them!",
+          "text": "So adorable and cute!",
+          "rating": 5.0,
+          "date": "September 10, 2026",
+          "author": "Amazon Customer",
+          "author_link": "https://www.amazon.com/gp/profile/amzn1.account.AF3CWPXQJWBMUQYCA2QBWYJCIAKQ?ref=cm_cr_dp_mb_bdcrb_top",
+          "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SX110_.png",
+          "helpful_votes": "One person found this helpful",
+          "verified_purchase": true,
+          "product": {
+            "color": "Halloween"
+          }
+        },
+        {
+          "position": 4,
+          "title": "Perfect handouts",
+          "text": "There Perfect for stuffing Treat bags, etc... for Halloween to handout.",
+          "rating": 5.0,
+          "date": "August 31, 2026",
+          "author": "Marvin",
+          "author_link": "https://www.amazon.com/gp/profile/amzn1.account.AH2W2PVHRLXWWMJZXUCJ7FO75NWA?ref=cm_cr_dp_mb_bdcrb_top",
+          "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SX110_.png",
+          "images": [
+            "https://m.media-amazon.com/images/I/71MrLHFVmVL._SY500_.jpg",
+            "https://m.media-amazon.com/images/I/811Z5GLVN8L._SY500_.jpg"
+          ],
+          "helpful_votes": "2 people found this helpful",
+          "verified_purchase": true,
+          "product": {
+            "color": "Halloween"
+          }
+        },
+        {
+          "position": 5,
+          "title": "Missing Pieces",
+          "text": "The sealed package from the manufacturer is missing one monster. I was hoping for two sets of 12, but only received one of the the jack-o-lantern scarecrows. This is not a seller issue, it was not properly packaged at the manufacturer level.",
+          "rating": 3.0,
+          "date": "October 14, 2026",
+          "author": "H. Schoenfield",
+          "author_link": "https://www.amazon.com/gp/profile/amzn1.account.AGL4AVBFKDDM53I7N53EBIJMB4QQ?ref=cm_cr_dp_mb_bdcrb_top",
+          "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/4284b31a-6579-4c21-8300-1f96c401c86c._CR0%2C0%2C500%2C500_SX460_SX110_.jpg",
+          "verified_purchase": true,
+          "product": {
+            "color": "Halloween"
+          }
+        },
+        {
+          "position": 6,
+          "title": "We loved these!",
+          "text": "My son took these to school for Valentine’s Day this year and his class LOVED them. As a mom who’s not big on candy, these were such a great alternative and they’re so cute too! Not too girly, not just for boys, perfect for all the kids, and they’re also super squishy so throw in the fact they can be a fidget toy too lol. Such a fun alternative to candy treats!",
+          "rating": 5.0,
+          "date": "June 7, 2026",
+          "author": "Ashlee",
+          "author_link": "https://www.amazon.com/gp/profile/amzn1.account.AEXRUSBWKI652RHM6RBWMC5BC5EA?ref=cm_cr_dp_mb_bdcrb_top",
+          "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SX110_.png",
+          "helpful_votes": "2 people found this helpful",
+          "verified_purchase": true,
+          "product": {
+            "color": "Valentines"
+          }
+        },
+        {
+          "position": 7,
+          "title": "Would buy again",
+          "text": "These were really cute! The quality of the cards were excellent and the toys were all really good quality also. The only thing that I wanted to mention is this was one of the cards. Everything else was more appropriate, but my child was taking these for a third/fourth grade classroom, so we kept this one at home. Just wanted to mention it in case you need exactly 24 pieces and also find that this card may not be the best one to send. Other than that, we really liked these!",
+          "rating": 5.0,
+          "date": "February 13, 2026",
+          "author": "Crystal",
+          "author_link": "https://www.amazon.com/gp/profile/amzn1.account.AHXFAGKUQWJKFXWE753SVPDXWULQ?ref=cm_cr_dp_mb_bdcrb_top",
+          "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SX110_.png",
+          "images": [
+            "https://m.media-amazon.com/images/I/61t+UdWesuL._SY500_.jpg",
+            "https://m.media-amazon.com/images/I/71Yzvqc8ffL._SY500_.jpg"
+          ],
+          "verified_purchase": true,
+          "product": {
+            "color": "Color-02"
+          }
+        },
+        {
+          "position": 8,
+          "title": "Very cute monsters, but the cards are with mistakes",
+          "text": "These Valentine’s Day gifts are very cute overall. The little monsters are soft, adorable, and fun — kids absolutely love them. They’re bright, well-made for the price, and especially worth it if you catch them on sale. The quality isn’t premium, but it’s definitely good for a classroom Valentine exchange or small holiday gifts.The main issue is with the included cards. Unfortunately, there are quite a few spelling and grammar mistakes, which is disappointing because the designs themselves are very sweet. Because of the errors, I wouldn’t feel comfortable handing out the cards as they are.That said, the price (especially on sale) really makes up for it. You can simply use the monsters on their own and skip the cards",
+          "rating": 4.0,
+          "date": "January 25, 2026",
+          "author": "Kateryna",
+          "author_link": "https://www.amazon.com/gp/profile/amzn1.account.AEWVUXXTO4GHK6W5C5LALHHGJPRQ?ref=cm_cr_dp_mb_bdcrb_top",
+          "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/d562f8ed-0f8b-41a4-9672-25613010dfa7._CR0%2C0%2C500%2C500_SX460_SX110_.jpeg",
+          "images": [
+            "https://m.media-amazon.com/images/I/71ETLe7vbuL._SY500_.jpg",
+            "https://m.media-amazon.com/images/I/61RnMz4Iw2L._SY500_.jpg",
+            "https://m.media-amazon.com/images/I/71U6i3bdLBL._SY500_.jpg"
+          ],
+          "helpful_votes": "One person found this helpful",
+          "verified_purchase": true,
+          "product": {
+            "color": "Valentines"
+          }
+        }
+      ]
+    }
+  }
+}

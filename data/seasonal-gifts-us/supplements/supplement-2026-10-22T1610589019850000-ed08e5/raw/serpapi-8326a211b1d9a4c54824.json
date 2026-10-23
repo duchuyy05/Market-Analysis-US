@@ -1,0 +1,902 @@
+{
+  "provider": "serpapi",
+  "endpoint": "https://serpapi.com/search.json",
+  "parameters": {
+    "engine": "amazon_product",
+    "asin": "B0FNDCYYFP",
+    "amazon_domain": "amazon.com",
+    "language": "en_US",
+    "shipping_location": "US",
+    "device": "desktop",
+    "output": "json"
+  },
+  "fetched_at_utc": "2026-10-22T16:15:24.153412+00:00",
+  "raw_file": "supplements/supplement-2026-10-22T1610589019850000-ed08e5/raw/serpapi-8326a211b1d9a4c54824.json",
+  "response": {
+    "search_metadata": {
+      "id": "6ada369d4814e50214795d30",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/5CF_Gy2oJJpSHlnFiMt0_29IOICEtl_UaTDb20MRTTQ/6ada369d4814e50214795d30.json",
+      "markdown_endpoint": "https://serpapi.com/searches/5CF_Gy2oJJpSHlnFiMt0_29IOICEtl_UaTDb20MRTTQ/6ada369d4814e50214795d30.md",
+      "created_at": "2026-10-22 16:15:25 UTC",
+      "processed_at": "2026-10-22 16:15:25 UTC",
+      "amazon_product_url": "https://www.amazon.com/dp/B0FNDCYYFP/?language=en_US",
+      "raw_html_file": "https://serpapi.com/searches/5CF_Gy2oJJpSHlnFiMt0_29IOICEtl_UaTDb20MRTTQ/6ada369d4814e50214795d30.html",
+      "total_time_taken": 8.07
+    },
+    "search_parameters": {
+      "engine": "amazon_product",
+      "asin": "B0FNDCYYFP",
+      "amazon_domain": "amazon.com",
+      "language": "en_US",
+      "device": "desktop",
+      "shipping_location": "US"
+    },
+    "product_results": {
+      "categories": [
+        {
+          "position": 1,
+          "name": "Toys & Games",
+          "link": "https://www.amazon.com/toys/b/ref=dp_bc_1?ie=UTF8&node=165793011",
+          "node": "165793011",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&language=en_US&node=165793011&shipping_location=US"
+        },
+        {
+          "position": 2,
+          "name": "Party Supplies",
+          "link": "https://www.amazon.com/Party-Supplies-Games/b/ref=dp_bc_2?ie=UTF8&node=1266203011",
+          "node": "1266203011",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&language=en_US&node=1266203011&shipping_location=US"
+        },
+        {
+          "position": 3,
+          "name": "Party Favors",
+          "link": "https://www.amazon.com/Kids-Party-Favor-Sets/b/ref=dp_bc_3?ie=UTF8&node=166044011",
+          "node": "166044011",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&language=en_US&node=166044011&shipping_location=US"
+        },
+        {
+          "position": 4,
+          "name": "Multi-Item Party Favor Packs",
+          "link": "https://www.amazon.com/Kids-Multi-Item-Party-Favor-Packs/b/ref=dp_bc_4?ie=UTF8&node=23569992011",
+          "node": "23569992011",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&language=en_US&node=23569992011&shipping_location=US"
+        }
+      ],
+      "asin": "B0FNDCYYFP",
+      "title": "24PCS Halloween Party Favors, Squishy Toys for Treat or Trick Goodie Bags Pinata Fillers Halloween Boo Basket Stuffers Classroom Prizes Gifts for Kids",
+      "link": "https://www.amazon.com/hp/wlp/pipeline/membersignup?ref=primedp_ventures_desktopBelowThreshold&primeCampaignId=primedp_ventures_desktopBelowThreshold",
+      "link_clean": "https://www.amazon.com/dp/B0FNDCYYFP/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0FNDCYYFP&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+      "variants": [
+        {
+          "title": "Color",
+          "items": [
+            {
+              "position": 1,
+              "asin": "B0FNDCYYFP",
+              "name": "Halloween",
+              "image": "https://m.media-amazon.com/images/I/51QwgErE7PL._SS64_.jpg",
+              "selected": true,
+              "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0FNDCYYFP&device=desktop&engine=amazon_product&language=en_US&shipping_location=US"
+            },
+            {
+              "position": 2,
+              "asin": "B0G4RP9CB1",
+              "name": "Color-02",
+              "image": "https://m.media-amazon.com/images/I/61R6MeffOhL._SS64_.jpg",
+              "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0G4RP9CB1&device=desktop&engine=amazon_product&language=en_US&shipping_location=US"
+            },
+            {
+              "position": 3,
+              "asin": "B0FSDVF552",
+              "name": "Color-03",
+              "image": "https://m.media-amazon.com/images/I/5180vNbKZmL._SS64_.jpg",
+              "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0FSDVF552&device=desktop&engine=amazon_product&language=en_US&shipping_location=US"
+            },
+            {
+              "position": 4,
+              "asin": "B0G4RKMFH1",
+              "name": "Valentines",
+              "image": "https://m.media-amazon.com/images/I/61oFd27BEfL._SS64_.jpg",
+              "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0G4RKMFH1&device=desktop&engine=amazon_product&language=en_US&shipping_location=US"
+            }
+          ]
+        }
+      ],
+      "brand": "Brand: Fumogym",
+      "thumbnail": "https://m.media-amazon.com/images/I/81h31Ud5GNL._AC_SY300_SX300_QL70_FMwebp_.jpg",
+      "thumbnails": [
+        "https://m.media-amazon.com/images/I/81h31Ud5GNL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81OZBiwVD7L._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71pKDLHDR-L._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81zuyeeY8jL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81NCvItwW-L._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81GbrL9UxNL._AC_SL1500_.jpg"
+      ],
+      "rating": 4.5,
+      "reviews": 225,
+      "bought_last_month": "2K+ bought in past month",
+      "price": "$24.99",
+      "extracted_price": 24.99,
+      "prime": true,
+      "delivery": [
+        "FREE delivery October 29 - November 2 on orders shipped by Amazon over $35",
+        "Or fastest delivery Thursday, October 29",
+        "Arrives before Halloween"
+      ],
+      "description": "24PCS Halloween Party Favors, Squishy Toys for Halloween Treat or Trick Goodie Bags Pinata Fillers Stuffers Halloween Classroom Prizes Gifts for Kids"
+    },
+    "purchase_options": {
+      "single_offer": {
+        "price": "$24.99",
+        "extracted_price": 24.99,
+        "delivery": [
+          "FREE delivery October 29 - November 2 on orders shipped by Amazon over $35",
+          "Or fastest delivery Thursday, October 29",
+          "Arrives before Halloween"
+        ],
+        "features": {
+          "ships_from": {
+            "text": "Amazon",
+            "details": {
+              "heading": "Ships from",
+              "content": "Amazon"
+            }
+          },
+          "sold_by": {
+            "text": "LMY-US88",
+            "details": {
+              "heading": "Sold by",
+              "content": "LMY-US88"
+            },
+            "link": {
+              "text": "LMY-US88",
+              "link": "https://www.amazon.com/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2P3800NIFDRC4&asin=B0FNDCYYFP&ref_=dp_merchant_link&isAmazonFulfilled=1"
+            }
+          },
+          "returns": {
+            "text": "FREE 30-day refund/replacement",
+            "details": {
+              "heading": "FREE 30-day refund/replacement"
+            },
+            "link": {
+              "text": "See exceptions",
+              "link": "https://www.amazon.com/gp/help/customer/display.html/?nodeId=GKQNFKFK5CF3C54B"
+            }
+          },
+          "packaging": {
+            "text": "Ships in product packaging",
+            "details": {
+              "heading": "Ships in product packaging",
+              "content": "This item has been tested to certify it can ship safely in its original box or bag to avoid unnecessary packaging. Since 2015, we have reduced the weight of outbound packaging per shipment by 41% on average, that’s over 2 million tons of packaging material.If you still require Amazon packaging for this item, choose \"Ship in Amazon packaging\" at checkout. Learn more"
+            },
+            "link": {
+              "text": "Learn more",
+              "link": "https://www.amazon.com/sipp_home"
+            }
+          }
+        }
+      }
+    },
+    "about_item": [
+      "Value 24-Pack Assortment: 12 unique Halloween designs (2 of each); includes vampires, pumpkins, bats and more for collectible fun​",
+      "Perfectly Sized: Measures 6cm - 8cm; fits easily in pockets, treat bags or desk drawers for on-the-go play​",
+      "Safe & Soft Quality: Made with milk-scented PU foam; slow-rising texture; safety-tested for kids and adults​",
+      "Versatile Halloween Essential: Ideal for party favors, trick-or-treat giveaways, classroom prizes or spooky decor​",
+      "Stress-Relief Tool: Super squeezable design calms nerves; great for office breaks, homework time or sensory needs"
+    ],
+    "bought_together": [
+      {
+        "position": 1,
+        "title": "Fumogym 24PCS Halloween Party Favors, Squishy Toys for Treat or Trick Goodie Bags Pinata Fillers Halloween Boo Basket Stuffers Classroom Prizes Gifts for Kids",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/81h31Ud5GNL._AC_UL116_SR116,116_.jpg",
+        "price": "$24.99",
+        "extracted_price": 24.99,
+        "delivery": [
+          "Get it as soon as Wednesday, Oct 28"
+        ]
+      },
+      {
+        "position": 2,
+        "title": "Ring Pop Halloween Candy Lollipops, 50 Count, Bulk Assorted Party Favors | Halloween lollipops, individually wrapped, in a bulk bag - ideal for candy bowls, goodie bags, and party favors",
+        "link": "https://www.amazon.com/Ring-Pop-Individually-Wrapped-Variety/dp/B07CY78RVR/ref=pd_bxgy_thbs_d_sccl_1/146-4773871-4049124?pd_rd_w=BwaP0&content-id=amzn1.sym.1fbb380b-ee1d-4eeb-a44a-61f4d3013ea6&pf_rd_p=1fbb380b-ee1d-4eeb-a44a-61f4d3013ea6&pf_rd_r=P2BDQT4FAWWQFRFJ5E1V&pd_rd_wg=n47jd&pd_rd_r=e98204a5-3d26-4323-8dff-233eed6bd432&pd_rd_i=B07CY78RVR&psc=1",
+        "asin": "B07CY78RVR",
+        "link_clean": "https://www.amazon.com/Ring-Pop-Individually-Wrapped-Variety/dp/B07CY78RVR/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B07CY78RVR&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/81coWT1NyDL._AC_UL116_SR116,116_.jpg",
+        "price": "$18.02",
+        "extracted_price": 18.02,
+        "price_unit": "$0.36/count",
+        "extracted_price_unit": 0.36,
+        "delivery": [
+          "Get it as soon as Tuesday, Oct 27"
+        ],
+        "stock": "In Stock"
+      },
+      {
+        "position": 3,
+        "title": "JOICEE 24PCS Halloween Stretchy Skeleton Toys Squishy Skeleton Toys | Assorted Color Stretchy Skull Squishy Toys for Kids Boys Girls Party Favors Halloween Goody Bag Fillers Halloween Sticky Toys",
+        "link": "https://www.amazon.com/Halloween-Stretchy-Skeleton-Assorted-squishy/dp/B0969R7ZLG/ref=pd_bxgy_thbs_d_sccl_2/146-4773871-4049124?pd_rd_w=BwaP0&content-id=amzn1.sym.1fbb380b-ee1d-4eeb-a44a-61f4d3013ea6&pf_rd_p=1fbb380b-ee1d-4eeb-a44a-61f4d3013ea6&pf_rd_r=P2BDQT4FAWWQFRFJ5E1V&pd_rd_wg=n47jd&pd_rd_r=e98204a5-3d26-4323-8dff-233eed6bd432&pd_rd_i=B0969R7ZLG&psc=1",
+        "asin": "B0969R7ZLG",
+        "link_clean": "https://www.amazon.com/Halloween-Stretchy-Skeleton-Assorted-squishy/dp/B0969R7ZLG/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0969R7ZLG&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/71gwaTC+9SS._AC_UL116_SR116,116_.jpg",
+        "price": "$9.99",
+        "extracted_price": 9.99,
+        "delivery": [
+          "Get it as soon as Tuesday, Oct 27"
+        ],
+        "stock": "In Stock"
+      }
+    ],
+    "related_products": [
+      {
+        "position": 1,
+        "asin": "B0DNDKK4GB",
+        "title": "800Pcs Bulk Fidget Toys Kids Treasure Box Classroom Prize Fillers",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MToyNzE1MzI2MjE4NjY4MTgxOjE3OTI2ODU3MzE6c3BfZGV0YWlsX3RoZW1hdGljOjMwMTM0MTAzNDg0NTAwMjo6Ojo&url=%2Fdp%2FB0DNDKK4GB%2Fref%3Dsspa_dk_detail_0%3Fpsc%3D1%26pd_rd_i%3DB0DNDKK4GB%26pd_rd_w%3D8IpOt%26content-id%3Damzn1.sym.3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_p%3D3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_r%3DP2BDQT4FAWWQFRFJ5E1V%26pd_rd_wg%3Dn47jd%26pd_rd_r%3De98204a5-3d26-4323-8dff-233eed6bd432%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM",
+        "link_clean": "https://www.amazon.com/dp/B0DNDKK4GB/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0DNDKK4GB&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "badges": [
+          "Limited time deal"
+        ],
+        "thumbnail": "https://m.media-amazon.com/images/I/81XIDnbV13L._AC_UF480,480_SR480,480_.jpg",
+        "rating": 4.2,
+        "reviews": 194,
+        "discount": "-12%",
+        "price": "$21.99",
+        "extracted_price": 21.99,
+        "old_price": "null"
+      },
+      {
+        "position": 2,
+        "asin": "B0DL5S8DTY",
+        "title": "1000 Pcs Party Favors for Kids, Fidget Toys Bulk, Prizes for Kids, Fidget Stocking Stuffers Birthday Party Gifts, Carnival Treasure Classroom Prizes Box, Goodie Bag Stuffers",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MToyNzE1MzI2MjE4NjY4MTgxOjE3OTI2ODU3MzE6c3BfZGV0YWlsX3RoZW1hdGljOjMwMTUzNjgxNTM3NzQwMjo6Ojo&url=%2Fdp%2FB0DL5S8DTY%2Fref%3Dsspa_dk_detail_1%3Fpsc%3D1%26pd_rd_i%3DB0DL5S8DTY%26pd_rd_w%3D8IpOt%26content-id%3Damzn1.sym.3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_p%3D3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_r%3DP2BDQT4FAWWQFRFJ5E1V%26pd_rd_wg%3Dn47jd%26pd_rd_r%3De98204a5-3d26-4323-8dff-233eed6bd432%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM",
+        "link_clean": "https://www.amazon.com/dp/B0DL5S8DTY/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0DL5S8DTY&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "badges": [
+          "Amazon's Choice",
+          "Limited time deal"
+        ],
+        "thumbnail": "https://m.media-amazon.com/images/I/81NEZOKWqzL._AC_UF480,480_SR480,480_.jpg",
+        "rating": 4.3,
+        "reviews": 719,
+        "discount": "-10%",
+        "price": "$26.99",
+        "extracted_price": 26.99,
+        "old_price": "null"
+      },
+      {
+        "position": 3,
+        "asin": "B0D7JG7F3Q",
+        "title": "24 PCS Halloween Rubber Ducks Jeep Ducking Party Favors | Spooky Trick or Treat Bat...",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MToyNzE1MzI2MjE4NjY4MTgxOjE3OTI2ODU3MzE6c3BfZGV0YWlsX3RoZW1hdGljOjMwMDQwMzk2NDc0MzkwMjo6Ojo&url=%2Fdp%2FB0D7JG7F3Q%2Fref%3Dsspa_dk_detail_2%3Fpsc%3D1%26pd_rd_i%3DB0D7JG7F3Q%26pd_rd_w%3D8IpOt%26content-id%3Damzn1.sym.3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_p%3D3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_r%3DP2BDQT4FAWWQFRFJ5E1V%26pd_rd_wg%3Dn47jd%26pd_rd_r%3De98204a5-3d26-4323-8dff-233eed6bd432%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM",
+        "link_clean": "https://www.amazon.com/dp/B0D7JG7F3Q/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0D7JG7F3Q&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "badges": [
+          "Limited time deal"
+        ],
+        "thumbnail": "https://m.media-amazon.com/images/I/71fdUadXChL._AC_UF480,480_SR480,480_.jpg",
+        "rating": 4.7,
+        "reviews": 153,
+        "discount": "-15%",
+        "price": "$16.99",
+        "extracted_price": 16.99,
+        "old_price": "null"
+      },
+      {
+        "position": 4,
+        "asin": "B0GYMS663X",
+        "title": "NIGHT JOY Halloween Party Favors 2026, 24 Figurines for Goodie-Bag Stuffer | Halloween Non-Candy treats, Spooky Collectible Figures Toys for Kids Halloween Decorations, Classroom Prizes, Basket Filler",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MToyNzE1MzI2MjE4NjY4MTgxOjE3OTI2ODU3MzE6c3BfZGV0YWlsX3RoZW1hdGljOjMwMTU1ODU5OTU0OTAwMjo6Ojo&url=%2Fdp%2FB0GYMS663X%2Fref%3Dsspa_dk_detail_3%3Fpsc%3D1%26pd_rd_i%3DB0GYMS663X%26pd_rd_w%3D8IpOt%26content-id%3Damzn1.sym.3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_p%3D3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_r%3DP2BDQT4FAWWQFRFJ5E1V%26pd_rd_wg%3Dn47jd%26pd_rd_r%3De98204a5-3d26-4323-8dff-233eed6bd432%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM",
+        "link_clean": "https://www.amazon.com/dp/B0GYMS663X/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0GYMS663X&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "badges": [
+          "Limited time deal"
+        ],
+        "thumbnail": "https://m.media-amazon.com/images/I/715ZA1s6i3L._AC_UF480,480_SR480,480_.jpg",
+        "rating": 4.2,
+        "reviews": 24,
+        "discount": "-10%",
+        "price": "$8.99",
+        "extracted_price": 8.99,
+        "old_price": "null"
+      },
+      {
+        "position": 5,
+        "asin": "B0FSF1H7NT",
+        "title": "358PCS Christmas Toys for Party Favors , Goodie Bag Pinata Stocking Stuffers Bulk, ...",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MToyNzE1MzI2MjE4NjY4MTgxOjE3OTI2ODU3MzE6c3BfZGV0YWlsX3RoZW1hdGljOjMwMTA0MzA5OTA0NzQwMjo6Ojo&url=%2Fdp%2FB0FSF1H7NT%2Fref%3Dsspa_dk_detail_4%3Fpsc%3D1%26pd_rd_i%3DB0FSF1H7NT%26pd_rd_w%3D8IpOt%26content-id%3Damzn1.sym.3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_p%3D3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_r%3DP2BDQT4FAWWQFRFJ5E1V%26pd_rd_wg%3Dn47jd%26pd_rd_r%3De98204a5-3d26-4323-8dff-233eed6bd432%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM",
+        "link_clean": "https://www.amazon.com/dp/B0FSF1H7NT/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0FSF1H7NT&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "badges": [
+          "Limited time deal"
+        ],
+        "thumbnail": "https://m.media-amazon.com/images/I/91P5+L0VJLL._AC_UF480,480_SR480,480_.jpg",
+        "rating": 4.7,
+        "reviews": 334,
+        "discount": "-25%",
+        "price": "$29.99",
+        "extracted_price": 29.99,
+        "price_unit": "$0.08 / ounce",
+        "extracted_price_unit": 0.08,
+        "old_price": "null"
+      },
+      {
+        "position": 6,
+        "asin": "B09J8ZFVWZ",
+        "title": "UpBrands 72 Stretchy Snakes Toys, Easter Egg Basket Stuffers, Pinata Filler, Small Classroom Prizes, Easter Egg Basket Stuffers, Pinata Filler, Small Classroom Prizes",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MToyNzE1MzI2MjE4NjY4MTgxOjE3OTI2ODU3MzE6c3BfZGV0YWlsX3RoZW1hdGljOjIwMDA3MDg5MzU4NDM5ODo6Ojo&url=%2Fdp%2FB09J8ZFVWZ%2Fref%3Dsspa_dk_detail_5%3Fpsc%3D1%26pd_rd_i%3DB09J8ZFVWZ%26pd_rd_w%3D8IpOt%26content-id%3Damzn1.sym.3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_p%3D3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_r%3DP2BDQT4FAWWQFRFJ5E1V%26pd_rd_wg%3Dn47jd%26pd_rd_r%3De98204a5-3d26-4323-8dff-233eed6bd432%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM",
+        "link_clean": "https://www.amazon.com/dp/B09J8ZFVWZ/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B09J8ZFVWZ&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "badges": [
+          "Limited time deal"
+        ],
+        "thumbnail": "https://m.media-amazon.com/images/I/81wx-gFiDdL._AC_UF480,480_SR480,480_.jpg",
+        "rating": 4.4,
+        "reviews": 122,
+        "discount": "-30%",
+        "price": "$12.94",
+        "extracted_price": 12.94,
+        "old_price": "null"
+      },
+      {
+        "position": 7,
+        "asin": "B0F63G66SZ",
+        "title": "24PCS Princess Bubble Wands Toys for Kids, Princess Birthday Party Favors Supplies Decorations, Classroom Prizes, Pinata Fillers, Goodie Bag Stuffers Gifts",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MToyNzE1MzI2MjE4NjY4MTgxOjE3OTI2ODU3MzE6c3BfZGV0YWlsX3RoZW1hdGljOjMwMTI1OTc4ODAwODAwMjo6Ojo&url=%2Fdp%2FB0F63G66SZ%2Fref%3Dsspa_dk_detail_6%3Fpsc%3D1%26pd_rd_i%3DB0F63G66SZ%26pd_rd_w%3D8IpOt%26content-id%3Damzn1.sym.3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_p%3D3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_r%3DP2BDQT4FAWWQFRFJ5E1V%26pd_rd_wg%3Dn47jd%26pd_rd_r%3De98204a5-3d26-4323-8dff-233eed6bd432%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM",
+        "link_clean": "https://www.amazon.com/dp/B0F63G66SZ/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0F63G66SZ&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "badges": [
+          "Limited time deal"
+        ],
+        "thumbnail": "https://m.media-amazon.com/images/I/81IBVjKrGSL._AC_UF480,480_SR480,480_.jpg",
+        "rating": 4.4,
+        "reviews": 541,
+        "discount": "-10%",
+        "price": "$13.49",
+        "extracted_price": 13.49,
+        "old_price": "null"
+      },
+      {
+        "position": 8,
+        "asin": "B0H7Z5HZH4",
+        "title": "25Pcs Halloween Party Favors rings for Kids Trick or Treats Halloween Toys | Light ...",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MToyMDQxNjMzNDkyODA5MzYxOjE3OTI2ODU3MzE6c3BfZGV0YWlsMjozMDE1OTkyNzcxMzc0MDI6Ojo6&url=%2Fdp%2FB0H7Z5HZH4%2Fref%3Dsspa_dk_detail_0%3Fpsc%3D1%26pd_rd_i%3DB0H7Z5HZH4%26pd_rd_w%3DXgmrJ%26content-id%3Damzn1.sym.4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_p%3D4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_r%3DP2BDQT4FAWWQFRFJ5E1V%26pd_rd_wg%3Dn47jd%26pd_rd_r%3De98204a5-3d26-4323-8dff-233eed6bd432%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+        "link_clean": "https://www.amazon.com/dp/B0H7Z5HZH4/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0H7Z5HZH4&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "thumbnail": "https://m.media-amazon.com/images/I/8147WIY1IDL._AC_UF480,480_SR480,480_.jpg",
+        "rating": 3.7,
+        "reviews": 43,
+        "price": "$15.97",
+        "extracted_price": 15.97
+      },
+      {
+        "position": 9,
+        "asin": "B0C6YM278K",
+        "title": "JOYIN Slime Party Favors, 24 Pack Galaxy Slime Ball - Stretchy, Non-Sticky, Mess-Free, Stress Relief, and Safe - Toys for Girls and Boys - Easter, Classroom Reward, Party Supplies, Halloween",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MToyMDQxNjMzNDkyODA5MzYxOjE3OTI2ODU3MzE6c3BfZGV0YWlsMjozMDEzMzc0MTIwMDA5MDI6Ojo6&url=%2Fdp%2FB0C6YM278K%2Fref%3Dsspa_dk_detail_1%3Fpsc%3D1%26pd_rd_i%3DB0C6YM278K%26pd_rd_w%3DXgmrJ%26content-id%3Damzn1.sym.4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_p%3D4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_r%3DP2BDQT4FAWWQFRFJ5E1V%26pd_rd_wg%3Dn47jd%26pd_rd_r%3De98204a5-3d26-4323-8dff-233eed6bd432%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+        "link_clean": "https://www.amazon.com/dp/B0C6YM278K/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0C6YM278K&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "badges": [
+          "Amazon's Choice",
+          "Limited time deal"
+        ],
+        "thumbnail": "https://m.media-amazon.com/images/I/91GuXs7nUPL._AC_UF480,480_SR480,480_.jpg",
+        "rating": 4.6,
+        "reviews": 2918,
+        "discount": "-33%",
+        "price": "$13.49",
+        "extracted_price": 13.49,
+        "old_price": "null"
+      },
+      {
+        "position": 10,
+        "asin": "B0H8JDQ4QH",
+        "title": "30 PCS Halloween Party Favors Gifts 3D Fidget Toys Goodie Bag Stuffers | Halloween ...",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MToyMDQxNjMzNDkyODA5MzYxOjE3OTI2ODU3MzE6c3BfZGV0YWlsMjozMDE1NzgxNTQ4MjEzMDI6Ojo6&url=%2Fdp%2FB0H8JDQ4QH%2Fref%3Dsspa_dk_detail_2%3Fpsc%3D1%26pd_rd_i%3DB0H8JDQ4QH%26pd_rd_w%3DXgmrJ%26content-id%3Damzn1.sym.4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_p%3D4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_r%3DP2BDQT4FAWWQFRFJ5E1V%26pd_rd_wg%3Dn47jd%26pd_rd_r%3De98204a5-3d26-4323-8dff-233eed6bd432%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+        "link_clean": "https://www.amazon.com/dp/B0H8JDQ4QH/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0H8JDQ4QH&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "thumbnail": "https://m.media-amazon.com/images/I/71q+cZYSJXL._AC_UF480,480_SR480,480_.jpg",
+        "rating": 3.5,
+        "reviews": 61,
+        "price": "$16.97",
+        "extracted_price": 16.97,
+        "price_unit": "$0.57 / count",
+        "extracted_price_unit": 0.57
+      },
+      {
+        "position": 11,
+        "asin": "B0F2J3FXM8",
+        "title": "60 PCS Halloween Sticky Hands Party Favors Toys Gifts Bulk for Toddlers | Halloween...",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MToyMDQxNjMzNDkyODA5MzYxOjE3OTI2ODU3MzE6c3BfZGV0YWlsMjozMDA5MzY0NjEwMDY3MDI6Ojo6&url=%2Fdp%2FB0F2J3FXM8%2Fref%3Dsspa_dk_detail_3%3Fpsc%3D1%26pd_rd_i%3DB0F2J3FXM8%26pd_rd_w%3DXgmrJ%26content-id%3Damzn1.sym.4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_p%3D4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_r%3DP2BDQT4FAWWQFRFJ5E1V%26pd_rd_wg%3Dn47jd%26pd_rd_r%3De98204a5-3d26-4323-8dff-233eed6bd432%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+        "link_clean": "https://www.amazon.com/dp/B0F2J3FXM8/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0F2J3FXM8&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "thumbnail": "https://m.media-amazon.com/images/I/81AAM3h6DuL._AC_UF480,480_SR480,480_.jpg",
+        "rating": 4.6,
+        "reviews": 320,
+        "price": "$17.89",
+        "extracted_price": 17.89,
+        "price_unit": "$0.30 / count",
+        "extracted_price_unit": 0.3
+      },
+      {
+        "position": 12,
+        "asin": "B0H418W47K",
+        "title": "60 PCS Halloween Party Favors For Kids,Halloween Coil Spring for Kids | Halloween C...",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MToyMDQxNjMzNDkyODA5MzYxOjE3OTI2ODU3MzE6c3BfZGV0YWlsMjozMDE1NDM5Mzg1MTI3MDI6Ojo6&url=%2Fdp%2FB0H418W47K%2Fref%3Dsspa_dk_detail_4%3Fpsc%3D1%26pd_rd_i%3DB0H418W47K%26pd_rd_w%3DXgmrJ%26content-id%3Damzn1.sym.4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_p%3D4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_r%3DP2BDQT4FAWWQFRFJ5E1V%26pd_rd_wg%3Dn47jd%26pd_rd_r%3De98204a5-3d26-4323-8dff-233eed6bd432%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+        "link_clean": "https://www.amazon.com/dp/B0H418W47K/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0H418W47K&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "thumbnail": "https://m.media-amazon.com/images/I/81c+AeH3X6L._AC_UF480,480_SR480,480_.jpg",
+        "rating": 5.0,
+        "reviews": 8,
+        "price": "$23.99",
+        "extracted_price": 23.99,
+        "price_unit": "$47.98 / count",
+        "extracted_price_unit": 47.98
+      },
+      {
+        "position": 13,
+        "asin": "B0F7XP1NK4",
+        "title": "80pcs Halloween Bubble Wands, Halloween Party Favors for Kids, Halloweens' Goodie B...",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MToyMDQxNjMzNDkyODA5MzYxOjE3OTI2ODU3MzE6c3BfZGV0YWlsMjozMDE1OTQ3NzY5Mzc0MDI6Ojo6&url=%2Fdp%2FB0F7XP1NK4%2Fref%3Dsspa_dk_detail_5%3Fpsc%3D1%26pd_rd_i%3DB0F7XP1NK4%26pd_rd_w%3DXgmrJ%26content-id%3Damzn1.sym.4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_p%3D4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_r%3DP2BDQT4FAWWQFRFJ5E1V%26pd_rd_wg%3Dn47jd%26pd_rd_r%3De98204a5-3d26-4323-8dff-233eed6bd432%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+        "link_clean": "https://www.amazon.com/dp/B0F7XP1NK4/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0F7XP1NK4&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "thumbnail": "https://m.media-amazon.com/images/I/815kSqMimBL._AC_UF480,480_SR480,480_.jpg",
+        "rating": 4.2,
+        "reviews": 42,
+        "price": "$24.99",
+        "extracted_price": 24.99,
+        "price_unit": "$1.56 / ounce",
+        "extracted_price_unit": 1.56
+      },
+      {
+        "position": 14,
+        "asin": "B0BH8MT1JK",
+        "title": "Halloween Light Up Party Favors for Kids 24PCS,Glow Stick Bracelet Necklace | Bulk ...",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MToyMDQxNjMzNDkyODA5MzYxOjE3OTI2ODU3MzE6c3BfZGV0YWlsMjozMDA2ODE2MDU0MTIyMDI6Ojo6&url=%2Fdp%2FB0BH8MT1JK%2Fref%3Dsspa_dk_detail_6%3Fpsc%3D1%26pd_rd_i%3DB0BH8MT1JK%26pd_rd_w%3DXgmrJ%26content-id%3Damzn1.sym.4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_p%3D4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_r%3DP2BDQT4FAWWQFRFJ5E1V%26pd_rd_wg%3Dn47jd%26pd_rd_r%3De98204a5-3d26-4323-8dff-233eed6bd432%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+        "link_clean": "https://www.amazon.com/dp/B0BH8MT1JK/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0BH8MT1JK&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "thumbnail": "https://m.media-amazon.com/images/I/81SupUsLo-L._AC_UF480,480_SR480,480_.jpg",
+        "rating": 4.6,
+        "reviews": 3629,
+        "price": "$28.89",
+        "extracted_price": 28.89,
+        "price_unit": "$1.20 / count",
+        "extracted_price_unit": 1.2
+      }
+    ],
+    "related_product_sections": [
+      {
+        "title": "Deals on related products",
+        "items": [
+          {
+            "position": 1,
+            "asin": "B0DNDKK4GB",
+            "title": "800Pcs Bulk Fidget Toys Kids Treasure Box Classroom Prize Fillers",
+            "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MToyNzE1MzI2MjE4NjY4MTgxOjE3OTI2ODU3MzE6c3BfZGV0YWlsX3RoZW1hdGljOjMwMTM0MTAzNDg0NTAwMjo6Ojo&url=%2Fdp%2FB0DNDKK4GB%2Fref%3Dsspa_dk_detail_0%3Fpsc%3D1%26pd_rd_i%3DB0DNDKK4GB%26pd_rd_w%3D8IpOt%26content-id%3Damzn1.sym.3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_p%3D3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_r%3DP2BDQT4FAWWQFRFJ5E1V%26pd_rd_wg%3Dn47jd%26pd_rd_r%3De98204a5-3d26-4323-8dff-233eed6bd432%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM",
+            "link_clean": "https://www.amazon.com/dp/B0DNDKK4GB/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0DNDKK4GB&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "badges": [
+              "Limited time deal"
+            ],
+            "thumbnail": "https://m.media-amazon.com/images/I/81XIDnbV13L._AC_UF480,480_SR480,480_.jpg",
+            "rating": 4.2,
+            "reviews": 194,
+            "discount": "-12%",
+            "price": "$21.99",
+            "extracted_price": 21.99,
+            "old_price": "null"
+          },
+          {
+            "position": 2,
+            "asin": "B0DL5S8DTY",
+            "title": "1000 Pcs Party Favors for Kids, Fidget Toys Bulk, Prizes for Kids, Fidget Stocking Stuffers Birthday Party Gifts, Carnival Treasure Classroom Prizes Box, Goodie Bag Stuffers",
+            "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MToyNzE1MzI2MjE4NjY4MTgxOjE3OTI2ODU3MzE6c3BfZGV0YWlsX3RoZW1hdGljOjMwMTUzNjgxNTM3NzQwMjo6Ojo&url=%2Fdp%2FB0DL5S8DTY%2Fref%3Dsspa_dk_detail_1%3Fpsc%3D1%26pd_rd_i%3DB0DL5S8DTY%26pd_rd_w%3D8IpOt%26content-id%3Damzn1.sym.3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_p%3D3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_r%3DP2BDQT4FAWWQFRFJ5E1V%26pd_rd_wg%3Dn47jd%26pd_rd_r%3De98204a5-3d26-4323-8dff-233eed6bd432%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM",
+            "link_clean": "https://www.amazon.com/dp/B0DL5S8DTY/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0DL5S8DTY&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "badges": [
+              "Amazon's Choice",
+              "Limited time deal"
+            ],
+            "thumbnail": "https://m.media-amazon.com/images/I/81NEZOKWqzL._AC_UF480,480_SR480,480_.jpg",
+            "rating": 4.3,
+            "reviews": 719,
+            "discount": "-10%",
+            "price": "$26.99",
+            "extracted_price": 26.99,
+            "old_price": "null"
+          },
+          {
+            "position": 3,
+            "asin": "B0D7JG7F3Q",
+            "title": "24 PCS Halloween Rubber Ducks Jeep Ducking Party Favors | Spooky Trick or Treat Bat...",
+            "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MToyNzE1MzI2MjE4NjY4MTgxOjE3OTI2ODU3MzE6c3BfZGV0YWlsX3RoZW1hdGljOjMwMDQwMzk2NDc0MzkwMjo6Ojo&url=%2Fdp%2FB0D7JG7F3Q%2Fref%3Dsspa_dk_detail_2%3Fpsc%3D1%26pd_rd_i%3DB0D7JG7F3Q%26pd_rd_w%3D8IpOt%26content-id%3Damzn1.sym.3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_p%3D3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_r%3DP2BDQT4FAWWQFRFJ5E1V%26pd_rd_wg%3Dn47jd%26pd_rd_r%3De98204a5-3d26-4323-8dff-233eed6bd432%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM",
+            "link_clean": "https://www.amazon.com/dp/B0D7JG7F3Q/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0D7JG7F3Q&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "badges": [
+              "Limited time deal"
+            ],
+            "thumbnail": "https://m.media-amazon.com/images/I/71fdUadXChL._AC_UF480,480_SR480,480_.jpg",
+            "rating": 4.7,
+            "reviews": 153,
+            "discount": "-15%",
+            "price": "$16.99",
+            "extracted_price": 16.99,
+            "old_price": "null"
+          },
+          {
+            "position": 4,
+            "asin": "B0GYMS663X",
+            "title": "NIGHT JOY Halloween Party Favors 2026, 24 Figurines for Goodie-Bag Stuffer | Halloween Non-Candy treats, Spooky Collectible Figures Toys for Kids Halloween Decorations, Classroom Prizes, Basket Filler",
+            "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MToyNzE1MzI2MjE4NjY4MTgxOjE3OTI2ODU3MzE6c3BfZGV0YWlsX3RoZW1hdGljOjMwMTU1ODU5OTU0OTAwMjo6Ojo&url=%2Fdp%2FB0GYMS663X%2Fref%3Dsspa_dk_detail_3%3Fpsc%3D1%26pd_rd_i%3DB0GYMS663X%26pd_rd_w%3D8IpOt%26content-id%3Damzn1.sym.3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_p%3D3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_r%3DP2BDQT4FAWWQFRFJ5E1V%26pd_rd_wg%3Dn47jd%26pd_rd_r%3De98204a5-3d26-4323-8dff-233eed6bd432%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM",
+            "link_clean": "https://www.amazon.com/dp/B0GYMS663X/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0GYMS663X&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "badges": [
+              "Limited time deal"
+            ],
+            "thumbnail": "https://m.media-amazon.com/images/I/715ZA1s6i3L._AC_UF480,480_SR480,480_.jpg",
+            "rating": 4.2,
+            "reviews": 24,
+            "discount": "-10%",
+            "price": "$8.99",
+            "extracted_price": 8.99,
+            "old_price": "null"
+          },
+          {
+            "position": 5,
+            "asin": "B0FSF1H7NT",
+            "title": "358PCS Christmas Toys for Party Favors , Goodie Bag Pinata Stocking Stuffers Bulk, ...",
+            "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MToyNzE1MzI2MjE4NjY4MTgxOjE3OTI2ODU3MzE6c3BfZGV0YWlsX3RoZW1hdGljOjMwMTA0MzA5OTA0NzQwMjo6Ojo&url=%2Fdp%2FB0FSF1H7NT%2Fref%3Dsspa_dk_detail_4%3Fpsc%3D1%26pd_rd_i%3DB0FSF1H7NT%26pd_rd_w%3D8IpOt%26content-id%3Damzn1.sym.3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_p%3D3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_r%3DP2BDQT4FAWWQFRFJ5E1V%26pd_rd_wg%3Dn47jd%26pd_rd_r%3De98204a5-3d26-4323-8dff-233eed6bd432%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM",
+            "link_clean": "https://www.amazon.com/dp/B0FSF1H7NT/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0FSF1H7NT&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "badges": [
+              "Limited time deal"
+            ],
+            "thumbnail": "https://m.media-amazon.com/images/I/91P5+L0VJLL._AC_UF480,480_SR480,480_.jpg",
+            "rating": 4.7,
+            "reviews": 334,
+            "discount": "-25%",
+            "price": "$29.99",
+            "extracted_price": 29.99,
+            "price_unit": "$0.08 / ounce",
+            "extracted_price_unit": 0.08,
+            "old_price": "null"
+          },
+          {
+            "position": 6,
+            "asin": "B09J8ZFVWZ",
+            "title": "UpBrands 72 Stretchy Snakes Toys, Easter Egg Basket Stuffers, Pinata Filler, Small Classroom Prizes, Easter Egg Basket Stuffers, Pinata Filler, Small Classroom Prizes",
+            "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MToyNzE1MzI2MjE4NjY4MTgxOjE3OTI2ODU3MzE6c3BfZGV0YWlsX3RoZW1hdGljOjIwMDA3MDg5MzU4NDM5ODo6Ojo&url=%2Fdp%2FB09J8ZFVWZ%2Fref%3Dsspa_dk_detail_5%3Fpsc%3D1%26pd_rd_i%3DB09J8ZFVWZ%26pd_rd_w%3D8IpOt%26content-id%3Damzn1.sym.3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_p%3D3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_r%3DP2BDQT4FAWWQFRFJ5E1V%26pd_rd_wg%3Dn47jd%26pd_rd_r%3De98204a5-3d26-4323-8dff-233eed6bd432%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM",
+            "link_clean": "https://www.amazon.com/dp/B09J8ZFVWZ/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B09J8ZFVWZ&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "badges": [
+              "Limited time deal"
+            ],
+            "thumbnail": "https://m.media-amazon.com/images/I/81wx-gFiDdL._AC_UF480,480_SR480,480_.jpg",
+            "rating": 4.4,
+            "reviews": 122,
+            "discount": "-30%",
+            "price": "$12.94",
+            "extracted_price": 12.94,
+            "old_price": "null"
+          },
+          {
+            "position": 7,
+            "asin": "B0F63G66SZ",
+            "title": "24PCS Princess Bubble Wands Toys for Kids, Princess Birthday Party Favors Supplies Decorations, Classroom Prizes, Pinata Fillers, Goodie Bag Stuffers Gifts",
+            "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MToyNzE1MzI2MjE4NjY4MTgxOjE3OTI2ODU3MzE6c3BfZGV0YWlsX3RoZW1hdGljOjMwMTI1OTc4ODAwODAwMjo6Ojo&url=%2Fdp%2FB0F63G66SZ%2Fref%3Dsspa_dk_detail_6%3Fpsc%3D1%26pd_rd_i%3DB0F63G66SZ%26pd_rd_w%3D8IpOt%26content-id%3Damzn1.sym.3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_p%3D3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_r%3DP2BDQT4FAWWQFRFJ5E1V%26pd_rd_wg%3Dn47jd%26pd_rd_r%3De98204a5-3d26-4323-8dff-233eed6bd432%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM",
+            "link_clean": "https://www.amazon.com/dp/B0F63G66SZ/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0F63G66SZ&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "badges": [
+              "Limited time deal"
+            ],
+            "thumbnail": "https://m.media-amazon.com/images/I/81IBVjKrGSL._AC_UF480,480_SR480,480_.jpg",
+            "rating": 4.4,
+            "reviews": 541,
+            "discount": "-10%",
+            "price": "$13.49",
+            "extracted_price": 13.49,
+            "old_price": "null"
+          }
+        ]
+      },
+      {
+        "title": "Products related to this item",
+        "items": [
+          {
+            "position": 1,
+            "asin": "B0H7Z5HZH4",
+            "title": "25Pcs Halloween Party Favors rings for Kids Trick or Treats Halloween Toys | Light ...",
+            "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MToyMDQxNjMzNDkyODA5MzYxOjE3OTI2ODU3MzE6c3BfZGV0YWlsMjozMDE1OTkyNzcxMzc0MDI6Ojo6&url=%2Fdp%2FB0H7Z5HZH4%2Fref%3Dsspa_dk_detail_0%3Fpsc%3D1%26pd_rd_i%3DB0H7Z5HZH4%26pd_rd_w%3DXgmrJ%26content-id%3Damzn1.sym.4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_p%3D4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_r%3DP2BDQT4FAWWQFRFJ5E1V%26pd_rd_wg%3Dn47jd%26pd_rd_r%3De98204a5-3d26-4323-8dff-233eed6bd432%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+            "link_clean": "https://www.amazon.com/dp/B0H7Z5HZH4/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0H7Z5HZH4&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "thumbnail": "https://m.media-amazon.com/images/I/8147WIY1IDL._AC_UF480,480_SR480,480_.jpg",
+            "rating": 3.7,
+            "reviews": 43,
+            "price": "$15.97",
+            "extracted_price": 15.97
+          },
+          {
+            "position": 2,
+            "asin": "B0C6YM278K",
+            "title": "JOYIN Slime Party Favors, 24 Pack Galaxy Slime Ball - Stretchy, Non-Sticky, Mess-Free, Stress Relief, and Safe - Toys for Girls and Boys - Easter, Classroom Reward, Party Supplies, Halloween",
+            "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MToyMDQxNjMzNDkyODA5MzYxOjE3OTI2ODU3MzE6c3BfZGV0YWlsMjozMDEzMzc0MTIwMDA5MDI6Ojo6&url=%2Fdp%2FB0C6YM278K%2Fref%3Dsspa_dk_detail_1%3Fpsc%3D1%26pd_rd_i%3DB0C6YM278K%26pd_rd_w%3DXgmrJ%26content-id%3Damzn1.sym.4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_p%3D4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_r%3DP2BDQT4FAWWQFRFJ5E1V%26pd_rd_wg%3Dn47jd%26pd_rd_r%3De98204a5-3d26-4323-8dff-233eed6bd432%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+            "link_clean": "https://www.amazon.com/dp/B0C6YM278K/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0C6YM278K&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "badges": [
+              "Amazon's Choice",
+              "Limited time deal"
+            ],
+            "thumbnail": "https://m.media-amazon.com/images/I/91GuXs7nUPL._AC_UF480,480_SR480,480_.jpg",
+            "rating": 4.6,
+            "reviews": 2918,
+            "discount": "-33%",
+            "price": "$13.49",
+            "extracted_price": 13.49,
+            "old_price": "null"
+          },
+          {
+            "position": 3,
+            "asin": "B0H8JDQ4QH",
+            "title": "30 PCS Halloween Party Favors Gifts 3D Fidget Toys Goodie Bag Stuffers | Halloween ...",
+            "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MToyMDQxNjMzNDkyODA5MzYxOjE3OTI2ODU3MzE6c3BfZGV0YWlsMjozMDE1NzgxNTQ4MjEzMDI6Ojo6&url=%2Fdp%2FB0H8JDQ4QH%2Fref%3Dsspa_dk_detail_2%3Fpsc%3D1%26pd_rd_i%3DB0H8JDQ4QH%26pd_rd_w%3DXgmrJ%26content-id%3Damzn1.sym.4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_p%3D4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_r%3DP2BDQT4FAWWQFRFJ5E1V%26pd_rd_wg%3Dn47jd%26pd_rd_r%3De98204a5-3d26-4323-8dff-233eed6bd432%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+            "link_clean": "https://www.amazon.com/dp/B0H8JDQ4QH/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0H8JDQ4QH&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "thumbnail": "https://m.media-amazon.com/images/I/71q+cZYSJXL._AC_UF480,480_SR480,480_.jpg",
+            "rating": 3.5,
+            "reviews": 61,
+            "price": "$16.97",
+            "extracted_price": 16.97,
+            "price_unit": "$0.57 / count",
+            "extracted_price_unit": 0.57
+          },
+          {
+            "position": 4,
+            "asin": "B0F2J3FXM8",
+            "title": "60 PCS Halloween Sticky Hands Party Favors Toys Gifts Bulk for Toddlers | Halloween...",
+            "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MToyMDQxNjMzNDkyODA5MzYxOjE3OTI2ODU3MzE6c3BfZGV0YWlsMjozMDA5MzY0NjEwMDY3MDI6Ojo6&url=%2Fdp%2FB0F2J3FXM8%2Fref%3Dsspa_dk_detail_3%3Fpsc%3D1%26pd_rd_i%3DB0F2J3FXM8%26pd_rd_w%3DXgmrJ%26content-id%3Damzn1.sym.4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_p%3D4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_r%3DP2BDQT4FAWWQFRFJ5E1V%26pd_rd_wg%3Dn47jd%26pd_rd_r%3De98204a5-3d26-4323-8dff-233eed6bd432%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+            "link_clean": "https://www.amazon.com/dp/B0F2J3FXM8/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0F2J3FXM8&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "thumbnail": "https://m.media-amazon.com/images/I/81AAM3h6DuL._AC_UF480,480_SR480,480_.jpg",
+            "rating": 4.6,
+            "reviews": 320,
+            "price": "$17.89",
+            "extracted_price": 17.89,
+            "price_unit": "$0.30 / count",
+            "extracted_price_unit": 0.3
+          },
+          {
+            "position": 5,
+            "asin": "B0H418W47K",
+            "title": "60 PCS Halloween Party Favors For Kids,Halloween Coil Spring for Kids | Halloween C...",
+            "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MToyMDQxNjMzNDkyODA5MzYxOjE3OTI2ODU3MzE6c3BfZGV0YWlsMjozMDE1NDM5Mzg1MTI3MDI6Ojo6&url=%2Fdp%2FB0H418W47K%2Fref%3Dsspa_dk_detail_4%3Fpsc%3D1%26pd_rd_i%3DB0H418W47K%26pd_rd_w%3DXgmrJ%26content-id%3Damzn1.sym.4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_p%3D4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_r%3DP2BDQT4FAWWQFRFJ5E1V%26pd_rd_wg%3Dn47jd%26pd_rd_r%3De98204a5-3d26-4323-8dff-233eed6bd432%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+            "link_clean": "https://www.amazon.com/dp/B0H418W47K/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0H418W47K&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "thumbnail": "https://m.media-amazon.com/images/I/81c+AeH3X6L._AC_UF480,480_SR480,480_.jpg",
+            "rating": 5.0,
+            "reviews": 8,
+            "price": "$23.99",
+            "extracted_price": 23.99,
+            "price_unit": "$47.98 / count",
+            "extracted_price_unit": 47.98
+          },
+          {
+            "position": 6,
+            "asin": "B0F7XP1NK4",
+            "title": "80pcs Halloween Bubble Wands, Halloween Party Favors for Kids, Halloweens' Goodie B...",
+            "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MToyMDQxNjMzNDkyODA5MzYxOjE3OTI2ODU3MzE6c3BfZGV0YWlsMjozMDE1OTQ3NzY5Mzc0MDI6Ojo6&url=%2Fdp%2FB0F7XP1NK4%2Fref%3Dsspa_dk_detail_5%3Fpsc%3D1%26pd_rd_i%3DB0F7XP1NK4%26pd_rd_w%3DXgmrJ%26content-id%3Damzn1.sym.4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_p%3D4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_r%3DP2BDQT4FAWWQFRFJ5E1V%26pd_rd_wg%3Dn47jd%26pd_rd_r%3De98204a5-3d26-4323-8dff-233eed6bd432%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+            "link_clean": "https://www.amazon.com/dp/B0F7XP1NK4/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0F7XP1NK4&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "thumbnail": "https://m.media-amazon.com/images/I/815kSqMimBL._AC_UF480,480_SR480,480_.jpg",
+            "rating": 4.2,
+            "reviews": 42,
+            "price": "$24.99",
+            "extracted_price": 24.99,
+            "price_unit": "$1.56 / ounce",
+            "extracted_price_unit": 1.56
+          },
+          {
+            "position": 7,
+            "asin": "B0BH8MT1JK",
+            "title": "Halloween Light Up Party Favors for Kids 24PCS,Glow Stick Bracelet Necklace | Bulk ...",
+            "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MToyMDQxNjMzNDkyODA5MzYxOjE3OTI2ODU3MzE6c3BfZGV0YWlsMjozMDA2ODE2MDU0MTIyMDI6Ojo6&url=%2Fdp%2FB0BH8MT1JK%2Fref%3Dsspa_dk_detail_6%3Fpsc%3D1%26pd_rd_i%3DB0BH8MT1JK%26pd_rd_w%3DXgmrJ%26content-id%3Damzn1.sym.4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_p%3D4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_r%3DP2BDQT4FAWWQFRFJ5E1V%26pd_rd_wg%3Dn47jd%26pd_rd_r%3De98204a5-3d26-4323-8dff-233eed6bd432%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+            "link_clean": "https://www.amazon.com/dp/B0BH8MT1JK/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0BH8MT1JK&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "thumbnail": "https://m.media-amazon.com/images/I/81SupUsLo-L._AC_UF480,480_SR480,480_.jpg",
+            "rating": 4.6,
+            "reviews": 3629,
+            "price": "$28.89",
+            "extracted_price": 28.89,
+            "price_unit": "$1.20 / count",
+            "extracted_price_unit": 1.2
+          }
+        ]
+      }
+    ],
+    "videos": [
+      {
+        "position": 1,
+        "title": "24PCS Halloween Squishy Toys For Kids",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/58885675-ea32-4d83-a9c8-bb6698916508/default.jobtemplate.hls.m3u8",
+        "thumbnail": "https://m.media-amazon.com/images/I/91gChFcFc4L.png",
+        "duration": "0:38",
+        "vendor": "LMY-US88",
+        "date": "Oct 1, 2025"
+      },
+      {
+        "position": 2,
+        "title": "Super squishy!",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/b4a56528-555e-4d16-bd13-2e081596e7ab/default.vertical.jobtemplate.hls.m3u8",
+        "thumbnail": "https://m.media-amazon.com/images/I/51n0xeHsjeL.jpg",
+        "duration": "0:07",
+        "vendor": "DomesticGoddess",
+        "vendor_thumbnail": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SL34_.png",
+        "date": "Nov 4, 2025"
+      },
+      {
+        "position": 3,
+        "title": "Watch to see what I do with these SQUISHY TOYS!!",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/45932385-01aa-41f6-b6a6-82e15d33a2eb/default.vertical.jobtemplate.hls.m3u8",
+        "thumbnail": "https://m.media-amazon.com/images/I/81tsrz1c7VL.jpg",
+        "duration": "2:48",
+        "vendor": "Mom of Many - Kids and Animals",
+        "vendor_thumbnail": "https://m.media-amazon.com/images/I/41J0bJnAtDL._CR0,0,354,354_._FMjpg_._SL34_.jpg",
+        "date": "Oct 17, 2026"
+      }
+    ],
+    "product_details": {
+      "age_range_description": "Kid",
+      "brand_name": "Fumogym",
+      "number_of_items": "24",
+      "included_components": "Party Favors",
+      "manufacturer": "Fumogym",
+      "model_number": "20250701A",
+      "manufacturer_part_number": "20250701A",
+      "set_name": "Halloween",
+      "best_sellers_rank": [
+        {
+          "text": "#3,706 in Toys & Games (See Top 100 in Toys & Games)",
+          "extracted_rank": 3706,
+          "link": "https://www.amazon.com/gp/bestsellers/toys-and-games/ref=pd_zg_ts_toys-and-games",
+          "link_text": "See Top 100 in Toys & Games"
+        },
+        {
+          "text": "#135 in Kids' Multi-Item Party Favor Packs",
+          "extracted_rank": 135,
+          "link": "https://www.amazon.com/gp/bestsellers/toys-and-games/23569992011/ref=pd_zg_hrsr_toys-and-games",
+          "link_text": "Kids' Multi-Item Party Favor Packs"
+        }
+      ],
+      "asin": "B0FNDCYYFP",
+      "customer_reviews": "4.5 out of 5 stars",
+      "rating": 4.5,
+      "reviews": 225,
+      "manufacturer_recommended_age": "3 years and up",
+      "size": "6cm - 8cm",
+      "item_dimensions": "2.36 x 1.57 x 3.14 inches",
+      "item_diameter": "6 centimeters",
+      "color": "Halloween",
+      "theme": "Halloween",
+      "subject_character": "halloween",
+      "material_type": "Polyurethane (PU)"
+    },
+    "sponsored_brands": [
+      {
+        "position": 1,
+        "asin": "B0H4GXQ5WN",
+        "title": "100PCS Halloween Party Favors for Kids Boys Girls LED Light Up Halloween Rings, Glow in The Dark Temporary Tattoos, Halloween Toys Goodie Bag Fillers Classroom Rewards Trick or Treat Non Candy Treats",
+        "link": "https://aax-us-east-retail-direct.amazon.com/x/c/JDro49Q3O-hegjeSHnKurAAAAAGhZGVu1AEAAAH2AQBvbm9fdHhuX2JpZDIgICBvbm9fdHhuX2ltcDIgICBPTPPB/clv1c_ek-wxfHXLcTWDVVAWi4kasJ9BF4_6vJLUBvbcJALqZlf7r20p4xnT1mlH5OgqAySFJIlho0nrG-hgUvXCRulLZwExUQ2vriiZghRhbu10Zy6jRAuMo4LF7SOo3t1lqrhdz8ZhBRTqkYlKqPoTlQk9WV7ipydkAVKE8R6QjO02ha32egcDfq4qdIF2ynNmLBPfijV9hIBRsXI2u_nW1rq0lq2IcGXhM401qrWjm5mJ00ZNLeoPP4QCQab5MJxv1-JPsAs_rjAd8Iq8f4je1s8vVFzq1Kmsx32hxPFUaR2xs-vrx6qne9xJNvJoiggP4R1FKpbtMyo-FgijGkoNUp76zBYrmHN6KfA64S7O-j9aHUPDnJO_tj6dasZLsNrb_2H_rj1JuHo_iu8DldSfBRO_x0nLIwiq9M5uppFp22TtssHFDBWOMH7fgtfp_g3IeZ13NP2xnJgQQofxc6XcRIrya-afph9slHHsZ0u1OZsLWBeTASk3noK2apxzIWcP-TIi_ybhztkoUI0RU66U9iNxFGKPAGaMEgnrXuwsvaCgRm98ShrTXrz-yGqMA1LR3WAKXw99UF1BKSH5sgBTVF24Jvq6W67dzdFN_MuAxF6cpDPtCXWzF2dX4Z6JLPGtyee0acYg2QbOBsNS_9F_oT-VC7DmCrKG3FCyII7MLOoXm0vfU3jXYvY9qptz8vxlRj0wx6Mjg_gD2kEL00gQ5BunrbhN2Jxl7OugNxKWgzAN0Iwe2qxzmKELiIH2juvQWyoB6nAB_-kcnRpXTBZ0BfIVDX4sEwiIu0u0wUGKPWSFstsFDcXqAVw9tj4rFzp9SXv5yNQBmxJ2u5-VmaMgbB_9OTFQpahmCagaO5P-fuu1Vi_s6SwKR_OdwI72v_7JEi7wp3hnDIU4mrQVA2jyh-TKhR1vOGjZphkBb3JfSnByqtsOUgYIYkRy-ng-v4bsy91FI8YkNCv-f5myL7KBM0Xewn6UnAGgsfED_GHOHUvCq6wm9I76ji74c_Ra_9WTZ9TPCH4MAMtIIy-x5xvKr7rZ-aUnImoPoA1mTHuL-eyHGtghwPlx2EwGrDwHERKS6phMxnfTsCHsIJyAqnTIDl-1lrvEHOabrRteffpr6EmxwpqeF-14RtLyj_K8NWvZsawcQOrDF_U_meiNvhGD_ItTeeXMR14ChGKQJfc8ZGp2Rd8Ls_9Yg1HrodlFY08SugsBPEzK22bxzck6PizSlcDYVNAjYCwDVE7-MVc7ihC6ahF-A-XlxQGWswgMLoxm9_om8xyfRMEk_aRvXqyD75F6mTgIl8lrJ3aCcL7SLXiyuqQsi0iGbaern-pZt_JZer-vg-u7cMFuKQ1G7AX2f6qkb9AClVKghBQvwUnUT8U3phjcvR9pjlIgAILYAdn24PNAShfQZRYFzjG74kWiOr38x6KflhMGJUGNOgp45HSdl-vzeqLkoDkHQQIKdWNTNBprqWdAhHvL4RY5nv97i8c7WM0CZH2ik5yDfqJEjOWTGuqepQ0jwEQU-l8nwHjgOr8YKu0MioAkkCDfkROSmUWgnI0fb9c6v13TdNtLvtJHLaDdl9KYjcanVf3QzMxWflL9XQQBSJS1aPo3WJto0wo8ULonqKq7GsRyQgZ8nDwhWItfvrtgQ/https://www.amazon.com/dp/B0H4GXQ5WN/?_encoding=UTF8&pd_rd_i=B0H4GXQ5WN&pd_rd_i=B0H4GXQ5WN&ref_=sbx_be_s_sparkle_ssd_cta&pd_rd_w=MCKik&content-id=amzn1.sym.fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=P2BDQT4FAWWQFRFJ5E1V&pd_rd_wg=n47jd&pd_rd_r=e98204a5-3d26-4323-8dff-233eed6bd432",
+        "link_clean": "https://www.amazon.com/dp/B0H4GXQ5WN/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0H4GXQ5WN&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "thumbnail": "https://m.media-amazon.com/images/I/512TGni7qML._AC_SR100,100_QL65_.jpg",
+        "video": {
+          "link": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/bb5c1c1f-bf81-42e6-8d75-260bacc482aa.mp4/productVideoOptimized.mp4",
+          "thumbnail": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/bb5c1c1f-bf81-42e6-8d75-260bacc482aa.mp4/r/THUMBNAIL_360P_FRAME_3_CAPTURE_2.JPG"
+        },
+        "rating": 4.6,
+        "reviews": 34,
+        "price": "$26.99",
+        "extracted_price": 26.99
+      },
+      {
+        "position": 2,
+        "asin": "B0HBCR1JGS",
+        "title": "100 PCS Halloween Party Favors for Kids, Halloween Glow in The Dark Toys Bulk Party Supplies Light Up Necklace LED Ring Bracelet Halloween Goodie Bag Fillers Treats for Classroom Prizes Trick or Treat",
+        "link": "https://aax-us-east-retail-direct.amazon.com/x/c/JL_EwudDbPAINK8cFWKx0SIAAAGhZGVu1QEAAAH2AQBvbm9fdHhuX2JpZDIgICBvbm9fdHhuX2ltcDIgICCpsq0u/clv1c_ek-YBfHXUsbWHkcJGv1TGvhI6tIxSEYY8C5sqeBl19rJbWvyGDcBkNpJnmUEbLiNqmP1D4XR9OWjFkztMkLrULF8ps1VXRgGQ6PxS2CRGQkuqJ17CJCJZo4i5_xCxpLzUw1oW9ALsgwfCA1RhLdkh-hZMtuGJhXqkeAg-j3uuCbPeeoYGdaj6-KCSENWksMwvGx89oJkmoDFxPnb61LMMouDGd0Thco8vp0PvmoNUozPtbahuDZAc7RU1AoPo9KZGbmCMMJiPZ0Cd5cMQWf8ixIlg6ZVDHxviv9qE6nRWD6FVPMKS7w18RFSfrigV6Vgw8UqIajhlda4mH-nsFMtyEeL5YggK0z17LbZrC-blRGc4WPdTIoQkAVBkhV0YVc5DxtM33QMhsy8LEQqLd1Jh7diS1_LIihA633xu6OS0yJZZuzt7ShlUqgzT80HveWmFpbL2BJMdcQw1t_Q7mTycBbRRNi6NDI4A3OeDpz1kr-HlJdjwe5-CK5RPb2fcKWRRypNtj1XQYNsXaq5a4_hPT37suKU-R0iddsyKgSghvmNBaifaD82DUSsMZXA68AMcoEpAaRt3dcekT-7JdMzXl3-8goI1RlMmQE3PhcB_WMl8UD7iPxRPzCS2q1hn2iQna3XZiJFp9rm5GhdRXSyvejh-EIV_fRJlERNGlx-oCVUNEyf5NKNi05hqGME__W-tyouu7K4TS4nlmEA_oRr7jGZ7HKn2sIN9puPWrUIHto_601Jgvu8c3k8YynWSfPmTIbG_I1Fa1XYdukN8w5sVA7nDK5wyEwVgOpgoAImvgFcPfo0JvH7rTK9vB2TkJUJ48RAekKgwbufbZS5gLWkoD4L4sY-BWNwbrRE0Jzu26tUfUn0K3kbmzzkw9K-Ssp-eCMFgM8-CYBzcRRXAIf40oFJ5j5IPvknPwdVXnPhtrEWz4S4KOBxrD9V8wcgdyiZtSCYBB5BC363DBJpOkNaBR2nYQSBacwFllku-ZOXcJA9nVk5MMUTxTXJlwzOA0NQ7RkNLcVV8dyTAnf23T5D7UmRNKqk4KUq7YloSrHAcrQ4xIS-h_hdLNuXJGH2f6p8vFyUW6u6Os1jLJJpY1DJ5-vNQwd7MwzT2QWP4ObBLdF_NImBc1cX0n_WUSm8F1TwHkVudvyH8baAzhneQhYi3crRW9jcxEmeMmwh9arn1wQ_X-TByJf3EPoVOaWOs_vwpUtqiPOIBzJobBTZwQ42Y6dvX_MzPeVCOfLy2ZTU4oYK50W6m-xL_LO5BWw1OJRwGK2aNj2xd_Rgcmzsv4BIk3RbrQ_-YwM6B9Dga9Aasu9_H058rklA-M7R5-hR6hK3CxE_hxdd9viI8Jn6qwNWDYj24dmH1V_HiJYls5cNkNxshJbfzcyjbJx8z0xPsgKyVMkpeWj-Aapl9zAvVmGYEXJdvFXU6-1RuHObKqD4QiE9tvusIziBjKrMAMzRHhThsU0rB7vLkDS3pLAfI10rQ2hh7Ie4kN_stUK1-hl25KZkjqL-SpyLToVt9auZBsnznzFIOxmnxf7g8xrCY7PnEAI-LHXxGZczPtf92gkB94u5txUUyuf70V2efgLTZGXjxPAeaDfOu--jjDNDplONKUPHtUnk-A/https://www.amazon.com/dp/B0HBCR1JGS/?_encoding=UTF8&pd_rd_i=B0HBCR1JGS&pd_rd_i=B0HBCR1JGS&ref_=sbx_be_s_sparkle_ssd_cta&pd_rd_w=MCKik&content-id=amzn1.sym.fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=P2BDQT4FAWWQFRFJ5E1V&pd_rd_wg=n47jd&pd_rd_r=e98204a5-3d26-4323-8dff-233eed6bd432",
+        "link_clean": "https://www.amazon.com/dp/B0HBCR1JGS/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0HBCR1JGS&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "thumbnail": "https://m.media-amazon.com/images/I/61fO-jsh5JL._AC_SR100,100_QL65_.jpg",
+        "video": {
+          "link": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/6db328d1-9d66-47e9-bea1-eb3b4f8fd155.mp4/productVideoOptimized.mp4",
+          "thumbnail": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/6db328d1-9d66-47e9-bea1-eb3b4f8fd155.mp4/r/THUMBNAIL_360P_FRAME_3_CAPTURE_2.JPG"
+        },
+        "rating": 4.5,
+        "reviews": 44,
+        "price": "$27.99",
+        "extracted_price": 27.99
+      },
+      {
+        "position": 3,
+        "asin": "B0FH68GC44",
+        "title": "100PCS Halloween Party Favors for Kids Glow in The Dark Party Supplies Light Up Necklace Bracelet Rings LED Halloween Toys for Trick or Treat Gifts Halloween Treats Goodie Bag Fillers Classroom Prizes",
+        "link": "https://aax-us-east-retail-direct.amazon.com/x/c/JAY9rpodZlzraV50zCYSuigAAAGhZGVu1gEAAAH2AQBvbm9fdHhuX2JpZDIgICBvbm9fdHhuX2ltcDIgICDqhhXM/clv1c_ek-wxfHXLcTWDVVAWi4kasJ9BF4_6vJLUBvbcJALkZlfGcodkkdZymVBaNiHPjCDRVx7wh7tTxeP30TJsjQ3sSfG2S6Z8z4Va7Mgx3_MjEAwitThN93sUdHYoPpsylphhIkIzfnjmxAjvu3ylufixrBo4NyaxvVrkk57yymsXC6f2moANBMFPheCXa1WYpC7_YKqllsTz8cLVeZuslHQGvw5DQovVB4-kFyiA6ITeioil_jZkSNPSllpQnAp-gm6gHEVmPjWQtTP1TTZiixxwsmL0WQYaM8-HlhPiOJpx3cuNN6PcFG3O3xoGhydgj9G_plVFi4dMyVjM-vqWERwXbfGg2QymZh4b9s4e1cZlcpqcsXY0bjvMEFbXy3uX83b-nPuvs7sTqWzLch_eU7Dcu5yFaV3qN4jBkCaTeL2VKJoJgKt4XSz1oTX21nvPbGVnhSOamNuc2s84NEkcThrXoeYhLl6tKCH5UpRdigPkEfmGDcYF-ElZrtnthBtXoCsm3F_1Pn4a8ACu3krW2z_n1MtU2FcUNcB_VmSD_kSxwNZbTk_8wya1VX4HUQuC65B3WTSJa7Vpoop7kF7HScoMsDxU8KDjQaY7yzGJ09zhmKhbtMMkQ1ZH4vFaHmzcIAK_ob37_fn-Ub95OyPYBDzD_WgSiEUauwqlAdxdRSJnMTMXRMA_4JbZOShLkqEx_Uqp96CswhuHZU9oa4KwxIU4yqhsoqrHDUDleLhLg7UR1CqXv596abVZWG8Xxf5QGI8eiaMcc6Dv8bberkrf8G3I38UlgPNYAkaBT_jrlCqPD01u08t_FpINK5Yc-uS1q5GTw21Rmn3NrsQYKnp9EkHJh11UkVgCeC5SfuH8sjctty0AMCIJ3S3keI4aaaBW7BbJ0Ny7Vd0qbm0cRDFuqCDLMWk354ATWp8X1PiWG0hTOK_fFETaZ1k2OBLvJcX8KBO5hwBPYlkvLLn71INNGP5Sp3CpHKssFI5e25_aipW3BtA9Y_xjun-karMQtP7kRssBzVQ8yrgG-40tzXL7pPEtWyY_Z0XKAhPjp9m92bm_ql94NOdj55B4C9OGFD-D7lCzfQktOL2ooJln8gG9hbiOt4siQGD2QdigPQnZpx0-ZPZUKw8IxE25FmMOnQYP27FG3WYlpcsBWdJp4h-KRkj3srudxQh_tlE6r4bhM9t-bW6QOVUIdEIzpQoK6feu0iuB4tYKIjVwLwDzB_u67YS7Fxit5OFbwj098eFnzjrrYJBBhBfjjo-UltxPlPU3khj7F9qzoocRXoIKYe4Q5VRXANtXOCMzHUdj-e4XCtARhEb_fjT5JMNa7_Q_0_rPyGgL1hQXdz0M1R8FOVPkDlFb8AZkboq_ZpCIaTE1CQHR73HKwptS6FmRMsh9eb6JAxX-YV5qqrNQGv5jSEQR9tCFb7jg0aOjZT85dstd8w9Yge_zAGNRhQRM81U-eNvtqFnK9vOnbzo9VwoZ_0heEnNI279uqPszRPlLxcTOVXgTlqSVGIuVLQC8uapfwPGYSlSTDN94_byMlnO_JLPFgu_rQVIrthDYl91onNEencOAMAlRoobceh2h6N1muUjX3fIvuBIACd7RiQq6vCoKOltL-cU7VeqSHQaQhqHDek/https://www.amazon.com/dp/B0FH68GC44/?_encoding=UTF8&pd_rd_i=B0FH68GC44&pd_rd_i=B0FH68GC44&ref_=sbx_be_s_sparkle_ssd_cta&pd_rd_w=MCKik&content-id=amzn1.sym.fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=P2BDQT4FAWWQFRFJ5E1V&pd_rd_wg=n47jd&pd_rd_r=e98204a5-3d26-4323-8dff-233eed6bd432",
+        "link_clean": "https://www.amazon.com/dp/B0FH68GC44/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0FH68GC44&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "thumbnail": "https://m.media-amazon.com/images/I/61jreibCwfL._AC_SR100,100_QL65_.jpg",
+        "video": {
+          "link": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/2f9f5c24-ba84-4a25-adc3-468b8593ff46.mp4/productVideoOptimized.mp4",
+          "thumbnail": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/2f9f5c24-ba84-4a25-adc3-468b8593ff46.mp4/r/THUMBNAIL_360P_FRAME_3_CAPTURE_2.JPG"
+        },
+        "rating": 4.2,
+        "reviews": 150,
+        "price": "$29.99",
+        "extracted_price": 29.99
+      },
+      {
+        "position": 4,
+        "asin": "B0F7L2TPQM",
+        "title": "20-64 PCS Halloween Mini Bubbles,Goodie Treat Bag Stuffers Fillers for Kid | Party Favors Supplies for Toddlers, Non Candy Trick or Treat Trinkets, Halloween Classroom Toys Gifts Prizes for Boys Girls",
+        "link": "https://aax-us-east-retail-direct.amazon.com/x/c/JNpD0eJblC1BlSTlgpFm01gAAAGhZGVu1wEAAAH2AQBvbm9fdHhuX2JpZDIgICBvbm9fdHhuX2ltcDIgICAOMQEu/clv1c_ek-wxfHXLcTWDVVAWi4kasJ9BF4_6vJLUBsBRt0xlplf7r20p4xnTxk3JC9IT4U_pFVAcbJJEhLY3jPJ0aAcnh5jaXX6FUbv__lJRJvTnP0sjwWIsgAXydrOxuF0JX88rdIojBHmulilIxZS38oUz5KhpdesFlfnlpTcyU_yjCQdV21R9k0r3nkOiCh5I6QvurEwqDNgB-eplGeg9k3EVENQGVo7YCq0CjYWvD7hNr3NyAf41OdvX1xQXY3HS-KFhwJSJNAJG8MqUYpRLhRRcYAae7P8ngz5-6ONLi9AWDXyCmyz6rCfBrY7nlmQaSc1eTPwgCtuaoHTtp19Sr6NzY-D_6YHGuaXhGLtUDY0aSwHIrbCTld1Q3cDumf2E6jB32G9ASwwh4snKj1HVbFhsd12REC9Umv8cIwKMCQ5muZZ2TrK4uIjnio7m-yo3354fhk3kTIwwzjueQq3WbwcKDaRBgiSYZwYN08b9_0koGEmL3sSNvgeJm2xqy83KgtGZCJ2eBhBv1fNv3gkZnz_ol9tQ4dlDOYs9VqMD9naZsK-qXN1mw6by41t5OTFdl6TbH3eb9PWqwVJg4YF7PJX--sd3hxT5yc-eEWEJ-7WY2sWv6T0-Uam4fxWr-aFSE91L8uU6LLhXZqb8EPvQwjpe6y6iq_hdcdfFRun_rp02BUjLHK6QPuSbQfD2MDzkIh0m91rtep-ZHpucgXQKt7yfd9Rwc2X9J2bHi-6BWwFwfH47dcXNuCBKX4WDcG4gD_qNwwYpW3HYqo_jDQBYdwhnTUMC6K_9Zc7-nzTUiMLmt2vwIYxob1ztNlS6ZFxlgSTLdG1Psc51dl4iRQnbgw306cTHfU8HD1SBWnxhBD5vmKpgr9_NYJaPSNM9GW8UZ3xaKnD387ERCqP6r2MPfD88qE0xQl_azM5HdLZB41Mo0fwZkVcHHXpy--oLCL8KWsLYVGsnq-XW6eeVktoQOXMyaccdkLr7y-t9d7cBZ8EA_SbOFYRVYwMS1jNifN0aGmc-GwOFiuT7Nps-4nRxKgHHT0E8Xuxc_7lhnWx47HwuRxVmbLrRQ-pPbSMuV6VbgXHe5LosK5WiVY7Tgqwh9KSh15uVlR8I_lk8Yb3fhqrUhrJNjBea00BGibGaA3pNEww7d1B0aTMH8qFVAwnu09pcGvWu18-58EyooADG8surTaPnr7vGQaIY6H3clu_dlYrJJ6qePVXHHcqSbBaABa6Uj9LDUC96fiRCrUbHTpnXhZoRI86-pHY4m3K5A3fXHREBi-uAbJ8eHRi9xTHHqWMrG8rwvvBbqwcNCVW8YYFdJ8GFpmCQZqC6IQzhSx0L9NvJ5rGnPU9FZkSzVXnIEdD4aqfDJV_-wQewKGuehCKpcX2oz8OPCWX4QSrdwjGm-4WKmTSnaM31rGXefmj4apwPlJrCrq2ZbuAps6qM550czI9EjZrsQiWrF4OyjomRv8XxruesHlriEGqtOG52HPZdpFz9HqBzOnJuF7IEUVJDb5y_6V18ZhiLnCEhvetMQN9Y3W1ihD8E3mrMayhp9GFYAofgEYVHn7eZEowAfULM9c3Bl46B3IZKWAzQHPDGOvof07PoGNxQwY-gAO6szw4MGv48EiK7ICZ4sbYUCDULqGKsw/https://www.amazon.com/dp/B0F7L2TPQM/?_encoding=UTF8&pd_rd_i=B0F7L2TPQM&pd_rd_i=B0F7L2TPQM&ref_=sbx_be_s_sparkle_ssd_cta&pd_rd_w=MCKik&content-id=amzn1.sym.fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=P2BDQT4FAWWQFRFJ5E1V&pd_rd_wg=n47jd&pd_rd_r=e98204a5-3d26-4323-8dff-233eed6bd432",
+        "link_clean": "https://www.amazon.com/dp/B0F7L2TPQM/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0F7L2TPQM&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "thumbnail": "https://m.media-amazon.com/images/I/51gkXjkfeJL._AC_SR100,100_QL65_.jpg",
+        "video": {
+          "link": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/bfa3325f-c975-4c6d-a1aa-58d12a82a9c7.mov/productVideoOptimized.mp4",
+          "thumbnail": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/bfa3325f-c975-4c6d-a1aa-58d12a82a9c7.mov/r/THUMBNAIL_360P_FRAME_3_CAPTURE_2.JPG"
+        },
+        "rating": 4.5,
+        "reviews": 249,
+        "price": "$9.89",
+        "extracted_price": 9.89
+      },
+      {
+        "position": 5,
+        "asin": "B0HCDQ9FLT",
+        "title": "12 Pcs Halloween Treat Bags, Goodie Bags, Candy Bags, Trick or Treat Bags | Clear Reusable Design, Bow Handles, Easy to Carry, Party Favors, Costume Parties",
+        "link": "https://aax-us-east-retail-direct.amazon.com/x/c/JIasgmAXNghNXL2GODAvF5IAAAGhZGVu2AEAAAH2AQBvbm9fdHhuX2JpZDIgICBvbm9fdHhuX2ltcDIgICCaNiPV/clv1c_ek-wBfHXLcTWXmxhtwlAiFwLMKlTuYptTiwRO4-ql7JTTIdy4W6LP_jV3fL3e3MbK46vVPvN8u-gB4ZLDJKVKcIoB2rec4EqU4Axe13XikCmqYlDTcsmDm70ojnzoE9UvjnEPPL0bsMwcuGzPZonqFPajL1cllyeFcDh2WcCjAYcStEcIpeQJNMCVHDOSU7XERDenlNbfkZLiKf4o-7heNifF1W1iGnu4EcA-CX-0f5BZ8IOrIrXtp5bNnA--L_ez51WmI0ws7IkWoN3iX90qPdnmnW3UE3kdVxk0uEVWH0_xKUqvDh2CC6PIKpPtkr-od0zF6EhnYkmaXyUzRV-jE7WT3MccINzbo9mMTqhdVu48ljUPWy-vs4aXKfXq39yo1V_J4Ocr3Ykb4yGNHBe-iZFlyvLwFEjs58cDsZzKSddd_KpkLcqhSiJft6SaFRjm4gzUyeWn2iT4tRWEy5ewCjW1jfiftSP4NFmOcqi5OZeL5U4fgQh5YqENjb6y3ugbN-tSDE0BlxqvNK675ukT96qejWer_DwdeQoxUYt8eYOkhUrMeR7GUNf4otKN-qqIGIB3E5Ed_C463goQfhKNgoT2tzKvZu4l6juNz1SZUdrHMHtCwNyRYjWPEzJWNczhe7deyi7doaWl6aNRtVzHnSh8xsX8HeWwEO6FcUk2lLIAQ96T14R-QXCRGxXJXzXMaz2ZKG8b5Q2oqFs_0Ihsn-2HzfUGXouB_T01AHBxW3vi3HPHLLA7w8GDcHVFLkvsEyWu9IYlD3Sc_04Daf2hMNJDBrAARBgVsO0oURtpHHTMtUuaV1PH2GHEcdwTgcXOZweVvNo3M-RP9GHq9EbYR8D_QcePJvqYzsxTMLAa80E_OjKH9axnbFhlMHqIzELEMFZk3tID-gm3_7uILRRNn-bOjboZcfxpd9-2a_GI8t_t2SwOYUFWZgeNlD3_Ufyi5uqgtC22yd6YbWew_D8Em5P7sytKLft8Dq016vQlL7s4Z0_HxqNHHckjoSZN2uSCW-IrEfAJj998yt1TDHb4rFR_M8mLg7uz2dNaBqcvX6BIC64rBgS-OFZsRo9nMp3zmsLGNf31R-v466ymyDs_AoBENyTjjpJN_cKDdxwxKK6lJ-LDmgQ9JWsPeB98i7y8aIWplf5H5QW6TKX8tUfF28p16Ve0S-AgYY2Ta8H2Tv4Fk8Bu7RdjSyeexVAd7xVDeqbknGA7uCFRnezZuxj0PhzBRqzF_jDCO5foKDHov5McIRREpvsuG044HUgWVc7J-YSJBT8xafglGHQNHHPXubED8NAaVoChO3U4gN1Se9ZYM3qyxeA8XKvSxcHDv85gJzbVhQJhTFDtlAmcMHjW-ySQxH3xjJI08l3LpTjQiqyjCOdxGQjbZ4AXVSidak5Kt9to_ZuwolcdL-9yS05qdNr-WaAc07qdMyn56NfXB95LQF1-30UB8T402_UE4SrZ6u_2rHsgOXiMm1Qc2O2PXm2ikE4PPmHw3N6ipbQD-fpDzcAnuglsw-Vh5M_bSJN1GX0t21PIC17q1wWHFlY1-gbMx6g-Gc1JdOEkwl1IXEJynKWhzcT_s14XY0jSa9j6n-lmOwLAfJKeaF6ouJYM-0KbAppUtVJhiR8p4dkaehkbAg/https://www.amazon.com/dp/B0HCDQ9FLT/?_encoding=UTF8&pd_rd_i=B0HCDQ9FLT&pd_rd_i=B0HCDQ9FLT&ref_=sbx_be_s_sparkle_ssd_cta&pd_rd_w=MCKik&content-id=amzn1.sym.fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=P2BDQT4FAWWQFRFJ5E1V&pd_rd_wg=n47jd&pd_rd_r=e98204a5-3d26-4323-8dff-233eed6bd432",
+        "link_clean": "https://www.amazon.com/dp/B0HCDQ9FLT/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0HCDQ9FLT&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "thumbnail": "https://m.media-amazon.com/images/I/51j3h2v6FHL._AC_SR100,100_QL65_.jpg",
+        "video": {
+          "link": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/f81fe92b-0260-4773-a880-fec43358f18c.mp4/productVideoOptimized.mp4",
+          "thumbnail": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/f81fe92b-0260-4773-a880-fec43358f18c.mp4/r/THUMBNAIL_360P_FRAME_3_CAPTURE_2.JPG"
+        },
+        "rating": 4.9,
+        "reviews": 13,
+        "price": "$9.99",
+        "extracted_price": 9.99
+      }
+    ]
+  }
+}

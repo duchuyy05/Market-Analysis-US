@@ -1,0 +1,1203 @@
+{
+  "provider": "serpapi",
+  "endpoint": "https://serpapi.com/search.json",
+  "parameters": {
+    "engine": "amazon_product",
+    "asin": "B0H1C18MWC",
+    "amazon_domain": "amazon.com",
+    "language": "en_US",
+    "shipping_location": "US",
+    "output": "json"
+  },
+  "fetched_at_utc": "2026-10-22T08:42:08.309750+00:00",
+  "raw_file": "raw/serpapi-a5e34286abef52a300b4.json",
+  "response": {
+    "search_metadata": {
+      "id": "6ad9cc61afaa67519b4714f3",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/h9meYkQk9hYNIGMOhNAB2rDQYUNsa2Zw8bJtgLE_sX8/6ad9cc61afaa67519b4714f3.json",
+      "markdown_endpoint": "https://serpapi.com/searches/h9meYkQk9hYNIGMOhNAB2rDQYUNsa2Zw8bJtgLE_sX8/6ad9cc61afaa67519b4714f3.md",
+      "created_at": "2026-10-22 08:42:09 UTC",
+      "processed_at": "2026-10-22 08:42:09 UTC",
+      "amazon_product_url": "https://www.amazon.com/dp/B0H1C18MWC/?language=en_US",
+      "raw_html_file": "https://serpapi.com/searches/h9meYkQk9hYNIGMOhNAB2rDQYUNsa2Zw8bJtgLE_sX8/6ad9cc61afaa67519b4714f3.html",
+      "total_time_taken": 8.32
+    },
+    "search_parameters": {
+      "engine": "amazon_product",
+      "asin": "B0H1C18MWC",
+      "amazon_domain": "amazon.com",
+      "language": "en_US",
+      "device": "desktop",
+      "shipping_location": "US"
+    },
+    "product_results": {
+      "categories": [
+        {
+          "position": 1,
+          "name": "Arts, Crafts & Sewing",
+          "link": "https://www.amazon.com/Arts-Crafts-Sewing/b/ref=dp_bc_1?ie=UTF8&node=2617941011",
+          "node": "2617941011",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&language=en_US&node=2617941011&shipping_location=US"
+        },
+        {
+          "position": 2,
+          "name": "Crafting",
+          "link": "https://www.amazon.com/crafting/b/ref=dp_bc_2?ie=UTF8&node=378733011",
+          "node": "378733011",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&language=en_US&node=378733011&shipping_location=US"
+        },
+        {
+          "position": 3,
+          "name": "Craft Supplies",
+          "link": "https://www.amazon.com/craft-supplies/b/ref=dp_bc_3?ie=UTF8&node=8090710011",
+          "node": "8090710011",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&language=en_US&node=8090710011&shipping_location=US"
+        },
+        {
+          "position": 4,
+          "name": "Face Painting",
+          "link": "https://www.amazon.com/face-painting/b/ref=dp_bc_4?ie=UTF8&node=7756216011",
+          "node": "7756216011",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&language=en_US&node=7756216011&shipping_location=US"
+        }
+      ],
+      "asin": "B0H1C18MWC",
+      "title": "UCANBE Athena Basic Face Body Paint Oil Palette, 12 Color Large Black White Professional Face Painting Makeup Kit, Facepaint Pallet for Halloween SFX Party Art Stage Costume Cosplay Clown Goth Make Up",
+      "link": "https://www.amazon.com/gp/cart/view.html/ref=uss_cart",
+      "link_clean": "https://www.amazon.com/dp/B0H1C18MWC/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0H1C18MWC&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+      "badges": [
+        "Amazon's Choice"
+      ],
+      "brand": "Visit the UCANBE Store",
+      "thumbnail": "https://m.media-amazon.com/images/I/41EsHWyIh1L._SY300_SX300_QL70_FMwebp_.jpg",
+      "thumbnails": [
+        "https://m.media-amazon.com/images/I/712sh7styjL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81B23wO7RML._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81K-BvYL0JL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81MPFRtAUWL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81qDhglaxgL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81nhkqPP-NL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71+5-DhrLIL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61wdPxXT0AL._SL1500_.jpg"
+      ],
+      "rating": 4.6,
+      "reviews": 225,
+      "bought_last_month": "20K+ bought in past month",
+      "price": "$16.99",
+      "extracted_price": 16.99,
+      "prime": true,
+      "delivery": [
+        "FREE delivery Tuesday, October 27 on orders shipped by Amazon over $35",
+        "Arrives 4 days before Halloween"
+      ],
+      "stock": "In Stock"
+    },
+    "purchase_options": {
+      "buy_new": {
+        "caption": "One-time purchase",
+        "price": "$16.99",
+        "extracted_price": 16.99,
+        "delivery": [
+          "FREE delivery Tuesday, October 27 on orders shipped by Amazon over $35",
+          "Arrives 4 days before Halloween"
+        ],
+        "stock": "In Stock",
+        "features": {
+          "ships_from": {
+            "text": "Amazon",
+            "details": {
+              "heading": "Ships from",
+              "content": "Amazon"
+            }
+          },
+          "sold_by": {
+            "text": "PingGlow",
+            "details": {
+              "heading": "Sold by",
+              "content": "PingGlow"
+            },
+            "link": {
+              "text": "PingGlow",
+              "link": "https://www.amazon.com/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A6XKQGWN1YBNY&asin=B0H1C18MWC&ref_=dp_merchant_link&isAmazonFulfilled=1"
+            }
+          },
+          "returns": {
+            "text": "FREE 30-day refund/replacement",
+            "details": {
+              "heading": "FREE 30-day refund/replacement"
+            },
+            "link": {
+              "text": "See exceptions",
+              "link": "https://www.amazon.com/gp/help/customer/display.html/?nodeId=GKQNFKFK5CF3C54B"
+            }
+          },
+          "payment": {
+            "text": "Secure transaction",
+            "details": {
+              "heading": "Your transaction is secure",
+              "content": "We work hard to protect your security and privacy. Our payment security system encrypts your information during transmission. We don’t share your credit card details with third-party sellers, and we don’t sell your information to others. Learn more"
+            },
+            "link": {
+              "text": "Learn more",
+              "link": "https://www.amazon.com/gp/help/customer/display.html?nodeId=201909010"
+            }
+          }
+        }
+      },
+      "subscribe_and_save": {
+        "caption": "Subscribe & Save",
+        "price": "$16.99",
+        "extracted_price": 16.99,
+        "delivery": [
+          "FREE delivery Tuesday, October 27 on orders shipped by Amazon over $35"
+        ],
+        "stock": "In Stock",
+        "features": {
+          "ships_from": {
+            "text": "Amazon",
+            "details": {
+              "heading": "Ships from",
+              "content": "Amazon"
+            }
+          },
+          "sold_by": {
+            "text": "PingGlow",
+            "details": {
+              "heading": "Sold by",
+              "content": "PingGlow"
+            },
+            "link": {
+              "text": "PingGlow",
+              "link": "https://www.amazon.com/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A6XKQGWN1YBNY&asin=B0H1C18MWC&ref_=dp_merchant_link&isAmazonFulfilled=1"
+            }
+          },
+          "returns": {
+            "text": "FREE 30-day refund/replacement",
+            "details": {
+              "heading": "FREE 30-day refund/replacement"
+            },
+            "link": {
+              "text": "See exceptions",
+              "link": "https://www.amazon.com/gp/help/customer/display.html/?nodeId=GKQNFKFK5CF3C54B"
+            }
+          },
+          "subscription": "No fees. Skip or cancel anytime."
+        }
+      }
+    },
+    "about_item": [
+      "【UCANBE Athena Face & Body Paint | 12 Colors Basic Palette】UCANBE Athena Face Paint Palette(Basic Version)includes 12 essential classic bold shades- ghost white, jet black, vampire red, creepy clown pink, witch purple, pumpkin orange, zombie moss green, neon lime green, bright yellow, werewolf brown, sally blue and navy blue. Designed with EXTRA-LARGE BLACK & WHITE PANS, giving you more of the essential shades that are used frequently for outlines, highlights, shadows, mixing, details and full-face designs.",
+      "【Classic Color Selection | Versatile & No Wasted Shades】In this painting palette, each color is carefully selected to improve shade usability, helping every pan serve a real makeup purpose. It’s ideal for flash tattoos, artistic makeup, special effects makeup and other character looks such as clown, Joker, witch, skeleton/skull, devil, zombie, vampire, monster, goth makeup and more. Designed especially for Halloween costume cosplay, themed parties, pride or 4th July parade, carnivals, festivals, stage & theater performances, and of course also sports games fan face painting!",
+      "【Oil-Based Cream Face Paint | Blendable & Buildable】The oil-based cream texture glides smoothly, delivers rich color payoff, and helps create even and buildable full coverage. It glides easily, blends well, and is designed to stay flexible on the skin, helping reduce cracking, smudging, and fading during wear. Vibrant Colors can be layered, blended, and mixed freely to create custom shades for creative makeup looks. Tip: Mix black and white to create gray.",
+      "【Vibrant Colors for SFX Makeup | Safe & Non-toxic】All UCANBE oil face paints are manufactured using cosmetic-grade quality ingredients, non-toxic and gentle on skin, suitable for all skin types of all ages. BUT still, As everyone's skin type is different, we recommend that all cosmetics are tested on a small patch of skin before use.",
+      "【Easy to Use and Remove | Long Lasting Makeup】USAGE- Start with clean, dry face; Apply primer and let it dry before makeup; Pick up the color directly with sponges，painting brushes or fingertips, then apply evenly to the face or body. Set with translucent powder for longer-lasting, transfer-resistant wear. REMOVAL- gently wipe off with cleansing oil, cleansing balm or a professional waterproof makeup remover, and wash with soap and water."
+    ],
+    "bought_together": [
+      {
+        "position": 1,
+        "title": "UCANBE Athena Basic Face Body Paint Oil Palette, 12 Color Large Black White Professional Face Painting Makeup Kit, Facepaint Pallet for Halloween SFX Party Art Stage Costume Cosplay Clown Goth Make Up",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/712sh7styjL._AC_UL116_SR116,116_.jpg",
+        "price": "$16.99",
+        "extracted_price": 16.99,
+        "delivery": [
+          "Get it as soon as Tuesday, Oct 27"
+        ],
+        "stock": "In Stock"
+      },
+      {
+        "position": 2,
+        "title": "EVERSWE Women's 80 Den Soft Opaque Tights, Women's Tights",
+        "link": "https://www.amazon.com/Womens-Opaque-Tights-Small-Medium-Clover/dp/B099MWBW5X/ref=pd_bxgy_thbs_d_sccl_1/137-6327105-7273503?pd_rd_w=WJAxc&content-id=amzn1.sym.395480b3-fd19-4bc1-8264-407af245153b&pf_rd_p=395480b3-fd19-4bc1-8264-407af245153b&pf_rd_r=4RA9M7R6D3BJREMWEFYT&pd_rd_wg=WJRFC&pd_rd_r=ec3f65bb-2fcc-4e82-8ddf-cdfe4c16499b&pd_rd_i=B099MWBW5X&psc=1",
+        "asin": "B099MWBW5X",
+        "link_clean": "https://www.amazon.com/Womens-Opaque-Tights-Small-Medium-Clover/dp/B099MWBW5X/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B099MWBW5X&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/61CW+31b+LL._AC_UL116_SR116,116_.jpg",
+        "price": "$7.50",
+        "extracted_price": 7.5,
+        "delivery": [
+          "Get it as soon as Tuesday, Oct 27"
+        ],
+        "stock": "In Stock"
+      },
+      {
+        "position": 3,
+        "title": "Tongcloud Women's Striped Knee High Socks, Over Knee Thigh High Socks, Arm Warmer and Fingerless Gloves Set",
+        "link": "https://www.amazon.com/Tongcloud-Womens-Striped-Warmer-Fingerless/dp/B0CL6SF7NC/ref=pd_bxgy_thbs_d_sccl_2/137-6327105-7273503?pd_rd_w=WJAxc&content-id=amzn1.sym.395480b3-fd19-4bc1-8264-407af245153b&pf_rd_p=395480b3-fd19-4bc1-8264-407af245153b&pf_rd_r=4RA9M7R6D3BJREMWEFYT&pd_rd_wg=WJRFC&pd_rd_r=ec3f65bb-2fcc-4e82-8ddf-cdfe4c16499b&pd_rd_i=B0CL6SF7NC&psc=1",
+        "asin": "B0CL6SF7NC",
+        "link_clean": "https://www.amazon.com/Tongcloud-Womens-Striped-Warmer-Fingerless/dp/B0CL6SF7NC/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0CL6SF7NC&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/81y-FynO9qL._AC_UL116_SR116,116_.jpg",
+        "price": "$8.99",
+        "extracted_price": 8.99,
+        "delivery": [
+          "Get it as soon as Tuesday, Oct 27"
+        ],
+        "stock": "Only 3 left in stock - order soon."
+      }
+    ],
+    "related_products": [
+      {
+        "position": 1,
+        "asin": "B0D93N3FWX",
+        "title": "Pintada 42 Color Face Painting Kit for Kids - Non Toxic Water Activated Face Paint Palette With Stencils, Brush, Sponges, Book. For Carnival, Halloween, Costume Makeup and Festivals & Events",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo3NzY0ODc0Mjg1MjQyOTcwOjE3OTI2NTg1MzU6c3BfZGV0YWlsX3RoZW1hdGljOjMwMDU1NTEzMDU3NjMwMjo6Ojo&url=%2Fdp%2FB0D93N3FWX%2Fref%3Dsspa_dk_detail_0%3Fpsc%3D1%26pd_rd_i%3DB0D93N3FWX%26pd_rd_w%3DwPQHn%26content-id%3Damzn1.sym.3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_p%3D3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_r%3D4RA9M7R6D3BJREMWEFYT%26pd_rd_wg%3DWJRFC%26pd_rd_r%3Dec3f65bb-2fcc-4e82-8ddf-cdfe4c16499b%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM",
+        "link_clean": "https://www.amazon.com/dp/B0D93N3FWX/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0D93N3FWX&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "badges": [
+          "Limited time deal"
+        ],
+        "thumbnail": "https://m.media-amazon.com/images/I/81q+EQI-2VL._AC_UF480,480_SR480,480_.jpg",
+        "rating": 4.6,
+        "reviews": 755,
+        "discount": "-24%",
+        "price": "$15.29",
+        "extracted_price": 15.29,
+        "price_unit": "$15.29 / count",
+        "extracted_price_unit": 15.29,
+        "old_price": "null"
+      },
+      {
+        "position": 2,
+        "asin": "B0FLWB7GK8",
+        "title": "Face Painting Kit for Kids, 42 Colors Professional Face Paint Makeup Kit Non-Toxic ...",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo3NzY0ODc0Mjg1MjQyOTcwOjE3OTI2NTg1MzU6c3BfZGV0YWlsX3RoZW1hdGljOjMwMDk2NTQ5NjA5OTgwMjo6Ojo&url=%2Fdp%2FB0FLWB7GK8%2Fref%3Dsspa_dk_detail_1%3Fpsc%3D1%26pd_rd_i%3DB0FLWB7GK8%26pd_rd_w%3DwPQHn%26content-id%3Damzn1.sym.3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_p%3D3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_r%3D4RA9M7R6D3BJREMWEFYT%26pd_rd_wg%3DWJRFC%26pd_rd_r%3Dec3f65bb-2fcc-4e82-8ddf-cdfe4c16499b%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM",
+        "link_clean": "https://www.amazon.com/dp/B0FLWB7GK8/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0FLWB7GK8&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "badges": [
+          "Amazon's Choice",
+          "Limited time deal"
+        ],
+        "thumbnail": "https://m.media-amazon.com/images/I/81ELwCcwYlL._AC_UF480,480_SR480,480_.jpg",
+        "rating": 4.4,
+        "reviews": 516,
+        "discount": "-16%",
+        "price": "$15.98",
+        "extracted_price": 15.98,
+        "old_price": "null"
+      },
+      {
+        "position": 3,
+        "asin": "B097N2FLRK",
+        "title": "UCANBE Face & Body Paint, Water Activated SFX Makeup Palette - Extra Large White & Black Pan, Professional 18 Color Safe Non Toxic Art Painting Kit for Halloween, Cosplay, Parties, Theater & Stage",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo3NzY0ODc0Mjg1MjQyOTcwOjE3OTI2NTg1MzU6c3BfZGV0YWlsX3RoZW1hdGljOjMwMTUwMzE0NDQ4NzQwMjo6Ojo&url=%2Fdp%2FB097N2FLRK%2Fref%3Dsspa_dk_detail_2%3Fpsc%3D1%26pd_rd_i%3DB097N2FLRK%26pd_rd_w%3DwPQHn%26content-id%3Damzn1.sym.3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_p%3D3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_r%3D4RA9M7R6D3BJREMWEFYT%26pd_rd_wg%3DWJRFC%26pd_rd_r%3Dec3f65bb-2fcc-4e82-8ddf-cdfe4c16499b%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM",
+        "link_clean": "https://www.amazon.com/dp/B097N2FLRK/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B097N2FLRK&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "badges": [
+          "Ends in"
+        ],
+        "thumbnail": "https://m.media-amazon.com/images/I/71xDRiTMW6L._AC_UF480,480_SR480,480_.jpg",
+        "rating": 4.3,
+        "reviews": 3503,
+        "discount": "-10%",
+        "price": "$14.39",
+        "extracted_price": 14.39,
+        "price_unit": "$0.80 / count",
+        "extracted_price_unit": 0.8,
+        "old_price": "null",
+        "climate_pledge_friendly": true
+      },
+      {
+        "position": 4,
+        "asin": "B0F6DFK46J",
+        "title": "Pintada 54 Color Face Painting Kit for Kids - Non Toxic Water Activated Face Paint Palette with Stencils, Book, Brush & Sponges . For Halloween, Carnival, Party; Costume Makeup for Creative Activities",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo3NzY0ODc0Mjg1MjQyOTcwOjE3OTI2NTg1MzU6c3BfZGV0YWlsX3RoZW1hdGljOjMwMDg2NjQ1ODExMTMwMjo6Ojo&url=%2Fdp%2FB0F6DFK46J%2Fref%3Dsspa_dk_detail_3%3Fpsc%3D1%26pd_rd_i%3DB0F6DFK46J%26pd_rd_w%3DwPQHn%26content-id%3Damzn1.sym.3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_p%3D3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_r%3D4RA9M7R6D3BJREMWEFYT%26pd_rd_wg%3DWJRFC%26pd_rd_r%3Dec3f65bb-2fcc-4e82-8ddf-cdfe4c16499b%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM",
+        "link_clean": "https://www.amazon.com/dp/B0F6DFK46J/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0F6DFK46J&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "badges": [
+          "Limited time deal"
+        ],
+        "thumbnail": "https://m.media-amazon.com/images/I/81bDrvv46tL._AC_UF480,480_SR480,480_.jpg",
+        "rating": 4.6,
+        "reviews": 312,
+        "discount": "-10%",
+        "price": "$17.99",
+        "extracted_price": 17.99,
+        "old_price": "null"
+      },
+      {
+        "position": 5,
+        "asin": "B0B6YYB7JX",
+        "title": "BOBISUKA Face Body Paint Sticks Kit, 12 Color Water Based Face Painting Crayon Set for Art Theater Halloween Party Cosplay Clown SFX Makeup for Women Adults, Non-Toxic Washable",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo3NzY0ODc0Mjg1MjQyOTcwOjE3OTI2NTg1MzU6c3BfZGV0YWlsX3RoZW1hdGljOjMwMTUyMjE4NzUyMDQwMjo6Ojo&url=%2Fdp%2FB0B6YYB7JX%2Fref%3Dsspa_dk_detail_4%3Fpsc%3D1%26pd_rd_i%3DB0B6YYB7JX%26pd_rd_w%3DwPQHn%26content-id%3Damzn1.sym.3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_p%3D3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_r%3D4RA9M7R6D3BJREMWEFYT%26pd_rd_wg%3DWJRFC%26pd_rd_r%3Dec3f65bb-2fcc-4e82-8ddf-cdfe4c16499b%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM",
+        "link_clean": "https://www.amazon.com/dp/B0B6YYB7JX/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0B6YYB7JX&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "badges": [
+          "Limited time deal"
+        ],
+        "thumbnail": "https://m.media-amazon.com/images/I/71BCigTyhCL._AC_UF480,480_SR480,480_.jpg",
+        "rating": 4.1,
+        "reviews": 703,
+        "discount": "-10%",
+        "price": "$6.29",
+        "extracted_price": 6.29,
+        "price_unit": "$6.29 / count",
+        "extracted_price_unit": 6.29,
+        "old_price": "null"
+      },
+      {
+        "position": 6,
+        "asin": "B0GWDN26VS",
+        "title": "Face Painting Kit for Kids,100&18 Professional Face Paint Makeup Kit | Water Activated Face Paint Palette, Body Paint for Adults,Non Toxic Makeup for Halloween,Christmas,Cosplay, 34pcs One Set",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo3NzY0ODc0Mjg1MjQyOTcwOjE3OTI2NTg1MzU6c3BfZGV0YWlsX3RoZW1hdGljOjMwMTI5MjYxMjM4NDQwMjo6Ojo&url=%2Fdp%2FB0GWDN26VS%2Fref%3Dsspa_dk_detail_5%3Fpsc%3D1%26pd_rd_i%3DB0GWDN26VS%26pd_rd_w%3DwPQHn%26content-id%3Damzn1.sym.3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_p%3D3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_r%3D4RA9M7R6D3BJREMWEFYT%26pd_rd_wg%3DWJRFC%26pd_rd_r%3Dec3f65bb-2fcc-4e82-8ddf-cdfe4c16499b%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM",
+        "link_clean": "https://www.amazon.com/dp/B0GWDN26VS/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0GWDN26VS&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "badges": [
+          "Limited time deal"
+        ],
+        "thumbnail": "https://m.media-amazon.com/images/I/91KIaDUbWUL._AC_UF480,480_SR480,480_.jpg",
+        "rating": 4.5,
+        "reviews": 208,
+        "discount": "-13%",
+        "price": "$34.99",
+        "extracted_price": 34.99,
+        "old_price": "null"
+      },
+      {
+        "position": 7,
+        "asin": "B0D1R7271X",
+        "title": "Revolution Smokey Icon Palette, 12 Shades | Ultra-Pigmented Matte, Shimmer & Cream Finishes, Long-Wear & Blendable Professional Collection, Vegan & Cruelty-Free, 3.53",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo3NzY0ODc0Mjg1MjQyOTcwOjE3OTI2NTg1MzU6c3BfZGV0YWlsX3RoZW1hdGljOjMwMTU5OTIwNzM4MTUwMjo6Ojo&url=%2Fdp%2FB0D1R7271X%2Fref%3Dsspa_dk_detail_6%3Fpsc%3D1%26pd_rd_i%3DB0D1R7271X%26pd_rd_w%3DwPQHn%26content-id%3Damzn1.sym.3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_p%3D3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_r%3D4RA9M7R6D3BJREMWEFYT%26pd_rd_wg%3DWJRFC%26pd_rd_r%3Dec3f65bb-2fcc-4e82-8ddf-cdfe4c16499b%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM",
+        "link_clean": "https://www.amazon.com/dp/B0D1R7271X/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0D1R7271X&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "badges": [
+          "Limited time deal"
+        ],
+        "thumbnail": "https://m.media-amazon.com/images/I/613900dv17L._AC_UF480,480_SR480,480_.jpg",
+        "rating": 4.2,
+        "reviews": 130,
+        "discount": "-30%",
+        "price": "$8.40",
+        "extracted_price": 8.4,
+        "old_price": "null"
+      },
+      {
+        "position": 8,
+        "asin": "B08GSTPT8Y",
+        "title": "AOA Studio Collection makeup Sponge Set Latex Free and High-definition Set of 6 makeup Wonder blender For Powder Cream and Liquid, Super Soft Wonder Beauty Cosmetic",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo1NTI2MDkwMDU5Njc3Nzg5OjE3OTI2NTg1MzU6c3BfZGV0YWlsMjoyMDAwMzA3MTg3ODA3OTg6Ojo6&url=%2Fdp%2FB08GSTPT8Y%2Fref%3Dsspa_dk_detail_0%3Fpsc%3D1%26pd_rd_i%3DB08GSTPT8Y%26pd_rd_w%3DmuKtZ%26content-id%3Damzn1.sym.4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_p%3D4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_r%3D4RA9M7R6D3BJREMWEFYT%26pd_rd_wg%3DWJRFC%26pd_rd_r%3Dec3f65bb-2fcc-4e82-8ddf-cdfe4c16499b%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+        "link_clean": "https://www.amazon.com/dp/B08GSTPT8Y/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B08GSTPT8Y&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "badges": [
+          "#1 Best Seller"
+        ],
+        "thumbnail": "https://m.media-amazon.com/images/I/61NvTGruLoL._AC_UF480,480_SR480,480_.jpg",
+        "rating": 4.8,
+        "reviews": 23312,
+        "price": "$9.95",
+        "extracted_price": 9.95,
+        "price_unit": "$1.66 / count",
+        "extracted_price_unit": 1.66
+      },
+      {
+        "position": 9,
+        "asin": "B0HC652NFS",
+        "title": "22 Colors Oil Based Face Body Paint Palette,Professional Face Painting Kit,Hallowee...",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo1NTI2MDkwMDU5Njc3Nzg5OjE3OTI2NTg1MzU6c3BfZGV0YWlsMjozMDE1NzQ5Njc0ODU0MDI6Ojo6&url=%2Fdp%2FB0HC652NFS%2Fref%3Dsspa_dk_detail_1%3Fpsc%3D1%26pd_rd_i%3DB0HC652NFS%26pd_rd_w%3DmuKtZ%26content-id%3Damzn1.sym.4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_p%3D4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_r%3D4RA9M7R6D3BJREMWEFYT%26pd_rd_wg%3DWJRFC%26pd_rd_r%3Dec3f65bb-2fcc-4e82-8ddf-cdfe4c16499b%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+        "link_clean": "https://www.amazon.com/dp/B0HC652NFS/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0HC652NFS&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "thumbnail": "https://m.media-amazon.com/images/I/81HFC5UB8BL._AC_UF480,480_SR480,480_.jpg",
+        "rating": 5.0,
+        "reviews": 4,
+        "price": "$9.98",
+        "extracted_price": 9.98,
+        "price_unit": "$11.09 / fluid ounce",
+        "extracted_price_unit": 11.09
+      },
+      {
+        "position": 10,
+        "asin": "B0HDP1VGJW",
+        "title": "15 Color Water Activated Face Painting with 10 Brushes,SFX Body Paint Palette for H...",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo1NTI2MDkwMDU5Njc3Nzg5OjE3OTI2NTg1MzU6c3BfZGV0YWlsMjozMDE1MjY2NjQ4NDcyMDI6Ojo6&url=%2Fdp%2FB0HDP1VGJW%2Fref%3Dsspa_dk_detail_2%3Fpsc%3D1%26pd_rd_i%3DB0HDP1VGJW%26pd_rd_w%3DmuKtZ%26content-id%3Damzn1.sym.4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_p%3D4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_r%3D4RA9M7R6D3BJREMWEFYT%26pd_rd_wg%3DWJRFC%26pd_rd_r%3Dec3f65bb-2fcc-4e82-8ddf-cdfe4c16499b%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+        "link_clean": "https://www.amazon.com/dp/B0HDP1VGJW/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0HDP1VGJW&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "thumbnail": "https://m.media-amazon.com/images/I/81oSXacySML._AC_UF480,480_SR480,480_.jpg",
+        "rating": 4.7,
+        "reviews": 23,
+        "price": "$9.99",
+        "extracted_price": 9.99,
+        "price_unit": "$38.42 / fluid ounce",
+        "extracted_price_unit": 38.42
+      },
+      {
+        "position": 11,
+        "asin": "B0GQMVNRNJ",
+        "title": "Face Painting Kit - 42 Colors Professional Face Paint Makeup Kit, Non-Toxic Water A...",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo1NTI2MDkwMDU5Njc3Nzg5OjE3OTI2NTg1MzU6c3BfZGV0YWlsMjozMDEyNDI3MTgyMDkzMDI6Ojo6&url=%2Fdp%2FB0GQMVNRNJ%2Fref%3Dsspa_dk_detail_3%3Fpsc%3D1%26pd_rd_i%3DB0GQMVNRNJ%26pd_rd_w%3DmuKtZ%26content-id%3Damzn1.sym.4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_p%3D4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_r%3D4RA9M7R6D3BJREMWEFYT%26pd_rd_wg%3DWJRFC%26pd_rd_r%3Dec3f65bb-2fcc-4e82-8ddf-cdfe4c16499b%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+        "link_clean": "https://www.amazon.com/dp/B0GQMVNRNJ/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0GQMVNRNJ&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "thumbnail": "https://m.media-amazon.com/images/I/81xic4ZdC8L._AC_UF480,480_SR480,480_.jpg",
+        "rating": 4.3,
+        "reviews": 56,
+        "discount": "-7%",
+        "price": "$24.99",
+        "extracted_price": 24.99,
+        "old_price": "null"
+      },
+      {
+        "position": 12,
+        "asin": "B00IWESI8W",
+        "title": "UCANBE Face Body Paint Set-Athena Painting Palette,10 Professional Artist Brush,Large Deep Pan Ideal for Halloween Cosplay Party SFX Arty Stage Makeup",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo1NTI2MDkwMDU5Njc3Nzg5OjE3OTI2NTg1MzU6c3BfZGV0YWlsMjozMDEzNzg3NzkxMDYwMDI6Ojo6&url=%2Fdp%2FB00IWESI8W%2Fref%3Dsspa_dk_detail_4%3Fpsc%3D1%26pd_rd_i%3DB00IWESI8W%26pd_rd_w%3DmuKtZ%26content-id%3Damzn1.sym.4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_p%3D4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_r%3D4RA9M7R6D3BJREMWEFYT%26pd_rd_wg%3DWJRFC%26pd_rd_r%3Dec3f65bb-2fcc-4e82-8ddf-cdfe4c16499b%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+        "link_clean": "https://www.amazon.com/dp/B00IWESI8W/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B00IWESI8W&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "thumbnail": "https://m.media-amazon.com/images/I/61VeGpb4TWL._AC_UF480,480_SR480,480_.jpg",
+        "rating": 4.4,
+        "reviews": 6688,
+        "price": "$23.99",
+        "extracted_price": 23.99,
+        "climate_pledge_friendly": true
+      },
+      {
+        "position": 13,
+        "asin": "B08CGMYQGN",
+        "title": "UCANBE Athena Face Body Paint Oil Palette, 20 Colors Large Black White Professional Flash Tattoo Halloween SFX Party Artist Costume Festival Stage Cosplay Full Size Makeup Painting Kit 168g",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo1NTI2MDkwMDU5Njc3Nzg5OjE3OTI2NTg1MzU6c3BfZGV0YWlsMjozMDE1MDQ1NDI2MDI4MDI6Ojo6&url=%2Fdp%2FB08CGMYQGN%2Fref%3Dsspa_dk_detail_5%3Fpsc%3D1%26pd_rd_i%3DB08CGMYQGN%26pd_rd_w%3DmuKtZ%26content-id%3Damzn1.sym.4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_p%3D4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_r%3D4RA9M7R6D3BJREMWEFYT%26pd_rd_wg%3DWJRFC%26pd_rd_r%3Dec3f65bb-2fcc-4e82-8ddf-cdfe4c16499b%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+        "link_clean": "https://www.amazon.com/dp/B08CGMYQGN/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B08CGMYQGN&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "badges": [
+          "#1 Best Seller"
+        ],
+        "thumbnail": "https://m.media-amazon.com/images/I/81MlS8SiRCL._AC_UF480,480_SR480,480_.jpg",
+        "rating": 4.5,
+        "reviews": 13827,
+        "discount": "-20%",
+        "price": "$19.99",
+        "extracted_price": 19.99,
+        "price_unit": "$19.99 / count",
+        "extracted_price_unit": 19.99,
+        "old_price": "null",
+        "climate_pledge_friendly": true
+      },
+      {
+        "position": 14,
+        "asin": "B09FGDZ4N6",
+        "title": "UCANBE Athena Face Body Paint Oil Palette + Translucent Setting Powder + 10PCS Brushes Set, Professional Non Toxic Face Painting Pallet Kit for Halloween SFX Cosplay Clown Makeup for Women Adults",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo1NTI2MDkwMDU5Njc3Nzg5OjE3OTI2NTg1MzU6c3BfZGV0YWlsMjozMDEyNzE3NzE0MDgwMDI6Ojo6&url=%2Fdp%2FB09FGDZ4N6%2Fref%3Dsspa_dk_detail_6%3Fpsc%3D1%26pd_rd_i%3DB09FGDZ4N6%26pd_rd_w%3DmuKtZ%26content-id%3Damzn1.sym.4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_p%3D4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_r%3D4RA9M7R6D3BJREMWEFYT%26pd_rd_wg%3DWJRFC%26pd_rd_r%3Dec3f65bb-2fcc-4e82-8ddf-cdfe4c16499b%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+        "link_clean": "https://www.amazon.com/dp/B09FGDZ4N6/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B09FGDZ4N6&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "thumbnail": "https://m.media-amazon.com/images/I/71Wzz6S6xaL._AC_UF480,480_SR480,480_.jpg",
+        "rating": 4.6,
+        "reviews": 2913,
+        "price": "$30.99",
+        "extracted_price": 30.99,
+        "climate_pledge_friendly": true
+      }
+    ],
+    "related_product_sections": [
+      {
+        "title": "Deals on related products",
+        "items": [
+          {
+            "position": 1,
+            "asin": "B0D93N3FWX",
+            "title": "Pintada 42 Color Face Painting Kit for Kids - Non Toxic Water Activated Face Paint Palette With Stencils, Brush, Sponges, Book. For Carnival, Halloween, Costume Makeup and Festivals & Events",
+            "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo3NzY0ODc0Mjg1MjQyOTcwOjE3OTI2NTg1MzU6c3BfZGV0YWlsX3RoZW1hdGljOjMwMDU1NTEzMDU3NjMwMjo6Ojo&url=%2Fdp%2FB0D93N3FWX%2Fref%3Dsspa_dk_detail_0%3Fpsc%3D1%26pd_rd_i%3DB0D93N3FWX%26pd_rd_w%3DwPQHn%26content-id%3Damzn1.sym.3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_p%3D3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_r%3D4RA9M7R6D3BJREMWEFYT%26pd_rd_wg%3DWJRFC%26pd_rd_r%3Dec3f65bb-2fcc-4e82-8ddf-cdfe4c16499b%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM",
+            "link_clean": "https://www.amazon.com/dp/B0D93N3FWX/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0D93N3FWX&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "badges": [
+              "Limited time deal"
+            ],
+            "thumbnail": "https://m.media-amazon.com/images/I/81q+EQI-2VL._AC_UF480,480_SR480,480_.jpg",
+            "rating": 4.6,
+            "reviews": 755,
+            "discount": "-24%",
+            "price": "$15.29",
+            "extracted_price": 15.29,
+            "price_unit": "$15.29 / count",
+            "extracted_price_unit": 15.29,
+            "old_price": "null"
+          },
+          {
+            "position": 2,
+            "asin": "B0FLWB7GK8",
+            "title": "Face Painting Kit for Kids, 42 Colors Professional Face Paint Makeup Kit Non-Toxic ...",
+            "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo3NzY0ODc0Mjg1MjQyOTcwOjE3OTI2NTg1MzU6c3BfZGV0YWlsX3RoZW1hdGljOjMwMDk2NTQ5NjA5OTgwMjo6Ojo&url=%2Fdp%2FB0FLWB7GK8%2Fref%3Dsspa_dk_detail_1%3Fpsc%3D1%26pd_rd_i%3DB0FLWB7GK8%26pd_rd_w%3DwPQHn%26content-id%3Damzn1.sym.3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_p%3D3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_r%3D4RA9M7R6D3BJREMWEFYT%26pd_rd_wg%3DWJRFC%26pd_rd_r%3Dec3f65bb-2fcc-4e82-8ddf-cdfe4c16499b%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM",
+            "link_clean": "https://www.amazon.com/dp/B0FLWB7GK8/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0FLWB7GK8&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "badges": [
+              "Amazon's Choice",
+              "Limited time deal"
+            ],
+            "thumbnail": "https://m.media-amazon.com/images/I/81ELwCcwYlL._AC_UF480,480_SR480,480_.jpg",
+            "rating": 4.4,
+            "reviews": 516,
+            "discount": "-16%",
+            "price": "$15.98",
+            "extracted_price": 15.98,
+            "old_price": "null"
+          },
+          {
+            "position": 3,
+            "asin": "B097N2FLRK",
+            "title": "UCANBE Face & Body Paint, Water Activated SFX Makeup Palette - Extra Large White & Black Pan, Professional 18 Color Safe Non Toxic Art Painting Kit for Halloween, Cosplay, Parties, Theater & Stage",
+            "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo3NzY0ODc0Mjg1MjQyOTcwOjE3OTI2NTg1MzU6c3BfZGV0YWlsX3RoZW1hdGljOjMwMTUwMzE0NDQ4NzQwMjo6Ojo&url=%2Fdp%2FB097N2FLRK%2Fref%3Dsspa_dk_detail_2%3Fpsc%3D1%26pd_rd_i%3DB097N2FLRK%26pd_rd_w%3DwPQHn%26content-id%3Damzn1.sym.3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_p%3D3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_r%3D4RA9M7R6D3BJREMWEFYT%26pd_rd_wg%3DWJRFC%26pd_rd_r%3Dec3f65bb-2fcc-4e82-8ddf-cdfe4c16499b%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM",
+            "link_clean": "https://www.amazon.com/dp/B097N2FLRK/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B097N2FLRK&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "badges": [
+              "Ends in"
+            ],
+            "thumbnail": "https://m.media-amazon.com/images/I/71xDRiTMW6L._AC_UF480,480_SR480,480_.jpg",
+            "rating": 4.3,
+            "reviews": 3503,
+            "discount": "-10%",
+            "price": "$14.39",
+            "extracted_price": 14.39,
+            "price_unit": "$0.80 / count",
+            "extracted_price_unit": 0.8,
+            "old_price": "null",
+            "climate_pledge_friendly": true
+          },
+          {
+            "position": 4,
+            "asin": "B0F6DFK46J",
+            "title": "Pintada 54 Color Face Painting Kit for Kids - Non Toxic Water Activated Face Paint Palette with Stencils, Book, Brush & Sponges . For Halloween, Carnival, Party; Costume Makeup for Creative Activities",
+            "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo3NzY0ODc0Mjg1MjQyOTcwOjE3OTI2NTg1MzU6c3BfZGV0YWlsX3RoZW1hdGljOjMwMDg2NjQ1ODExMTMwMjo6Ojo&url=%2Fdp%2FB0F6DFK46J%2Fref%3Dsspa_dk_detail_3%3Fpsc%3D1%26pd_rd_i%3DB0F6DFK46J%26pd_rd_w%3DwPQHn%26content-id%3Damzn1.sym.3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_p%3D3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_r%3D4RA9M7R6D3BJREMWEFYT%26pd_rd_wg%3DWJRFC%26pd_rd_r%3Dec3f65bb-2fcc-4e82-8ddf-cdfe4c16499b%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM",
+            "link_clean": "https://www.amazon.com/dp/B0F6DFK46J/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0F6DFK46J&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "badges": [
+              "Limited time deal"
+            ],
+            "thumbnail": "https://m.media-amazon.com/images/I/81bDrvv46tL._AC_UF480,480_SR480,480_.jpg",
+            "rating": 4.6,
+            "reviews": 312,
+            "discount": "-10%",
+            "price": "$17.99",
+            "extracted_price": 17.99,
+            "old_price": "null"
+          },
+          {
+            "position": 5,
+            "asin": "B0B6YYB7JX",
+            "title": "BOBISUKA Face Body Paint Sticks Kit, 12 Color Water Based Face Painting Crayon Set for Art Theater Halloween Party Cosplay Clown SFX Makeup for Women Adults, Non-Toxic Washable",
+            "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo3NzY0ODc0Mjg1MjQyOTcwOjE3OTI2NTg1MzU6c3BfZGV0YWlsX3RoZW1hdGljOjMwMTUyMjE4NzUyMDQwMjo6Ojo&url=%2Fdp%2FB0B6YYB7JX%2Fref%3Dsspa_dk_detail_4%3Fpsc%3D1%26pd_rd_i%3DB0B6YYB7JX%26pd_rd_w%3DwPQHn%26content-id%3Damzn1.sym.3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_p%3D3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_r%3D4RA9M7R6D3BJREMWEFYT%26pd_rd_wg%3DWJRFC%26pd_rd_r%3Dec3f65bb-2fcc-4e82-8ddf-cdfe4c16499b%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM",
+            "link_clean": "https://www.amazon.com/dp/B0B6YYB7JX/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0B6YYB7JX&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "badges": [
+              "Limited time deal"
+            ],
+            "thumbnail": "https://m.media-amazon.com/images/I/71BCigTyhCL._AC_UF480,480_SR480,480_.jpg",
+            "rating": 4.1,
+            "reviews": 703,
+            "discount": "-10%",
+            "price": "$6.29",
+            "extracted_price": 6.29,
+            "price_unit": "$6.29 / count",
+            "extracted_price_unit": 6.29,
+            "old_price": "null"
+          },
+          {
+            "position": 6,
+            "asin": "B0GWDN26VS",
+            "title": "Face Painting Kit for Kids,100&18 Professional Face Paint Makeup Kit | Water Activated Face Paint Palette, Body Paint for Adults,Non Toxic Makeup for Halloween,Christmas,Cosplay, 34pcs One Set",
+            "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo3NzY0ODc0Mjg1MjQyOTcwOjE3OTI2NTg1MzU6c3BfZGV0YWlsX3RoZW1hdGljOjMwMTI5MjYxMjM4NDQwMjo6Ojo&url=%2Fdp%2FB0GWDN26VS%2Fref%3Dsspa_dk_detail_5%3Fpsc%3D1%26pd_rd_i%3DB0GWDN26VS%26pd_rd_w%3DwPQHn%26content-id%3Damzn1.sym.3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_p%3D3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_r%3D4RA9M7R6D3BJREMWEFYT%26pd_rd_wg%3DWJRFC%26pd_rd_r%3Dec3f65bb-2fcc-4e82-8ddf-cdfe4c16499b%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM",
+            "link_clean": "https://www.amazon.com/dp/B0GWDN26VS/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0GWDN26VS&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "badges": [
+              "Limited time deal"
+            ],
+            "thumbnail": "https://m.media-amazon.com/images/I/91KIaDUbWUL._AC_UF480,480_SR480,480_.jpg",
+            "rating": 4.5,
+            "reviews": 208,
+            "discount": "-13%",
+            "price": "$34.99",
+            "extracted_price": 34.99,
+            "old_price": "null"
+          },
+          {
+            "position": 7,
+            "asin": "B0D1R7271X",
+            "title": "Revolution Smokey Icon Palette, 12 Shades | Ultra-Pigmented Matte, Shimmer & Cream Finishes, Long-Wear & Blendable Professional Collection, Vegan & Cruelty-Free, 3.53",
+            "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo3NzY0ODc0Mjg1MjQyOTcwOjE3OTI2NTg1MzU6c3BfZGV0YWlsX3RoZW1hdGljOjMwMTU5OTIwNzM4MTUwMjo6Ojo&url=%2Fdp%2FB0D1R7271X%2Fref%3Dsspa_dk_detail_6%3Fpsc%3D1%26pd_rd_i%3DB0D1R7271X%26pd_rd_w%3DwPQHn%26content-id%3Damzn1.sym.3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_p%3D3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_r%3D4RA9M7R6D3BJREMWEFYT%26pd_rd_wg%3DWJRFC%26pd_rd_r%3Dec3f65bb-2fcc-4e82-8ddf-cdfe4c16499b%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM",
+            "link_clean": "https://www.amazon.com/dp/B0D1R7271X/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0D1R7271X&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "badges": [
+              "Limited time deal"
+            ],
+            "thumbnail": "https://m.media-amazon.com/images/I/613900dv17L._AC_UF480,480_SR480,480_.jpg",
+            "rating": 4.2,
+            "reviews": 130,
+            "discount": "-30%",
+            "price": "$8.40",
+            "extracted_price": 8.4,
+            "old_price": "null"
+          }
+        ]
+      },
+      {
+        "title": "Products related to this item",
+        "items": [
+          {
+            "position": 1,
+            "asin": "B08GSTPT8Y",
+            "title": "AOA Studio Collection makeup Sponge Set Latex Free and High-definition Set of 6 makeup Wonder blender For Powder Cream and Liquid, Super Soft Wonder Beauty Cosmetic",
+            "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo1NTI2MDkwMDU5Njc3Nzg5OjE3OTI2NTg1MzU6c3BfZGV0YWlsMjoyMDAwMzA3MTg3ODA3OTg6Ojo6&url=%2Fdp%2FB08GSTPT8Y%2Fref%3Dsspa_dk_detail_0%3Fpsc%3D1%26pd_rd_i%3DB08GSTPT8Y%26pd_rd_w%3DmuKtZ%26content-id%3Damzn1.sym.4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_p%3D4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_r%3D4RA9M7R6D3BJREMWEFYT%26pd_rd_wg%3DWJRFC%26pd_rd_r%3Dec3f65bb-2fcc-4e82-8ddf-cdfe4c16499b%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+            "link_clean": "https://www.amazon.com/dp/B08GSTPT8Y/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B08GSTPT8Y&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "badges": [
+              "#1 Best Seller"
+            ],
+            "thumbnail": "https://m.media-amazon.com/images/I/61NvTGruLoL._AC_UF480,480_SR480,480_.jpg",
+            "rating": 4.8,
+            "reviews": 23312,
+            "price": "$9.95",
+            "extracted_price": 9.95,
+            "price_unit": "$1.66 / count",
+            "extracted_price_unit": 1.66
+          },
+          {
+            "position": 2,
+            "asin": "B0HC652NFS",
+            "title": "22 Colors Oil Based Face Body Paint Palette,Professional Face Painting Kit,Hallowee...",
+            "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo1NTI2MDkwMDU5Njc3Nzg5OjE3OTI2NTg1MzU6c3BfZGV0YWlsMjozMDE1NzQ5Njc0ODU0MDI6Ojo6&url=%2Fdp%2FB0HC652NFS%2Fref%3Dsspa_dk_detail_1%3Fpsc%3D1%26pd_rd_i%3DB0HC652NFS%26pd_rd_w%3DmuKtZ%26content-id%3Damzn1.sym.4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_p%3D4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_r%3D4RA9M7R6D3BJREMWEFYT%26pd_rd_wg%3DWJRFC%26pd_rd_r%3Dec3f65bb-2fcc-4e82-8ddf-cdfe4c16499b%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+            "link_clean": "https://www.amazon.com/dp/B0HC652NFS/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0HC652NFS&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "thumbnail": "https://m.media-amazon.com/images/I/81HFC5UB8BL._AC_UF480,480_SR480,480_.jpg",
+            "rating": 5.0,
+            "reviews": 4,
+            "price": "$9.98",
+            "extracted_price": 9.98,
+            "price_unit": "$11.09 / fluid ounce",
+            "extracted_price_unit": 11.09
+          },
+          {
+            "position": 3,
+            "asin": "B0HDP1VGJW",
+            "title": "15 Color Water Activated Face Painting with 10 Brushes,SFX Body Paint Palette for H...",
+            "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo1NTI2MDkwMDU5Njc3Nzg5OjE3OTI2NTg1MzU6c3BfZGV0YWlsMjozMDE1MjY2NjQ4NDcyMDI6Ojo6&url=%2Fdp%2FB0HDP1VGJW%2Fref%3Dsspa_dk_detail_2%3Fpsc%3D1%26pd_rd_i%3DB0HDP1VGJW%26pd_rd_w%3DmuKtZ%26content-id%3Damzn1.sym.4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_p%3D4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_r%3D4RA9M7R6D3BJREMWEFYT%26pd_rd_wg%3DWJRFC%26pd_rd_r%3Dec3f65bb-2fcc-4e82-8ddf-cdfe4c16499b%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+            "link_clean": "https://www.amazon.com/dp/B0HDP1VGJW/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0HDP1VGJW&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "thumbnail": "https://m.media-amazon.com/images/I/81oSXacySML._AC_UF480,480_SR480,480_.jpg",
+            "rating": 4.7,
+            "reviews": 23,
+            "price": "$9.99",
+            "extracted_price": 9.99,
+            "price_unit": "$38.42 / fluid ounce",
+            "extracted_price_unit": 38.42
+          },
+          {
+            "position": 4,
+            "asin": "B0GQMVNRNJ",
+            "title": "Face Painting Kit - 42 Colors Professional Face Paint Makeup Kit, Non-Toxic Water A...",
+            "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo1NTI2MDkwMDU5Njc3Nzg5OjE3OTI2NTg1MzU6c3BfZGV0YWlsMjozMDEyNDI3MTgyMDkzMDI6Ojo6&url=%2Fdp%2FB0GQMVNRNJ%2Fref%3Dsspa_dk_detail_3%3Fpsc%3D1%26pd_rd_i%3DB0GQMVNRNJ%26pd_rd_w%3DmuKtZ%26content-id%3Damzn1.sym.4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_p%3D4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_r%3D4RA9M7R6D3BJREMWEFYT%26pd_rd_wg%3DWJRFC%26pd_rd_r%3Dec3f65bb-2fcc-4e82-8ddf-cdfe4c16499b%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+            "link_clean": "https://www.amazon.com/dp/B0GQMVNRNJ/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0GQMVNRNJ&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "thumbnail": "https://m.media-amazon.com/images/I/81xic4ZdC8L._AC_UF480,480_SR480,480_.jpg",
+            "rating": 4.3,
+            "reviews": 56,
+            "discount": "-7%",
+            "price": "$24.99",
+            "extracted_price": 24.99,
+            "old_price": "null"
+          },
+          {
+            "position": 5,
+            "asin": "B00IWESI8W",
+            "title": "UCANBE Face Body Paint Set-Athena Painting Palette,10 Professional Artist Brush,Large Deep Pan Ideal for Halloween Cosplay Party SFX Arty Stage Makeup",
+            "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo1NTI2MDkwMDU5Njc3Nzg5OjE3OTI2NTg1MzU6c3BfZGV0YWlsMjozMDEzNzg3NzkxMDYwMDI6Ojo6&url=%2Fdp%2FB00IWESI8W%2Fref%3Dsspa_dk_detail_4%3Fpsc%3D1%26pd_rd_i%3DB00IWESI8W%26pd_rd_w%3DmuKtZ%26content-id%3Damzn1.sym.4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_p%3D4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_r%3D4RA9M7R6D3BJREMWEFYT%26pd_rd_wg%3DWJRFC%26pd_rd_r%3Dec3f65bb-2fcc-4e82-8ddf-cdfe4c16499b%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+            "link_clean": "https://www.amazon.com/dp/B00IWESI8W/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B00IWESI8W&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "thumbnail": "https://m.media-amazon.com/images/I/61VeGpb4TWL._AC_UF480,480_SR480,480_.jpg",
+            "rating": 4.4,
+            "reviews": 6688,
+            "price": "$23.99",
+            "extracted_price": 23.99,
+            "climate_pledge_friendly": true
+          },
+          {
+            "position": 6,
+            "asin": "B08CGMYQGN",
+            "title": "UCANBE Athena Face Body Paint Oil Palette, 20 Colors Large Black White Professional Flash Tattoo Halloween SFX Party Artist Costume Festival Stage Cosplay Full Size Makeup Painting Kit 168g",
+            "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo1NTI2MDkwMDU5Njc3Nzg5OjE3OTI2NTg1MzU6c3BfZGV0YWlsMjozMDE1MDQ1NDI2MDI4MDI6Ojo6&url=%2Fdp%2FB08CGMYQGN%2Fref%3Dsspa_dk_detail_5%3Fpsc%3D1%26pd_rd_i%3DB08CGMYQGN%26pd_rd_w%3DmuKtZ%26content-id%3Damzn1.sym.4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_p%3D4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_r%3D4RA9M7R6D3BJREMWEFYT%26pd_rd_wg%3DWJRFC%26pd_rd_r%3Dec3f65bb-2fcc-4e82-8ddf-cdfe4c16499b%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+            "link_clean": "https://www.amazon.com/dp/B08CGMYQGN/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B08CGMYQGN&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "badges": [
+              "#1 Best Seller"
+            ],
+            "thumbnail": "https://m.media-amazon.com/images/I/81MlS8SiRCL._AC_UF480,480_SR480,480_.jpg",
+            "rating": 4.5,
+            "reviews": 13827,
+            "discount": "-20%",
+            "price": "$19.99",
+            "extracted_price": 19.99,
+            "price_unit": "$19.99 / count",
+            "extracted_price_unit": 19.99,
+            "old_price": "null",
+            "climate_pledge_friendly": true
+          },
+          {
+            "position": 7,
+            "asin": "B09FGDZ4N6",
+            "title": "UCANBE Athena Face Body Paint Oil Palette + Translucent Setting Powder + 10PCS Brushes Set, Professional Non Toxic Face Painting Pallet Kit for Halloween SFX Cosplay Clown Makeup for Women Adults",
+            "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo1NTI2MDkwMDU5Njc3Nzg5OjE3OTI2NTg1MzU6c3BfZGV0YWlsMjozMDEyNzE3NzE0MDgwMDI6Ojo6&url=%2Fdp%2FB09FGDZ4N6%2Fref%3Dsspa_dk_detail_6%3Fpsc%3D1%26pd_rd_i%3DB09FGDZ4N6%26pd_rd_w%3DmuKtZ%26content-id%3Damzn1.sym.4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_p%3D4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_r%3D4RA9M7R6D3BJREMWEFYT%26pd_rd_wg%3DWJRFC%26pd_rd_r%3Dec3f65bb-2fcc-4e82-8ddf-cdfe4c16499b%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+            "link_clean": "https://www.amazon.com/dp/B09FGDZ4N6/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B09FGDZ4N6&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "thumbnail": "https://m.media-amazon.com/images/I/71Wzz6S6xaL._AC_UF480,480_SR480,480_.jpg",
+            "rating": 4.6,
+            "reviews": 2913,
+            "price": "$30.99",
+            "extracted_price": 30.99,
+            "climate_pledge_friendly": true
+          }
+        ]
+      }
+    ],
+    "videos": [
+      {
+        "position": 1,
+        "title": "A Palette of POSSIBILITIES! Use Your Imagination!",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/2d78437d-65b1-4b72-bde2-9bb7dfe0be02/default.jobtemplate.hls.m3u8",
+        "thumbnail": "https://m.media-amazon.com/images/I/51-p+jIzkuL.jpg",
+        "duration": "2:45",
+        "vendor": "Kristina Fortowsky",
+        "vendor_thumbnail": "https://m.media-amazon.com/images/I/41uKcHVf7ZL._CR0,0,268,268_._FMjpg_._SL34_.jpg",
+        "date": "Aug 30, 2026"
+      },
+      {
+        "position": 2,
+        "title": "Can this face paint be removed easily?",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/9850ace1-8704-46f6-bca8-afbabc9c4f17/default.jobtemplate.hls.m3u8",
+        "thumbnail": "https://m.media-amazon.com/images/I/A1+VmQGuZFL.jpg",
+        "duration": "2:16",
+        "vendor": "Norma & Steve's Shop",
+        "vendor_thumbnail": "https://m.media-amazon.com/images/I/B1eUYzpkWJL._CR256,1029,1715,1716_._FMjpg_._SL34_.jpg",
+        "date": "Oct 2, 2026"
+      },
+      {
+        "position": 3,
+        "title": "Athena Face Paint for Halloween, Cosplay, Parties &amp; More",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/f36902ba-62df-4f19-8230-7b497fefcb5a/default.jobtemplate.hls.m3u8",
+        "thumbnail": "https://m.media-amazon.com/images/I/51Vtev8R+JL.jpg",
+        "duration": "0:44",
+        "vendor": "Daisy",
+        "vendor_thumbnail": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SL34_.png",
+        "date": "Jun 12, 2026"
+      },
+      {
+        "position": 4,
+        "title": "I Purchased This Paint! Worth It??",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/d98e4a1b-acc8-41d7-84d2-b55363879217/default.jobtemplate.hls.m3u8",
+        "thumbnail": "https://m.media-amazon.com/images/I/91DLanyTpeL.jpg",
+        "duration": "3:26",
+        "vendor": "☀️ Sarah Ramirez ☀️",
+        "vendor_thumbnail": "https://m.media-amazon.com/images/I/61+LoF99eEL._CR0,0,500,500_._FMjpg_._SL34_.jpg",
+        "date": "Sep 18, 2026"
+      },
+      {
+        "position": 5,
+        "title": "How hard is it to get this pigmented paint off?!",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/1c98238b-961a-47cb-8370-d49ed789290a/default.jobtemplate.hls.m3u8",
+        "thumbnail": "https://m.media-amazon.com/images/I/A1W0owO33AL.jpg",
+        "duration": "1:57",
+        "vendor": "Lauren Gardner",
+        "vendor_thumbnail": "https://m.media-amazon.com/images/I/A1cduLNMHDL._CR0,0,2316,2316_._FMjpg_._SL34_.jpg",
+        "date": "Sep 14, 2026"
+      },
+      {
+        "position": 6,
+        "title": "Are they PIGMENTED? EASY to WORK with? Watch here!",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/f9181483-0532-4191-87c8-f804630011ad/default.jobtemplate.hls.m3u8",
+        "thumbnail": "https://m.media-amazon.com/images/I/A15SdowFOXL.jpg",
+        "duration": "2:20",
+        "vendor": "Simply Shaley",
+        "vendor_thumbnail": "https://m.media-amazon.com/images/I/A1JVIErhp+L._CR0,0,2316,2316_._FMjpg_._SL34_.jpg",
+        "date": "Sep 10, 2026"
+      },
+      {
+        "position": 7,
+        "title": "Mr. Batman Was Stoked!! Does This Paint Easily On Faces?",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/83bca27a-f5af-49a4-a201-dbc90bb50aa8/default.jobtemplate.hls.m3u8",
+        "thumbnail": "https://m.media-amazon.com/images/I/A1gqWh9i-mL.jpg",
+        "duration": "2:44",
+        "vendor": "☀️ Sarah Ramirez ☀️",
+        "vendor_thumbnail": "https://m.media-amazon.com/images/I/61+LoF99eEL._CR0,0,500,500_._FMjpg_._SL34_.jpg",
+        "date": "Sep 21, 2026"
+      },
+      {
+        "position": 8,
+        "title": "Customer Review After Body Paint Date",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/3097e0d8-650e-47eb-a8f4-f2730fe9de8f/default.jobtemplate.hls.m3u8",
+        "thumbnail": "https://m.media-amazon.com/images/I/61+aLjnthxL.jpg",
+        "duration": "0:17",
+        "vendor": "Samantha Claire",
+        "vendor_thumbnail": "https://m.media-amazon.com/images/I/A1omRlHcdeL._CR0,0,1084,1084_._FMjpg_._SL34_.jpg",
+        "date": "Feb 12, 2025"
+      },
+      {
+        "position": 9,
+        "title": "Get creative with this palette!",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/6057f56d-29cd-48fa-9e12-4e1fd850c06f/default.jobtemplate.hls.m3u8",
+        "thumbnail": "https://m.media-amazon.com/images/I/B18ZUuIv5DL.jpg",
+        "duration": "3:05",
+        "vendor": "MacKenzie Bradshaw",
+        "vendor_thumbnail": "https://m.media-amazon.com/images/I/713orgaMLOL._CR0,0,1102,1102_._FMjpg_._SL34_.jpg",
+        "date": "Oct 2, 2026"
+      }
+    ],
+    "product_description": [
+      {
+        "position": 1,
+        "title": "UCANBE Athena Face Body Paint Palette 12 COLORS Oil Based Painting Palette",
+        "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/8a47749a-b746-4a8c-9f80-095e979f3b76.__CR0,0,1464,600_PT0_SX1464_V1___.jpg"
+      },
+      {
+        "position": 2,
+        "title": "Color Swatches - High Pigmented and Full Coverage Paint Colors, Smooth Cream Formula",
+        "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/03902d49-a53c-4121-a04b-7a98029f8e35.__CR0,0,1464,600_PT0_SX1464_V1___.jpg"
+      },
+      {
+        "position": 3,
+        "title": "UCANBE Athena Basic Face Body Paint Oil Palette 12 Colors",
+        "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/dc44c485-ec56-45b8-a808-40da385c2108.__CR0,0,1464,600_PT0_SX1464_V1___.jpg"
+      },
+      {
+        "position": 4,
+        "title": "12 Essential Shades for Beginners and Professional Makeup Artists",
+        "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/e1c8893d-9027-4eb6-8b1c-1808a19c43dc.__CR0,0,1464,600_PT0_SX1464_V1___.jpg"
+      },
+      {
+        "position": 5,
+        "title": "Easy to Use and Easy to Remove, Set with Translucent Powder for Longer Lasting Wear",
+        "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/78d4495f-df0a-4154-ad04-5cc3233f97ea.__CR0,0,1464,600_PT0_SX1464_V1___.jpg"
+      },
+      {
+        "position": 6,
+        "title": "UCANBE Athena Basic Face Paint for Halloween Parties, Festivals, Costume Cosplay and More!",
+        "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/f6205258-7521-43f3-87e1-ddfa22c99186.__CR0,0,1464,600_PT0_SX1464_V1___.jpg"
+      },
+      {
+        "position": 7,
+        "title": "UCANBE Athena Basic Face Painting Kit",
+        "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/d7f9fadb-b3e3-4948-b87f-9ab5266c55a4.__CR0,0,1464,600_PT0_SX1464_V1___.jpg"
+      }
+    ],
+    "product_details": {
+      "brand_name": "UCANBE",
+      "item_form": "Cream",
+      "container_type": "Palette",
+      "included_components": "Face Paint Palette (12 Color Blocks)",
+      "product_benefits": "Provides vibrant, blendable, and long-lasting color for creative face and body art while staying flexible to prevent cracking",
+      "manufacturer": "UCANBE",
+      "model_number": "STUB223",
+      "manufacturer_part_number": "STUB223",
+      "set_name": "UCANBE Athena Basic Face Body Paint Oil Palette (12 Colors)",
+      "skin_type": "All",
+      "unit_count": "2.96 Fluid Ounces",
+      "warranty_description": "Replacement available for items received damaged or defective.",
+      "best_sellers_rank": [
+        {
+          "text": "#14 in Arts, Crafts & Sewing (See Top 100 in Arts, Crafts & Sewing)",
+          "extracted_rank": 14,
+          "link": "https://www.amazon.com/gp/bestsellers/arts-crafts/ref=pd_zg_ts_arts-crafts",
+          "link_text": "See Top 100 in Arts, Crafts & Sewing"
+        },
+        {
+          "text": "#3 in Face Painting Supplies",
+          "extracted_rank": 3,
+          "link": "https://www.amazon.com/gp/bestsellers/arts-crafts/7756216011/ref=pd_zg_hrsr_arts-crafts",
+          "link_text": "Face Painting Supplies"
+        }
+      ],
+      "asin": "B0H1C18MWC",
+      "rating": 4.6,
+      "reviews": 225,
+      "color": "Athena Basic",
+      "product_dimensions": "7.48 x 2.56 x 0.67 inches; 6 ounces",
+      "item_model_number": "STUB223"
+    },
+    "sponsored_brands": [
+      {
+        "position": 1,
+        "name": "Sponsored ad from MULVINNIE. \"Face Paint Kit for Parties.\" Shop MULVINNIE.",
+        "link": "https://aax-us-east-retail-direct.amazon.com/x/c/JK6IBLHNmIT9yB38LVEFxkgAAAGhYsZ2OgEAAAH2AQBvbm9fdHhuX2JpZDQgICBvbm9fdHhuX2ltcDEgICDWUyHp/clv1c_ek-wBQfWFbbazTI3YisGKEShqhZWsNxQ_GBRsaO-P6Nx6-VVBj2Tulz_4QGI6Ah6ywPBmTXI7BYaqYed_WJzhnJ_sBUxCTWdZiGV7Qjgn9w6yAGH3n2Q-O766ZnEx7IdTgw3DrX8db03QBlaV7w97pHatM08thSIM4ZwzBOQ3Obf3yJNPqdfZNYrzJFeNX53mesBqcxOHgnEbZAVN4n21uOzHtC5QmqeB6MdzOypJiEdDODfkvEUZVt7J3waHSrKfos1lI0ws4wi7WthDTuIRudoj9lAndRkezgu9kqLh6-Z2PEsdp9ZDcrfVdtxDY2cOYnT6s5KBJEHmJ35EyZU9BgOIMnOx0mzAHJj3z52-mpW6xAlwcRwdF3wydqG3SmaVzgwgm_0bCSQzuYtK7D5EoCcOUnjvfIIq80BXHQHNP5FXsruRMVi0N5_lVTFNRc6qNbgrtX2tSdLj2-c0JrnnaOxGeJf4WdwLsA8ZrAKrB4YaQj9uA1tF0UCyZZV7ks9ZEnPneqmE_uEY0nJRemgkT9H9YWlHz24g3W6RdDFS4EXk_BJiv42fPC3sv_1zJ0Dq8hzIW2SIW5TTKSf3ZszEuwKS1Fncl2d0svuWESarnu6ifoyFtmghJTSIddjfZb-x6ZELHpGnZQbLqv9-GLMd_hfJEqj-fPIZg_O9W8MONYYtx8b6rJb7xljVDQUptRNePQMcV8aLZ81owu13WMwJotRh02_LsoIb4rS2gU9_5hZfUuLw7ERKjugeItPhyJJgZsXlYSy65PP7Md7H0KJlrznDwJKSP0B0U0jTHVraku1EjNssKfO3eeC20jZKRXNuBVgDM8Wd8r59ndllM-LW2aFAomfkxYkBFDwt623o3_gs-XeJqP9l-Qx0kJ1ayOfm0fpdyecOAH8n_4k3ZWoMEh3VUI2CJcfdqZYabUvOcn_VayMF2EFNEjrNC3rXUNd3kw6kO_uDybu6_IFHP7zI_VGWWnT3d9E5lnFigxmOnosYzW8K7EE1SPGm4OtP2k4DxUW3HbBxEiDAY7WpxJHhKS6ZnYQTgT1r_VHJl00nD-KsRYgbsQgFWqzyxjk9AplO3__XceGxRcow35G75CXe9ElSps1jZApPBi06-MydwzhO6Yxtr2Y8L3X5ur7rbo51Z_d_wYghEAM8KQqV1xfNOlfIhR0f6PHnVYzrK8WhpVJ7l_wk0Vf6jCPXKmkzMLcEtelaVpR4pVZwLf6i9f1sp5PL7AotJ2u75KTLutgFOLOmjXTjFG94f4_uoUyh5lmPMPVZFzfU2Jp0Xydd76dHYctDSst2i8GwHIYbB-9zA_QLde1t_dGEz-904Ewzmik6rRoMoQXx287gKKE91lH1saKos3hmTVnfLbZpLEF-9qgLUpTYXf-9nrDB08vvY_vYNt0Ymdn2v-gU8Do8EWFjH8zC8r2kuI2ROst_L0EQ6KNnqtlrLsHjk7RGa0I-6JaY_vOP7wwmfb3oHgQFPPlsb9DQnyX9NihxULXRhP57yLMbnPELb7H1aYz-fpO3AW3ymboKByjHqEu_Tn4hkCGooQKcHLQ_JaV5qszjuPifDiuU4GoNqVDSBnOpBqF9oN440fIRHKqkpl_RCo2-w6oyqjDiWlXLc4/https://www.amazon.com/stores/page/580CC500-650A-43C0-B277-8C16DF54CDD4/?_encoding=UTF8&store_ref=SB_A09172441OU6OZN95700R-A094635531OUS7849RNBT&pd_rd_plhdr=t&aaxitk=a04ac8560e5fc291c0b3e67ab7b6cc09&hsa_cr_id=0&lp_slot=desktop-arbies&lp_page_asin=B0H1C18MWC&pd_rd_i=ad1&ref_=sbx_be_dp_arbies_mbd_mb0_bkgd&pd_rd_w=Jx9id&content-id=amzn1.sym.d4d91f0b-2ea5-4099-b125-c8f96930ac21&pf_rd_p=d4d91f0b-2ea5-4099-b125-c8f96930ac21&pf_rd_r=4RA9M7R6D3BJREMWEFYT&pd_rd_wg=WJRFC&pd_rd_r=ec3f65bb-2fcc-4e82-8ddf-cdfe4c16499b"
+      },
+      {
+        "position": 2,
+        "name": "Sponsored ad from CCbeauty. Shop CCbeauty.",
+        "link": "https://aax-us-east-retail-direct.amazon.com/x/c/JDbT17qT9nKpdJHkUDKVRKMAAAGhYsZ2PAEAAAH2AQBvbm9fdHhuX2JpZDQgICBvbm9fdHhuX2ltcDEgICCXO8JP/clv1c_ek-wBXfWEsTSniFvYrdV2oKZypiRAsKUZxGZ5edhG1th2ZkQxvjtI3XwTWlbL0KjW_01iM_LE2jkPYH4zpG3s7AbKIcxzekLQ52xZJSzWdycAdOpxaUaNlzI4_h_nP4jUtwIxTvsBzEqogEPxrbM6Rhbode4sh2G9jRATnctzLwzQXyS9iO5Ch2pyJ0QOQPvonGjJ09EBD0QmYx9dPowii-dA0pqJV6roPdmAJebiC20MV59N2t2vDw6Gi1MBk5W9FB0uI0w8qxjuKM55oew2z-oXnUIz9b94BkW0KhT7rxVqLA4dIWsUpzeKfnQjThno4uiOu-lsZuDUJ7-jufC40DNohnFUHCPiHrjNZSpXan9Qstn_3atAQKQftTBSfliqlV1mTFfUSjDdGqH0-_opTXqBEnLJU4pZKx2tfapSttbjyP17FjIfhtXJ0QhkPgjRSMnf2TFEW_Bh7PqaGcgFV-BRkLsuKx-XFsG833APRYNGTU8oXIVaJvzMTSNzMokKC_1i7lIIlsb4FTfuKQnCGGtPrEKQmFEcMv7Kv2kgvP6qZKZ5d6q9afDRoqsanq176rA665QjjFmwbp2v8lgzSTjA6ZZgAWvEiaTt_0mXvfkkie6HM9HkuUKjwMDCKc8FiDKbFbzltGDj-b7VUth3orAU4awxwJ8riTS5VlZLlX1Zz8oB-3HwfcQ7WLwdff8PtY8t6wkPeWDQdP11yBjvEloC97kf3nJJ0e6ohW12OFRmqyAAxKGremjqjFgz67CfuuJpjNn75n-HqUzPyPpaxpI0hTB880hR7a7OnajNMGS7UR1gw2KxRFEzM5zoCN8m5DqX6iEqvZhQ8mxukUcWKAKxAe9gEoCnrn8AwPcpzyA3RmCqRMhIJhOOSiUnJA_VxG6DWrZwe0IewHk4sq4_izz8-UZNDhP9u0EF4jcZW-o7hctsMrwvv7JsjgBynVBJ_sxuWJUHQLDLAo1O7bDoFkM0LGJ28M0_Lg1WKQLjhGeeept6HcRbYTaLbJYQRIs-VpuERCW6Hy0yUpQYcRkKexZA5e19rX47ZTi-ZybA4DQsgGP9d-Iw2bO4sjADXCPvf7SQeZchMskWM4MskvURfa0SbGN9bUnmoiGAp3nJJZ-YT6V375FYVRj_0DyvXb1DByXWoptrz5bod4YM29lu3XKBBMqtRLQzTWPGhSvMOQHS-eosWTYVb0CQWeo37KHTA98dYtinsoHctmVFqq44C9kWzKj8lxkCGIAkKXtvXTNM7_vJ4YrkFVryZ08LOMh774Lhdak67h3yAiZ_zW2d1TSMfN-IHdR7rQdL8W3htKvPlgUA5kIXx-5Ou50K2wgZmimybZCWzRly-mGrratng5AOaAuHYxhO0uIx30Poa1QnkVugPo27LlMH-Q6GdjgvYbxGOUOcIk-bn2750Ocy-GxA-2VgAVIeO8hvZ2n_qaqfzJGvPO58pfvseZXKhTXRq56vWdgODM5WuFiFEUwLksJ3RXf0VhotwRyB7emOY6sSVYE2kNbpRvPn2oNVDOurAOyzSd3lSaSGjT1HZnr9pOMDKkUBhkDDf0Eb6Z-j5fF2TwFkLcUoFH0T8OfvYlyH2D1GvRanjckXuN2k5DsKNhcd4P8P8exdFFpcH92otXqEXyjA4t7Fw/https://www.amazon.com/stores/page/782E284E-2666-448D-BAA3-B5A61B876F23/?_encoding=UTF8&store_ref=SB_A00521131TO337TPFZHX7-A02371701HH6FPRUV3BWN&pd_rd_plhdr=t&aaxitk=93e73ad97abebb602fb95fcce2a3464c&hsa_cr_id=0&lp_slot=desktop-arbies&lp_page_asin=B0H1C18MWC&pd_rd_i=ad2&ref_=sbx_be_dp_arbies_mbd_mb1_bkgd&pd_rd_w=Jx9id&content-id=amzn1.sym.d4d91f0b-2ea5-4099-b125-c8f96930ac21&pf_rd_p=d4d91f0b-2ea5-4099-b125-c8f96930ac21&pf_rd_r=4RA9M7R6D3BJREMWEFYT&pd_rd_wg=WJRFC&pd_rd_r=ec3f65bb-2fcc-4e82-8ddf-cdfe4c16499b"
+      },
+      {
+        "position": 3,
+        "name": "Sponsored ad from UCANBE. Shop UCANBE.",
+        "link": "https://aax-us-east-retail-direct.amazon.com/x/c/JFCuOxlQoU868w5vBRGLzwAAAAGhYsZ2PQEAAAH2AQBvbm9fdHhuX2JpZDQgICBvbm9fdHhuX2ltcDEgICCUoAh2/clv1c_ek-wBXf2FcTW3uu7cOoEbsj97RoGi3LPLzkZAaNuG9v_xK2q4rjFchauWqWdpyYQ15G_cOPJfF3Mhj3ANsVd6_i4GQenL0v53_ipk1LWGsQVDZxRDB66XQ357s849mkXTt_seQpx_gkZXjuE3ZBDa9HepPVUBgyigiXwRj2S1DZeVOp8P5MvHEZQmkdl7rRU9UW6_vtr3YbBQuX-h5Bm3nmP_Q5vDDYUWdhaOtP1yUqjL9s_Uam1PpDm6JwyBdr5JAugzuf-QgeV9D5UI2uwmlq2RIcMDhm6OCUv9sJySfZkaI5xE2j-pRy1XBoYzzPghx3IT5rOPXRFZhrjo72eEB7ru22qT9nPlJrAlLb39F5sKRCrutamBixauNKfx-NM_h40UWV00WTVfEEhtuLOL2PWqTz8s2qUlutZcPhQGyZdrzP1t2HJPvsD1ohMPMVHnyRk4AuwRDuGmhXMIyMCVayKx7nQra0WV08a9w8kmN8zP38SNocfRs9N5AbhZgc0xHbMzQXdW5t5_2Ti1EG2nPke25mtfF1pYR2KhNi4k_4s0HxjnoryAycoS7kZuK7g_QHUaOcwwTkYgrvUjWbu2QnBcmLn8u3G3iXqlCyiILJw-K9pGGMRaZk_DckPCqczFKDNbnfzntEDOPrzDUVhpnGr0AHxwsO49ciVzjUsX4_pLlkCpNfaDIX2uKSuMVQlFP_P6sB2oDi56ZlHY6zsisvpM1YhfnbDy4uRlfw42ksXWOn0j6clob0SQA5VwF54a0Bdwx2bRcrgjUGyz7tf9yIjPVGW3Fban5eIkzXtMlnbh-tR4qw2SBoiRTjADAVMYYALIFz7jaBv7VmKhJ8O0t9U_Yftyapq0b0S_TflderY5o26rUBBSlR_cFXuddKYyrJ7k3sf3scaTvAsC8P6XC9n6kyo5ULZkmtd-IrLqfBA3m2wI2k0j85Fviu_L8K8HSKHklRXNVTGI8WcyZiRe9E25WX0nEj-iFfQ5CTYnRGxo1XVKACwUd7PIqeK0mDIjF__8Tm4TKFaCojlaytCAyCevomXuUNBxPoY1KXXtS3e9xO48KscUJt1Pv9dGXrxKe5LT8ZcDY8Mir5sY374gGt19CkRV3NS9JWC2U-GaENFe9CX6GrsQ55h00djVPQePziGwYBskB3WxqSjEBY24TB7L2lRjLMC3XF0SK_4I7NNnrorVtH8JbBwpcMcaiZWTE-cVfASUGpv7PNUhU6WMwVo7thVnoFKyuxxB3SLLSJYdij3ald_W_MqJNsKeLI2h24vgRVvx6PvJcBdM8hlXVYksXjx4kLy7BCmh1MtoF0MXz0uLNLptjXPu2USE1yJW0LKkPuserYRrbJvbT_SzNcn82JIj-aVDSmtnlxOYIZqrw_0Pc96txYEZ6kCSNtJ5V9readZNO8mN0XWDra1MSlQyLZA5ZNzLNvHL0ptpaFU_ZX65uv4PxUoQhWDGw_y0O9enIW064X_jqnBajXtXg8BmjmJxrjAlPJkzUX1AmdlZmh6eso6t9TldOhgrhjTkLilSVT01h6daKh6Qm-6j6RrmjISvAhjaSUkVk2dhng-LFsEYx9QXGU2GklFsFwtHdHFVC11pMglVisyqs89IJ4/https://www.amazon.com/stores/page/362D95EF-947B-48C3-906D-690F5F81FAC3/?_encoding=UTF8&store_ref=SB_A0763306295L7TEH70MEC-A074121828XKOTI1H1JFS&pd_rd_plhdr=t&aaxitk=2b0f09d59979b707f422b2b876d859d5&hsa_cr_id=0&lp_slot=desktop-arbies&lp_page_asin=B0H1C18MWC&pd_rd_i=ad3&ref_=sbx_be_dp_arbies_mbd_mb2_bkgd&pd_rd_w=Jx9id&content-id=amzn1.sym.d4d91f0b-2ea5-4099-b125-c8f96930ac21&pf_rd_p=d4d91f0b-2ea5-4099-b125-c8f96930ac21&pf_rd_r=4RA9M7R6D3BJREMWEFYT&pd_rd_wg=WJRFC&pd_rd_r=ec3f65bb-2fcc-4e82-8ddf-cdfe4c16499b"
+      },
+      {
+        "position": 4,
+        "name": "Sponsored ad from snazaroo. \"Snazaroo Water-Based Face Paint.\" Shop snazaroo.",
+        "link": "https://aax-us-east-retail-direct.amazon.com/x/c/JIAYjoedgWxLm9s33WJ2r9AAAAGhYsZ2PgEAAAH2AQBvbm9fdHhuX2JpZDQgICBvbm9fdHhuX2ltcDEgICCpoJaP/clv1c_ek-wBXfWFbbSzjK3YyvCrXdcOOxDnjr83UtEz8LVsdsJXs2RvtW-8YcJikBovuJ-qwr50acqDgihpab4zpG3syof4r6ltny_OyZhBsvU70im8h3wV949kvyZ4_1OquoUUDoLxOttByHrlg8PaXZT4tSboNuAhHHExjSAz3QtzIxzwWPRX_EmCZYcWnJ8BEaKk7M6hsrMHATm3t5dBwXCsz8bXBpqjWqt2dfOMhqUCTWk5VNL3Afi95wTsKqzdX0CFInZw_T_Di_ADJsWDNWq3rsnQrWvxvjiI9gvxRga_SeIeEGrz9LYvVQyw6wCG1H_r90d0S0QqSLTJJQL-_JsP6miDuAmcKvLUaRu9SkhM6OseZEDs4uw_mM0VxkyAVtvi1E1IC-sTXlTqjDWwwPCpaBAiU_tqQh10F97Alx2YNVLoaYKbnW0XFK3knm0Udqnlg7JlX5_Sa0gpOX-lKuehM_IyhsTbQNWNpiZdpzJO7BK-d1nWg9Z8G4XMLfg6XhtwZ4zFkoJU0rEsAeZrJihl01j7pDmkthl5WL6te3Y2lgzWIgilvWm1LSUvesBY9QTv5hakQFMnEao4fyGpybc35SdUgMsyHCkIxkGZQOsnT1G4_0k1FuXlf8Sx-AYp7MgiMALJSflWb7CtrNm-165tAyZHzn_Ga3nZ7GInAV4ODNAf5rGhHnU38Qy1D7BdeVKHcZ4KsuMq-BWuGv_fmRS-Tm0M_-3RfbGj5anpkDsB1hTZZ7NaJy3IwAks9qOPpQyeF63VJMb4rZLNxeeuLvlADmgJft6rQbixH_DeqepatjmzR2tyYoXgUHFCta6r9oCkLzUhTw7MoAmgoS1o5CGl_GiBhpCIytogTv9AucspTiB3RGbAgzatJx7HGNPqEuoXUiUAR9hxA8It-Dc7r7S42Sn21sRSuNGs_0rXUaq18LXZq1PCuiAo5I3H00ruShmQPwEtLC0a_I1g__p30RVGcqpYdReM8WuzukrXkk9ANfeYkO0abCU62Lx8wclclvkLkfmTy98rYyXi-LpEoOP4-LvPfKRdIL25IbFLdypzI07GWOQUPSxj1MBPLMPXjzVgXBG6RBBC3X-oK3NOzFpP01u2j6DGocggCzNq9zAZ-O0QOpo1rdyWikSTHW00917IQbFVxbzpVIlg444NZz2IYpTc_XTdStJbPh6xxvjwOTarPTybg96uCobJDca4bpLjI9cZlDTkKXTwkR0NEa2XtNYV8xf3menp9x8lN_hpZ-qV79kY0Xw3BnRhGxWiw2b_p9hSNt1cYRx6-ea6EsDnNdd85MkC-a_0K-dk5UGPdNXlHw6qiVE2O56fXvoFC0VWallZkQsW2zRhyj7_WCTSPBcoa8nxAIzqwUxGNubG0355zRFZR0cyDJNnoxlAbo-FWcuEXHtAFdz9IUSmrT1YOLbm54JwIa3x1aQNcrMaWVnncP43t2Zld0_494kbbwPc06AJORwIgwrGoDSuWudjD0Yy_h4K8EuP8Y4ZXISPS8rM8UgSkYiLEVawxvRL5HG81Qd5PG4juit-ogJS3bfcvldk9asGRO6573gcwfIBvCFdJsfa0EAxERXjgujE_Llrfq_EA41F1IAZGF5qOAQGMic_3ik3sJsQW5RRB5SayBEI8Id2grQW8c/https://www.amazon.com/stores/page/AEAECD39-F08A-43EF-B6E3-662C63D5F0ED/?_encoding=UTF8&store_ref=SB_A06638433UJ6XA0BTE7ZZ-A0392248SCFJ992463F1&pd_rd_plhdr=t&aaxitk=fc7373fe17af565f89747908cd6073bd&hsa_cr_id=0&lp_slot=desktop-arbies&lp_page_asin=B0H1C18MWC&pd_rd_i=ad4&ref_=sbx_be_dp_arbies_mbd_mb3_bkgd&pd_rd_w=Jx9id&content-id=amzn1.sym.d4d91f0b-2ea5-4099-b125-c8f96930ac21&pf_rd_p=d4d91f0b-2ea5-4099-b125-c8f96930ac21&pf_rd_r=4RA9M7R6D3BJREMWEFYT&pd_rd_wg=WJRFC&pd_rd_r=ec3f65bb-2fcc-4e82-8ddf-cdfe4c16499b"
+      },
+      {
+        "position": 5,
+        "name": "Sponsored ad from Paminify Black White Makeup. Shop Paminify Black White Makeup.",
+        "link": "https://aax-us-east-retail-direct.amazon.com/x/c/JKPmhaXiOLroITzjpl592VUAAAGhYsZ2PwEAAAH2AQBvbm9fdHhuX2JpZDQgICBvbm9fdHhuX2ltcDEgICBD_HVL/clv1c_ek-wBfHTEsbWTnPxNuhUOM-vDpPzqpdRNq4mMMqzvw9jddMCNIUN3mSQ2tz4IvooT2U9iQ4qdXsTK3kwKUJVpx7g_6dIT_yPc_zMtM6HUF30yUr43b_1lWx67OQy4b0IFfC3F0N0rxF6PV4_KkRmy5Cb4F9Y1tNqnPzqb5dqTieRokJT0wBO7xHY36Z5_Ex8mMKPkqP7dtfIVIG2JWrDceAxDQuoLTXy-QX0lPOhkrqwv1fnZ64rQeLx88-J5pL1ZINBoBiuN_1QebGvxZp5dq_wge9AHtpyNOnGFqMOIlTjVXwPoNR5PcCtWGirpDVzzxfWXstzjR3V_sOHiDkHPLc_VJGImnQkCjbnV_ZX3RM0kqxMV_p9xuh6XyamGohDO0FUx_m9763kddBQtBNWfHxv4yaUXSO3TJ7nzLlyvuzSIou3c9pPZAGcASjfVo_62toAOGXDmAkJ_I_I-KWh7n0QAYRhxJpOjvfvx6938qL8hf4IHLBeBqYq-vJ68yR7thKRIrH5CqTK2gTr-xZIKerhLEBZXHzQTV6m9efWWwg5xy0UOkkCKt7hlU9F_gIyY1DfaUYApC4WP5cGvQgmaRPvZSpPQxzYOPtNs-0MhI8WVYXtNWF6Q09TphyQOp0c1IVuyaEQ3MaB0Ska_ZCKsjzBbnw6WsbjImRA_T8r-C9mDw2L5IbM6tnwMJK4lzcHyhsjBKiTk7ePIUp2xAu-OiHpLl4ijdIlmek9S2wMmb7kQ3ttgj8451l8_VYRopRAP-CI3SBM9BaPSq0wOit7hnRDakA7z_a0EjraTbZmTUupZTYbKQFYvQbArFfs6rvrpQhxdQavrmByfLaIZIa3vquQu-LbEqMUuVu_dqrJHwCXy5BzHPxrkxkR-UPfO1wVFgn_4_h2_P9cYH6wmaLtgPBVmQ9fcO8p_iPuwQlXlGpg_jZ9fo-TKrm0_uiJQjW0q9hz2duNqMcLn69CjVCEMa0e7sfiGZTIY_I0MjE-G7_TVgv1jCdPIjsKKkUlwBHXKfW00FhnWEXAGpgVlvu-a-tl3vV4IEJ-X1Gf63iv1RgN3DkRcBzTuZbXiJZknBpWnu5Q4cN4sgLvhNouhGUhaY9AKoqyYV1FkLM1cpwukryEF_ycqWBbnE5W9CdE2-KMhjagarfVmXhLeptL5B_SxGZm53rPPnL1f5yN9pKuWCFkJ16w2bVseUpO8v_zAVDk1Vvp17Hk4hwbi2h7HGeWLYLpwX_CA1Dr6djBbi5QOlvClQwmanbsmuiPv1L7-PnNrWu7RGijxIiLyWN0bFaWimqWY7lLoZ12sjVeUX5yxzzGrP66m9NOghlSwtHyaUF1V7mxy-668OuMlH-gq7O3RPRwZwn0VVW6fgHknj8KTxpfXf98w_DkS8EqdPWDZ6kk-mzhrXf4g0KfBe1np-jXNAzrHYykQVtCXsWoQLrYMfiRsIERVc2n46U0BsZaPUAES_Tnogvz-a_OUTBOg3FGV2L97Gy4p6viT52morR4FKKtAvK45WMWZrO4QPTVXOeRrYxu5Mt6iRnXyEoOZm4DvPXh80wXdKfRBbmD_Y-DP0prcovWN7YVNK9qTJhtA2aYxqB0AnvQk9gNGbxn/https://www.amazon.com/stores/page/3057771C-2E1D-410A-8C96-C183FAE64704/?_encoding=UTF8&store_ref=SB_A04658313OAML43255IED-A0430944DT1PZ2PCUK8U&pd_rd_plhdr=t&aaxitk=e474a8382a0f68936dc8066f2e7359b1&hsa_cr_id=0&lp_slot=desktop-arbies&lp_page_asin=B0H1C18MWC&pd_rd_i=ad5&ref_=sbx_be_dp_arbies_mbd_mb4_bkgd&pd_rd_w=Jx9id&content-id=amzn1.sym.d4d91f0b-2ea5-4099-b125-c8f96930ac21&pf_rd_p=d4d91f0b-2ea5-4099-b125-c8f96930ac21&pf_rd_r=4RA9M7R6D3BJREMWEFYT&pd_rd_wg=WJRFC&pd_rd_r=ec3f65bb-2fcc-4e82-8ddf-cdfe4c16499b"
+      }
+    ],
+    "reviews_information": {
+      "summary": {
+        "text": "Customers find the face paint palette very pigmented and vibrant, with one noting it doesn't stain the face. The product is easy to apply, works well, and customers consider it worth the price point. They appreciate its versatility, with one mentioning it's great for scar makeup. The removal experience is mixed - while some find it easy to remove, others report it's extremely difficult to remove.",
+        "insights": [
+          {
+            "title": "Pigment",
+            "sentiment": "positive",
+            "mentions": {
+              "total": 24,
+              "positive": 17,
+              "negative": 7
+            },
+            "summary": "Customers appreciate the face paint's pigmentation, noting that the colors are vibrant and don't stain the face.",
+            "examples": [
+              {
+                "position": 1,
+                "snippet": "AMAZING it’s really easy to use and very pigmented 100/100",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R1X0Z73UUAXXMP"
+              },
+              {
+                "position": 2,
+                "snippet": "SUPER pigmented and nice texture but stained my skin a little.",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R3HNMYKJQEDP7D"
+              },
+              {
+                "position": 3,
+                "snippet": "I would have gave it five if the purple did stain my skin it’s not like it was a crazy stain, but it did stain my skin....",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/ROBC23Z6NK1RI"
+              },
+              {
+                "position": 4,
+                "snippet": "I got this for my halloween costume and it works so well! It’s pigmented and it blends out easily and it doesn’t feel heavy on the skin",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R1M9ZDZRG8JMGZ"
+              }
+            ]
+          },
+          {
+            "title": "Quality",
+            "sentiment": "positive",
+            "mentions": {
+              "total": 22,
+              "positive": 19,
+              "negative": 3
+            },
+            "summary": "Customers find the face paint palette to be of high quality, with one customer noting it performs better than other white face paints, and another mentioning it works well for scar makeup.",
+            "examples": [
+              {
+                "position": 1,
+                "snippet": "AMAZING it’s really easy to use and very pigmented 100/100",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R1X0Z73UUAXXMP"
+              },
+              {
+                "position": 2,
+                "snippet": "Great face painting pallet for beginners or experienced makeup artists. They’re high pigment paint is well pigmented and easy to apply....",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R3APFP7HKTSP7W"
+              },
+              {
+                "position": 3,
+                "snippet": "Nice",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R15CEEDLW1RKVU"
+              },
+              {
+                "position": 4,
+                "snippet": "Love it! Bright colors and easy to remove.",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R1FUOFV934U39L"
+              }
+            ]
+          },
+          {
+            "title": "Effectiveness",
+            "sentiment": "positive",
+            "mentions": {
+              "total": 8,
+              "positive": 8,
+              "negative": 0
+            },
+            "summary": "Customers find the face paint effective, with one mentioning it worked perfectly for cosplay and another noting it didn't aggravate their rosacea.",
+            "examples": [
+              {
+                "position": 1,
+                "snippet": "It works really well only downside is that Since it’s a oil palette you NEED to buy a setting powder I wish there was an option that comes with...",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R15CEEDLW1RKVU"
+              },
+              {
+                "position": 2,
+                "snippet": "...You should definitely grab this set if you need reliable makeup.",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/RYY7XB64SY3OV"
+              },
+              {
+                "position": 3,
+                "snippet": "This worked perfect for the cosplay I needed it for! Deep and bright colors!",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/RQI05JCT1GUU4"
+              },
+              {
+                "position": 4,
+                "snippet": "...texture and rosacea and it covered it all perfectly and didn’t aggravate my rosacea further than normal....",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R20609RZIDBGUV"
+              }
+            ]
+          },
+          {
+            "title": "Application",
+            "sentiment": "positive",
+            "mentions": {
+              "total": 7,
+              "positive": 5,
+              "negative": 2
+            },
+            "summary": "Customers find the face paint easy to apply and use.",
+            "examples": [
+              {
+                "position": 1,
+                "snippet": "...They’re high pigment paint is well pigmented and easy to apply. You could do plenty of creative looks with the colors provided....",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R3APFP7HKTSP7W"
+              },
+              {
+                "position": 2,
+                "snippet": "AMAZING it’s really easy to use and very pigmented 100/100",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R1X0Z73UUAXXMP"
+              },
+              {
+                "position": 3,
+                "snippet": "I am unsure if I am the problem but this is very difficult to use and extremely difficult to remove as well. Pigment is not great either.",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R2NJ1ITF4U8KS5"
+              },
+              {
+                "position": 4,
+                "snippet": "...I’ve only used Mehron face paint before, and this goes on just as easily....",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/RQYA3A08SBKJI"
+              }
+            ]
+          },
+          {
+            "title": "Value for money",
+            "sentiment": "positive",
+            "mentions": {
+              "total": 7,
+              "positive": 6,
+              "negative": 1
+            },
+            "summary": "Customers find the face paint palette worth its price point.",
+            "examples": [
+              {
+                "position": 1,
+                "snippet": "it was opaque enough for good coverage and price",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/RU9RCTFF2TBLC"
+              },
+              {
+                "position": 2,
+                "snippet": "Worth the purchase, paint was smooth went well onto skin. Didn’t leave any stains after wash !",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R3910TMMI9PB9O"
+              },
+              {
+                "position": 3,
+                "snippet": "...The price for the quality is amazing and I can’t wait to play with this pallete more!",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R20609RZIDBGUV"
+              },
+              {
+                "position": 4,
+                "snippet": "...I would recommend because it’s good for its price.",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R3APFP7HKTSP7W"
+              }
+            ]
+          },
+          {
+            "title": "Versatility",
+            "sentiment": "positive",
+            "mentions": {
+              "total": 7,
+              "positive": 7,
+              "negative": 0
+            },
+            "summary": "Customers find the face paint versatile, with reviews mentioning its effectiveness for Halloween costumes, scar makeup, and cosplay.",
+            "examples": [
+              {
+                "position": 1,
+                "snippet": "Great for cosplay! I use this to make my brows any color I want! Also great for scar makeup too!",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/RRKE3BY7DO2C"
+              },
+              {
+                "position": 2,
+                "snippet": "These are great for so many things we got these to cover my daughters toe after surgery no tape needed",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R2GIS8FBP1YAXA"
+              },
+              {
+                "position": 3,
+                "snippet": "This face paint palette is honestly a total game changer. The colors are incredibly vibrant and pop so well on the skin....",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/RYY7XB64SY3OV"
+              },
+              {
+                "position": 4,
+                "snippet": "Great for face painting !!",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R3AKI50JNLCEMA"
+              }
+            ]
+          },
+          {
+            "title": "Removability",
+            "sentiment": "mixed",
+            "mentions": {
+              "total": 15,
+              "positive": 10,
+              "negative": 5
+            },
+            "summary": "Customers have mixed experiences with the face paint's removability, with some finding it easy to remove while others report it being extremely difficult to take off.",
+            "examples": [
+              {
+                "position": 1,
+                "snippet": "Love it! Bright colors and easy to remove.",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R1FUOFV934U39L"
+              },
+              {
+                "position": 2,
+                "snippet": "very hard to wash off but also made me break out horribly!!!...",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R1SPR8WLV769TS"
+              },
+              {
+                "position": 3,
+                "snippet": "love this so much! washes off easily, doesn’t stain, stays on for long time!!! blends very nicely 100% recommend",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R2I029OFH4DDU1"
+              },
+              {
+                "position": 4,
+                "snippet": "...is in love with this face, body paint, goes on, very smooth and easy to clean off with coconut oil.",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/RKE880WKSIMOX"
+              }
+            ]
+          }
+        ],
+        "customer_reviews": {
+          "5 star": 79,
+          "4 star": 13,
+          "3 star": 5,
+          "2 star": 1,
+          "1 star": 2
+        }
+      }
+    }
+  }
+}

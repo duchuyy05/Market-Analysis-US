@@ -1,0 +1,1185 @@
+{
+  "provider": "serpapi",
+  "endpoint": "https://serpapi.com/search.json",
+  "parameters": {
+    "engine": "amazon_product",
+    "asin": "B0CVSF51YD",
+    "amazon_domain": "amazon.com",
+    "language": "en_US",
+    "shipping_location": "US",
+    "device": "desktop",
+    "output": "json"
+  },
+  "fetched_at_utc": "2026-10-22T16:16:14.814165+00:00",
+  "raw_file": "supplements/supplement-2026-10-22T1610589019850000-ed08e5/raw/serpapi-1fa0c99a2ed5752cf6d9.json",
+  "response": {
+    "search_metadata": {
+      "id": "6ada36cf236d4c85793be951",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/eSs8JxD-59WjqLvSLf2qEmQmnLDu9h1mj_wL2XJNVxs/6ada36cf236d4c85793be951.json",
+      "markdown_endpoint": "https://serpapi.com/searches/eSs8JxD-59WjqLvSLf2qEmQmnLDu9h1mj_wL2XJNVxs/6ada36cf236d4c85793be951.md",
+      "created_at": "2026-10-22 16:16:15 UTC",
+      "processed_at": "2026-10-22 16:16:15 UTC",
+      "amazon_product_url": "https://www.amazon.com/dp/B0CVSF51YD/?language=en_US",
+      "raw_html_file": "https://serpapi.com/searches/eSs8JxD-59WjqLvSLf2qEmQmnLDu9h1mj_wL2XJNVxs/6ada36cf236d4c85793be951.html",
+      "total_time_taken": 9.1
+    },
+    "search_parameters": {
+      "engine": "amazon_product",
+      "asin": "B0CVSF51YD",
+      "amazon_domain": "amazon.com",
+      "language": "en_US",
+      "device": "desktop",
+      "shipping_location": "US"
+    },
+    "product_results": {
+      "categories": [
+        {
+          "position": 1,
+          "name": "Toys & Games",
+          "link": "https://www.amazon.com/toys/b/ref=dp_bc_1?ie=UTF8&node=165793011",
+          "node": "165793011",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&language=en_US&node=165793011&shipping_location=US"
+        },
+        {
+          "position": 2,
+          "name": "Arts & Crafts",
+          "link": "https://www.amazon.com/kids-arts-crafts-easel-paper-marker-stamp/b/ref=dp_bc_2?ie=UTF8&node=166057011",
+          "node": "166057011",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&language=en_US&node=166057011&shipping_location=US"
+        },
+        {
+          "position": 3,
+          "name": "Drawing & Painting Supplies",
+          "link": "https://www.amazon.com/Kids-Drawing-Painting-Supplies/b/ref=dp_bc_3?ie=UTF8&node=2488275011",
+          "node": "2488275011",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&language=en_US&node=2488275011&shipping_location=US"
+        },
+        {
+          "position": 4,
+          "name": "Coloring Pens & Markers",
+          "link": "https://www.amazon.com/Kids-Coloring-Pens-Markers/b/ref=dp_bc_4?ie=UTF8&node=166088011",
+          "node": "166088011",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&language=en_US&node=166088011&shipping_location=US"
+        }
+      ],
+      "asin": "B0CVSF51YD",
+      "title": "Crayola Light-Ups - Jack-O-Lantern, Reusable Light Up Pumpkin Toy, Halloween Craft, Cute Glow in The Dark Decor & Night Light, Halloween Toy, Ages 4, 5, 6",
+      "link": "https://www.amazon.com/Crayola-Light-Ups-Jack-Lantern-Reusable/dp/B0CVSF51YD/",
+      "link_clean": "https://www.amazon.com/dp/B0CVSF51YD/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0CVSF51YD&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+      "badges": [
+        "Amazon's Choice"
+      ],
+      "variants": [
+        {
+          "title": "Style",
+          "items": [
+            {
+              "position": 1,
+              "asin": "B0CVSF51YD",
+              "name": "Light Ups: Jack-O-Lantern",
+              "selected": true,
+              "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0CVSF51YD&device=desktop&engine=amazon_product&language=en_US&shipping_location=US"
+            },
+            {
+              "position": 2,
+              "asin": "B0CVSFHQ48",
+              "name": "Ghost",
+              "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0CVSFHQ48&device=desktop&engine=amazon_product&language=en_US&shipping_location=US"
+            },
+            {
+              "position": 3,
+              "asin": "B0DSQYHXZW",
+              "name": "Light Ups: Mummy",
+              "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0DSQYHXZW&device=desktop&engine=amazon_product&language=en_US&shipping_location=US"
+            }
+          ]
+        }
+      ],
+      "variant_combinations": [
+        {
+          "dimensions": {
+            "size": "Medium",
+            "style": "Ghost"
+          },
+          "asin": "B0CVSFHQ48",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0CVSFHQ48&device=desktop&engine=amazon_product&language=en_US&shipping_location=US"
+        },
+        {
+          "dimensions": {
+            "size": "Medium",
+            "style": "Light Ups: Jack-O-Lantern"
+          },
+          "asin": "B0CVSF51YD",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0CVSF51YD&device=desktop&engine=amazon_product&language=en_US&shipping_location=US"
+        },
+        {
+          "dimensions": {
+            "size": "Medium",
+            "style": "Light Ups: Mummy"
+          },
+          "asin": "B0DSQYHXZW",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0DSQYHXZW&device=desktop&engine=amazon_product&language=en_US&shipping_location=US"
+        }
+      ],
+      "brand": "Visit the Crayola Store",
+      "thumbnail": "https://m.media-amazon.com/images/I/81F+kV4vpeL._AC_SY300_SX300_QL70_FMwebp_.jpg",
+      "thumbnails": [
+        "https://m.media-amazon.com/images/I/81F+kV4vpeL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/814yGzDoOLL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61uQRnWymRL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81qGleLwePL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81W8ZsaaJhL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81dtB3H7R2L._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71nno-XrL1L._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81ydeJ2XgtL._AC_SL1500_.jpg"
+      ],
+      "rating": 4.5,
+      "reviews": 490,
+      "bought_last_month": "5K+ bought in past month",
+      "price": "$10.99",
+      "extracted_price": 10.99,
+      "delivery": [
+        "FREE delivery October 28 - 30 on orders shipped by Amazon over $35",
+        "Or fastest delivery October 28 - 29",
+        "Arrives before Halloween"
+      ],
+      "stock": "In Stock",
+      "description": "Embrace the Halloween season with the Crayola Light-Ups Jack-O-Lantern. Inside this kit you'll find 1 Recolorable Light-Ups Jack-O-Lantern, 3 Washable Markers (Green, Slate, and Purple), and 1 Instruction Sheet. It's everything you need for a bewitching, glow-in-the-dark adventure! Draw, scribble, and doodle frightening patterns with the 3 Washable Markers and unleash your inner artist. Whatever Halloween scene you decide to create, your masterpiece will glow proud and bright in one of 3 colors - Orange, Lime Green, or Light Blue. Best of all, with a simple wipe clean using a damp cloth, your canvas becomes fresh and you're ready to start again! This battery-operated pumpkin art adventure comes with a 4-hour timer, perfect for adding that magical, glowing touch to your ghoulish Halloween décor (3 AAA batteries required, not included). Ideal for children aged 4 and up, the Crayola Light-Ups Jack-O-Lantern makes unleashing creativity, fun, and easy, turning each Halloween into a spooky and creative celebration! This product is ACMI Certified."
+    },
+    "purchase_options": {
+      "single_offer": {
+        "price": "$10.99",
+        "extracted_price": 10.99,
+        "delivery": [
+          "FREE delivery October 28 - 30 on orders shipped by Amazon over $35",
+          "Or fastest delivery October 28 - 29",
+          "Arrives before Halloween"
+        ],
+        "stock": "In Stock",
+        "features": {
+          "shipper_seller": {
+            "text": "Amazon.com",
+            "details": {
+              "heading": "Shipper / Seller",
+              "content": "Amazon.com"
+            }
+          },
+          "returns": {
+            "text": "FREE 30-day refund/replacement",
+            "details": {
+              "heading": "FREE 30-day refund/replacement"
+            },
+            "link": {
+              "text": "See exceptions",
+              "link": "https://www.amazon.com/gp/help/customer/display.html/?nodeId=GKQNFKFK5CF3C54B"
+            }
+          },
+          "packaging": {
+            "text": "Ships in product packaging",
+            "details": {
+              "heading": "Ships in product packaging",
+              "content": "This item has been tested to certify it can ship safely in its original box or bag to avoid unnecessary packaging. Since 2015, we have reduced the weight of outbound packaging per shipment by 41% on average, that’s over 2 million tons of packaging material.If you still require Amazon packaging for this item, choose \"Ship in Amazon packaging\" at checkout. Learn more"
+            },
+            "link": {
+              "text": "Learn more",
+              "link": "https://www.amazon.com/sipp_home"
+            }
+          }
+        }
+      }
+    },
+    "item_specifications": {
+      "brand": "Crayola",
+      "age_range_description": "Kid",
+      "color": "Orange",
+      "theme": "Holiday",
+      "item_dimensions_l_x_w_x_h": "4.25 x 5.75 x 7 inches"
+    },
+    "about_item": [
+      "LIGHT UPS JACK-O-LANTERN: Features 1 Recolorable Light-Ups Jack-O-Lantern, 3 Washable Markers, and an Instruction Sheet.",
+      "DECORATE YOUR PUMPKIN: Draw your design using the Washable Markers, flip the switch to light up your pumpkin, then wipe it clean with a damp cloth to start anew!",
+      "ULTRA CLEAN WASHABLE MARKERS: Add splashes of color with one of 3 Ultra Clean Washable Marker colors. These markers wash easily from skin, clothing, and most painted walls.",
+      "ERASE & RE-COLOR: The erasable surface multiplies the fun and extends playtime, freeing our little artists to experiment with an endless array of designs.",
+      "LIGHT UP PUMPKIN: With a simple flip of the switch, watch as your pumpkin lights up in Orange, Lime Green, or Light Blue! (Battery operated with a 4-hour timer).",
+      "DURABLE & SHATTER-RESISTANT: The Light Ups Jack-O-Lantern is made of durable & shatter-resistant material.",
+      "HALLOWEEN GIFT FOR KIDS: The Crayola Light-Ups Jack-O-Lantern makes a great Halloween gift for boys and girls ages 4 and up!"
+    ],
+    "bought_together": [
+      {
+        "position": 1,
+        "title": "Crayola Light-Ups - Jack-O-Lantern, Reusable Light Up Pumpkin Toy, Halloween Craft, Cute Glow in The Dark Decor & Night Light, Halloween Toy, Ages 4, 5, 6",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/81F+kV4vpeL._AC_UL116_SR116,116_.jpg",
+        "price": "$10.99",
+        "extracted_price": 10.99,
+        "delivery": [
+          "Get it as soon as Wednesday, Oct 28"
+        ],
+        "stock": "In Stock"
+      },
+      {
+        "position": 2,
+        "title": "The Spooky Wheels on the Bus: (A Holiday Wheels on the Bus Book)",
+        "link": "https://www.amazon.com/Spooky-Wheels-Bus-Elizabeth-Mills/dp/0545174805/ref=pd_bxgy_thbs_d_sccl_1/142-0330182-5803839?pd_rd_w=pNgsm&content-id=amzn1.sym.1fbb380b-ee1d-4eeb-a44a-61f4d3013ea6&pf_rd_p=1fbb380b-ee1d-4eeb-a44a-61f4d3013ea6&pf_rd_r=CMZSZ6CKVYN0M3WFV46N&pd_rd_wg=menL5&pd_rd_r=003d09ea-afe4-459d-a370-1d00645c2f5d&pd_rd_i=0545174805&psc=1",
+        "asin": "0545174805",
+        "link_clean": "https://www.amazon.com/Spooky-Wheels-Bus-Elizabeth-Mills/dp/0545174805/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=0545174805&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/81cgi4luylL._AC_UL116_SR116,116_.jpg",
+        "price": "$3.78",
+        "extracted_price": 3.78,
+        "delivery": [
+          "Get it as soon as Tuesday, Oct 27"
+        ],
+        "stock": "In Stock"
+      },
+      {
+        "position": 3,
+        "title": "How to Catch a Monster: A Halloween Picture Book for Kids About Conquering Fears!",
+        "link": "https://www.amazon.com/How-Catch-Monster-Adam-Wallace/dp/1492648949/ref=pd_bxgy_thbs_d_sccl_2/142-0330182-5803839?pd_rd_w=pNgsm&content-id=amzn1.sym.1fbb380b-ee1d-4eeb-a44a-61f4d3013ea6&pf_rd_p=1fbb380b-ee1d-4eeb-a44a-61f4d3013ea6&pf_rd_r=CMZSZ6CKVYN0M3WFV46N&pd_rd_wg=menL5&pd_rd_r=003d09ea-afe4-459d-a370-1d00645c2f5d&pd_rd_i=1492648949&psc=1",
+        "asin": "1492648949",
+        "link_clean": "https://www.amazon.com/How-Catch-Monster-Adam-Wallace/dp/1492648949/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=1492648949&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/81WUKx7rVKL._AC_UL116_SR116,116_.jpg",
+        "price": "$5.90",
+        "extracted_price": 5.9,
+        "delivery": [
+          "Get it as soon as Wednesday, Oct 28"
+        ],
+        "stock": "In Stock"
+      }
+    ],
+    "related_products": [
+      {
+        "position": 1,
+        "title": "Cupkin Halloween Sticker Book + 8 Coloring Pages | 300+ Halloween Stickers | The Original Lay-Flat Sticker Book | Spiral Bind",
+        "link": "https://www.amazon.com/Halloween-Stickers-Activity-Essentials-Coloring/dp/B0D823PFGH/ref=pd_sim_cpf_related_desktop_d_sccl_1_1/142-0330182-5803839?pd_rd_w=zL2rs&content-id=amzn1.sym.658de084-bf40-4760-8670-d0020c73a758&pf_rd_p=658de084-bf40-4760-8670-d0020c73a758&pf_rd_r=CMZSZ6CKVYN0M3WFV46N&pd_rd_wg=menL5&pd_rd_r=003d09ea-afe4-459d-a370-1d00645c2f5d&pd_rd_i=B0D823PFGH&psc=1",
+        "asin": "B0D823PFGH",
+        "link_clean": "https://www.amazon.com/Halloween-Stickers-Activity-Essentials-Coloring/dp/B0D823PFGH/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0D823PFGH&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "badges": [
+          "#1 Best Seller"
+        ],
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/814ZiPmfhkL._AC_UL165_SR165,165_.jpg",
+        "rating": 4.8,
+        "reviews": 7000,
+        "price": "$14.98",
+        "extracted_price": 14.98,
+        "price_unit": "$0.05/count",
+        "extracted_price_unit": 0.05,
+        "delivery": [
+          "Get it as soon as Tuesday, Oct 27"
+        ]
+      },
+      {
+        "position": 2,
+        "title": "OHOME Halloween Giant Coloring Poster/Tablecloth-Halloween Crafts for Kids-30 x 72 Inches Jumbo Paper Coloring Banner Gifts f",
+        "link": "https://www.amazon.com/OHOME-Halloween-Tablecloth-Halloween-Activities-Decorations/dp/B0CC983HPF/ref=pd_sim_cpf_related_desktop_d_sccl_1_2/142-0330182-5803839?pd_rd_w=zL2rs&content-id=amzn1.sym.658de084-bf40-4760-8670-d0020c73a758&pf_rd_p=658de084-bf40-4760-8670-d0020c73a758&pf_rd_r=CMZSZ6CKVYN0M3WFV46N&pd_rd_wg=menL5&pd_rd_r=003d09ea-afe4-459d-a370-1d00645c2f5d&pd_rd_i=B0CC983HPF&psc=1",
+        "asin": "B0CC983HPF",
+        "link_clean": "https://www.amazon.com/OHOME-Halloween-Tablecloth-Halloween-Activities-Decorations/dp/B0CC983HPF/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0CC983HPF&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "badges": [
+          "#1 Best Seller"
+        ],
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/81svxDtpUWL._AC_UL165_SR165,165_.jpg",
+        "rating": 4.8,
+        "reviews": 1758,
+        "price": "$9.99",
+        "extracted_price": 9.99,
+        "delivery": [
+          "Get it as soon as Wednesday, Oct 28"
+        ]
+      },
+      {
+        "position": 3,
+        "title": "Mudpuppy - Ghoul Fish! Card Games for Kids | Ages 4+, Kids Version of Go Fish, Ideal for 3-4 Players, Halloween Themed, Famil",
+        "link": "https://www.amazon.com/Mudpuppy-Version-Halloween-Screen-Free-Certified/dp/0735382395/ref=pd_sim_cpf_related_desktop_d_sccl_1_3/142-0330182-5803839?pd_rd_w=zL2rs&content-id=amzn1.sym.658de084-bf40-4760-8670-d0020c73a758&pf_rd_p=658de084-bf40-4760-8670-d0020c73a758&pf_rd_r=CMZSZ6CKVYN0M3WFV46N&pd_rd_wg=menL5&pd_rd_r=003d09ea-afe4-459d-a370-1d00645c2f5d&pd_rd_i=0735382395&psc=1",
+        "asin": "0735382395",
+        "link_clean": "https://www.amazon.com/Mudpuppy-Version-Halloween-Screen-Free-Certified/dp/0735382395/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=0735382395&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/71YwV2nlOnL._AC_UL165_SR165,165_.jpg",
+        "rating": 4.8,
+        "reviews": 141,
+        "price": "$9.99",
+        "extracted_price": 9.99,
+        "delivery": [
+          "Get it as soon as Tuesday, Oct 27"
+        ]
+      },
+      {
+        "position": 4,
+        "title": "FUNNYB&G Halloween Foil Art Craft Kit for Kids, Halloween Toy Gift for Kids | No Mess, Kids Ages 4-10 Create Sparkling Artwor",
+        "link": "https://www.amazon.com/FUNNYB-Foil-Craft-Activity-Kids/dp/B0DK6CW9D4/ref=pd_sim_cpf_related_desktop_d_sccl_1_4/142-0330182-5803839?pd_rd_w=zL2rs&content-id=amzn1.sym.658de084-bf40-4760-8670-d0020c73a758&pf_rd_p=658de084-bf40-4760-8670-d0020c73a758&pf_rd_r=CMZSZ6CKVYN0M3WFV46N&pd_rd_wg=menL5&pd_rd_r=003d09ea-afe4-459d-a370-1d00645c2f5d&pd_rd_i=B0DK6CW9D4&psc=1",
+        "asin": "B0DK6CW9D4",
+        "link_clean": "https://www.amazon.com/FUNNYB-Foil-Craft-Activity-Kids/dp/B0DK6CW9D4/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0DK6CW9D4&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "badges": [
+          "#1 Best Seller"
+        ],
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/81kmuZ0IsyL._AC_UL165_SR165,165_.jpg",
+        "rating": 4.7,
+        "reviews": 2666,
+        "price": "$23.95",
+        "extracted_price": 23.95,
+        "delivery": [
+          "Get it as soon as Tuesday, Oct 27"
+        ]
+      },
+      {
+        "position": 5,
+        "title": "Mudpuppy - Spooky House 36 Piece Puzzle to Go for Kids | Ages 3-5, 4-6, Reusable Pouch For Travel, Postcard Included, Haunted",
+        "link": "https://www.amazon.com/Mudpuppy-Reusable-Postcard-Screen-Free-Certified/dp/0735382352/ref=pd_sim_cpf_related_desktop_d_sccl_1_5/142-0330182-5803839?pd_rd_w=zL2rs&content-id=amzn1.sym.658de084-bf40-4760-8670-d0020c73a758&pf_rd_p=658de084-bf40-4760-8670-d0020c73a758&pf_rd_r=CMZSZ6CKVYN0M3WFV46N&pd_rd_wg=menL5&pd_rd_r=003d09ea-afe4-459d-a370-1d00645c2f5d&pd_rd_i=0735382352&psc=1",
+        "asin": "0735382352",
+        "link_clean": "https://www.amazon.com/Mudpuppy-Reusable-Postcard-Screen-Free-Certified/dp/0735382352/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=0735382352&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/81B1j3VwoqL._AC_UL165_SR165,165_.jpg",
+        "rating": 4.7,
+        "reviews": 576,
+        "price": "$9.99",
+        "extracted_price": 9.99,
+        "delivery": [
+          "Get it as soon as Tuesday, Oct 27"
+        ]
+      },
+      {
+        "position": 6,
+        "title": "Mudpuppy - Pumpkin Village Sticker Play Reusable Activity Kit for Kids | Ages 3+, 50+ Stickers, Rubber Stickers, Halloween Th",
+        "link": "https://www.amazon.com/Mudpuppy-Reusable-Halloween-Screen-Free-Certified/dp/0735389713/ref=pd_sim_cpf_related_desktop_d_sccl_1_6/142-0330182-5803839?pd_rd_w=zL2rs&content-id=amzn1.sym.658de084-bf40-4760-8670-d0020c73a758&pf_rd_p=658de084-bf40-4760-8670-d0020c73a758&pf_rd_r=CMZSZ6CKVYN0M3WFV46N&pd_rd_wg=menL5&pd_rd_r=003d09ea-afe4-459d-a370-1d00645c2f5d&pd_rd_i=0735389713&psc=1",
+        "asin": "0735389713",
+        "link_clean": "https://www.amazon.com/Mudpuppy-Reusable-Halloween-Screen-Free-Certified/dp/0735389713/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=0735389713&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/819SG5KncRL._AC_UL165_SR165,165_.jpg",
+        "rating": 5.0,
+        "reviews": 4,
+        "price": "$13.99",
+        "extracted_price": 13.99,
+        "delivery": [
+          "Get it as soon as Tuesday, Oct 27"
+        ]
+      },
+      {
+        "position": 7,
+        "asin": "B08HDJC2JF",
+        "title": "Foam Airplanes - Stocking Stuffers for Kids All Ages 4 5 6 7 8 9 10 Year Old - Best Toy Gift - Boy Toys Stocking Stuffer Gifts - Air Plane Gift Idea - Easter Basket Gifts for Boys & Girls Party Favors",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo3NTk4NTY1NjQ0MTg0MToxNzkyNjg1NzgzOnNwX2RldGFpbDI6MzAxNTQ1OTIxMjM1MTAyOjo6Og&url=%2Fdp%2FB08HDJC2JF%2Fref%3Dsspa_dk_detail_0%3Fpsc%3D1%26pd_rd_i%3DB08HDJC2JF%26pd_rd_w%3D6robJ%26content-id%3Damzn1.sym.4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_p%3D4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_r%3DCMZSZ6CKVYN0M3WFV46N%26pd_rd_wg%3DmenL5%26pd_rd_r%3D003d09ea-afe4-459d-a370-1d00645c2f5d%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+        "link_clean": "https://www.amazon.com/dp/B08HDJC2JF/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B08HDJC2JF&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "badges": [
+          "Limited time deal"
+        ],
+        "thumbnail": "https://m.media-amazon.com/images/I/816FmlG3KuL._AC_UF480,480_SR480,480_.jpg",
+        "rating": 4.3,
+        "reviews": 5425,
+        "discount": "-31%",
+        "price": "$9.35",
+        "extracted_price": 9.35,
+        "old_price": "null"
+      },
+      {
+        "position": 8,
+        "asin": "B0C7QS8ZZX",
+        "title": "SpringFlower 2 Pack LED Bubble Wands, Halloween Party Favors for Kids | Pumpkin & Skull Designs, 6.7 Inch Light Up Bubble Wands with LED Effects, Perfect for Halloween Parties, Trick or Treat",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo3NTk4NTY1NjQ0MTg0MToxNzkyNjg1NzgzOnNwX2RldGFpbDI6MzAwMDU0NTk1MzIzNzAyOjo6Og&url=%2Fdp%2FB0C7QS8ZZX%2Fref%3Dsspa_dk_detail_1%3Fpsc%3D1%26pd_rd_i%3DB0C7QS8ZZX%26pd_rd_w%3D6robJ%26content-id%3Damzn1.sym.4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_p%3D4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_r%3DCMZSZ6CKVYN0M3WFV46N%26pd_rd_wg%3DmenL5%26pd_rd_r%3D003d09ea-afe4-459d-a370-1d00645c2f5d%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+        "link_clean": "https://www.amazon.com/dp/B0C7QS8ZZX/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0C7QS8ZZX&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "thumbnail": "https://m.media-amazon.com/images/I/71tQLqeGaPL._AC_UF480,480_SR480,480_.jpg",
+        "rating": 4.4,
+        "reviews": 127,
+        "discount": "-13%",
+        "price": "$25.99",
+        "extracted_price": 25.99,
+        "old_price": "null"
+      },
+      {
+        "position": 9,
+        "asin": "B0C7M3P3BJ",
+        "title": "Halloween Stickers for Kids, Make a Pumpkin Face Stickers Halloween Party | 24 Sheets Pumpkin Decorating Sticker, Make Your Own Sticker Fall Autumn Thanksgiving Party Crafts, Goodie Bags Stuffers",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo3NTk4NTY1NjQ0MTg0MToxNzkyNjg1NzgzOnNwX2RldGFpbDI6MzAwMDQ3MTMyMzQ5MzAyOjo6Og&url=%2Fdp%2FB0C7M3P3BJ%2Fref%3Dsspa_dk_detail_2%3Fpsc%3D1%26pd_rd_i%3DB0C7M3P3BJ%26pd_rd_w%3D6robJ%26content-id%3Damzn1.sym.4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_p%3D4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_r%3DCMZSZ6CKVYN0M3WFV46N%26pd_rd_wg%3DmenL5%26pd_rd_r%3D003d09ea-afe4-459d-a370-1d00645c2f5d%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+        "link_clean": "https://www.amazon.com/dp/B0C7M3P3BJ/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0C7M3P3BJ&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "thumbnail": "https://m.media-amazon.com/images/I/81gqBt+03JL._AC_UF480,480_SR480,480_.jpg",
+        "rating": 4.7,
+        "reviews": 611,
+        "price": "$7.99",
+        "extracted_price": 7.99,
+        "price_unit": "$0.33 / count",
+        "extracted_price_unit": 0.33
+      },
+      {
+        "position": 10,
+        "asin": "B0CB5J3NC5",
+        "title": "Halloween Party Favor for Kids,24 Pack Prefilled Small Witch Cauldron Toys | Halloween Miniatures for Kids Novelty Toy in Bulk,Plastic Witch Cauldron Halloween Trick or Treat Toys Prizes Rewards Gifts",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo3NTk4NTY1NjQ0MTg0MToxNzkyNjg1NzgzOnNwX2RldGFpbDI6MzAxNTg2NTM4NjI3MTAyOjo6Og&url=%2Fdp%2FB0CB5J3NC5%2Fref%3Dsspa_dk_detail_3%3Fpsc%3D1%26pd_rd_i%3DB0CB5J3NC5%26pd_rd_w%3D6robJ%26content-id%3Damzn1.sym.4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_p%3D4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_r%3DCMZSZ6CKVYN0M3WFV46N%26pd_rd_wg%3DmenL5%26pd_rd_r%3D003d09ea-afe4-459d-a370-1d00645c2f5d%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+        "link_clean": "https://www.amazon.com/dp/B0CB5J3NC5/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0CB5J3NC5&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "thumbnail": "https://m.media-amazon.com/images/I/81JU8xk8NWL._AC_UF480,480_SR480,480_.jpg",
+        "rating": 4.6,
+        "reviews": 124,
+        "price": "$27.99",
+        "extracted_price": 27.99,
+        "price_unit": "$3.50 / ounce",
+        "extracted_price_unit": 3.5
+      },
+      {
+        "position": 11,
+        "asin": "B0D93KWRZY",
+        "title": "AuroTops 4PCS Halloween Craft for Kids,Halloween Mason Jar Kit for Kids Toy | Halloween Crafts for Kids Ages 8-12,Halloween Party Favors,Art Activities Decor,Classroom Trick Or Treat,Goodie Bag Stuffers",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo3NTk4NTY1NjQ0MTg0MToxNzkyNjg1NzgzOnNwX2RldGFpbDI6MzAwNDQ2OTUzMTEyNzAyOjo6Og&url=%2Fdp%2FB0D93KWRZY%2Fref%3Dsspa_dk_detail_4%3Fpsc%3D1%26pd_rd_i%3DB0D93KWRZY%26pd_rd_w%3D6robJ%26content-id%3Damzn1.sym.4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_p%3D4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_r%3DCMZSZ6CKVYN0M3WFV46N%26pd_rd_wg%3DmenL5%26pd_rd_r%3D003d09ea-afe4-459d-a370-1d00645c2f5d%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+        "link_clean": "https://www.amazon.com/dp/B0D93KWRZY/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0D93KWRZY&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "thumbnail": "https://m.media-amazon.com/images/I/81ulkemW6PL._AC_UF480,480_SR480,480_.jpg",
+        "rating": 4.5,
+        "reviews": 58,
+        "price": "$26.99",
+        "extracted_price": 26.99
+      },
+      {
+        "position": 12,
+        "asin": "B0C7C1MB89",
+        "title": "Halloween Crafts for Kids, 4 PCS Mason Jar for DIY Craft Halloween Decor | Halloween Classroom Art Activities, DIY Craft for Kids, Art Party Favor Supplies, Halloween Trick or Treating",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo3NTk4NTY1NjQ0MTg0MToxNzkyNjg1NzgzOnNwX2RldGFpbDI6MzAxNTQxMDI2Njc4NzAyOjo6Og&url=%2Fdp%2FB0C7C1MB89%2Fref%3Dsspa_dk_detail_5%3Fpsc%3D1%26pd_rd_i%3DB0C7C1MB89%26pd_rd_w%3D6robJ%26content-id%3Damzn1.sym.4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_p%3D4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_r%3DCMZSZ6CKVYN0M3WFV46N%26pd_rd_wg%3DmenL5%26pd_rd_r%3D003d09ea-afe4-459d-a370-1d00645c2f5d%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+        "link_clean": "https://www.amazon.com/dp/B0C7C1MB89/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0C7C1MB89&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "thumbnail": "https://m.media-amazon.com/images/I/81---gxl0qL._AC_UF480,480_SR480,480_.jpg",
+        "rating": 4.5,
+        "reviews": 64,
+        "price": "$27.99",
+        "extracted_price": 27.99,
+        "price_unit": "$7.00 / count",
+        "extracted_price_unit": 7.0
+      },
+      {
+        "position": 13,
+        "asin": "B0CN6YJSBQ",
+        "title": "Klever Kits DIY 3D Moon Night Light- Paint Your Own Moon Lamp for Kids 6-12 | Galaxy Lamp Arts and Crafts Ki, School Activities, Birthday Gifts for Kids Girls Boys, Toys for Girls 6-12",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo3NTk4NTY1NjQ0MTg0MToxNzkyNjg1NzgzOnNwX2RldGFpbDI6MzAwNDAxMTU4NTQyNjAyOjo6Og&url=%2Fdp%2FB0CN6YJSBQ%2Fref%3Dsspa_dk_detail_6%3Fpsc%3D1%26pd_rd_i%3DB0CN6YJSBQ%26pd_rd_w%3D6robJ%26content-id%3Damzn1.sym.4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_p%3D4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_r%3DCMZSZ6CKVYN0M3WFV46N%26pd_rd_wg%3DmenL5%26pd_rd_r%3D003d09ea-afe4-459d-a370-1d00645c2f5d%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+        "link_clean": "https://www.amazon.com/dp/B0CN6YJSBQ/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0CN6YJSBQ&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "badges": [
+          "Amazon's Choice"
+        ],
+        "thumbnail": "https://m.media-amazon.com/images/I/71bay0XocTL._AC_UF480,480_SR480,480_.jpg",
+        "rating": 4.6,
+        "reviews": 2555,
+        "discount": "-25%",
+        "price": "$14.99",
+        "extracted_price": 14.99,
+        "old_price": "null"
+      }
+    ],
+    "related_product_sections": [
+      {
+        "title": "Related Climate Pledge Friendly items",
+        "items": [
+          {
+            "position": 1,
+            "title": "Cupkin Halloween Sticker Book + 8 Coloring Pages | 300+ Halloween Stickers | The Original Lay-Flat Sticker Book | Spiral Bind",
+            "link": "https://www.amazon.com/Halloween-Stickers-Activity-Essentials-Coloring/dp/B0D823PFGH/ref=pd_sim_cpf_related_desktop_d_sccl_1_1/142-0330182-5803839?pd_rd_w=zL2rs&content-id=amzn1.sym.658de084-bf40-4760-8670-d0020c73a758&pf_rd_p=658de084-bf40-4760-8670-d0020c73a758&pf_rd_r=CMZSZ6CKVYN0M3WFV46N&pd_rd_wg=menL5&pd_rd_r=003d09ea-afe4-459d-a370-1d00645c2f5d&pd_rd_i=B0D823PFGH&psc=1",
+            "asin": "B0D823PFGH",
+            "link_clean": "https://www.amazon.com/Halloween-Stickers-Activity-Essentials-Coloring/dp/B0D823PFGH/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0D823PFGH&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "badges": [
+              "#1 Best Seller"
+            ],
+            "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/814ZiPmfhkL._AC_UL165_SR165,165_.jpg",
+            "rating": 4.8,
+            "reviews": 7000,
+            "price": "$14.98",
+            "extracted_price": 14.98,
+            "price_unit": "$0.05/count",
+            "extracted_price_unit": 0.05,
+            "delivery": [
+              "Get it as soon as Tuesday, Oct 27"
+            ]
+          },
+          {
+            "position": 2,
+            "title": "OHOME Halloween Giant Coloring Poster/Tablecloth-Halloween Crafts for Kids-30 x 72 Inches Jumbo Paper Coloring Banner Gifts f",
+            "link": "https://www.amazon.com/OHOME-Halloween-Tablecloth-Halloween-Activities-Decorations/dp/B0CC983HPF/ref=pd_sim_cpf_related_desktop_d_sccl_1_2/142-0330182-5803839?pd_rd_w=zL2rs&content-id=amzn1.sym.658de084-bf40-4760-8670-d0020c73a758&pf_rd_p=658de084-bf40-4760-8670-d0020c73a758&pf_rd_r=CMZSZ6CKVYN0M3WFV46N&pd_rd_wg=menL5&pd_rd_r=003d09ea-afe4-459d-a370-1d00645c2f5d&pd_rd_i=B0CC983HPF&psc=1",
+            "asin": "B0CC983HPF",
+            "link_clean": "https://www.amazon.com/OHOME-Halloween-Tablecloth-Halloween-Activities-Decorations/dp/B0CC983HPF/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0CC983HPF&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "badges": [
+              "#1 Best Seller"
+            ],
+            "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/81svxDtpUWL._AC_UL165_SR165,165_.jpg",
+            "rating": 4.8,
+            "reviews": 1758,
+            "price": "$9.99",
+            "extracted_price": 9.99,
+            "delivery": [
+              "Get it as soon as Wednesday, Oct 28"
+            ]
+          },
+          {
+            "position": 3,
+            "title": "Mudpuppy - Ghoul Fish! Card Games for Kids | Ages 4+, Kids Version of Go Fish, Ideal for 3-4 Players, Halloween Themed, Famil",
+            "link": "https://www.amazon.com/Mudpuppy-Version-Halloween-Screen-Free-Certified/dp/0735382395/ref=pd_sim_cpf_related_desktop_d_sccl_1_3/142-0330182-5803839?pd_rd_w=zL2rs&content-id=amzn1.sym.658de084-bf40-4760-8670-d0020c73a758&pf_rd_p=658de084-bf40-4760-8670-d0020c73a758&pf_rd_r=CMZSZ6CKVYN0M3WFV46N&pd_rd_wg=menL5&pd_rd_r=003d09ea-afe4-459d-a370-1d00645c2f5d&pd_rd_i=0735382395&psc=1",
+            "asin": "0735382395",
+            "link_clean": "https://www.amazon.com/Mudpuppy-Version-Halloween-Screen-Free-Certified/dp/0735382395/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=0735382395&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/71YwV2nlOnL._AC_UL165_SR165,165_.jpg",
+            "rating": 4.8,
+            "reviews": 141,
+            "price": "$9.99",
+            "extracted_price": 9.99,
+            "delivery": [
+              "Get it as soon as Tuesday, Oct 27"
+            ]
+          },
+          {
+            "position": 4,
+            "title": "FUNNYB&G Halloween Foil Art Craft Kit for Kids, Halloween Toy Gift for Kids | No Mess, Kids Ages 4-10 Create Sparkling Artwor",
+            "link": "https://www.amazon.com/FUNNYB-Foil-Craft-Activity-Kids/dp/B0DK6CW9D4/ref=pd_sim_cpf_related_desktop_d_sccl_1_4/142-0330182-5803839?pd_rd_w=zL2rs&content-id=amzn1.sym.658de084-bf40-4760-8670-d0020c73a758&pf_rd_p=658de084-bf40-4760-8670-d0020c73a758&pf_rd_r=CMZSZ6CKVYN0M3WFV46N&pd_rd_wg=menL5&pd_rd_r=003d09ea-afe4-459d-a370-1d00645c2f5d&pd_rd_i=B0DK6CW9D4&psc=1",
+            "asin": "B0DK6CW9D4",
+            "link_clean": "https://www.amazon.com/FUNNYB-Foil-Craft-Activity-Kids/dp/B0DK6CW9D4/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0DK6CW9D4&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "badges": [
+              "#1 Best Seller"
+            ],
+            "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/81kmuZ0IsyL._AC_UL165_SR165,165_.jpg",
+            "rating": 4.7,
+            "reviews": 2666,
+            "price": "$23.95",
+            "extracted_price": 23.95,
+            "delivery": [
+              "Get it as soon as Tuesday, Oct 27"
+            ]
+          },
+          {
+            "position": 5,
+            "title": "Mudpuppy - Spooky House 36 Piece Puzzle to Go for Kids | Ages 3-5, 4-6, Reusable Pouch For Travel, Postcard Included, Haunted",
+            "link": "https://www.amazon.com/Mudpuppy-Reusable-Postcard-Screen-Free-Certified/dp/0735382352/ref=pd_sim_cpf_related_desktop_d_sccl_1_5/142-0330182-5803839?pd_rd_w=zL2rs&content-id=amzn1.sym.658de084-bf40-4760-8670-d0020c73a758&pf_rd_p=658de084-bf40-4760-8670-d0020c73a758&pf_rd_r=CMZSZ6CKVYN0M3WFV46N&pd_rd_wg=menL5&pd_rd_r=003d09ea-afe4-459d-a370-1d00645c2f5d&pd_rd_i=0735382352&psc=1",
+            "asin": "0735382352",
+            "link_clean": "https://www.amazon.com/Mudpuppy-Reusable-Postcard-Screen-Free-Certified/dp/0735382352/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=0735382352&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/81B1j3VwoqL._AC_UL165_SR165,165_.jpg",
+            "rating": 4.7,
+            "reviews": 576,
+            "price": "$9.99",
+            "extracted_price": 9.99,
+            "delivery": [
+              "Get it as soon as Tuesday, Oct 27"
+            ]
+          },
+          {
+            "position": 6,
+            "title": "Mudpuppy - Pumpkin Village Sticker Play Reusable Activity Kit for Kids | Ages 3+, 50+ Stickers, Rubber Stickers, Halloween Th",
+            "link": "https://www.amazon.com/Mudpuppy-Reusable-Halloween-Screen-Free-Certified/dp/0735389713/ref=pd_sim_cpf_related_desktop_d_sccl_1_6/142-0330182-5803839?pd_rd_w=zL2rs&content-id=amzn1.sym.658de084-bf40-4760-8670-d0020c73a758&pf_rd_p=658de084-bf40-4760-8670-d0020c73a758&pf_rd_r=CMZSZ6CKVYN0M3WFV46N&pd_rd_wg=menL5&pd_rd_r=003d09ea-afe4-459d-a370-1d00645c2f5d&pd_rd_i=0735389713&psc=1",
+            "asin": "0735389713",
+            "link_clean": "https://www.amazon.com/Mudpuppy-Reusable-Halloween-Screen-Free-Certified/dp/0735389713/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=0735389713&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/819SG5KncRL._AC_UL165_SR165,165_.jpg",
+            "rating": 5.0,
+            "reviews": 4,
+            "price": "$13.99",
+            "extracted_price": 13.99,
+            "delivery": [
+              "Get it as soon as Tuesday, Oct 27"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Products related to this item",
+        "items": [
+          {
+            "position": 1,
+            "asin": "B08HDJC2JF",
+            "title": "Foam Airplanes - Stocking Stuffers for Kids All Ages 4 5 6 7 8 9 10 Year Old - Best Toy Gift - Boy Toys Stocking Stuffer Gifts - Air Plane Gift Idea - Easter Basket Gifts for Boys & Girls Party Favors",
+            "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo3NTk4NTY1NjQ0MTg0MToxNzkyNjg1NzgzOnNwX2RldGFpbDI6MzAxNTQ1OTIxMjM1MTAyOjo6Og&url=%2Fdp%2FB08HDJC2JF%2Fref%3Dsspa_dk_detail_0%3Fpsc%3D1%26pd_rd_i%3DB08HDJC2JF%26pd_rd_w%3D6robJ%26content-id%3Damzn1.sym.4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_p%3D4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_r%3DCMZSZ6CKVYN0M3WFV46N%26pd_rd_wg%3DmenL5%26pd_rd_r%3D003d09ea-afe4-459d-a370-1d00645c2f5d%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+            "link_clean": "https://www.amazon.com/dp/B08HDJC2JF/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B08HDJC2JF&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "badges": [
+              "Limited time deal"
+            ],
+            "thumbnail": "https://m.media-amazon.com/images/I/816FmlG3KuL._AC_UF480,480_SR480,480_.jpg",
+            "rating": 4.3,
+            "reviews": 5425,
+            "discount": "-31%",
+            "price": "$9.35",
+            "extracted_price": 9.35,
+            "old_price": "null"
+          },
+          {
+            "position": 2,
+            "asin": "B0C7QS8ZZX",
+            "title": "SpringFlower 2 Pack LED Bubble Wands, Halloween Party Favors for Kids | Pumpkin & Skull Designs, 6.7 Inch Light Up Bubble Wands with LED Effects, Perfect for Halloween Parties, Trick or Treat",
+            "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo3NTk4NTY1NjQ0MTg0MToxNzkyNjg1NzgzOnNwX2RldGFpbDI6MzAwMDU0NTk1MzIzNzAyOjo6Og&url=%2Fdp%2FB0C7QS8ZZX%2Fref%3Dsspa_dk_detail_1%3Fpsc%3D1%26pd_rd_i%3DB0C7QS8ZZX%26pd_rd_w%3D6robJ%26content-id%3Damzn1.sym.4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_p%3D4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_r%3DCMZSZ6CKVYN0M3WFV46N%26pd_rd_wg%3DmenL5%26pd_rd_r%3D003d09ea-afe4-459d-a370-1d00645c2f5d%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+            "link_clean": "https://www.amazon.com/dp/B0C7QS8ZZX/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0C7QS8ZZX&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "thumbnail": "https://m.media-amazon.com/images/I/71tQLqeGaPL._AC_UF480,480_SR480,480_.jpg",
+            "rating": 4.4,
+            "reviews": 127,
+            "discount": "-13%",
+            "price": "$25.99",
+            "extracted_price": 25.99,
+            "old_price": "null"
+          },
+          {
+            "position": 3,
+            "asin": "B0C7M3P3BJ",
+            "title": "Halloween Stickers for Kids, Make a Pumpkin Face Stickers Halloween Party | 24 Sheets Pumpkin Decorating Sticker, Make Your Own Sticker Fall Autumn Thanksgiving Party Crafts, Goodie Bags Stuffers",
+            "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo3NTk4NTY1NjQ0MTg0MToxNzkyNjg1NzgzOnNwX2RldGFpbDI6MzAwMDQ3MTMyMzQ5MzAyOjo6Og&url=%2Fdp%2FB0C7M3P3BJ%2Fref%3Dsspa_dk_detail_2%3Fpsc%3D1%26pd_rd_i%3DB0C7M3P3BJ%26pd_rd_w%3D6robJ%26content-id%3Damzn1.sym.4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_p%3D4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_r%3DCMZSZ6CKVYN0M3WFV46N%26pd_rd_wg%3DmenL5%26pd_rd_r%3D003d09ea-afe4-459d-a370-1d00645c2f5d%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+            "link_clean": "https://www.amazon.com/dp/B0C7M3P3BJ/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0C7M3P3BJ&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "thumbnail": "https://m.media-amazon.com/images/I/81gqBt+03JL._AC_UF480,480_SR480,480_.jpg",
+            "rating": 4.7,
+            "reviews": 611,
+            "price": "$7.99",
+            "extracted_price": 7.99,
+            "price_unit": "$0.33 / count",
+            "extracted_price_unit": 0.33
+          },
+          {
+            "position": 4,
+            "asin": "B0CB5J3NC5",
+            "title": "Halloween Party Favor for Kids,24 Pack Prefilled Small Witch Cauldron Toys | Halloween Miniatures for Kids Novelty Toy in Bulk,Plastic Witch Cauldron Halloween Trick or Treat Toys Prizes Rewards Gifts",
+            "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo3NTk4NTY1NjQ0MTg0MToxNzkyNjg1NzgzOnNwX2RldGFpbDI6MzAxNTg2NTM4NjI3MTAyOjo6Og&url=%2Fdp%2FB0CB5J3NC5%2Fref%3Dsspa_dk_detail_3%3Fpsc%3D1%26pd_rd_i%3DB0CB5J3NC5%26pd_rd_w%3D6robJ%26content-id%3Damzn1.sym.4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_p%3D4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_r%3DCMZSZ6CKVYN0M3WFV46N%26pd_rd_wg%3DmenL5%26pd_rd_r%3D003d09ea-afe4-459d-a370-1d00645c2f5d%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+            "link_clean": "https://www.amazon.com/dp/B0CB5J3NC5/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0CB5J3NC5&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "thumbnail": "https://m.media-amazon.com/images/I/81JU8xk8NWL._AC_UF480,480_SR480,480_.jpg",
+            "rating": 4.6,
+            "reviews": 124,
+            "price": "$27.99",
+            "extracted_price": 27.99,
+            "price_unit": "$3.50 / ounce",
+            "extracted_price_unit": 3.5
+          },
+          {
+            "position": 5,
+            "asin": "B0D93KWRZY",
+            "title": "AuroTops 4PCS Halloween Craft for Kids,Halloween Mason Jar Kit for Kids Toy | Halloween Crafts for Kids Ages 8-12,Halloween Party Favors,Art Activities Decor,Classroom Trick Or Treat,Goodie Bag Stuffers",
+            "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo3NTk4NTY1NjQ0MTg0MToxNzkyNjg1NzgzOnNwX2RldGFpbDI6MzAwNDQ2OTUzMTEyNzAyOjo6Og&url=%2Fdp%2FB0D93KWRZY%2Fref%3Dsspa_dk_detail_4%3Fpsc%3D1%26pd_rd_i%3DB0D93KWRZY%26pd_rd_w%3D6robJ%26content-id%3Damzn1.sym.4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_p%3D4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_r%3DCMZSZ6CKVYN0M3WFV46N%26pd_rd_wg%3DmenL5%26pd_rd_r%3D003d09ea-afe4-459d-a370-1d00645c2f5d%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+            "link_clean": "https://www.amazon.com/dp/B0D93KWRZY/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0D93KWRZY&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "thumbnail": "https://m.media-amazon.com/images/I/81ulkemW6PL._AC_UF480,480_SR480,480_.jpg",
+            "rating": 4.5,
+            "reviews": 58,
+            "price": "$26.99",
+            "extracted_price": 26.99
+          },
+          {
+            "position": 6,
+            "asin": "B0C7C1MB89",
+            "title": "Halloween Crafts for Kids, 4 PCS Mason Jar for DIY Craft Halloween Decor | Halloween Classroom Art Activities, DIY Craft for Kids, Art Party Favor Supplies, Halloween Trick or Treating",
+            "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo3NTk4NTY1NjQ0MTg0MToxNzkyNjg1NzgzOnNwX2RldGFpbDI6MzAxNTQxMDI2Njc4NzAyOjo6Og&url=%2Fdp%2FB0C7C1MB89%2Fref%3Dsspa_dk_detail_5%3Fpsc%3D1%26pd_rd_i%3DB0C7C1MB89%26pd_rd_w%3D6robJ%26content-id%3Damzn1.sym.4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_p%3D4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_r%3DCMZSZ6CKVYN0M3WFV46N%26pd_rd_wg%3DmenL5%26pd_rd_r%3D003d09ea-afe4-459d-a370-1d00645c2f5d%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+            "link_clean": "https://www.amazon.com/dp/B0C7C1MB89/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0C7C1MB89&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "thumbnail": "https://m.media-amazon.com/images/I/81---gxl0qL._AC_UF480,480_SR480,480_.jpg",
+            "rating": 4.5,
+            "reviews": 64,
+            "price": "$27.99",
+            "extracted_price": 27.99,
+            "price_unit": "$7.00 / count",
+            "extracted_price_unit": 7.0
+          },
+          {
+            "position": 7,
+            "asin": "B0CN6YJSBQ",
+            "title": "Klever Kits DIY 3D Moon Night Light- Paint Your Own Moon Lamp for Kids 6-12 | Galaxy Lamp Arts and Crafts Ki, School Activities, Birthday Gifts for Kids Girls Boys, Toys for Girls 6-12",
+            "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo3NTk4NTY1NjQ0MTg0MToxNzkyNjg1NzgzOnNwX2RldGFpbDI6MzAwNDAxMTU4NTQyNjAyOjo6Og&url=%2Fdp%2FB0CN6YJSBQ%2Fref%3Dsspa_dk_detail_6%3Fpsc%3D1%26pd_rd_i%3DB0CN6YJSBQ%26pd_rd_w%3D6robJ%26content-id%3Damzn1.sym.4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_p%3D4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_r%3DCMZSZ6CKVYN0M3WFV46N%26pd_rd_wg%3DmenL5%26pd_rd_r%3D003d09ea-afe4-459d-a370-1d00645c2f5d%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+            "link_clean": "https://www.amazon.com/dp/B0CN6YJSBQ/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0CN6YJSBQ&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "badges": [
+              "Amazon's Choice"
+            ],
+            "thumbnail": "https://m.media-amazon.com/images/I/71bay0XocTL._AC_UF480,480_SR480,480_.jpg",
+            "rating": 4.6,
+            "reviews": 2555,
+            "discount": "-25%",
+            "price": "$14.99",
+            "extracted_price": 14.99,
+            "old_price": "null"
+          }
+        ]
+      }
+    ],
+    "videos": [
+      {
+        "position": 1,
+        "title": "would be great as a NIGHT light! Hard plastic",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/6f151432-db63-4ec1-904a-6adfd8c8d159/default.jobtemplate.hls.m3u8",
+        "thumbnail": "https://m.media-amazon.com/images/I/71ce8q0+NqL.jpg",
+        "duration": "6:21",
+        "vendor": "⛈️ StormKat 😺",
+        "vendor_thumbnail": "https://m.media-amazon.com/images/I/C1LlP8YB3DL._CR0,214,2208,2208_._FMjpg_._SL34_.jpg",
+        "date": "Oct 3, 2026"
+      },
+      {
+        "position": 2,
+        "title": "Crayola Light Up Pumpkin",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/d2cf20f4-858a-48f2-a246-cf7b9e7b2066/default.vertical.jobtemplate.hls.m3u8",
+        "thumbnail": "https://m.media-amazon.com/images/I/71pKkm7ajpL.jpg",
+        "duration": "0:44",
+        "vendor": "Cassie Wenckus",
+        "vendor_thumbnail": "https://m.media-amazon.com/images/I/A1fx43wj+lL._CR0,68,1179,1179_._FMjpg_._SL34_.jpg",
+        "date": "Nov 7, 2024"
+      },
+      {
+        "position": 3,
+        "title": "Seasonal Fun That You Can Use Again and Again",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/58c93e00-5a28-4eef-a4c0-620aefcebf22/default.jobtemplate.hls.m3u8",
+        "thumbnail": "https://m.media-amazon.com/images/I/51A9RLtCtkL.jpg",
+        "duration": "2:25",
+        "vendor": "Kelly Harvey",
+        "vendor_thumbnail": "https://m.media-amazon.com/images/I/A1ZH+ZF2G4L._CR0,0,2316,2316_._FMjpg_._SL34_.jpg",
+        "date": "Sep 10, 2026"
+      },
+      {
+        "position": 4,
+        "title": "Color Your Own Light Up Pumpkin, Perfect Halloween Craft",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/3455ea28-7846-4b13-86b9-748427159c73/default.vertical.jobtemplate.hls.m3u8",
+        "thumbnail": "https://m.media-amazon.com/images/I/61nGPz5QA+L.jpg",
+        "duration": "0:20",
+        "vendor": "🌟 Lindsay & Greg’s Picks 🌟",
+        "vendor_thumbnail": "https://m.media-amazon.com/images/I/51+wxbEns7L._CR0,0,623,623_._FMjpg_._SL34_.jpg",
+        "date": "Oct 3, 2024"
+      },
+      {
+        "position": 5,
+        "title": "DEMO & Close Up - Crayola Light Ups Pumpkin!",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/b23c0ad2-75e7-4256-bff8-3911626e0bec/default.vertical.jobtemplate.hls.m3u8",
+        "thumbnail": "https://m.media-amazon.com/images/I/91y1BatMcWL.png",
+        "duration": "1:06",
+        "vendor": "Nathalie Ricci",
+        "vendor_thumbnail": "https://m.media-amazon.com/images/I/B1JE1aoybSL._CR0,74,2316,2316_._FMjpg_._SL34_.jpg",
+        "date": "Oct 2, 2024"
+      },
+      {
+        "position": 6,
+        "title": "Why we love the Mummy Crayola Light Up",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/77a2d1e8-c234-41e0-bb50-dd05812f64a1/default.vertical.jobtemplate.hls.m3u8",
+        "thumbnail": "https://m.media-amazon.com/images/I/61aLa-ZmJoL.jpg",
+        "duration": "0:54",
+        "vendor": "Kylie Steyer",
+        "vendor_thumbnail": "https://m.media-amazon.com/images/I/A1B8M6zpHRL._CR0,0,2010,2010_._FMjpg_._SL34_.jpg",
+        "date": "Oct 16, 2025"
+      },
+      {
+        "position": 7,
+        "title": "Crayola Light Up Ghost",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/c0d15e78-aca7-4a6b-80f4-1a1a6f28983c/default.vertical.jobtemplate.hls.m3u8",
+        "thumbnail": "https://m.media-amazon.com/images/I/61d-WoB5tiL.jpg",
+        "duration": "0:38",
+        "vendor": "Cassie Wenckus",
+        "vendor_thumbnail": "https://m.media-amazon.com/images/I/A1fx43wj+lL._CR0,68,1179,1179_._FMjpg_._SL34_.jpg",
+        "date": "Nov 12, 2024"
+      },
+      {
+        "position": 8,
+        "title": "These are perfect for a Boo Basket. Unboxing review",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/11af116c-1220-4a68-b791-da8f91541b3f/default.vertical.jobtemplate.hls.m3u8",
+        "thumbnail": "https://m.media-amazon.com/images/I/61rBLKBPtJL.jpg",
+        "duration": "1:28",
+        "vendor": "⭐️Simply Styled by Taylor⭐️",
+        "vendor_thumbnail": "https://m.media-amazon.com/images/I/81DS7oEFBQL._CR0,0,1548,1548_._FMjpg_._SL34_.jpg",
+        "date": "Sep 15, 2025"
+      },
+      {
+        "position": 9,
+        "title": "Cute DIY project for little kids, decorate your own lamp.",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/c669171c-fd26-428e-9ecb-ae7c2b810507/default.vertical.jobtemplate.hls.m3u8",
+        "thumbnail": "https://m.media-amazon.com/images/I/A1d--obXOXL.jpg",
+        "duration": "0:16",
+        "vendor": "Retail Therapy Tiff & Jess",
+        "vendor_thumbnail": "https://m.media-amazon.com/images/I/81A03uYVlIL._CR0,0,1181,1181_._FMjpg_._SL34_.jpg",
+        "date": "Sep 22, 2024"
+      },
+      {
+        "position": 10,
+        "title": "Check out why I bought more of these",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/ffc5fc79-7c47-4b1a-93f7-b25912004f72/default.jobtemplate.hls.m3u8",
+        "thumbnail": "https://m.media-amazon.com/images/I/91+PLR2SoxL.jpg",
+        "duration": "1:04",
+        "vendor": "Melissa + Co",
+        "vendor_thumbnail": "https://m.media-amazon.com/images/I/61zjgfKjIBL._CR0,0,871,871_._FMjpg_._SL34_.jpg",
+        "date": "Sep 27, 2025"
+      }
+    ],
+    "product_description": [
+      {
+        "position": 1,
+        "title": "image",
+        "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/eee03367-c3ac-465d-870c-ca77c871f581.__CR0,0,1940,600_PT0_SX970_V1___.jpg"
+      },
+      {
+        "position": 2,
+        "title": "image",
+        "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/4a32faad-0e4b-4412-81cd-b2a00def99fb.__CR0,0,1940,1200_PT0_SX970_V1___.jpg"
+      },
+      {
+        "position": 3,
+        "title": "image",
+        "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/99175bf7-c6cb-46fd-a355-c5afdce1298a.__CR0,0,1940,600_PT0_SX970_V1___.jpg"
+      },
+      {
+        "position": 4,
+        "title": "image",
+        "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/9f725b74-3ad2-4838-9e54-eafdda39fb86.__CR0,0,1940,600_PT0_SX970_V1___.jpg"
+      },
+      {
+        "position": 5,
+        "title": "image",
+        "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/fcf0c3d9-ed29-447b-824d-3a125ceaeea6.__CR0,0,1940,600_PT0_SX970_V1___.jpg"
+      }
+    ],
+    "product_details": {
+      "brand_name": "Crayola",
+      "age_range_description": "Kid",
+      "included_components": "(1) Recolorable Light Ups character (3) Ultra Clean washable markers (1) Instruction sheet",
+      "model_name": "Light Ups - Pumpkin",
+      "art_craft_kit_type": "Drawing, Light Play",
+      "upc": "071662276256",
+      "global_trade_identification_number": "00071662276256",
+      "target_audience": "Unisex Children",
+      "unit_count": "1 Count",
+      "set_name": "Light Ups - Jack-O-Lantern",
+      "manufacturer": "Crayola",
+      "item_type_name": "Light Play",
+      "model_number": "747625",
+      "manufacturer_part_number": "747625",
+      "best_sellers_rank": [
+        {
+          "text": "#376 in Toys & Games (See Top 100 in Toys & Games)",
+          "extracted_rank": 376,
+          "link": "https://www.amazon.com/gp/bestsellers/toys-and-games/ref=pd_zg_ts_toys-and-games",
+          "link_text": "See Top 100 in Toys & Games"
+        },
+        {
+          "text": "#11 in Kids' Coloring Pens & Markers",
+          "extracted_rank": 11,
+          "link": "https://www.amazon.com/gp/bestsellers/toys-and-games/166088011/ref=pd_zg_hrsr_toys-and-games",
+          "link_text": "Kids' Coloring Pens & Markers"
+        }
+      ],
+      "asin": "B0CVSF51YD",
+      "customer_reviews": "4.5 out of 5 stars",
+      "rating": 4.5,
+      "reviews": 490,
+      "color": "Orange",
+      "theme": "Holiday",
+      "seasons": "Fall",
+      "product_style": "Light Ups: Jack-O-Lantern",
+      "subject_character": "Jack-o-lantern",
+      "item_dimensions": "4.25 x 5.75 x 7 inches",
+      "size": "Medium",
+      "number_of_pieces": "5",
+      "material_type": "Plastic",
+      "paint_type": "Washable Markers"
+    },
+    "sponsored_brands": [
+      {
+        "position": 1,
+        "asin": "B0DK6DYYD8",
+        "title": "FUNNYB&G Foil Art Craft Kit for Kids, Halloween Crafts Gift Toy for Kids | Mess-Free & No-Glue Activity,Kids Ages 4-10 Create 16 Sparkly Princess Unicorn Pictures,Halloween Toy & Birthday Gift for Kid",
+        "link": "https://aax-us-east-retail-direct.amazon.com/x/c/JIO0pgBT83ArGmg1Qf7RgP8AAAGhZGY5FgEAAAH2AQBvbm9fdHhuX2JpZDQgICBvbm9fdHhuX2ltcDEgICAoY9iU/clv1c_ek-wxQfWLcTaTBVEai7mSw7J7ZERJ3C9-JiSj7vE14M4EZitb9DmOq1ScHUfKqzkjOcJj41ZTRACWaXjTaSB1qYkHwp04v-6D-wt2NG2xNY-6wltpBbbozI4o_ps-lphngc-6LaD4rwoF0j1NHWj6FeZp9Cs1tXsgNzm3DWmbFaeWWAnSsS5kW9XgnYvw-hyif7QrKInDh3MzbSdZWnD-DcMOd0zFlSslRB-ccv5F9TZt0mGKSlMstJHRkOr1ZYwhmu7vI09SBRDwr4WvZy-vJbufqLs7Bx3fJ8a1bE4-ob8j00gGXeb5yr-HMlZocw8eO19AJ2d0wGifYFKrJx1jzv2qQ9q3KdHiFcPlglpy5YbMC6mEJgv_gz5HHt5yMWfaPZB_tcjFrKIB7sdla2BZW8oEnH_tAp9z80HVpjfz5P4pL8DQxquVtll4dNG_2jlJDwdnMJs15xywq62d-Xb2xbk4hhMvuJLLv8JPjf1CwqyLABQDSONrMBhuSlABbUqaUYG3Ona-S-RYyldNJI0tA5G_wzrLSxDi1b7W2drtVmknAhJtcAXUMZbluqyCilWExdi3KscrrX_Ls26qSxiM8SrS9dKipI-cRp3H-lZUrhtknfOggrb60k6Y8a7itKK-9tBhMf8DzF8Qr0BPWmPP3spr84tsg-XyD8nWiSJ8ZuNXZMhfC5CruVpQm_H_kG_tjZduyx104No3S8Q_I3K1ii5xHCHGNodl5w7YnEInmHpqUXC9unRYtgPW8_NeX0B5no52BtDkkVwvpRDyRgCcnaWBg5vPIIRbEuUS_Giga8aAGWoX1aojDpZH_BruHEj3Q335EdtX-t_fci3964_CHDxg748ZNM-GAGdBIoxr6g-vaTlNqKrFpB2dEx-p0m1LrIJWKZthW09mXkCjrW2LxNuiFqjOBYDs3CIoFuJwJZI2Rhco81Kp6kPPkaLMu78t-j4C9RqFOOlSvMF0vwXev2Aq-IQ7riGJ2lmwDgQcMX1LohP9y2TYesAtLjzogw_r3iRArzeN82n-AYiL6bTBrCKcxTuzts3Tn-bZ-daU-t1mtzdWWHjTNBShM7Os701XabMXGOMPQvfZS0oM58gII1QUGCJA35PUvQ8IFqoGAqJI7JzU0ngBScMnk2cJuwNtOdbXMgVT0MWrSDUCZ7_zyVIpazuy_GWRUuepH9oxY8VSCKap_EXbopBZ5v6iAtRyXva_mKi0Vdl2P6BICcspzgC2W8DlGKgy6H-iEe8s09WqgvW21jp6iomZXJGE8vRcMyRIycp13Ey2rLBYAUqHzpE_-RrJPcDYmBCZPuF1uvjrv1NFahVL9tov1LIAsnTK8UcOr0vgNGqiXBpdcTafTwOS48LJDK73r0EWwKtrX-Z3dh7L-5On5_gshKIhfJ0v_FoKTuC3sywmh03pzz3zBcQ2_ruNJWE24bPQfD6mGjgkVOMS11EsLEfJMbTCsiVir8wK1ljBTaxBeIIttLiCd4-OZRqYvKPr1ubUBihQ-_ncNVzlicOpHPMYeruFfkiTCJ2S6jxU9LW6mtG-l2RT1dAWe4WBOuMR5yzlpKKoTSNbAbmp-OIFJzljNozrg8Pcj1Pgi1WCwR2xX_wXeRYdrEMML6XzigTi1kcHpwH_vhhD2qWbIA/https://www.amazon.com/dp/B0DK6DYYD8/?_encoding=UTF8&pd_rd_i=B0DK6DYYD8&pd_rd_i=B0DK6DYYD8&ref_=sbx_be_s_sparkle_ssd_cta&pd_rd_w=GNK6h&content-id=amzn1.sym.fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=CMZSZ6CKVYN0M3WFV46N&pd_rd_wg=menL5&pd_rd_r=003d09ea-afe4-459d-a370-1d00645c2f5d",
+        "link_clean": "https://www.amazon.com/dp/B0DK6DYYD8/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0DK6DYYD8&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "thumbnail": "https://m.media-amazon.com/images/I/51MJLfskhLL._AC_SR100,100_QL65_.jpg",
+        "video": {
+          "link": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/5d504a3b-0c07-4f4f-a11e-a7a0c87dcb96.mp4/productVideoOptimized.mp4",
+          "thumbnail": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/5d504a3b-0c07-4f4f-a11e-a7a0c87dcb96.mp4/r/THUMBNAIL_360P_FRAME_3_CAPTURE_2.JPG"
+        },
+        "rating": 4.7,
+        "reviews": 2666,
+        "price": "$19.95",
+        "extracted_price": 19.95
+      },
+      {
+        "position": 2,
+        "asin": "B0DNJKZZH1",
+        "title": "JOVA Klever Kits Glow Sand Art Kits for Kids, Glow in The Dark Sand Painting with 14 Colors, Kids Crafts, 6 Fantasy Templates & 4 DIY Sheets, Mess Free Arts and Crafts, Gifts for Girls Ages 5+",
+        "link": "https://aax-us-east-retail-direct.amazon.com/x/c/JJC3KJMgCFD7jBmSz4A_f98AAAGhZGY5FwEAAAH2AQBvbm9fdHhuX2JpZDQgICBvbm9fdHhuX2ltcDEgICD7vJ4O/clv1c_ek-wxQXWbcbaTRXUV5oYIdbqdGlZK4_J_tiOmDhe1C81ElIFPlNIlA3dx1gfN3df6KxK2PDM7UZKe_DjQ_Q5HG21H9Mtb_yw8Yd9BySW_Qx2EzDjEEILtRb55fQU1tNx8mf_s1EPINAj_bum7WpwtMrxs-lcllTw2qQohyfKzAMVXTPNv1LERY4-P4H5JrRs16cLLUBlWIXO1OLpLwQIciisecaXhMo01qrWjm5mszKtCFhUZt914SqfpFIDZYfm3P9xTNt_PF3ND_daAlcO2uoLV4LsYq1OKr9YiL902M-skx6pfa5xItvRYigg_5R6FCpbNK3okXoV72dqNeaRVBpXm_lTET-NNcIY9e6IXn9DgpxyBTaXGKZ_F1Ph86z2LZomDAXQwrz8dVe6XTAO6CHyFL6Ooahg55__7HS8RPGj7u7JDNeOkw2Dpao2jWbmcoHeDpBleJphtO3ZGGtOb1TvnykOXXDjdlv6d7qVzbM2r0CDO1KNGoPW_M1HK4lgcb3SV6At107DRdOcNWxLsCjTenEvN2b4e3yYYHtchlEj23ojAOMIq_Ym2ubNppYcf1O6S4LyqOikUkAquDbbt6HNikrq5RFlNisuwq9sZVB4LIbcIWN_N4tIUNrXEmxzYwMmsxryAqaW1MqW3_3vMNgtUcY7c-s5O1qyMLuqXvWqqAEgU7oDn6Cx2U__2JmaoHP4lj46xVkYJxjey1SRW3J9fZcZf9HALu353ig0G4yzujq2cWbL0LBoI1x-550PxI5oNhHwvIJD5zmya5JEy48D6tOYhS39QTxb1b-z65SLYfDr8eVv5KbxHrwfmeKVUm2qsUdY0tRLjtzs8IVxonB8PxskK9VZRvZqCr-JXmhyNuBUNDUecaSfoK10sLcCQEBW3M5qWKZ5JLxw3tD28qU2xQ6_pxIJjo18rW69O3g2ZNWNal1UFjtwQBjLwoK7qZMYkOCn-f4m2D7KC83xegn7UnAGQrxtrfEHMRPHCqawm9QORizUyJwKwqj5fYWpshL9F_kSQqfxi6m2SZBMnUvvMza764hD25Y9OtwSUgDX2ebEeMpe4QQXYQ0VI8X-H0a8dlsGGCyfl9iEpdqLS0fYRxdxXmOCozLv1ElWoEWoMW9FqhsPQdC1N7Z-kbIncXlf7M6GzrYuDOP0CXEpSdHOgXFe7w2ogbx1IucfAiGg0mwnN_QKqFioH-Gq8xYpeapEknjJ_flaRlEIVwq5i-23lOmRS5xYBc-ZawZxF_Gv1LU-H1HMYYPF4iRKDK90yAPRAsDqwG6aRMFwrIYxD-NY64PQE9wQGUS3aEjqLl-iPpKA0miAPIJJPITW2s7SxtQpZSWiJex6wAb2uke2TC-ep65f12Swp7N6paK3oXf1ekwr73Hxi1Tc_twcKL30oWOaedVBNOV45UALtvYv69x3wP-FjF1k14oO_d3wI1awbI2cPi9c6h3kbFPPZc9M1Jk3qNprwa3J3O0IoAhCfGXKWvtSgZ8Eky3-5nyEKNa8ll5cEZ5e7udAFkh3QZHnnU-i-hO3zSak4gDOKj3X3raUNfXeWSyPCTM9OxrUhFMUMkIufjfKcBFQ-yNOGgQjoyAiK7J7Egdt-kl0BbWaBFzbqBlBIMYFnKntg-4cunLEerwc/https://www.amazon.com/dp/B0DNJKZZH1/?_encoding=UTF8&pd_rd_i=B0DNJKZZH1&pd_rd_i=B0DNJKZZH1&ref_=sbx_be_s_sparkle_ssd_cta&pd_rd_w=GNK6h&content-id=amzn1.sym.fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=CMZSZ6CKVYN0M3WFV46N&pd_rd_wg=menL5&pd_rd_r=003d09ea-afe4-459d-a370-1d00645c2f5d",
+        "link_clean": "https://www.amazon.com/dp/B0DNJKZZH1/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0DNJKZZH1&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "thumbnail": "https://m.media-amazon.com/images/I/51ZEi9ZsbSL._AC_SR100,100_QL65_.jpg",
+        "video": {
+          "link": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/3f6613af-0639-424b-9404-4e35549661d4.mp4/productVideoOptimized.mp4",
+          "thumbnail": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/3f6613af-0639-424b-9404-4e35549661d4.mp4/r/THUMBNAIL_360P_FRAME_3_CAPTURE_2.JPG"
+        },
+        "rating": 4.7,
+        "reviews": 328,
+        "price": "$17.99",
+        "extracted_price": 17.99,
+        "old_price": "$21.99",
+        "extracted_old_price": 21.99
+      },
+      {
+        "position": 3,
+        "asin": "B0F9Z41PP3",
+        "title": "CreateOn Crayola Magnetic Tiles, Building Set for Kids, Halloween Toy for Kids, Travel Toys, Classroom Sensory Blocks, STEM & Montessori for Boys & Girls Ages 3+, 14-Piece Set (Halloween)",
+        "link": "https://aax-us-east-retail-direct.amazon.com/x/c/JCnhlxDMXsiTOelJmGM30GkAAAGhZGY5GAEAAAH2AQBvbm9fdHhuX2JpZDQgICBvbm9fdHhuX2ltcDEgICBgx-Hc/clv1c_ek-wxQfWLcTaTBVEai7mSw7J7ZERJ3C9-JgCupqMD5vXK5ito-WC61Psx4EfF2RT3LbxAe_yFWyAtaNnS_lq9kvzXX0ttnsbqzxGV8qmvaQWC3DzDFKN9R767fpk1tNw8GdPhTKiotMnv7um7Wv8uzrxo-lcl1DsuqQp5yfKzQsRfTMtv4ObHVltnlvyBadb_lKmxs8dFwTK-YxNrhjBcQNTLw4-DUM7nMFc9Fye6w4sCadNGh2IaOfDfRxN1p0xx3uzT725SRV_yjjXLZN93I7ufsP8aDz5n26rtupYyjMPOXsy_x3Vytj4lfZNEPVwhCByzguOHuv6NneME9K62egtPKiFjgxx1aJt2pmabB0QseLWSJfuVo_D8T1cpkv3_90ecF9olzFB3rnNAAyUOzkywDoqjuY5gDEFSZrvAthHmfbTXjticrNWBKpzCc8Fwc1PvRjnAYtzN0iiDypx0UVRjMAMO8WI54qxEeoeJx17FxjgQn0HKKxBX-pD3W78AV33mg26x2jAgKHaW6iNyJCKOOF0jR3KdAsxsvaCafqE62JVvkTzmqmtUIUEAtMU-rd3yAelbeiu8ftxmhlNCrPbsdeTHuvk2Sp0qWIMFunldI7Egura64k6Y4a7iPKK-ZtRBOf0Dg90QZ0BPHa0pdDn2IIxzWc3X1EZrk38iqpi13uLB42FvGVZ27einZTcMEC_mF7H9RbQBjWCEDGjc8AHO_70Bwuq7Bylm32FOzP561d2BuAi2fXWDcGKeyfYVGgh2ebyqRs_gkm5jXdqZmaU95qNoIWrtm4ny4COMCiaxKhS5g5M7i7SB40PG-CVUn7xYHQRgLnQPdVEtoyWinhzAYXj4ms5qCioZzlojIwJ3W0Z7XbzBH8aQv-o2iZk6anK-3dN0DQn4xpoC2RmVkwPO9O_e3xMxq5E094fY0sc4KCc8vTTCATnZAJAsDP8vnIGDVfXWeTahxUuHyPkxitu5LQm7C-YQU87E_c04Bz-SNbRFZIMSVjtifx3qUlmgnLG-nlj4B63xIXQpOkseEOzY5BY7EVB7rzTh5rs5P_Wv-CR0KrT8SKMVraqS9pymjrg6tTaBFh6amJI2X396Op_kegNAshJsumXMCKq7ec1csRND3bCYmhQ5awLnz0_6d9B0ySNH8U0dAw7wxBxjGNmMt3AgmW8jMR-EprtEmKMK07sea6mee3YeuuO85XOB7k0NCUiXze87rNaQVDpCcE9OJ_dZdap-eNu3WXE-hp92pgsL6GmckXF4tHeNdTjZq_TB8UYm-eazlaX1Uonysa1gpLSqwgMPx6wQVJSXQRJOKJTHaBIeCwJZNJBjJEhz3JzdiTWxUhJfzUKCNxXU5ifL70_-gQdgb2uapXxxTx-0bSFwDW78uEn7-JbP7qNw3T1bcRFuPVR6J6BCXl4iKz7P9a2ZWVXl6DmnTXNbFKBHjR3zXckSH2TuzA_4NEwaLVFkWBDgpRRp9Md3B0XYy532vq0mTtwM9v_5moMGjlUcD7CKUXcznu_XhvXZC6XS3Lx82n7sATnLeUoWCEk49xF05V9_pMd4CL_t8tPhPMioMkAYgM1_0JZoKjTpcYs7lVg1JVb98Fow1W4QDFKVCDaY1tkq6xsTz6gxg-l3dU/https://www.amazon.com/dp/B0F9Z41PP3/?_encoding=UTF8&pd_rd_i=B0F9Z41PP3&pd_rd_i=B0F9Z41PP3&ref_=sbx_be_s_sparkle_ssd_cta&pd_rd_w=GNK6h&content-id=amzn1.sym.fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=CMZSZ6CKVYN0M3WFV46N&pd_rd_wg=menL5&pd_rd_r=003d09ea-afe4-459d-a370-1d00645c2f5d",
+        "link_clean": "https://www.amazon.com/dp/B0F9Z41PP3/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0F9Z41PP3&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "thumbnail": "https://m.media-amazon.com/images/I/51Y5-bj1u3L._AC_SR100,100_QL65_.jpg",
+        "video": {
+          "link": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/6f5878fa-e77b-4f7d-9402-28d7642d866e.mp4/productVideoOptimized.mp4",
+          "thumbnail": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/6f5878fa-e77b-4f7d-9402-28d7642d866e.mp4/r/THUMBNAIL_360P_FRAME_3_CAPTURE_2.JPG"
+        },
+        "rating": 4.8,
+        "reviews": 1218,
+        "price": "$19.95",
+        "extracted_price": 19.95,
+        "old_price": "$24.95",
+        "extracted_old_price": 24.95
+      },
+      {
+        "position": 4,
+        "asin": "B0D968LFF9",
+        "title": "Dunzoom 30 Set Halloween Glow in Dark Suncatchers DIY Paint Art Kits | Luminous Pumpkin Bat Boo Designs, Make Your Own Window Ornaments, Craft Painting for Halloween Parties, Home Decoration",
+        "link": "https://aax-us-east-retail-direct.amazon.com/x/c/JNjFm4quaSoYZGhmXJ43vRcAAAGhZGY5GgEAAAH2AQBvbm9fdHhuX2JpZDQgICBvbm9fdHhuX2ltcDEgICBMuZ2V/clv1c_ek-wxXXWVcbaTfWXb9qsChu3EVwubnsntNvTHdmVwiK3zJx2bKxu9q6bSg3g-ELa4BhibOTPzr0-BBCHXOLrXZn_VL0rDSf4LnxrLYj48sgugyLv6-58ADu2ykl0oGk3m-pcYZBGNAucKSRjHKGxg4IM-H2ckF060sYzirWqy65LeaudE3OlISC41CoqdR9lXXoRh_r0EwzKyfyN7pjBdwexFw46BUsz3K5LFoNfdsPe9Eii-rpUfJMXXZGFw4VPtFuDf3UlZ11N86c2uKpzXCBz_bWUnj_xg6BNVBAInkXUjKwzMn0CB5c7t2WQShslabLxgirTq63izRI92xHFP7OQ3UlYaIrS39826HY7ucl9rL5hlIw8sHZWnoLubZ-cyxkbYxJigOtJxflRO3yQOL9qkWvIGOPtlR6RYydxv14YjhP-x-CSfr2LlVbZKlnwUGmZ5zM0pKJNVn0M8JDT-TFNb773mpuQu26CFzNzJjh9Aj6PicyrFoJh7CB_X6fvH-xQLy9oMoAAGuDfkzYp4SNjTpykf3hfOVwKMqNgrt9drQAft_dRl2GHfE1u9Meyjr5YWDePuyQsyfh8HLv8exBv_R45PHalx_50YqsWXM4hhN5Mmdaq-CVb2Ia7CPNKOqtN5Nf6zi96o63hPX7EndiX-Ipx3cdR-pSJPBEGiLbi1nWIJ42lsyVZq7dQvZguMUBHmFrG_ZbQhhWCUDGje4A_O-DzB4Op7B-lm32JOTP767cGHiCj-fnWnVJXsYa7lowPIfaqfn66crka-MC3J3_krAXB3EyAT_Nk2R0C32nHOqz0YfEC9jVKHnhR8t2t3AMxdvMOzQMQPoNJ6GfLsvQHF8_oMlXsmzGvZ6a3ovucFGht9sJU3gt6lnhockJ-_vE49b7MuhNQXf6AhgnQ34iaz5_8I04pty_UUK8mPs2WREv4ZlsJDC3cvqVfpMs5PGdnXfg8MkTpDoZYrnEuyVIbC0UaiTdcTo_2VSGUR3xRuHC2OP34xn53atTOK_PDOmfgOWLIybu-qYoGgLI9OAHPc0U6B6v456UO3099NC_uqG38AJDXBT9lAoC46aSX65DQUhBJmNxYLpdh9ZGvG2w28_ghR1M8EvcWxSAtP5gJWYgbWYrB8oYMo84EWZf-Y54L8mP-iLburL6twGjpNjH5cldQtsLaGQ0s63GHmMlaPtJz5W6Sdy1SrbVbRuk7Srol_wVYcbyT6-QSJtIE8P9_z7OB8KhY9CPrIZEBIB5upyEH-fW5FWBo7Fsa1tbJfXSABQdF83lqwgQzWy7zIqgZviVNimoZlYDv_B2niT-9n0n6Mbyah7fyAsYvw-niKjuG1IFTqKbZage61cICRPPFUqAK-pruse2OYE0eW26rW3cwS2nwIT8LhSbl5_G533upSrjF2LbWJ30spV8uSLgoDVATqpdzCWjCCCO0r2qmcOLPFJf1QlnIk8cknqzHbZu_GnHs86dkU3VW8yKUMdrSpRBHFaw_OxqL6IeQoU0Gl4OY1FOsA1wDIpvOGfFVcYPbi-VoToDa1ZYTTwpq5vBv7wgBh598B_Ff2hr5SAAB_dOENhMVnLUtqPTLWrZ17gnFUc-b_WIrnOZ7k4gYDiy7qz_KcGP_6kMhApMMVyHZofFZ/https://www.amazon.com/dp/B0D968LFF9/?_encoding=UTF8&pd_rd_i=B0D968LFF9&pd_rd_i=B0D968LFF9&ref_=sbx_be_s_sparkle_ssd_cta&pd_rd_w=GNK6h&content-id=amzn1.sym.fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=CMZSZ6CKVYN0M3WFV46N&pd_rd_wg=menL5&pd_rd_r=003d09ea-afe4-459d-a370-1d00645c2f5d",
+        "link_clean": "https://www.amazon.com/dp/B0D968LFF9/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0D968LFF9&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "thumbnail": "https://m.media-amazon.com/images/I/51fZOhaGmfL._AC_SR100,100_QL65_.jpg",
+        "video": {
+          "link": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/1d617afc-a584-48cb-a00f-02132c900583.mp4/productVideoOptimized.mp4",
+          "thumbnail": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/1d617afc-a584-48cb-a00f-02132c900583.mp4/r/THUMBNAIL_360P_FRAME_3_CAPTURE_2.JPG"
+        },
+        "rating": 4.4,
+        "reviews": 142,
+        "price": "$27.99",
+        "extracted_price": 27.99,
+        "old_price": "$30.99",
+        "extracted_old_price": 30.99
+      },
+      {
+        "position": 5,
+        "asin": "B0D9DNX37R",
+        "title": "24 Sheets Halloween Pumpkin Face Stickers Make Your Own DIY Craft Stickers | 8 Styles Make Your Own Jack-O’-Lantern Stickers, Create-A-Face Activity for Halloween, Thanksgiving, Fall Autumn Party Favor",
+        "link": "https://aax-us-east-retail-direct.amazon.com/x/c/JI6Gie9Qek4v1oSd-LNMb6IAAAGhZGY5GwEAAAH2AQBvbm9fdHhuX2JpZDQgICBvbm9fdHhuX2ltcDEgICAQmkV8/clv1c_ek-wBXfWVcba3TK2ZyrC7XdcOO1Dnzj8TQ9tqwpZzd58bIeK6-7wE0-kp4qsY9bdtMu1HwOWGa4dOhlgzpOPc9oAJaBA_M4xT670HhVjfa1GA3BI5AlVHlSg4np_pdTIRjE_GII1C1g7QkFlr3fQpVHduP3clVzmAcrpwWcCjAYaQs2YQ88Ua_jYkPNGKf5qrq1KxInJEwDOCe7HF_jdp6_zPf6fZF4GitW12cMtdjVfXY5y6t0CkzIXcpNARpJ3IwefE9L-yMQVltNhIWaw8GlxNA9PXs_eSkZtoA4Juom5CvwNsVjtnQypCYlQtspLS3iG2PvOfNt8MvDiqkVDwK6EJNSNzgnzREQmZody2gH4yEgZq7Y9uAl1AOnr-zxbzdIaiePNL5r-uBv1hPs5USTql5jzUJDfUL5dazeOTs6_-7txVCx1E15mEMnjcStTg0hm8pnoo9pSklV54xGNWiGhWpNGd-HUMunJy3-MkSdESdK_S3EQJG0u0Or0P1peDIUV4Lk3AHjPbuUZPuFI2V0tW9u_IuFPPVDpDaEcLnY7ZTIWMNwOQItsyOQGdrN2LLAXZZaJ5XXU4mAcqzmUEqllbSrHitn4bReZazHOCzmOmDfOiqoZONlSFP4HT-4HBjajGuUgM00RoRSPhCuvAY4QiaEKtmM8JeOLVxojiWPoVyPgR0VtOUKtPzv8QXpx3RBp0qPu1zPiT5ERlGFC-dj1vCkEiWgSoowua3MgbY3zGUz4wdfI3ZUrXMyYc6xkadeQJ5WTzGzuF2T6ma9X5Jpn4WXRa3CLzJ62NY3mbLzQ5FTynuIrFAh9lkYNFhOhcIwdazMwgyEIuTg0Ra3PqjYmOi18pu-nXrVIdC-z_VeXYoY7XhSCYyXDlqHTolCCF3apejYbunhKAKkrZefrUcCv8tq4-CjDoTYF6Ux9LYC5SyXTg0E6bqEV47cPuXb5PEdiCFtI9nbMdqX3BiRT76eMcug10V7BCgFCdkldfJZf1IUJ9ExbG0MJv1SJhu8J2dWLqgyVGhtHhD4lvIzwHlxydIbo0v37_nsO3jWFWCELtMReVw0os1wCDZUBkn0WZzHTRkFV9Lsqu2NgE67f-rGnPq8BifWnQRe7jyOpkb9aNqDHVTw3CB1tUV_EfgoDyzg0gz0xXYWaGluludF4mfr-BVBvxqlDCcNWwOhPdSdw-k0vAUSAc64UTb-N9_JPS1HT42vtBVG7LK16Vfyb-d7TgMKPp6CrPOPD60cqoNDDwLsnoRE4vzlFfhyOwANGPN98jiuPRBUscEqdTxBW7U6QqP2KT-GDcmNq8ezt0kKrmn4yogI1S9zQh-GQHnJMhLqciGrzIxLowY2WvB-eXLJ4-xZ2I1My872kLWDglCU99L4axQeDyoMugiJoPpEucDF7plFcGSxSqkIvFOhTSE6ttLwAxjJC5_UyuTsItPTWj4M90mZQoI2MEsyDjCMMfQ84Af_vlygdWnfBtagmqtkhzinMc3jjjv-DGZUzzSXqpxzvXZafDV0pNn_2eUw9KEg_SzRMXL5NpnZCfcOph6CaRVkilnzhwVQK4nciYDuDwdgFcyYWLGX3ZO6m8o8OyK6NT1Yb9bnyhIrLnmiH/https://www.amazon.com/dp/B0D9DNX37R/?_encoding=UTF8&pd_rd_i=B0D9DNX37R&pd_rd_i=B0D9DNX37R&ref_=sbx_be_s_sparkle_ssd_cta&pd_rd_w=GNK6h&content-id=amzn1.sym.fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=CMZSZ6CKVYN0M3WFV46N&pd_rd_wg=menL5&pd_rd_r=003d09ea-afe4-459d-a370-1d00645c2f5d",
+        "link_clean": "https://www.amazon.com/dp/B0D9DNX37R/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0D9DNX37R&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "thumbnail": "https://m.media-amazon.com/images/I/619ZylkT1ZL._AC_SR100,100_QL65_.jpg",
+        "video": {
+          "link": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/4c9b6103-7549-4eda-8548-2eb485b1f5db.mp4/productVideoOptimized.mp4",
+          "thumbnail": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/4c9b6103-7549-4eda-8548-2eb485b1f5db.mp4/r/THUMBNAIL_360P_FRAME_3_CAPTURE_2.JPG"
+        },
+        "rating": 5.0,
+        "reviews": 12,
+        "price": "$6.99",
+        "extracted_price": 6.99
+      }
+    ],
+    "reviews_information": {
+      "summary": {
+        "text": "Customers find the coloring toy enjoyable and appreciate its durability, noting it doesn't break when dropped. They describe it as super cute, with the ability to light up in many different colors. However, the marker durability receives negative feedback, with customers reporting that the marker wipes off and gets on hands. The color options and messiness aspects also receive mixed reviews.",
+        "insights": [
+          {
+            "title": "Enjoyment",
+            "sentiment": "positive",
+            "mentions": {
+              "total": 56,
+              "positive": 56,
+              "negative": 0
+            },
+            "summary": "Customers find the coloring toy enjoyable, with children loving it and one mentioning it kept them entertained throughout October.",
+            "examples": [
+              {
+                "position": 1,
+                "snippet": "Fun but messy",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R1E9SSQJJID3UY"
+              },
+              {
+                "position": 2,
+                "snippet": "My toddler loved this and keeps playing with it. It’s around 4inches tall, I think. It lights up orange, green, blue, or rotates through the three.",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R2EUI0KE51BVUN"
+              },
+              {
+                "position": 3,
+                "snippet": "Cute idea but after painting, the markers get all over your hands even after it dries. Doesn't wash off hands very easily.",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R10NM8AJNOKFTM"
+              },
+              {
+                "position": 4,
+                "snippet": "My 2 year old loves it. Easy to use. The light is bright and the ghost is so cute! I was just expecting it to be a tad bigger.",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R1LT2RYHTYLN0"
+              }
+            ]
+          },
+          {
+            "title": "Quality",
+            "sentiment": "positive",
+            "mentions": {
+              "total": 23,
+              "positive": 20,
+              "negative": 3
+            },
+            "summary": "Customers praise the craft toy's quality, noting that it doesn't break when dropped.",
+            "examples": [
+              {
+                "position": 1,
+                "snippet": "For a night light, this little guy is GREAT! Have two and both my boys are so obsessed with them!...",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R16XUEBVIH9DDC"
+              },
+              {
+                "position": 2,
+                "snippet": "I bought two (2) of these for gifts. They loved them! Well made.",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R2WVZ4FPOZ95L7"
+              },
+              {
+                "position": 3,
+                "snippet": "These were a hit with our kids aged 2 to 7. Our daughter loved erasing her designs and making new ones....",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R3OTH2TANLEE7X"
+              },
+              {
+                "position": 4,
+                "snippet": "My son absolutely loves this. He loves that he is able to color on something other than paper....",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R7BQZYMG2RCTA"
+              }
+            ]
+          },
+          {
+            "title": "Cuteness",
+            "sentiment": "positive",
+            "mentions": {
+              "total": 16,
+              "positive": 15,
+              "negative": 1
+            },
+            "summary": "Customers find the Halloween toy cute.",
+            "examples": [
+              {
+                "position": 1,
+                "snippet": "Cute but the markers will wipe off as soon as you use them. Made for a very messy craft (hands covered in markers). Would not buy again",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R1N0DZWVE8SE5Z"
+              },
+              {
+                "position": 2,
+                "snippet": "So cute! Easy to use and the kids played with them for hours",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R2YPGSCSBX3OQT"
+              },
+              {
+                "position": 3,
+                "snippet": "Super cute as a nightlight around Halloween. Markers just smear though.",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/RY1OLWT2FG93M"
+              },
+              {
+                "position": 4,
+                "snippet": "These are cute in theory but end up making a gigantic mess because you can’t pick up the pumpkin without the marker smearing all over your hands....",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/RNQYUWAOU8J9Z"
+              }
+            ]
+          },
+          {
+            "title": "Color options",
+            "sentiment": "mixed",
+            "mentions": {
+              "total": 12,
+              "positive": 7,
+              "negative": 5
+            },
+            "summary": "Customers have mixed opinions about the light-up toy's color options, with some appreciating that it lights up in many different colors and can switch between them, while others note that it doesn't come in orange and that the color transfers to other surfaces.",
+            "examples": [
+              {
+                "position": 1,
+                "snippet": "...It’s around 4inches tall, I think. It lights up orange, green, blue, or rotates through the three.",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R2EUI0KE51BVUN"
+              },
+              {
+                "position": 2,
+                "snippet": "...But after using one time and holding it the color comes off on everything.",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/RLMVL0IXR2EM5"
+              },
+              {
+                "position": 3,
+                "snippet": "My son absolutely loves this. He loves that he is able to color on something other than paper....",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R7BQZYMG2RCTA"
+              },
+              {
+                "position": 4,
+                "snippet": "...NOT, markers are very thin and came in purple, black and green, no orange!! Really???? Although, inexpensive DON’T waste your money!...",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R19H1SCOSLPJT1"
+              }
+            ]
+          },
+          {
+            "title": "Marker durability",
+            "sentiment": "negative",
+            "mentions": {
+              "total": 21,
+              "positive": 4,
+              "negative": 17
+            },
+            "summary": "Customers report issues with marker durability, noting that the ink smears and wipes off easily, making it difficult to use without getting it on hands and other surfaces.",
+            "examples": [
+              {
+                "position": 1,
+                "snippet": "The marker doesn't dry and gets all over hands",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R3FMXBFQMSIZH"
+              },
+              {
+                "position": 2,
+                "snippet": "We love this product but the marker rubs right off, creating a bit of a marker mess. Would recommend but for maybe older kids",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R2OR7HICRPBF0R"
+              },
+              {
+                "position": 3,
+                "snippet": "Markers smudge and gets all over your hands",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R3LC0V9XTV1TOY"
+              },
+              {
+                "position": 4,
+                "snippet": "Easy to use, a nightmare to use lol the markers smear and don’t actually dry on it, so when you go up to rotate it or your kid is handling it the...",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/RXE6DWSHOH14E"
+              }
+            ]
+          },
+          {
+            "title": "Messiness",
+            "sentiment": "negative",
+            "mentions": {
+              "total": 8,
+              "positive": 0,
+              "negative": 8
+            },
+            "summary": "Customers find the craft kit messy, with one mentioning it creates a marker mess.",
+            "examples": [
+              {
+                "position": 1,
+                "snippet": "Fun but messy",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R1E9SSQJJID3UY"
+              },
+              {
+                "position": 2,
+                "snippet": "...Markers a little messy for this age but with supervision seems okay.",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R16H8KT496VKCD"
+              },
+              {
+                "position": 3,
+                "snippet": "These are cute in theory but end up making a gigantic mess because you can’t pick up the pumpkin without the marker smearing all over your hands....",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/RNQYUWAOU8J9Z"
+              },
+              {
+                "position": 4,
+                "snippet": "Messy after painting",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R10NM8AJNOKFTM"
+              }
+            ]
+          }
+        ],
+        "customer_reviews": {
+          "5 star": 70,
+          "4 star": 19,
+          "3 star": 6,
+          "2 star": 3,
+          "1 star": 2
+        }
+      }
+    }
+  }
+}

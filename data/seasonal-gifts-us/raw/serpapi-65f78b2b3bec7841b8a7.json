@@ -1,0 +1,149 @@
+{
+  "provider": "serpapi",
+  "endpoint": "https://serpapi.com/search.json",
+  "parameters": {
+    "engine": "amazon",
+    "k": "christmas advent calendar 2026",
+    "amazon_domain": "amazon.com",
+    "language": "en_US",
+    "shipping_location": "US",
+    "s": "exact-aware-popularity-rank",
+    "output": "json"
+  },
+  "fetched_at_utc": "2026-10-22T08:54:41.014429+00:00",
+  "raw_file": "raw/serpapi-65f78b2b3bec7841b8a7.json",
+  "response": {
+    "search_metadata": {
+      "id": "6ad9cca46d1a185826c7f758",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/jzyXgNrezgAnO6aVCu0ZpwpTRABndxPJMuRBMxp7BWQ/6ad9cca46d1a185826c7f758.json",
+      "markdown_endpoint": "https://serpapi.com/searches/jzyXgNrezgAnO6aVCu0ZpwpTRABndxPJMuRBMxp7BWQ/6ad9cca46d1a185826c7f758.md",
+      "created_at": "2026-10-22 08:43:16 UTC",
+      "processed_at": "2026-10-22 08:43:16 UTC",
+      "amazon_url": "https://www.amazon.com/s?k=christmas+advent+calendar+2026&s=exact-aware-popularity-rank&language=en_US",
+      "raw_html_file": "https://serpapi.com/searches/jzyXgNrezgAnO6aVCu0ZpwpTRABndxPJMuRBMxp7BWQ/6ad9cca46d1a185826c7f758.html",
+      "total_time_taken": 0.86
+    },
+    "search_parameters": {
+      "engine": "amazon",
+      "k": "christmas advent calendar 2026",
+      "amazon_domain": "amazon.com",
+      "language": "en_US",
+      "s": "exact-aware-popularity-rank",
+      "device": "desktop",
+      "shipping_location": "US"
+    },
+    "categories": [
+      {
+        "position": 1,
+        "name": "Audible",
+        "link": "https://www.amazon.com/Audible-Books-and-Originals/b/?ie=UTF8&node=18145289011&ref_=nav_cs_audible",
+        "node": "18145289011",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&language=en_US&node=18145289011&shipping_location=US"
+      },
+      {
+        "position": 2,
+        "name": "Amazon Home",
+        "link": "https://www.amazon.com/home-garden-kitchen-furniture-bedding/b/?ie=UTF8&node=1055398&ref_=nav_cs_home",
+        "node": "1055398",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&language=en_US&node=1055398&shipping_location=US"
+      },
+      {
+        "position": 3,
+        "name": "Beauty & Personal Care",
+        "link": "https://www.amazon.com/Beauty-Makeup-Skin-Hair-Products/b/?ie=UTF8&node=3760911&ref_=nav_cs_beauty",
+        "node": "3760911",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&language=en_US&node=3760911&shipping_location=US"
+      },
+      {
+        "position": 4,
+        "name": "Pet Supplies",
+        "link": "https://www.amazon.com/pet-shops-dogs-cats-hamsters-kittens/b/?ie=UTF8&node=2619533011&ref_=nav_cs_pets",
+        "node": "2619533011",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&language=en_US&node=2619533011&shipping_location=US"
+      },
+      {
+        "position": 5,
+        "name": "Automotive",
+        "link": "https://www.amazon.com/automotive-auto-truck-replacements-parts/b/?ie=UTF8&node=15684181&ref_=nav_cs_automotive",
+        "node": "15684181",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&language=en_US&node=15684181&shipping_location=US"
+      },
+      {
+        "position": 6,
+        "name": "Video Games",
+        "link": "https://www.amazon.com/computer-video-games-hardware-accessories/b/?ie=UTF8&node=468642&ref_=nav_cs_video_games",
+        "node": "468642",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&language=en_US&node=468642&shipping_location=US"
+      },
+      {
+        "position": 7,
+        "name": "Fashion",
+        "link": "https://www.amazon.com/amazon-fashion/b/?ie=UTF8&node=7141123011&ref_=nav_cs_fashion",
+        "node": "7141123011",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&language=en_US&node=7141123011&shipping_location=US"
+      },
+      {
+        "position": 8,
+        "name": "Baby",
+        "link": "https://www.amazon.com/baby-car-seats-strollers-bedding/b/?ie=UTF8&node=165796011&ref_=nav_cs_baby",
+        "node": "165796011",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&language=en_US&node=165796011&shipping_location=US"
+      },
+      {
+        "position": 9,
+        "name": "Toys & Games",
+        "link": "https://www.amazon.com/toys/b/?ie=UTF8&node=165793011&ref_=nav_cs_toys",
+        "node": "165793011",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&language=en_US&node=165793011&shipping_location=US"
+      },
+      {
+        "position": 10,
+        "name": "Smart Home",
+        "link": "https://www.amazon.com/Smart-Home/b/?ie=UTF8&node=6563140011&ref_=nav_cs_smart_home",
+        "node": "6563140011",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&language=en_US&node=6563140011&shipping_location=US"
+      },
+      {
+        "position": 11,
+        "name": "Custom Products",
+        "link": "https://www.amazon.com/Amazon-Custom/b/?ie=UTF8&node=11032013011&ref_=nav_cs_custom",
+        "node": "11032013011",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&language=en_US&node=11032013011&shipping_location=US"
+      },
+      {
+        "position": 12,
+        "name": "Kindle Books",
+        "link": "https://www.amazon.com/Kindle-eBooks/b/?ie=UTF8&node=154606011&ref_=nav_cs_kindle_books",
+        "node": "154606011",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&language=en_US&node=154606011&shipping_location=US"
+      },
+      {
+        "position": 13,
+        "name": "Books",
+        "link": "https://www.amazon.com/books-used-books-textbooks/b/?ie=UTF8&node=283155&ref_=nav_cs_books",
+        "node": "283155",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&language=en_US&node=283155&shipping_location=US"
+      },
+      {
+        "position": 14,
+        "name": "Computers",
+        "link": "https://www.amazon.com/computer-pc-hardware-accessories-add-ons/b/?ie=UTF8&node=541966&ref_=nav_cs_pc",
+        "node": "541966",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&language=en_US&node=541966&shipping_location=US"
+      },
+      {
+        "position": 15,
+        "name": "Gift Cards",
+        "link": "https://www.amazon.com/gift-cards/b/?ie=UTF8&node=2238192011&ref_=nav_cs_gc",
+        "node": "2238192011",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&language=en_US&node=2238192011&shipping_location=US"
+      }
+    ],
+    "search_information": {
+      "organic_results_state": "Fully empty"
+    },
+    "error": "Amazon hasn't returned any results for this query."
+  },
+  "error": "Provider returned error; inspect sanitized raw response"
+}

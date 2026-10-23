@@ -1,0 +1,2361 @@
+{
+  "provider": "serpapi",
+  "endpoint": "https://serpapi.com/search.json",
+  "parameters": {
+    "engine": "amazon_product",
+    "asin": "B0D7TLJQYF",
+    "amazon_domain": "amazon.com",
+    "language": "en_US",
+    "shipping_location": "US",
+    "device": "tablet",
+    "output": "json"
+  },
+  "fetched_at_utc": "2026-10-22T16:11:38.284669+00:00",
+  "raw_file": "supplements/supplement-2026-10-22T1610589019850000-ed08e5/raw/serpapi-5f7a6df759ba0a6858ad.json",
+  "response": {
+    "search_metadata": {
+      "id": "6ada35bb25bc2ca7e5803d39",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/1LqjS9IgJpJ7QRA-mEKPbuDoz35kNA9ilMBghlPdmic/6ada35bb25bc2ca7e5803d39.json",
+      "markdown_endpoint": "https://serpapi.com/searches/1LqjS9IgJpJ7QRA-mEKPbuDoz35kNA9ilMBghlPdmic/6ada35bb25bc2ca7e5803d39.md",
+      "created_at": "2026-10-22 16:11:39 UTC",
+      "processed_at": "2026-10-22 16:11:39 UTC",
+      "amazon_product_url": "https://www.amazon.com/dp/B0D7TLJQYF/?language=en_US",
+      "raw_html_file": "https://serpapi.com/searches/1LqjS9IgJpJ7QRA-mEKPbuDoz35kNA9ilMBghlPdmic/6ada35bb25bc2ca7e5803d39.html",
+      "total_time_taken": 14.17
+    },
+    "search_parameters": {
+      "engine": "amazon_product",
+      "asin": "B0D7TLJQYF",
+      "amazon_domain": "amazon.com",
+      "language": "en_US",
+      "device": "tablet",
+      "shipping_location": "US"
+    },
+    "product_results": {
+      "categories": [
+        {
+          "position": 1,
+          "name": "Home & Kitchen",
+          "link": "https://www.amazon.com/home-garden-kitchen-furniture-bedding/b/ref=dp_bc_1?ie=UTF8&node=1055398",
+          "node": "1055398",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=tablet&engine=amazon&language=en_US&node=1055398&shipping_location=US"
+        },
+        {
+          "position": 2,
+          "name": "Bedding",
+          "link": "https://www.amazon.com/bedding/b/ref=dp_bc_2?ie=UTF8&node=1063252",
+          "node": "1063252",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=tablet&engine=amazon&language=en_US&node=1063252&shipping_location=US"
+        },
+        {
+          "position": 3,
+          "name": "Decorative Pillows, Inserts & Covers",
+          "link": "https://www.amazon.com/decorative-pillows-inserts-covers/b/ref=dp_bc_3?ie=UTF8&node=1063262",
+          "node": "1063262",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=tablet&engine=amazon&language=en_US&node=1063262&shipping_location=US"
+        },
+        {
+          "position": 4,
+          "name": "Throw Pillow Covers",
+          "link": "https://www.amazon.com/pillow-covers/b/ref=dp_bc_4?ie=UTF8&node=3732341",
+          "node": "3732341",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=tablet&engine=amazon&language=en_US&node=3732341&shipping_location=US"
+        }
+      ],
+      "asin": "B0D7TLJQYF",
+      "title": "DFXSZ Halloween Pillow Covers 18x18 inch 2Pcs White Ghost Halloween Decor",
+      "link": "https://www.amazon.com/DFXSZ-Halloween-Cushion-Bedroom-PTK03A18/dp/B0D7TLJQYF/",
+      "link_clean": "https://www.amazon.com/dp/B0D7TLJQYF/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0D7TLJQYF&device=tablet&engine=amazon_product&language=en_US&shipping_location=US",
+      "badges": [
+        "Amazon's Choice"
+      ],
+      "variants": [
+        {
+          "title": "Color",
+          "items": [
+            {
+              "position": 1,
+              "asin": "B0D7TLJQYF",
+              "name": "White Black",
+              "image": "https://m.media-amazon.com/images/I/51KiqTIfsPL._SS64_.jpg",
+              "selected": true,
+              "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0D7TLJQYF&device=tablet&engine=amazon_product&language=en_US&shipping_location=US"
+            },
+            {
+              "position": 2,
+              "asin": "B0F2HSK5KL",
+              "name": "Beige",
+              "image": "https://m.media-amazon.com/images/I/51oeHarndML._SS64_.jpg",
+              "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0F2HSK5KL&device=tablet&engine=amazon_product&language=en_US&shipping_location=US"
+            },
+            {
+              "position": 3,
+              "asin": "B0FB3GS8HW",
+              "name": "Black",
+              "image": "https://m.media-amazon.com/images/I/61AEkYiW-yL._SS64_.jpg",
+              "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0FB3GS8HW&device=tablet&engine=amazon_product&language=en_US&shipping_location=US"
+            },
+            {
+              "position": 4,
+              "asin": "B0FBWM9RZP",
+              "name": "Blue",
+              "image": "https://m.media-amazon.com/images/I/51ef83oU7KL._SS64_.jpg",
+              "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0FBWM9RZP&device=tablet&engine=amazon_product&language=en_US&shipping_location=US"
+            },
+            {
+              "position": 5,
+              "asin": "B0D9B6N56T",
+              "name": "Orange",
+              "image": "https://m.media-amazon.com/images/I/51pdrzXq76L._SS64_.jpg",
+              "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0D9B6N56T&device=tablet&engine=amazon_product&language=en_US&shipping_location=US"
+            },
+            {
+              "position": 6,
+              "asin": "B0D9B7MM44",
+              "name": "Pink",
+              "image": "https://m.media-amazon.com/images/I/51Qf+RTjbRL._SS64_.jpg",
+              "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0D9B7MM44&device=tablet&engine=amazon_product&language=en_US&shipping_location=US"
+            },
+            {
+              "position": 7,
+              "asin": "B0F9WSKL53",
+              "name": "White Black Ghost",
+              "image": "https://m.media-amazon.com/images/I/51vy3fcHvfL._SS64_.jpg",
+              "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0F9WSKL53&device=tablet&engine=amazon_product&language=en_US&shipping_location=US"
+            },
+            {
+              "position": 8,
+              "asin": "B0F9WW4R33",
+              "name": "Orange Black Ghost",
+              "image": "https://m.media-amazon.com/images/I/61vCaMDpAQL._SS64_.jpg",
+              "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0F9WW4R33&device=tablet&engine=amazon_product&language=en_US&shipping_location=US"
+            },
+            {
+              "position": 9,
+              "asin": "B0F9WV157D",
+              "name": "Purple",
+              "image": "https://m.media-amazon.com/images/I/61jgBNJG73L._SS64_.jpg",
+              "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0F9WV157D&device=tablet&engine=amazon_product&language=en_US&shipping_location=US"
+            },
+            {
+              "position": 10,
+              "asin": "B0FBW89WB5",
+              "name": "Yellow",
+              "image": "https://m.media-amazon.com/images/I/51rn7ZUwyML._SS64_.jpg",
+              "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0FBW89WB5&device=tablet&engine=amazon_product&language=en_US&shipping_location=US"
+            },
+            {
+              "position": 11,
+              "asin": "B0FBWTNY3J",
+              "name": "Green",
+              "image": "https://m.media-amazon.com/images/I/51l3qntGcCL._SS64_.jpg",
+              "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0FBWTNY3J&device=tablet&engine=amazon_product&language=en_US&shipping_location=US"
+            },
+            {
+              "position": 12,
+              "asin": "B0F9WVBSY9",
+              "name": "White Ghost",
+              "image": "https://m.media-amazon.com/images/I/519ZzB29icL._SS64_.jpg",
+              "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0F9WVBSY9&device=tablet&engine=amazon_product&language=en_US&shipping_location=US"
+            }
+          ]
+        },
+        {
+          "title": "Size",
+          "items": [
+            {
+              "position": 1,
+              "asin": "B0D7TLRWSV",
+              "name": "16\" x 16\" (Pack of 2)",
+              "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0D7TLRWSV&device=tablet&engine=amazon_product&language=en_US&shipping_location=US"
+            },
+            {
+              "position": 2,
+              "asin": "B0D7TLJQYF",
+              "name": "18\" x 18\" (Pack of 2)",
+              "selected": true,
+              "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0D7TLJQYF&device=tablet&engine=amazon_product&language=en_US&shipping_location=US"
+            },
+            {
+              "position": 3,
+              "asin": "B0D7TKLS8W",
+              "name": "20\" x 12\" (Pack of 2)",
+              "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0D7TKLS8W&device=tablet&engine=amazon_product&language=en_US&shipping_location=US"
+            },
+            {
+              "position": 4,
+              "asin": "B0D7TLSSQP",
+              "name": "20\" x 20\" (Pack of 2)",
+              "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0D7TLSSQP&device=tablet&engine=amazon_product&language=en_US&shipping_location=US"
+            },
+            {
+              "position": 5,
+              "asin": "B0F2HT6MJ5",
+              "name": "22\" x 22\" (Pack of 2)",
+              "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0F2HT6MJ5&device=tablet&engine=amazon_product&language=en_US&shipping_location=US"
+            },
+            {
+              "position": 6,
+              "asin": "B0F2HR7C5X",
+              "name": "24\" x 24\" (Pack of 2)",
+              "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0F2HR7C5X&device=tablet&engine=amazon_product&language=en_US&shipping_location=US"
+            },
+            {
+              "position": 7,
+              "asin": "B0F2HTRTMY",
+              "name": "26\" x 26\" (Pack of 2)",
+              "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0F2HTRTMY&device=tablet&engine=amazon_product&language=en_US&shipping_location=US"
+            }
+          ]
+        }
+      ],
+      "variant_combinations": [
+        {
+          "dimensions": {
+            "color": "Beige",
+            "size": "16\" x 16\" (Pack of 2)"
+          },
+          "asin": "B0F2HRV75Y",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0F2HRV75Y&device=tablet&engine=amazon_product&language=en_US&shipping_location=US"
+        },
+        {
+          "dimensions": {
+            "color": "Beige",
+            "size": "18\" x 18\" (Pack of 2)"
+          },
+          "asin": "B0F2HSK5KL",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0F2HSK5KL&device=tablet&engine=amazon_product&language=en_US&shipping_location=US"
+        },
+        {
+          "dimensions": {
+            "color": "Beige",
+            "size": "20\" x 12\" (Pack of 2)"
+          },
+          "asin": "B0F2HRQVWM",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0F2HRQVWM&device=tablet&engine=amazon_product&language=en_US&shipping_location=US"
+        },
+        {
+          "dimensions": {
+            "color": "Beige",
+            "size": "20\" x 20\" (Pack of 2)"
+          },
+          "asin": "B0F2HRL34C",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0F2HRL34C&device=tablet&engine=amazon_product&language=en_US&shipping_location=US"
+        },
+        {
+          "dimensions": {
+            "color": "Beige",
+            "size": "22\" x 22\" (Pack of 2)"
+          },
+          "unavailable": true
+        },
+        {
+          "dimensions": {
+            "color": "Beige",
+            "size": "24\" x 24\" (Pack of 2)"
+          },
+          "unavailable": true
+        },
+        {
+          "dimensions": {
+            "color": "Beige",
+            "size": "26\" x 26\" (Pack of 2)"
+          },
+          "unavailable": true
+        },
+        {
+          "dimensions": {
+            "color": "Black",
+            "size": "16\" x 16\" (Pack of 2)"
+          },
+          "asin": "B0FB3GF961",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0FB3GF961&device=tablet&engine=amazon_product&language=en_US&shipping_location=US"
+        },
+        {
+          "dimensions": {
+            "color": "Black",
+            "size": "18\" x 18\" (Pack of 2)"
+          },
+          "asin": "B0FB3GS8HW",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0FB3GS8HW&device=tablet&engine=amazon_product&language=en_US&shipping_location=US"
+        },
+        {
+          "dimensions": {
+            "color": "Black",
+            "size": "20\" x 12\" (Pack of 2)"
+          },
+          "asin": "B0FB3GS6KZ",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0FB3GS6KZ&device=tablet&engine=amazon_product&language=en_US&shipping_location=US"
+        },
+        {
+          "dimensions": {
+            "color": "Black",
+            "size": "20\" x 20\" (Pack of 2)"
+          },
+          "asin": "B0FB3G8FD4",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0FB3G8FD4&device=tablet&engine=amazon_product&language=en_US&shipping_location=US"
+        },
+        {
+          "dimensions": {
+            "color": "Black",
+            "size": "22\" x 22\" (Pack of 2)"
+          },
+          "unavailable": true
+        },
+        {
+          "dimensions": {
+            "color": "Black",
+            "size": "24\" x 24\" (Pack of 2)"
+          },
+          "unavailable": true
+        },
+        {
+          "dimensions": {
+            "color": "Black",
+            "size": "26\" x 26\" (Pack of 2)"
+          },
+          "unavailable": true
+        },
+        {
+          "dimensions": {
+            "color": "Blue",
+            "size": "16\" x 16\" (Pack of 2)"
+          },
+          "asin": "B0FBW76CML",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0FBW76CML&device=tablet&engine=amazon_product&language=en_US&shipping_location=US"
+        },
+        {
+          "dimensions": {
+            "color": "Blue",
+            "size": "18\" x 18\" (Pack of 2)"
+          },
+          "asin": "B0FBWM9RZP",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0FBWM9RZP&device=tablet&engine=amazon_product&language=en_US&shipping_location=US"
+        },
+        {
+          "dimensions": {
+            "color": "Blue",
+            "size": "20\" x 12\" (Pack of 2)"
+          },
+          "unavailable": true
+        },
+        {
+          "dimensions": {
+            "color": "Blue",
+            "size": "20\" x 20\" (Pack of 2)"
+          },
+          "asin": "B0FBWQMPJM",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0FBWQMPJM&device=tablet&engine=amazon_product&language=en_US&shipping_location=US"
+        },
+        {
+          "dimensions": {
+            "color": "Blue",
+            "size": "22\" x 22\" (Pack of 2)"
+          },
+          "unavailable": true
+        },
+        {
+          "dimensions": {
+            "color": "Blue",
+            "size": "24\" x 24\" (Pack of 2)"
+          },
+          "unavailable": true
+        },
+        {
+          "dimensions": {
+            "color": "Blue",
+            "size": "26\" x 26\" (Pack of 2)"
+          },
+          "unavailable": true
+        },
+        {
+          "dimensions": {
+            "color": "Green",
+            "size": "16\" x 16\" (Pack of 2)"
+          },
+          "asin": "B0FBWTNY3J",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0FBWTNY3J&device=tablet&engine=amazon_product&language=en_US&shipping_location=US"
+        },
+        {
+          "dimensions": {
+            "color": "Green",
+            "size": "18\" x 18\" (Pack of 2)"
+          },
+          "unavailable": true
+        },
+        {
+          "dimensions": {
+            "color": "Green",
+            "size": "20\" x 12\" (Pack of 2)"
+          },
+          "unavailable": true
+        },
+        {
+          "dimensions": {
+            "color": "Green",
+            "size": "20\" x 20\" (Pack of 2)"
+          },
+          "unavailable": true
+        },
+        {
+          "dimensions": {
+            "color": "Green",
+            "size": "22\" x 22\" (Pack of 2)"
+          },
+          "unavailable": true
+        },
+        {
+          "dimensions": {
+            "color": "Green",
+            "size": "24\" x 24\" (Pack of 2)"
+          },
+          "unavailable": true
+        },
+        {
+          "dimensions": {
+            "color": "Green",
+            "size": "26\" x 26\" (Pack of 2)"
+          },
+          "unavailable": true
+        },
+        {
+          "dimensions": {
+            "color": "Orange",
+            "size": "16\" x 16\" (Pack of 2)"
+          },
+          "asin": "B0D9B734T4",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0D9B734T4&device=tablet&engine=amazon_product&language=en_US&shipping_location=US"
+        },
+        {
+          "dimensions": {
+            "color": "Orange",
+            "size": "18\" x 18\" (Pack of 2)"
+          },
+          "asin": "B0D9B6N56T",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0D9B6N56T&device=tablet&engine=amazon_product&language=en_US&shipping_location=US"
+        },
+        {
+          "dimensions": {
+            "color": "Orange",
+            "size": "20\" x 12\" (Pack of 2)"
+          },
+          "asin": "B0D9B7BPCJ",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0D9B7BPCJ&device=tablet&engine=amazon_product&language=en_US&shipping_location=US"
+        },
+        {
+          "dimensions": {
+            "color": "Orange",
+            "size": "20\" x 20\" (Pack of 2)"
+          },
+          "asin": "B0D9B7SVXL",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0D9B7SVXL&device=tablet&engine=amazon_product&language=en_US&shipping_location=US"
+        },
+        {
+          "dimensions": {
+            "color": "Orange",
+            "size": "22\" x 22\" (Pack of 2)"
+          },
+          "unavailable": true
+        },
+        {
+          "dimensions": {
+            "color": "Orange",
+            "size": "24\" x 24\" (Pack of 2)"
+          },
+          "unavailable": true
+        },
+        {
+          "dimensions": {
+            "color": "Orange",
+            "size": "26\" x 26\" (Pack of 2)"
+          },
+          "unavailable": true
+        },
+        {
+          "dimensions": {
+            "color": "Orange Black Ghost",
+            "size": "16\" x 16\" (Pack of 2)"
+          },
+          "asin": "B0F9WRKWWG",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0F9WRKWWG&device=tablet&engine=amazon_product&language=en_US&shipping_location=US"
+        },
+        {
+          "dimensions": {
+            "color": "Orange Black Ghost",
+            "size": "18\" x 18\" (Pack of 2)"
+          },
+          "asin": "B0F9WW4R33",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0F9WW4R33&device=tablet&engine=amazon_product&language=en_US&shipping_location=US"
+        },
+        {
+          "dimensions": {
+            "color": "Orange Black Ghost",
+            "size": "20\" x 12\" (Pack of 2)"
+          },
+          "unavailable": true
+        },
+        {
+          "dimensions": {
+            "color": "Orange Black Ghost",
+            "size": "20\" x 20\" (Pack of 2)"
+          },
+          "asin": "B0F9WWJB2T",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0F9WWJB2T&device=tablet&engine=amazon_product&language=en_US&shipping_location=US"
+        },
+        {
+          "dimensions": {
+            "color": "Orange Black Ghost",
+            "size": "22\" x 22\" (Pack of 2)"
+          },
+          "unavailable": true
+        },
+        {
+          "dimensions": {
+            "color": "Orange Black Ghost",
+            "size": "24\" x 24\" (Pack of 2)"
+          },
+          "unavailable": true
+        },
+        {
+          "dimensions": {
+            "color": "Orange Black Ghost",
+            "size": "26\" x 26\" (Pack of 2)"
+          },
+          "unavailable": true
+        },
+        {
+          "dimensions": {
+            "color": "Pink",
+            "size": "16\" x 16\" (Pack of 2)"
+          },
+          "asin": "B0D9B71T15",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0D9B71T15&device=tablet&engine=amazon_product&language=en_US&shipping_location=US"
+        },
+        {
+          "dimensions": {
+            "color": "Pink",
+            "size": "18\" x 18\" (Pack of 2)"
+          },
+          "asin": "B0D9B7MM44",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0D9B7MM44&device=tablet&engine=amazon_product&language=en_US&shipping_location=US"
+        },
+        {
+          "dimensions": {
+            "color": "Pink",
+            "size": "20\" x 12\" (Pack of 2)"
+          },
+          "asin": "B0D9B7MFBC",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0D9B7MFBC&device=tablet&engine=amazon_product&language=en_US&shipping_location=US"
+        },
+        {
+          "dimensions": {
+            "color": "Pink",
+            "size": "20\" x 20\" (Pack of 2)"
+          },
+          "asin": "B0D9B6MNVP",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0D9B6MNVP&device=tablet&engine=amazon_product&language=en_US&shipping_location=US"
+        },
+        {
+          "dimensions": {
+            "color": "Pink",
+            "size": "22\" x 22\" (Pack of 2)"
+          },
+          "unavailable": true
+        },
+        {
+          "dimensions": {
+            "color": "Pink",
+            "size": "24\" x 24\" (Pack of 2)"
+          },
+          "unavailable": true
+        },
+        {
+          "dimensions": {
+            "color": "Pink",
+            "size": "26\" x 26\" (Pack of 2)"
+          },
+          "unavailable": true
+        },
+        {
+          "dimensions": {
+            "color": "Purple",
+            "size": "16\" x 16\" (Pack of 2)"
+          },
+          "unavailable": true
+        },
+        {
+          "dimensions": {
+            "color": "Purple",
+            "size": "18\" x 18\" (Pack of 2)"
+          },
+          "asin": "B0F9WV157D",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0F9WV157D&device=tablet&engine=amazon_product&language=en_US&shipping_location=US"
+        },
+        {
+          "dimensions": {
+            "color": "Purple",
+            "size": "20\" x 12\" (Pack of 2)"
+          },
+          "unavailable": true
+        },
+        {
+          "dimensions": {
+            "color": "Purple",
+            "size": "20\" x 20\" (Pack of 2)"
+          },
+          "asin": "B0F9WT8WRJ",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0F9WT8WRJ&device=tablet&engine=amazon_product&language=en_US&shipping_location=US"
+        },
+        {
+          "dimensions": {
+            "color": "Purple",
+            "size": "22\" x 22\" (Pack of 2)"
+          },
+          "unavailable": true
+        },
+        {
+          "dimensions": {
+            "color": "Purple",
+            "size": "24\" x 24\" (Pack of 2)"
+          },
+          "unavailable": true
+        },
+        {
+          "dimensions": {
+            "color": "Purple",
+            "size": "26\" x 26\" (Pack of 2)"
+          },
+          "unavailable": true
+        },
+        {
+          "dimensions": {
+            "color": "White Black",
+            "size": "16\" x 16\" (Pack of 2)"
+          },
+          "asin": "B0D7TLRWSV",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0D7TLRWSV&device=tablet&engine=amazon_product&language=en_US&shipping_location=US"
+        },
+        {
+          "dimensions": {
+            "color": "White Black",
+            "size": "18\" x 18\" (Pack of 2)"
+          },
+          "asin": "B0D7TLJQYF",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0D7TLJQYF&device=tablet&engine=amazon_product&language=en_US&shipping_location=US"
+        },
+        {
+          "dimensions": {
+            "color": "White Black",
+            "size": "20\" x 12\" (Pack of 2)"
+          },
+          "asin": "B0D7TKLS8W",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0D7TKLS8W&device=tablet&engine=amazon_product&language=en_US&shipping_location=US"
+        },
+        {
+          "dimensions": {
+            "color": "White Black",
+            "size": "20\" x 20\" (Pack of 2)"
+          },
+          "asin": "B0D7TLSSQP",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0D7TLSSQP&device=tablet&engine=amazon_product&language=en_US&shipping_location=US"
+        },
+        {
+          "dimensions": {
+            "color": "White Black",
+            "size": "22\" x 22\" (Pack of 2)"
+          },
+          "asin": "B0F2HT6MJ5",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0F2HT6MJ5&device=tablet&engine=amazon_product&language=en_US&shipping_location=US"
+        },
+        {
+          "dimensions": {
+            "color": "White Black",
+            "size": "24\" x 24\" (Pack of 2)"
+          },
+          "asin": "B0F2HR7C5X",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0F2HR7C5X&device=tablet&engine=amazon_product&language=en_US&shipping_location=US"
+        },
+        {
+          "dimensions": {
+            "color": "White Black",
+            "size": "26\" x 26\" (Pack of 2)"
+          },
+          "asin": "B0F2HTRTMY",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0F2HTRTMY&device=tablet&engine=amazon_product&language=en_US&shipping_location=US"
+        },
+        {
+          "dimensions": {
+            "color": "White Black Ghost",
+            "size": "16\" x 16\" (Pack of 2)"
+          },
+          "asin": "B0F9WWMSFQ",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0F9WWMSFQ&device=tablet&engine=amazon_product&language=en_US&shipping_location=US"
+        },
+        {
+          "dimensions": {
+            "color": "White Black Ghost",
+            "size": "18\" x 18\" (Pack of 2)"
+          },
+          "asin": "B0F9WSKL53",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0F9WSKL53&device=tablet&engine=amazon_product&language=en_US&shipping_location=US"
+        },
+        {
+          "dimensions": {
+            "color": "White Black Ghost",
+            "size": "20\" x 12\" (Pack of 2)"
+          },
+          "unavailable": true
+        },
+        {
+          "dimensions": {
+            "color": "White Black Ghost",
+            "size": "20\" x 20\" (Pack of 2)"
+          },
+          "asin": "B0F9WT2HZX",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0F9WT2HZX&device=tablet&engine=amazon_product&language=en_US&shipping_location=US"
+        },
+        {
+          "dimensions": {
+            "color": "White Black Ghost",
+            "size": "22\" x 22\" (Pack of 2)"
+          },
+          "unavailable": true
+        },
+        {
+          "dimensions": {
+            "color": "White Black Ghost",
+            "size": "24\" x 24\" (Pack of 2)"
+          },
+          "unavailable": true
+        },
+        {
+          "dimensions": {
+            "color": "White Black Ghost",
+            "size": "26\" x 26\" (Pack of 2)"
+          },
+          "unavailable": true
+        },
+        {
+          "dimensions": {
+            "color": "White Ghost",
+            "size": "16\" x 16\" (Pack of 2)"
+          },
+          "unavailable": true
+        },
+        {
+          "dimensions": {
+            "color": "White Ghost",
+            "size": "18\" x 18\" (Pack of 2)"
+          },
+          "unavailable": true
+        },
+        {
+          "dimensions": {
+            "color": "White Ghost",
+            "size": "20\" x 12\" (Pack of 2)"
+          },
+          "unavailable": true
+        },
+        {
+          "dimensions": {
+            "color": "White Ghost",
+            "size": "20\" x 20\" (Pack of 2)"
+          },
+          "asin": "B0F9WVBSY9",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0F9WVBSY9&device=tablet&engine=amazon_product&language=en_US&shipping_location=US"
+        },
+        {
+          "dimensions": {
+            "color": "White Ghost",
+            "size": "22\" x 22\" (Pack of 2)"
+          },
+          "unavailable": true
+        },
+        {
+          "dimensions": {
+            "color": "White Ghost",
+            "size": "24\" x 24\" (Pack of 2)"
+          },
+          "unavailable": true
+        },
+        {
+          "dimensions": {
+            "color": "White Ghost",
+            "size": "26\" x 26\" (Pack of 2)"
+          },
+          "unavailable": true
+        },
+        {
+          "dimensions": {
+            "color": "Yellow",
+            "size": "16\" x 16\" (Pack of 2)"
+          },
+          "unavailable": true
+        },
+        {
+          "dimensions": {
+            "color": "Yellow",
+            "size": "18\" x 18\" (Pack of 2)"
+          },
+          "asin": "B0FBW89WB5",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0FBW89WB5&device=tablet&engine=amazon_product&language=en_US&shipping_location=US"
+        },
+        {
+          "dimensions": {
+            "color": "Yellow",
+            "size": "20\" x 12\" (Pack of 2)"
+          },
+          "unavailable": true
+        },
+        {
+          "dimensions": {
+            "color": "Yellow",
+            "size": "20\" x 20\" (Pack of 2)"
+          },
+          "asin": "B0FBWDW2HC",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0FBWDW2HC&device=tablet&engine=amazon_product&language=en_US&shipping_location=US"
+        },
+        {
+          "dimensions": {
+            "color": "Yellow",
+            "size": "22\" x 22\" (Pack of 2)"
+          },
+          "unavailable": true
+        },
+        {
+          "dimensions": {
+            "color": "Yellow",
+            "size": "24\" x 24\" (Pack of 2)"
+          },
+          "unavailable": true
+        },
+        {
+          "dimensions": {
+            "color": "Yellow",
+            "size": "26\" x 26\" (Pack of 2)"
+          },
+          "unavailable": true
+        }
+      ],
+      "brand": "Visit the DFXSZ Store",
+      "thumbnail": "https://m.media-amazon.com/images/I/71BS1zi0l9L._AC_SY300_SX300_QL70_FMwebp_.jpg",
+      "thumbnails": [
+        "https://m.media-amazon.com/images/I/71BS1zi0l9L._AC_SL1280_.jpg",
+        "https://m.media-amazon.com/images/I/81q17nCmBEL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81r9nubVH1L._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81un3MFe2yL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71TgV6CraaL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81cl0qZgiTL._AC_SL1500_.jpg"
+      ],
+      "rating": 4.8,
+      "reviews": 1249,
+      "bought_last_month": "6K+ bought in past month",
+      "price": "$9.99",
+      "extracted_price": 9.99,
+      "price_unit": "$5.00 / count",
+      "extracted_price_unit": 5.0,
+      "delivery": [
+        "FREE delivery Tuesday, October 27 on orders shipped by Amazon over $35. Order within 12 hrs 48 mins",
+        "Arrives 4 days before Halloween"
+      ],
+      "stock": "In Stock"
+    },
+    "purchase_options": {
+      "single_offer": {
+        "price": "$9.99",
+        "extracted_price": 9.99,
+        "price_unit": "$5.00 / count",
+        "extracted_price_unit": 5.0,
+        "delivery": [
+          "FREE delivery Tuesday, October 27 on orders shipped by Amazon over $35. Order within 12 hrs 48 mins",
+          "Arrives 4 days before Halloween"
+        ],
+        "stock": "In Stock",
+        "features": {
+          "ships_from": {
+            "text": "Amazon",
+            "details": {
+              "heading": "Ships from",
+              "content": "Amazon"
+            }
+          },
+          "sold_by": {
+            "text": "DFXSZ-US",
+            "details": {
+              "heading": "Sold by",
+              "content": "DFXSZ-US"
+            },
+            "link": {
+              "text": "DFXSZ-US",
+              "link": "https://www.amazon.com/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2WRYNLXCSD3HA&asin=B0D7TLJQYF&ref_=dp_merchant_link&isAmazonFulfilled=1"
+            }
+          },
+          "returns": {
+            "text": "FREE 30-day refund/replacement",
+            "details": {
+              "heading": "FREE 30-day refund/replacement"
+            },
+            "link": {
+              "text": "See exceptions",
+              "link": "https://www.amazon.com/gp/help/customer/display.html/?nodeId=GKQNFKFK5CF3C54B"
+            }
+          },
+          "packaging": {
+            "text": "Ships in product packaging",
+            "details": {
+              "heading": "Ships in product packaging",
+              "content": "This item has been tested to certify it can ship safely in its original box or bag to avoid unnecessary packaging. Since 2015, we have reduced the weight of outbound packaging per shipment by 41% on average, that’s over 2 million tons of packaging material.If you still require Amazon packaging for this item, choose \"Ship in Amazon packaging\" at checkout. Learn more"
+            },
+            "link": {
+              "text": "Learn more",
+              "link": "https://www.amazon.com/sipp_home"
+            }
+          }
+        }
+      }
+    },
+    "item_specifications": {
+      "pattern": "Plain",
+      "material": "Polyester",
+      "color": "White Black",
+      "product_dimensions": "18\"L x 18\"W",
+      "style": "Modern"
+    },
+    "about_item": [
+      "Polyester",
+      "Good Quality, Polyester,Soft plush fabric with natural solid color.skin-friendly, no fading or abrasion.",
+      "Size & Package Includes: 18x18 inch, Set of 2 pillow covers, PILLOW COVERS ONLY, NO PILLOW CORE.NOTE: Due to hand-made and sewing, please allow a deviation of 0.5-1 inch.",
+      "Hidden Zipper & Application:We use a high-quality hidden zipper to enhance the elegant appearance and the color of the zipper matches the fabric.This is a perfect item for home living rooms, bedding, kitchen, car, patio,chair, sofa,bedrooms, offices autumn decor,It is a cute gift for your family and friends.",
+      "EASY TO PUT ON: Fold the full pillow core in half and stuff it into the pillowcase, then flatten the four corners and zip it up. Super easy.",
+      "WASHING TIPS: Machine wash in cold water separately, gently cycle only, do not bleach.Suggest hand washing or dry cleaning"
+    ],
+    "bought_together": [
+      {
+        "position": 1,
+        "title": "DFXSZ Halloween Pillow Covers 18x18 inch 2Pcs White Ghost Halloween Decor | Halloween Decorations Set of 2 Throw Pillow Cases Plush Faux Fur Wool Cushion for Chair Sofa Bedroom Living Room Home Decor",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/71BS1zi0l9L._AC_UL116_SR116,116_.jpg",
+        "price": "$9.99",
+        "extracted_price": 9.99,
+        "price_unit": "$5.00/count",
+        "extracted_price_unit": 5.0,
+        "delivery": [
+          "Get it as soon as Tuesday, Oct 27"
+        ],
+        "stock": "In Stock"
+      },
+      {
+        "position": 2,
+        "title": "DFXSZ Fall Pillow Covers 18x18 2Pcs Rust Pumpkin Fall Decorations for Home | Fall decor Set of 2 Throw Pillow Cases Soft Plush Faux Fur Wool Couch Cushion for Chair Sofa Bedroom Living Room Home Decor",
+        "link": "https://www.amazon.com/DFXSZ-Decorations-Pumpkin-Cushion-PTK02A18/dp/B0D5YS5FTM/ref=pd_bxgy_thbs_d_sccl_1/142-2371767-9786337?pd_rd_w=yRIeE&content-id=amzn1.sym.1fbb380b-ee1d-4eeb-a44a-61f4d3013ea6&pf_rd_p=1fbb380b-ee1d-4eeb-a44a-61f4d3013ea6&pf_rd_r=235WG4C8PM2PKD7B2DDF&pd_rd_wg=66V70&pd_rd_r=8c122ee3-c408-41e2-aae3-96107857bcda&pd_rd_i=B0D5YS5FTM&psc=1",
+        "asin": "B0D5YS5FTM",
+        "link_clean": "https://www.amazon.com/DFXSZ-Decorations-Pumpkin-Cushion-PTK02A18/dp/B0D5YS5FTM/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0D5YS5FTM&device=tablet&engine=amazon_product&language=en_US&shipping_location=US",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/81v0g1VmfoL._AC_UL116_SR116,116_.jpg",
+        "price": "$9.99",
+        "extracted_price": 9.99,
+        "price_unit": "$5.00/count",
+        "extracted_price_unit": 5.0,
+        "delivery": [
+          "Get it as soon as Tuesday, Oct 27"
+        ],
+        "stock": "In Stock"
+      },
+      {
+        "position": 3,
+        "title": "Halloween Pillow Covers 18x18 inch 2Pcs black Bat Halloween Decor | Soft Plush Faux Fur Halloween Pillow Covers Halloween Decorations for Chair Sofa Bedroom Living Room Home Thanksgiving Decor",
+        "link": "https://www.amazon.com/Halloween-18x18-Decorations-Bedroom-Thanksgiving/dp/B0H67D76D4/ref=pd_bxgy_thbs_d_sccl_2/142-2371767-9786337?pd_rd_w=yRIeE&content-id=amzn1.sym.1fbb380b-ee1d-4eeb-a44a-61f4d3013ea6&pf_rd_p=1fbb380b-ee1d-4eeb-a44a-61f4d3013ea6&pf_rd_r=235WG4C8PM2PKD7B2DDF&pd_rd_wg=66V70&pd_rd_r=8c122ee3-c408-41e2-aae3-96107857bcda&pd_rd_i=B0H67D76D4&psc=1",
+        "asin": "B0H67D76D4",
+        "link_clean": "https://www.amazon.com/Halloween-18x18-Decorations-Bedroom-Thanksgiving/dp/B0H67D76D4/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0H67D76D4&device=tablet&engine=amazon_product&language=en_US&shipping_location=US",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/81b1IQy7cbL._AC_UL116_SR116,116_.jpg",
+        "price": "$9.99",
+        "extracted_price": 9.99,
+        "price_unit": "$5.00/count",
+        "extracted_price_unit": 5.0,
+        "delivery": [
+          "Get it as soon as Tuesday, Oct 27"
+        ],
+        "stock": "In Stock"
+      }
+    ],
+    "related_products": [
+      {
+        "position": 1,
+        "asin": "B07JHC42TS",
+        "title": "Oubonun 18\"x18\" Pillow Inserts (Set of 2) - Throw Pillow Inserts with 100% Cotton Cover - 18 Inch Square Interior Sofa Pillow Inserts - Decorative Pillow Insert Pair - White Couch Pillow",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo1NTUyMTYxNjc3ODM5NTIwOjE3OTI2ODU1MTE6c3BfZGV0YWlsX3RoZW1hdGljOjMwMDY4MjQ5NzQ4OTYwMjo6Ojo&url=%2Fdp%2FB07JHC42TS%2Fref%3Dsspa_dk_detail_0%3Fpsc%3D1%26pd_rd_i%3DB07JHC42TS%26pd_rd_w%3DfI7Lw%26content-id%3Damzn1.sym.3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_p%3D3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_r%3D235WG4C8PM2PKD7B2DDF%26pd_rd_wg%3D66V70%26pd_rd_r%3D8c122ee3-c408-41e2-aae3-96107857bcda%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM",
+        "link_clean": "https://www.amazon.com/dp/B07JHC42TS/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B07JHC42TS&device=tablet&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "badges": [
+          "Limited Prime deal"
+        ],
+        "thumbnail": "https://m.media-amazon.com/images/I/51NWSJD4BML._AC_UF480,480_SR480,480_.jpg",
+        "rating": 4.7,
+        "reviews": 17296,
+        "discount": "-26%",
+        "price": "$22.94",
+        "extracted_price": 22.94,
+        "price_unit": "$11.47 / count",
+        "extracted_price_unit": 11.47,
+        "old_price": "null",
+        "climate_pledge_friendly": true
+      },
+      {
+        "position": 2,
+        "asin": "B0F6XWQ512",
+        "title": "Halloween Pillow Covers 16x16 Inch Set of 2 Embroidery Ghost Throw Pillow Covers In...",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo1NTUyMTYxNjc3ODM5NTIwOjE3OTI2ODU1MTE6c3BfZGV0YWlsX3RoZW1hdGljOjMwMTUwNDkzMDIwNTkwMjo6Ojo&url=%2Fdp%2FB0F6XWQ512%2Fref%3Dsspa_dk_detail_1%3Fpsc%3D1%26pd_rd_i%3DB0F6XWQ512%26pd_rd_w%3DfI7Lw%26content-id%3Damzn1.sym.3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_p%3D3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_r%3D235WG4C8PM2PKD7B2DDF%26pd_rd_wg%3D66V70%26pd_rd_r%3D8c122ee3-c408-41e2-aae3-96107857bcda%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM",
+        "link_clean": "https://www.amazon.com/dp/B0F6XWQ512/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0F6XWQ512&device=tablet&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "badges": [
+          "Limited time deal"
+        ],
+        "thumbnail": "https://m.media-amazon.com/images/I/71klAAwCl8L._AC_UF480,480_SR480,480_.jpg",
+        "rating": 4.9,
+        "reviews": 50,
+        "discount": "-50%",
+        "price": "$9.49",
+        "extracted_price": 9.49,
+        "price_unit": "$4.75 / count",
+        "extracted_price_unit": 4.75,
+        "old_price": "null"
+      },
+      {
+        "position": 3,
+        "asin": "B0CCKKS849",
+        "title": "Halloween Pillow Covers 18x18 inch Set of 2 Black Crows Branch Decorative Farmhouse...",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo1NTUyMTYxNjc3ODM5NTIwOjE3OTI2ODU1MTE6c3BfZGV0YWlsX3RoZW1hdGljOjMwMDM3MTM0NDc2NzEwMjo6Ojo&url=%2Fdp%2FB0CCKKS849%2Fref%3Dsspa_dk_detail_2%3Fpsc%3D1%26pd_rd_i%3DB0CCKKS849%26pd_rd_w%3DfI7Lw%26content-id%3Damzn1.sym.3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_p%3D3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_r%3D235WG4C8PM2PKD7B2DDF%26pd_rd_wg%3D66V70%26pd_rd_r%3D8c122ee3-c408-41e2-aae3-96107857bcda%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM",
+        "link_clean": "https://www.amazon.com/dp/B0CCKKS849/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0CCKKS849&device=tablet&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "badges": [
+          "Limited time deal"
+        ],
+        "thumbnail": "https://m.media-amazon.com/images/I/81zfYoTMLyL._AC_UF480,480_SR480,480_.jpg",
+        "rating": 4.5,
+        "reviews": 127,
+        "discount": "-50%",
+        "price": "$7.49",
+        "extracted_price": 7.49,
+        "price_unit": "$3.75 / count",
+        "extracted_price_unit": 3.75,
+        "old_price": "null"
+      },
+      {
+        "position": 4,
+        "asin": "B0F72LLCPZ",
+        "title": "MIULEE White Halloween Pillow Covers Cute Ghost Decor Set of 2 18x18 | Soft Plush Faux Fur, Spooky Decor, Fall Decorative Throw Pillows for Couch Sofa Bed Porch Living Room",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo1NTUyMTYxNjc3ODM5NTIwOjE3OTI2ODU1MTE6c3BfZGV0YWlsX3RoZW1hdGljOjMwMDg1NTg2NDk5MzUwMjo6Ojo&url=%2Fdp%2FB0F72LLCPZ%2Fref%3Dsspa_dk_detail_3%3Fpsc%3D1%26pd_rd_i%3DB0F72LLCPZ%26pd_rd_w%3DfI7Lw%26content-id%3Damzn1.sym.3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_p%3D3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_r%3D235WG4C8PM2PKD7B2DDF%26pd_rd_wg%3D66V70%26pd_rd_r%3D8c122ee3-c408-41e2-aae3-96107857bcda%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM",
+        "link_clean": "https://www.amazon.com/dp/B0F72LLCPZ/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0F72LLCPZ&device=tablet&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "badges": [
+          "Amazon's Choice",
+          "Limited time deal"
+        ],
+        "thumbnail": "https://m.media-amazon.com/images/I/81X-okmCKRL._AC_UF480,480_SR480,480_.jpg",
+        "rating": 4.7,
+        "reviews": 757,
+        "discount": "-68%",
+        "price": "$8.99",
+        "extracted_price": 8.99,
+        "price_unit": "$4.50 / count",
+        "extracted_price_unit": 4.5,
+        "old_price": "null",
+        "climate_pledge_friendly": true
+      },
+      {
+        "position": 5,
+        "asin": "B0F8QWNWHQ",
+        "title": "Halloween Pillow Covers 18x18 4Pcs Double-Sided for Home Decor | Soft Linen Fabric,...",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo1NTUyMTYxNjc3ODM5NTIwOjE3OTI2ODU1MTE6c3BfZGV0YWlsX3RoZW1hdGljOjMwMDg0NjA1MjQ2ODcwMjo6Ojo&url=%2Fdp%2FB0F8QWNWHQ%2Fref%3Dsspa_dk_detail_4%3Fpsc%3D1%26pd_rd_i%3DB0F8QWNWHQ%26pd_rd_w%3DfI7Lw%26content-id%3Damzn1.sym.3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_p%3D3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_r%3D235WG4C8PM2PKD7B2DDF%26pd_rd_wg%3D66V70%26pd_rd_r%3D8c122ee3-c408-41e2-aae3-96107857bcda%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM",
+        "link_clean": "https://www.amazon.com/dp/B0F8QWNWHQ/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0F8QWNWHQ&device=tablet&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "badges": [
+          "Limited time deal"
+        ],
+        "thumbnail": "https://m.media-amazon.com/images/I/81j9PHhS9JL._AC_UF480,480_SR480,480_.jpg",
+        "rating": 4.6,
+        "reviews": 585,
+        "discount": "-17%",
+        "price": "$9.99",
+        "extracted_price": 9.99,
+        "price_unit": "$2.50 / count",
+        "extracted_price_unit": 2.5,
+        "old_price": "null"
+      },
+      {
+        "position": 6,
+        "asin": "B0D7HG6QDP",
+        "title": "Halloween Decorations Set Of 4 Double-Sided Print Pillow Covers 18\" x 18\", with 8 C...",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo1NTUyMTYxNjc3ODM5NTIwOjE3OTI2ODU1MTE6c3BfZGV0YWlsX3RoZW1hdGljOjMwMTM3MTk5Nzc0OTQwMjo6Ojo&url=%2Fdp%2FB0D7HG6QDP%2Fref%3Dsspa_dk_detail_5%3Fpsc%3D1%26pd_rd_i%3DB0D7HG6QDP%26pd_rd_w%3DfI7Lw%26content-id%3Damzn1.sym.3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_p%3D3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_r%3D235WG4C8PM2PKD7B2DDF%26pd_rd_wg%3D66V70%26pd_rd_r%3D8c122ee3-c408-41e2-aae3-96107857bcda%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM",
+        "link_clean": "https://www.amazon.com/dp/B0D7HG6QDP/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0D7HG6QDP&device=tablet&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "badges": [
+          "Limited time deal"
+        ],
+        "thumbnail": "https://m.media-amazon.com/images/I/71fK9mGThoL._AC_UF480,480_SR480,480_.jpg",
+        "rating": 4.6,
+        "reviews": 1550,
+        "discount": "-10%",
+        "price": "$11.69",
+        "extracted_price": 11.69,
+        "price_unit": "$2.92 / count",
+        "extracted_price_unit": 2.92,
+        "old_price": "null"
+      },
+      {
+        "position": 7,
+        "asin": "B0F8H6DKNM",
+        "title": "Halloween Pillow Covers 18x18 Spooky Ghost Holding Jack-O'-Lantern Throw Pillow Cov...",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo1NTUyMTYxNjc3ODM5NTIwOjE3OTI2ODU1MTE6c3BfZGV0YWlsX3RoZW1hdGljOjMwMDgyNDA5ODkxNDYwMjo6Ojo&url=%2Fdp%2FB0F8H6DKNM%2Fref%3Dsspa_dk_detail_6%3Fpsc%3D1%26pd_rd_i%3DB0F8H6DKNM%26pd_rd_w%3DfI7Lw%26content-id%3Damzn1.sym.3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_p%3D3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_r%3D235WG4C8PM2PKD7B2DDF%26pd_rd_wg%3D66V70%26pd_rd_r%3D8c122ee3-c408-41e2-aae3-96107857bcda%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM",
+        "link_clean": "https://www.amazon.com/dp/B0F8H6DKNM/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0F8H6DKNM&device=tablet&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "badges": [
+          "Limited time deal"
+        ],
+        "thumbnail": "https://m.media-amazon.com/images/I/91mSZeUxIGL._AC_UF480,480_SR480,480_.jpg",
+        "rating": 4.7,
+        "reviews": 461,
+        "discount": "-50%",
+        "price": "$5.49",
+        "extracted_price": 5.49,
+        "price_unit": "$2.75 / count",
+        "extracted_price_unit": 2.75,
+        "old_price": "null"
+      },
+      {
+        "position": 8,
+        "asin": "B0HDN57RBL",
+        "title": "2 Pcs Halloween Door Mat Set, Ghost Welcome Mat & Black White Striped Rug | Layered Front Porch Set with 15.7 x 27.6 In Ghost Mat and 23.6 x 35.4 In Striped Rug, Non-Slip for Outdoor or Indoor Use",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo1NDA4NzAyOTE2NjYwOTMzOjE3OTI2ODU1MTE6c3BfZGV0YWlsMjozMDE1ODUwOTM2NTA3MDI6Ojo6&url=%2Fdp%2FB0HDN57RBL%2Fref%3Dsspa_dk_detail_0%3Fpsc%3D1%26pd_rd_i%3DB0HDN57RBL%26pd_rd_w%3D3h3AX%26content-id%3Damzn1.sym.4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_p%3D4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_r%3D235WG4C8PM2PKD7B2DDF%26pd_rd_wg%3D66V70%26pd_rd_r%3D8c122ee3-c408-41e2-aae3-96107857bcda%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+        "link_clean": "https://www.amazon.com/dp/B0HDN57RBL/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0HDN57RBL&device=tablet&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "thumbnail": "https://m.media-amazon.com/images/I/81NE-2DLR4L._AC_UF480,480_SR480,480_.jpg",
+        "rating": 5.0,
+        "reviews": 1,
+        "discount": "-42%",
+        "price": "$14.99",
+        "extracted_price": 14.99,
+        "old_price": "null"
+      },
+      {
+        "position": 9,
+        "asin": "B0H1W6YZ3M",
+        "title": "Halloween Gnomes | Resin Halloween Decorations for Indoor Tabletop Decor| Tomte Swe...",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo1NDA4NzAyOTE2NjYwOTMzOjE3OTI2ODU1MTE6c3BfZGV0YWlsMjozMDE0ODk1OTExOTcyMDI6Ojo6&url=%2Fdp%2FB0H1W6YZ3M%2Fref%3Dsspa_dk_detail_1%3Fpsc%3D1%26pd_rd_i%3DB0H1W6YZ3M%26pd_rd_w%3D3h3AX%26content-id%3Damzn1.sym.4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_p%3D4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_r%3D235WG4C8PM2PKD7B2DDF%26pd_rd_wg%3D66V70%26pd_rd_r%3D8c122ee3-c408-41e2-aae3-96107857bcda%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+        "link_clean": "https://www.amazon.com/dp/B0H1W6YZ3M/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0H1W6YZ3M&device=tablet&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "thumbnail": "https://m.media-amazon.com/images/I/81ePbfL-RTL._AC_UF480,480_SR480,480_.jpg",
+        "rating": 4.8,
+        "reviews": 23,
+        "price": "$20.55",
+        "extracted_price": 20.55
+      },
+      {
+        "position": 10,
+        "asin": "B0H79LPVD1",
+        "title": "Caelvyn Scary Halloween Decorations Indoor, 3D Grim Reaper Skeleton Hands Wall Decor with LED Candles, Creepy Gothic Wall Art for Haunted House, Home, Room and Party Decor",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo1NDA4NzAyOTE2NjYwOTMzOjE3OTI2ODU1MTE6c3BfZGV0YWlsMjozMDE0NjgxNjg0OTA2MDI6Ojo6&url=%2Fdp%2FB0H79LPVD1%2Fref%3Dsspa_dk_detail_2%3Fpsc%3D1%26pd_rd_i%3DB0H79LPVD1%26pd_rd_w%3D3h3AX%26content-id%3Damzn1.sym.4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_p%3D4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_r%3D235WG4C8PM2PKD7B2DDF%26pd_rd_wg%3D66V70%26pd_rd_r%3D8c122ee3-c408-41e2-aae3-96107857bcda%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+        "link_clean": "https://www.amazon.com/dp/B0H79LPVD1/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0H79LPVD1&device=tablet&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "thumbnail": "https://m.media-amazon.com/images/I/81K2jzEZCPL._AC_UF480,480_SR480,480_.jpg",
+        "rating": 3.7,
+        "reviews": 23,
+        "discount": "-33%",
+        "price": "$15.99",
+        "extracted_price": 15.99,
+        "old_price": "null"
+      },
+      {
+        "position": 11,
+        "asin": "B0HCBZYD45",
+        "title": "Halloween Throw Pillow Covers Set of 4 Square Pillow Cases 18 x 18 Inch | Decorative Square Pillow Cases for Couch Bed Sofa Living Room Home Decor",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo1NDA4NzAyOTE2NjYwOTMzOjE3OTI2ODU1MTE6c3BfZGV0YWlsMjozMDE0OTk2MDI4MDI4MDI6Ojo6&url=%2Fdp%2FB0HCBZYD45%2Fref%3Dsspa_dk_detail_3%3Fpsc%3D1%26pd_rd_i%3DB0HCBZYD45%26pd_rd_w%3D3h3AX%26content-id%3Damzn1.sym.4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_p%3D4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_r%3D235WG4C8PM2PKD7B2DDF%26pd_rd_wg%3D66V70%26pd_rd_r%3D8c122ee3-c408-41e2-aae3-96107857bcda%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+        "link_clean": "https://www.amazon.com/dp/B0HCBZYD45/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0HCBZYD45&device=tablet&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "thumbnail": "https://m.media-amazon.com/images/I/81j8-yTB7wL._AC_UF480,480_SR480,480_.jpg",
+        "rating": 4.1,
+        "reviews": 15,
+        "price": "$23.99",
+        "extracted_price": 23.99,
+        "save_with_coupon": "You pay $22.55"
+      },
+      {
+        "position": 12,
+        "asin": "B0H865LZCS",
+        "title": "2.3ft Halloween Decorations, BOO Yard Sign Outdoor Marquee Light up Letters | Pre-Cut Foam Board Lighted BOO Sign, LED Light up BOO Mosaic Letter Decor for Halloween Party Indoor Home",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo1NDA4NzAyOTE2NjYwOTMzOjE3OTI2ODU1MTE6c3BfZGV0YWlsMjozMDE1OTEzNDU1MTk0MDI6Ojo6&url=%2Fdp%2FB0H865LZCS%2Fref%3Dsspa_dk_detail_4%3Fpsc%3D1%26pd_rd_i%3DB0H865LZCS%26pd_rd_w%3D3h3AX%26content-id%3Damzn1.sym.4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_p%3D4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_r%3D235WG4C8PM2PKD7B2DDF%26pd_rd_wg%3D66V70%26pd_rd_r%3D8c122ee3-c408-41e2-aae3-96107857bcda%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+        "link_clean": "https://www.amazon.com/dp/B0H865LZCS/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0H865LZCS&device=tablet&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "thumbnail": "https://m.media-amazon.com/images/I/716ssq4fJSL._AC_UF480,480_SR480,480_.jpg",
+        "price": "$53.99",
+        "extracted_price": 53.99
+      },
+      {
+        "position": 13,
+        "asin": "B0F6C8L1LR",
+        "title": "Softalker Fall Throw Pillow Covers 18x18 Set of 2 Rust Orange Pumpkin Decor | Double-Sided plush comfort with raised Autumn pumpkin embroidery, designed for couch sofas, bedrooms, and home decorations.",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo1NDA4NzAyOTE2NjYwOTMzOjE3OTI2ODU1MTE6c3BfZGV0YWlsMjozMDA4MjMzNDY3OTQ5MDI6Ojo6&url=%2Fdp%2FB0F6C8L1LR%2Fref%3Dsspa_dk_detail_5%3Fpsc%3D1%26pd_rd_i%3DB0F6C8L1LR%26pd_rd_w%3D3h3AX%26content-id%3Damzn1.sym.4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_p%3D4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_r%3D235WG4C8PM2PKD7B2DDF%26pd_rd_wg%3D66V70%26pd_rd_r%3D8c122ee3-c408-41e2-aae3-96107857bcda%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+        "link_clean": "https://www.amazon.com/dp/B0F6C8L1LR/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0F6C8L1LR&device=tablet&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "badges": [
+          "Amazon's Choice"
+        ],
+        "thumbnail": "https://m.media-amazon.com/images/I/81pG+yI6E3L._AC_UF480,480_SR480,480_.jpg",
+        "rating": 4.7,
+        "reviews": 616,
+        "price": "$14.49",
+        "extracted_price": 14.49,
+        "price_unit": "$7.25 / count",
+        "extracted_price_unit": 7.25,
+        "climate_pledge_friendly": true
+      },
+      {
+        "position": 14,
+        "asin": "B0GS4KGCG1",
+        "title": "Halloween Gothic Throw Pillow Covers 18x18 Inch Set of 4 Pillowcases Outdoor Toile ...",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo1NDA4NzAyOTE2NjYwOTMzOjE3OTI2ODU1MTE6c3BfZGV0YWlsMjozMDE0MDI3NjE1ODg3MDI6Ojo6&url=%2Fdp%2FB0GS4KGCG1%2Fref%3Dsspa_dk_detail_6%3Fpsc%3D1%26pd_rd_i%3DB0GS4KGCG1%26pd_rd_w%3D3h3AX%26content-id%3Damzn1.sym.4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_p%3D4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_r%3D235WG4C8PM2PKD7B2DDF%26pd_rd_wg%3D66V70%26pd_rd_r%3D8c122ee3-c408-41e2-aae3-96107857bcda%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+        "link_clean": "https://www.amazon.com/dp/B0GS4KGCG1/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0GS4KGCG1&device=tablet&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "thumbnail": "https://m.media-amazon.com/images/I/81hjG58G4xL._AC_UF480,480_SR480,480_.jpg",
+        "rating": 4.5,
+        "reviews": 26,
+        "discount": "-20%",
+        "price": "$15.99",
+        "extracted_price": 15.99,
+        "old_price": "null"
+      }
+    ],
+    "related_product_sections": [
+      {
+        "title": "Deals on related products",
+        "items": [
+          {
+            "position": 1,
+            "asin": "B07JHC42TS",
+            "title": "Oubonun 18\"x18\" Pillow Inserts (Set of 2) - Throw Pillow Inserts with 100% Cotton Cover - 18 Inch Square Interior Sofa Pillow Inserts - Decorative Pillow Insert Pair - White Couch Pillow",
+            "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo1NTUyMTYxNjc3ODM5NTIwOjE3OTI2ODU1MTE6c3BfZGV0YWlsX3RoZW1hdGljOjMwMDY4MjQ5NzQ4OTYwMjo6Ojo&url=%2Fdp%2FB07JHC42TS%2Fref%3Dsspa_dk_detail_0%3Fpsc%3D1%26pd_rd_i%3DB07JHC42TS%26pd_rd_w%3DfI7Lw%26content-id%3Damzn1.sym.3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_p%3D3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_r%3D235WG4C8PM2PKD7B2DDF%26pd_rd_wg%3D66V70%26pd_rd_r%3D8c122ee3-c408-41e2-aae3-96107857bcda%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM",
+            "link_clean": "https://www.amazon.com/dp/B07JHC42TS/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B07JHC42TS&device=tablet&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "badges": [
+              "Limited Prime deal"
+            ],
+            "thumbnail": "https://m.media-amazon.com/images/I/51NWSJD4BML._AC_UF480,480_SR480,480_.jpg",
+            "rating": 4.7,
+            "reviews": 17296,
+            "discount": "-26%",
+            "price": "$22.94",
+            "extracted_price": 22.94,
+            "price_unit": "$11.47 / count",
+            "extracted_price_unit": 11.47,
+            "old_price": "null",
+            "climate_pledge_friendly": true
+          },
+          {
+            "position": 2,
+            "asin": "B0F6XWQ512",
+            "title": "Halloween Pillow Covers 16x16 Inch Set of 2 Embroidery Ghost Throw Pillow Covers In...",
+            "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo1NTUyMTYxNjc3ODM5NTIwOjE3OTI2ODU1MTE6c3BfZGV0YWlsX3RoZW1hdGljOjMwMTUwNDkzMDIwNTkwMjo6Ojo&url=%2Fdp%2FB0F6XWQ512%2Fref%3Dsspa_dk_detail_1%3Fpsc%3D1%26pd_rd_i%3DB0F6XWQ512%26pd_rd_w%3DfI7Lw%26content-id%3Damzn1.sym.3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_p%3D3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_r%3D235WG4C8PM2PKD7B2DDF%26pd_rd_wg%3D66V70%26pd_rd_r%3D8c122ee3-c408-41e2-aae3-96107857bcda%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM",
+            "link_clean": "https://www.amazon.com/dp/B0F6XWQ512/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0F6XWQ512&device=tablet&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "badges": [
+              "Limited time deal"
+            ],
+            "thumbnail": "https://m.media-amazon.com/images/I/71klAAwCl8L._AC_UF480,480_SR480,480_.jpg",
+            "rating": 4.9,
+            "reviews": 50,
+            "discount": "-50%",
+            "price": "$9.49",
+            "extracted_price": 9.49,
+            "price_unit": "$4.75 / count",
+            "extracted_price_unit": 4.75,
+            "old_price": "null"
+          },
+          {
+            "position": 3,
+            "asin": "B0CCKKS849",
+            "title": "Halloween Pillow Covers 18x18 inch Set of 2 Black Crows Branch Decorative Farmhouse...",
+            "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo1NTUyMTYxNjc3ODM5NTIwOjE3OTI2ODU1MTE6c3BfZGV0YWlsX3RoZW1hdGljOjMwMDM3MTM0NDc2NzEwMjo6Ojo&url=%2Fdp%2FB0CCKKS849%2Fref%3Dsspa_dk_detail_2%3Fpsc%3D1%26pd_rd_i%3DB0CCKKS849%26pd_rd_w%3DfI7Lw%26content-id%3Damzn1.sym.3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_p%3D3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_r%3D235WG4C8PM2PKD7B2DDF%26pd_rd_wg%3D66V70%26pd_rd_r%3D8c122ee3-c408-41e2-aae3-96107857bcda%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM",
+            "link_clean": "https://www.amazon.com/dp/B0CCKKS849/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0CCKKS849&device=tablet&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "badges": [
+              "Limited time deal"
+            ],
+            "thumbnail": "https://m.media-amazon.com/images/I/81zfYoTMLyL._AC_UF480,480_SR480,480_.jpg",
+            "rating": 4.5,
+            "reviews": 127,
+            "discount": "-50%",
+            "price": "$7.49",
+            "extracted_price": 7.49,
+            "price_unit": "$3.75 / count",
+            "extracted_price_unit": 3.75,
+            "old_price": "null"
+          },
+          {
+            "position": 4,
+            "asin": "B0F72LLCPZ",
+            "title": "MIULEE White Halloween Pillow Covers Cute Ghost Decor Set of 2 18x18 | Soft Plush Faux Fur, Spooky Decor, Fall Decorative Throw Pillows for Couch Sofa Bed Porch Living Room",
+            "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo1NTUyMTYxNjc3ODM5NTIwOjE3OTI2ODU1MTE6c3BfZGV0YWlsX3RoZW1hdGljOjMwMDg1NTg2NDk5MzUwMjo6Ojo&url=%2Fdp%2FB0F72LLCPZ%2Fref%3Dsspa_dk_detail_3%3Fpsc%3D1%26pd_rd_i%3DB0F72LLCPZ%26pd_rd_w%3DfI7Lw%26content-id%3Damzn1.sym.3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_p%3D3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_r%3D235WG4C8PM2PKD7B2DDF%26pd_rd_wg%3D66V70%26pd_rd_r%3D8c122ee3-c408-41e2-aae3-96107857bcda%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM",
+            "link_clean": "https://www.amazon.com/dp/B0F72LLCPZ/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0F72LLCPZ&device=tablet&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "badges": [
+              "Amazon's Choice",
+              "Limited time deal"
+            ],
+            "thumbnail": "https://m.media-amazon.com/images/I/81X-okmCKRL._AC_UF480,480_SR480,480_.jpg",
+            "rating": 4.7,
+            "reviews": 757,
+            "discount": "-68%",
+            "price": "$8.99",
+            "extracted_price": 8.99,
+            "price_unit": "$4.50 / count",
+            "extracted_price_unit": 4.5,
+            "old_price": "null",
+            "climate_pledge_friendly": true
+          },
+          {
+            "position": 5,
+            "asin": "B0F8QWNWHQ",
+            "title": "Halloween Pillow Covers 18x18 4Pcs Double-Sided for Home Decor | Soft Linen Fabric,...",
+            "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo1NTUyMTYxNjc3ODM5NTIwOjE3OTI2ODU1MTE6c3BfZGV0YWlsX3RoZW1hdGljOjMwMDg0NjA1MjQ2ODcwMjo6Ojo&url=%2Fdp%2FB0F8QWNWHQ%2Fref%3Dsspa_dk_detail_4%3Fpsc%3D1%26pd_rd_i%3DB0F8QWNWHQ%26pd_rd_w%3DfI7Lw%26content-id%3Damzn1.sym.3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_p%3D3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_r%3D235WG4C8PM2PKD7B2DDF%26pd_rd_wg%3D66V70%26pd_rd_r%3D8c122ee3-c408-41e2-aae3-96107857bcda%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM",
+            "link_clean": "https://www.amazon.com/dp/B0F8QWNWHQ/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0F8QWNWHQ&device=tablet&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "badges": [
+              "Limited time deal"
+            ],
+            "thumbnail": "https://m.media-amazon.com/images/I/81j9PHhS9JL._AC_UF480,480_SR480,480_.jpg",
+            "rating": 4.6,
+            "reviews": 585,
+            "discount": "-17%",
+            "price": "$9.99",
+            "extracted_price": 9.99,
+            "price_unit": "$2.50 / count",
+            "extracted_price_unit": 2.5,
+            "old_price": "null"
+          },
+          {
+            "position": 6,
+            "asin": "B0D7HG6QDP",
+            "title": "Halloween Decorations Set Of 4 Double-Sided Print Pillow Covers 18\" x 18\", with 8 C...",
+            "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo1NTUyMTYxNjc3ODM5NTIwOjE3OTI2ODU1MTE6c3BfZGV0YWlsX3RoZW1hdGljOjMwMTM3MTk5Nzc0OTQwMjo6Ojo&url=%2Fdp%2FB0D7HG6QDP%2Fref%3Dsspa_dk_detail_5%3Fpsc%3D1%26pd_rd_i%3DB0D7HG6QDP%26pd_rd_w%3DfI7Lw%26content-id%3Damzn1.sym.3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_p%3D3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_r%3D235WG4C8PM2PKD7B2DDF%26pd_rd_wg%3D66V70%26pd_rd_r%3D8c122ee3-c408-41e2-aae3-96107857bcda%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM",
+            "link_clean": "https://www.amazon.com/dp/B0D7HG6QDP/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0D7HG6QDP&device=tablet&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "badges": [
+              "Limited time deal"
+            ],
+            "thumbnail": "https://m.media-amazon.com/images/I/71fK9mGThoL._AC_UF480,480_SR480,480_.jpg",
+            "rating": 4.6,
+            "reviews": 1550,
+            "discount": "-10%",
+            "price": "$11.69",
+            "extracted_price": 11.69,
+            "price_unit": "$2.92 / count",
+            "extracted_price_unit": 2.92,
+            "old_price": "null"
+          },
+          {
+            "position": 7,
+            "asin": "B0F8H6DKNM",
+            "title": "Halloween Pillow Covers 18x18 Spooky Ghost Holding Jack-O'-Lantern Throw Pillow Cov...",
+            "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo1NTUyMTYxNjc3ODM5NTIwOjE3OTI2ODU1MTE6c3BfZGV0YWlsX3RoZW1hdGljOjMwMDgyNDA5ODkxNDYwMjo6Ojo&url=%2Fdp%2FB0F8H6DKNM%2Fref%3Dsspa_dk_detail_6%3Fpsc%3D1%26pd_rd_i%3DB0F8H6DKNM%26pd_rd_w%3DfI7Lw%26content-id%3Damzn1.sym.3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_p%3D3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_r%3D235WG4C8PM2PKD7B2DDF%26pd_rd_wg%3D66V70%26pd_rd_r%3D8c122ee3-c408-41e2-aae3-96107857bcda%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM",
+            "link_clean": "https://www.amazon.com/dp/B0F8H6DKNM/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0F8H6DKNM&device=tablet&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "badges": [
+              "Limited time deal"
+            ],
+            "thumbnail": "https://m.media-amazon.com/images/I/91mSZeUxIGL._AC_UF480,480_SR480,480_.jpg",
+            "rating": 4.7,
+            "reviews": 461,
+            "discount": "-50%",
+            "price": "$5.49",
+            "extracted_price": 5.49,
+            "price_unit": "$2.75 / count",
+            "extracted_price_unit": 2.75,
+            "old_price": "null"
+          }
+        ]
+      },
+      {
+        "title": "Products related to this item",
+        "items": [
+          {
+            "position": 1,
+            "asin": "B0HDN57RBL",
+            "title": "2 Pcs Halloween Door Mat Set, Ghost Welcome Mat & Black White Striped Rug | Layered Front Porch Set with 15.7 x 27.6 In Ghost Mat and 23.6 x 35.4 In Striped Rug, Non-Slip for Outdoor or Indoor Use",
+            "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo1NDA4NzAyOTE2NjYwOTMzOjE3OTI2ODU1MTE6c3BfZGV0YWlsMjozMDE1ODUwOTM2NTA3MDI6Ojo6&url=%2Fdp%2FB0HDN57RBL%2Fref%3Dsspa_dk_detail_0%3Fpsc%3D1%26pd_rd_i%3DB0HDN57RBL%26pd_rd_w%3D3h3AX%26content-id%3Damzn1.sym.4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_p%3D4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_r%3D235WG4C8PM2PKD7B2DDF%26pd_rd_wg%3D66V70%26pd_rd_r%3D8c122ee3-c408-41e2-aae3-96107857bcda%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+            "link_clean": "https://www.amazon.com/dp/B0HDN57RBL/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0HDN57RBL&device=tablet&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "thumbnail": "https://m.media-amazon.com/images/I/81NE-2DLR4L._AC_UF480,480_SR480,480_.jpg",
+            "rating": 5.0,
+            "reviews": 1,
+            "discount": "-42%",
+            "price": "$14.99",
+            "extracted_price": 14.99,
+            "old_price": "null"
+          },
+          {
+            "position": 2,
+            "asin": "B0H1W6YZ3M",
+            "title": "Halloween Gnomes | Resin Halloween Decorations for Indoor Tabletop Decor| Tomte Swe...",
+            "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo1NDA4NzAyOTE2NjYwOTMzOjE3OTI2ODU1MTE6c3BfZGV0YWlsMjozMDE0ODk1OTExOTcyMDI6Ojo6&url=%2Fdp%2FB0H1W6YZ3M%2Fref%3Dsspa_dk_detail_1%3Fpsc%3D1%26pd_rd_i%3DB0H1W6YZ3M%26pd_rd_w%3D3h3AX%26content-id%3Damzn1.sym.4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_p%3D4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_r%3D235WG4C8PM2PKD7B2DDF%26pd_rd_wg%3D66V70%26pd_rd_r%3D8c122ee3-c408-41e2-aae3-96107857bcda%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+            "link_clean": "https://www.amazon.com/dp/B0H1W6YZ3M/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0H1W6YZ3M&device=tablet&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "thumbnail": "https://m.media-amazon.com/images/I/81ePbfL-RTL._AC_UF480,480_SR480,480_.jpg",
+            "rating": 4.8,
+            "reviews": 23,
+            "price": "$20.55",
+            "extracted_price": 20.55
+          },
+          {
+            "position": 3,
+            "asin": "B0H79LPVD1",
+            "title": "Caelvyn Scary Halloween Decorations Indoor, 3D Grim Reaper Skeleton Hands Wall Decor with LED Candles, Creepy Gothic Wall Art for Haunted House, Home, Room and Party Decor",
+            "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo1NDA4NzAyOTE2NjYwOTMzOjE3OTI2ODU1MTE6c3BfZGV0YWlsMjozMDE0NjgxNjg0OTA2MDI6Ojo6&url=%2Fdp%2FB0H79LPVD1%2Fref%3Dsspa_dk_detail_2%3Fpsc%3D1%26pd_rd_i%3DB0H79LPVD1%26pd_rd_w%3D3h3AX%26content-id%3Damzn1.sym.4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_p%3D4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_r%3D235WG4C8PM2PKD7B2DDF%26pd_rd_wg%3D66V70%26pd_rd_r%3D8c122ee3-c408-41e2-aae3-96107857bcda%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+            "link_clean": "https://www.amazon.com/dp/B0H79LPVD1/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0H79LPVD1&device=tablet&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "thumbnail": "https://m.media-amazon.com/images/I/81K2jzEZCPL._AC_UF480,480_SR480,480_.jpg",
+            "rating": 3.7,
+            "reviews": 23,
+            "discount": "-33%",
+            "price": "$15.99",
+            "extracted_price": 15.99,
+            "old_price": "null"
+          },
+          {
+            "position": 4,
+            "asin": "B0HCBZYD45",
+            "title": "Halloween Throw Pillow Covers Set of 4 Square Pillow Cases 18 x 18 Inch | Decorative Square Pillow Cases for Couch Bed Sofa Living Room Home Decor",
+            "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo1NDA4NzAyOTE2NjYwOTMzOjE3OTI2ODU1MTE6c3BfZGV0YWlsMjozMDE0OTk2MDI4MDI4MDI6Ojo6&url=%2Fdp%2FB0HCBZYD45%2Fref%3Dsspa_dk_detail_3%3Fpsc%3D1%26pd_rd_i%3DB0HCBZYD45%26pd_rd_w%3D3h3AX%26content-id%3Damzn1.sym.4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_p%3D4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_r%3D235WG4C8PM2PKD7B2DDF%26pd_rd_wg%3D66V70%26pd_rd_r%3D8c122ee3-c408-41e2-aae3-96107857bcda%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+            "link_clean": "https://www.amazon.com/dp/B0HCBZYD45/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0HCBZYD45&device=tablet&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "thumbnail": "https://m.media-amazon.com/images/I/81j8-yTB7wL._AC_UF480,480_SR480,480_.jpg",
+            "rating": 4.1,
+            "reviews": 15,
+            "price": "$23.99",
+            "extracted_price": 23.99,
+            "save_with_coupon": "You pay $22.55"
+          },
+          {
+            "position": 5,
+            "asin": "B0H865LZCS",
+            "title": "2.3ft Halloween Decorations, BOO Yard Sign Outdoor Marquee Light up Letters | Pre-Cut Foam Board Lighted BOO Sign, LED Light up BOO Mosaic Letter Decor for Halloween Party Indoor Home",
+            "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo1NDA4NzAyOTE2NjYwOTMzOjE3OTI2ODU1MTE6c3BfZGV0YWlsMjozMDE1OTEzNDU1MTk0MDI6Ojo6&url=%2Fdp%2FB0H865LZCS%2Fref%3Dsspa_dk_detail_4%3Fpsc%3D1%26pd_rd_i%3DB0H865LZCS%26pd_rd_w%3D3h3AX%26content-id%3Damzn1.sym.4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_p%3D4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_r%3D235WG4C8PM2PKD7B2DDF%26pd_rd_wg%3D66V70%26pd_rd_r%3D8c122ee3-c408-41e2-aae3-96107857bcda%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+            "link_clean": "https://www.amazon.com/dp/B0H865LZCS/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0H865LZCS&device=tablet&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "thumbnail": "https://m.media-amazon.com/images/I/716ssq4fJSL._AC_UF480,480_SR480,480_.jpg",
+            "price": "$53.99",
+            "extracted_price": 53.99
+          },
+          {
+            "position": 6,
+            "asin": "B0F6C8L1LR",
+            "title": "Softalker Fall Throw Pillow Covers 18x18 Set of 2 Rust Orange Pumpkin Decor | Double-Sided plush comfort with raised Autumn pumpkin embroidery, designed for couch sofas, bedrooms, and home decorations.",
+            "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo1NDA4NzAyOTE2NjYwOTMzOjE3OTI2ODU1MTE6c3BfZGV0YWlsMjozMDA4MjMzNDY3OTQ5MDI6Ojo6&url=%2Fdp%2FB0F6C8L1LR%2Fref%3Dsspa_dk_detail_5%3Fpsc%3D1%26pd_rd_i%3DB0F6C8L1LR%26pd_rd_w%3D3h3AX%26content-id%3Damzn1.sym.4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_p%3D4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_r%3D235WG4C8PM2PKD7B2DDF%26pd_rd_wg%3D66V70%26pd_rd_r%3D8c122ee3-c408-41e2-aae3-96107857bcda%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+            "link_clean": "https://www.amazon.com/dp/B0F6C8L1LR/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0F6C8L1LR&device=tablet&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "badges": [
+              "Amazon's Choice"
+            ],
+            "thumbnail": "https://m.media-amazon.com/images/I/81pG+yI6E3L._AC_UF480,480_SR480,480_.jpg",
+            "rating": 4.7,
+            "reviews": 616,
+            "price": "$14.49",
+            "extracted_price": 14.49,
+            "price_unit": "$7.25 / count",
+            "extracted_price_unit": 7.25,
+            "climate_pledge_friendly": true
+          },
+          {
+            "position": 7,
+            "asin": "B0GS4KGCG1",
+            "title": "Halloween Gothic Throw Pillow Covers 18x18 Inch Set of 4 Pillowcases Outdoor Toile ...",
+            "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo1NDA4NzAyOTE2NjYwOTMzOjE3OTI2ODU1MTE6c3BfZGV0YWlsMjozMDE0MDI3NjE1ODg3MDI6Ojo6&url=%2Fdp%2FB0GS4KGCG1%2Fref%3Dsspa_dk_detail_6%3Fpsc%3D1%26pd_rd_i%3DB0GS4KGCG1%26pd_rd_w%3D3h3AX%26content-id%3Damzn1.sym.4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_p%3D4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_r%3D235WG4C8PM2PKD7B2DDF%26pd_rd_wg%3D66V70%26pd_rd_r%3D8c122ee3-c408-41e2-aae3-96107857bcda%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+            "link_clean": "https://www.amazon.com/dp/B0GS4KGCG1/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0GS4KGCG1&device=tablet&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "thumbnail": "https://m.media-amazon.com/images/I/81hjG58G4xL._AC_UF480,480_SR480,480_.jpg",
+            "rating": 4.5,
+            "reviews": 26,
+            "discount": "-20%",
+            "price": "$15.99",
+            "extracted_price": 15.99,
+            "old_price": "null"
+          }
+        ]
+      }
+    ],
+    "sustainability_features": {
+      "summary": "This product has sustainability features recognized by trusted certifications.",
+      "climate_pledge_friendly": true,
+      "learn_more_link": "https://www.amazon.com/climatepledgefriendly",
+      "features": [
+        {
+          "position": 1,
+          "title": "Recycled materials",
+          "text": "Contains at least 50% recycled material.",
+          "certified_by": [
+            {
+              "name": "Global Recycled Standard",
+              "logo": "https://m.media-amazon.com/images/I/51IhSrucIyL._SS128_.png",
+              "description": "Global Recycled Standard (GRS) certified products contain recycled content (>50%) that has been independently verified at each stage of the supply chain, from the source to the final product and meet social, environmental, and chemical requirements. The purchase of Global Recycled Standard (GRS) certified products supports the use of recycled content in the supply chain.",
+              "link": "https://textileexchange.org/integrity/"
+            }
+          ]
+        },
+        {
+          "position": 2,
+          "title": "Safer chemicals",
+          "text": "Made with chemicals safer for human health and the environment.",
+          "certified_by": [
+            {
+              "name": "Global Recycled Standard",
+              "logo": "https://m.media-amazon.com/images/I/51IhSrucIyL._SS128_.png",
+              "description": "Global Recycled Standard (GRS) certified products contain recycled content (>50%) that has been independently verified at each stage of the supply chain, from the source to the final product and meet social, environmental, and chemical requirements. The purchase of Global Recycled Standard (GRS) certified products supports the use of recycled content in the supply chain.",
+              "link": "https://textileexchange.org/integrity/"
+            }
+          ]
+        },
+        {
+          "position": 3,
+          "title": "Worker well-being",
+          "text": "Manufactured on farms or in facilities that protect the rights and/or health of workers.",
+          "certified_by": [
+            {
+              "name": "Global Recycled Standard",
+              "logo": "https://m.media-amazon.com/images/I/51IhSrucIyL._SS128_.png",
+              "description": "Global Recycled Standard (GRS) certified products contain recycled content (>50%) that has been independently verified at each stage of the supply chain, from the source to the final product and meet social, environmental, and chemical requirements. The purchase of Global Recycled Standard (GRS) certified products supports the use of recycled content in the supply chain.",
+              "link": "https://textileexchange.org/integrity/"
+            }
+          ]
+        }
+      ]
+    },
+    "videos": [
+      {
+        "position": 1,
+        "title": "Such a sweet combo for Halloween!",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/aebf53d7-a782-4e62-9f27-6011d7c3d49d/default.vertical.jobtemplate.hls.m3u8",
+        "thumbnail": "https://m.media-amazon.com/images/I/71jFQS791gL.jpg",
+        "duration": "0:43",
+        "vendor": "Katie",
+        "vendor_thumbnail": "https://m.media-amazon.com/images/I/81U-LJrCAUL._CR0,0,1115,1115_._FMjpg_._SL34_.jpg",
+        "date": "Oct 7, 2025"
+      },
+      {
+        "position": 2,
+        "title": "Halloween pillow covers on point!",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/5bf1fbe3-10a0-4319-aab0-e30d12a59968/default.jobtemplate.hls.m3u8",
+        "thumbnail": "https://m.media-amazon.com/images/I/518rxufMZIL.jpg",
+        "duration": "1:08",
+        "vendor": "Moonshine & Marshmallows",
+        "vendor_thumbnail": "https://m.media-amazon.com/images/I/4124bWEL9tL._CR0,0,400,400_._FMjpg_._SL34_.jpg",
+        "date": "Jul 11, 2026"
+      },
+      {
+        "position": 3,
+        "title": "Love these Halloween pillow covers!",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/158e7a2d-779f-4b03-b0bb-633faa018f84/default.vertical.jobtemplate.hls.m3u8",
+        "thumbnail": "https://m.media-amazon.com/images/I/71ggqtQ2I7L.jpg",
+        "duration": "0:12",
+        "vendor": "Hilary Decker",
+        "vendor_thumbnail": "https://m.media-amazon.com/images/I/91vvU7vmxaL._CR0,0,1586,1586_._FMjpg_._SL34_.jpg",
+        "date": "Aug 12, 2026"
+      },
+      {
+        "position": 4,
+        "title": "Do not wait on these, soft comfy and go with everything",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/038f3dce-9d2c-43a5-9bad-78d0a709dfa8/default.jobtemplate.hls.m3u8",
+        "thumbnail": "https://m.media-amazon.com/images/I/A1cJDYmbBdL.png",
+        "duration": "0:16",
+        "vendor": "The Wellness PA",
+        "vendor_thumbnail": "https://m.media-amazon.com/images/I/61R+Zk+eX-L._CR0,0,738,738_._FMjpg_._SL34_.jpg",
+        "date": "Oct 16, 2024"
+      },
+      {
+        "position": 5,
+        "title": "Cute Cozy Neutral Halloween Decor Easy seasonal swap",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/527e3e3f-60ac-44bc-98bd-31cdd117bdb8/default.jobtemplate.hls.m3u8",
+        "thumbnail": "https://m.media-amazon.com/images/I/5141DK5FZHL.jpg",
+        "duration": "0:42",
+        "vendor": "Stretch Your Dollars with Bailey",
+        "vendor_thumbnail": "https://m.media-amazon.com/images/I/61RppfHhiCL._CR0,0,400,400_._FMjpg_._SL34_.jpg",
+        "date": "Sep 20, 2026"
+      },
+      {
+        "position": 6,
+        "title": "Cute ghost pillows for spooky season",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/8fc4601b-5fbf-431d-a49b-8c725645b7b2/default.jobtemplate.hls.m3u8",
+        "thumbnail": "https://m.media-amazon.com/images/I/61YW55sZhOL.jpg",
+        "duration": "0:13",
+        "vendor": "Michelle Dawn",
+        "vendor_thumbnail": "https://m.media-amazon.com/images/I/71GKJnpJ0pL._CR0,0,1170,1170_._FMjpg_._SL34_.jpg",
+        "date": "Oct 15, 2026"
+      },
+      {
+        "position": 7,
+        "title": "Spooky &amp; Cute! Ghost Fall Throw Pillows Amazon Fall Find",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/8d709986-86c6-40cb-829a-870757fd0eee/default.vertical.jobtemplate.hls.m3u8",
+        "thumbnail": "https://m.media-amazon.com/images/I/617XWLdRZCL.jpg",
+        "duration": "0:49",
+        "vendor": "Brittany M",
+        "vendor_thumbnail": "https://m.media-amazon.com/images/I/41-IFBXJrAL._CR0,0,271,271_._FMjpg_._SL34_.jpg",
+        "date": "Sep 25, 2025"
+      },
+      {
+        "position": 8,
+        "title": "Halloween decor. Ghost pillows. Pillow covers. Boo decor.",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/d78ed784-a188-4688-ac34-664985a02c27/default.vertical.jobtemplate.hls.m3u8",
+        "thumbnail": "https://m.media-amazon.com/images/I/61cWWsIvgiL.jpg",
+        "duration": "0:53",
+        "vendor": "Sharron Vogler",
+        "vendor_thumbnail": "https://m.media-amazon.com/images/I/41MEYS2HYCL._CR0,0,364,364_._FMjpg_._SL34_.jpg",
+        "date": "Oct 11, 2025"
+      },
+      {
+        "position": 9,
+        "title": "Neutral & Chic Halloween Pillow Covers you will want!",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/77b622f4-ce42-4e3f-8e15-fdba4bfe5715/default.vertical.jobtemplate.hls.m3u8",
+        "thumbnail": "https://m.media-amazon.com/images/I/81ACkF5UXxL.jpg",
+        "duration": "0:42",
+        "vendor": "Trina Devlin | PRO Wellness Mission",
+        "vendor_thumbnail": "https://m.media-amazon.com/images/I/51KyRqS72wL._CR0,0,400,400_._FMjpg_._SL34_.jpg",
+        "date": "Sep 25, 2026"
+      },
+      {
+        "position": 10,
+        "title": "Are these pillow covers any good? See them in person",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/7c343a13-ce38-4137-9876-6fd877deeae2/default.jobtemplate.hls.m3u8",
+        "thumbnail": "https://m.media-amazon.com/images/I/61VT-jb5B8L.jpg",
+        "duration": "0:27",
+        "vendor": "⭐Rachel Reviews It",
+        "vendor_thumbnail": "https://m.media-amazon.com/images/I/C1ER0pWEgvL._CR0,140,2490,2490_._FMjpg_._SL34_.jpg",
+        "date": "Sep 6, 2024"
+      }
+    ],
+    "product_description": [
+      {
+        "position": 1,
+        "title": "halloween pillows",
+        "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/cd99abf6-6f86-4344-a798-abf45deed9e7.__CR0,0,1464,600_PT0_SX1464_V1___.jpg"
+      },
+      {
+        "position": 2,
+        "title": "halloween pillow covers",
+        "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/8f4a5bd9-7a31-4e26-b956-75cfd965e43d.__CR0,0,1464,600_PT0_SX1464_V1___.jpg"
+      },
+      {
+        "position": 3,
+        "title": "halloween pillow covers 18x18",
+        "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/743bfa50-22fc-46a3-a15c-4f8487eb0808.__CR0,0,1464,600_PT0_SX1464_V1___.jpg"
+      },
+      {
+        "position": 4,
+        "title": "halloween decor",
+        "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/43165cf4-3164-4cc7-a268-1c80691a1440.__CR0,0,1464,600_PT0_SX1464_V1___.jpg"
+      },
+      {
+        "position": 5,
+        "title": "halloween decorations",
+        "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/677d7ce8-f758-4f2b-bc47-6f7fcdaa258e.__CR0,0,1464,600_PT0_SX1464_V1___.jpg"
+      }
+    ],
+    "product_details": {
+      "pattern": "Plain",
+      "color": "White Black",
+      "style_name": "Modern",
+      "theme": "Holiday",
+      "shape": "Square",
+      "subject_character": "Ghost",
+      "room_type": "Living Room",
+      "occasion": "Halloween",
+      "item_dimensions_l_x_w": "18\"L x 18\"W",
+      "number_of_items": "2",
+      "number_of_pieces": "2",
+      "other_special_features_of_the_product": "Bagged",
+      "closure_type": "Zipper",
+      "brand_name": "DFXSZ",
+      "pillow_type": "Throw Pillow",
+      "manufacturer": "DFXSZ",
+      "unit_count": "2 Count",
+      "best_sellers_rank": [
+        {
+          "text": "#4,142 in Home & Kitchen (See Top 100 in Home & Kitchen)",
+          "extracted_rank": 4142,
+          "link": "https://www.amazon.com/gp/bestsellers/home-garden/ref=pd_zg_ts_home-garden",
+          "link_text": "See Top 100 in Home & Kitchen"
+        },
+        {
+          "text": "#47 in Throw Pillow Covers",
+          "extracted_rank": 47,
+          "link": "https://www.amazon.com/gp/bestsellers/home-garden/3732341/ref=pd_zg_hrsr_home-garden",
+          "link_text": "Throw Pillow Covers"
+        }
+      ],
+      "asin": "B0D7TLJQYF",
+      "customer_reviews": "4.8 out of 5 stars",
+      "rating": 4.8,
+      "reviews": 1249,
+      "material_type": "Polyester",
+      "product_care_instructions": "Hand Wash Only, Machine Wash",
+      "weave_type": "Tufted",
+      "recommended_uses_for_product": "Indoor"
+    },
+    "sponsored_brands": [
+      {
+        "position": 1,
+        "asin": "B0F5MNX2PC",
+        "title": "DFXSZ Halloween Pillow Covers 12x20 Beige Ghost Plush Halloween Decor095B12 | Soft Plush Faux Fur Halloween Pillowcases,for Chair Sofa Bedroom Living Room Home Thanksgiving Decor",
+        "link": "https://aax-us-east-retail-direct.amazon.com/x/c/JMctpvGpcM1jjtQGxx2iLGcAAAGhZGIU1QEAAAH2AQBvbm9fdHhuX2JpZDMgICBvbm9fdHhuX2ltcDIgICAXwZI3/clv1c_ek-wBff3FcTa3ut7cOoEbugzoh05WJN4A5Tgfoj5uw-BZBGqIdBarlCslBr1x-cL0PMdoMfE_DhgXX7GCUasD-EACqvYJoE8zHk9gh2DGgkWCAmILMlCou1V9e0sJvA61P4rh5THub70Ds8_ELF8cQwf-tyGJhXoldDAo1PivAZZXmkxxvDoL71MwUCCh6hVVkLbeh-SDSuApYQ9mujD9LEPeN09FmSclcHawLMy66Iag6Z1h0_U_AZ_p3IDZwfmxP_iyu1q-r62kMlcNJxD1eFk5Ipishz-hzPNsaV-2N-vrgaqfW5RLN07pnPoPrR6EC1axwBwkp4yjGnqNfaXVAqXm_kFQt-FIden_PXE48ro82XgtAu6_9b2bp_3cOBOauQ4n8vvk-Z_lbsbUL1fZ1TxHoN8GCbMZRiV7MUIY-PpIgo7ufCOuxpufc5VJmE0F9RtRKlfpS2QaTAcvc7eyzxItfg8x8D6BXy_AIFUt98qV8erpqX9GbLhzJSd0OZBTS6jYDE9OrQqW95Ldtzz_vQ2piGSCx0mlcswqjSiiEgYbcM-v690Jkiw_2QZwzfKgOPghgnL2iNyRP94ZLkO2wUBF1tKzSJzyc9yNonbnVlKsb7Mr6A9ezXCwK-5Jaa1ehQYvbjD-fpcw2guSHCk2PZ-gTsM-Buls6f7VFpWd8jLvKgQEXZ6LSl5Sme82a8Faf9IwhSqYpfuXi0IaA1GSUuimIDw2QW8d3HiBY2wuY8yaCIjnxj5ahetbg2iNwPELKebeejWwgjGM-2Tj9Kcr20oPrhMiesv1AFtOa3y2PozOWWgp_YBlc7ouB_Qn3gjEBfecvxVsdahH1eRnJ3-ty7mmu6oarDDA54WaJ6ud4Iwz9sfUJYI9epfCqQyMAT6ufEO4TeXbNFbSG7YYRjpFzN5-yCUOxnhgFiiHJ4mUuay_oGWUlSlekEgcs6ohs5ZP0XD5mL1EZMDgy5HA2V8EeBd31xGCePj07V3jnDtaoieh1cfZN4-Fe7vcG54IWqy1_bRUWnuUf0tjmsEmRgzGV0MhBAIpolGj3ykliUkikdsBkR2JmnMut4NH5hyhwZjRNQZSLmTNKv9nk5Wmxj7ricMHt-VrLBnLZwQtA3iQdauc0HizV4spk7dkASTfT1FJJKaucRU73HWloaRPqv84ZFCUnkX4v2PAhccT3aayvXvbknRO-gfAID2SrKBEx55GnJyiZfeHKcgzQovuyHPX-8A_k2z51BKbjHlG3akjYFZBkWe7S3hZPwAsLQtWvnfx7b3UVfmBkCV68HEhhTR-164Cl6tRlxwGLtc6UUv6lVsMUB1aGBUwt62uRlq-36aMgp62DC05ey6GY5oNWvW83rBqqFR1A5YFTGw7MDiMjSCQz2k1Tt1fGIGY4xvqSrvH-ffa7wM_JEB7VrGkr1Qj3lZZtqILRQuxGOyNgDrrTm4rmdRNfFFwoaqi5mawBVZdmMvw-4n4kymfyXR5xLovWDp5_C81UDxnhqqWMkliNbmGHCTl3TPigqDEbJKVso3rtwTgTQc72SgdVHX45yk4ObgVRkazVkXid8k6pJtrkMZ-tQlwIUpL1SyzhgJJVrC0sC5QWV2QpLYnbbfsTZxoZCdEn-82gifhXjc7Q/https://www.amazon.com/dp/B0F5MNX2PC/?_encoding=UTF8&pd_rd_i=B0F5MNX2PC&pd_rd_i=B0F5MNX2PC&ref_=sbx_be_s_sparkle_ssd_cta&pd_rd_w=4oHP9&content-id=amzn1.sym.fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=235WG4C8PM2PKD7B2DDF&pd_rd_wg=66V70&pd_rd_r=8c122ee3-c408-41e2-aae3-96107857bcda",
+        "link_clean": "https://www.amazon.com/dp/B0F5MNX2PC/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0F5MNX2PC&device=tablet&engine=amazon_product&language=en_US&shipping_location=US",
+        "thumbnail": "https://m.media-amazon.com/images/I/51nWfxcWsKL._AC_SR100,100_QL65_.jpg",
+        "video": {
+          "link": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/4cb5b4ab-fcdc-48db-9d7f-94d10daee217.mp4/productVideoOptimized.mp4",
+          "thumbnail": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/4cb5b4ab-fcdc-48db-9d7f-94d10daee217.mp4/r/THUMBNAIL_360P_FRAME_3_CAPTURE_2.JPG"
+        },
+        "rating": 4.7,
+        "reviews": 254,
+        "price": "$8.99",
+        "extracted_price": 8.99
+      },
+      {
+        "position": 2,
+        "asin": "B0FF4J6YPB",
+        "title": "2 Set Halloween Throw Pillow Covers 20x20 Inch Halloween Mummy Pillow Cover | Halloween Throw Pillow Covers, Halloween Mummy Pillow Covers with Bandage, Black and White Pillowcase, for Home Sofa Decor",
+        "link": "https://aax-us-east-retail-direct.amazon.com/x/c/JAIvGdv_lLAvpldLswI5rkYAAAGhZGIU1wEAAAH2AQBvbm9fdHhuX2JpZDMgICBvbm9fdHhuX2ltcDIgICAog70m/clv1c_ek-wBXfWLcTSXk6hthlGgETDcGlTsertTswBupquD5tvPOulF0MprriqLl7IQsQtqHdA1tu7PghAH9LWCUrg7eQUhUoG_5HpDT_EM53NyU1jIxtKgGqleGoO2Tm3pmptv8ic7iUJn9hTa-quJS8Sn2mSFM-oNlTtlMxQF386rIeWU3NFLmE6yBiCH2XeslaBmaqjE8XA_2aIV-HwwUHV4vI9MUwrlB7mnPbkZWyZCu2tZHtqQxXEB-lPvf2kXh0UOMjpydNvPHPNbtdaBVZOu28LjTewqfty5S_WpfI4-qZciG0F1aKLfBz-SCx547snwFd6Fhmc0u3A4RRXsme-tIPdtHvihewzNFbZlerwXvjCHClpDzd3Wk09Ee-K5Cc3-ZxEZ6XSvUOc71Zs5q2EXwVrXHYDUba1uZJ_W92YAYoHp6GuefCFTyqyAOs50_p4RcWRWGIV391kWnlbcG2YNzuotVBfOoHlAR3vHD_HRo11jit4s6W9nJ1hv1tYC-jntM1oL0iEE0Zew9_M1jkfFdRMO_rVQOnh7ktQsxSg-JmfyQyrJZsHniT-HFKKx9ffD1_gP1F5F7qaZ9sQApp6pPeG7DAjlyMNKzS0tDheWovcQLcphEqibYTcTD_aRm6KuJLRMgGWbFjklZV30_zFUjOmF6NpmOXeJ7D_5EsLg5ASqMGSqJri9Kvzqp919KeRnFAaOS8rwVNn_HcQOiHM5g12QVME1wAKg-kULQBiAgzKzuiBx1gseHzASV76mtIsr-_dQlrLgNdJvpEfSWOTOPcwzRbQ7wSj1Six1nNfBWBxn2pU8Ozvf-5XUlAx3KfI-KeD6edXpfNCggxnXYiR6QaQaNEUl7IjyTLocbw7bJKr8Wsi1ZrOF5IMFfZYqBTGeZWazpIpclvcFGo9eEx_uErgkOjMagP687NY7K2AQ7JsOWoeAE8Rkyt8ft4bpAqzFI_4BvSqYc6u2-lKCE4Tawn6UngSkke0rPEnOE17OK6ygtw5-jj4WBdlrsMSlfadgaKtAuWVL2sgzdXtyOfMwZ7KVuhN5gnzCeWxg2fU_h6LZ0gmLAsv4awacQVU_83fHyQqV5G2Nw2HI9qEHUrjHxqUyz-gYdaMpYB_UiKvmbWWgPzZRIkPnJ0WXTDjgeLHg1BVTMYzzpUutpd3b7HBiGOjJnwTgaXUZPNkjkxfDG9ZH0qhyhSbgW_vYMHR7NJLUu8QIuAZh7E5hsD4ygW2stmdKEVR_CiOvnO2CTqJRwdbKI9qZ02KPCEC-zXc1LYLw_ja1wafTAFFwx4nay6OkOrX0XFzz9PFhaUAG3eS8W3kmf6SgAeus3B3-osWMVr0mq0cfrm3Cy0uagplNuxjnq9tKxgwsnajwUEJvh6UTJ6ANnUdpCoN5QzoY66uOLqOv8RDsCwbFL99XfJYsaQBzwaF2nVr-yI9POe7ngR_Pli8wi6N9APZRctktrp_-KV3UbF4xQt3kEug0W8SZ-UpFv0Pu2WKOsOj8-DdR00fzQuabOPuA-Jw9HrV7kfpRi-skzUZeR5KQRu53lclWoCDkziXLmgb3xy4nXua-DWFJc5rIVvVAwL1wPmAjqMAMcX4YFpmxLEjNcFsMN6uYEX5HWmJHbPPbQF0uKmh7d86/https://www.amazon.com/dp/B0FF4J6YPB/?_encoding=UTF8&pd_rd_i=B0FF4J6YPB&pd_rd_i=B0FF4J6YPB&ref_=sbx_be_s_sparkle_ssd_cta&pd_rd_w=4oHP9&content-id=amzn1.sym.fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=235WG4C8PM2PKD7B2DDF&pd_rd_wg=66V70&pd_rd_r=8c122ee3-c408-41e2-aae3-96107857bcda",
+        "link_clean": "https://www.amazon.com/dp/B0FF4J6YPB/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0FF4J6YPB&device=tablet&engine=amazon_product&language=en_US&shipping_location=US",
+        "thumbnail": "https://m.media-amazon.com/images/I/51d1ziMFLwL._AC_SR100,100_QL65_.jpg",
+        "video": {
+          "link": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/d670a40c-885e-4245-a17d-9de1742afd3f.mp4/productVideoOptimized.mp4",
+          "thumbnail": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/d670a40c-885e-4245-a17d-9de1742afd3f.mp4/r/THUMBNAIL_360P_FRAME_3_CAPTURE_2.JPG"
+        },
+        "rating": 4.5,
+        "reviews": 23,
+        "price": "$19.99",
+        "extracted_price": 19.99,
+        "old_price": "$23.99",
+        "extracted_old_price": 23.99
+      },
+      {
+        "position": 3,
+        "asin": "B0FB3BGXJJ",
+        "title": "QIONG MENG Halloween Pillow Covers 18x18 Inch Set of 2 Black Bat Halloween Throw Pillow Covers Holiday Farmhouse Pillowcase Couch Cushion Case for Indoor Outdoor Home Sofa Decor",
+        "link": "https://aax-us-east-retail-direct.amazon.com/x/c/JLdW3P2aNWFaQPe0DS1rt3wAAAGhZGIU2AEAAAH2AQBvbm9fdHhuX2JpZDMgICBvbm9fdHhuX2ltcDIgICBhHZn4/clv1c_ek-wBYfXIrTanndycBhH7wvJbZlTLvI46jYj6ztyj0HRhOxPSgGryvVzoyVLm8UEdhF1hwXU9j8IpkthSTmqfxwOaoMV9CBZ6Ux6k1qnQEwWv8U-G03jDDB4w3t-0G25XwAoaSr7aGeoy_aRhZPGX7DZq_ns1lSpF8bYu5f7zYEAQ7N_p9dQLoH7ZK1nNMSvinKNeclAN3NgxUOdt0qN4S8HGW01DkC4q2eULq6yAgriSNHwMlo7aYesqd5l2l5qHtT26yxmHhNeWN7G96tmGgmlQZl4lkivPc0uQuyY4MAmiD5v1WtWcm9y3Q7czJfQ6FCQ5E1SLXNt5MwX4M65Sr04PpbrCtKcXvLTeW1QGKng7nLwCso86liqp8JUeP8_WrnGXDD7folo7urpxYilAu_I-BFtxuX3mVDzPIn_DMTFG0AxoKtuOVy4kDVZWwH9P7-bJBWGtufODcZ35A86g0uOlj9ky7qVjGL20zjjV11ivWedWYz5SoAL66j0H4ff8NJ4bq9DSTEtx9FRlF6-a6KlqKgikkIK7XxjAVXOWBPPGQglBQD9_8SVDtNdkk0_rJGJm5djjXJAUaSBdf32q8QXK32jbTsJnJHusfqUfCfCaxLj-aXApVou0YGKsTR51Q4AFzic0_JqnlqVcSJbwITp_MkRTt7lZcHK_py9YXFNDXjPV2r5GVLIVcUGGsMLVJcWSKzI-wUAm6LVrIFxsIqi8IyB-ZaQ2PHpaxWwtdT681fW-06R_8tPjGnQahf3TmMH2ca58_OCeB7ds0WbcgeQVl2DCS7WPqdGfcSZpZd5qSuANQsPRbx9shrAlGSNZEFgXR5R2JXGYcoF_DEFSWS023smhtqzQ5K5UCGDCr-ttZZb3IWggnnFyr5mhRSlCneCxNA0R-p633AGhgTsKzRdS5-umuZj1s7CIMLEe_e69U-4bKZBjlC2QVNzbZ0nlRazRpTj8kwcFt9pr0pnw2JcykNO29ytgrAAO2JWsZ_bx2r_xOSt8HKpaYRo1EXdGbY7vkl6FpPC_B19HheMtx80ruOZQdw9rlagUE6mg87wHftbmB9t2irQhpm2cfy3Pft4Z_MqujKJ4iqU88DVcCWukJ3kxDsmH1V961zeWP2rrkJg4c6RKEE7mdxRgQRTKWPHgvJuhMIBuTq8UVGsIDDQzHqjM5RW5u45UwJndVF8zqhasp909rkGw-ued9WuS5Kfec5WE3WqATHytWQTdTaySNzQj-HAFrerCZt-3KM_wFgfsJrW2Jz9rvpRIISMxG6wHm8h5ZtjvEdV_2O6Nt3yNyjOtfGrTlOawfcCERbpQNB2temK_wBjifEuN2-1AMhODvv7kiKS1EuwIb-89tmexR3X0bn30tPxR6KJdTFrgsNaOqUi7TsSsTSeRbMC6jdePMKpzIm8TTLuxxaFnEHT-5aPMRKqBprlP3bhkz93Vyt38E4um6kRbyUtCucXNjiSrX3sguW7JDA55dU6CVizmI3Jl1XQYdJXAwendKVl3PZi0VqhVjg7MIESliUjLL_NpP3MD0bzcdS_WaGEWO7ujzjqMvSfhGU7oJAMx2kXdpJ2jjoSjJM3STlZnYHZo2U-ouluFyI6eSB4hJTJQm1qzS5LNi6h1_LAiStr-2bN0Q/https://www.amazon.com/dp/B0FB3BGXJJ/?_encoding=UTF8&pd_rd_i=B0FB3BGXJJ&pd_rd_i=B0FB3BGXJJ&ref_=sbx_be_s_sparkle_ssd_cta&pd_rd_w=4oHP9&content-id=amzn1.sym.fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=235WG4C8PM2PKD7B2DDF&pd_rd_wg=66V70&pd_rd_r=8c122ee3-c408-41e2-aae3-96107857bcda",
+        "link_clean": "https://www.amazon.com/dp/B0FB3BGXJJ/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0FB3BGXJJ&device=tablet&engine=amazon_product&language=en_US&shipping_location=US",
+        "thumbnail": "https://m.media-amazon.com/images/I/71bSQz7hu8L._AC_SR100,100_QL65_.jpg",
+        "video": {
+          "link": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/56912d08-808e-46e5-ae86-4b2631fdf2d4.mp4/productVideoOptimized.mp4",
+          "thumbnail": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/56912d08-808e-46e5-ae86-4b2631fdf2d4.mp4/r/THUMBNAIL_360P_FRAME_3_CAPTURE_2.JPG"
+        },
+        "rating": 4.6,
+        "reviews": 20,
+        "price": "$15.99",
+        "extracted_price": 15.99,
+        "old_price": "$17.99",
+        "extracted_old_price": 17.99
+      },
+      {
+        "position": 4,
+        "asin": "B0D2KCY7V9",
+        "title": "DR.DUDU 36 Pack Halloween Bats Wall Decor Halloween Decorations Indoor | Light Up Flashing Modes, Assorted Size, 3D Bat Stickers, for Bedroom Party Walls Bathroom Mirrors Garages Door",
+        "link": "https://aax-us-east-retail-direct.amazon.com/x/c/JAq6TGCq1P8sp4wD7wh3ihYAAAGhZGIU2QEAAAH2AQBvbm9fdHhuX2JpZDMgICBvbm9fdHhuX2ltcDIgICBN1wSn/clv1c_ek-YxXXWVcbaTfWXb9qsChu3EVwubnsntNvTnmI86i63Eu7BPwnBF0-cSh3gdM7j3NhKuDrI8SpUA0QZl_fIlaX5cjNXktcxU3tqLQj_8sB1hxDySDBJfiQ15u9yZhJyVCZXtc2ZPJ4A5V34ZaFGMO8O-X2ck006Esc5irWix45LGaqdF32JZGMvPxCMo3qNzOzZr_hqIH_QxYW8NIVC-Hs9OJSVBky8HsRikUXa0q3fdYapU0OnufIsyI6do17J2_mi3rgs0xZfJjh0xt4Dt9FkSCaLaJUA_i4A3z5CqrSVpEXYXVsYd-jSwsQrxKSVcoNVAMp8jTFQY5Z3vuNFC0j-tTDA9wstnk6kJCq98XC-EwI_6l1XXy9r5oYS0pFjaHe6aySDMg1WRIp0xOyIcc9RvxP8a-aTOTJ-h5PsRw--8tRMgrtXYso82YPV4H9bZG60Pdz1G-MficppURJKZFkNy1NGcOvze_kqdaTBDWwSwTFh37r7hqppzUecRx6KQa_trD8rnlbWp0Im8MAYT6uGuRGaCB3ICJ8A0L6h2JWeacc_N_jRpyGH6ydl6W5MNJedrQWHk-3ko13ZITvnKiZOiygjty__KzSqMLluUosB1bYmhsohTRQbDT_a45bjsh1bZuy4Xlop4BRi07Db7438rB1Qd6gwXJ-8Uof8n-JPbR16pw6m4Z9IOUq5N768r5DWlExNU44JYqormB-WCjR_z4MJr4BB6EXRBi5EwLtfvFiu_zJpCMiShSwGfYETyddTJZt60ZsrLq1NATOq1eSDKDWMdRGk56MadZZNxjdD5HSGVl-CwpJ7e64xOu6oKEi6SKg5GVcRx5RduNK51ZR1EOL4TJeXGGGjivbBogfNOcCmT5A_VnSBlVWJevupGe_suNfev3_cXCJpOlX142k5hZQBzoyvzyHj2BPaLiwQJ8d8oqN3xyqWC1MTelQ1zUxqJEReTt1_BgljOn5ZCEtnWXHy_x451iFmE9oprlXCo7ee922Ruefr9S9lyAFHz_Dg-SWBRw4RbLm-OWUH_7gXVt4L3_TSU-DsqJ5h_4y6-WEi91eEhALMK0rtpuAf6LMq2zh2FhkKLIYN-jq2blje9ucfQ9iLH9vR3aFyhg0RTI24xSaCU6nhqrjTK397b9Dqpsh9OZ_Uh_nGEbTswHUMkx5uk2qzNZL1FsMLct1OUrlXXkY4vtoZjtTs8IissCUZE41efjN7iieRKPmzxgRz3Rlr5_SQvHGBvTrLyIK5ibPuQRF8f6Ebz_BETOdJNeT5GAGQN0GbCorQfqTodwYmq11ahnxLexb3expnLRA9lYDIbLWKxZZGGgtezsAx4bv_KLLq_fEvF4s82zBHQ9ja71h2lALy_cVP6bodS-nFAUP5DgJP4xRj_lmen_mYWfrWunpJEDi0v6cVGqSxn9mEH4YouCmiZ-spqQbV6YNtllutg-A8ZuEj1bBf19U0v8xkIJz5RUxa2Oi-NXifrkPeD_2jBpkLe7yyB9bIVGQ11GQEW3aWI9lT4OawvWmu_-lRXyb27BBtogM_NIwcWdWrRdgG4VcUpNFNKmPuplkYwqjErv3Mc1mQYl2lC4dTX8F8BOwu/https://www.amazon.com/dp/B0D2KCY7V9/?_encoding=UTF8&pd_rd_i=B0D2KCY7V9&pd_rd_i=B0D2KCY7V9&ref_=sbx_be_s_sparkle_ssd_cta&pd_rd_w=4oHP9&content-id=amzn1.sym.fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=235WG4C8PM2PKD7B2DDF&pd_rd_wg=66V70&pd_rd_r=8c122ee3-c408-41e2-aae3-96107857bcda",
+        "link_clean": "https://www.amazon.com/dp/B0D2KCY7V9/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0D2KCY7V9&device=tablet&engine=amazon_product&language=en_US&shipping_location=US",
+        "thumbnail": "https://m.media-amazon.com/images/I/51Voc1LthHL._AC_SR100,100_QL65_.jpg",
+        "video": {
+          "link": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/56200f19-0e5f-4cdb-bd1e-5a3adfd54e16.mp4/productVideoOptimized.mp4",
+          "thumbnail": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/56200f19-0e5f-4cdb-bd1e-5a3adfd54e16.mp4/r/THUMBNAIL_360P_FRAME_3_CAPTURE_2.JPG"
+        },
+        "rating": 3.6,
+        "reviews": 702,
+        "price": "$19.99",
+        "extracted_price": 19.99,
+        "old_price": "$24.99",
+        "extracted_old_price": 24.99
+      },
+      {
+        "position": 5,
+        "asin": "B0F8QDGQ3K",
+        "title": "ZAEW Boo Witch Hat Cat Halloween Throw Pillow Covers Home Decor 18x18In | Set of 4 Invisible Zipper Pillow Cases for Home Sofa Couch Living Room Outdoor Holiday Decorations",
+        "link": "https://aax-us-east-retail-direct.amazon.com/x/c/JP970e0lakj2FDS68azW5QIAAAGhZGIU2gEAAAH2AQBvbm9fdHhuX2JpZDMgICBvbm9fdHhuX2ltcDIgICBkTXYC/clv1c_ek-wBXfWLbTaXU6hthlGgETDcGlTsertjsXmTiBE14O4PflVFH1-ZqvaZBxAU8rT1O0ebtjQ_GdAE0RJGkZYk4HuCDm_ly7bmUmsvDYk7MD327GrbTf8WiJwMvl1sXjluTg6Thx_jZwXjkEYLWWsrnS-ANyfkuWqkAmxzjip5PLfmOkTi5tNjB7oozY-1oc53PSCib5HAR2wzbSd0djBdwRRLw4-DUM73K5LBot36bWha7_TuGaER5wXXY2HA4VPuFrCJFbhsymQyod2y-pzLFMhMHiIarMROWtqt2JYAFyZcdR3FrxanSb1h4TBZ1ngFCnEjPw7BzzQRs7AZfdkJJGZ_FGnSMqdD_6j-IgIpvuGkKJNCtJ3hO5odbo4TGi8rl0sXxBWgF7VIDs417C5aKq85Ac6jub56sQDHsT1_WzHN--OurPUYlB_id2AOYdtSEG-70ntAeN1E7X7qgnvFV8d7f4sdH9ZNlBJvsap9sUnFtO2j_JnTSlRAHTyVPgoprzNCEhHHJSLXBVc9JuYvcgP6qoHUwsXSJ5yBYN-U9pfTslpVFhuZTwDrRBQ07PYV_62PRwS_nT1wPZfXWMqJA9kKVVCGWs7uhzGhuph9GbH3m3Y7yaQYP5fnrexC1q-5Orkev5zZZA4jWYklrDDagCTL74-n9T9H7FN6PjHTmnjOerk5NuoWidg3GrAvukipGZYuyK3VurmqhfZkLzKJnCBhIukfj0HJGXARhA2SuvxgJgiEn9rj1v5pe54z6M-nZ9ehAEqtaovvDYNY9ZRsVkyqX-rF9c4hGhAQ50VuHxPxIAvBrFuNlRvuTvdjmu-d8hTzvUPfBH5nr91nKEu5F9IX64y0U8G6Qo1prvyeFn3e85BOSGIybCtu3XoxkSKheunE9Re0NAcfBZcXadyDGoueqdMaYs37IhG5QUidM-bR4vfIdWH-EDsP6eANLhOt1lkkHoEgfkAkswaK1rpI0BWK-nOHUloiXvf3Ujrag4kvVufPfZRWjAowtWZN2-SaXe8BIagJid9xQvLs3OMKMi7yfk75Qyb3VF_mqhGAJE_RBsgSfzY0qKhurFGMXx1tsyW51GFqnFniJvT0gXOFdiNOrmzQFi81MmqeDvoReMiBTmpEm4Y-CVmnciwN4xBWO-fV-d8n_NrrM4ub3HAD1cApbzWOOJR_Qg55gHTsxUjLvC_SBeCTe9BKAkIOsH3bO2pE_ycOM2z8_hxYtMuGaOU1dvisrkbf4GQq3yYjFXex_hnOq_Z8g1tAf3U8sEx9QctnOD0quZQFTHarvzmNE-HBWu4lY1hl8_aSAMSDEf9glrqOR98JxbedEYSsrU3eIzic6w_2yC7kShYzCBUeT1QekUygRv3qrMe8arrfKZJNm-ismrvMCx2KOtWYh5uZZUfXTiEmvWVJSQBIUsrAIAuW6-q9aySWUjGnBfVT0BfousmGu6EdcnSj3hML8BtitOYojmtqC-rSwyYK0HP7lMI9aILA9k6MqMNFhZ9dv7j5tBNBleFr_igbvtL5vnvLOa_BcZ7Uji6D02DQy1ym5EusM2MuxgdRE03GbYZS0seALI1pyMQUBT_0pmDzAd0UMOINf_UVYRk1mcMrbRb9EDme6enpljwf8dLnioVsinndwboiA/https://www.amazon.com/dp/B0F8QDGQ3K/?_encoding=UTF8&pd_rd_i=B0F8QDGQ3K&pd_rd_i=B0F8QDGQ3K&ref_=sbx_be_s_sparkle_ssd_cta&pd_rd_w=4oHP9&content-id=amzn1.sym.fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=235WG4C8PM2PKD7B2DDF&pd_rd_wg=66V70&pd_rd_r=8c122ee3-c408-41e2-aae3-96107857bcda",
+        "link_clean": "https://www.amazon.com/dp/B0F8QDGQ3K/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0F8QDGQ3K&device=tablet&engine=amazon_product&language=en_US&shipping_location=US",
+        "thumbnail": "https://m.media-amazon.com/images/I/51CmdZM1pJL._AC_SR100,100_QL65_.jpg",
+        "video": {
+          "link": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/226f4ae6-310e-43b2-9b64-ba5322f10400.mp4/productVideoOptimized.mp4",
+          "thumbnail": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/226f4ae6-310e-43b2-9b64-ba5322f10400.mp4/r/THUMBNAIL_360P_FRAME_3_CAPTURE_2.JPG"
+        },
+        "rating": 4.7,
+        "reviews": 19,
+        "price": "$13.99",
+        "extracted_price": 13.99
+      }
+    ],
+    "reviews_information": {
+      "summary": {
+        "text": "Customers love these Halloween pillow covers for their cute ghost pattern and soft textured design, with one noting it's a perfect mix of soft and spooky. The covers are versatile for decorating, particularly for the spooky season, and feature a sturdy zipper closure that's easy to remove the pillow form. They fit 20-inch throw pillows nicely, hold up well in the wash, and one customer mentions the color is thick enough that it doesn't show through.",
+        "insights": [
+          {
+            "title": "Appearance",
+            "sentiment": "positive",
+            "mentions": {
+              "total": 258,
+              "positive": 255,
+              "negative": 3
+            },
+            "summary": "Customers love the appearance of these pillow covers, describing them as extremely cute with a cute little ghost pattern that looks just as pictured.",
+            "examples": [
+              {
+                "position": 1,
+                "snippet": "...Probably too nice to be a Halloween pillow, but they are ghosts. So cute I bought more for everybody. Pink, white, and beige, all nice....",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R6QGH7QW9L2I0"
+              },
+              {
+                "position": 2,
+                "snippet": "These Halloween pillow covers are such a cute and easy way to add some Halloween décor without having to buy completely new pillows....",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R3NLCY8I13UZ7C"
+              },
+              {
+                "position": 3,
+                "snippet": "Super cute! These were a great grab for Halloween - love that they're a pillow cover and not an actual pillow. Look just like the photo....",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/RJVD5TG37MMYP"
+              },
+              {
+                "position": 4,
+                "snippet": "These are ADORABLE, I love the way they look, however it is worth noting that the zippers are sticky and the material they used for the ghosts does...",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R3D0QV6A8AHVFW"
+              }
+            ]
+          },
+          {
+            "title": "Quality",
+            "sentiment": "positive",
+            "mentions": {
+              "total": 198,
+              "positive": 186,
+              "negative": 12
+            },
+            "summary": "Customers love these pillow covers, finding them to be of good quality, with one customer mentioning they received many compliments for them.",
+            "examples": [
+              {
+                "position": 1,
+                "snippet": "...They are GORGEOUS with the cute little ghost babies , great quality, and fit pillow easily. the ghosts are SOOO FLUFFY SOFT. do not hesitate....",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R2RG36LPQ8WQHT"
+              },
+              {
+                "position": 2,
+                "snippet": "Perfect for my patio! Seems like good quality so far. They have gotten some rain and have held up with no smell or shedding.",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/RN90R0YFW8Y8S"
+              },
+              {
+                "position": 3,
+                "snippet": "These are so cute! Love them. I made an excellent choice . Love the softness! The color! How well made they are.",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R2BXR37455J0HN"
+              },
+              {
+                "position": 4,
+                "snippet": "So soft. Very bright color. Love these. Perfect for my couch. No shedding. Easy zipper to remove pillow form for easy storage. Great buy.",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R22N1TLEAVOZON"
+              }
+            ]
+          },
+          {
+            "title": "Softness",
+            "sentiment": "positive",
+            "mentions": {
+              "total": 132,
+              "positive": 129,
+              "negative": 3
+            },
+            "summary": "Customers appreciate the pillow covers' softness, describing them as fluffy and textured, with one customer noting the perfect balance of softness and spooky feel.",
+            "examples": [
+              {
+                "position": 1,
+                "snippet": "I absolutely love these pillow covers! The quality is excellent—soft, plush, and cozy, with a nice faux fur wool texture that feels so comfortable....",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R3FIGWA6GPZIAM"
+              },
+              {
+                "position": 2,
+                "snippet": "...The ghosts are like a furry fuzzy material so they are super soft. They did come vacuum sealed but I did not notice any kind of smell....",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/RU52N1AJXM8H6"
+              },
+              {
+                "position": 3,
+                "snippet": "...They are so beautiful and so soft. The ghosts are super cute too! I purchased the white and they go great with my neutral fall/halloween decor....",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R1YOWVMOD2JERO"
+              },
+              {
+                "position": 4,
+                "snippet": "...They’re actually fuzzy and raised on the case and it’s just adorable! Very soft - going to see if they have others for the other holidays !",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R2T0J66SWPF4HP"
+              }
+            ]
+          },
+          {
+            "title": "Seasonality",
+            "sentiment": "positive",
+            "mentions": {
+              "total": 69,
+              "positive": 67,
+              "negative": 2
+            },
+            "summary": "Customers find these pillow covers perfect for Halloween decoration, noting they add a festive touch and work well with ghost themes.",
+            "examples": [
+              {
+                "position": 1,
+                "snippet": "These pillow cases as perfect for Halloween!! They are comfortable and have held up nicely. The white is the perfect white color....",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R1DOD9283JH7V9"
+              },
+              {
+                "position": 2,
+                "snippet": "These Halloween pillow covers are an absolute must! They’re so cute, festive, and add the perfect seasonal touch to my home décor....",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R3MAKRK4V0KICK"
+              },
+              {
+                "position": 3,
+                "snippet": "So soft. Very bright color. Love these. Perfect for my couch. No shedding. Easy zipper to remove pillow form for easy storage. Great buy.",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R22N1TLEAVOZON"
+              },
+              {
+                "position": 4,
+                "snippet": "Machine washable and a great addition for Halloween!",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R2RRIM2CXM3B7A"
+              }
+            ]
+          },
+          {
+            "title": "Zipper quality",
+            "sentiment": "positive",
+            "mentions": {
+              "total": 42,
+              "positive": 30,
+              "negative": 12
+            },
+            "summary": "Customers like the zipper quality of these pillow covers, finding it sturdy and easy to use, with one customer noting that it's wide enough to fit their previous square pillows.",
+            "examples": [
+              {
+                "position": 1,
+                "snippet": "...The size pits my pillows perfectly and the zipper is durable and didn’t catch much. They do shed a tiny bit, as expected....",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R2T8Q5N75D4MHJ"
+              },
+              {
+                "position": 2,
+                "snippet": "...They fit perfectly over my standard throw pillows, and the zippers are hidden and smooth....",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R2VM2LKLU1QBD9"
+              },
+              {
+                "position": 3,
+                "snippet": "...The fabric on the back of the pillow is thin and the zipper is very small and doesn't feel like it's going to last....",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/RYA90G3YJVUHU"
+              },
+              {
+                "position": 4,
+                "snippet": "...They are very soft as well. The zipper is discreet and not even noticeable when they are on. Definitely recommend!",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/RRAU8L8ZE02GA"
+              }
+            ]
+          },
+          {
+            "title": "Fit",
+            "sentiment": "positive",
+            "mentions": {
+              "total": 38,
+              "positive": 36,
+              "negative": 2
+            },
+            "summary": "Customers are satisfied with how the pillow covers fit, particularly noting that they accommodate 20-inch throw pillows nicely.",
+            "examples": [
+              {
+                "position": 1,
+                "snippet": "Love these, so soft and fit perfectly.",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/RLEWQ7DCZM5KL"
+              },
+              {
+                "position": 2,
+                "snippet": "Beautiful color, the fabric is so soft, and a perfect fit! Excellent holiday decor! Good quality for the price!",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R3RAREQ4DPN3H4"
+              },
+              {
+                "position": 3,
+                "snippet": "These fit my pillows perfectly! They are exactly as pictured!",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R2N4CS1ZGLIAQ8"
+              },
+              {
+                "position": 4,
+                "snippet": "These are bootiful! I love the pillow covers. They fit perfect and are so soft",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R15UBENWGDCLJV"
+              }
+            ]
+          },
+          {
+            "title": "Color",
+            "sentiment": "positive",
+            "mentions": {
+              "total": 25,
+              "positive": 23,
+              "negative": 2
+            },
+            "summary": "Customers like the pillow covers' color, describing them as clean white and vibrant, with one customer noting that the material is thick enough to prevent color from showing through.",
+            "examples": [
+              {
+                "position": 1,
+                "snippet": "Beautiful color, the fabric is so soft, and a perfect fit! Excellent holiday decor! Good quality for the price!",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R3RAREQ4DPN3H4"
+              },
+              {
+                "position": 2,
+                "snippet": "These Halloween pillows are comfortable and just as vibrant as shown in the photo. They look great on the couch and add the perfect festive touch.",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R2S15Q38QYYKST"
+              },
+              {
+                "position": 3,
+                "snippet": "Product quality is good; colors are as pictured. Zipper catches puffed fabric but works with patience. These are the cutest pillow covers ever.",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R1P7NEA9OEFCT6"
+              },
+              {
+                "position": 4,
+                "snippet": "...Color is exactly as pictured, and seams are stitched tight....",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/RO9CGP7LP1EPR"
+              }
+            ]
+          },
+          {
+            "title": "Durability",
+            "sentiment": "positive",
+            "mentions": {
+              "total": 25,
+              "positive": 18,
+              "negative": 7
+            },
+            "summary": "Customers find the pillow covers durable, noting they hold up well in the wash and don't rip. One customer mentions they will be using them for years to come.",
+            "examples": [
+              {
+                "position": 1,
+                "snippet": "...My kids love them! The zipper feels substantial and durable. We will be sad to put these away at the end of the season.",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R3TVAT16G1NZA6"
+              },
+              {
+                "position": 2,
+                "snippet": "...Perfect for relaxing or just interior design. The fabric is durable, the pattern is wonderful, and the price point is great....",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R1YSY4V6X1LBM8"
+              },
+              {
+                "position": 3,
+                "snippet": "These are adorable! I’m not sure how durable they’ll be for extended use, but at least two seasons as long as my kids aren’t tossing them....",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R1HYS13R26MYZM"
+              },
+              {
+                "position": 4,
+                "snippet": "Price was great and they are cuter in person. Very soft and held up well in the wash. Fit my pillows as advertised....",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R2I2IGPZQFS60C"
+              }
+            ]
+          }
+        ],
+        "images": [
+          "https://m.media-amazon.com/images/I/81JOAml-IuL.jpg",
+          "https://m.media-amazon.com/images/I/71w0qfWvQCL.jpg",
+          "https://m.media-amazon.com/images/I/718f6vNJ3XL.jpg",
+          "https://m.media-amazon.com/images/I/7198JgQSleL.jpg",
+          "https://m.media-amazon.com/images/I/719ccxJJChL.jpg",
+          "https://m.media-amazon.com/images/I/81iYCP75MqL.jpg",
+          "https://m.media-amazon.com/images/I/71DcjhtNz-L.jpg",
+          "https://m.media-amazon.com/images/I/61d5lIkq91L.jpg",
+          "https://m.media-amazon.com/images/I/715ib+jlC9L.jpg",
+          "https://m.media-amazon.com/images/I/71wLAMDp8QL.jpg",
+          "https://m.media-amazon.com/images/I/81aaJgAXtYL.jpg",
+          "https://m.media-amazon.com/images/I/71wO035a7gL.jpg"
+        ],
+        "customer_reviews": {
+          "5 star": 88,
+          "4 star": 7,
+          "3 star": 3,
+          "2 star": 1,
+          "1 star": 1
+        }
+      },
+      "authors_reviews": [
+        {
+          "position": 1,
+          "title": "Pretty",
+          "text": "OMG so cute!! Ghosts are fluffy and pillow case is nice! Perfect to lighten your spooky",
+          "rating": 5.0,
+          "date": "October 10, 2026",
+          "author": "David Spencer",
+          "author_link": "https://www.amazon.com/gp/profile/amzn1.account.AFBWJEDO3TTC25FOECTUDDCB7K5A?ref=cm_cr_dp_d_bdcrb_top",
+          "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SX48_.png",
+          "helpful_votes": "One person found this helpful",
+          "verified_purchase": true,
+          "product": {
+            "color": "White Black",
+            "size": "18\" x 18\" (Pack of 2)"
+          }
+        },
+        {
+          "position": 2,
+          "title": "Adorably Spooky and Soft 👻👻👻",
+          "text": "These Halloween pillow covers exceeded my expectations! The material is incredibly soft and plush—perfect for adding a cozy, festive vibe to my living room. They’re not just decorative; they’re actually comfortable enough to lean on during movie nights.The designs are adorable and fun without being too over-the-top. I got a few different patterns (ghosts, pumpkins, bats), and they all look just as vibrant and detailed in person as they did online. They fit perfectly over my standard throw pillows, and the zippers are hidden and smooth.Such an easy way to add some Halloween spirit to the house without going full haunted mansion. I’ll definitely be pulling these out every October—and maybe even leaving them out a little longer!Highly recommend for anyone who loves Halloween decor that’s both cute and comfy.",
+          "rating": 5.0,
+          "date": "October 5, 2025",
+          "author": "Paul Billman",
+          "author_link": "https://www.amazon.com/gp/profile/amzn1.account.AE6UGYIJ5EE52IVHMLTIUOPE3QQA?ref=cm_cr_dp_d_bdcrb_top",
+          "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SX48_.png",
+          "images": [
+            "https://m.media-amazon.com/images/I/71WrcJzdFmL.jpg"
+          ],
+          "helpful_votes": "6 people found this helpful",
+          "verified_purchase": true,
+          "product": {
+            "color": "White Black",
+            "size": "18\" x 18\" (Pack of 2)"
+          }
+        },
+        {
+          "position": 3,
+          "title": "Nice",
+          "text": "So cute! Very soft and well made.",
+          "rating": 5.0,
+          "date": "October 10, 2026",
+          "author": "Martha",
+          "author_link": "https://www.amazon.com/gp/profile/amzn1.account.AGH44INWQETHCH5JE3WWZ4RIDTUQ?ref=cm_cr_dp_d_bdcrb_top",
+          "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/cae13a22-03b8-40d5-aae1-9c0419143f0d._CR11%2C0%2C478%2C478_SX460_SX48_.jpg",
+          "images": [
+            "https://m.media-amazon.com/images/I/715ib+jlC9L.jpg",
+            "https://m.media-amazon.com/images/I/71wLAMDp8QL.jpg"
+          ],
+          "helpful_votes": "One person found this helpful",
+          "verified_purchase": true,
+          "product": {
+            "color": "White Black",
+            "size": "18\" x 18\" (Pack of 2)"
+          }
+        },
+        {
+          "position": 4,
+          "title": "Super cute.",
+          "text": "Super SUPERA CUTE! Love these. Love how the ghost are raised and offer some texture. Definitely added some fun to the family room.",
+          "rating": 5.0,
+          "date": "October 12, 2026",
+          "author": "LeeLeeLabros",
+          "author_link": "https://www.amazon.com/gp/profile/amzn1.account.AF7KJ7ASGGUY4IC2DA6TCBCB4H2A?ref=cm_cr_dp_d_bdcrb_top",
+          "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SX48_.png",
+          "verified_purchase": true,
+          "product": {
+            "color": "White Black Ghost",
+            "size": "20\" x 20\" (Pack of 2)"
+          }
+        },
+        {
+          "position": 5,
+          "title": "So cute!",
+          "text": "These are my favorite! Soft and adorable",
+          "rating": 5.0,
+          "date": "October 14, 2026",
+          "author": "Lisa M",
+          "author_link": "https://www.amazon.com/gp/profile/amzn1.account.AF5ZE4YO5IAOOSAOU2TUMXHMDL3Q?ref=cm_cr_dp_d_bdcrb_top",
+          "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SX48_.png",
+          "images": [
+            "https://m.media-amazon.com/images/I/81iYCP75MqL.jpg"
+          ],
+          "verified_purchase": true,
+          "product": {
+            "color": "White Black",
+            "size": "18\" x 18\" (Pack of 2)"
+          }
+        },
+        {
+          "position": 6,
+          "title": "Cute Halloween Touch for My Couch",
+          "text": "These Halloween pillow covers are such a cute and easy way to add some Halloween décor without having to buy completely new pillows. The ghost design is adorable and the white color looks nice with my other decorations. The 16x16 inch size fit my pillow inserts well, and I like that you get two covers in the set. They’re a simple little decoration, but they definitely make the room feel more festive for Halloween.",
+          "rating": 5.0,
+          "date": "October 5, 2026",
+          "author": "Tatyiana",
+          "author_link": "https://www.amazon.com/gp/profile/amzn1.account.AEG3ML5UH2TMYPR24CQYVIM3ZWQQ?ref=cm_cr_dp_d_bdcrb_top",
+          "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SX48_.png",
+          "helpful_votes": "One person found this helpful",
+          "verified_purchase": true,
+          "product": {
+            "color": "White Black",
+            "size": "16\" x 16\" (Pack of 2)"
+          }
+        },
+        {
+          "position": 7,
+          "title": "cute!",
+          "text": "these are very cute. i will say when i washed it i had orange fuzz on the rest of my stuff, so just be aware. definitely not the best quality but just for a few weeks of use out of the year i like them!",
+          "rating": 4.0,
+          "date": "September 13, 2026",
+          "author": "Megan L",
+          "author_link": "https://www.amazon.com/gp/profile/amzn1.account.AEOHPT6GFXASSAXQS4GDLCJUQGEA?ref=cm_cr_dp_d_bdcrb_top",
+          "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SX48_.png",
+          "helpful_votes": "One person found this helpful",
+          "verified_purchase": true,
+          "product": {
+            "color": "Orange Black Ghost",
+            "size": "20\" x 20\" (Pack of 2)"
+          }
+        },
+        {
+          "position": 8,
+          "title": "Absolutely adorable and well made!!",
+          "text": "First let me state that I have never written a review. That being said I give these pillowcases a 10+! They are absolutely adorable. I definitely did not expect the quality for the price I paid! Awesome job! 👏🏻👏🏻👏🏻",
+          "rating": 5.0,
+          "date": "October 2, 2026",
+          "author": "Amazon Customer",
+          "author_link": "https://www.amazon.com/gp/profile/amzn1.account.AGVIJINXBXZ6COVPYUGJQY25HNKQ?ref=cm_cr_dp_d_bdcrb_top",
+          "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/0a1e065c-4f98-4b72-8952-995624676102._CR0%2C0%2C1120%2C1120_SX460_SX48_.jpg",
+          "images": [
+            "https://m.media-amazon.com/images/I/81JOAml-IuL.jpg"
+          ],
+          "verified_purchase": true,
+          "product": {
+            "color": "Orange",
+            "size": "18\" x 18\" (Pack of 2)"
+          }
+        }
+      ],
+      "other_countries_reviews": [
+        {
+          "position": 1,
+          "title": "Super cute",
+          "text": "I love these pillows and get lots of compliments on them.",
+          "rating": 5.0,
+          "date": "December 21, 2025",
+          "author": "Jen Haddock",
+          "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SX48_.png",
+          "verified_purchase": true,
+          "product": {
+            "color": "Black",
+            "size": "18\" x 18\" (Pack of 2)"
+          },
+          "country": {
+            "code": "CA",
+            "name": "Canada"
+          },
+          "language": {
+            "code": "en",
+            "name": "English (Canada)"
+          }
+        },
+        {
+          "position": 2,
+          "title": "super cute",
+          "text": "great quality and super cute, love them!",
+          "rating": 5.0,
+          "date": "October 24, 2025",
+          "author": "Melissa Fitzpatrick",
+          "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SX48_.png",
+          "verified_purchase": true,
+          "product": {
+            "color": "White Black",
+            "size": "18\" x 18\" (Pack of 2)"
+          },
+          "country": {
+            "code": "AU",
+            "name": "Australia"
+          },
+          "language": {
+            "code": "en",
+            "name": "English (Australia)"
+          }
+        },
+        {
+          "position": 3,
+          "title": "Tellement beau 🤩",
+          "text": "Vraiment cute et de très bonne qualité honnêtement je ne m’attendais pas cela ! Très heureuse de mon achat !",
+          "rating": 5.0,
+          "date": "November 17, 2024",
+          "author": "Mylene dauphinais",
+          "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SX48_.png",
+          "verified_purchase": true,
+          "product": {
+            "color": "White Black",
+            "size": "18\" x 18\" (Pack of 2)"
+          },
+          "country": {
+            "code": "CA",
+            "name": "Canada"
+          },
+          "language": {
+            "code": "fr",
+            "name": "French (Canada)"
+          }
+        },
+        {
+          "position": 4,
+          "title": "Perfect",
+          "text": "Cutest nicest pillow covers ever ❤️",
+          "rating": 5.0,
+          "date": "January 24, 2025",
+          "author": "BM",
+          "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SX48_.png",
+          "verified_purchase": true,
+          "product": {
+            "color": "White Black",
+            "size": "18\" x 18\" (Pack of 2)"
+          },
+          "country": {
+            "code": "CA",
+            "name": "Canada"
+          },
+          "language": {
+            "code": "en",
+            "name": "English (Canada)"
+          }
+        },
+        {
+          "position": 5,
+          "title": "Great Pillows",
+          "text": "These are extremely soft and the perfect size.",
+          "rating": 5.0,
+          "date": "September 27, 2026",
+          "author": "Brittany L.",
+          "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SX48_.png",
+          "verified_purchase": true,
+          "product": {
+            "color": "White Black",
+            "size": "18\" x 18\" (Pack of 2)"
+          },
+          "country": {
+            "code": "CA",
+            "name": "Canada"
+          },
+          "language": {
+            "code": "en",
+            "name": "English (Canada)"
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,2450 @@
+{
+  "provider": "serpapi",
+  "endpoint": "https://serpapi.com/search.json",
+  "parameters": {
+    "engine": "amazon",
+    "k": "christmas gift baskets",
+    "amazon_domain": "amazon.com",
+    "language": "en_US",
+    "shipping_location": "US",
+    "s": "exact-aware-popularity-rank",
+    "output": "json"
+  },
+  "fetched_at_utc": "2026-10-22T08:44:31.410907+00:00",
+  "raw_file": "raw/serpapi-c43cfe7f63b02a4d3b71.json",
+  "response": {
+    "search_metadata": {
+      "id": "6ad9ccf0d5fd74d927459db5",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/rPWfiC9uBHl3x3y6vtt9w1xZO3ItC1q3yh-xmAIywfQ/6ad9ccf0d5fd74d927459db5.json",
+      "markdown_endpoint": "https://serpapi.com/searches/rPWfiC9uBHl3x3y6vtt9w1xZO3ItC1q3yh-xmAIywfQ/6ad9ccf0d5fd74d927459db5.md",
+      "created_at": "2026-10-22 08:44:32 UTC",
+      "processed_at": "2026-10-22 08:44:32 UTC",
+      "amazon_url": "https://www.amazon.com/s?k=christmas+gift+baskets&s=exact-aware-popularity-rank&language=en_US",
+      "raw_html_file": "https://serpapi.com/searches/rPWfiC9uBHl3x3y6vtt9w1xZO3ItC1q3yh-xmAIywfQ/6ad9ccf0d5fd74d927459db5.html",
+      "total_time_taken": 1.71
+    },
+    "search_parameters": {
+      "engine": "amazon",
+      "k": "christmas gift baskets",
+      "amazon_domain": "amazon.com",
+      "language": "en_US",
+      "s": "exact-aware-popularity-rank",
+      "device": "desktop",
+      "shipping_location": "US"
+    },
+    "search_information": {
+      "total_results": 27634,
+      "query_displayed": "christmas gift baskets",
+      "store": "gateway",
+      "page": 1
+    },
+    "organic_results": [
+      {
+        "position": 1,
+        "asin": "B004SK4KIG",
+        "options": "4 sizes, 2 flavors",
+        "options_link": "https://www.amazon.com/Chocolate-Peanut-Butter-Halloween-Assortment/dp/B004SK4KIG/ref=vo_sr_l_dp?dib=eyJ2IjoiMSJ9.0UJO_seQAxLPlvFBmKu_7gQgJ_rP-xvy4exz1p2bLRiZQ-BoEIImB0k-wEq18iLDNM17TrIgSrq5gW9sMmxsjEN9oj25ZL-f47syIXWz_umEr7ioEeYunhXQCC3-OeW8XFyiNNuB4vTE5P5Oi4bD2xucIcjaSBZ0QkeEhwiUtNvUqIzG8uCCGO0jhVTAe-6FrHyRvIN--sa5dRWiyP-kCbgLV_N1P0FOIHuaNsHwGZkeWn4rrGZTNn11yMOIMhqoL1UPr8Nz_jTCGBA2qoIpOppZX0Bi5zNSPziP_68VZfQ.wHoPek3OPnH1ADzbZ8tC0dBKf7fiQjR9vNPWxOE3V4E&dib_tag=se&keywords=christmas+gift+baskets&qid=1792658673&sr=8-1",
+        "title": "M&M'S Milk Chocolate Candy, Bulk Candy Variety Pack, Full Size, Pack of 18",
+        "link": "https://www.amazon.com/Chocolate-Peanut-Butter-Halloween-Assortment/dp/B004SK4KIG/ref=sr_1_1?dib=eyJ2IjoiMSJ9.0UJO_seQAxLPlvFBmKu_7gQgJ_rP-xvy4exz1p2bLRiZQ-BoEIImB0k-wEq18iLDNM17TrIgSrq5gW9sMmxsjEN9oj25ZL-f47syIXWz_umEr7ioEeYunhXQCC3-OeW8XFyiNNuB4vTE5P5Oi4bD2xucIcjaSBZ0QkeEhwiUtNvUqIzG8uCCGO0jhVTAe-6FrHyRvIN--sa5dRWiyP-kCbgLV_N1P0FOIHuaNsHwGZkeWn4rrGZTNn11yMOIMhqoL1UPr8Nz_jTCGBA2qoIpOppZX0Bi5zNSPziP_68VZfQ.wHoPek3OPnH1ADzbZ8tC0dBKf7fiQjR9vNPWxOE3V4E&dib_tag=se&keywords=christmas+gift+baskets&qid=1792658673&sr=8-1",
+        "link_clean": "https://www.amazon.com/Chocolate-Peanut-Butter-Halloween-Assortment/dp/B004SK4KIG/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B004SK4KIG&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "thumbnail": "https://m.media-amazon.com/images/I/61zo-Hoc-BL._AC_UL320_.jpg",
+        "rating": 4.7,
+        "reviews": 6500,
+        "bought_last_month": "30K+ bought in past month",
+        "price": "$21.88",
+        "extracted_price": 21.88,
+        "offers": [
+          "90 days free of Amazon Music with purchase",
+          "SNAP EBT eligible"
+        ],
+        "snap_ebt_eligible": true,
+        "delivery": [
+          "FREE delivery Tue, Oct 27 on $35 of items shipped by Amazon",
+          "Arrives before Halloween"
+        ],
+        "climate_pledge_friendly": true,
+        "sustainability_features": [
+          {
+            "position": 1,
+            "name": "Farming practices",
+            "snippet": "Made with materials harvested from responsibly managed farms.",
+            "thumbnail": "https://m.media-amazon.com/images/I/512wYW170mL._SS200_.png",
+            "certified_by": "Rainforest Alliance",
+            "certified_info": "Rainforest Alliance certified products help farmers follow more sustainable, climate-smart farming practices that protect natural resources and the environment based on land, water, and energy use. These practices also safeguard carbon-storing forests and help farmers mitigate and adapt to climate change."
+          },
+          {
+            "position": 2,
+            "name": "Biodiversity",
+            "snippet": "Made with materials harvested in a way that helps protect animals, plants, and a healthy ecosystem.",
+            "thumbnail": "https://m.media-amazon.com/images/I/512wYW170mL._SS200_.png",
+            "certified_by": "Rainforest Alliance",
+            "certified_info": "Rainforest Alliance certified products help farmers follow more sustainable, climate-smart farming practices that protect natural resources and the environment based on land, water, and energy use. These practices also safeguard carbon-storing forests and help farmers mitigate and adapt to climate change."
+          },
+          {
+            "position": 3,
+            "name": "Forestry practices",
+            "snippet": "Made with materials harvested from responsibly managed forests.",
+            "thumbnail": "https://m.media-amazon.com/images/I/512wYW170mL._SS200_.png",
+            "certified_by": "Rainforest Alliance",
+            "certified_info": "Rainforest Alliance certified products help farmers follow more sustainable, climate-smart farming practices that protect natural resources and the environment based on land, water, and energy use. These practices also safeguard carbon-storing forests and help farmers mitigate and adapt to climate change."
+          },
+          {
+            "position": 4,
+            "name": "Worker well-being",
+            "snippet": "Manufactured on farms or in facilities that protect the rights and/or health of workers.",
+            "thumbnail": "https://m.media-amazon.com/images/I/512wYW170mL._SS200_.png",
+            "certified_by": "Rainforest Alliance",
+            "certified_info": "Rainforest Alliance certified products help farmers follow more sustainable, climate-smart farming practices that protect natural resources and the environment based on land, water, and energy use. These practices also safeguard carbon-storing forests and help farmers mitigate and adapt to climate change."
+          }
+        ],
+        "purchase_options": [
+          {
+            "primary_price": "$21.88",
+            "extracted_primary_price": 21.88,
+            "secondary_price": "90 days free of Amazon Music with purchaseSNAP EBT eligible",
+            "extracted_secondary_price": 90
+          }
+        ]
+      },
+      {
+        "position": 2,
+        "asin": "B0CN8N224C",
+        "variants": {
+          "options": [
+            {
+              "position": 1,
+              "asin": "B0CN8N224C",
+              "title": "White, 1 Pack",
+              "link": "https://www.amazon.com/Happyiren-Container-Organizer-Magazines-Decorative/dp/B0CN8N224C/ref=cs_sr_dp_loc_1?dib=eyJ2IjoiMSJ9.0UJO_seQAxLPlvFBmKu_7gQgJ_rP-xvy4exz1p2bLRiZQ-BoEIImB0k-wEq18iLDNM17TrIgSrq5gW9sMmxsjEN9oj25ZL-f47syIXWz_umEr7ioEeYunhXQCC3-OeW8XFyiNNuB4vTE5P5Oi4bD2xucIcjaSBZ0QkeEhwiUtNvUqIzG8uCCGO0jhVTAe-6FrHyRvIN--sa5dRWiyP-kCbgLV_N1P0FOIHuaNsHwGZkeWn4rrGZTNn11yMOIMhqoL1UPr8Nz_jTCGBA2qoIpOppZX0Bi5zNSPziP_68VZfQ.wHoPek3OPnH1ADzbZ8tC0dBKf7fiQjR9vNPWxOE3V4E&dib_tag=se&keywords=christmas+gift+baskets&qid=1792658673&sr=8-2"
+            },
+            {
+              "position": 2,
+              "asin": "B0D8ZJKB9J",
+              "title": "Blue",
+              "link": "https://www.amazon.com/Happyiren-Container-Organizer-Magazines-Decorative/dp/B0D8ZJKB9J/ref=cs_sr_dp_loc_2?dib=eyJ2IjoiMSJ9.0UJO_seQAxLPlvFBmKu_7gQgJ_rP-xvy4exz1p2bLRiZQ-BoEIImB0k-wEq18iLDNM17TrIgSrq5gW9sMmxsjEN9oj25ZL-f47syIXWz_umEr7ioEeYunhXQCC3-OeW8XFyiNNuB4vTE5P5Oi4bD2xucIcjaSBZ0QkeEhwiUtNvUqIzG8uCCGO0jhVTAe-6FrHyRvIN--sa5dRWiyP-kCbgLV_N1P0FOIHuaNsHwGZkeWn4rrGZTNn11yMOIMhqoL1UPr8Nz_jTCGBA2qoIpOppZX0Bi5zNSPziP_68VZfQ.wHoPek3OPnH1ADzbZ8tC0dBKf7fiQjR9vNPWxOE3V4E&dib_tag=se&keywords=christmas+gift+baskets&qid=1792658673&sr=8-2"
+            },
+            {
+              "position": 3,
+              "asin": "B0F29SWK4V",
+              "title": "Bright Pink+Cellophane & Ribbon",
+              "link": "https://www.amazon.com/Happyiren-Container-Organizer-Magazines-Decorative/dp/B0F29SWK4V/ref=cs_sr_dp_loc_3?dib=eyJ2IjoiMSJ9.0UJO_seQAxLPlvFBmKu_7gQgJ_rP-xvy4exz1p2bLRiZQ-BoEIImB0k-wEq18iLDNM17TrIgSrq5gW9sMmxsjEN9oj25ZL-f47syIXWz_umEr7ioEeYunhXQCC3-OeW8XFyiNNuB4vTE5P5Oi4bD2xucIcjaSBZ0QkeEhwiUtNvUqIzG8uCCGO0jhVTAe-6FrHyRvIN--sa5dRWiyP-kCbgLV_N1P0FOIHuaNsHwGZkeWn4rrGZTNn11yMOIMhqoL1UPr8Nz_jTCGBA2qoIpOppZX0Bi5zNSPziP_68VZfQ.wHoPek3OPnH1ADzbZ8tC0dBKf7fiQjR9vNPWxOE3V4E&dib_tag=se&keywords=christmas+gift+baskets&qid=1792658673&sr=8-2"
+            },
+            {
+              "position": 4,
+              "asin": "B0CRR31SFW",
+              "title": "Grey",
+              "link": "https://www.amazon.com/Happyiren-Container-Organizer-Magazines-Decorative/dp/B0CRR31SFW/ref=cs_sr_dp_loc_4?dib=eyJ2IjoiMSJ9.0UJO_seQAxLPlvFBmKu_7gQgJ_rP-xvy4exz1p2bLRiZQ-BoEIImB0k-wEq18iLDNM17TrIgSrq5gW9sMmxsjEN9oj25ZL-f47syIXWz_umEr7ioEeYunhXQCC3-OeW8XFyiNNuB4vTE5P5Oi4bD2xucIcjaSBZ0QkeEhwiUtNvUqIzG8uCCGO0jhVTAe-6FrHyRvIN--sa5dRWiyP-kCbgLV_N1P0FOIHuaNsHwGZkeWn4rrGZTNn11yMOIMhqoL1UPr8Nz_jTCGBA2qoIpOppZX0Bi5zNSPziP_68VZfQ.wHoPek3OPnH1ADzbZ8tC0dBKf7fiQjR9vNPWxOE3V4E&dib_tag=se&keywords=christmas+gift+baskets&qid=1792658673&sr=8-2"
+            },
+            {
+              "position": 5,
+              "asin": "B0FFMCZKMY",
+              "title": "Hunter Green",
+              "link": "https://www.amazon.com/Happyiren-Container-Organizer-Magazines-Decorative/dp/B0FFMCZKMY/ref=cs_sr_dp_loc_5?dib=eyJ2IjoiMSJ9.0UJO_seQAxLPlvFBmKu_7gQgJ_rP-xvy4exz1p2bLRiZQ-BoEIImB0k-wEq18iLDNM17TrIgSrq5gW9sMmxsjEN9oj25ZL-f47syIXWz_umEr7ioEeYunhXQCC3-OeW8XFyiNNuB4vTE5P5Oi4bD2xucIcjaSBZ0QkeEhwiUtNvUqIzG8uCCGO0jhVTAe-6FrHyRvIN--sa5dRWiyP-kCbgLV_N1P0FOIHuaNsHwGZkeWn4rrGZTNn11yMOIMhqoL1UPr8Nz_jTCGBA2qoIpOppZX0Bi5zNSPziP_68VZfQ.wHoPek3OPnH1ADzbZ8tC0dBKf7fiQjR9vNPWxOE3V4E&dib_tag=se&keywords=christmas+gift+baskets&qid=1792658673&sr=8-2"
+            },
+            {
+              "position": 6,
+              "asin": "B0D5XS52Z5",
+              "title": "Pink",
+              "link": "https://www.amazon.com/Happyiren-Container-Organizer-Magazines-Decorative/dp/B0D5XS52Z5/ref=cs_sr_dp_loc_6?dib=eyJ2IjoiMSJ9.0UJO_seQAxLPlvFBmKu_7gQgJ_rP-xvy4exz1p2bLRiZQ-BoEIImB0k-wEq18iLDNM17TrIgSrq5gW9sMmxsjEN9oj25ZL-f47syIXWz_umEr7ioEeYunhXQCC3-OeW8XFyiNNuB4vTE5P5Oi4bD2xucIcjaSBZ0QkeEhwiUtNvUqIzG8uCCGO0jhVTAe-6FrHyRvIN--sa5dRWiyP-kCbgLV_N1P0FOIHuaNsHwGZkeWn4rrGZTNn11yMOIMhqoL1UPr8Nz_jTCGBA2qoIpOppZX0Bi5zNSPziP_68VZfQ.wHoPek3OPnH1ADzbZ8tC0dBKf7fiQjR9vNPWxOE3V4E&dib_tag=se&keywords=christmas+gift+baskets&qid=1792658673&sr=8-2"
+            }
+          ],
+          "more_variants": "+10",
+          "more_variants_link": "https://www.amazon.com/Happyiren-Container-Organizer-Magazines-Decorative/dp/B0CN8N224C/ref=cs_sr_dp_loc_n?dib=eyJ2IjoiMSJ9.0UJO_seQAxLPlvFBmKu_7gQgJ_rP-xvy4exz1p2bLRiZQ-BoEIImB0k-wEq18iLDNM17TrIgSrq5gW9sMmxsjEN9oj25ZL-f47syIXWz_umEr7ioEeYunhXQCC3-OeW8XFyiNNuB4vTE5P5Oi4bD2xucIcjaSBZ0QkeEhwiUtNvUqIzG8uCCGO0jhVTAe-6FrHyRvIN--sa5dRWiyP-kCbgLV_N1P0FOIHuaNsHwGZkeWn4rrGZTNn11yMOIMhqoL1UPr8Nz_jTCGBA2qoIpOppZX0Bi5zNSPziP_68VZfQ.wHoPek3OPnH1ADzbZ8tC0dBKf7fiQjR9vNPWxOE3V4E&dib_tag=se&keywords=christmas+gift+baskets&qid=1792658673&sr=8-2"
+        },
+        "title": "Happyiren Medium Woven Cotton Rope Basket, Empty DIY Gift Basket for Burr",
+        "link": "https://www.amazon.com/Happyiren-Container-Organizer-Magazines-Decorative/dp/B0CN8N224C/ref=sr_1_2?dib=eyJ2IjoiMSJ9.0UJO_seQAxLPlvFBmKu_7gQgJ_rP-xvy4exz1p2bLRiZQ-BoEIImB0k-wEq18iLDNM17TrIgSrq5gW9sMmxsjEN9oj25ZL-f47syIXWz_umEr7ioEeYunhXQCC3-OeW8XFyiNNuB4vTE5P5Oi4bD2xucIcjaSBZ0QkeEhwiUtNvUqIzG8uCCGO0jhVTAe-6FrHyRvIN--sa5dRWiyP-kCbgLV_N1P0FOIHuaNsHwGZkeWn4rrGZTNn11yMOIMhqoL1UPr8Nz_jTCGBA2qoIpOppZX0Bi5zNSPziP_68VZfQ.wHoPek3OPnH1ADzbZ8tC0dBKf7fiQjR9vNPWxOE3V4E&dib_tag=se&keywords=christmas+gift+baskets&qid=1792658673&sr=8-2",
+        "link_clean": "https://www.amazon.com/Happyiren-Container-Organizer-Magazines-Decorative/dp/B0CN8N224C/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0CN8N224C&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "thumbnail": "https://m.media-amazon.com/images/I/71CF5JAfisL._AC_UL320_.jpg",
+        "rating": 4.6,
+        "reviews": 1300,
+        "bought_last_month": "10K+ bought in past month",
+        "price": "$9.99",
+        "extracted_price": 9.99,
+        "delivery": [
+          "FREE delivery Tue, Oct 27 on $35 of items shipped by Amazon"
+        ],
+        "purchase_options": [
+          {
+            "primary_price": "$9.99",
+            "extracted_primary_price": 9.99
+          }
+        ]
+      },
+      {
+        "position": 3,
+        "asin": "B08GLRLH25",
+        "title": "FUKKUDA Electric Candle Lighter, Rechargeable USB Arc Lighter for Candles, Fireplace, Camping BBQ, Christmas Stocking Stuffers, Birthday, Valentines Day and Easter Gifts for Women Men (Obsidian Black)",
+        "link": "https://www.amazon.com/Electric-Lighter%EF%BC%8CUSB-Charge%EF%BC%8CRechargeable%EF%BC%8CArc%EF%BC%8CPlasma-Candles%EF%BC%8CFireworks%EF%BC%8CGrill%EF%BC%8CCook-Obsidian/dp/B08GLRLH25/ref=sr_1_3?dib=eyJ2IjoiMSJ9.0UJO_seQAxLPlvFBmKu_7gQgJ_rP-xvy4exz1p2bLRiZQ-BoEIImB0k-wEq18iLDNM17TrIgSrq5gW9sMmxsjEN9oj25ZL-f47syIXWz_umEr7ioEeYunhXQCC3-OeW8XFyiNNuB4vTE5P5Oi4bD2xucIcjaSBZ0QkeEhwiUtNvUqIzG8uCCGO0jhVTAe-6FrHyRvIN--sa5dRWiyP-kCbgLV_N1P0FOIHuaNsHwGZkeWn4rrGZTNn11yMOIMhqoL1UPr8Nz_jTCGBA2qoIpOppZX0Bi5zNSPziP_68VZfQ.wHoPek3OPnH1ADzbZ8tC0dBKf7fiQjR9vNPWxOE3V4E&dib_tag=se&keywords=christmas+gift+baskets&qid=1792658673&sr=8-3",
+        "link_clean": "https://www.amazon.com/Electric-Lighter%EF%BC%8CUSB-Charge%EF%BC%8CRechargeable%EF%BC%8CArc%EF%BC%8CPlasma-Candles%EF%BC%8CFireworks%EF%BC%8CGrill%EF%BC%8CCook-Obsidian/dp/B08GLRLH25/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B08GLRLH25&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "thumbnail": "https://m.media-amazon.com/images/I/51VfDACoTBL._AC_UL320_.jpg",
+        "rating": 4.4,
+        "reviews": 20700,
+        "bought_last_month": "10K+ bought in past month",
+        "price": "$8.99",
+        "extracted_price": 8.99,
+        "old_price": "$9.99",
+        "extracted_old_price": 9.99,
+        "delivery": [
+          "FREE delivery Thu, Oct 29 on $35 of items shipped by Amazon"
+        ],
+        "climate_pledge_friendly": true,
+        "sustainability_features": [
+          {
+            "position": 1,
+            "name": "Carbon impact",
+            "snippet": "Carbon emissions from the lifecycle of this product were measured, reduced and/or offset.",
+            "thumbnail": "https://m.media-amazon.com/images/I/314xGMCjZxL._SS200_.png",
+            "certified_by": "ClimatePartner Verified",
+            "certified_info": "ClimatePartner Verified certifies products and services from companies that have calculated their carbon footprint, set reduction targets, implemented reduction measures, and financed certified climate projects. ClimatePartner is an independent certification partner that enables companies to take measurable climate action with full transparency via an individual Climate ID page."
+          }
+        ],
+        "purchase_options": [
+          {
+            "primary_price": "$8.99",
+            "extracted_primary_price": 8.99,
+            "old_primary_price": "$9.99",
+            "extracted_old_primary_price": 9.99
+          }
+        ]
+      },
+      {
+        "position": 4,
+        "asin": "B01N22CM3F",
+        "title": "CRAVEBOX Snacks Variety Pack, 45 Count Snack Box Halloween Care Package",
+        "link": "https://www.amazon.com/CRAVEBOX-Variety-Valentines-Chocolate-Arrangement/dp/B01N22CM3F/ref=sr_1_4?dib=eyJ2IjoiMSJ9.0UJO_seQAxLPlvFBmKu_7gQgJ_rP-xvy4exz1p2bLRiZQ-BoEIImB0k-wEq18iLDNM17TrIgSrq5gW9sMmxsjEN9oj25ZL-f47syIXWz_umEr7ioEeYunhXQCC3-OeW8XFyiNNuB4vTE5P5Oi4bD2xucIcjaSBZ0QkeEhwiUtNvUqIzG8uCCGO0jhVTAe-6FrHyRvIN--sa5dRWiyP-kCbgLV_N1P0FOIHuaNsHwGZkeWn4rrGZTNn11yMOIMhqoL1UPr8Nz_jTCGBA2qoIpOppZX0Bi5zNSPziP_68VZfQ.wHoPek3OPnH1ADzbZ8tC0dBKf7fiQjR9vNPWxOE3V4E&dib_tag=se&keywords=christmas+gift+baskets&qid=1792658673&sr=8-4",
+        "link_clean": "https://www.amazon.com/CRAVEBOX-Variety-Valentines-Chocolate-Arrangement/dp/B01N22CM3F/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B01N22CM3F&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "thumbnail": "https://m.media-amazon.com/images/I/91ARWatitIL._AC_UL320_.jpg",
+        "rating": 4.4,
+        "reviews": 45100,
+        "bought_last_month": "8K+ bought in past month",
+        "price": "$29.95",
+        "extracted_price": 29.95,
+        "delivery": [
+          "FREE delivery Tue, Oct 27 on $35 of items shipped by Amazon",
+          "Arrives before Halloween"
+        ],
+        "purchase_options": [
+          {
+            "primary_price": "$29.95",
+            "extracted_primary_price": 29.95
+          }
+        ]
+      },
+      {
+        "position": 5,
+        "asin": "B0B34RZJ3C",
+        "title": "NUTTY TOYS Parachute Toys for Kids - Tangle Free Outdoor Flying Parachute Men, Top Indoor & Outside, 3 4 5 6 7 8 9 10 11 12 Year Old, Best Christmas Stocking Stuffers Idea 2026 Unique Boy & Girl Gifts",
+        "link": "https://www.amazon.com/Nutty-Toys-Parachute-Kids-Christmas/dp/B0B34RZJ3C/ref=sr_1_5?dib=eyJ2IjoiMSJ9.0UJO_seQAxLPlvFBmKu_7gQgJ_rP-xvy4exz1p2bLRiZQ-BoEIImB0k-wEq18iLDNM17TrIgSrq5gW9sMmxsjEN9oj25ZL-f47syIXWz_umEr7ioEeYunhXQCC3-OeW8XFyiNNuB4vTE5P5Oi4bD2xucIcjaSBZ0QkeEhwiUtNvUqIzG8uCCGO0jhVTAe-6FrHyRvIN--sa5dRWiyP-kCbgLV_N1P0FOIHuaNsHwGZkeWn4rrGZTNn11yMOIMhqoL1UPr8Nz_jTCGBA2qoIpOppZX0Bi5zNSPziP_68VZfQ.wHoPek3OPnH1ADzbZ8tC0dBKf7fiQjR9vNPWxOE3V4E&dib_tag=se&keywords=christmas+gift+baskets&qid=1792658673&sr=8-5",
+        "link_clean": "https://www.amazon.com/Nutty-Toys-Parachute-Kids-Christmas/dp/B0B34RZJ3C/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0B34RZJ3C&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "thumbnail": "https://m.media-amazon.com/images/I/919IobzAInL._AC_UL320_.jpg",
+        "rating": 4.4,
+        "reviews": 2900,
+        "bought_last_month": "7K+ bought in past month",
+        "price": "$8.97",
+        "extracted_price": 8.97,
+        "delivery": [
+          "FREE delivery Tue, Oct 27 on $35 of items shipped by Amazon"
+        ],
+        "age_rating": "3 years and up",
+        "purchase_options": [
+          {
+            "primary_price": "$8.97",
+            "extracted_primary_price": 8.97
+          }
+        ]
+      },
+      {
+        "position": 6,
+        "asin": "B095JZTMGX",
+        "title": "Electric Candle Lighter, Christmas Stocking Stuffers Gifts for Women Mom Men Wife, USB Arc Rechargeable Windproof Long Lighter for Candle BBQ Housewarming Birthday Gifts Idals",
+        "link": "https://www.amazon.com/MEIRUBY-Lighter-Electric-Rechargeable-Lighters/dp/B095JZTMGX/ref=sr_1_6?dib=eyJ2IjoiMSJ9.0UJO_seQAxLPlvFBmKu_7gQgJ_rP-xvy4exz1p2bLRiZQ-BoEIImB0k-wEq18iLDNM17TrIgSrq5gW9sMmxsjEN9oj25ZL-f47syIXWz_umEr7ioEeYunhXQCC3-OeW8XFyiNNuB4vTE5P5Oi4bD2xucIcjaSBZ0QkeEhwiUtNvUqIzG8uCCGO0jhVTAe-6FrHyRvIN--sa5dRWiyP-kCbgLV_N1P0FOIHuaNsHwGZkeWn4rrGZTNn11yMOIMhqoL1UPr8Nz_jTCGBA2qoIpOppZX0Bi5zNSPziP_68VZfQ.wHoPek3OPnH1ADzbZ8tC0dBKf7fiQjR9vNPWxOE3V4E&dib_tag=se&keywords=christmas+gift+baskets&qid=1792658673&sr=8-6",
+        "link_clean": "https://www.amazon.com/MEIRUBY-Lighter-Electric-Rechargeable-Lighters/dp/B095JZTMGX/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B095JZTMGX&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "thumbnail": "https://m.media-amazon.com/images/I/61-kUNGSMyL._AC_UL320_.jpg",
+        "rating": 4.4,
+        "reviews": 23800,
+        "bought_last_month": "9K+ bought in past month",
+        "price": "$12.99",
+        "extracted_price": 12.99,
+        "delivery": [
+          "FREE delivery Tue, Oct 27 on $35 of items shipped by Amazon"
+        ],
+        "more_buying_choices": "$12.13 (5+ used & new offers)",
+        "more_buying_choices_link": "https://www.amazon.com/gp/offer-listing/B095JZTMGX/ref=sr_1_6_olp?keywords=christmas+gift+baskets&dib_tag=se&dib=eyJ2IjoiMSJ9.0UJO_seQAxLPlvFBmKu_7gQgJ_rP-xvy4exz1p2bLRiZQ-BoEIImB0k-wEq18iLDNM17TrIgSrq5gW9sMmxsjEN9oj25ZL-f47syIXWz_umEr7ioEeYunhXQCC3-OeW8XFyiNNuB4vTE5P5Oi4bD2xucIcjaSBZ0QkeEhwiUtNvUqIzG8uCCGO0jhVTAe-6FrHyRvIN--sa5dRWiyP-kCbgLV_N1P0FOIHuaNsHwGZkeWn4rrGZTNn11yMOIMhqoL1UPr8Nz_jTCGBA2qoIpOppZX0Bi5zNSPziP_68VZfQ.wHoPek3OPnH1ADzbZ8tC0dBKf7fiQjR9vNPWxOE3V4E&qid=1792658673&sr=8-6",
+        "purchase_options": [
+          {
+            "primary_price": "$12.99",
+            "extracted_primary_price": 12.99,
+            "more_buying_choices": "$12.13 (5+ used & new offers)",
+            "more_buying_choices_link": "https://www.amazon.com/gp/offer-listing/B095JZTMGX/ref=sr_1_6_olp?keywords=christmas+gift+baskets&dib_tag=se&dib=eyJ2IjoiMSJ9.0UJO_seQAxLPlvFBmKu_7gQgJ_rP-xvy4exz1p2bLRiZQ-BoEIImB0k-wEq18iLDNM17TrIgSrq5gW9sMmxsjEN9oj25ZL-f47syIXWz_umEr7ioEeYunhXQCC3-OeW8XFyiNNuB4vTE5P5Oi4bD2xucIcjaSBZ0QkeEhwiUtNvUqIzG8uCCGO0jhVTAe-6FrHyRvIN--sa5dRWiyP-kCbgLV_N1P0FOIHuaNsHwGZkeWn4rrGZTNn11yMOIMhqoL1UPr8Nz_jTCGBA2qoIpOppZX0Bi5zNSPziP_68VZfQ.wHoPek3OPnH1ADzbZ8tC0dBKf7fiQjR9vNPWxOE3V4E&qid=1792658673&sr=8-6"
+          }
+        ]
+      },
+      {
+        "position": 7,
+        "asin": "B0D817LX3Z",
+        "title": "Birthday Gifts for Women, Mom, Unique Pink Spa Relaxation Baskets Set",
+        "link": "https://www.amazon.com/Womens-Gifts-Christmas-2024-Girlfriend/dp/B0D817LX3Z/ref=sr_1_7?dib=eyJ2IjoiMSJ9.0UJO_seQAxLPlvFBmKu_7gQgJ_rP-xvy4exz1p2bLRiZQ-BoEIImB0k-wEq18iLDNM17TrIgSrq5gW9sMmxsjEN9oj25ZL-f47syIXWz_umEr7ioEeYunhXQCC3-OeW8XFyiNNuB4vTE5P5Oi4bD2xucIcjaSBZ0QkeEhwiUtNvUqIzG8uCCGO0jhVTAe-6FrHyRvIN--sa5dRWiyP-kCbgLV_N1P0FOIHuaNsHwGZkeWn4rrGZTNn11yMOIMhqoL1UPr8Nz_jTCGBA2qoIpOppZX0Bi5zNSPziP_68VZfQ.wHoPek3OPnH1ADzbZ8tC0dBKf7fiQjR9vNPWxOE3V4E&dib_tag=se&keywords=christmas+gift+baskets&qid=1792658673&sr=8-7",
+        "link_clean": "https://www.amazon.com/Womens-Gifts-Christmas-2024-Girlfriend/dp/B0D817LX3Z/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0D817LX3Z&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "thumbnail": "https://m.media-amazon.com/images/I/81nKQq7vfgL._AC_UL320_.jpg",
+        "rating": 4.8,
+        "reviews": 2100,
+        "bought_last_month": "6K+ bought in past month",
+        "price": "$9.99",
+        "extracted_price": 9.99,
+        "top_rated": true,
+        "delivery": [
+          "FREE delivery Tue, Oct 27 on $35 of items shipped by Amazon"
+        ],
+        "purchase_options": [
+          {
+            "primary_price": "$9.99",
+            "extracted_primary_price": 9.99
+          }
+        ]
+      },
+      {
+        "position": 8,
+        "asin": "B09WXZ383C",
+        "badges": [
+          "Limited time deal"
+        ],
+        "title": "Large Black Magnetic Gift Box 13.5x10x4\" with Ribbon, Card & Shredded Paper",
+        "link": "https://www.amazon.com/LIFELUM-Gift-13-5x10x4-Groomsmen-Groomsman/dp/B09WXZ383C/ref=sr_1_8?dib=eyJ2IjoiMSJ9.0UJO_seQAxLPlvFBmKu_7gQgJ_rP-xvy4exz1p2bLRiZQ-BoEIImB0k-wEq18iLDNM17TrIgSrq5gW9sMmxsjEN9oj25ZL-f47syIXWz_umEr7ioEeYunhXQCC3-OeW8XFyiNNuB4vTE5P5Oi4bD2xucIcjaSBZ0QkeEhwiUtNvUqIzG8uCCGO0jhVTAe-6FrHyRvIN--sa5dRWiyP-kCbgLV_N1P0FOIHuaNsHwGZkeWn4rrGZTNn11yMOIMhqoL1UPr8Nz_jTCGBA2qoIpOppZX0Bi5zNSPziP_68VZfQ.wHoPek3OPnH1ADzbZ8tC0dBKf7fiQjR9vNPWxOE3V4E&dib_tag=se&keywords=christmas+gift+baskets&qid=1792658673&sr=8-8",
+        "link_clean": "https://www.amazon.com/LIFELUM-Gift-13-5x10x4-Groomsmen-Groomsman/dp/B09WXZ383C/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B09WXZ383C&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "thumbnail": "https://m.media-amazon.com/images/I/61beq86wG+L._AC_UL320_.jpg",
+        "rating": 4.6,
+        "reviews": 3500,
+        "bought_last_month": "5K+ bought in past month",
+        "price": "$9.98",
+        "extracted_price": 9.98,
+        "old_price": "$11.99",
+        "extracted_old_price": 11.99,
+        "delivery": [
+          "FREE delivery Tue, Oct 27 on $35 of items shipped by Amazon"
+        ],
+        "purchase_options": [
+          {
+            "primary_price": "$9.98",
+            "extracted_primary_price": 9.98,
+            "old_primary_price": "$11.99",
+            "extracted_old_primary_price": 11.99
+          }
+        ]
+      },
+      {
+        "position": 9,
+        "asin": "B0DRV92ZD1",
+        "title": "2 Pack Candle Lighter USB Rechargeable Electric Plasma Arc Lighters with Safety Lock, Windproof Flameless Lighters Long Stem Matches for Candle, Grill,Christmas Birthday Gifts Women(Black, Gold)",
+        "link": "https://www.amazon.com/LcFun-Rechargeable-Windproof-Flameless-Champagne/dp/B0DRV92ZD1/ref=sr_1_9?dib=eyJ2IjoiMSJ9.0UJO_seQAxLPlvFBmKu_7gQgJ_rP-xvy4exz1p2bLRiZQ-BoEIImB0k-wEq18iLDNM17TrIgSrq5gW9sMmxsjEN9oj25ZL-f47syIXWz_umEr7ioEeYunhXQCC3-OeW8XFyiNNuB4vTE5P5Oi4bD2xucIcjaSBZ0QkeEhwiUtNvUqIzG8uCCGO0jhVTAe-6FrHyRvIN--sa5dRWiyP-kCbgLV_N1P0FOIHuaNsHwGZkeWn4rrGZTNn11yMOIMhqoL1UPr8Nz_jTCGBA2qoIpOppZX0Bi5zNSPziP_68VZfQ.wHoPek3OPnH1ADzbZ8tC0dBKf7fiQjR9vNPWxOE3V4E&dib_tag=se&keywords=christmas+gift+baskets&qid=1792658673&sr=8-9",
+        "link_clean": "https://www.amazon.com/LcFun-Rechargeable-Windproof-Flameless-Champagne/dp/B0DRV92ZD1/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0DRV92ZD1&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "thumbnail": "https://m.media-amazon.com/images/I/61euLYsn+YL._AC_UL320_.jpg",
+        "rating": 4.6,
+        "reviews": 1800,
+        "bought_last_month": "5K+ bought in past month",
+        "price": "$7.99",
+        "extracted_price": 7.99,
+        "offers": [
+          "Save 5% on 5 select item(s)"
+        ],
+        "delivery": [
+          "FREE delivery Tue, Oct 27 on $35 of items shipped by Amazon"
+        ],
+        "climate_pledge_friendly": true,
+        "sustainability_features": [
+          {
+            "position": 1,
+            "name": "Recycled materials",
+            "snippet": "Contains at least 50% recycled material.",
+            "thumbnail": "https://m.media-amazon.com/images/I/51IhSrucIyL._SS200_.png",
+            "certified_by": "Global Recycled Standard",
+            "certified_info": "Global Recycled Standard (GRS) certified products contain recycled content (>50%) that has been independently verified at each stage of the supply chain, from the source to the final product and meet social, environmental, and chemical requirements. The purchase of Global Recycled Standard (GRS) certified products supports the use of recycled content in the supply chain."
+          },
+          {
+            "position": 2,
+            "name": "Safer chemicals",
+            "snippet": "Made with chemicals safer for human health and the environment.",
+            "thumbnail": "https://m.media-amazon.com/images/I/51IhSrucIyL._SS200_.png",
+            "certified_by": "Global Recycled Standard",
+            "certified_info": "Global Recycled Standard (GRS) certified products contain recycled content (>50%) that has been independently verified at each stage of the supply chain, from the source to the final product and meet social, environmental, and chemical requirements. The purchase of Global Recycled Standard (GRS) certified products supports the use of recycled content in the supply chain."
+          },
+          {
+            "position": 3,
+            "name": "Worker well-being",
+            "snippet": "Manufactured on farms or in facilities that protect the rights and/or health of workers.",
+            "thumbnail": "https://m.media-amazon.com/images/I/51IhSrucIyL._SS200_.png",
+            "certified_by": "Global Recycled Standard",
+            "certified_info": "Global Recycled Standard (GRS) certified products contain recycled content (>50%) that has been independently verified at each stage of the supply chain, from the source to the final product and meet social, environmental, and chemical requirements. The purchase of Global Recycled Standard (GRS) certified products supports the use of recycled content in the supply chain."
+          }
+        ],
+        "purchase_options": [
+          {
+            "primary_price": "$7.99",
+            "extracted_primary_price": 7.99
+          }
+        ]
+      },
+      {
+        "position": 10,
+        "asin": "B005CUMHFE",
+        "title": "PAYDAY Peanut Caramel Candy Bars, 1.85 oz, 24 ct",
+        "link": "https://www.amazon.com/PAYDAY-Peanut-Caramel-Candy-Pack/dp/B005CUMHFE/ref=sr_1_10?dib=eyJ2IjoiMSJ9.0UJO_seQAxLPlvFBmKu_7gQgJ_rP-xvy4exz1p2bLRiZQ-BoEIImB0k-wEq18iLDNM17TrIgSrq5gW9sMmxsjEN9oj25ZL-f47syIXWz_umEr7ioEeYunhXQCC3-OeW8XFyiNNuB4vTE5P5Oi4bD2xucIcjaSBZ0QkeEhwiUtNvUqIzG8uCCGO0jhVTAe-6FrHyRvIN--sa5dRWiyP-kCbgLV_N1P0FOIHuaNsHwGZkeWn4rrGZTNn11yMOIMhqoL1UPr8Nz_jTCGBA2qoIpOppZX0Bi5zNSPziP_68VZfQ.wHoPek3OPnH1ADzbZ8tC0dBKf7fiQjR9vNPWxOE3V4E&dib_tag=se&keywords=christmas+gift+baskets&qid=1792658673&rdc=1&sr=8-10",
+        "link_clean": "https://www.amazon.com/PAYDAY-Peanut-Caramel-Candy-Pack/dp/B005CUMHFE/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B005CUMHFE&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "thumbnail": "https://m.media-amazon.com/images/I/811ZLk4hlbL._AC_UL320_.jpg",
+        "rating": 4.6,
+        "reviews": 14700,
+        "bought_last_month": "5K+ bought in past month",
+        "price": "$27.84",
+        "extracted_price": 27.84,
+        "save_with_coupon": "Extra 10% off when you subscribe",
+        "offers": [
+          "SNAP EBT eligible"
+        ],
+        "snap_ebt_eligible": true,
+        "delivery": [
+          "FREE delivery Tue, Oct 27 on $35 of items shipped by Amazon"
+        ],
+        "more_buying_choices": "$26.96 (16 new offers)",
+        "more_buying_choices_link": "https://www.amazon.com/gp/offer-listing/B005CUMHFE/ref=sr_1_10_olp?keywords=christmas+gift+baskets&dib_tag=se&dib=eyJ2IjoiMSJ9.0UJO_seQAxLPlvFBmKu_7gQgJ_rP-xvy4exz1p2bLRiZQ-BoEIImB0k-wEq18iLDNM17TrIgSrq5gW9sMmxsjEN9oj25ZL-f47syIXWz_umEr7ioEeYunhXQCC3-OeW8XFyiNNuB4vTE5P5Oi4bD2xucIcjaSBZ0QkeEhwiUtNvUqIzG8uCCGO0jhVTAe-6FrHyRvIN--sa5dRWiyP-kCbgLV_N1P0FOIHuaNsHwGZkeWn4rrGZTNn11yMOIMhqoL1UPr8Nz_jTCGBA2qoIpOppZX0Bi5zNSPziP_68VZfQ.wHoPek3OPnH1ADzbZ8tC0dBKf7fiQjR9vNPWxOE3V4E&qid=1792658673&sr=8-10",
+        "purchase_options": [
+          {
+            "primary_price": "$27.84",
+            "extracted_primary_price": 27.84,
+            "more_buying_choices": "$26.96 (16 new offers)",
+            "more_buying_choices_link": "https://www.amazon.com/gp/offer-listing/B005CUMHFE/ref=sr_1_10_olp?keywords=christmas+gift+baskets&dib_tag=se&dib=eyJ2IjoiMSJ9.0UJO_seQAxLPlvFBmKu_7gQgJ_rP-xvy4exz1p2bLRiZQ-BoEIImB0k-wEq18iLDNM17TrIgSrq5gW9sMmxsjEN9oj25ZL-f47syIXWz_umEr7ioEeYunhXQCC3-OeW8XFyiNNuB4vTE5P5Oi4bD2xucIcjaSBZ0QkeEhwiUtNvUqIzG8uCCGO0jhVTAe-6FrHyRvIN--sa5dRWiyP-kCbgLV_N1P0FOIHuaNsHwGZkeWn4rrGZTNn11yMOIMhqoL1UPr8Nz_jTCGBA2qoIpOppZX0Bi5zNSPziP_68VZfQ.wHoPek3OPnH1ADzbZ8tC0dBKf7fiQjR9vNPWxOE3V4E&qid=1792658673&sr=8-10"
+          }
+        ]
+      },
+      {
+        "position": 11,
+        "asin": "B09KLX859Y",
+        "badges": [
+          "Limited time deal"
+        ],
+        "title": "Black Gift Box, 9.5x6x3'' Gift Boxes with Lids for Presents",
+        "link": "https://www.amazon.com/RYDDOY-Collapsible-Groomsmen-Christmas-Graduation/dp/B09KLX859Y/ref=sr_1_11?dib=eyJ2IjoiMSJ9.0UJO_seQAxLPlvFBmKu_7gQgJ_rP-xvy4exz1p2bLRiZQ-BoEIImB0k-wEq18iLDNM17TrIgSrq5gW9sMmxsjEN9oj25ZL-f47syIXWz_umEr7ioEeYunhXQCC3-OeW8XFyiNNuB4vTE5P5Oi4bD2xucIcjaSBZ0QkeEhwiUtNvUqIzG8uCCGO0jhVTAe-6FrHyRvIN--sa5dRWiyP-kCbgLV_N1P0FOIHuaNsHwGZkeWn4rrGZTNn11yMOIMhqoL1UPr8Nz_jTCGBA2qoIpOppZX0Bi5zNSPziP_68VZfQ.wHoPek3OPnH1ADzbZ8tC0dBKf7fiQjR9vNPWxOE3V4E&dib_tag=se&keywords=christmas+gift+baskets&qid=1792658673&sr=8-11",
+        "link_clean": "https://www.amazon.com/RYDDOY-Collapsible-Groomsmen-Christmas-Graduation/dp/B09KLX859Y/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B09KLX859Y&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "thumbnail": "https://m.media-amazon.com/images/I/51a10uveGjL._AC_UL320_.jpg",
+        "rating": 4.6,
+        "reviews": 5300,
+        "bought_last_month": "4K+ bought in past month",
+        "price": "$5.66",
+        "extracted_price": 5.66,
+        "old_price": "$6.29",
+        "extracted_old_price": 6.29,
+        "delivery": [
+          "FREE delivery Tue, Oct 27 on $35 of items shipped by Amazon"
+        ],
+        "climate_pledge_friendly": true,
+        "sustainability_features": [
+          {
+            "position": 1,
+            "name": "Forestry practices",
+            "snippet": "Made with materials from well-managed forests, recycled materials, and/or other controlled wood sources.",
+            "thumbnail": "https://m.media-amazon.com/images/I/61LMPVSIgfL._SS200_.png",
+            "certified_by": "The Forest Stewardship Council",
+            "certified_info": "Forest Stewardship Council (FSC) certified products are made with materials from well-managed forests, recycled materials and/or other controlled wood sources."
+          }
+        ],
+        "purchase_options": [
+          {
+            "primary_price": "$5.66",
+            "extracted_primary_price": 5.66,
+            "old_primary_price": "$6.29",
+            "extracted_old_primary_price": 6.29
+          }
+        ]
+      },
+      {
+        "position": 12,
+        "asin": "B0F7LF3WCF",
+        "title": "3PC Fidget Popper Sensory Toys Airplane Travel Activities, Christmas Stocking Stuffer for Toddlers Pop It Fidget Toys for 12+ Month Babies 1+ 2 3 Year Old Girls Boys Easter Basket Stuffer Gift",
+        "link": "https://www.amazon.com/Christmas-Stocking-Toddlers-Airplane-Activities/dp/B0F7LF3WCF/ref=sr_1_12?dib=eyJ2IjoiMSJ9.0UJO_seQAxLPlvFBmKu_7gQgJ_rP-xvy4exz1p2bLRiZQ-BoEIImB0k-wEq18iLDNM17TrIgSrq5gW9sMmxsjEN9oj25ZL-f47syIXWz_umEr7ioEeYunhXQCC3-OeW8XFyiNNuB4vTE5P5Oi4bD2xucIcjaSBZ0QkeEhwiUtNvUqIzG8uCCGO0jhVTAe-6FrHyRvIN--sa5dRWiyP-kCbgLV_N1P0FOIHuaNsHwGZkeWn4rrGZTNn11yMOIMhqoL1UPr8Nz_jTCGBA2qoIpOppZX0Bi5zNSPziP_68VZfQ.wHoPek3OPnH1ADzbZ8tC0dBKf7fiQjR9vNPWxOE3V4E&dib_tag=se&keywords=christmas+gift+baskets&qid=1792658673&sr=8-12",
+        "link_clean": "https://www.amazon.com/Christmas-Stocking-Toddlers-Airplane-Activities/dp/B0F7LF3WCF/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0F7LF3WCF&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "thumbnail": "https://m.media-amazon.com/images/I/71vNhSUOtxL._AC_UL320_.jpg",
+        "rating": 4.6,
+        "reviews": 923,
+        "bought_last_month": "5K+ bought in past month",
+        "price": "$8.99",
+        "extracted_price": 8.99,
+        "delivery": [
+          "FREE delivery Tue, Oct 27 on $35 of items shipped by Amazon"
+        ],
+        "climate_pledge_friendly": true,
+        "age_rating": "12 months and up",
+        "sustainability_features": [
+          {
+            "position": 1,
+            "name": "Recycled materials",
+            "snippet": "Contains at least 50% recycled material.",
+            "thumbnail": "https://m.media-amazon.com/images/I/51IhSrucIyL._SS200_.png",
+            "certified_by": "Global Recycled Standard",
+            "certified_info": "Global Recycled Standard (GRS) certified products contain recycled content (>50%) that has been independently verified at each stage of the supply chain, from the source to the final product and meet social, environmental, and chemical requirements. The purchase of Global Recycled Standard (GRS) certified products supports the use of recycled content in the supply chain."
+          },
+          {
+            "position": 2,
+            "name": "Safer chemicals",
+            "snippet": "Made with chemicals safer for human health and the environment.",
+            "thumbnail": "https://m.media-amazon.com/images/I/51IhSrucIyL._SS200_.png",
+            "certified_by": "Global Recycled Standard",
+            "certified_info": "Global Recycled Standard (GRS) certified products contain recycled content (>50%) that has been independently verified at each stage of the supply chain, from the source to the final product and meet social, environmental, and chemical requirements. The purchase of Global Recycled Standard (GRS) certified products supports the use of recycled content in the supply chain."
+          },
+          {
+            "position": 3,
+            "name": "Worker well-being",
+            "snippet": "Manufactured on farms or in facilities that protect the rights and/or health of workers.",
+            "thumbnail": "https://m.media-amazon.com/images/I/51IhSrucIyL._SS200_.png",
+            "certified_by": "Global Recycled Standard",
+            "certified_info": "Global Recycled Standard (GRS) certified products contain recycled content (>50%) that has been independently verified at each stage of the supply chain, from the source to the final product and meet social, environmental, and chemical requirements. The purchase of Global Recycled Standard (GRS) certified products supports the use of recycled content in the supply chain."
+          }
+        ],
+        "purchase_options": [
+          {
+            "primary_price": "$8.99",
+            "extracted_primary_price": 8.99
+          }
+        ]
+      },
+      {
+        "position": 13,
+        "asin": "B0CF58LSJN",
+        "tags": [
+          "8 Count (Pack of 1)"
+        ],
+        "badges": [
+          "Limited time deal"
+        ],
+        "title": "Shower Steamers Aromatherapy 8 Pack - Stocking Stuffers for Women Adults Teens, Boo Basket Stuffers,Christmas Gift for Women, White Elephant Gifts, Shower Bombs for Self Care Relaxation Stress Relief",
+        "link": "https://www.amazon.com/BodyRefresh-Shower-Steamers-Aromatherapy-Essential/dp/B0CF58LSJN/ref=sr_1_13?dib=eyJ2IjoiMSJ9.0UJO_seQAxLPlvFBmKu_7gQgJ_rP-xvy4exz1p2bLRiZQ-BoEIImB0k-wEq18iLDNM17TrIgSrq5gW9sMmxsjEN9oj25ZL-f47syIXWz_umEr7ioEeYunhXQCC3-OeW8XFyiNNuB4vTE5P5Oi4bD2xucIcjaSBZ0QkeEhwiUtNvUqIzG8uCCGO0jhVTAe-6FrHyRvIN--sa5dRWiyP-kCbgLV_N1P0FOIHuaNsHwGZkeWn4rrGZTNn11yMOIMhqoL1UPr8Nz_jTCGBA2qoIpOppZX0Bi5zNSPziP_68VZfQ.wHoPek3OPnH1ADzbZ8tC0dBKf7fiQjR9vNPWxOE3V4E&dib_tag=se&keywords=christmas+gift+baskets&qid=1792658673&rdc=1&sr=8-13",
+        "link_clean": "https://www.amazon.com/BodyRefresh-Shower-Steamers-Aromatherapy-Essential/dp/B0CF58LSJN/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0CF58LSJN&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "thumbnail": "https://m.media-amazon.com/images/I/81Z-dz26FSL._AC_UL320_.jpg",
+        "rating": 4.3,
+        "reviews": 6600,
+        "bought_last_month": "3K+ bought in past month",
+        "price": "$6.99",
+        "extracted_price": 6.99,
+        "old_price": "$9.99",
+        "extracted_old_price": 9.99,
+        "save_with_coupon": "Extra 20% off when you subscribe",
+        "delivery": [
+          "FREE delivery Tue, Oct 27 on $35 of items shipped by Amazon",
+          "Or fastest delivery Mon, Oct 26"
+        ],
+        "climate_pledge_friendly": true,
+        "sustainability_features": [
+          {
+            "position": 1,
+            "name": "Carbon impact",
+            "snippet": "Carbon emissions from the lifecycle of this product were measured, reduced and/or offset.",
+            "thumbnail": "https://m.media-amazon.com/images/I/61sxI+4PZlL._SS200_.png",
+            "certified_by": "ClimeCo Certified",
+            "certified_info": "ClimeCo certifies products whose carbon emissions have been assessed, verified, and are on a committed path towards continual emissions reductions. Companies may pursue emissions reductions for products through various means such as sustainable manufacturing practices, supply chain sustainability, raw materials innovation, renewable energy use, insetting, sustainable transportation and packaging."
+          }
+        ],
+        "purchase_options": [
+          {
+            "primary_price": "$6.99",
+            "extracted_primary_price": 6.99,
+            "old_primary_price": "$9.99",
+            "extracted_old_primary_price": 9.99
+          }
+        ]
+      },
+      {
+        "position": 14,
+        "asin": "B088M291YT",
+        "title": "Purse for Little Girls Dress Up Jewelry Pretend Play Kids Accessories Mermaid Gifts",
+        "link": "https://www.amazon.com/mibasies-Toodler-Birthday-Valentines-Priness/dp/B088M291YT/ref=sr_1_14?dib=eyJ2IjoiMSJ9.0UJO_seQAxLPlvFBmKu_7gQgJ_rP-xvy4exz1p2bLRiZQ-BoEIImB0k-wEq18iLDNM17TrIgSrq5gW9sMmxsjEN9oj25ZL-f47syIXWz_umEr7ioEeYunhXQCC3-OeW8XFyiNNuB4vTE5P5Oi4bD2xucIcjaSBZ0QkeEhwiUtNvUqIzG8uCCGO0jhVTAe-6FrHyRvIN--sa5dRWiyP-kCbgLV_N1P0FOIHuaNsHwGZkeWn4rrGZTNn11yMOIMhqoL1UPr8Nz_jTCGBA2qoIpOppZX0Bi5zNSPziP_68VZfQ.wHoPek3OPnH1ADzbZ8tC0dBKf7fiQjR9vNPWxOE3V4E&dib_tag=se&keywords=christmas+gift+baskets&qid=1792658673&sr=8-14",
+        "link_clean": "https://www.amazon.com/mibasies-Toodler-Birthday-Valentines-Priness/dp/B088M291YT/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B088M291YT&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "thumbnail": "https://m.media-amazon.com/images/I/81iFNk6OVKL._AC_UL320_.jpg",
+        "rating": 4.5,
+        "reviews": 7500,
+        "bought_last_month": "6K+ bought in past month",
+        "price": "$9.99",
+        "extracted_price": 9.99,
+        "delivery": [
+          "FREE delivery Tue, Oct 27 on $35 of items shipped by Amazon"
+        ],
+        "purchase_options": [
+          {
+            "primary_price": "$9.99",
+            "extracted_primary_price": 9.99
+          }
+        ]
+      },
+      {
+        "position": 15,
+        "asin": "B0D7M78YDK",
+        "options": "See options",
+        "options_link": "https://www.amazon.com/Bracelet-sanyi-Birthday-Daughter-Granddaughter/dp/B0D7M78YDK/ref=sr_1_15_so_BATHWATER_ADDITIVE?dib=eyJ2IjoiMSJ9.0UJO_seQAxLPlvFBmKu_7gQgJ_rP-xvy4exz1p2bLRiZQ-BoEIImB0k-wEq18iLDNM17TrIgSrq5gW9sMmxsjEN9oj25ZL-f47syIXWz_umEr7ioEeYunhXQCC3-OeW8XFyiNNuB4vTE5P5Oi4bD2xucIcjaSBZ0QkeEhwiUtNvUqIzG8uCCGO0jhVTAe-6FrHyRvIN--sa5dRWiyP-kCbgLV_N1P0FOIHuaNsHwGZkeWn4rrGZTNn11yMOIMhqoL1UPr8Nz_jTCGBA2qoIpOppZX0Bi5zNSPziP_68VZfQ.wHoPek3OPnH1ADzbZ8tC0dBKf7fiQjR9vNPWxOE3V4E&dib_tag=se&keywords=christmas+gift+baskets&qid=1792658673&sr=8-15",
+        "title": "Sanyi Unicorn Bath Bombs for Kids with Bracelet Inside, Gifts for Girls 4-8",
+        "link": "https://www.amazon.com/Bracelet-sanyi-Birthday-Daughter-Granddaughter/dp/B0D7M78YDK/ref=sr_1_15?dib=eyJ2IjoiMSJ9.0UJO_seQAxLPlvFBmKu_7gQgJ_rP-xvy4exz1p2bLRiZQ-BoEIImB0k-wEq18iLDNM17TrIgSrq5gW9sMmxsjEN9oj25ZL-f47syIXWz_umEr7ioEeYunhXQCC3-OeW8XFyiNNuB4vTE5P5Oi4bD2xucIcjaSBZ0QkeEhwiUtNvUqIzG8uCCGO0jhVTAe-6FrHyRvIN--sa5dRWiyP-kCbgLV_N1P0FOIHuaNsHwGZkeWn4rrGZTNn11yMOIMhqoL1UPr8Nz_jTCGBA2qoIpOppZX0Bi5zNSPziP_68VZfQ.wHoPek3OPnH1ADzbZ8tC0dBKf7fiQjR9vNPWxOE3V4E&dib_tag=se&keywords=christmas+gift+baskets&qid=1792658673&sr=8-15",
+        "link_clean": "https://www.amazon.com/Bracelet-sanyi-Birthday-Daughter-Granddaughter/dp/B0D7M78YDK/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0D7M78YDK&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "thumbnail": "https://m.media-amazon.com/images/I/81s-iZC8xSL._AC_UL320_.jpg",
+        "rating": 4.6,
+        "reviews": 807,
+        "bought_last_month": "2K+ bought in past month",
+        "price": "$9.99",
+        "extracted_price": 9.99,
+        "old_price": "$14.99",
+        "extracted_old_price": 14.99,
+        "offers": [
+          "Exclusive Prime price"
+        ],
+        "delivery": [
+          "FREE delivery Tue, Oct 27 on $35 of items shipped by Amazon"
+        ],
+        "purchase_options": [
+          {
+            "primary_price": "$9.99",
+            "extracted_primary_price": 9.99,
+            "old_primary_price": "$14.99",
+            "extracted_old_primary_price": 14.99
+          }
+        ]
+      },
+      {
+        "position": 16,
+        "asin": "B0FJS6849Q",
+        "title": "You're My Boo Crochet Ghost - Anniversary Love Birthday Gifts for Women Men Her Him Boyfriend Girlfriend, Fathers Day Card for Husband from Wife - Holiday Stuffers for Halloween Valentine Christmas",
+        "link": "https://www.amazon.com/Frabaca-Essentials-Stuffers-Crochet-Ornament/dp/B0FJS6849Q/ref=sr_1_16?dib=eyJ2IjoiMSJ9.0UJO_seQAxLPlvFBmKu_7gQgJ_rP-xvy4exz1p2bLRiZQ-BoEIImB0k-wEq18iLDNM17TrIgSrq5gW9sMmxsjEN9oj25ZL-f47syIXWz_umEr7ioEeYunhXQCC3-OeW8XFyiNNuB4vTE5P5Oi4bD2xucIcjaSBZ0QkeEhwiUtNvUqIzG8uCCGO0jhVTAe-6FrHyRvIN--sa5dRWiyP-kCbgLV_N1P0FOIHuaNsHwGZkeWn4rrGZTNn11yMOIMhqoL1UPr8Nz_jTCGBA2qoIpOppZX0Bi5zNSPziP_68VZfQ.wHoPek3OPnH1ADzbZ8tC0dBKf7fiQjR9vNPWxOE3V4E&dib_tag=se&keywords=christmas+gift+baskets&qid=1792658673&sr=8-16",
+        "link_clean": "https://www.amazon.com/Frabaca-Essentials-Stuffers-Crochet-Ornament/dp/B0FJS6849Q/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0FJS6849Q&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "thumbnail": "https://m.media-amazon.com/images/I/71qLTD6IUZL._AC_UL320_.jpg",
+        "rating": 4.9,
+        "reviews": 346,
+        "bought_last_month": "4K+ bought in past month",
+        "price": "$14.99",
+        "extracted_price": 14.99,
+        "delivery": [
+          "FREE delivery Tue, Oct 27 on $35 of items shipped by Amazon",
+          "Arrives before Halloween"
+        ],
+        "purchase_options": [
+          {
+            "primary_price": "$14.99",
+            "extracted_primary_price": 14.99
+          }
+        ]
+      },
+      {
+        "position": 17,
+        "asin": "B0DBDSHRT4",
+        "options": "See options",
+        "options_link": "https://www.amazon.com/NICEMOVIC-Scratcher-Stocking-Extendable-Thanksgiving/dp/B0DBDSHRT4/ref=sr_1_17_so_MASSAGER?dib=eyJ2IjoiMSJ9.0UJO_seQAxLPlvFBmKu_7gQgJ_rP-xvy4exz1p2bLRiZQ-BoEIImB0k-wEq18iLDNM17TrIgSrq5gW9sMmxsjEN9oj25ZL-f47syIXWz_umEr7ioEeYunhXQCC3-OeW8XFyiNNuB4vTE5P5Oi4bD2xucIcjaSBZ0QkeEhwiUtNvUqIzG8uCCGO0jhVTAe-6FrHyRvIN--sa5dRWiyP-kCbgLV_N1P0FOIHuaNsHwGZkeWn4rrGZTNn11yMOIMhqoL1UPr8Nz_jTCGBA2qoIpOppZX0Bi5zNSPziP_68VZfQ.wHoPek3OPnH1ADzbZ8tC0dBKf7fiQjR9vNPWxOE3V4E&dib_tag=se&keywords=christmas+gift+baskets&qid=1792658673&sr=8-17",
+        "title": "6 Pack Back Scratcher, Stocking Stuffers for Women Men Teen Girls",
+        "link": "https://www.amazon.com/NICEMOVIC-Scratcher-Stocking-Extendable-Thanksgiving/dp/B0DBDSHRT4/ref=sr_1_17?dib=eyJ2IjoiMSJ9.0UJO_seQAxLPlvFBmKu_7gQgJ_rP-xvy4exz1p2bLRiZQ-BoEIImB0k-wEq18iLDNM17TrIgSrq5gW9sMmxsjEN9oj25ZL-f47syIXWz_umEr7ioEeYunhXQCC3-OeW8XFyiNNuB4vTE5P5Oi4bD2xucIcjaSBZ0QkeEhwiUtNvUqIzG8uCCGO0jhVTAe-6FrHyRvIN--sa5dRWiyP-kCbgLV_N1P0FOIHuaNsHwGZkeWn4rrGZTNn11yMOIMhqoL1UPr8Nz_jTCGBA2qoIpOppZX0Bi5zNSPziP_68VZfQ.wHoPek3OPnH1ADzbZ8tC0dBKf7fiQjR9vNPWxOE3V4E&dib_tag=se&keywords=christmas+gift+baskets&qid=1792658673&sr=8-17",
+        "link_clean": "https://www.amazon.com/NICEMOVIC-Scratcher-Stocking-Extendable-Thanksgiving/dp/B0DBDSHRT4/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0DBDSHRT4&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "thumbnail": "https://m.media-amazon.com/images/I/71kFcUjXBKL._AC_UL320_.jpg",
+        "rating": 4.4,
+        "reviews": 841,
+        "bought_last_month": "4K+ bought in past month",
+        "price": "$5.99",
+        "extracted_price": 5.99,
+        "old_price": "$6.99",
+        "extracted_old_price": 6.99,
+        "offers": [
+          "Exclusive Prime price"
+        ],
+        "delivery": [
+          "FREE delivery Tue, Oct 27 on $35 of items shipped by Amazon"
+        ],
+        "purchase_options": [
+          {
+            "primary_price": "$5.99",
+            "extracted_primary_price": 5.99,
+            "old_primary_price": "$6.99",
+            "extracted_old_primary_price": 6.99
+          }
+        ]
+      },
+      {
+        "position": 18,
+        "asin": "B0CMCR6GPN",
+        "title": "Caleihd Crinkle Cut Paper Shred Filler Gift Cushion Streamer White",
+        "link": "https://www.amazon.com/Caleihd-Christmas-Bridesmaid-Engagement-Decoration/dp/B0CMCR6GPN/ref=sr_1_18?dib=eyJ2IjoiMSJ9.0UJO_seQAxLPlvFBmKu_7gQgJ_rP-xvy4exz1p2bLRiZQ-BoEIImB0k-wEq18iLDNM17TrIgSrq5gW9sMmxsjEN9oj25ZL-f47syIXWz_umEr7ioEeYunhXQCC3-OeW8XFyiNNuB4vTE5P5Oi4bD2xucIcjaSBZ0QkeEhwiUtNvUqIzG8uCCGO0jhVTAe-6FrHyRvIN--sa5dRWiyP-kCbgLV_N1P0FOIHuaNsHwGZkeWn4rrGZTNn11yMOIMhqoL1UPr8Nz_jTCGBA2qoIpOppZX0Bi5zNSPziP_68VZfQ.wHoPek3OPnH1ADzbZ8tC0dBKf7fiQjR9vNPWxOE3V4E&dib_tag=se&keywords=christmas+gift+baskets&qid=1792658673&sr=8-18",
+        "link_clean": "https://www.amazon.com/Caleihd-Christmas-Bridesmaid-Engagement-Decoration/dp/B0CMCR6GPN/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0CMCR6GPN&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "thumbnail": "https://m.media-amazon.com/images/I/619tCnEdupL._AC_UL320_.jpg",
+        "rating": 4.6,
+        "reviews": 3300,
+        "bought_last_month": "4K+ bought in past month",
+        "price": "$7.99",
+        "extracted_price": 7.99,
+        "delivery": [
+          "FREE delivery Tue, Oct 27 on $35 of items shipped by Amazon"
+        ],
+        "purchase_options": [
+          {
+            "primary_price": "$7.99",
+            "extracted_primary_price": 7.99
+          }
+        ]
+      },
+      {
+        "position": 19,
+        "asin": "B0F5Q2WKJG",
+        "title": "Stocking Stuffers for Teen Girls Women Microfiber Hair Towel for Women",
+        "link": "https://www.amazon.com/OEAGO-Microfiber-Hair-Towel-Women/dp/B0F5Q2WKJG/ref=sr_1_19?dib=eyJ2IjoiMSJ9.0UJO_seQAxLPlvFBmKu_7gQgJ_rP-xvy4exz1p2bLRiZQ-BoEIImB0k-wEq18iLDNM17TrIgSrq5gW9sMmxsjEN9oj25ZL-f47syIXWz_umEr7ioEeYunhXQCC3-OeW8XFyiNNuB4vTE5P5Oi4bD2xucIcjaSBZ0QkeEhwiUtNvUqIzG8uCCGO0jhVTAe-6FrHyRvIN--sa5dRWiyP-kCbgLV_N1P0FOIHuaNsHwGZkeWn4rrGZTNn11yMOIMhqoL1UPr8Nz_jTCGBA2qoIpOppZX0Bi5zNSPziP_68VZfQ.wHoPek3OPnH1ADzbZ8tC0dBKf7fiQjR9vNPWxOE3V4E&dib_tag=se&keywords=christmas+gift+baskets&qid=1792658673&sr=8-19",
+        "link_clean": "https://www.amazon.com/OEAGO-Microfiber-Hair-Towel-Women/dp/B0F5Q2WKJG/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0F5Q2WKJG&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "thumbnail": "https://m.media-amazon.com/images/I/71w+RhrO3yL._AC_UL320_.jpg",
+        "rating": 4.6,
+        "reviews": 693,
+        "bought_last_month": "1K+ bought in past month",
+        "price": "$7.49",
+        "extracted_price": 7.49,
+        "delivery": [
+          "FREE delivery Tue, Oct 27 on $35 of items shipped by Amazon"
+        ],
+        "purchase_options": [
+          {
+            "primary_price": "$7.49",
+            "extracted_primary_price": 7.49
+          }
+        ]
+      },
+      {
+        "position": 20,
+        "asin": "B0D53Y3FBG",
+        "title": "500 PCS Christmas Gift Tags - Gift Tags for Christmas Presents | Christmas Gift for Women Mom Men - Christmas Wrapping Paper - Christmas Decorations,2.95 x 1.6 Inch",
+        "link": "https://www.amazon.com/OHOME-500-Christmas-Gift-Tags/dp/B0D53Y3FBG/ref=sr_1_20?dib=eyJ2IjoiMSJ9.0UJO_seQAxLPlvFBmKu_7gQgJ_rP-xvy4exz1p2bLRiZQ-BoEIImB0k-wEq18iLDNM17TrIgSrq5gW9sMmxsjEN9oj25ZL-f47syIXWz_umEr7ioEeYunhXQCC3-OeW8XFyiNNuB4vTE5P5Oi4bD2xucIcjaSBZ0QkeEhwiUtNvUqIzG8uCCGO0jhVTAe-6FrHyRvIN--sa5dRWiyP-kCbgLV_N1P0FOIHuaNsHwGZkeWn4rrGZTNn11yMOIMhqoL1UPr8Nz_jTCGBA2qoIpOppZX0Bi5zNSPziP_68VZfQ.wHoPek3OPnH1ADzbZ8tC0dBKf7fiQjR9vNPWxOE3V4E&dib_tag=se&keywords=christmas+gift+baskets&qid=1792658673&sr=8-20",
+        "link_clean": "https://www.amazon.com/OHOME-500-Christmas-Gift-Tags/dp/B0D53Y3FBG/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0D53Y3FBG&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "thumbnail": "https://m.media-amazon.com/images/I/81I8LPU1fZL._AC_UL320_.jpg",
+        "rating": 4.8,
+        "reviews": 2100,
+        "bought_last_month": "3K+ bought in past month",
+        "price": "$7.99",
+        "extracted_price": 7.99,
+        "offers": [
+          "Save 50% on 1 when you buy 3"
+        ],
+        "delivery": [
+          "FREE delivery Tue, Oct 27 on $35 of items shipped by Amazon"
+        ],
+        "climate_pledge_friendly": true,
+        "sustainability_features": [
+          {
+            "position": 1,
+            "name": "Recycled materials",
+            "snippet": "Contains at least 50% recycled material.",
+            "thumbnail": "https://m.media-amazon.com/images/I/51IhSrucIyL._SS200_.png",
+            "certified_by": "Global Recycled Standard",
+            "certified_info": "Global Recycled Standard (GRS) certified products contain recycled content (>50%) that has been independently verified at each stage of the supply chain, from the source to the final product and meet social, environmental, and chemical requirements. The purchase of Global Recycled Standard (GRS) certified products supports the use of recycled content in the supply chain."
+          },
+          {
+            "position": 2,
+            "name": "Safer chemicals",
+            "snippet": "Made with chemicals safer for human health and the environment.",
+            "thumbnail": "https://m.media-amazon.com/images/I/51IhSrucIyL._SS200_.png",
+            "certified_by": "Global Recycled Standard",
+            "certified_info": "Global Recycled Standard (GRS) certified products contain recycled content (>50%) that has been independently verified at each stage of the supply chain, from the source to the final product and meet social, environmental, and chemical requirements. The purchase of Global Recycled Standard (GRS) certified products supports the use of recycled content in the supply chain."
+          },
+          {
+            "position": 3,
+            "name": "Worker well-being",
+            "snippet": "Manufactured on farms or in facilities that protect the rights and/or health of workers.",
+            "thumbnail": "https://m.media-amazon.com/images/I/51IhSrucIyL._SS200_.png",
+            "certified_by": "Global Recycled Standard",
+            "certified_info": "Global Recycled Standard (GRS) certified products contain recycled content (>50%) that has been independently verified at each stage of the supply chain, from the source to the final product and meet social, environmental, and chemical requirements. The purchase of Global Recycled Standard (GRS) certified products supports the use of recycled content in the supply chain."
+          }
+        ],
+        "purchase_options": [
+          {
+            "primary_price": "$7.99",
+            "extracted_primary_price": 7.99
+          }
+        ]
+      },
+      {
+        "position": 21,
+        "asin": "B0CWXMN6NX",
+        "title": "Rolling Grill Basket, Grilling Accessories, Outdoor Camping, Gifts for Men",
+        "link": "https://www.amazon.com/Ivtivfu-Removable-Stainless-Accessories-Vegetables/dp/B0CWXMN6NX/ref=sr_1_21?dib=eyJ2IjoiMSJ9.0UJO_seQAxLPlvFBmKu_7gQgJ_rP-xvy4exz1p2bLRiZQ-BoEIImB0k-wEq18iLDNM17TrIgSrq5gW9sMmxsjEN9oj25ZL-f47syIXWz_umEr7ioEeYunhXQCC3-OeW8XFyiNNuB4vTE5P5Oi4bD2xucIcjaSBZ0QkeEhwiUtNvUqIzG8uCCGO0jhVTAe-6FrHyRvIN--sa5dRWiyP-kCbgLV_N1P0FOIHuaNsHwGZkeWn4rrGZTNn11yMOIMhqoL1UPr8Nz_jTCGBA2qoIpOppZX0Bi5zNSPziP_68VZfQ.wHoPek3OPnH1ADzbZ8tC0dBKf7fiQjR9vNPWxOE3V4E&dib_tag=se&keywords=christmas+gift+baskets&qid=1792658673&sr=8-21",
+        "link_clean": "https://www.amazon.com/Ivtivfu-Removable-Stainless-Accessories-Vegetables/dp/B0CWXMN6NX/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0CWXMN6NX&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "thumbnail": "https://m.media-amazon.com/images/I/81OF4SoIhhL._AC_UL320_.jpg",
+        "rating": 4.5,
+        "reviews": 2200,
+        "bought_last_month": "3K+ bought in past month",
+        "price": "$23.99",
+        "extracted_price": 23.99,
+        "delivery": [
+          "FREE delivery Tue, Oct 27 on $35 of items shipped by Amazon"
+        ],
+        "purchase_options": [
+          {
+            "primary_price": "$23.99",
+            "extracted_primary_price": 23.99
+          }
+        ]
+      },
+      {
+        "position": 22,
+        "asin": "B0DMZGDC6Q",
+        "badges": [
+          "Limited time deal"
+        ],
+        "title": "6 Pack Glass Nail File, Stocking Stuffers for Teen Girls Women",
+        "link": "https://www.amazon.com/NICEMOVIC-Christmas-Stocking-Stuffers-Fingernail/dp/B0DMZGDC6Q/ref=sr_1_22?dib=eyJ2IjoiMSJ9.0UJO_seQAxLPlvFBmKu_7gQgJ_rP-xvy4exz1p2bLRiZQ-BoEIImB0k-wEq18iLDNM17TrIgSrq5gW9sMmxsjEN9oj25ZL-f47syIXWz_umEr7ioEeYunhXQCC3-OeW8XFyiNNuB4vTE5P5Oi4bD2xucIcjaSBZ0QkeEhwiUtNvUqIzG8uCCGO0jhVTAe-6FrHyRvIN--sa5dRWiyP-kCbgLV_N1P0FOIHuaNsHwGZkeWn4rrGZTNn11yMOIMhqoL1UPr8Nz_jTCGBA2qoIpOppZX0Bi5zNSPziP_68VZfQ.wHoPek3OPnH1ADzbZ8tC0dBKf7fiQjR9vNPWxOE3V4E&dib_tag=se&keywords=christmas+gift+baskets&qid=1792658673&sr=8-22",
+        "link_clean": "https://www.amazon.com/NICEMOVIC-Christmas-Stocking-Stuffers-Fingernail/dp/B0DMZGDC6Q/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0DMZGDC6Q&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "thumbnail": "https://m.media-amazon.com/images/I/61UICxhjCUL._AC_UL320_.jpg",
+        "rating": 4.4,
+        "reviews": 1500,
+        "bought_last_month": "3K+ bought in past month",
+        "price": "$5.98",
+        "extracted_price": 5.98,
+        "old_price": "$6.99",
+        "extracted_old_price": 6.99,
+        "delivery": [
+          "FREE delivery Tue, Oct 27 on $35 of items shipped by Amazon"
+        ],
+        "purchase_options": [
+          {
+            "primary_price": "$5.98",
+            "extracted_primary_price": 5.98,
+            "old_primary_price": "$6.99",
+            "extracted_old_primary_price": 6.99
+          }
+        ]
+      },
+      {
+        "position": 23,
+        "asin": "B0DL9JHJ9G",
+        "title": "Gifts for Him Her Boyfriend Girlfriend, To My Love Handmade Crochet Mini Penguin Anniversary Birthday Gifts for Women Men, Romantic Valentines I Love You Gift for Wife Husband Couples Christmas",
+        "link": "https://www.amazon.com/Boyfriend-Girlfriend-Handmade-Anniversary-Graduation/dp/B0DL9JHJ9G/ref=sr_1_23?dib=eyJ2IjoiMSJ9.0UJO_seQAxLPlvFBmKu_7gQgJ_rP-xvy4exz1p2bLRiZQ-BoEIImB0k-wEq18iLDNM17TrIgSrq5gW9sMmxsjEN9oj25ZL-f47syIXWz_umEr7ioEeYunhXQCC3-OeW8XFyiNNuB4vTE5P5Oi4bD2xucIcjaSBZ0QkeEhwiUtNvUqIzG8uCCGO0jhVTAe-6FrHyRvIN--sa5dRWiyP-kCbgLV_N1P0FOIHuaNsHwGZkeWn4rrGZTNn11yMOIMhqoL1UPr8Nz_jTCGBA2qoIpOppZX0Bi5zNSPziP_68VZfQ.wHoPek3OPnH1ADzbZ8tC0dBKf7fiQjR9vNPWxOE3V4E&dib_tag=se&keywords=christmas+gift+baskets&qid=1792658673&sr=8-23",
+        "link_clean": "https://www.amazon.com/Boyfriend-Girlfriend-Handmade-Anniversary-Graduation/dp/B0DL9JHJ9G/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0DL9JHJ9G&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "thumbnail": "https://m.media-amazon.com/images/I/71PD7lxn71L._AC_UL320_.jpg",
+        "rating": 4.7,
+        "reviews": 5600,
+        "bought_last_month": "4K+ bought in past month",
+        "price": "$9.99",
+        "extracted_price": 9.99,
+        "offers": [
+          "Save 5% on 2 select item(s)"
+        ],
+        "delivery": [
+          "FREE delivery Tue, Oct 27 on $35 of items shipped by Amazon"
+        ],
+        "purchase_options": [
+          {
+            "primary_price": "$9.99",
+            "extracted_primary_price": 9.99
+          }
+        ]
+      },
+      {
+        "position": 24,
+        "asin": "B012BA0VSM",
+        "title": "Jerky.com Gifts for Men 26pc Meat Sticks Jerky Variety Pack Gift Basket",
+        "link": "https://www.amazon.com/Jerky-com-Protein-Variety-Gluten-Free-Birthday/dp/B012BA0VSM/ref=sr_1_24?dib=eyJ2IjoiMSJ9.0UJO_seQAxLPlvFBmKu_7gQgJ_rP-xvy4exz1p2bLRiZQ-BoEIImB0k-wEq18iLDNM17TrIgSrq5gW9sMmxsjEN9oj25ZL-f47syIXWz_umEr7ioEeYunhXQCC3-OeW8XFyiNNuB4vTE5P5Oi4bD2xucIcjaSBZ0QkeEhwiUtNvUqIzG8uCCGO0jhVTAe-6FrHyRvIN--sa5dRWiyP-kCbgLV_N1P0FOIHuaNsHwGZkeWn4rrGZTNn11yMOIMhqoL1UPr8Nz_jTCGBA2qoIpOppZX0Bi5zNSPziP_68VZfQ.wHoPek3OPnH1ADzbZ8tC0dBKf7fiQjR9vNPWxOE3V4E&dib_tag=se&keywords=christmas+gift+baskets&qid=1792658673&sr=8-24",
+        "link_clean": "https://www.amazon.com/Jerky-com-Protein-Variety-Gluten-Free-Birthday/dp/B012BA0VSM/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B012BA0VSM&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "thumbnail": "https://m.media-amazon.com/images/I/81FUzGU-IcL._AC_UL320_.jpg",
+        "rating": 4.3,
+        "reviews": 9600,
+        "bought_last_month": "3K+ bought in past month",
+        "price": "$39.99",
+        "extracted_price": 39.99,
+        "delivery": [
+          "FREE delivery Tue, Oct 27"
+        ],
+        "purchase_options": [
+          {
+            "primary_price": "$39.99",
+            "extracted_primary_price": 39.99
+          }
+        ]
+      },
+      {
+        "position": 25,
+        "asin": "B07W6TR96W",
+        "options": "2 sizes",
+        "options_link": "https://www.amazon.com/Ferrero-Rocher-Confections-Collection-Valentines/dp/B07W6TR96W/ref=vo_sr_l_dp?dib=eyJ2IjoiMSJ9.0UJO_seQAxLPlvFBmKu_7gQgJ_rP-xvy4exz1p2bLRiZQ-BoEIImB0k-wEq18iLDNM17TrIgSrq5gW9sMmxsjEN9oj25ZL-f47syIXWz_umEr7ioEeYunhXQCC3-OeW8XFyiNNuB4vTE5P5Oi4bD2xucIcjaSBZ0QkeEhwiUtNvUqIzG8uCCGO0jhVTAe-6FrHyRvIN--sa5dRWiyP-kCbgLV_N1P0FOIHuaNsHwGZkeWn4rrGZTNn11yMOIMhqoL1UPr8Nz_jTCGBA2qoIpOppZX0Bi5zNSPziP_68VZfQ.wHoPek3OPnH1ADzbZ8tC0dBKf7fiQjR9vNPWxOE3V4E&dib_tag=se&keywords=christmas+gift+baskets&qid=1792658673&sr=8-25",
+        "title": "Ferrero Collection Assorted Chocolate Candy Gift Box, 48 Ct, 18.2 oz",
+        "link": "https://www.amazon.com/Ferrero-Rocher-Confections-Collection-Valentines/dp/B07W6TR96W/ref=sr_1_25?dib=eyJ2IjoiMSJ9.0UJO_seQAxLPlvFBmKu_7gQgJ_rP-xvy4exz1p2bLRiZQ-BoEIImB0k-wEq18iLDNM17TrIgSrq5gW9sMmxsjEN9oj25ZL-f47syIXWz_umEr7ioEeYunhXQCC3-OeW8XFyiNNuB4vTE5P5Oi4bD2xucIcjaSBZ0QkeEhwiUtNvUqIzG8uCCGO0jhVTAe-6FrHyRvIN--sa5dRWiyP-kCbgLV_N1P0FOIHuaNsHwGZkeWn4rrGZTNn11yMOIMhqoL1UPr8Nz_jTCGBA2qoIpOppZX0Bi5zNSPziP_68VZfQ.wHoPek3OPnH1ADzbZ8tC0dBKf7fiQjR9vNPWxOE3V4E&dib_tag=se&keywords=christmas+gift+baskets&qid=1792658673&sr=8-25",
+        "link_clean": "https://www.amazon.com/Ferrero-Rocher-Confections-Collection-Valentines/dp/B07W6TR96W/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B07W6TR96W&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "thumbnail": "https://m.media-amazon.com/images/I/911FsGcIfLL._AC_UL320_.jpg",
+        "rating": 4.8,
+        "reviews": 35100,
+        "bought_last_month": "3K+ bought in past month",
+        "price": "$34.17",
+        "extracted_price": 34.17,
+        "offers": [
+          "90 days free of Amazon Music with purchase",
+          "SNAP EBT eligible"
+        ],
+        "snap_ebt_eligible": true,
+        "top_rated": true,
+        "delivery": [
+          "FREE delivery Tue, Oct 27 on $35 of items shipped by Amazon",
+          "Arrives before Halloween"
+        ],
+        "purchase_options": [
+          {
+            "primary_price": "$34.17",
+            "extracted_primary_price": 34.17,
+            "secondary_price": "90 days free of Amazon Music with purchaseSNAP EBT eligible",
+            "extracted_secondary_price": 90
+          }
+        ]
+      },
+      {
+        "position": 26,
+        "asin": "B08X94JGJ1",
+        "title": "Holiday Nuts Gift Basket - Assortment of Sweet & Roasted Salted Gourmet Nuts - Food Gift Box for Dad, Him, Husband, Christmas, Father's Day, Mother's Day, Sympathy, Family, Men & Women",
+        "link": "https://www.amazon.com/Nuts-Gift-Basket-Assortment-Thanksgiving/dp/B08X94JGJ1/ref=sr_1_26?dib=eyJ2IjoiMSJ9.0UJO_seQAxLPlvFBmKu_7gQgJ_rP-xvy4exz1p2bLRiZQ-BoEIImB0k-wEq18iLDNM17TrIgSrq5gW9sMmxsjEN9oj25ZL-f47syIXWz_umEr7ioEeYunhXQCC3-OeW8XFyiNNuB4vTE5P5Oi4bD2xucIcjaSBZ0QkeEhwiUtNvUqIzG8uCCGO0jhVTAe-6FrHyRvIN--sa5dRWiyP-kCbgLV_N1P0FOIHuaNsHwGZkeWn4rrGZTNn11yMOIMhqoL1UPr8Nz_jTCGBA2qoIpOppZX0Bi5zNSPziP_68VZfQ.wHoPek3OPnH1ADzbZ8tC0dBKf7fiQjR9vNPWxOE3V4E&dib_tag=se&keywords=christmas+gift+baskets&qid=1792658673&sr=8-26",
+        "link_clean": "https://www.amazon.com/Nuts-Gift-Basket-Assortment-Thanksgiving/dp/B08X94JGJ1/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B08X94JGJ1&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "thumbnail": "https://m.media-amazon.com/images/I/919ORz0v6IL._AC_UL320_.jpg",
+        "rating": 4.5,
+        "reviews": 8400,
+        "bought_last_month": "2K+ bought in past month",
+        "price": "$29.95",
+        "extracted_price": 29.95,
+        "delivery": [
+          "FREE delivery Tue, Oct 27 on $35 of items shipped by Amazon"
+        ],
+        "small_business": true,
+        "purchase_options": [
+          {
+            "primary_price": "$29.95",
+            "extracted_primary_price": 29.95
+          }
+        ]
+      },
+      {
+        "position": 27,
+        "asin": "B0C2PV5MC2",
+        "variants": {
+          "options": [
+            {
+              "position": 1,
+              "asin": "B0C2PV5MC2",
+              "title": "white",
+              "link": "https://www.amazon.com/Pro-Goleem-Ribbons-Durable-Halloween/dp/B0C2PV5MC2/ref=cs_sr_dp_loc_1?dib=eyJ2IjoiMSJ9.0UJO_seQAxLPlvFBmKu_7gQgJ_rP-xvy4exz1p2bLRiZQ-BoEIImB0k-wEq18iLDNM17TrIgSrq5gW9sMmxsjEN9oj25ZL-f47syIXWz_umEr7ioEeYunhXQCC3-OeW8XFyiNNuB4vTE5P5Oi4bD2xucIcjaSBZ0QkeEhwiUtNvUqIzG8uCCGO0jhVTAe-6FrHyRvIN--sa5dRWiyP-kCbgLV_N1P0FOIHuaNsHwGZkeWn4rrGZTNn11yMOIMhqoL1UPr8Nz_jTCGBA2qoIpOppZX0Bi5zNSPziP_68VZfQ.wHoPek3OPnH1ADzbZ8tC0dBKf7fiQjR9vNPWxOE3V4E&dib_tag=se&keywords=christmas+gift+baskets&qid=1792658673&sr=8-27"
+            },
+            {
+              "position": 2,
+              "asin": "B0DZXC1QVY",
+              "title": "Blue",
+              "link": "https://www.amazon.com/Pro-Goleem-Ribbons-Durable-Halloween/dp/B0DZXC1QVY/ref=cs_sr_dp_loc_2?dib=eyJ2IjoiMSJ9.0UJO_seQAxLPlvFBmKu_7gQgJ_rP-xvy4exz1p2bLRiZQ-BoEIImB0k-wEq18iLDNM17TrIgSrq5gW9sMmxsjEN9oj25ZL-f47syIXWz_umEr7ioEeYunhXQCC3-OeW8XFyiNNuB4vTE5P5Oi4bD2xucIcjaSBZ0QkeEhwiUtNvUqIzG8uCCGO0jhVTAe-6FrHyRvIN--sa5dRWiyP-kCbgLV_N1P0FOIHuaNsHwGZkeWn4rrGZTNn11yMOIMhqoL1UPr8Nz_jTCGBA2qoIpOppZX0Bi5zNSPziP_68VZfQ.wHoPek3OPnH1ADzbZ8tC0dBKf7fiQjR9vNPWxOE3V4E&dib_tag=se&keywords=christmas+gift+baskets&qid=1792658673&sr=8-27"
+            },
+            {
+              "position": 3,
+              "asin": "B0D2LCN3CK",
+              "title": "Orange",
+              "link": "https://www.amazon.com/Pro-Goleem-Ribbons-Durable-Halloween/dp/B0D2LCN3CK/ref=cs_sr_dp_loc_3?dib=eyJ2IjoiMSJ9.0UJO_seQAxLPlvFBmKu_7gQgJ_rP-xvy4exz1p2bLRiZQ-BoEIImB0k-wEq18iLDNM17TrIgSrq5gW9sMmxsjEN9oj25ZL-f47syIXWz_umEr7ioEeYunhXQCC3-OeW8XFyiNNuB4vTE5P5Oi4bD2xucIcjaSBZ0QkeEhwiUtNvUqIzG8uCCGO0jhVTAe-6FrHyRvIN--sa5dRWiyP-kCbgLV_N1P0FOIHuaNsHwGZkeWn4rrGZTNn11yMOIMhqoL1UPr8Nz_jTCGBA2qoIpOppZX0Bi5zNSPziP_68VZfQ.wHoPek3OPnH1ADzbZ8tC0dBKf7fiQjR9vNPWxOE3V4E&dib_tag=se&keywords=christmas+gift+baskets&qid=1792658673&sr=8-27"
+            },
+            {
+              "position": 4,
+              "asin": "B0DZX9KJYV",
+              "title": "Purple",
+              "link": "https://www.amazon.com/Pro-Goleem-Ribbons-Durable-Halloween/dp/B0DZX9KJYV/ref=cs_sr_dp_loc_4?dib=eyJ2IjoiMSJ9.0UJO_seQAxLPlvFBmKu_7gQgJ_rP-xvy4exz1p2bLRiZQ-BoEIImB0k-wEq18iLDNM17TrIgSrq5gW9sMmxsjEN9oj25ZL-f47syIXWz_umEr7ioEeYunhXQCC3-OeW8XFyiNNuB4vTE5P5Oi4bD2xucIcjaSBZ0QkeEhwiUtNvUqIzG8uCCGO0jhVTAe-6FrHyRvIN--sa5dRWiyP-kCbgLV_N1P0FOIHuaNsHwGZkeWn4rrGZTNn11yMOIMhqoL1UPr8Nz_jTCGBA2qoIpOppZX0Bi5zNSPziP_68VZfQ.wHoPek3OPnH1ADzbZ8tC0dBKf7fiQjR9vNPWxOE3V4E&dib_tag=se&keywords=christmas+gift+baskets&qid=1792658673&sr=8-27"
+            },
+            {
+              "position": 5,
+              "asin": "B0DZXD78RG",
+              "title": "Yellow",
+              "link": "https://www.amazon.com/Pro-Goleem-Ribbons-Durable-Halloween/dp/B0DZXD78RG/ref=cs_sr_dp_loc_5?dib=eyJ2IjoiMSJ9.0UJO_seQAxLPlvFBmKu_7gQgJ_rP-xvy4exz1p2bLRiZQ-BoEIImB0k-wEq18iLDNM17TrIgSrq5gW9sMmxsjEN9oj25ZL-f47syIXWz_umEr7ioEeYunhXQCC3-OeW8XFyiNNuB4vTE5P5Oi4bD2xucIcjaSBZ0QkeEhwiUtNvUqIzG8uCCGO0jhVTAe-6FrHyRvIN--sa5dRWiyP-kCbgLV_N1P0FOIHuaNsHwGZkeWn4rrGZTNn11yMOIMhqoL1UPr8Nz_jTCGBA2qoIpOppZX0Bi5zNSPziP_68VZfQ.wHoPek3OPnH1ADzbZ8tC0dBKf7fiQjR9vNPWxOE3V4E&dib_tag=se&keywords=christmas+gift+baskets&qid=1792658673&sr=8-27"
+            },
+            {
+              "position": 6,
+              "asin": "B0CKPB2WKT",
+              "title": "black",
+              "link": "https://www.amazon.com/Pro-Goleem-Ribbons-Durable-Halloween/dp/B0CKPB2WKT/ref=cs_sr_dp_loc_6?dib=eyJ2IjoiMSJ9.0UJO_seQAxLPlvFBmKu_7gQgJ_rP-xvy4exz1p2bLRiZQ-BoEIImB0k-wEq18iLDNM17TrIgSrq5gW9sMmxsjEN9oj25ZL-f47syIXWz_umEr7ioEeYunhXQCC3-OeW8XFyiNNuB4vTE5P5Oi4bD2xucIcjaSBZ0QkeEhwiUtNvUqIzG8uCCGO0jhVTAe-6FrHyRvIN--sa5dRWiyP-kCbgLV_N1P0FOIHuaNsHwGZkeWn4rrGZTNn11yMOIMhqoL1UPr8Nz_jTCGBA2qoIpOppZX0Bi5zNSPziP_68VZfQ.wHoPek3OPnH1ADzbZ8tC0dBKf7fiQjR9vNPWxOE3V4E&dib_tag=se&keywords=christmas+gift+baskets&qid=1792658673&sr=8-27"
+            }
+          ],
+          "more_variants": "+8",
+          "more_variants_link": "https://www.amazon.com/Pro-Goleem-Ribbons-Durable-Halloween/dp/B0C2PV5MC2/ref=cs_sr_dp_loc_n?dib=eyJ2IjoiMSJ9.0UJO_seQAxLPlvFBmKu_7gQgJ_rP-xvy4exz1p2bLRiZQ-BoEIImB0k-wEq18iLDNM17TrIgSrq5gW9sMmxsjEN9oj25ZL-f47syIXWz_umEr7ioEeYunhXQCC3-OeW8XFyiNNuB4vTE5P5Oi4bD2xucIcjaSBZ0QkeEhwiUtNvUqIzG8uCCGO0jhVTAe-6FrHyRvIN--sa5dRWiyP-kCbgLV_N1P0FOIHuaNsHwGZkeWn4rrGZTNn11yMOIMhqoL1UPr8Nz_jTCGBA2qoIpOppZX0Bi5zNSPziP_68VZfQ.wHoPek3OPnH1ADzbZ8tC0dBKf7fiQjR9vNPWxOE3V4E&dib_tag=se&keywords=christmas+gift+baskets&qid=1792658673&sr=8-27"
+        },
+        "title": "Pro Goleem Small Woven Basket with Gift Bags and Ribbons Durable Baskets for Gifts Empty Small Rope Basket for Storage 12\"X 8\" X 5\" Baby Toy Bin with Handles, White",
+        "link": "https://www.amazon.com/Pro-Goleem-Ribbons-Durable-Halloween/dp/B0C2PV5MC2/ref=sr_1_27?dib=eyJ2IjoiMSJ9.0UJO_seQAxLPlvFBmKu_7gQgJ_rP-xvy4exz1p2bLRiZQ-BoEIImB0k-wEq18iLDNM17TrIgSrq5gW9sMmxsjEN9oj25ZL-f47syIXWz_umEr7ioEeYunhXQCC3-OeW8XFyiNNuB4vTE5P5Oi4bD2xucIcjaSBZ0QkeEhwiUtNvUqIzG8uCCGO0jhVTAe-6FrHyRvIN--sa5dRWiyP-kCbgLV_N1P0FOIHuaNsHwGZkeWn4rrGZTNn11yMOIMhqoL1UPr8Nz_jTCGBA2qoIpOppZX0Bi5zNSPziP_68VZfQ.wHoPek3OPnH1ADzbZ8tC0dBKf7fiQjR9vNPWxOE3V4E&dib_tag=se&keywords=christmas+gift+baskets&qid=1792658673&sr=8-27",
+        "link_clean": "https://www.amazon.com/Pro-Goleem-Ribbons-Durable-Halloween/dp/B0C2PV5MC2/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0C2PV5MC2&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "thumbnail": "https://m.media-amazon.com/images/I/81Vwwgufi9L._AC_UL320_.jpg",
+        "rating": 4.6,
+        "reviews": 3100,
+        "bought_last_month": "3K+ bought in past month",
+        "price": "$9.99",
+        "extracted_price": 9.99,
+        "offers": [
+          "Save 5% on 2 select item(s)"
+        ],
+        "delivery": [
+          "FREE delivery Tue, Oct 27 on $35 of items shipped by Amazon",
+          "Or fastest delivery Mon, Oct 26"
+        ],
+        "climate_pledge_friendly": true,
+        "sustainability_features": [
+          {
+            "position": 1,
+            "name": "Safer chemicals",
+            "snippet": "Made with chemicals safer for human health and the environment.",
+            "thumbnail": "https://m.media-amazon.com/images/I/51YvKwF01yL._SS200_.jpg",
+            "certified_by": "OEKO-TEX STANDARD 100",
+            "certified_info": "OEKO-TEX® STANDARD 100 certified products require every component of a textiles production including all thread, buttons, and trims to be tested against a list of more than 1,000 regulated and unregulated chemicals which may be harmful to human health. The assessment process is globally standardised, independently conducted, and updated at least once per year based on new scientific information or regulatory requirements."
+          }
+        ],
+        "purchase_options": [
+          {
+            "primary_price": "$9.99",
+            "extracted_primary_price": 9.99
+          }
+        ]
+      },
+      {
+        "position": 28,
+        "asin": "B08SJ3KTB2",
+        "title": "Electric Candle Lighter, Christmas Stocking Stuffers Gifts for Women Mom Men Wife, USB Arc Rechargeable Windproof Long Lighter for Candle BBQ Birthday Housewarming Gift Idals",
+        "link": "https://www.amazon.com/MEIRUBY-Lighter-Electric-Rechargeable-Lighters/dp/B08SJ3KTB2/ref=sr_1_28?dib=eyJ2IjoiMSJ9.0UJO_seQAxLPlvFBmKu_7gQgJ_rP-xvy4exz1p2bLRiZQ-BoEIImB0k-wEq18iLDNM17TrIgSrq5gW9sMmxsjEN9oj25ZL-f47syIXWz_umEr7ioEeYunhXQCC3-OeW8XFyiNNuB4vTE5P5Oi4bD2xucIcjaSBZ0QkeEhwiUtNvUqIzG8uCCGO0jhVTAe-6FrHyRvIN--sa5dRWiyP-kCbgLV_N1P0FOIHuaNsHwGZkeWn4rrGZTNn11yMOIMhqoL1UPr8Nz_jTCGBA2qoIpOppZX0Bi5zNSPziP_68VZfQ.wHoPek3OPnH1ADzbZ8tC0dBKf7fiQjR9vNPWxOE3V4E&dib_tag=se&keywords=christmas+gift+baskets&qid=1792658673&sr=8-28",
+        "link_clean": "https://www.amazon.com/MEIRUBY-Lighter-Electric-Rechargeable-Lighters/dp/B08SJ3KTB2/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B08SJ3KTB2&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "thumbnail": "https://m.media-amazon.com/images/I/518oMBfCfqL._AC_UL320_.jpg",
+        "rating": 4.5,
+        "reviews": 27600,
+        "bought_last_month": "4K+ bought in past month",
+        "price": "$12.99",
+        "extracted_price": 12.99,
+        "old_price": "$13.99",
+        "extracted_old_price": 13.99,
+        "delivery": [
+          "FREE delivery Tue, Oct 27 on $35 of items shipped by Amazon"
+        ],
+        "purchase_options": [
+          {
+            "primary_price": "$12.99",
+            "extracted_primary_price": 12.99,
+            "old_primary_price": "$13.99",
+            "extracted_old_primary_price": 13.99
+          }
+        ]
+      },
+      {
+        "position": 29,
+        "asin": "B077BJC36S",
+        "title": "Nutty Toys Squishy Cat Set - 2\" Soft Silicone Kawaii Kitties, Top Stress Relief Toy 2026 Unique Gifts for Teens Kids Women Men Adults Best Teenage Girls Teen Boy Tween Christmas Stocking Stuffers Idea",
+        "link": "https://www.amazon.com/Nutty-Toys-Squishy-Free-Sticker/dp/B077BJC36S/ref=sr_1_29?dib=eyJ2IjoiMSJ9.0UJO_seQAxLPlvFBmKu_7gQgJ_rP-xvy4exz1p2bLRiZQ-BoEIImB0k-wEq18iLDNM17TrIgSrq5gW9sMmxsjEN9oj25ZL-f47syIXWz_umEr7ioEeYunhXQCC3-OeW8XFyiNNuB4vTE5P5Oi4bD2xucIcjaSBZ0QkeEhwiUtNvUqIzG8uCCGO0jhVTAe-6FrHyRvIN--sa5dRWiyP-kCbgLV_N1P0FOIHuaNsHwGZkeWn4rrGZTNn11yMOIMhqoL1UPr8Nz_jTCGBA2qoIpOppZX0Bi5zNSPziP_68VZfQ.wHoPek3OPnH1ADzbZ8tC0dBKf7fiQjR9vNPWxOE3V4E&dib_tag=se&keywords=christmas+gift+baskets&qid=1792658673&sr=8-29",
+        "link_clean": "https://www.amazon.com/Nutty-Toys-Squishy-Free-Sticker/dp/B077BJC36S/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B077BJC36S&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "thumbnail": "https://m.media-amazon.com/images/I/81kURCfC5iL._AC_UL320_.jpg",
+        "rating": 4.0,
+        "reviews": 10800,
+        "bought_last_month": "4K+ bought in past month",
+        "price": "$7.97",
+        "extracted_price": 7.97,
+        "delivery": [
+          "FREE delivery Tue, Oct 27 on $35 of items shipped by Amazon",
+          "Or fastest delivery Mon, Oct 26"
+        ],
+        "age_rating": "3 years and up",
+        "purchase_options": [
+          {
+            "primary_price": "$7.97",
+            "extracted_primary_price": 7.97
+          }
+        ]
+      },
+      {
+        "position": 30,
+        "asin": "B0GGHPPVJJ",
+        "title": "Shower Steamers Aromatherapy 15Pack, Eucalyptus & Mint, Gifts for Men Women",
+        "link": "https://www.amazon.com/Aromatherapy-Eucalyptus-Essential-Relaxation-Congestion/dp/B0GGHPPVJJ/ref=sr_1_30?dib=eyJ2IjoiMSJ9.0UJO_seQAxLPlvFBmKu_7gQgJ_rP-xvy4exz1p2bLRiZQ-BoEIImB0k-wEq18iLDNM17TrIgSrq5gW9sMmxsjEN9oj25ZL-f47syIXWz_umEr7ioEeYunhXQCC3-OeW8XFyiNNuB4vTE5P5Oi4bD2xucIcjaSBZ0QkeEhwiUtNvUqIzG8uCCGO0jhVTAe-6FrHyRvIN--sa5dRWiyP-kCbgLV_N1P0FOIHuaNsHwGZkeWn4rrGZTNn11yMOIMhqoL1UPr8Nz_jTCGBA2qoIpOppZX0Bi5zNSPziP_68VZfQ.wHoPek3OPnH1ADzbZ8tC0dBKf7fiQjR9vNPWxOE3V4E&dib_tag=se&keywords=christmas+gift+baskets&qid=1792658673&sr=8-30",
+        "link_clean": "https://www.amazon.com/Aromatherapy-Eucalyptus-Essential-Relaxation-Congestion/dp/B0GGHPPVJJ/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0GGHPPVJJ&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "thumbnail": "https://m.media-amazon.com/images/I/71HZEWtDqeL._AC_UL320_.jpg",
+        "rating": 3.9,
+        "reviews": 427,
+        "bought_last_month": "4K+ bought in past month",
+        "price": "$9.99",
+        "extracted_price": 9.99,
+        "delivery": [
+          "FREE delivery Tue, Oct 27 on $35 of items shipped by Amazon"
+        ],
+        "purchase_options": [
+          {
+            "primary_price": "$9.99",
+            "extracted_primary_price": 9.99
+          }
+        ]
+      },
+      {
+        "position": 31,
+        "asin": "B07W738MG5",
+        "options": "2 sizes",
+        "options_link": "https://www.amazon.com/Ferrero-Rocher-Hazelnut-Chocolate-Valentines/dp/B07W738MG5/ref=vo_sr_l_dp?dib=eyJ2IjoiMSJ9.0UJO_seQAxLPlvFBmKu_7gQgJ_rP-xvy4exz1p2bLRiZQ-BoEIImB0k-wEq18iLDNM17TrIgSrq5gW9sMmxsjEN9oj25ZL-f47syIXWz_umEr7ioEeYunhXQCC3-OeW8XFyiNNuB4vTE5P5Oi4bD2xucIcjaSBZ0QkeEhwiUtNvUqIzG8uCCGO0jhVTAe-6FrHyRvIN--sa5dRWiyP-kCbgLV_N1P0FOIHuaNsHwGZkeWn4rrGZTNn11yMOIMhqoL1UPr8Nz_jTCGBA2qoIpOppZX0Bi5zNSPziP_68VZfQ.wHoPek3OPnH1ADzbZ8tC0dBKf7fiQjR9vNPWxOE3V4E&dib_tag=se&keywords=christmas+gift+baskets&qid=1792658673&sr=8-31",
+        "title": "Ferrero Rocher Chocolate Candy, Hazelnut Milk Chocolates, 42 Ct, 18.5 oz",
+        "link": "https://www.amazon.com/Ferrero-Rocher-Hazelnut-Chocolate-Valentines/dp/B07W738MG5/ref=sr_1_31?dib=eyJ2IjoiMSJ9.0UJO_seQAxLPlvFBmKu_7gQgJ_rP-xvy4exz1p2bLRiZQ-BoEIImB0k-wEq18iLDNM17TrIgSrq5gW9sMmxsjEN9oj25ZL-f47syIXWz_umEr7ioEeYunhXQCC3-OeW8XFyiNNuB4vTE5P5Oi4bD2xucIcjaSBZ0QkeEhwiUtNvUqIzG8uCCGO0jhVTAe-6FrHyRvIN--sa5dRWiyP-kCbgLV_N1P0FOIHuaNsHwGZkeWn4rrGZTNn11yMOIMhqoL1UPr8Nz_jTCGBA2qoIpOppZX0Bi5zNSPziP_68VZfQ.wHoPek3OPnH1ADzbZ8tC0dBKf7fiQjR9vNPWxOE3V4E&dib_tag=se&keywords=christmas+gift+baskets&qid=1792658673&sr=8-31",
+        "link_clean": "https://www.amazon.com/Ferrero-Rocher-Hazelnut-Chocolate-Valentines/dp/B07W738MG5/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B07W738MG5&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "thumbnail": "https://m.media-amazon.com/images/I/91LY2ZN8XiL._AC_UL320_.jpg",
+        "rating": 4.8,
+        "reviews": 16900,
+        "bought_last_month": "20K+ bought in past month",
+        "price": "$23.98",
+        "extracted_price": 23.98,
+        "top_rated": true,
+        "delivery": [
+          "FREE delivery Fri, Oct 30",
+          "Or fastest delivery Oct 27 - 29",
+          "Arrives before Halloween"
+        ],
+        "more_buying_choices": "$17.98 (31 new offers)",
+        "more_buying_choices_link": "https://www.amazon.com/gp/offer-listing/B07W738MG5/ref=sr_1_31_olp?keywords=christmas+gift+baskets&dib_tag=se&dib=eyJ2IjoiMSJ9.0UJO_seQAxLPlvFBmKu_7gQgJ_rP-xvy4exz1p2bLRiZQ-BoEIImB0k-wEq18iLDNM17TrIgSrq5gW9sMmxsjEN9oj25ZL-f47syIXWz_umEr7ioEeYunhXQCC3-OeW8XFyiNNuB4vTE5P5Oi4bD2xucIcjaSBZ0QkeEhwiUtNvUqIzG8uCCGO0jhVTAe-6FrHyRvIN--sa5dRWiyP-kCbgLV_N1P0FOIHuaNsHwGZkeWn4rrGZTNn11yMOIMhqoL1UPr8Nz_jTCGBA2qoIpOppZX0Bi5zNSPziP_68VZfQ.wHoPek3OPnH1ADzbZ8tC0dBKf7fiQjR9vNPWxOE3V4E&qid=1792658673&sr=8-31",
+        "purchase_options": [
+          {
+            "primary_price": "$23.98",
+            "extracted_primary_price": 23.98,
+            "more_buying_choices": "$17.98 (31 new offers)",
+            "more_buying_choices_link": "https://www.amazon.com/gp/offer-listing/B07W738MG5/ref=sr_1_31_olp?keywords=christmas+gift+baskets&dib_tag=se&dib=eyJ2IjoiMSJ9.0UJO_seQAxLPlvFBmKu_7gQgJ_rP-xvy4exz1p2bLRiZQ-BoEIImB0k-wEq18iLDNM17TrIgSrq5gW9sMmxsjEN9oj25ZL-f47syIXWz_umEr7ioEeYunhXQCC3-OeW8XFyiNNuB4vTE5P5Oi4bD2xucIcjaSBZ0QkeEhwiUtNvUqIzG8uCCGO0jhVTAe-6FrHyRvIN--sa5dRWiyP-kCbgLV_N1P0FOIHuaNsHwGZkeWn4rrGZTNn11yMOIMhqoL1UPr8Nz_jTCGBA2qoIpOppZX0Bi5zNSPziP_68VZfQ.wHoPek3OPnH1ADzbZ8tC0dBKf7fiQjR9vNPWxOE3V4E&qid=1792658673&sr=8-31"
+          }
+        ]
+      },
+      {
+        "position": 32,
+        "asin": "B0C8CGV84V",
+        "badges": [
+          "Limited time deal"
+        ],
+        "title": "Robot Sensory Travel Roadtrip Toys 4Pcs for Toddlers Kid Boy Year Old Ages 3 4 5 6 7 8 9,Airplane Activities Suction Autism Pop Tube Fidget Toys Autistic Stocking Easter Basket Stuffer Valentine Gift",
+        "link": "https://www.amazon.com/CHESLICR-Sensory-Autistic-Airplane-Stocking/dp/B0C8CGV84V/ref=sr_1_32?dib=eyJ2IjoiMSJ9.0UJO_seQAxLPlvFBmKu_7gQgJ_rP-xvy4exz1p2bLRiZQ-BoEIImB0k-wEq18iLDNM17TrIgSrq5gW9sMmxsjEN9oj25ZL-f47syIXWz_umEr7ioEeYunhXQCC3-OeW8XFyiNNuB4vTE5P5Oi4bD2xucIcjaSBZ0QkeEhwiUtNvUqIzG8uCCGO0jhVTAe-6FrHyRvIN--sa5dRWiyP-kCbgLV_N1P0FOIHuaNsHwGZkeWn4rrGZTNn11yMOIMhqoL1UPr8Nz_jTCGBA2qoIpOppZX0Bi5zNSPziP_68VZfQ.wHoPek3OPnH1ADzbZ8tC0dBKf7fiQjR9vNPWxOE3V4E&dib_tag=se&keywords=christmas+gift+baskets&qid=1792658673&sr=8-32",
+        "link_clean": "https://www.amazon.com/CHESLICR-Sensory-Autistic-Airplane-Stocking/dp/B0C8CGV84V/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0C8CGV84V&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "thumbnail": "https://m.media-amazon.com/images/I/71k6Hpvv8KL._AC_UL320_.jpg",
+        "rating": 4.4,
+        "reviews": 2900,
+        "bought_last_month": "3K+ bought in past month",
+        "price": "$8.99",
+        "extracted_price": 8.99,
+        "old_price": "$9.99",
+        "extracted_old_price": 9.99,
+        "delivery": [
+          "FREE delivery Tue, Oct 27 on $35 of items shipped by Amazon"
+        ],
+        "more_buying_choices": "$7.70 (2 used & new offers)",
+        "more_buying_choices_link": "https://www.amazon.com/gp/offer-listing/B0C8CGV84V/ref=sr_1_32_olp?keywords=christmas+gift+baskets&dib_tag=se&dib=eyJ2IjoiMSJ9.0UJO_seQAxLPlvFBmKu_7gQgJ_rP-xvy4exz1p2bLRiZQ-BoEIImB0k-wEq18iLDNM17TrIgSrq5gW9sMmxsjEN9oj25ZL-f47syIXWz_umEr7ioEeYunhXQCC3-OeW8XFyiNNuB4vTE5P5Oi4bD2xucIcjaSBZ0QkeEhwiUtNvUqIzG8uCCGO0jhVTAe-6FrHyRvIN--sa5dRWiyP-kCbgLV_N1P0FOIHuaNsHwGZkeWn4rrGZTNn11yMOIMhqoL1UPr8Nz_jTCGBA2qoIpOppZX0Bi5zNSPziP_68VZfQ.wHoPek3OPnH1ADzbZ8tC0dBKf7fiQjR9vNPWxOE3V4E&qid=1792658673&sr=8-32",
+        "climate_pledge_friendly": true,
+        "age_rating": "3 years and up",
+        "sustainability_features": [
+          {
+            "position": 1,
+            "name": "Recycled materials",
+            "snippet": "Contains at least 50% recycled material.",
+            "thumbnail": "https://m.media-amazon.com/images/I/51IhSrucIyL._SS200_.png",
+            "certified_by": "Global Recycled Standard",
+            "certified_info": "Global Recycled Standard (GRS) certified products contain recycled content (>50%) that has been independently verified at each stage of the supply chain, from the source to the final product and meet social, environmental, and chemical requirements. The purchase of Global Recycled Standard (GRS) certified products supports the use of recycled content in the supply chain."
+          },
+          {
+            "position": 2,
+            "name": "Safer chemicals",
+            "snippet": "Made with chemicals safer for human health and the environment.",
+            "thumbnail": "https://m.media-amazon.com/images/I/51IhSrucIyL._SS200_.png",
+            "certified_by": "Global Recycled Standard",
+            "certified_info": "Global Recycled Standard (GRS) certified products contain recycled content (>50%) that has been independently verified at each stage of the supply chain, from the source to the final product and meet social, environmental, and chemical requirements. The purchase of Global Recycled Standard (GRS) certified products supports the use of recycled content in the supply chain."
+          },
+          {
+            "position": 3,
+            "name": "Worker well-being",
+            "snippet": "Manufactured on farms or in facilities that protect the rights and/or health of workers.",
+            "thumbnail": "https://m.media-amazon.com/images/I/51IhSrucIyL._SS200_.png",
+            "certified_by": "Global Recycled Standard",
+            "certified_info": "Global Recycled Standard (GRS) certified products contain recycled content (>50%) that has been independently verified at each stage of the supply chain, from the source to the final product and meet social, environmental, and chemical requirements. The purchase of Global Recycled Standard (GRS) certified products supports the use of recycled content in the supply chain."
+          }
+        ],
+        "purchase_options": [
+          {
+            "primary_price": "$8.99",
+            "extracted_primary_price": 8.99,
+            "old_primary_price": "$9.99",
+            "extracted_old_primary_price": 9.99,
+            "more_buying_choices": "$7.70 (2 used & new offers)",
+            "more_buying_choices_link": "https://www.amazon.com/gp/offer-listing/B0C8CGV84V/ref=sr_1_32_olp?keywords=christmas+gift+baskets&dib_tag=se&dib=eyJ2IjoiMSJ9.0UJO_seQAxLPlvFBmKu_7gQgJ_rP-xvy4exz1p2bLRiZQ-BoEIImB0k-wEq18iLDNM17TrIgSrq5gW9sMmxsjEN9oj25ZL-f47syIXWz_umEr7ioEeYunhXQCC3-OeW8XFyiNNuB4vTE5P5Oi4bD2xucIcjaSBZ0QkeEhwiUtNvUqIzG8uCCGO0jhVTAe-6FrHyRvIN--sa5dRWiyP-kCbgLV_N1P0FOIHuaNsHwGZkeWn4rrGZTNn11yMOIMhqoL1UPr8Nz_jTCGBA2qoIpOppZX0Bi5zNSPziP_68VZfQ.wHoPek3OPnH1ADzbZ8tC0dBKf7fiQjR9vNPWxOE3V4E&qid=1792658673&sr=8-32"
+          }
+        ]
+      },
+      {
+        "position": 33,
+        "asin": "B0BJJ56VL2",
+        "title": "Pop Fidget Toys Bulk Its Party Favors for Kids 30 Pack Mini Pop Keychain It",
+        "link": "https://www.amazon.com/Stuffers-Keychain-Toddler-Fidgets-Classroom/dp/B0BJJ56VL2/ref=sr_1_33?dib=eyJ2IjoiMSJ9.0UJO_seQAxLPlvFBmKu_7gQgJ_rP-xvy4exz1p2bLRiZQ-BoEIImB0k-wEq18iLDNM17TrIgSrq5gW9sMmxsjEN9oj25ZL-f47syIXWz_umEr7ioEeYunhXQCC3-OeW8XFyiNNuB4vTE5P5Oi4bD2xucIcjaSBZ0QkeEhwiUtNvUqIzG8uCCGO0jhVTAe-6FrHyRvIN--sa5dRWiyP-kCbgLV_N1P0FOIHuaNsHwGZkeWn4rrGZTNn11yMOIMhqoL1UPr8Nz_jTCGBA2qoIpOppZX0Bi5zNSPziP_68VZfQ.wHoPek3OPnH1ADzbZ8tC0dBKf7fiQjR9vNPWxOE3V4E&dib_tag=se&keywords=christmas+gift+baskets&qid=1792658673&sr=8-33",
+        "link_clean": "https://www.amazon.com/Stuffers-Keychain-Toddler-Fidgets-Classroom/dp/B0BJJ56VL2/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0BJJ56VL2&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "thumbnail": "https://m.media-amazon.com/images/I/81eyimLZqcL._AC_UL320_.jpg",
+        "rating": 4.8,
+        "reviews": 3500,
+        "bought_last_month": "2K+ bought in past month",
+        "price": "$8.99",
+        "extracted_price": 8.99,
+        "delivery": [
+          "FREE delivery Tue, Oct 27 on $35 of items shipped by Amazon"
+        ],
+        "age_rating": "3 years and up",
+        "purchase_options": [
+          {
+            "primary_price": "$8.99",
+            "extracted_primary_price": 8.99
+          }
+        ]
+      },
+      {
+        "position": 34,
+        "asin": "B0B4X5SLKC",
+        "tags": [
+          "1.38 Ounce (Pack of 16)"
+        ],
+        "title": "Pop n' Dulge Popcorn Movie Night Supplies 16 pcs Gift Set, 5 Gourmet Popcorn Kernels, 5 Seasoning Variety Packs Non-GMO Kosher Snacks, Great Housewarming Family Date Night Gifts Basket Ideas For Him Her",
+        "link": "https://www.amazon.com/Popcorn-Seasoning-Kernels-Flavoring-Supplies/dp/B0B4X5SLKC/ref=sr_1_34?dib=eyJ2IjoiMSJ9.0UJO_seQAxLPlvFBmKu_7gQgJ_rP-xvy4exz1p2bLRiZQ-BoEIImB0k-wEq18iLDNM17TrIgSrq5gW9sMmxsjEN9oj25ZL-f47syIXWz_umEr7ioEeYunhXQCC3-OeW8XFyiNNuB4vTE5P5Oi4bD2xucIcjaSBZ0QkeEhwiUtNvUqIzG8uCCGO0jhVTAe-6FrHyRvIN--sa5dRWiyP-kCbgLV_N1P0FOIHuaNsHwGZkeWn4rrGZTNn11yMOIMhqoL1UPr8Nz_jTCGBA2qoIpOppZX0Bi5zNSPziP_68VZfQ.wHoPek3OPnH1ADzbZ8tC0dBKf7fiQjR9vNPWxOE3V4E&dib_tag=se&keywords=christmas+gift+baskets&qid=1792658673&sr=8-34",
+        "link_clean": "https://www.amazon.com/Popcorn-Seasoning-Kernels-Flavoring-Supplies/dp/B0B4X5SLKC/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0B4X5SLKC&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "thumbnail": "https://m.media-amazon.com/images/I/81ZCAoimEAL._AC_UL320_.jpg",
+        "rating": 4.5,
+        "reviews": 4700,
+        "bought_last_month": "3K+ bought in past month",
+        "price": "$21.95",
+        "extracted_price": 21.95,
+        "delivery": [
+          "FREE delivery Tue, Oct 27 on $35 of items shipped by Amazon"
+        ],
+        "small_business": true,
+        "purchase_options": [
+          {
+            "primary_price": "$21.95",
+            "extracted_primary_price": 21.95
+          }
+        ]
+      },
+      {
+        "position": 35,
+        "asin": "B0FL7RLT35",
+        "badges": [
+          "Limited time deal"
+        ],
+        "title": "5 Pack Back Scratcher, Stocking Stuffers for Men Women Adults Teens",
+        "link": "https://www.amazon.com/SIKEMAY-Scratcher-Christmas-Valentines-Birthdays/dp/B0FL7RLT35/ref=sr_1_35?dib=eyJ2IjoiMSJ9.0UJO_seQAxLPlvFBmKu_7gQgJ_rP-xvy4exz1p2bLRiZQ-BoEIImB0k-wEq18iLDNM17TrIgSrq5gW9sMmxsjEN9oj25ZL-f47syIXWz_umEr7ioEeYunhXQCC3-OeW8XFyiNNuB4vTE5P5Oi4bD2xucIcjaSBZ0QkeEhwiUtNvUqIzG8uCCGO0jhVTAe-6FrHyRvIN--sa5dRWiyP-kCbgLV_N1P0FOIHuaNsHwGZkeWn4rrGZTNn11yMOIMhqoL1UPr8Nz_jTCGBA2qoIpOppZX0Bi5zNSPziP_68VZfQ.wHoPek3OPnH1ADzbZ8tC0dBKf7fiQjR9vNPWxOE3V4E&dib_tag=se&keywords=christmas+gift+baskets&qid=1792658673&sr=8-35",
+        "link_clean": "https://www.amazon.com/SIKEMAY-Scratcher-Christmas-Valentines-Birthdays/dp/B0FL7RLT35/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0FL7RLT35&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "thumbnail": "https://m.media-amazon.com/images/I/71yvMg-BRnL._AC_UL320_.jpg",
+        "rating": 4.4,
+        "reviews": 176,
+        "bought_last_month": "2K+ bought in past month",
+        "price": "$5.98",
+        "extracted_price": 5.98,
+        "old_price": "$6.99",
+        "extracted_old_price": 6.99,
+        "delivery": [
+          "FREE delivery Tue, Oct 27 on $35 of items shipped by Amazon"
+        ],
+        "purchase_options": [
+          {
+            "primary_price": "$5.98",
+            "extracted_primary_price": 5.98,
+            "old_primary_price": "$6.99",
+            "extracted_old_primary_price": 6.99
+          }
+        ]
+      },
+      {
+        "position": 36,
+        "asin": "B0DCN225F9",
+        "badges": [
+          "Limited time deal"
+        ],
+        "title": "Birthday and Get Well Gifts for Women - Relaxing Spa Care Package",
+        "link": "https://www.amazon.com/Birthday-Get-Well-Gifts-Women/dp/B0DCN225F9/ref=sr_1_36?dib=eyJ2IjoiMSJ9.0UJO_seQAxLPlvFBmKu_7gQgJ_rP-xvy4exz1p2bLRiZQ-BoEIImB0k-wEq18iLDNM17TrIgSrq5gW9sMmxsjEN9oj25ZL-f47syIXWz_umEr7ioEeYunhXQCC3-OeW8XFyiNNuB4vTE5P5Oi4bD2xucIcjaSBZ0QkeEhwiUtNvUqIzG8uCCGO0jhVTAe-6FrHyRvIN--sa5dRWiyP-kCbgLV_N1P0FOIHuaNsHwGZkeWn4rrGZTNn11yMOIMhqoL1UPr8Nz_jTCGBA2qoIpOppZX0Bi5zNSPziP_68VZfQ.wHoPek3OPnH1ADzbZ8tC0dBKf7fiQjR9vNPWxOE3V4E&dib_tag=se&keywords=christmas+gift+baskets&qid=1792658673&sr=8-36",
+        "link_clean": "https://www.amazon.com/Birthday-Get-Well-Gifts-Women/dp/B0DCN225F9/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0DCN225F9&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "thumbnail": "https://m.media-amazon.com/images/I/71evkCK1M-L._AC_UL320_.jpg",
+        "rating": 4.8,
+        "reviews": 970,
+        "bought_last_month": "3K+ bought in past month",
+        "price": "$33.99",
+        "extracted_price": 33.99,
+        "old_price": "$39.99",
+        "extracted_old_price": 39.99,
+        "delivery": [
+          "FREE delivery Tue, Oct 27 on $35 of items shipped by Amazon"
+        ],
+        "purchase_options": [
+          {
+            "primary_price": "$33.99",
+            "extracted_primary_price": 33.99,
+            "old_primary_price": "$39.99",
+            "extracted_old_primary_price": 39.99
+          }
+        ]
+      },
+      {
+        "position": 37,
+        "asin": "B0F2TDC682",
+        "badges": [
+          "Limited time deal"
+        ],
+        "title": "Get Well Soon Gifts Baskets for Women Spa Self Care Package After Surgery",
+        "link": "https://www.amazon.com/Baskets-Inspirational-Thinking-Sympathy-Encouragement/dp/B0F2TDC682/ref=sr_1_37?dib=eyJ2IjoiMSJ9.0UJO_seQAxLPlvFBmKu_7gQgJ_rP-xvy4exz1p2bLRiZQ-BoEIImB0k-wEq18iLDNM17TrIgSrq5gW9sMmxsjEN9oj25ZL-f47syIXWz_umEr7ioEeYunhXQCC3-OeW8XFyiNNuB4vTE5P5Oi4bD2xucIcjaSBZ0QkeEhwiUtNvUqIzG8uCCGO0jhVTAe-6FrHyRvIN--sa5dRWiyP-kCbgLV_N1P0FOIHuaNsHwGZkeWn4rrGZTNn11yMOIMhqoL1UPr8Nz_jTCGBA2qoIpOppZX0Bi5zNSPziP_68VZfQ.wHoPek3OPnH1ADzbZ8tC0dBKf7fiQjR9vNPWxOE3V4E&dib_tag=se&keywords=christmas+gift+baskets&qid=1792658673&sr=8-37",
+        "link_clean": "https://www.amazon.com/Baskets-Inspirational-Thinking-Sympathy-Encouragement/dp/B0F2TDC682/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0F2TDC682&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "thumbnail": "https://m.media-amazon.com/images/I/81rq1w6TMCL._AC_UL320_.jpg",
+        "rating": 4.8,
+        "reviews": 404,
+        "bought_last_month": "2K+ bought in past month",
+        "price": "$36.76",
+        "extracted_price": 36.76,
+        "delivery": [
+          "FREE delivery Tue, Oct 27"
+        ],
+        "purchase_options": [
+          {
+            "primary_price": "$36.76",
+            "extracted_primary_price": 36.76
+          }
+        ]
+      },
+      {
+        "position": 38,
+        "asin": "B078N1DBY9",
+        "badges": [
+          "Limited time deal"
+        ],
+        "title": "Beard Kit Christmas Stocking Stuffers Gifts Set for Men Him Grooming & Care",
+        "link": "https://www.amazon.com/Christmas-Stocking-Stuffers-Valentines-Boyfriend/dp/B078N1DBY9/ref=sr_1_38?dib=eyJ2IjoiMSJ9.0UJO_seQAxLPlvFBmKu_7gQgJ_rP-xvy4exz1p2bLRiZQ-BoEIImB0k-wEq18iLDNM17TrIgSrq5gW9sMmxsjEN9oj25ZL-f47syIXWz_umEr7ioEeYunhXQCC3-OeW8XFyiNNuB4vTE5P5Oi4bD2xucIcjaSBZ0QkeEhwiUtNvUqIzG8uCCGO0jhVTAe-6FrHyRvIN--sa5dRWiyP-kCbgLV_N1P0FOIHuaNsHwGZkeWn4rrGZTNn11yMOIMhqoL1UPr8Nz_jTCGBA2qoIpOppZX0Bi5zNSPziP_68VZfQ.wHoPek3OPnH1ADzbZ8tC0dBKf7fiQjR9vNPWxOE3V4E&dib_tag=se&keywords=christmas+gift+baskets&qid=1792658673&sr=8-38",
+        "link_clean": "https://www.amazon.com/Christmas-Stocking-Stuffers-Valentines-Boyfriend/dp/B078N1DBY9/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B078N1DBY9&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "thumbnail": "https://m.media-amazon.com/images/I/81MAe9-18iL._AC_UL320_.jpg",
+        "rating": 4.7,
+        "reviews": 60400,
+        "bought_last_month": "2K+ bought in past month",
+        "price": "$15.99",
+        "extracted_price": 15.99,
+        "old_price": "$19.99",
+        "extracted_old_price": 19.99,
+        "offers": [
+          "Save 10% on 2 select item(s)"
+        ],
+        "delivery": [
+          "FREE delivery Tue, Oct 27 on $35 of items shipped by Amazon",
+          "Arrives before Halloween"
+        ],
+        "purchase_options": [
+          {
+            "primary_price": "$15.99",
+            "extracted_primary_price": 15.99,
+            "old_primary_price": "$19.99",
+            "extracted_old_primary_price": 19.99
+          }
+        ]
+      },
+      {
+        "position": 39,
+        "asin": "B097Q7DHVW",
+        "title": "BIC Maxi Pocket Lighters, Shades of Green, 12-Pack",
+        "link": "https://www.amazon.com/BIC-Lighters-Reliable-Everyday-Collection/dp/B097Q7DHVW/ref=sr_1_39?dib=eyJ2IjoiMSJ9.0UJO_seQAxLPlvFBmKu_7gQgJ_rP-xvy4exz1p2bLRiZQ-BoEIImB0k-wEq18iLDNM17TrIgSrq5gW9sMmxsjEN9oj25ZL-f47syIXWz_umEr7ioEeYunhXQCC3-OeW8XFyiNNuB4vTE5P5Oi4bD2xucIcjaSBZ0QkeEhwiUtNvUqIzG8uCCGO0jhVTAe-6FrHyRvIN--sa5dRWiyP-kCbgLV_N1P0FOIHuaNsHwGZkeWn4rrGZTNn11yMOIMhqoL1UPr8Nz_jTCGBA2qoIpOppZX0Bi5zNSPziP_68VZfQ.wHoPek3OPnH1ADzbZ8tC0dBKf7fiQjR9vNPWxOE3V4E&dib_tag=se&keywords=christmas+gift+baskets&qid=1792658673&sr=8-39",
+        "link_clean": "https://www.amazon.com/BIC-Lighters-Reliable-Everyday-Collection/dp/B097Q7DHVW/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B097Q7DHVW&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "thumbnail": "https://m.media-amazon.com/images/I/81eGUqY2E4L._AC_UL320_.jpg",
+        "rating": 4.7,
+        "reviews": 9000,
+        "bought_last_month": "3K+ bought in past month",
+        "price": "$14.99",
+        "extracted_price": 14.99,
+        "delivery": [
+          "FREE delivery Thu, Oct 29 on $35 of items shipped by Amazon"
+        ],
+        "purchase_options": [
+          {
+            "primary_price": "$14.99",
+            "extracted_primary_price": 14.99
+          }
+        ]
+      },
+      {
+        "position": 40,
+        "asin": "B0BYMLWMJR",
+        "badges": [
+          "Limited time deal"
+        ],
+        "title": "Stocking Stuffers for Men Dad Husband Him Adult 9 in 1 Multitool Pen",
+        "link": "https://www.amazon.com/SAPGIF-Stocking-Stuffers-Multitool-Pen/dp/B0BYMLWMJR/ref=sr_1_40?dib=eyJ2IjoiMSJ9.0UJO_seQAxLPlvFBmKu_7gQgJ_rP-xvy4exz1p2bLRiZQ-BoEIImB0k-wEq18iLDNM17TrIgSrq5gW9sMmxsjEN9oj25ZL-f47syIXWz_umEr7ioEeYunhXQCC3-OeW8XFyiNNuB4vTE5P5Oi4bD2xucIcjaSBZ0QkeEhwiUtNvUqIzG8uCCGO0jhVTAe-6FrHyRvIN--sa5dRWiyP-kCbgLV_N1P0FOIHuaNsHwGZkeWn4rrGZTNn11yMOIMhqoL1UPr8Nz_jTCGBA2qoIpOppZX0Bi5zNSPziP_68VZfQ.wHoPek3OPnH1ADzbZ8tC0dBKf7fiQjR9vNPWxOE3V4E&dib_tag=se&keywords=christmas+gift+baskets&qid=1792658673&sr=8-40",
+        "link_clean": "https://www.amazon.com/SAPGIF-Stocking-Stuffers-Multitool-Pen/dp/B0BYMLWMJR/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0BYMLWMJR&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "thumbnail": "https://m.media-amazon.com/images/I/71o-W6FgKRL._AC_UL320_.jpg",
+        "rating": 4.6,
+        "reviews": 2600,
+        "bought_last_month": "1K+ bought in past month",
+        "price": "$6.99",
+        "extracted_price": 6.99,
+        "old_price": "$9.99",
+        "extracted_old_price": 9.99,
+        "delivery": [
+          "FREE delivery Tue, Oct 27 on $35 of items shipped by Amazon"
+        ],
+        "purchase_options": [
+          {
+            "primary_price": "$6.99",
+            "extracted_primary_price": 6.99,
+            "old_primary_price": "$9.99",
+            "extracted_old_primary_price": 9.99
+          }
+        ]
+      },
+      {
+        "position": 41,
+        "asin": "B0D5Z33X94",
+        "tags": [
+          "2 Ounce (Pack of 20)"
+        ],
+        "title": "20 Pack Bath Bombs for Kids with Surprise Inside Bubble Bath Toys Organic Natural Bath Bombs Set Easter Basket Stuffers Birthday Christmas Gift for Kids 3 4 5 6 7 8 Years Old Boys Toddlers Girls",
+        "link": "https://www.amazon.com/Surprise-Toddlers-Christmas-Stuffers-Birthday/dp/B0D5Z33X94/ref=sr_1_41?dib=eyJ2IjoiMSJ9.0UJO_seQAxLPlvFBmKu_7gQgJ_rP-xvy4exz1p2bLRiZQ-BoEIImB0k-wEq18iLDNM17TrIgSrq5gW9sMmxsjEN9oj25ZL-f47syIXWz_umEr7ioEeYunhXQCC3-OeW8XFyiNNuB4vTE5P5Oi4bD2xucIcjaSBZ0QkeEhwiUtNvUqIzG8uCCGO0jhVTAe-6FrHyRvIN--sa5dRWiyP-kCbgLV_N1P0FOIHuaNsHwGZkeWn4rrGZTNn11yMOIMhqoL1UPr8Nz_jTCGBA2qoIpOppZX0Bi5zNSPziP_68VZfQ.wHoPek3OPnH1ADzbZ8tC0dBKf7fiQjR9vNPWxOE3V4E&dib_tag=se&keywords=christmas+gift+baskets&qid=1792658673&sr=8-41",
+        "link_clean": "https://www.amazon.com/Surprise-Toddlers-Christmas-Stuffers-Birthday/dp/B0D5Z33X94/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0D5Z33X94&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "thumbnail": "https://m.media-amazon.com/images/I/81dz-jPD0PL._AC_UL320_.jpg",
+        "rating": 4.1,
+        "reviews": 587,
+        "bought_last_month": "2K+ bought in past month",
+        "price": "$23.99",
+        "extracted_price": 23.99,
+        "save_with_coupon": "You pay $22.79 with coupon",
+        "delivery": [
+          "FREE delivery Tue, Oct 27 on $35 of items shipped by Amazon"
+        ],
+        "purchase_options": [
+          {
+            "primary_price": "$23.99",
+            "extracted_primary_price": 23.99
+          }
+        ]
+      },
+      {
+        "position": 42,
+        "asin": "B0FC2LLK6V",
+        "options": "2 sizes",
+        "options_link": "https://www.amazon.com/OIAHOMY-Basket-Handle-Storage-Organizing/dp/B0FC2LLK6V/ref=vo_sr_l_dp?dib=eyJ2IjoiMSJ9.0UJO_seQAxLPlvFBmKu_7gQgJ_rP-xvy4exz1p2bLRiZQ-BoEIImB0k-wEq18iLDNM17TrIgSrq5gW9sMmxsjEN9oj25ZL-f47syIXWz_umEr7ioEeYunhXQCC3-OeW8XFyiNNuB4vTE5P5Oi4bD2xucIcjaSBZ0QkeEhwiUtNvUqIzG8uCCGO0jhVTAe-6FrHyRvIN--sa5dRWiyP-kCbgLV_N1P0FOIHuaNsHwGZkeWn4rrGZTNn11yMOIMhqoL1UPr8Nz_jTCGBA2qoIpOppZX0Bi5zNSPziP_68VZfQ.wHoPek3OPnH1ADzbZ8tC0dBKf7fiQjR9vNPWxOE3V4E&dib_tag=se&keywords=christmas+gift+baskets&qid=1792658673&sr=8-42",
+        "title": "OIAHOMY Gift Basket Empty with Handle, 12\"x 8\"x 5\" Small Woven Basket with Gift Bag, Ribbon and Wrap Tissue Paper, Dog Toy Storage for Organizing - Pink & White",
+        "link": "https://www.amazon.com/OIAHOMY-Basket-Handle-Storage-Organizing/dp/B0FC2LLK6V/ref=sr_1_42?dib=eyJ2IjoiMSJ9.0UJO_seQAxLPlvFBmKu_7gQgJ_rP-xvy4exz1p2bLRiZQ-BoEIImB0k-wEq18iLDNM17TrIgSrq5gW9sMmxsjEN9oj25ZL-f47syIXWz_umEr7ioEeYunhXQCC3-OeW8XFyiNNuB4vTE5P5Oi4bD2xucIcjaSBZ0QkeEhwiUtNvUqIzG8uCCGO0jhVTAe-6FrHyRvIN--sa5dRWiyP-kCbgLV_N1P0FOIHuaNsHwGZkeWn4rrGZTNn11yMOIMhqoL1UPr8Nz_jTCGBA2qoIpOppZX0Bi5zNSPziP_68VZfQ.wHoPek3OPnH1ADzbZ8tC0dBKf7fiQjR9vNPWxOE3V4E&dib_tag=se&keywords=christmas+gift+baskets&qid=1792658673&sr=8-42",
+        "link_clean": "https://www.amazon.com/OIAHOMY-Basket-Handle-Storage-Organizing/dp/B0FC2LLK6V/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0FC2LLK6V&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "thumbnail": "https://m.media-amazon.com/images/I/61GSLzOI4xL._AC_UL320_.jpg",
+        "rating": 4.7,
+        "reviews": 450,
+        "bought_last_month": "1K+ bought in past month",
+        "price": "$13.99",
+        "extracted_price": 13.99,
+        "delivery": [
+          "FREE delivery Tue, Oct 27 on $35 of items shipped by Amazon"
+        ],
+        "climate_pledge_friendly": true,
+        "sustainability_features": [
+          {
+            "position": 1,
+            "name": "Recycled materials",
+            "snippet": "Contains at least 50% recycled material.",
+            "thumbnail": "https://m.media-amazon.com/images/I/51IhSrucIyL._SS200_.png",
+            "certified_by": "Global Recycled Standard",
+            "certified_info": "Global Recycled Standard (GRS) certified products contain recycled content (>50%) that has been independently verified at each stage of the supply chain, from the source to the final product and meet social, environmental, and chemical requirements. The purchase of Global Recycled Standard (GRS) certified products supports the use of recycled content in the supply chain."
+          },
+          {
+            "position": 2,
+            "name": "Safer chemicals",
+            "snippet": "Made with chemicals safer for human health and the environment.",
+            "thumbnail": "https://m.media-amazon.com/images/I/51IhSrucIyL._SS200_.png",
+            "certified_by": "Global Recycled Standard",
+            "certified_info": "Global Recycled Standard (GRS) certified products contain recycled content (>50%) that has been independently verified at each stage of the supply chain, from the source to the final product and meet social, environmental, and chemical requirements. The purchase of Global Recycled Standard (GRS) certified products supports the use of recycled content in the supply chain."
+          },
+          {
+            "position": 3,
+            "name": "Worker well-being",
+            "snippet": "Manufactured on farms or in facilities that protect the rights and/or health of workers.",
+            "thumbnail": "https://m.media-amazon.com/images/I/51IhSrucIyL._SS200_.png",
+            "certified_by": "Global Recycled Standard",
+            "certified_info": "Global Recycled Standard (GRS) certified products contain recycled content (>50%) that has been independently verified at each stage of the supply chain, from the source to the final product and meet social, environmental, and chemical requirements. The purchase of Global Recycled Standard (GRS) certified products supports the use of recycled content in the supply chain."
+          }
+        ],
+        "purchase_options": [
+          {
+            "primary_price": "$13.99",
+            "extracted_primary_price": 13.99
+          }
+        ]
+      },
+      {
+        "position": 43,
+        "asin": "B0C7QKS7KJ",
+        "variants": {
+          "options": [
+            {
+              "position": 1,
+              "asin": "B0C7QKS7KJ",
+              "title": "White",
+              "link": "https://www.amazon.com/Basket-Handles-Storage-Nursery-Bedroom/dp/B0C7QKS7KJ/ref=cs_sr_dp_loc_1?dib=eyJ2IjoiMSJ9.0UJO_seQAxLPlvFBmKu_7gQgJ_rP-xvy4exz1p2bLRiZQ-BoEIImB0k-wEq18iLDNM17TrIgSrq5gW9sMmxsjEN9oj25ZL-f47syIXWz_umEr7ioEeYunhXQCC3-OeW8XFyiNNuB4vTE5P5Oi4bD2xucIcjaSBZ0QkeEhwiUtNvUqIzG8uCCGO0jhVTAe-6FrHyRvIN--sa5dRWiyP-kCbgLV_N1P0FOIHuaNsHwGZkeWn4rrGZTNn11yMOIMhqoL1UPr8Nz_jTCGBA2qoIpOppZX0Bi5zNSPziP_68VZfQ.wHoPek3OPnH1ADzbZ8tC0dBKf7fiQjR9vNPWxOE3V4E&dib_tag=se&keywords=christmas+gift+baskets&qid=1792658673&sr=8-43"
+            },
+            {
+              "position": 2,
+              "asin": "B0D7668HRJ",
+              "title": "Brown",
+              "link": "https://www.amazon.com/Basket-Handles-Storage-Nursery-Bedroom/dp/B0D7668HRJ/ref=cs_sr_dp_loc_2?dib=eyJ2IjoiMSJ9.0UJO_seQAxLPlvFBmKu_7gQgJ_rP-xvy4exz1p2bLRiZQ-BoEIImB0k-wEq18iLDNM17TrIgSrq5gW9sMmxsjEN9oj25ZL-f47syIXWz_umEr7ioEeYunhXQCC3-OeW8XFyiNNuB4vTE5P5Oi4bD2xucIcjaSBZ0QkeEhwiUtNvUqIzG8uCCGO0jhVTAe-6FrHyRvIN--sa5dRWiyP-kCbgLV_N1P0FOIHuaNsHwGZkeWn4rrGZTNn11yMOIMhqoL1UPr8Nz_jTCGBA2qoIpOppZX0Bi5zNSPziP_68VZfQ.wHoPek3OPnH1ADzbZ8tC0dBKf7fiQjR9vNPWxOE3V4E&dib_tag=se&keywords=christmas+gift+baskets&qid=1792658673&sr=8-43"
+            },
+            {
+              "position": 3,
+              "asin": "B0D765GS9L",
+              "title": "Pink",
+              "link": "https://www.amazon.com/Basket-Handles-Storage-Nursery-Bedroom/dp/B0D765GS9L/ref=cs_sr_dp_loc_3?dib=eyJ2IjoiMSJ9.0UJO_seQAxLPlvFBmKu_7gQgJ_rP-xvy4exz1p2bLRiZQ-BoEIImB0k-wEq18iLDNM17TrIgSrq5gW9sMmxsjEN9oj25ZL-f47syIXWz_umEr7ioEeYunhXQCC3-OeW8XFyiNNuB4vTE5P5Oi4bD2xucIcjaSBZ0QkeEhwiUtNvUqIzG8uCCGO0jhVTAe-6FrHyRvIN--sa5dRWiyP-kCbgLV_N1P0FOIHuaNsHwGZkeWn4rrGZTNn11yMOIMhqoL1UPr8Nz_jTCGBA2qoIpOppZX0Bi5zNSPziP_68VZfQ.wHoPek3OPnH1ADzbZ8tC0dBKf7fiQjR9vNPWxOE3V4E&dib_tag=se&keywords=christmas+gift+baskets&qid=1792658673&sr=8-43"
+            },
+            {
+              "position": 4,
+              "asin": "B0D766FNX2",
+              "title": "Yellow",
+              "link": "https://www.amazon.com/Basket-Handles-Storage-Nursery-Bedroom/dp/B0D766FNX2/ref=cs_sr_dp_loc_4?dib=eyJ2IjoiMSJ9.0UJO_seQAxLPlvFBmKu_7gQgJ_rP-xvy4exz1p2bLRiZQ-BoEIImB0k-wEq18iLDNM17TrIgSrq5gW9sMmxsjEN9oj25ZL-f47syIXWz_umEr7ioEeYunhXQCC3-OeW8XFyiNNuB4vTE5P5Oi4bD2xucIcjaSBZ0QkeEhwiUtNvUqIzG8uCCGO0jhVTAe-6FrHyRvIN--sa5dRWiyP-kCbgLV_N1P0FOIHuaNsHwGZkeWn4rrGZTNn11yMOIMhqoL1UPr8Nz_jTCGBA2qoIpOppZX0Bi5zNSPziP_68VZfQ.wHoPek3OPnH1ADzbZ8tC0dBKf7fiQjR9vNPWxOE3V4E&dib_tag=se&keywords=christmas+gift+baskets&qid=1792658673&sr=8-43"
+            },
+            {
+              "position": 5,
+              "asin": "B0D766ZHS2",
+              "title": "gray",
+              "link": "https://www.amazon.com/Basket-Handles-Storage-Nursery-Bedroom/dp/B0D766ZHS2/ref=cs_sr_dp_loc_5?dib=eyJ2IjoiMSJ9.0UJO_seQAxLPlvFBmKu_7gQgJ_rP-xvy4exz1p2bLRiZQ-BoEIImB0k-wEq18iLDNM17TrIgSrq5gW9sMmxsjEN9oj25ZL-f47syIXWz_umEr7ioEeYunhXQCC3-OeW8XFyiNNuB4vTE5P5Oi4bD2xucIcjaSBZ0QkeEhwiUtNvUqIzG8uCCGO0jhVTAe-6FrHyRvIN--sa5dRWiyP-kCbgLV_N1P0FOIHuaNsHwGZkeWn4rrGZTNn11yMOIMhqoL1UPr8Nz_jTCGBA2qoIpOppZX0Bi5zNSPziP_68VZfQ.wHoPek3OPnH1ADzbZ8tC0dBKf7fiQjR9vNPWxOE3V4E&dib_tag=se&keywords=christmas+gift+baskets&qid=1792658673&sr=8-43"
+            }
+          ]
+        },
+        "title": "2 Pack Small Woven Basket with Gift Bags and Ribbons, Empty Decorative Gift Chest Box, Cute Baby Gift Basket for Nursery, Cotton Rope Room Shelf Storage Basket with Handles, All 12\"x 8\"x 5\",White",
+        "link": "https://www.amazon.com/Basket-Handles-Storage-Nursery-Bedroom/dp/B0C7QKS7KJ/ref=sr_1_43?dib=eyJ2IjoiMSJ9.0UJO_seQAxLPlvFBmKu_7gQgJ_rP-xvy4exz1p2bLRiZQ-BoEIImB0k-wEq18iLDNM17TrIgSrq5gW9sMmxsjEN9oj25ZL-f47syIXWz_umEr7ioEeYunhXQCC3-OeW8XFyiNNuB4vTE5P5Oi4bD2xucIcjaSBZ0QkeEhwiUtNvUqIzG8uCCGO0jhVTAe-6FrHyRvIN--sa5dRWiyP-kCbgLV_N1P0FOIHuaNsHwGZkeWn4rrGZTNn11yMOIMhqoL1UPr8Nz_jTCGBA2qoIpOppZX0Bi5zNSPziP_68VZfQ.wHoPek3OPnH1ADzbZ8tC0dBKf7fiQjR9vNPWxOE3V4E&dib_tag=se&keywords=christmas+gift+baskets&qid=1792658673&sr=8-43",
+        "link_clean": "https://www.amazon.com/Basket-Handles-Storage-Nursery-Bedroom/dp/B0C7QKS7KJ/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0C7QKS7KJ&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "thumbnail": "https://m.media-amazon.com/images/I/81Vg9EqSq+L._AC_UL320_.jpg",
+        "rating": 4.6,
+        "reviews": 1500,
+        "bought_last_month": "2K+ bought in past month",
+        "price": "$11.99",
+        "extracted_price": 11.99,
+        "delivery": [
+          "FREE delivery Tue, Oct 27 on $35 of items shipped by Amazon"
+        ],
+        "purchase_options": [
+          {
+            "primary_price": "$11.99",
+            "extracted_primary_price": 11.99
+          }
+        ]
+      },
+      {
+        "position": 44,
+        "asin": "B08LX64SJ4",
+        "title": "Whitman's Sampler Mother's Day Assorted Chocolates, 10 Ounce (22 Pieces)",
+        "link": "https://www.amazon.com/Whitmans-Sampler-Assorted-Chocolates-Pieces/dp/B08LX64SJ4/ref=sr_1_44?dib=eyJ2IjoiMSJ9.0UJO_seQAxLPlvFBmKu_7gQgJ_rP-xvy4exz1p2bLRiZQ-BoEIImB0k-wEq18iLDNM17TrIgSrq5gW9sMmxsjEN9oj25ZL-f47syIXWz_umEr7ioEeYunhXQCC3-OeW8XFyiNNuB4vTE5P5Oi4bD2xucIcjaSBZ0QkeEhwiUtNvUqIzG8uCCGO0jhVTAe-6FrHyRvIN--sa5dRWiyP-kCbgLV_N1P0FOIHuaNsHwGZkeWn4rrGZTNn11yMOIMhqoL1UPr8Nz_jTCGBA2qoIpOppZX0Bi5zNSPziP_68VZfQ.wHoPek3OPnH1ADzbZ8tC0dBKf7fiQjR9vNPWxOE3V4E&dib_tag=se&keywords=christmas+gift+baskets&qid=1792658673&sr=8-44",
+        "link_clean": "https://www.amazon.com/Whitmans-Sampler-Assorted-Chocolates-Pieces/dp/B08LX64SJ4/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B08LX64SJ4&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "thumbnail": "https://m.media-amazon.com/images/I/81HS9K0a0iL._AC_UL320_.jpg",
+        "rating": 4.3,
+        "reviews": 1800,
+        "bought_last_month": "1K+ bought in past month",
+        "price": "$11.99",
+        "extracted_price": 11.99,
+        "offers": [
+          "90 days free of Amazon Music with purchase",
+          "SNAP EBT eligible"
+        ],
+        "snap_ebt_eligible": true,
+        "delivery": [
+          "FREE delivery Tue, Oct 27 on $35 of items shipped by Amazon",
+          "Arrives before Halloween"
+        ],
+        "purchase_options": [
+          {
+            "primary_price": "$11.99",
+            "extracted_primary_price": 11.99,
+            "secondary_price": "90 days free of Amazon Music with purchaseSNAP EBT eligible",
+            "extracted_secondary_price": 90
+          }
+        ]
+      },
+      {
+        "position": 45,
+        "asin": "B07GBFT6Z3",
+        "tags": [
+          "Soothing, Rejuvenating",
+          "9 Piece Set"
+        ],
+        "title": "Gifts For Women Gift Basket for Women– 9 Piece Set of Vanilla Coconut Home Spa Set, Luxurious Gifts for Her, Bath and Body Sets Includes Fragrant Lotions, Large Bath Bombs, Coconut Oil",
+        "link": "https://www.amazon.com/Vanilla-Coconut-Fragrant-Lotions-Luxurious/dp/B07GBFT6Z3/ref=sr_1_45?dib=eyJ2IjoiMSJ9.0UJO_seQAxLPlvFBmKu_7gQgJ_rP-xvy4exz1p2bLRiZQ-BoEIImB0k-wEq18iLDNM17TrIgSrq5gW9sMmxsjEN9oj25ZL-f47syIXWz_umEr7ioEeYunhXQCC3-OeW8XFyiNNuB4vTE5P5Oi4bD2xucIcjaSBZ0QkeEhwiUtNvUqIzG8uCCGO0jhVTAe-6FrHyRvIN--sa5dRWiyP-kCbgLV_N1P0FOIHuaNsHwGZkeWn4rrGZTNn11yMOIMhqoL1UPr8Nz_jTCGBA2qoIpOppZX0Bi5zNSPziP_68VZfQ.wHoPek3OPnH1ADzbZ8tC0dBKf7fiQjR9vNPWxOE3V4E&dib_tag=se&keywords=christmas+gift+baskets&qid=1792658673&sr=8-45",
+        "link_clean": "https://www.amazon.com/Vanilla-Coconut-Fragrant-Lotions-Luxurious/dp/B07GBFT6Z3/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B07GBFT6Z3&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "thumbnail": "https://m.media-amazon.com/images/I/81bfbN1USPL._AC_UL320_.jpg",
+        "rating": 4.6,
+        "reviews": 11700,
+        "bought_last_month": "1K+ bought in past month",
+        "price": "$37.99",
+        "extracted_price": 37.99,
+        "delivery": [
+          "FREE delivery Tue, Oct 27"
+        ],
+        "purchase_options": [
+          {
+            "primary_price": "$37.99",
+            "extracted_primary_price": 37.99
+          }
+        ]
+      },
+      {
+        "position": 46,
+        "asin": "B0CYQ1VSZW",
+        "title": "LUOLAO Ghost Straw Cover Cap for Stanley Cup 30 40 oz, Halloween Decor Gift",
+        "link": "https://www.amazon.com/LUOLAO-Compatible-Including-Accessories-Decorations/dp/B0CYQ1VSZW/ref=sr_1_46?dib=eyJ2IjoiMSJ9.0UJO_seQAxLPlvFBmKu_7gQgJ_rP-xvy4exz1p2bLRiZQ-BoEIImB0k-wEq18iLDNM17TrIgSrq5gW9sMmxsjEN9oj25ZL-f47syIXWz_umEr7ioEeYunhXQCC3-OeW8XFyiNNuB4vTE5P5Oi4bD2xucIcjaSBZ0QkeEhwiUtNvUqIzG8uCCGO0jhVTAe-6FrHyRvIN--sa5dRWiyP-kCbgLV_N1P0FOIHuaNsHwGZkeWn4rrGZTNn11yMOIMhqoL1UPr8Nz_jTCGBA2qoIpOppZX0Bi5zNSPziP_68VZfQ.wHoPek3OPnH1ADzbZ8tC0dBKf7fiQjR9vNPWxOE3V4E&dib_tag=se&keywords=christmas+gift+baskets&qid=1792658673&sr=8-46",
+        "link_clean": "https://www.amazon.com/LUOLAO-Compatible-Including-Accessories-Decorations/dp/B0CYQ1VSZW/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0CYQ1VSZW&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "thumbnail": "https://m.media-amazon.com/images/I/61yxA64tw+L._AC_UL320_.jpg",
+        "rating": 4.8,
+        "reviews": 755,
+        "bought_last_month": "2K+ bought in past month",
+        "price": "$5.99",
+        "extracted_price": 5.99,
+        "delivery": [
+          "FREE delivery Tue, Oct 27 on $35 of items shipped by Amazon",
+          "Arrives before Halloween"
+        ],
+        "purchase_options": [
+          {
+            "primary_price": "$5.99",
+            "extracted_primary_price": 5.99
+          }
+        ]
+      },
+      {
+        "position": 47,
+        "asin": "B0CGBYMPFY",
+        "tags": [
+          "2.2 Ounce (Pack of 10)"
+        ],
+        "badges": [
+          "Limited time deal"
+        ],
+        "title": "Halloween Gifts Popcorn Spooky Movie Night Gift Basket Gourmet Kernels and Seasoning Variety Pack, 3 Color Kernels and 5 Flavorings, Non-GMO, Kosher, Gluten Free Scary Popcorn Gifts, 10 Pack",
+        "link": "https://www.amazon.com/Halloween-Popcorn-Gourmet-Seasoning-Flavorings/dp/B0CGBYMPFY/ref=sr_1_47?dib=eyJ2IjoiMSJ9.0UJO_seQAxLPlvFBmKu_7gQgJ_rP-xvy4exz1p2bLRiZQ-BoEIImB0k-wEq18iLDNM17TrIgSrq5gW9sMmxsjEN9oj25ZL-f47syIXWz_umEr7ioEeYunhXQCC3-OeW8XFyiNNuB4vTE5P5Oi4bD2xucIcjaSBZ0QkeEhwiUtNvUqIzG8uCCGO0jhVTAe-6FrHyRvIN--sa5dRWiyP-kCbgLV_N1P0FOIHuaNsHwGZkeWn4rrGZTNn11yMOIMhqoL1UPr8Nz_jTCGBA2qoIpOppZX0Bi5zNSPziP_68VZfQ.wHoPek3OPnH1ADzbZ8tC0dBKf7fiQjR9vNPWxOE3V4E&dib_tag=se&keywords=christmas+gift+baskets&qid=1792658673&sr=8-47",
+        "link_clean": "https://www.amazon.com/Halloween-Popcorn-Gourmet-Seasoning-Flavorings/dp/B0CGBYMPFY/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0CGBYMPFY&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "thumbnail": "https://m.media-amazon.com/images/I/817sVO1sE9L._AC_UL320_.jpg",
+        "rating": 4.5,
+        "reviews": 1500,
+        "bought_last_month": "1K+ bought in past month",
+        "price": "$21.34",
+        "extracted_price": 21.34,
+        "old_price": "$24.95",
+        "extracted_old_price": 24.95,
+        "delivery": [
+          "FREE delivery Tue, Oct 27 on $35 of items shipped by Amazon",
+          "Arrives before Halloween"
+        ],
+        "small_business": true,
+        "purchase_options": [
+          {
+            "primary_price": "$21.34",
+            "extracted_primary_price": 21.34,
+            "old_primary_price": "$24.95",
+            "extracted_old_primary_price": 24.95
+          }
+        ]
+      },
+      {
+        "position": 48,
+        "asin": "B081V16D88",
+        "title": "Wowfit 16x24 Cellophane Bags for Gift Baskets, Clear, 10 Bags",
+        "link": "https://www.amazon.com/Wowfit-Cellophane-Perfect-Presents-Bottles/dp/B081V16D88/ref=sr_1_48?dib=eyJ2IjoiMSJ9.0UJO_seQAxLPlvFBmKu_7gQgJ_rP-xvy4exz1p2bLRiZQ-BoEIImB0k-wEq18iLDNM17TrIgSrq5gW9sMmxsjEN9oj25ZL-f47syIXWz_umEr7ioEeYunhXQCC3-OeW8XFyiNNuB4vTE5P5Oi4bD2xucIcjaSBZ0QkeEhwiUtNvUqIzG8uCCGO0jhVTAe-6FrHyRvIN--sa5dRWiyP-kCbgLV_N1P0FOIHuaNsHwGZkeWn4rrGZTNn11yMOIMhqoL1UPr8Nz_jTCGBA2qoIpOppZX0Bi5zNSPziP_68VZfQ.wHoPek3OPnH1ADzbZ8tC0dBKf7fiQjR9vNPWxOE3V4E&dib_tag=se&keywords=christmas+gift+baskets&qid=1792658673&sr=8-48",
+        "link_clean": "https://www.amazon.com/Wowfit-Cellophane-Perfect-Presents-Bottles/dp/B081V16D88/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B081V16D88&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "thumbnail": "https://m.media-amazon.com/images/I/71lJneFv2iL._AC_UL320_.jpg",
+        "rating": 4.6,
+        "reviews": 14500,
+        "bought_last_month": "2K+ bought in past month",
+        "price": "$6.79",
+        "extracted_price": 6.79,
+        "delivery": [
+          "FREE delivery Tue, Oct 27 on $35 of items shipped by Amazon"
+        ],
+        "climate_pledge_friendly": true,
+        "sustainability_features": [
+          {
+            "position": 1,
+            "name": "Carbon impact",
+            "snippet": "Carbon emissions from the lifecycle of this product were measured, reduced and/or offset.",
+            "thumbnail": "https://m.media-amazon.com/images/I/314xGMCjZxL._SS200_.png",
+            "certified_by": "ClimatePartner Verified",
+            "certified_info": "ClimatePartner Verified certifies products and services from companies that have calculated their carbon footprint, set reduction targets, implemented reduction measures, and financed certified climate projects. ClimatePartner is an independent certification partner that enables companies to take measurable climate action with full transparency via an individual Climate ID page."
+          }
+        ],
+        "purchase_options": [
+          {
+            "primary_price": "$6.79",
+            "extracted_primary_price": 6.79
+          }
+        ]
+      },
+      {
+        "position": 49,
+        "asin": "B0CJGX18QL",
+        "sponsored": true,
+        "tags": [
+          "Nuts"
+        ],
+        "title": "Christmas Nuts Gift Basket for Holiday Season, Premium Mixed Nut Assortment Gift Gourmet Snack Food Present Box, Christmas Gift Basket for Family (4 Sectional)",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo1MTAxMzI2NjEwODExODQ6MTc5MjY1ODY3MzpzcF9idGY6MzAwMTAyMTMyMDQxODAyOjowOjo&url=%2FChristmas-Holiday-Premium-Assortment-Gourmet%2Fdp%2FB0CJGX18QL%2Fref%3Dsr_1_49_sspa%3Fdib%3DeyJ2IjoiMSJ9.0UJO_seQAxLPlvFBmKu_7gQgJ_rP-xvy4exz1p2bLRiZQ-BoEIImB0k-wEq18iLDNM17TrIgSrq5gW9sMmxsjEN9oj25ZL-f47syIXWz_umEr7ioEeYunhXQCC3-OeW8XFyiNNuB4vTE5P5Oi4bD2xucIcjaSBZ0QkeEhwiUtNvUqIzG8uCCGO0jhVTAe-6FrHyRvIN--sa5dRWiyP-kCbgLV_N1P0FOIHuaNsHwGZkeWn4rrGZTNn11yMOIMhqoL1UPr8Nz_jTCGBA2qoIpOppZX0Bi5zNSPziP_68VZfQ.wHoPek3OPnH1ADzbZ8tC0dBKf7fiQjR9vNPWxOE3V4E%26dib_tag%3Dse%26keywords%3Dchristmas%2Bgift%2Bbaskets%26qid%3D1792658673%26sr%3D8-49-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9idGY%26psc%3D1",
+        "link_clean": "https://www.amazon.com/dp/B0CJGX18QL/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0CJGX18QL&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "thumbnail": "https://m.media-amazon.com/images/I/71Fo94k+rNL._AC_UL320_.jpg",
+        "rating": 4.4,
+        "reviews": 469,
+        "price": "$16.96",
+        "extracted_price": 16.96,
+        "old_price": "$18.96",
+        "extracted_old_price": 18.96,
+        "delivery": [
+          "FREE delivery Tue, Oct 27 on $35 of items shipped by Amazon",
+          "Or fastest delivery Mon, Oct 26"
+        ],
+        "small_business": true,
+        "purchase_options": [
+          {
+            "primary_price": "$16.96",
+            "extracted_primary_price": 16.96,
+            "old_primary_price": "$18.96",
+            "extracted_old_primary_price": 18.96
+          }
+        ]
+      },
+      {
+        "position": 50,
+        "asin": "B0BH5CJM8B",
+        "sponsored": true,
+        "title": "Nuts gift Basket, a Variety of Freshly Roasted Nuts",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo1MTAxMzI2NjEwODExODQ6MTc5MjY1ODY3MzpzcF9idGY6MzAxMDc5NTEzNjc0ODAyOjowOjo&url=%2FVariety-Freshly-Beautifully-Packaged-Christmas%2Fdp%2FB0BH5CJM8B%2Fref%3Dsr_1_50_sspa%3Fdib%3DeyJ2IjoiMSJ9.0UJO_seQAxLPlvFBmKu_7gQgJ_rP-xvy4exz1p2bLRiZQ-BoEIImB0k-wEq18iLDNM17TrIgSrq5gW9sMmxsjEN9oj25ZL-f47syIXWz_umEr7ioEeYunhXQCC3-OeW8XFyiNNuB4vTE5P5Oi4bD2xucIcjaSBZ0QkeEhwiUtNvUqIzG8uCCGO0jhVTAe-6FrHyRvIN--sa5dRWiyP-kCbgLV_N1P0FOIHuaNsHwGZkeWn4rrGZTNn11yMOIMhqoL1UPr8Nz_jTCGBA2qoIpOppZX0Bi5zNSPziP_68VZfQ.wHoPek3OPnH1ADzbZ8tC0dBKf7fiQjR9vNPWxOE3V4E%26dib_tag%3Dse%26keywords%3Dchristmas%2Bgift%2Bbaskets%26qid%3D1792658673%26sr%3D8-50-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9idGY%26psc%3D1",
+        "link_clean": "https://www.amazon.com/dp/B0BH5CJM8B/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0BH5CJM8B&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "thumbnail": "https://m.media-amazon.com/images/I/91OrMXYZRKL._AC_UL320_.jpg",
+        "rating": 4.4,
+        "reviews": 2400,
+        "bought_last_month": "500+ bought in past month",
+        "price": "$29.94",
+        "extracted_price": 29.94,
+        "delivery": [
+          "FREE delivery Tue, Oct 27 on $35 of items shipped by Amazon"
+        ],
+        "small_business": true,
+        "purchase_options": [
+          {
+            "primary_price": "$29.94",
+            "extracted_primary_price": 29.94
+          }
+        ]
+      },
+      {
+        "position": 51,
+        "asin": "B0FLXPBM15",
+        "sponsored": true,
+        "title": "Cholemy 48 Pcs/12 Set Christmas Baskets for Gifts Empty 12''x10'', Classic",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo1MTAxMzI2NjEwODExODQ6MTc5MjY1ODY3MzpzcF9idGY6MzAwOTY3OTA5ODc3MjAyOjowOjo&url=%2FCholemy-Christmas-Baskets-Cellophane-Birthdays%2Fdp%2FB0FLXPBM15%2Fref%3Dsr_1_51_sspa%3Fdib%3DeyJ2IjoiMSJ9.0UJO_seQAxLPlvFBmKu_7gQgJ_rP-xvy4exz1p2bLRiZQ-BoEIImB0k-wEq18iLDNM17TrIgSrq5gW9sMmxsjEN9oj25ZL-f47syIXWz_umEr7ioEeYunhXQCC3-OeW8XFyiNNuB4vTE5P5Oi4bD2xucIcjaSBZ0QkeEhwiUtNvUqIzG8uCCGO0jhVTAe-6FrHyRvIN--sa5dRWiyP-kCbgLV_N1P0FOIHuaNsHwGZkeWn4rrGZTNn11yMOIMhqoL1UPr8Nz_jTCGBA2qoIpOppZX0Bi5zNSPziP_68VZfQ.wHoPek3OPnH1ADzbZ8tC0dBKf7fiQjR9vNPWxOE3V4E%26dib_tag%3Dse%26keywords%3Dchristmas%2Bgift%2Bbaskets%26qid%3D1792658673%26sr%3D8-51-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9idGY%26psc%3D1",
+        "link_clean": "https://www.amazon.com/dp/B0FLXPBM15/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0FLXPBM15&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "thumbnail": "https://m.media-amazon.com/images/I/81Kuw7KQKWL._AC_UL320_.jpg",
+        "rating": 5.0,
+        "reviews": 5,
+        "price": "$51.99",
+        "extracted_price": 51.99,
+        "delivery": [
+          "FREE delivery Tue, Oct 27",
+          "Or fastest delivery Mon, Oct 26"
+        ],
+        "purchase_options": [
+          {
+            "primary_price": "$51.99",
+            "extracted_primary_price": 51.99
+          }
+        ]
+      },
+      {
+        "position": 52,
+        "asin": "B0D3DWFT6X",
+        "sponsored": true,
+        "tags": [
+          "Nut Variety"
+        ],
+        "title": "Snack Box Gift Basket for Men, Birthday Gift for Men, Women, Food Care Package, Unique Tins of Assorted Nuts, Snacks in Stunning Case - Treat for Men, Women, Dad, Friends, Family, Fathers Day Gift",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo1MTAxMzI2NjEwODExODQ6MTc5MjY1ODY3MzpzcF9idGY6MzAxMzkxMjYwNzIxMzAyOjowOjo&url=%2FUltimate-Snack-Care-Package-Basket%2Fdp%2FB0D3DWFT6X%2Fref%3Dsr_1_52_sspa%3Fdib%3DeyJ2IjoiMSJ9.0UJO_seQAxLPlvFBmKu_7gQgJ_rP-xvy4exz1p2bLRiZQ-BoEIImB0k-wEq18iLDNM17TrIgSrq5gW9sMmxsjEN9oj25ZL-f47syIXWz_umEr7ioEeYunhXQCC3-OeW8XFyiNNuB4vTE5P5Oi4bD2xucIcjaSBZ0QkeEhwiUtNvUqIzG8uCCGO0jhVTAe-6FrHyRvIN--sa5dRWiyP-kCbgLV_N1P0FOIHuaNsHwGZkeWn4rrGZTNn11yMOIMhqoL1UPr8Nz_jTCGBA2qoIpOppZX0Bi5zNSPziP_68VZfQ.wHoPek3OPnH1ADzbZ8tC0dBKf7fiQjR9vNPWxOE3V4E%26dib_tag%3Dse%26keywords%3Dchristmas%2Bgift%2Bbaskets%26qid%3D1792658673%26sr%3D8-52-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9idGY%26psc%3D1",
+        "link_clean": "https://www.amazon.com/dp/B0D3DWFT6X/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0D3DWFT6X&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "thumbnail": "https://m.media-amazon.com/images/I/91LAAsRpaXL._AC_UL320_.jpg",
+        "rating": 4.5,
+        "reviews": 318,
+        "bought_last_month": "1K+ bought in past month",
+        "price": "$59.99",
+        "extracted_price": 59.99,
+        "delivery": [
+          "FREE delivery Tue, Oct 27"
+        ],
+        "small_business": true,
+        "purchase_options": [
+          {
+            "primary_price": "$59.99",
+            "extracted_primary_price": 59.99
+          }
+        ]
+      }
+    ],
+    "categories": [
+      {
+        "position": 1,
+        "name": "Audible",
+        "link": "https://www.amazon.com/Audible-Books-and-Originals/b/?ie=UTF8&node=18145289011&ref_=nav_cs_audible",
+        "node": "18145289011",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&language=en_US&node=18145289011&shipping_location=US"
+      },
+      {
+        "position": 2,
+        "name": "Amazon Home",
+        "link": "https://www.amazon.com/home-garden-kitchen-furniture-bedding/b/?ie=UTF8&node=1055398&ref_=nav_cs_home",
+        "node": "1055398",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&language=en_US&node=1055398&shipping_location=US"
+      },
+      {
+        "position": 3,
+        "name": "Beauty & Personal Care",
+        "link": "https://www.amazon.com/Beauty-Makeup-Skin-Hair-Products/b/?ie=UTF8&node=3760911&ref_=nav_cs_beauty",
+        "node": "3760911",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&language=en_US&node=3760911&shipping_location=US"
+      },
+      {
+        "position": 4,
+        "name": "Pet Supplies",
+        "link": "https://www.amazon.com/pet-shops-dogs-cats-hamsters-kittens/b/?ie=UTF8&node=2619533011&ref_=nav_cs_pets",
+        "node": "2619533011",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&language=en_US&node=2619533011&shipping_location=US"
+      },
+      {
+        "position": 5,
+        "name": "Automotive",
+        "link": "https://www.amazon.com/automotive-auto-truck-replacements-parts/b/?ie=UTF8&node=15684181&ref_=nav_cs_automotive",
+        "node": "15684181",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&language=en_US&node=15684181&shipping_location=US"
+      },
+      {
+        "position": 6,
+        "name": "Video Games",
+        "link": "https://www.amazon.com/computer-video-games-hardware-accessories/b/?ie=UTF8&node=468642&ref_=nav_cs_video_games",
+        "node": "468642",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&language=en_US&node=468642&shipping_location=US"
+      },
+      {
+        "position": 7,
+        "name": "Fashion",
+        "link": "https://www.amazon.com/amazon-fashion/b/?ie=UTF8&node=7141123011&ref_=nav_cs_fashion",
+        "node": "7141123011",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&language=en_US&node=7141123011&shipping_location=US"
+      },
+      {
+        "position": 8,
+        "name": "Baby",
+        "link": "https://www.amazon.com/baby-car-seats-strollers-bedding/b/?ie=UTF8&node=165796011&ref_=nav_cs_baby",
+        "node": "165796011",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&language=en_US&node=165796011&shipping_location=US"
+      },
+      {
+        "position": 9,
+        "name": "Toys & Games",
+        "link": "https://www.amazon.com/toys/b/?ie=UTF8&node=165793011&ref_=nav_cs_toys",
+        "node": "165793011",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&language=en_US&node=165793011&shipping_location=US"
+      },
+      {
+        "position": 10,
+        "name": "Smart Home",
+        "link": "https://www.amazon.com/Smart-Home/b/?ie=UTF8&node=6563140011&ref_=nav_cs_smart_home",
+        "node": "6563140011",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&language=en_US&node=6563140011&shipping_location=US"
+      },
+      {
+        "position": 11,
+        "name": "Custom Products",
+        "link": "https://www.amazon.com/Amazon-Custom/b/?ie=UTF8&node=11032013011&ref_=nav_cs_custom",
+        "node": "11032013011",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&language=en_US&node=11032013011&shipping_location=US"
+      },
+      {
+        "position": 12,
+        "name": "Kindle Books",
+        "link": "https://www.amazon.com/Kindle-eBooks/b/?ie=UTF8&node=154606011&ref_=nav_cs_kindle_books",
+        "node": "154606011",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&language=en_US&node=154606011&shipping_location=US"
+      },
+      {
+        "position": 13,
+        "name": "Books",
+        "link": "https://www.amazon.com/books-used-books-textbooks/b/?ie=UTF8&node=283155&ref_=nav_cs_books",
+        "node": "283155",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&language=en_US&node=283155&shipping_location=US"
+      },
+      {
+        "position": 14,
+        "name": "Computers",
+        "link": "https://www.amazon.com/computer-pc-hardware-accessories-add-ons/b/?ie=UTF8&node=541966&ref_=nav_cs_pc",
+        "node": "541966",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&language=en_US&node=541966&shipping_location=US"
+      },
+      {
+        "position": 15,
+        "name": "Gift Cards",
+        "link": "https://www.amazon.com/gift-cards/b/?ie=UTF8&node=2238192011&ref_=nav_cs_gc",
+        "node": "2238192011",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&language=en_US&node=2238192011&shipping_location=US"
+      }
+    ],
+    "filters": {
+      "popular_shopping_ideas": [
+        {
+          "position": 1,
+          "name": "Meat & Cheese",
+          "link": "https://www.amazon.com/s?k=meat+and+cheese+gift+baskets&ref=sr_nr_p_rag_integrated_qb_0",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=meat+and+cheese+gift+baskets&language=en_US&s=exact-aware-popularity-rank&shipping_location=US"
+        },
+        {
+          "position": 2,
+          "name": "For Women",
+          "link": "https://www.amazon.com/s?k=christmas+gift+baskets+for+women&ref=sr_nr_p_rag_integrated_qb_1",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=christmas+gift+baskets+for+women&language=en_US&s=exact-aware-popularity-rank&shipping_location=US"
+        },
+        {
+          "position": 3,
+          "name": "Food",
+          "link": "https://www.amazon.com/s?k=gift+baskets+food&ref=sr_nr_p_rag_integrated_qb_2",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=gift+baskets+food&language=en_US&s=exact-aware-popularity-rank&shipping_location=US"
+        },
+        {
+          "position": 4,
+          "name": "Cookies",
+          "link": "https://www.amazon.com/s?k=christmas+cookie+gift+baskets&ref=sr_nr_p_rag_integrated_qb_3",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=christmas+cookie+gift+baskets&language=en_US&s=exact-aware-popularity-rank&shipping_location=US"
+        },
+        {
+          "position": 5,
+          "name": "For Men",
+          "link": "https://www.amazon.com/s?k=christmas+gift+baskets+men&ref=sr_nr_p_rag_integrated_qb_4",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=christmas+gift+baskets+men&language=en_US&s=exact-aware-popularity-rank&shipping_location=US"
+        },
+        {
+          "position": 6,
+          "name": "Chocolate",
+          "link": "https://www.amazon.com/s?k=christmas+chocolate+gift+baskets&ref=sr_nr_p_rag_integrated_qb_5",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=christmas+chocolate+gift+baskets&language=en_US&s=exact-aware-popularity-rank&shipping_location=US"
+        }
+      ],
+      "eligible_for_free_shipping": [
+        {
+          "position": 1,
+          "name": "Free Shipping by Amazon",
+          "description": "Get FREE Shipping on eligible orders shipped by Amazon",
+          "rh": "p_76:1249146011",
+          "link": "https://www.amazon.com/s?k=christmas+gift+baskets&rh=p_76%3A1249146011&s=exact-aware-popularity-rank&dc&language=en_US&qid=1792658673&rnid=1249144011&ref=sr_nr_p_76_1&ds=v1%3AmAPgmoTl4SgN3kY9Zh3bTYnxMpHZwROJaw8cvNBjy1k",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=christmas+gift+baskets&language=en_US&rh=p_76%3A1249146011&s=exact-aware-popularity-rank&shipping_location=US"
+        }
+      ],
+      "delivery_day": [
+        {
+          "position": 1,
+          "name": "Get It by Tomorrow",
+          "rh": "p_90:8308921011",
+          "link": "https://www.amazon.com/s?k=christmas+gift+baskets&rh=p_90%3A8308921011&s=exact-aware-popularity-rank&dc&language=en_US&qid=1792658673&rnid=8308919011&ref=sr_nr_p_90_1&ds=v1%3AbUOyLSi0PBDYq0r2%2BXkso4A21Mo6JoTRGSJ%2Fws8x1qY",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=christmas+gift+baskets&language=en_US&rh=p_90%3A8308921011&s=exact-aware-popularity-rank&shipping_location=US"
+        }
+      ],
+      "customer_reviews": [
+        {
+          "position": 1,
+          "name": "& Up",
+          "rh": "p_72:1248897011",
+          "link": "https://www.amazon.com/s?k=christmas+gift+baskets&rh=p_72%3A1248897011&s=exact-aware-popularity-rank&dc&language=en_US&qid=1792658673&rnid=1248895011&ref=sr_nr_p_72_1&ds=v1%3AUm%2B5Vmgq0WKsClhQVBxOUMYqi0h5%2FjantyHqW4XQLDs",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=christmas+gift+baskets&language=en_US&rh=p_72%3A1248897011&s=exact-aware-popularity-rank&shipping_location=US"
+        }
+      ],
+      "price": [
+        {
+          "position": 1,
+          "name": "All Discounts",
+          "rh": "p_n_deal_type:23566065011",
+          "link": "https://www.amazon.com/s?k=christmas+gift+baskets&rh=p_n_deal_type%3A23566065011&s=exact-aware-popularity-rank&dc&language=en_US&qid=1792658673&rnid=23566063011&ref=sr_nr_p_n_deal_type_1&ds=v1%3AOOKNqrj3%2BQ771LrSqKPdf4ZpVs12%2Bx5GkJFwzj0ZJPY",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=christmas+gift+baskets&language=en_US&rh=p_n_deal_type%3A23566065011&s=exact-aware-popularity-rank&shipping_location=US"
+        },
+        {
+          "position": 2,
+          "name": "Buy More, Save More",
+          "rh": "p_n_deal_type:210906365011",
+          "link": "https://www.amazon.com/s?k=christmas+gift+baskets&rh=p_n_deal_type%3A210906365011&s=exact-aware-popularity-rank&dc&language=en_US&qid=1792658673&rnid=23566063011&ref=sr_nr_p_n_deal_type_2&ds=v1%3ApmhT%2BgHeVUJNvwHr6mXkfq8LrerLfxJc5gD1tvVSIl8",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=christmas+gift+baskets&language=en_US&rh=p_n_deal_type%3A210906365011&s=exact-aware-popularity-rank&shipping_location=US"
+        },
+        {
+          "position": 3,
+          "name": "Coupons",
+          "rh": "p_n_deal_type:210906366011",
+          "link": "https://www.amazon.com/s?k=christmas+gift+baskets&rh=p_n_deal_type%3A210906366011&s=exact-aware-popularity-rank&dc&language=en_US&qid=1792658673&rnid=23566063011&ref=sr_nr_p_n_deal_type_3&ds=v1%3AqRsDfhJqxeIgnytrTNb9AJ%2FMEgw1dWPXNoiG7GO22K4",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=christmas+gift+baskets&language=en_US&rh=p_n_deal_type%3A210906366011&s=exact-aware-popularity-rank&shipping_location=US"
+        },
+        {
+          "position": 4,
+          "name": "Today's Deals",
+          "rh": "p_n_deal_type:23566064011",
+          "link": "https://www.amazon.com/s?k=christmas+gift+baskets&rh=p_n_deal_type%3A23566064011&s=exact-aware-popularity-rank&dc&language=en_US&qid=1792658673&rnid=23566063011&ref=sr_nr_p_n_deal_type_4&ds=v1%3Anrjo4XkqJB68Llg8UHx88Up4ivxgMPfrqISvpewtQ28",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=christmas+gift+baskets&language=en_US&rh=p_n_deal_type%3A23566064011&s=exact-aware-popularity-rank&shipping_location=US"
+        }
+      ],
+      "occasions": [
+        {
+          "position": 1,
+          "name": "Christmas",
+          "rh": "p_n_g-1004179506091:2257361011",
+          "link": "https://www.amazon.com/s?k=christmas+gift+baskets&rh=p_n_g-1004179506091%3A2257361011&s=exact-aware-popularity-rank&dc&language=en_US&qid=1792658673&rnid=2257345011&ref=sr_nr_p_n_g-1004179506091_1&ds=v1%3AP517AaF0tnZ6TxiDGqCE8wfgvinlux4YaXsjaWNkxWY",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=christmas+gift+baskets&language=en_US&rh=p_n_g-1004179506091%3A2257361011&s=exact-aware-popularity-rank&shipping_location=US"
+        }
+      ],
+      "snap_ebt": [
+        {
+          "position": 1,
+          "name": "SNAP EBT Eligible",
+          "rh": "p_n_program_participation:17428820011",
+          "link": "https://www.amazon.com/s?k=christmas+gift+baskets&rh=p_n_program_participation%3A17428820011&s=exact-aware-popularity-rank&dc&language=en_US&qid=1792658673&rnid=17428819011&ref=sr_nr_p_n_program_participation_1&ds=v1%3AgTA4VAsa3%2FFfO5wWLhVvxe%2F%2FQYSJrSFGUekFfjogIyY",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=christmas+gift+baskets&language=en_US&rh=p_n_program_participation%3A17428820011&s=exact-aware-popularity-rank&shipping_location=US"
+        }
+      ],
+      "all_top_brands": [
+        {
+          "position": 1,
+          "name": "Top Brands",
+          "rh": "p_n_g-101014971069111:119653281011",
+          "link": "https://www.amazon.com/s?k=christmas+gift+baskets&rh=p_n_g-101014971069111%3A119653281011&s=exact-aware-popularity-rank&dc&language=en_US&qid=1792658673&rnid=119653280011&ref=sr_nr_p_n_g-101014971069111_1&ds=v1%3A0NBk3WqXzG7wj8lZLtVUuH9Sp4duY0Wd2AsBUXP7r04",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=christmas+gift+baskets&language=en_US&rh=p_n_g-101014971069111%3A119653281011&s=exact-aware-popularity-rank&shipping_location=US"
+        }
+      ],
+      "brands": [
+        {
+          "position": 1,
+          "name": "Broadway Basketeers",
+          "rh": "p_123:75533",
+          "link": "https://www.amazon.com/s?k=christmas+gift+baskets&rh=p_123%3A75533&s=exact-aware-popularity-rank&dc&language=en_US&qid=1792658673&rnid=85457740011&ref=sr_nr_p_123_1&ds=v1%3AKrKxE3bGPsKmkVNo%2FWg6lmFBOPQ0C%2BgGTwbK25Hw2K4",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=christmas+gift+baskets&language=en_US&rh=p_123%3A75533&s=exact-aware-popularity-rank&shipping_location=US"
+        },
+        {
+          "position": 2,
+          "name": "Wine Country Gift Baskets",
+          "rh": "p_123:6617",
+          "link": "https://www.amazon.com/s?k=christmas+gift+baskets&rh=p_123%3A6617&s=exact-aware-popularity-rank&dc&language=en_US&qid=1792658673&rnid=85457740011&ref=sr_nr_p_123_2&ds=v1%3Aqn48JkaBlDyRMwrNlKZjp2e3Ha0sG07xd%2F23SWYBNJk",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=christmas+gift+baskets&language=en_US&rh=p_123%3A6617&s=exact-aware-popularity-rank&shipping_location=US"
+        },
+        {
+          "position": 3,
+          "name": "A Gift Inside",
+          "rh": "p_123:653749",
+          "link": "https://www.amazon.com/s?k=christmas+gift+baskets&rh=p_123%3A653749&s=exact-aware-popularity-rank&dc&language=en_US&qid=1792658673&rnid=85457740011&ref=sr_nr_p_123_3&ds=v1%3ApB%2FGFhhWkxlTAe8N3i4yHH4EaVs%2FAJpQ4xlcTOnLd6s",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=christmas+gift+baskets&language=en_US&rh=p_123%3A653749&s=exact-aware-popularity-rank&shipping_location=US"
+        },
+        {
+          "position": 4,
+          "name": "Barnetts Fine Biscotti",
+          "rh": "p_123:23891",
+          "link": "https://www.amazon.com/s?k=christmas+gift+baskets&rh=p_123%3A23891&s=exact-aware-popularity-rank&dc&language=en_US&qid=1792658673&rnid=85457740011&ref=sr_nr_p_123_4&ds=v1%3AXj21A6N1KkSa3%2FNKyFeu15BRd8YaCdBh%2FF8lLhtNRyo",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=christmas+gift+baskets&language=en_US&rh=p_123%3A23891&s=exact-aware-popularity-rank&shipping_location=US"
+        },
+        {
+          "position": 5,
+          "name": "BONNIE AND POP",
+          "rh": "p_123:418446",
+          "link": "https://www.amazon.com/s?k=christmas+gift+baskets&rh=p_123%3A418446&s=exact-aware-popularity-rank&dc&language=en_US&qid=1792658673&rnid=85457740011&ref=sr_nr_p_123_5&ds=v1%3AkNzJhveoqZQ4Tcg%2F1WiBodICG%2F%2FTXtn6lUgoMPyh43o",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=christmas+gift+baskets&language=en_US&rh=p_123%3A418446&s=exact-aware-popularity-rank&shipping_location=US"
+        },
+        {
+          "position": 6,
+          "name": "Harry & David",
+          "rh": "p_123:314601",
+          "link": "https://www.amazon.com/s?k=christmas+gift+baskets&rh=p_123%3A314601&s=exact-aware-popularity-rank&dc&language=en_US&qid=1792658673&rnid=85457740011&ref=sr_nr_p_123_6&ds=v1%3AvZH54iYdLKAFKn1JW1txPj8buBivLsa9qQJj3VxHIeQ",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=christmas+gift+baskets&language=en_US&rh=p_123%3A314601&s=exact-aware-popularity-rank&shipping_location=US"
+        },
+        {
+          "position": 7,
+          "name": "David's COOKIES",
+          "rh": "p_123:13223",
+          "link": "https://www.amazon.com/s?k=christmas+gift+baskets&rh=p_123%3A13223&s=exact-aware-popularity-rank&dc&language=en_US&qid=1792658673&rnid=85457740011&ref=sr_nr_p_123_7&ds=v1%3Afce691ysnbbu5gwvcdvncVOiMUBK21mPJq6fT35i0lY",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=christmas+gift+baskets&language=en_US&rh=p_123%3A13223&s=exact-aware-popularity-rank&shipping_location=US"
+        },
+        {
+          "position": 8,
+          "name": "CRAVEBOX",
+          "rh": "p_123:440296",
+          "link": "https://www.amazon.com/s?k=christmas+gift+baskets&rh=p_123%3A440296&s=exact-aware-popularity-rank&dc&language=en_US&qid=1792658673&rnid=85457740011&ref=sr_nr_p_123_8&ds=v1%3ApypiaOZUxs7KxJ4OFFE0Ostmdsf7rNb50gbFEZgLErY",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=christmas+gift+baskets&language=en_US&rh=p_123%3A440296&s=exact-aware-popularity-rank&shipping_location=US"
+        },
+        {
+          "position": 9,
+          "name": "TORTUGA",
+          "rh": "p_123:482508",
+          "link": "https://www.amazon.com/s?k=christmas+gift+baskets&rh=p_123%3A482508&s=exact-aware-popularity-rank&dc&language=en_US&qid=1792658673&rnid=85457740011&ref=sr_nr_p_123_9&ds=v1%3AlnFgGFmK931WcHP0svgx1QU%2BP9S5sMZEsolImx9uFCw",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=christmas+gift+baskets&language=en_US&rh=p_123%3A482508&s=exact-aware-popularity-rank&shipping_location=US"
+        },
+        {
+          "position": 10,
+          "name": "Anna and Sarah",
+          "rh": "p_123:169277",
+          "link": "https://www.amazon.com/s?k=christmas+gift+baskets&rh=p_123%3A169277&s=exact-aware-popularity-rank&dc&language=en_US&qid=1792658673&rnid=85457740011&ref=sr_nr_p_123_10&ds=v1%3Ah4m%2FJAa3FNM09cg%2BoNOjGzNHwTwVQeAVeGOuijyrH88",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=christmas+gift+baskets&language=en_US&rh=p_123%3A169277&s=exact-aware-popularity-rank&shipping_location=US"
+        },
+        {
+          "position": 11,
+          "name": "Dulcet Gift Baskets",
+          "rh": "p_123:93774",
+          "link": "https://www.amazon.com/s?k=christmas+gift+baskets&rh=p_123%3A93774&s=exact-aware-popularity-rank&dc&language=en_US&qid=1792658673&rnid=85457740011&ref=sr_nr_p_123_11&ds=v1%3AyngWqVI8E6Z7HKGw01nS37opD4aVPDduZfbs3jx89nc",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=christmas+gift+baskets&language=en_US&rh=p_123%3A93774&s=exact-aware-popularity-rank&shipping_location=US"
+        }
+      ],
+      "gourmet_gift_arrangement": [
+        {
+          "position": 1,
+          "name": "Basket",
+          "rh": "p_n_g-1004179393091:2257372011",
+          "link": "https://www.amazon.com/s?k=christmas+gift+baskets&rh=p_n_g-1004179393091%3A2257372011&s=exact-aware-popularity-rank&dc&language=en_US&qid=1792658673&rnid=2257346011&ref=sr_nr_p_n_g-1004179393091_1&ds=v1%3AclN1lhkaRvdv2NUXA0s2e9DnX67acXHPWvVxSHnxTlU",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=christmas+gift+baskets&language=en_US&rh=p_n_g-1004179393091%3A2257372011&s=exact-aware-popularity-rank&shipping_location=US"
+        },
+        {
+          "position": 2,
+          "name": "Box",
+          "rh": "p_n_g-1004179393091:2257373011",
+          "link": "https://www.amazon.com/s?k=christmas+gift+baskets&rh=p_n_g-1004179393091%3A2257373011&s=exact-aware-popularity-rank&dc&language=en_US&qid=1792658673&rnid=2257346011&ref=sr_nr_p_n_g-1004179393091_2&ds=v1%3A0Kbkk5COTdwScrLUbgZiFDcAi9j%2FShFnIixujuHH%2BDU",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=christmas+gift+baskets&language=en_US&rh=p_n_g-1004179393091%3A2257373011&s=exact-aware-popularity-rank&shipping_location=US"
+        }
+      ],
+      "seller": [
+        {
+          "position": 1,
+          "name": "Amazon.com",
+          "rh": "p_6:ATVPDKIKX0DER",
+          "link": "https://www.amazon.com/s?k=christmas+gift+baskets&rh=p_6%3AATVPDKIKX0DER&s=exact-aware-popularity-rank&dc&language=en_US&qid=1792658673&rnid=698480011&ref=sr_nr_p_6_1&ds=v1%3Ac9yGaC4FavGiisKxynYV1jn8sWzA0WVWN2Zwz0Czav0",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=christmas+gift+baskets&language=en_US&rh=p_6%3AATVPDKIKX0DER&s=exact-aware-popularity-rank&shipping_location=US"
+        },
+        {
+          "position": 2,
+          "name": "GearsOut",
+          "rh": "p_6:A1UC7EPQNR7LH4",
+          "link": "https://www.amazon.com/s?k=christmas+gift+baskets&rh=p_6%3AA1UC7EPQNR7LH4&s=exact-aware-popularity-rank&dc&language=en_US&qid=1792658673&rnid=698480011&ref=sr_nr_p_6_2&ds=v1%3A2Fb9cyo%2BU8M4FOkXx1PcMQd4ZVVyJwOIRztqOgXaMYQ",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=christmas+gift+baskets&language=en_US&rh=p_6%3AA1UC7EPQNR7LH4&s=exact-aware-popularity-rank&shipping_location=US"
+        },
+        {
+          "position": 3,
+          "name": "Ghasitaram Gifts",
+          "rh": "p_6:A65ZRXN33OAIU",
+          "link": "https://www.amazon.com/s?k=christmas+gift+baskets&rh=p_6%3AA65ZRXN33OAIU&s=exact-aware-popularity-rank&dc&language=en_US&qid=1792658673&rnid=698480011&ref=sr_nr_p_6_3&ds=v1%3AbyMKzaQo87WcDtdDSePUcbkgVKM%2Bt8UcMta0EPAYfqI",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=christmas+gift+baskets&language=en_US&rh=p_6%3AA65ZRXN33OAIU&s=exact-aware-popularity-rank&shipping_location=US"
+        },
+        {
+          "position": 4,
+          "name": "Mrs. Cavanaugh's Chocolates & Ice Cream",
+          "rh": "p_6:A80X3GBKG14AQ",
+          "link": "https://www.amazon.com/s?k=christmas+gift+baskets&rh=p_6%3AA80X3GBKG14AQ&s=exact-aware-popularity-rank&dc&language=en_US&qid=1792658673&rnid=698480011&ref=sr_nr_p_6_4&ds=v1%3AS2D7OsCzNeRPpt3UhIMbzGRh0GAvc7Qpd37WEjSXvPU",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=christmas+gift+baskets&language=en_US&rh=p_6%3AA80X3GBKG14AQ&s=exact-aware-popularity-rank&shipping_location=US"
+        },
+        {
+          "position": 5,
+          "name": "Dulcet Gift Baskets",
+          "rh": "p_6:A27AZN3Z7CGNS8",
+          "link": "https://www.amazon.com/s?k=christmas+gift+baskets&rh=p_6%3AA27AZN3Z7CGNS8&s=exact-aware-popularity-rank&dc&language=en_US&qid=1792658673&rnid=698480011&ref=sr_nr_p_6_5&ds=v1%3ArZRlHtZruFWhGBAe%2FHf0gHRVBD0sGGhSyGvM19%2Bv%2FAc",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=christmas+gift+baskets&language=en_US&rh=p_6%3AA27AZN3Z7CGNS8&s=exact-aware-popularity-rank&shipping_location=US"
+        },
+        {
+          "position": 6,
+          "name": "Cobbler Lane",
+          "rh": "p_6:A16LS0P9HKS9SX",
+          "link": "https://www.amazon.com/s?k=christmas+gift+baskets&rh=p_6%3AA16LS0P9HKS9SX&s=exact-aware-popularity-rank&dc&language=en_US&qid=1792658673&rnid=698480011&ref=sr_nr_p_6_6&ds=v1%3Ara5tPYChyIIrKvGpjZAUo9rkLU1N%2BVKnIo5959hZjSQ",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=christmas+gift+baskets&language=en_US&rh=p_6%3AA16LS0P9HKS9SX&s=exact-aware-popularity-rank&shipping_location=US"
+        },
+        {
+          "position": 7,
+          "name": "Scott's Cakes",
+          "rh": "p_6:A1J641JN1QW5G1",
+          "link": "https://www.amazon.com/s?k=christmas+gift+baskets&rh=p_6%3AA1J641JN1QW5G1&s=exact-aware-popularity-rank&dc&language=en_US&qid=1792658673&rnid=698480011&ref=sr_nr_p_6_7&ds=v1%3AO9K0xzQv863PjjPh%2BnwX06AQjtvfIuGhJdY7DqF8QL0",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=christmas+gift+baskets&language=en_US&rh=p_6%3AA1J641JN1QW5G1&s=exact-aware-popularity-rank&shipping_location=US"
+        }
+      ],
+      "subscription_options": [
+        {
+          "position": 1,
+          "name": "Subscribe & Save Eligible",
+          "rh": "p_n_is_sns_available:2617006011",
+          "link": "https://www.amazon.com/s?k=christmas+gift+baskets&rh=p_n_is_sns_available%3A2617006011&s=exact-aware-popularity-rank&dc&language=en_US&qid=1792658673&rnid=2617005011&ref=sr_nr_p_n_is_sns_available_1&ds=v1%3AtzR05MoxVWMz60TOIoRcAzTSWDVBuQpWMmIsX0FElJs",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=christmas+gift+baskets&language=en_US&rh=p_n_is_sns_available%3A2617006011&s=exact-aware-popularity-rank&shipping_location=US"
+        }
+      ],
+      "specialty_food_type": [
+        {
+          "position": 1,
+          "name": "Organic",
+          "rh": "p_n_g-1004179634091:114320011",
+          "link": "https://www.amazon.com/s?k=christmas+gift+baskets&rh=p_n_g-1004179634091%3A114320011&s=exact-aware-popularity-rank&dc&language=en_US&qid=1792658673&rnid=114319011&ref=sr_nr_p_n_g-1004179634091_1&ds=v1%3AlO3w2OFpuZ6VxtFVHxMih070bt94qkRZmAdRgV4Wuo0",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=christmas+gift+baskets&language=en_US&rh=p_n_g-1004179634091%3A114320011&s=exact-aware-popularity-rank&shipping_location=US"
+        },
+        {
+          "position": 2,
+          "name": "Low-Carb",
+          "rh": "p_n_g-1004179634091:114327011",
+          "link": "https://www.amazon.com/s?k=christmas+gift+baskets&rh=p_n_g-1004179634091%3A114327011&s=exact-aware-popularity-rank&dc&language=en_US&qid=1792658673&rnid=114319011&ref=sr_nr_p_n_g-1004179634091_2&ds=v1%3AbKRv7ucG63cNiagvruHJUXnMcme12wQpndhfzFU28Xc",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=christmas+gift+baskets&language=en_US&rh=p_n_g-1004179634091%3A114327011&s=exact-aware-popularity-rank&shipping_location=US"
+        },
+        {
+          "position": 3,
+          "name": "Non-GMO",
+          "rh": "p_n_g-1004179634091:5712560011",
+          "link": "https://www.amazon.com/s?k=christmas+gift+baskets&rh=p_n_g-1004179634091%3A5712560011&s=exact-aware-popularity-rank&dc&language=en_US&qid=1792658673&rnid=114319011&ref=sr_nr_p_n_g-1004179634091_3&ds=v1%3A8I9cI2xuIO0q2pcYstpeIiqfzmQ8zLjJULhNV4jSg4Y",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=christmas+gift+baskets&language=en_US&rh=p_n_g-1004179634091%3A5712560011&s=exact-aware-popularity-rank&shipping_location=US"
+        },
+        {
+          "position": 4,
+          "name": "High-Fructose Corn Syrup-Free",
+          "rh": "p_n_g-1004179634091:5712562011",
+          "link": "https://www.amazon.com/s?k=christmas+gift+baskets&rh=p_n_g-1004179634091%3A5712562011&s=exact-aware-popularity-rank&dc&language=en_US&qid=1792658673&rnid=114319011&ref=sr_nr_p_n_g-1004179634091_4&ds=v1%3AxtACvv%2B8zoSaaknAWTvkBKpf8SF51U3AGVjYv8rSb6c",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=christmas+gift+baskets&language=en_US&rh=p_n_g-1004179634091%3A5712562011&s=exact-aware-popularity-rank&shipping_location=US"
+        }
+      ],
+      "diet_type": [
+        {
+          "position": 1,
+          "name": "Kosher",
+          "rh": "p_n_g-1003250701111:23906594011",
+          "link": "https://www.amazon.com/s?k=christmas+gift+baskets&rh=p_n_g-1003250701111%3A23906594011&s=exact-aware-popularity-rank&dc&language=en_US&qid=1792658673&rnid=23906590011&ref=sr_nr_p_n_g-1003250701111_1&ds=v1%3A%2BhuDbiwf0W%2Blf1iXZXBdiU6BV3HictH0uZ3%2FWE3YfAk",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=christmas+gift+baskets&language=en_US&rh=p_n_g-1003250701111%3A23906594011&s=exact-aware-popularity-rank&shipping_location=US"
+        },
+        {
+          "position": 2,
+          "name": "Gluten Free",
+          "rh": "p_n_g-1003250701111:23906596011",
+          "link": "https://www.amazon.com/s?k=christmas+gift+baskets&rh=p_n_g-1003250701111%3A23906596011&s=exact-aware-popularity-rank&dc&language=en_US&qid=1792658673&rnid=23906590011&ref=sr_nr_p_n_g-1003250701111_2&ds=v1%3AOcMuZYEsNr2vDaB2N%2BDTPZHig3SU22PUlmvt2EIaWB0",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=christmas+gift+baskets&language=en_US&rh=p_n_g-1003250701111%3A23906596011&s=exact-aware-popularity-rank&shipping_location=US"
+        },
+        {
+          "position": 3,
+          "name": "Vegetarian",
+          "rh": "p_n_g-1003250701111:23906601011",
+          "link": "https://www.amazon.com/s?k=christmas+gift+baskets&rh=p_n_g-1003250701111%3A23906601011&s=exact-aware-popularity-rank&dc&language=en_US&qid=1792658673&rnid=23906590011&ref=sr_nr_p_n_g-1003250701111_3&ds=v1%3AJg8Pw8N4tIdZbZa2IQuSTWs%2Bb%2BpjoH6CHL%2FdNyg6pqE",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=christmas+gift+baskets&language=en_US&rh=p_n_g-1003250701111%3A23906601011&s=exact-aware-popularity-rank&shipping_location=US"
+        },
+        {
+          "position": 4,
+          "name": "Vegan",
+          "rh": "p_n_g-1003250701111:23906599011",
+          "link": "https://www.amazon.com/s?k=christmas+gift+baskets&rh=p_n_g-1003250701111%3A23906599011&s=exact-aware-popularity-rank&dc&language=en_US&qid=1792658673&rnid=23906590011&ref=sr_nr_p_n_g-1003250701111_4&ds=v1%3APYPhoIQA8rQumNPJUly7zcrZo0GB2FHFi5uvYH9%2FigE",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=christmas+gift+baskets&language=en_US&rh=p_n_g-1003250701111%3A23906599011&s=exact-aware-popularity-rank&shipping_location=US"
+        },
+        {
+          "position": 5,
+          "name": "Keto",
+          "rh": "p_n_g-1003250701111:23906595011",
+          "link": "https://www.amazon.com/s?k=christmas+gift+baskets&rh=p_n_g-1003250701111%3A23906595011&s=exact-aware-popularity-rank&dc&language=en_US&qid=1792658673&rnid=23906590011&ref=sr_nr_p_n_g-1003250701111_5&ds=v1%3AAWYwGGeXfz%2BU3SqdiGivQqW1N7XbZqZlLhH9LQnnNZg",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=christmas+gift+baskets&language=en_US&rh=p_n_g-1003250701111%3A23906595011&s=exact-aware-popularity-rank&shipping_location=US"
+        },
+        {
+          "position": 6,
+          "name": "Plant Based",
+          "rh": "p_n_g-1003250701111:23906597011",
+          "link": "https://www.amazon.com/s?k=christmas+gift+baskets&rh=p_n_g-1003250701111%3A23906597011&s=exact-aware-popularity-rank&dc&language=en_US&qid=1792658673&rnid=23906590011&ref=sr_nr_p_n_g-1003250701111_6&ds=v1%3AGP54HiGjx48X8O31Ygsny454%2BL5kP%2FycoA5Sfw9NyMc",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=christmas+gift+baskets&language=en_US&rh=p_n_g-1003250701111%3A23906597011&s=exact-aware-popularity-rank&shipping_location=US"
+        }
+      ],
+      "nutrition_facts_per_serving": [
+        {
+          "position": 1,
+          "name": "Fat Free (<0.5g)",
+          "rh": "p_n_g-1001907325111:2288328011",
+          "link": "https://www.amazon.com/s?k=christmas+gift+baskets&rh=p_n_g-1001907325111%3A2288328011&s=exact-aware-popularity-rank&dc&language=en_US&qid=1792658673&rnid=2288325011&ref=sr_nr_p_n_g-1001907325111_1&ds=v1%3Am1Y%2BHUBBBJBfKljJm1bSbYx927%2BBoyJcbdSWLfKa%2Bdc",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=christmas+gift+baskets&language=en_US&rh=p_n_g-1001907325111%3A2288328011&s=exact-aware-popularity-rank&shipping_location=US"
+        },
+        {
+          "position": 2,
+          "name": "Low Fat (<3g)",
+          "rh": "p_n_g-1001907325111:2288329011",
+          "link": "https://www.amazon.com/s?k=christmas+gift+baskets&rh=p_n_g-1001907325111%3A2288329011&s=exact-aware-popularity-rank&dc&language=en_US&qid=1792658673&rnid=2288325011&ref=sr_nr_p_n_g-1001907325111_2&ds=v1%3AtrHdcI3hdqBdy4iSVOb%2BPUh%2Fhi9P4A%2BbC8yo7Uu%2FTHE",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=christmas+gift+baskets&language=en_US&rh=p_n_g-1001907325111%3A2288329011&s=exact-aware-popularity-rank&shipping_location=US"
+        },
+        {
+          "position": 3,
+          "name": "Free of Saturated Fat (<0.5g)",
+          "rh": "p_n_g-1001907325111:10434599011",
+          "link": "https://www.amazon.com/s?k=christmas+gift+baskets&rh=p_n_g-1001907325111%3A10434599011&s=exact-aware-popularity-rank&dc&language=en_US&qid=1792658673&rnid=2288325011&ref=sr_nr_p_n_g-1001907325111_3&ds=v1%3AKYAjpIwRFYAuxsiGqLDltnrXKpz8D8zKH3gn2yePaV8",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=christmas+gift+baskets&language=en_US&rh=p_n_g-1001907325111%3A10434599011&s=exact-aware-popularity-rank&shipping_location=US"
+        },
+        {
+          "position": 4,
+          "name": "Free of Trans Fat (0g)",
+          "rh": "p_n_g-1001907325111:11139484011",
+          "link": "https://www.amazon.com/s?k=christmas+gift+baskets&rh=p_n_g-1001907325111%3A11139484011&s=exact-aware-popularity-rank&dc&language=en_US&qid=1792658673&rnid=2288325011&ref=sr_nr_p_n_g-1001907325111_4&ds=v1%3ATfLdVZ0LihnFb7nCWBAdWuTSfnG7AVAkfRwuf2wiE9s",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=christmas+gift+baskets&language=en_US&rh=p_n_g-1001907325111%3A11139484011&s=exact-aware-popularity-rank&shipping_location=US"
+        },
+        {
+          "position": 5,
+          "name": "Cholesterol Free (<2mg)",
+          "rh": "p_n_g-1001907325111:11139485011",
+          "link": "https://www.amazon.com/s?k=christmas+gift+baskets&rh=p_n_g-1001907325111%3A11139485011&s=exact-aware-popularity-rank&dc&language=en_US&qid=1792658673&rnid=2288325011&ref=sr_nr_p_n_g-1001907325111_5&ds=v1%3AR%2FaNKyJJQ5hRtFtMPQzgGCaHa2P7TpBx9NRX66rNlzw",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=christmas+gift+baskets&language=en_US&rh=p_n_g-1001907325111%3A11139485011&s=exact-aware-popularity-rank&shipping_location=US"
+        },
+        {
+          "position": 6,
+          "name": "Sodium Free (<5mg)",
+          "rh": "p_n_g-1001907325111:2288330011",
+          "link": "https://www.amazon.com/s?k=christmas+gift+baskets&rh=p_n_g-1001907325111%3A2288330011&s=exact-aware-popularity-rank&dc&language=en_US&qid=1792658673&rnid=2288325011&ref=sr_nr_p_n_g-1001907325111_6&ds=v1%3A%2FLXSTEHo%2BWrsKb2dcSa2YXqmPFOWL%2FxJeamMRGTqGqo",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=christmas+gift+baskets&language=en_US&rh=p_n_g-1001907325111%3A2288330011&s=exact-aware-popularity-rank&shipping_location=US"
+        },
+        {
+          "position": 7,
+          "name": "Low Sodium (<140mg)",
+          "rh": "p_n_g-1001907325111:2288331011",
+          "link": "https://www.amazon.com/s?k=christmas+gift+baskets&rh=p_n_g-1001907325111%3A2288331011&s=exact-aware-popularity-rank&dc&language=en_US&qid=1792658673&rnid=2288325011&ref=sr_nr_p_n_g-1001907325111_7&ds=v1%3ACcAr%2Fd1xJjWiFCIXvvGItixwwJu0CgyHChm1gs%2FmKMM",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=christmas+gift+baskets&language=en_US&rh=p_n_g-1001907325111%3A2288331011&s=exact-aware-popularity-rank&shipping_location=US"
+        },
+        {
+          "position": 8,
+          "name": "Carbohydrate Free (<0.5g)",
+          "rh": "p_n_g-1001907325111:11139487011",
+          "link": "https://www.amazon.com/s?k=christmas+gift+baskets&rh=p_n_g-1001907325111%3A11139487011&s=exact-aware-popularity-rank&dc&language=en_US&qid=1792658673&rnid=2288325011&ref=sr_nr_p_n_g-1001907325111_8&ds=v1%3ALiWDu93aQ1peqLpyZQ0fwYvcywjaHZy5GT4UEykB8nw",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=christmas+gift+baskets&language=en_US&rh=p_n_g-1001907325111%3A11139487011&s=exact-aware-popularity-rank&shipping_location=US"
+        },
+        {
+          "position": 9,
+          "name": "Sugar Free (<0.5g)",
+          "rh": "p_n_g-1001907325111:2288334011",
+          "link": "https://www.amazon.com/s?k=christmas+gift+baskets&rh=p_n_g-1001907325111%3A2288334011&s=exact-aware-popularity-rank&dc&language=en_US&qid=1792658673&rnid=2288325011&ref=sr_nr_p_n_g-1001907325111_9&ds=v1%3AvTw09tNTE76syyrDubZaFfPoCsYbQ7w5IElowrEpaa8",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=christmas+gift+baskets&language=en_US&rh=p_n_g-1001907325111%3A2288334011&s=exact-aware-popularity-rank&shipping_location=US"
+        }
+      ],
+      "premium_brands": [
+        {
+          "position": 1,
+          "name": "Premium Brands",
+          "rh": "p_n_g-101015887018111:204376014011",
+          "link": "https://www.amazon.com/s?k=christmas+gift+baskets&rh=p_n_g-101015887018111%3A204376014011&s=exact-aware-popularity-rank&dc&language=en_US&qid=1792658673&rnid=204376013011&ref=sr_nr_p_n_g-101015887018111_1&ds=v1%3Alcoe9PacInY2MoRDPWSFgUMhuR3xQzHHDOzkQeeux5o",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=christmas+gift+baskets&language=en_US&rh=p_n_g-101015887018111%3A204376014011&s=exact-aware-popularity-rank&shipping_location=US"
+        }
+      ],
+      "sustainability_features": [
+        {
+          "position": 1,
+          "name": "Any Feature",
+          "rh": "p_n_cpf_labels:121136630011",
+          "link": "https://www.amazon.com/s?k=christmas+gift+baskets&rh=p_n_cpf_labels%3A121136630011&s=exact-aware-popularity-rank&dc&language=en_US&qid=1792658673&rnid=116845681011&ref=sr_nr_p_n_cpf_labels_1&ds=v1%3AVYHuIs0GisYqtNjKgjfJSUoDE60IgikKiqQu2WFE4ws",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=christmas+gift+baskets&language=en_US&rh=p_n_cpf_labels%3A121136630011&s=exact-aware-popularity-rank&shipping_location=US"
+        },
+        {
+          "position": 2,
+          "name": "Biodiversity",
+          "rh": "p_n_cpf_labels:116845691011",
+          "link": "https://www.amazon.com/s?k=christmas+gift+baskets&rh=p_n_cpf_labels%3A116845691011&s=exact-aware-popularity-rank&dc&language=en_US&qid=1792658673&rnid=116845681011&ref=sr_nr_p_n_cpf_labels_2&ds=v1%3AKRwQAs7XC08r0sNSrDI1WfhfaddWuZ8miU7l8cf3Wzg",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=christmas+gift+baskets&language=en_US&rh=p_n_cpf_labels%3A116845691011&s=exact-aware-popularity-rank&shipping_location=US"
+        },
+        {
+          "position": 3,
+          "name": "Farming Practices",
+          "rh": "p_n_cpf_labels:121191385011",
+          "link": "https://www.amazon.com/s?k=christmas+gift+baskets&rh=p_n_cpf_labels%3A121191385011&s=exact-aware-popularity-rank&dc&language=en_US&qid=1792658673&rnid=116845681011&ref=sr_nr_p_n_cpf_labels_3&ds=v1%3Ao%2BG9tFuiz2KUHAEvaH%2FOVOkU6Is7ltmGIBY59%2BWv7To",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=christmas+gift+baskets&language=en_US&rh=p_n_cpf_labels%3A121191385011&s=exact-aware-popularity-rank&shipping_location=US"
+        },
+        {
+          "position": 4,
+          "name": "Forestry Practices",
+          "rh": "p_n_cpf_labels:116845687011",
+          "link": "https://www.amazon.com/s?k=christmas+gift+baskets&rh=p_n_cpf_labels%3A116845687011&s=exact-aware-popularity-rank&dc&language=en_US&qid=1792658673&rnid=116845681011&ref=sr_nr_p_n_cpf_labels_4&ds=v1%3AQcRWvsJVIjgyh0VNg7Rdds1bPQhd%2FewZDqLPkG3WCTE",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=christmas+gift+baskets&language=en_US&rh=p_n_cpf_labels%3A116845687011&s=exact-aware-popularity-rank&shipping_location=US"
+        },
+        {
+          "position": 5,
+          "name": "Organic Content",
+          "rh": "p_n_cpf_labels:116845684011",
+          "link": "https://www.amazon.com/s?k=christmas+gift+baskets&rh=p_n_cpf_labels%3A116845684011&s=exact-aware-popularity-rank&dc&language=en_US&qid=1792658673&rnid=116845681011&ref=sr_nr_p_n_cpf_labels_5&ds=v1%3A%2FO7Vj2Y6IZXDM%2BCDmZZzMHpouvEXGMO103%2FHZPBO2xA",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=christmas+gift+baskets&language=en_US&rh=p_n_cpf_labels%3A116845684011&s=exact-aware-popularity-rank&shipping_location=US"
+        },
+        {
+          "position": 6,
+          "name": "Worker Wellbeing",
+          "rh": "p_n_cpf_labels:116845686011",
+          "link": "https://www.amazon.com/s?k=christmas+gift+baskets&rh=p_n_cpf_labels%3A116845686011&s=exact-aware-popularity-rank&dc&language=en_US&qid=1792658673&rnid=116845681011&ref=sr_nr_p_n_cpf_labels_6&ds=v1%3AadVkOvW696Hf9WnKUiFmraeRchLOFK4%2FgljByMl%2FSP8",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=christmas+gift+baskets&language=en_US&rh=p_n_cpf_labels%3A116845686011&s=exact-aware-popularity-rank&shipping_location=US"
+        }
+      ],
+      "customizable_products": [
+        {
+          "position": 1,
+          "name": "Customizable",
+          "rh": "p_n_customizable_template_name:16031489011",
+          "link": "https://www.amazon.com/s?k=christmas+gift+baskets&rh=p_n_customizable_template_name%3A16031489011&s=exact-aware-popularity-rank&dc&language=en_US&qid=1792658673&rnid=16031488011&ref=sr_nr_p_n_customizable_template_name_1&ds=v1%3AKgCTlQ0h3HPt3kCpA7i9j8U782dlgurCrJ0d5YChBjU",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=christmas+gift+baskets&language=en_US&rh=p_n_customizable_template_name%3A16031489011&s=exact-aware-popularity-rank&shipping_location=US"
+        }
+      ],
+      "department": [
+        {
+          "position": 1,
+          "name": "Grocery & Gourmet Food",
+          "rh": "n:16310101",
+          "link": "https://www.amazon.com/s?k=christmas+gift+baskets&rh=n%3A16310101&s=exact-aware-popularity-rank&dc&language=en_US&qid=1792658673&rnid=2941120011&ref=sr_nr_n_1&ds=v1%3AJPbOG3gi%2BkEzuwzRrJ0JxuLjLAxh6K3EszhS4GfriCI",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=christmas+gift+baskets&language=en_US&rh=n%3A16310101&s=exact-aware-popularity-rank&shipping_location=US"
+        },
+        {
+          "position": 2,
+          "name": "Snack Food Gifts",
+          "rh": "n:2255582011",
+          "link": "https://www.amazon.com/s?k=christmas+gift+baskets&rh=n%3A16310101%2Cn%3A2255582011&s=exact-aware-popularity-rank&dc&language=en_US&qid=1792658673&rnid=2941120011&ref=sr_nr_n_2&ds=v1%3A3TgvlAfx9lOzuB3QPgCdE6duk9CPK%2BNxR%2BtVNB2AumY",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=christmas+gift+baskets&language=en_US&rh=n%3A16310101%2Cn%3A2255582011&s=exact-aware-popularity-rank&shipping_location=US"
+        },
+        {
+          "position": 3,
+          "name": "Candy & Chocolate Gifts",
+          "rh": "n:2255572011",
+          "link": "https://www.amazon.com/s?k=christmas+gift+baskets&rh=n%3A16310101%2Cn%3A2255572011&s=exact-aware-popularity-rank&dc&language=en_US&qid=1792658673&rnid=2941120011&ref=sr_nr_n_3&ds=v1%3AbBhpO75gmeDepdHX1K8zS5oJb4C50F7A9gy1%2FAlFg5w",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=christmas+gift+baskets&language=en_US&rh=n%3A16310101%2Cn%3A2255572011&s=exact-aware-popularity-rank&shipping_location=US"
+        },
+        {
+          "position": 4,
+          "name": "Fruit & Nut Gifts",
+          "rh": "n:2255577011",
+          "link": "https://www.amazon.com/s?k=christmas+gift+baskets&rh=n%3A16310101%2Cn%3A2255577011&s=exact-aware-popularity-rank&dc&language=en_US&qid=1792658673&rnid=2941120011&ref=sr_nr_n_4&ds=v1%3AjePzgHFc7XPpYuRKTTvywEZvQ4iSGlygXJ5kqjFaS5w",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=christmas+gift+baskets&language=en_US&rh=n%3A16310101%2Cn%3A2255577011&s=exact-aware-popularity-rank&shipping_location=US"
+        },
+        {
+          "position": 5,
+          "name": "Bakery & Dessert Gifts",
+          "rh": "n:2255576011",
+          "link": "https://www.amazon.com/s?k=christmas+gift+baskets&rh=n%3A16310101%2Cn%3A2255576011&s=exact-aware-popularity-rank&dc&language=en_US&qid=1792658673&rnid=2941120011&ref=sr_nr_n_5&ds=v1%3Awi5Tvyp2hhAlyhSLityEYlQzmoaKW05IU93L%2BAAAypU",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=christmas+gift+baskets&language=en_US&rh=n%3A16310101%2Cn%3A2255576011&s=exact-aware-popularity-rank&shipping_location=US"
+        },
+        {
+          "position": 6,
+          "name": "Food Assortments & Variety Gifts",
+          "rh": "n:12011207011",
+          "link": "https://www.amazon.com/s?k=christmas+gift+baskets&rh=n%3A16310101%2Cn%3A12011207011&s=exact-aware-popularity-rank&dc&language=en_US&qid=1792658673&rnid=2941120011&ref=sr_nr_n_6&ds=v1%3AgZv9MthwYlHYup3HEvYkB%2Bjsqhe1I9ig2Mv0YlRFIe0",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=christmas+gift+baskets&language=en_US&rh=n%3A16310101%2Cn%3A12011207011&s=exact-aware-popularity-rank&shipping_location=US"
+        },
+        {
+          "position": 7,
+          "name": "Kitchen & Dining",
+          "rh": "n:284507",
+          "link": "https://www.amazon.com/s?k=christmas+gift+baskets&rh=n%3A284507&s=exact-aware-popularity-rank&dc&language=en_US&qid=1792658673&rnid=2941120011&ref=sr_nr_n_7&ds=v1%3AKkjk2NdY5n37aK36mli%2FVQFkqAF%2FoP219vQBlIgxyO0",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=christmas+gift+baskets&language=en_US&rh=n%3A284507&s=exact-aware-popularity-rank&shipping_location=US"
+        }
+      ]
+    },
+    "serpapi_pagination": {
+      "current": 1,
+      "next": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&k=christmas+gift+baskets&language=en_US&page=2&s=exact-aware-popularity-rank&shipping_location=US"
+    }
+  }
+}

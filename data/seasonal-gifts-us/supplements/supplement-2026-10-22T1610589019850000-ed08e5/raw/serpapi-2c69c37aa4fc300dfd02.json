@@ -1,0 +1,778 @@
+{
+  "provider": "serpapi",
+  "endpoint": "https://serpapi.com/search.json",
+  "parameters": {
+    "engine": "amazon_product",
+    "asin": "B0F5HBF6J4",
+    "amazon_domain": "amazon.com",
+    "language": "en_US",
+    "shipping_location": "US",
+    "device": "desktop",
+    "output": "json"
+  },
+  "fetched_at_utc": "2026-10-22T16:15:34.969567+00:00",
+  "raw_file": "supplements/supplement-2026-10-22T1610589019850000-ed08e5/raw/serpapi-2c69c37aa4fc300dfd02.json",
+  "response": {
+    "search_metadata": {
+      "id": "6ada36a7a9fccee260e502fb",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/JJiH4El1-PYN0mOQ4L-X8_xLY3GVeyfuELRrv_biSBo/6ada36a7a9fccee260e502fb.json",
+      "markdown_endpoint": "https://serpapi.com/searches/JJiH4El1-PYN0mOQ4L-X8_xLY3GVeyfuELRrv_biSBo/6ada36a7a9fccee260e502fb.md",
+      "created_at": "2026-10-22 16:15:35 UTC",
+      "processed_at": "2026-10-22 16:15:35 UTC",
+      "amazon_product_url": "https://www.amazon.com/dp/B0F5HBF6J4/?language=en_US",
+      "raw_html_file": "https://serpapi.com/searches/JJiH4El1-PYN0mOQ4L-X8_xLY3GVeyfuELRrv_biSBo/6ada36a7a9fccee260e502fb.html",
+      "total_time_taken": 9.43
+    },
+    "search_parameters": {
+      "engine": "amazon_product",
+      "asin": "B0F5HBF6J4",
+      "amazon_domain": "amazon.com",
+      "language": "en_US",
+      "device": "desktop",
+      "shipping_location": "US"
+    },
+    "product_results": {
+      "categories": [
+        {
+          "position": 1,
+          "name": "Patio, Lawn & Garden",
+          "link": "https://www.amazon.com/Patio-Lawn-Garden/b/ref=dp_bc_1?ie=UTF8&node=2972638011",
+          "node": "2972638011",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&language=en_US&node=2972638011&shipping_location=US"
+        },
+        {
+          "position": 2,
+          "name": "Outdoor Décor",
+          "link": "https://www.amazon.com/outdoor-d%C3%A9cor/b/ref=dp_bc_2?ie=UTF8&node=553788",
+          "node": "553788",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&language=en_US&node=553788&shipping_location=US"
+        },
+        {
+          "position": 3,
+          "name": "Outdoor Holiday Decorations",
+          "link": "https://www.amazon.com/Outdoor-Holiday-Decorations/b/ref=dp_bc_3?ie=UTF8&node=285033011",
+          "node": "285033011",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&language=en_US&node=285033011&shipping_location=US"
+        },
+        {
+          "position": 4,
+          "name": "Lighted Holiday Displays",
+          "link": "https://www.amazon.com/Lighted-Outdoor-Holiday-Displays/b/ref=dp_bc_4?ie=UTF8&node=16164101011",
+          "node": "16164101011",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&language=en_US&node=16164101011&shipping_location=US"
+        }
+      ],
+      "asin": "B0F5HBF6J4",
+      "title": "2packs Halloween Decorations Outdoor,Halloweens Party Decoration Indoor,Light Up Spooky Ghost with Remote Control String Lights,Halloween-Ghost for Yards Porches Gardens Lawn",
+      "link": "https://www.amazon.com/Halloween-Decorations-Halloween-Decorations-Outdoor-Decoration/dp/B0F5HBF6J4/",
+      "link_clean": "https://www.amazon.com/dp/B0F5HBF6J4/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0F5HBF6J4&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+      "badges": [
+        "Amazon's Choice",
+        "Limited time deal"
+      ],
+      "variants": [
+        {
+          "title": "Size",
+          "items": [
+            {
+              "position": 1,
+              "asin": "B0F5HBF6J4",
+              "name": "2PACK",
+              "selected": true,
+              "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0F5HBF6J4&device=desktop&engine=amazon_product&language=en_US&shipping_location=US"
+            },
+            {
+              "position": 2,
+              "asin": "B0H395GSNV",
+              "name": "3PACK",
+              "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0H395GSNV&device=desktop&engine=amazon_product&language=en_US&shipping_location=US"
+            },
+            {
+              "position": 3,
+              "asin": "B0F9WT514B",
+              "name": "Grim Reaper",
+              "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0F9WT514B&device=desktop&engine=amazon_product&language=en_US&shipping_location=US"
+            }
+          ]
+        }
+      ],
+      "brand": "Visit the VersaCharm Store",
+      "thumbnail": "https://m.media-amazon.com/images/I/71ger+frtHL._AC_SY300_SX300_QL70_FMwebp_.jpg",
+      "thumbnails": [
+        "https://m.media-amazon.com/images/I/71ger+frtHL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61wVyNApVQL._AC_SL1280_.jpg",
+        "https://m.media-amazon.com/images/I/71kA5+rAhOL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/815Joszp6vL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81sbDUsaOKL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61U31rfa-uL._AC_SL1032_.jpg",
+        "https://m.media-amazon.com/images/I/61TchWcOqEL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71Zz6NXc35L._AC_SL1500_.jpg"
+      ],
+      "rating": 4.1,
+      "reviews": 478,
+      "bought_last_month": "8K+ bought in past month",
+      "discount": "-20%",
+      "price": "$25.50",
+      "extracted_price": 25.5,
+      "old_price": "$31.99",
+      "extracted_old_price": 31.99,
+      "delivery": [
+        "FREE delivery October 28 - November 2 on orders shipped by Amazon over $35",
+        "Or fastest delivery October 27 - 29",
+        "Arrives before Halloween"
+      ],
+      "stock": "In Stock"
+    },
+    "purchase_options": {
+      "single_offer": {
+        "price": "$25.50",
+        "extracted_price": 25.5,
+        "delivery": [
+          "FREE delivery October 28 - November 2 on orders shipped by Amazon over $35",
+          "Or fastest delivery October 27 - 29",
+          "Arrives before Halloween"
+        ],
+        "stock": "In Stock",
+        "features": {
+          "ships_from": {
+            "text": "Amazon",
+            "details": {
+              "heading": "Ships from",
+              "content": "Amazon"
+            }
+          },
+          "sold_by": {
+            "text": "VersaCharm",
+            "details": {
+              "heading": "Sold by",
+              "content": "VersaCharm"
+            },
+            "link": {
+              "text": "VersaCharm",
+              "link": "https://www.amazon.com/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1CYXEE0JTUC1M&asin=B0F5HBF6J4&ref_=dp_merchant_link&isAmazonFulfilled=1"
+            }
+          },
+          "returns": {
+            "text": "FREE 30-day refund/replacement",
+            "details": {
+              "heading": "FREE 30-day refund/replacement"
+            },
+            "link": {
+              "text": "See exceptions",
+              "link": "https://www.amazon.com/gp/help/customer/display.html/?nodeId=GKQNFKFK5CF3C54B"
+            }
+          },
+          "gift_options": {
+            "text": "Available at checkout Available at checkout This item is a gift. Change",
+            "details": {
+              "content": "Add gift options at checkout"
+            }
+          }
+        }
+      }
+    },
+    "item_specifications": {
+      "color": "White",
+      "brand": "VersaCharm",
+      "material": "Plastic",
+      "theme": "Halloween",
+      "item_dimensions_l_x_w_x_h": "15.7 x 8.66 x 5.89 inches"
+    },
+    "about_item": [
+      "ULTIMATE OUTDOOR HALLOWEEN DECOR:Transform your yard into a haunted paradise! These 2 light up ghost outdoor decorations create spooky-fun ambiance for porch ghost displays or halloween yard decorations outdoor. Their glowing presence captivates trick-or-treaters as floating ghost silhouettes in the dark.",
+      "SMART REMOTE STRING LIGHTS & TIMER:Control halloween ghosts outdoor effortlessly! Remote features 8 lighting modes + auto timer (6hrs off/18hrs on). They can add a magical touch to spooky ghosts. Perfect for lit ghosts for porch displays without manual intervention.",
+      "CUSTOMIZABLE GHOST PERSONALITIES:Design unique ghost halloween decorations! Interchange several faces & witch hats to create playful porch ghosts. Endless fun for halloween patio decor!Place spooky ghost decorations with string lights in the corners of your room, outdoors in the yard, and on your doorstep to create the perfect Halloween atmosphere.",
+      "EASY ASSEMBLY:Secure ghost decorations outside with U-stakes.or Other Heavy objects on the base of the tripod. Adjustable standing ghost up to 60 in! Assemble the Halloween ghost decorations according to the instructions, it is very strong, no worries about being blown over due to wind, create a spectacular display with ease.",
+      "PERFECT OUTDOOR DECORATION: When the assembled spooky ghosts are placed outdoors, they will be the highlight of the whole party, adding a sense of mystery and horror to your party that will amaze every visiting guest.",
+      "VERSATILE SPOOKY ACCENT:Perfect for yard ghosts halloween, haunted houses or parties! Use as outdoor light up ghost or indoor ghost decoration. The best halloween decorations multi-scene solution!"
+    ],
+    "bought_together": [
+      {
+        "position": 1,
+        "title": "2packs Halloween Decorations Outdoor,Halloweens Party Decoration Indoor,Light Up Spooky Ghost with Remote Control String Lights,Halloween-Ghost for Yards Porches Gardens Lawn",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/71ger+frtHL._AC_UL116_SR116,116_.jpg",
+        "price": "$25.50",
+        "extracted_price": 25.5,
+        "delivery": [
+          "Get it as soon as Wednesday, Oct 28"
+        ],
+        "stock": "In Stock"
+      },
+      {
+        "position": 2,
+        "title": "1000 sqft Spider Webs Halloween Decorations with 30 Fake Spiders | Super Stretch Cobwebs for Halloween Indoor and Outdoor Party Supplies",
+        "link": "https://www.amazon.com/Halloween-Decorations-Spiders-Stretch-Supplies/dp/B07HMRZSWT/ref=pd_bxgy_thbs_d_sccl_1/145-5307829-7213547?pd_rd_w=JPAzk&content-id=amzn1.sym.1fbb380b-ee1d-4eeb-a44a-61f4d3013ea6&pf_rd_p=1fbb380b-ee1d-4eeb-a44a-61f4d3013ea6&pf_rd_r=00BFFS7V5J3YZK2APJQ1&pd_rd_wg=2n6nV&pd_rd_r=a4bbce73-dcff-4083-8328-21adfa0e1717&pd_rd_i=B07HMRZSWT&psc=1",
+        "asin": "B07HMRZSWT",
+        "link_clean": "https://www.amazon.com/Halloween-Decorations-Spiders-Stretch-Supplies/dp/B07HMRZSWT/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B07HMRZSWT&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/81JCNXXndQL._AC_UL116_SR116,116_.jpg",
+        "price": "$14.49",
+        "extracted_price": 14.49,
+        "delivery": [
+          "Get it as soon as Tuesday, Oct 27"
+        ],
+        "stock": "In Stock"
+      },
+      {
+        "position": 3,
+        "title": "Coogam 60PCS Halloween Bats Decoration, 4 Different Sizes Realistic PVC Black 3D Scary Bat Sticker for Home Decor DIY Wall Decal Bathroom Indoor Hallowmas Party Supplies",
+        "link": "https://www.amazon.com/Coogam-Halloween-Decoration-Different-Realistic/dp/B07TRCJJS3/ref=pd_bxgy_thbs_d_sccl_2/145-5307829-7213547?pd_rd_w=JPAzk&content-id=amzn1.sym.1fbb380b-ee1d-4eeb-a44a-61f4d3013ea6&pf_rd_p=1fbb380b-ee1d-4eeb-a44a-61f4d3013ea6&pf_rd_r=00BFFS7V5J3YZK2APJQ1&pd_rd_wg=2n6nV&pd_rd_r=a4bbce73-dcff-4083-8328-21adfa0e1717&pd_rd_i=B07TRCJJS3&psc=1",
+        "asin": "B07TRCJJS3",
+        "link_clean": "https://www.amazon.com/Coogam-Halloween-Decoration-Different-Realistic/dp/B07TRCJJS3/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B07TRCJJS3&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/61QODKFNKOL._AC_UL116_SR116,116_.jpg",
+        "price": "$9.99",
+        "extracted_price": 9.99,
+        "stock": "In Stock"
+      }
+    ],
+    "related_products": [
+      {
+        "position": 1,
+        "asin": "B0H1W18KGL",
+        "title": "5FT Halloween Swinging Ghost Outdoor Decor,Spooky Hanging Ghost Decorations | 5FT Height, LED Lights & Remote Control, Timer Function, Waterproof, Solid Wood, Rope Adjustable, Porch Yard Lawn Tree Decor",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo4ODY1NTQ2NjEwMDY4Mzc6MTc5MjY4NTc0MzpzcF9kZXRhaWxfdGhlbWF0aWM6MzAxNTE5NTMyNTU5MTAyOjo6Og&url=%2Fdp%2FB0H1W18KGL%2Fref%3Dsspa_dk_detail_0%3Fpsc%3D1%26pd_rd_i%3DB0H1W18KGL%26pd_rd_w%3Df48HF%26content-id%3Damzn1.sym.3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_p%3D3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_r%3D00BFFS7V5J3YZK2APJQ1%26pd_rd_wg%3D2n6nV%26pd_rd_r%3Da4bbce73-dcff-4083-8328-21adfa0e1717%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM",
+        "link_clean": "https://www.amazon.com/dp/B0H1W18KGL/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0H1W18KGL&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "badges": [
+          "#1 Best Seller",
+          "Limited time deal"
+        ],
+        "thumbnail": "https://m.media-amazon.com/images/I/71xHwSoqL+L._AC_UF480,480_SR480,480_.jpg",
+        "rating": 4.0,
+        "reviews": 703,
+        "discount": "-25%",
+        "price": "$29.99",
+        "extracted_price": 29.99,
+        "old_price": "null"
+      },
+      {
+        "position": 2,
+        "asin": "B0H8RW1298",
+        "title": "3 Pack Pre-Assembled Hanging Ghosts Halloween Decorations with Warm Glow,Ghost Decor with Remote Timer & Upgraded Double-Layer Sheet, Swinging Ghost for Indoor Outdoor Tree Porch Yard Garden Party",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo4ODY1NTQ2NjEwMDY4Mzc6MTc5MjY4NTc0MzpzcF9kZXRhaWxfdGhlbWF0aWM6MzAxNDQ1MDIxMjA2OTAyOjo6Og&url=%2Fdp%2FB0H8RW1298%2Fref%3Dsspa_dk_detail_1%3Fpsc%3D1%26pd_rd_i%3DB0H8RW1298%26pd_rd_w%3Df48HF%26content-id%3Damzn1.sym.3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_p%3D3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_r%3D00BFFS7V5J3YZK2APJQ1%26pd_rd_wg%3D2n6nV%26pd_rd_r%3Da4bbce73-dcff-4083-8328-21adfa0e1717%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM",
+        "link_clean": "https://www.amazon.com/dp/B0H8RW1298/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0H8RW1298&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "badges": [
+          "Limited time deal"
+        ],
+        "thumbnail": "https://m.media-amazon.com/images/I/71x7msn9PoL._AC_UF480,480_SR480,480_.jpg",
+        "rating": 4.2,
+        "reviews": 74,
+        "discount": "-21%",
+        "price": "$30.99",
+        "extracted_price": 30.99,
+        "old_price": "null"
+      },
+      {
+        "position": 3,
+        "asin": "B0B76W28LG",
+        "title": "(18 Pcs) Hanging Bats Halloween Decoration Outside, Large Flying Plastic Bats Outdo...",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo4ODY1NTQ2NjEwMDY4Mzc6MTc5MjY4NTc0MzpzcF9kZXRhaWxfdGhlbWF0aWM6MzAxNTc5OTg3NjY2MDAyOjo6Og&url=%2Fdp%2FB0B76W28LG%2Fref%3Dsspa_dk_detail_2%3Fpsc%3D1%26pd_rd_i%3DB0B76W28LG%26pd_rd_w%3Df48HF%26content-id%3Damzn1.sym.3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_p%3D3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_r%3D00BFFS7V5J3YZK2APJQ1%26pd_rd_wg%3D2n6nV%26pd_rd_r%3Da4bbce73-dcff-4083-8328-21adfa0e1717%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM",
+        "link_clean": "https://www.amazon.com/dp/B0B76W28LG/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0B76W28LG&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "badges": [
+          "Amazon's Choice",
+          "Limited time deal"
+        ],
+        "thumbnail": "https://m.media-amazon.com/images/I/71xPgEXcoFL._AC_UF480,480_SR480,480_.jpg",
+        "rating": 4.4,
+        "reviews": 499,
+        "discount": "-33%",
+        "price": "$9.99",
+        "extracted_price": 9.99,
+        "price_unit": "$0.56 / count",
+        "extracted_price_unit": 0.56,
+        "old_price": "null"
+      },
+      {
+        "position": 4,
+        "asin": "B0H4P39RP8",
+        "title": "Halloween Hanging Swinging Ghost, 5 FT Light Up Ghost Porch Decor with IP65 Remote ...",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo4ODY1NTQ2NjEwMDY4Mzc6MTc5MjY4NTc0MzpzcF9kZXRhaWxfdGhlbWF0aWM6MzAxNTAxODM0MjQ0NDAyOjo6Og&url=%2Fdp%2FB0H4P39RP8%2Fref%3Dsspa_dk_detail_3%3Fpsc%3D1%26pd_rd_i%3DB0H4P39RP8%26pd_rd_w%3Df48HF%26content-id%3Damzn1.sym.3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_p%3D3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_r%3D00BFFS7V5J3YZK2APJQ1%26pd_rd_wg%3D2n6nV%26pd_rd_r%3Da4bbce73-dcff-4083-8328-21adfa0e1717%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM",
+        "link_clean": "https://www.amazon.com/dp/B0H4P39RP8/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0H4P39RP8&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "badges": [
+          "Ends in"
+        ],
+        "thumbnail": "https://m.media-amazon.com/images/I/71KpXw1N0jL._AC_UF480,480_SR480,480_.jpg",
+        "rating": 4.9,
+        "reviews": 42,
+        "discount": "-15%",
+        "price": "$28.04",
+        "extracted_price": 28.04,
+        "old_price": "null",
+        "save_with_coupon": "Save 9%"
+      },
+      {
+        "position": 5,
+        "asin": "B0FDGHPB3R",
+        "title": "3-Piece Lighted Halloween Spider - Holiday Decorations Outdoor Set of 3 Spider with...",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo4ODY1NTQ2NjEwMDY4Mzc6MTc5MjY4NTc0MzpzcF9kZXRhaWxfdGhlbWF0aWM6MzAxMzU0NTA4Mjg0NDAyOjo6Og&url=%2Fdp%2FB0FDGHPB3R%2Fref%3Dsspa_dk_detail_4%3Fpsc%3D1%26pd_rd_i%3DB0FDGHPB3R%26pd_rd_w%3Df48HF%26content-id%3Damzn1.sym.3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_p%3D3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_r%3D00BFFS7V5J3YZK2APJQ1%26pd_rd_wg%3D2n6nV%26pd_rd_r%3Da4bbce73-dcff-4083-8328-21adfa0e1717%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM",
+        "link_clean": "https://www.amazon.com/dp/B0FDGHPB3R/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0FDGHPB3R&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "badges": [
+          "Limited time deal"
+        ],
+        "thumbnail": "https://m.media-amazon.com/images/I/91n+guMiWTL._AC_UF480,480_SR480,480_.jpg",
+        "rating": 4.4,
+        "reviews": 271,
+        "discount": "-20%",
+        "price": "$39.99",
+        "extracted_price": 39.99,
+        "old_price": "null"
+      },
+      {
+        "position": 6,
+        "asin": "B0H2DJL7YV",
+        "title": "Brightown Halloween Hanging Light up Ghost Decoration, Warm White | Voice Activated for Spooky Scream & Bobbing Motion, Halloween Decoration for Indoor/Outdoor Party, Festival, Porch, Patio",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo4ODY1NTQ2NjEwMDY4Mzc6MTc5MjY4NTc0MzpzcF9kZXRhaWxfdGhlbWF0aWM6MzAxNDg1NjMwNDIxMzAyOjo6Og&url=%2Fdp%2FB0H2DJL7YV%2Fref%3Dsspa_dk_detail_5%3Fpsc%3D1%26pd_rd_i%3DB0H2DJL7YV%26pd_rd_w%3Df48HF%26content-id%3Damzn1.sym.3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_p%3D3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_r%3D00BFFS7V5J3YZK2APJQ1%26pd_rd_wg%3D2n6nV%26pd_rd_r%3Da4bbce73-dcff-4083-8328-21adfa0e1717%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM",
+        "link_clean": "https://www.amazon.com/dp/B0H2DJL7YV/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0H2DJL7YV&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "badges": [
+          "Limited time deal"
+        ],
+        "thumbnail": "https://m.media-amazon.com/images/I/71xupIaHY3L._AC_UF480,480_SR480,480_.jpg",
+        "rating": 4.1,
+        "reviews": 34,
+        "discount": "-36%",
+        "price": "$15.99",
+        "extracted_price": 15.99,
+        "old_price": "null"
+      },
+      {
+        "position": 7,
+        "asin": "B0H5RB2LJG",
+        "title": "Halloween Decorations Outdoor, 2 Packs Skeleton Hands for Halloween Decor | Battery...",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo4ODY1NTQ2NjEwMDY4Mzc6MTc5MjY4NTc0MzpzcF9kZXRhaWxfdGhlbWF0aWM6MzAxNDc2MzI0Mjc5MDAyOjo6Og&url=%2Fdp%2FB0H5RB2LJG%2Fref%3Dsspa_dk_detail_6%3Fpsc%3D1%26pd_rd_i%3DB0H5RB2LJG%26pd_rd_w%3Df48HF%26content-id%3Damzn1.sym.3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_p%3D3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_r%3D00BFFS7V5J3YZK2APJQ1%26pd_rd_wg%3D2n6nV%26pd_rd_r%3Da4bbce73-dcff-4083-8328-21adfa0e1717%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM",
+        "link_clean": "https://www.amazon.com/dp/B0H5RB2LJG/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0H5RB2LJG&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "badges": [
+          "Ends in"
+        ],
+        "thumbnail": "https://m.media-amazon.com/images/I/81j+bds2Y0L._AC_UF480,480_SR480,480_.jpg",
+        "rating": 4.3,
+        "reviews": 49,
+        "discount": "-10%",
+        "price": "$8.99",
+        "extracted_price": 8.99,
+        "old_price": "null"
+      }
+    ],
+    "related_product_sections": [
+      {
+        "title": "Deals on related products",
+        "items": [
+          {
+            "position": 1,
+            "asin": "B0H1W18KGL",
+            "title": "5FT Halloween Swinging Ghost Outdoor Decor,Spooky Hanging Ghost Decorations | 5FT Height, LED Lights & Remote Control, Timer Function, Waterproof, Solid Wood, Rope Adjustable, Porch Yard Lawn Tree Decor",
+            "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo4ODY1NTQ2NjEwMDY4Mzc6MTc5MjY4NTc0MzpzcF9kZXRhaWxfdGhlbWF0aWM6MzAxNTE5NTMyNTU5MTAyOjo6Og&url=%2Fdp%2FB0H1W18KGL%2Fref%3Dsspa_dk_detail_0%3Fpsc%3D1%26pd_rd_i%3DB0H1W18KGL%26pd_rd_w%3Df48HF%26content-id%3Damzn1.sym.3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_p%3D3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_r%3D00BFFS7V5J3YZK2APJQ1%26pd_rd_wg%3D2n6nV%26pd_rd_r%3Da4bbce73-dcff-4083-8328-21adfa0e1717%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM",
+            "link_clean": "https://www.amazon.com/dp/B0H1W18KGL/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0H1W18KGL&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "badges": [
+              "#1 Best Seller",
+              "Limited time deal"
+            ],
+            "thumbnail": "https://m.media-amazon.com/images/I/71xHwSoqL+L._AC_UF480,480_SR480,480_.jpg",
+            "rating": 4.0,
+            "reviews": 703,
+            "discount": "-25%",
+            "price": "$29.99",
+            "extracted_price": 29.99,
+            "old_price": "null"
+          },
+          {
+            "position": 2,
+            "asin": "B0H8RW1298",
+            "title": "3 Pack Pre-Assembled Hanging Ghosts Halloween Decorations with Warm Glow,Ghost Decor with Remote Timer & Upgraded Double-Layer Sheet, Swinging Ghost for Indoor Outdoor Tree Porch Yard Garden Party",
+            "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo4ODY1NTQ2NjEwMDY4Mzc6MTc5MjY4NTc0MzpzcF9kZXRhaWxfdGhlbWF0aWM6MzAxNDQ1MDIxMjA2OTAyOjo6Og&url=%2Fdp%2FB0H8RW1298%2Fref%3Dsspa_dk_detail_1%3Fpsc%3D1%26pd_rd_i%3DB0H8RW1298%26pd_rd_w%3Df48HF%26content-id%3Damzn1.sym.3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_p%3D3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_r%3D00BFFS7V5J3YZK2APJQ1%26pd_rd_wg%3D2n6nV%26pd_rd_r%3Da4bbce73-dcff-4083-8328-21adfa0e1717%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM",
+            "link_clean": "https://www.amazon.com/dp/B0H8RW1298/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0H8RW1298&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "badges": [
+              "Limited time deal"
+            ],
+            "thumbnail": "https://m.media-amazon.com/images/I/71x7msn9PoL._AC_UF480,480_SR480,480_.jpg",
+            "rating": 4.2,
+            "reviews": 74,
+            "discount": "-21%",
+            "price": "$30.99",
+            "extracted_price": 30.99,
+            "old_price": "null"
+          },
+          {
+            "position": 3,
+            "asin": "B0B76W28LG",
+            "title": "(18 Pcs) Hanging Bats Halloween Decoration Outside, Large Flying Plastic Bats Outdo...",
+            "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo4ODY1NTQ2NjEwMDY4Mzc6MTc5MjY4NTc0MzpzcF9kZXRhaWxfdGhlbWF0aWM6MzAxNTc5OTg3NjY2MDAyOjo6Og&url=%2Fdp%2FB0B76W28LG%2Fref%3Dsspa_dk_detail_2%3Fpsc%3D1%26pd_rd_i%3DB0B76W28LG%26pd_rd_w%3Df48HF%26content-id%3Damzn1.sym.3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_p%3D3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_r%3D00BFFS7V5J3YZK2APJQ1%26pd_rd_wg%3D2n6nV%26pd_rd_r%3Da4bbce73-dcff-4083-8328-21adfa0e1717%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM",
+            "link_clean": "https://www.amazon.com/dp/B0B76W28LG/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0B76W28LG&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "badges": [
+              "Amazon's Choice",
+              "Limited time deal"
+            ],
+            "thumbnail": "https://m.media-amazon.com/images/I/71xPgEXcoFL._AC_UF480,480_SR480,480_.jpg",
+            "rating": 4.4,
+            "reviews": 499,
+            "discount": "-33%",
+            "price": "$9.99",
+            "extracted_price": 9.99,
+            "price_unit": "$0.56 / count",
+            "extracted_price_unit": 0.56,
+            "old_price": "null"
+          },
+          {
+            "position": 4,
+            "asin": "B0H4P39RP8",
+            "title": "Halloween Hanging Swinging Ghost, 5 FT Light Up Ghost Porch Decor with IP65 Remote ...",
+            "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo4ODY1NTQ2NjEwMDY4Mzc6MTc5MjY4NTc0MzpzcF9kZXRhaWxfdGhlbWF0aWM6MzAxNTAxODM0MjQ0NDAyOjo6Og&url=%2Fdp%2FB0H4P39RP8%2Fref%3Dsspa_dk_detail_3%3Fpsc%3D1%26pd_rd_i%3DB0H4P39RP8%26pd_rd_w%3Df48HF%26content-id%3Damzn1.sym.3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_p%3D3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_r%3D00BFFS7V5J3YZK2APJQ1%26pd_rd_wg%3D2n6nV%26pd_rd_r%3Da4bbce73-dcff-4083-8328-21adfa0e1717%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM",
+            "link_clean": "https://www.amazon.com/dp/B0H4P39RP8/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0H4P39RP8&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "badges": [
+              "Ends in"
+            ],
+            "thumbnail": "https://m.media-amazon.com/images/I/71KpXw1N0jL._AC_UF480,480_SR480,480_.jpg",
+            "rating": 4.9,
+            "reviews": 42,
+            "discount": "-15%",
+            "price": "$28.04",
+            "extracted_price": 28.04,
+            "old_price": "null",
+            "save_with_coupon": "Save 9%"
+          },
+          {
+            "position": 5,
+            "asin": "B0FDGHPB3R",
+            "title": "3-Piece Lighted Halloween Spider - Holiday Decorations Outdoor Set of 3 Spider with...",
+            "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo4ODY1NTQ2NjEwMDY4Mzc6MTc5MjY4NTc0MzpzcF9kZXRhaWxfdGhlbWF0aWM6MzAxMzU0NTA4Mjg0NDAyOjo6Og&url=%2Fdp%2FB0FDGHPB3R%2Fref%3Dsspa_dk_detail_4%3Fpsc%3D1%26pd_rd_i%3DB0FDGHPB3R%26pd_rd_w%3Df48HF%26content-id%3Damzn1.sym.3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_p%3D3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_r%3D00BFFS7V5J3YZK2APJQ1%26pd_rd_wg%3D2n6nV%26pd_rd_r%3Da4bbce73-dcff-4083-8328-21adfa0e1717%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM",
+            "link_clean": "https://www.amazon.com/dp/B0FDGHPB3R/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0FDGHPB3R&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "badges": [
+              "Limited time deal"
+            ],
+            "thumbnail": "https://m.media-amazon.com/images/I/91n+guMiWTL._AC_UF480,480_SR480,480_.jpg",
+            "rating": 4.4,
+            "reviews": 271,
+            "discount": "-20%",
+            "price": "$39.99",
+            "extracted_price": 39.99,
+            "old_price": "null"
+          },
+          {
+            "position": 6,
+            "asin": "B0H2DJL7YV",
+            "title": "Brightown Halloween Hanging Light up Ghost Decoration, Warm White | Voice Activated for Spooky Scream & Bobbing Motion, Halloween Decoration for Indoor/Outdoor Party, Festival, Porch, Patio",
+            "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo4ODY1NTQ2NjEwMDY4Mzc6MTc5MjY4NTc0MzpzcF9kZXRhaWxfdGhlbWF0aWM6MzAxNDg1NjMwNDIxMzAyOjo6Og&url=%2Fdp%2FB0H2DJL7YV%2Fref%3Dsspa_dk_detail_5%3Fpsc%3D1%26pd_rd_i%3DB0H2DJL7YV%26pd_rd_w%3Df48HF%26content-id%3Damzn1.sym.3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_p%3D3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_r%3D00BFFS7V5J3YZK2APJQ1%26pd_rd_wg%3D2n6nV%26pd_rd_r%3Da4bbce73-dcff-4083-8328-21adfa0e1717%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM",
+            "link_clean": "https://www.amazon.com/dp/B0H2DJL7YV/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0H2DJL7YV&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "badges": [
+              "Limited time deal"
+            ],
+            "thumbnail": "https://m.media-amazon.com/images/I/71xupIaHY3L._AC_UF480,480_SR480,480_.jpg",
+            "rating": 4.1,
+            "reviews": 34,
+            "discount": "-36%",
+            "price": "$15.99",
+            "extracted_price": 15.99,
+            "old_price": "null"
+          },
+          {
+            "position": 7,
+            "asin": "B0H5RB2LJG",
+            "title": "Halloween Decorations Outdoor, 2 Packs Skeleton Hands for Halloween Decor | Battery...",
+            "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo4ODY1NTQ2NjEwMDY4Mzc6MTc5MjY4NTc0MzpzcF9kZXRhaWxfdGhlbWF0aWM6MzAxNDc2MzI0Mjc5MDAyOjo6Og&url=%2Fdp%2FB0H5RB2LJG%2Fref%3Dsspa_dk_detail_6%3Fpsc%3D1%26pd_rd_i%3DB0H5RB2LJG%26pd_rd_w%3Df48HF%26content-id%3Damzn1.sym.3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_p%3D3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_r%3D00BFFS7V5J3YZK2APJQ1%26pd_rd_wg%3D2n6nV%26pd_rd_r%3Da4bbce73-dcff-4083-8328-21adfa0e1717%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM",
+            "link_clean": "https://www.amazon.com/dp/B0H5RB2LJG/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0H5RB2LJG&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "badges": [
+              "Ends in"
+            ],
+            "thumbnail": "https://m.media-amazon.com/images/I/81j+bds2Y0L._AC_UF480,480_SR480,480_.jpg",
+            "rating": 4.3,
+            "reviews": 49,
+            "discount": "-10%",
+            "price": "$8.99",
+            "extracted_price": 8.99,
+            "old_price": "null"
+          }
+        ]
+      }
+    ],
+    "videos": [
+      {
+        "position": 1,
+        "title": "Halloween home decor",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/d0837339-e791-4409-b77f-9feb3bfa457f/default.vertical.jobtemplate.hls.m3u8",
+        "thumbnail": "https://m.media-amazon.com/images/I/B1N0FjEZO3L.jpg",
+        "duration": "0:40",
+        "vendor": "Nina Marie Blogs",
+        "vendor_thumbnail": "https://m.media-amazon.com/images/I/81-R2rylgiL._CR0,0,1000,1000_._FMjpg_._SL34_.jpg",
+        "date": "Oct 26, 2025"
+      },
+      {
+        "position": 2,
+        "title": "Sturdy Customizable LED Ghosts",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/107acdcd-8c27-49ff-84be-f70c7e0cfb58/default.vertical.jobtemplate.hls.m3u8",
+        "thumbnail": "https://m.media-amazon.com/images/I/613Vhs0LMCL.jpg",
+        "duration": "0:17",
+        "vendor": "Monica Dawn",
+        "vendor_thumbnail": "https://m.media-amazon.com/images/I/51LA8VpBHEL._CR0,0,412,412_._FMjpg_._SL34_.jpg",
+        "date": "Jul 18, 2025"
+      },
+      {
+        "position": 3,
+        "title": "DETAILED review! We use these by our front porch, looks great!",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/13098e86-bcc1-4138-9c0a-81dd8a219b08/default.jobtemplate.hls.m3u8",
+        "thumbnail": "https://m.media-amazon.com/images/I/A18gOECEbJL.jpg",
+        "duration": "1:48",
+        "vendor": "The Jacksons",
+        "vendor_thumbnail": "https://m.media-amazon.com/images/I/71Jm4fC3hdL._CR0,0,980,980_._FMjpg_._SL34_.jpg",
+        "date": "Jul 6, 2025"
+      },
+      {
+        "position": 4,
+        "title": "Halloween on a budget!!",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/946b36c6-9e33-4ac1-a16b-b3c317ca5624/default.vertical.jobtemplate.hls.m3u8",
+        "thumbnail": "https://m.media-amazon.com/images/I/6177OxZSnLL.jpg",
+        "duration": "0:45",
+        "vendor": "Deals with Jeff",
+        "vendor_thumbnail": "https://m.media-amazon.com/images/I/81OpeZMZ+UL._CR0,0,1218,1218_._FMjpg_._SL34_.jpg",
+        "date": "Sep 7, 2025"
+      },
+      {
+        "position": 5,
+        "title": "Deck out your house for Halloween with these easy cute ghosts!",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/44cfc2c5-9939-4b6f-8ba2-9a36fb7b9712/default.vertical.jobtemplate.hls.m3u8",
+        "thumbnail": "https://m.media-amazon.com/images/I/71i8gYy7XqL.jpg",
+        "duration": "0:54",
+        "vendor": "chelseym",
+        "vendor_thumbnail": "https://m.media-amazon.com/images/I/A1JIHCBxdDL._CR0,0,2316,2316_._FMjpg_._SL34_.jpg",
+        "date": "Sep 30, 2025"
+      },
+      {
+        "position": 6,
+        "title": "Spooky in Minutes! These Light-Up Ghosts Are a Must-Have",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/6ed0e988-7d76-4272-85c0-a9d285ee9855/default.jobtemplate.hls.m3u8",
+        "thumbnail": "https://m.media-amazon.com/images/I/C166vvwWAEL.jpg",
+        "duration": "3:10",
+        "vendor": "Petey's Daily Finds",
+        "vendor_thumbnail": "https://m.media-amazon.com/images/I/71u3hvgBz3L._CR0,0,960,960_._FMjpg_._SL34_.jpg",
+        "date": "Jul 14, 2026"
+      },
+      {
+        "position": 7,
+        "title": "Showing you all the little features!",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/e4c155ba-4f41-4a89-b362-98e9154163c3/default.vertical.jobtemplate.hls.m3u8",
+        "thumbnail": "https://m.media-amazon.com/images/I/81Bgt0iPDgL.jpg",
+        "duration": "0:42",
+        "vendor": "Alexis",
+        "vendor_thumbnail": "https://m.media-amazon.com/images/I/A1ptC+1Tt3L._CR0,0,2224,2224_._FMjpg_._SL34_.jpg",
+        "date": "Sep 16, 2026"
+      },
+      {
+        "position": 8,
+        "title": "These Ghosts Are Great For Indoor Or Outdoor Deocorations",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/1ceb6c03-75f5-4266-96c8-1c62f87cd50f/default.jobtemplate.hls.m3u8",
+        "thumbnail": "https://m.media-amazon.com/images/I/91D5NhtPWRL.png",
+        "duration": "2:12",
+        "vendor": "Jessica Larrew",
+        "vendor_thumbnail": "https://m.media-amazon.com/images/I/91XhavCd4NL._CR0,0,1536,1536_._FMjpg_._SL34_.jpg",
+        "date": "Jul 29, 2026"
+      },
+      {
+        "position": 9,
+        "title": "This is nice but I thought it could have been a little more sturdy",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/ebda2446-5da2-4607-a11d-c4601fbcf1e4/embedded.cc.default.vertical.jobtemplate.hls.m3u8",
+        "thumbnail": "https://m.media-amazon.com/images/I/61xsNfIuHVL.jpg",
+        "duration": "0:07",
+        "vendor": "Kathi R",
+        "vendor_thumbnail": "https://m.media-amazon.com/images/S/amazon-avatars-global/70294fd0-3532-4db4-9504-6ab7d2f2cd56._CR0%2C0%2C500%2C500_SX460_._SL34_.jpeg",
+        "date": "Jul 7, 2025"
+      },
+      {
+        "position": 10,
+        "title": "Ghost Ghosties",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/2b12152d-9686-45fa-9082-a4a0bcabdff9/default.vertical.jobtemplate.hls.m3u8",
+        "thumbnail": "https://m.media-amazon.com/images/I/71HpP7y8IPL.jpg",
+        "duration": "0:14",
+        "vendor": "Lauren",
+        "vendor_thumbnail": "https://m.media-amazon.com/images/S/amazon-avatars-global/3f791efe-00f8-48c7-9563-eda33f0a8334._CR0%2C0%2C500%2C500_SX460_._SL34_.jpeg",
+        "date": "Oct 27, 2025"
+      }
+    ],
+    "product_description": [
+      {
+        "position": 1,
+        "title": "halloween decorations outdoor halloween decor indoor halloween lights halloween decor outdoor",
+        "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/f114ed2d-4dfb-4ad2-8784-c19f8ecc1d85.__CR0,0,1464,600_PT0_SX1464_V1___.jpg"
+      },
+      {
+        "position": 2,
+        "title": "halloween decorations outdoor halloween decor indoor ghost decorations light up ghost",
+        "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/a6341509-b32e-4ab2-9ec5-f56ab9abb69c.__CR0,0,1464,600_PT0_SX1464_V1___.jpg"
+      },
+      {
+        "position": 3,
+        "title": "halloween decor indoor halloween outdoor decorations ghost decor ghost decorations",
+        "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/4b570079-3af6-48d3-8c0b-05ffdd2346eb.__CR0,0,1464,600_PT0_SX1464_V1___.jpg"
+      },
+      {
+        "position": 4,
+        "title": "halloween decorations outdoor halloween decor indoor outdoor halloween decor ghosts outdoor",
+        "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/9e55d7e8-84e9-4902-b452-fe7175ce7694.__CR0,0,1464,600_PT0_SX1464_V1___.jpg"
+      },
+      {
+        "position": 5,
+        "title": "halloween decorations outdoor halloween decor indoor halloween lights outdoor halloween decor",
+        "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/7992e3f4-9404-4ed9-a43f-5ef8bf514032.__CR0,0,1464,600_PT0_SX1464_V1___.jpg"
+      },
+      {
+        "position": 6,
+        "title": "halloween decorations outdoor halloween decor indoor ghost decor decorations",
+        "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/fdd083f2-e387-4933-9b31-87162c3c0037.__CR0,0,1464,600_PT0_SX1464_V1___.jpg"
+      }
+    ],
+    "product_details": {
+      "brand_name": "VersaCharm",
+      "recommended_uses_for_product": "Halloween celebrations and parties",
+      "number_of_packs": "2",
+      "upc": "780159602668",
+      "manufacturer": "HAINADA",
+      "number_of_items": "2",
+      "unit_count": "2 Count",
+      "model_number": "HN0001",
+      "manufacturer_part_number": "HN0001",
+      "best_sellers_rank": [
+        {
+          "text": "#467 in Patio, Lawn & Garden (See Top 100 in Patio, Lawn & Garden)",
+          "extracted_rank": 467,
+          "link": "https://www.amazon.com/gp/bestsellers/lawn-garden/ref=pd_zg_ts_lawn-garden",
+          "link_text": "See Top 100 in Patio, Lawn & Garden"
+        },
+        {
+          "text": "#9 in Outdoor Lighted Holiday Displays",
+          "extracted_rank": 9,
+          "link": "https://www.amazon.com/gp/bestsellers/lawn-garden/16164101011/ref=pd_zg_hrsr_lawn-garden",
+          "link_text": "Outdoor Lighted Holiday Displays"
+        }
+      ],
+      "asin": "B0F5HBF6J4",
+      "customer_reviews": "4.1 out of 5 stars",
+      "rating": 4.1,
+      "reviews": 478,
+      "color": "White",
+      "theme": "Halloween",
+      "light_color": "Yellow",
+      "number_of_light_sources": "40",
+      "voltage": "4.5 volts",
+      "power_source": "Battery Powered",
+      "material_type": "Plastic",
+      "frame_material": "Plastic",
+      "item_dimensions": "15.7 x 8.66 x 5.89 inches"
+    },
+    "sponsored_brands": [
+      {
+        "position": 1,
+        "asin": "B0C452J5HT",
+        "title": "kakoya Flameless Floating Candles with Wand，20 Pcs Magic LED Hanging Taper Candles，Flickering Battery Operated Taper Candle with Wand Remote for Halloween Decorations Best Gift（White）",
+        "link": "https://aax-us-east-retail-direct.amazon.com/x/c/JLgSuYF5UDElrpZl1t80ZCkAAAGhZGWcegEAAAH2AQBvbm9fdHhuX2JpZDEgICBvbm9fdHhuX2ltcDEgICBQy0Lk/clv1c_ek-wxfHXFbbWDfHXL5usCQuvcbyIGJdK0d_guQ_RfIlYQcTyLrNK4evYvmm-BrGeJUZ272sSGwRE3pmUnzBjvlfCBD2kttMQWSJnCtD6v8C282nbe38h22fq7rk0IXQMNv4_Q33fgv8FyTSSXM_3fPhYoNysHhWq9udyTDKr2c5POSnaL-A6vr3s7_AOBeR5hcaWlEdIAyugZX2tts2p22DaGFk6gc6R2iD84aOc6PIjT4B2vZC9vvD6fMRE_-lhKkxJG_P_TsWl5Mk1I4uxukZyBY-OLgkiRjUr6sLwWfbyCLoCeJq5JvY7NVN2r3huAd_ASerBHHR85CgW_Aybck1MZGeEGtOATlLNPG2fm-cbTHuH1-GWhaT6NxBMRbGWK1AOn174fXJ5tDv5amYSkpxeQEUhaY4b6AAWqqC2CssoWeQK1pgcIEqbkZIPvZ3EWTZw5IqQhFrGcy5XuhlNOmkJjZMb8ZUHHDuMKBTRlYDZKGS2cqsRdpo5lwvrb1lsr5RUGx3I_oKxImBW77FAwy8kUkhi0wSNKCYf062F1-AazujIDi3x0niT0ujCsxSNYoEXa3SUxTENorreW3FpNYhuaGxwFnHOy4Mtbqskyp95CyukrsaMXVFvCH0OsxsSwc8lhLtHQ57pEA2sZaK7xgcoq_w65nqiPrGdQvBbd13bKC8ECBPy8wb-WM5xn3277BCM3aNv1zMDgk4cKtZeJHcWcs3hx5h4J9no7oCl-mmhsuCsR9-dKb1SCJvnf7wjdMO5A1-P248Hh6VvGFGiblsWvnUeASHQX2hxnr9pB-AIxIOw-OT_v-VQXHCh84thvPbJbBNPBYlLNhOLpekqgynI0EOcmakntO0IOI9Uzo7Eb-M49UfQr5O6jwW-BWEQTRxtx6evxx1Yaq_wka3k1eeS3svsRfg--3RF2BSitVr3sz4-WTeQQboRbAxCT4Cus7DmaK7OZd9ZzKgvcWwrkW4zOhMob9cJz1274CRCAT9tu71s_LwE2euo6ot3fx6MWsQGTVVnA9Z0slPDAacnDVvKzDVCmFTh2HrSff3tCZMgWkFSyDDIEjS47mD8YWz3qjm9SciFtMKuMfGDP3kodp1dVUb252jxsm_vbiHh9eLCA-7y6tDiJY_5Cs_S7_Q73B9srGk1DwnpBCF4SxP-l9Ybfunpo8tIxvuNIxFesCnhSKy_Ji2PEtLbz02lStCzBYayjxEf4pLl2KPCAsC3pcbzIdH9w_7n-KiwKR9UgBRtF-0GOWpV_pOMzd2S2rsVvW2GHmYYZjh86sHAjBcPfI5M2gmW2Z3u5iqaHpJqWRcsaaZ4_aTNqxFBzLXMwflfmJ7bZV1CXbkI4R0XgeToreO185WmbQPVOs0rDmXfU8YepKmzMcV7HEynU0Az-6t7MFMqrV1azlyw9xbvdsnzakc72yRcdRmzV67fZGI16EXAqVOAv4FtWtFbIzkIQ6BQJrpL2_W47018duuHCVLVHKDx9KCwjt9_g4UV53PEmGN7JqTipUjP5dnW7xQyjlbMk4ppme8epNU4siFfc1Ts-BZI3xvV6I6KpsM_0tPeRtEJebrWc9OqB68i32oIzdeEOt4fPfwPjQ/https://www.amazon.com/dp/B0C452J5HT/?_encoding=UTF8&pd_rd_i=B0C452J5HT&pd_rd_i=B0C452J5HT&ref_=sbx_be_s_sparkle_ssd_cta&pd_rd_w=YmwuS&content-id=amzn1.sym.fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=00BFFS7V5J3YZK2APJQ1&pd_rd_wg=2n6nV&pd_rd_r=a4bbce73-dcff-4083-8328-21adfa0e1717",
+        "link_clean": "https://www.amazon.com/dp/B0C452J5HT/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0C452J5HT&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "thumbnail": "https://m.media-amazon.com/images/I/51qmUAcuG9L._AC_SR100,100_QL65_.jpg",
+        "video": {
+          "link": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/5e184f86-f881-4f10-b64e-33ced99488eb.mp4/productVideoOptimized.mp4",
+          "thumbnail": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/5e184f86-f881-4f10-b64e-33ced99488eb.mp4/r/THUMBNAIL_1080P_FRAME_3_CAPTURE_2.JPG"
+        },
+        "rating": 4.3,
+        "reviews": 1124,
+        "price": "$29.99",
+        "extracted_price": 29.99
+      },
+      {
+        "position": 2,
+        "asin": "B0B74WZ9K8",
+        "title": "Halloween Spider Web Lights 150 LED Lighted Spider Web Giant 16.4 Ft Halloween Decorations Light up with 8 Lighting Modes Waterproof & Timer Outdoor Indoor Yard Haunted House Decor, Purple & Orange",
+        "link": "https://aax-us-east-retail-direct.amazon.com/x/c/JGxSkTXXQjrqs5nf6gvflqwAAAGhZGWcewEAAAH2AQBvbm9fdHhuX2JpZDEgICBvbm9fdHhuX2ltcDEgICCJKjyt/clv1c_ek-wBXf2VcbW3jI2m8VSJvBwCsVHk2g1-ANvXp9Bzd7EeD8ufxifDK8r5nrc6kbvd9g_hMMRzDd9upqMXpAh_too5edJreRxGY200opqzQ4-upNmkI5PUCw54P04vkJSsZ6bFJG-6fZ-nkzUhtoa39H_KF3dlEe4H8DuwXP-7MacVBj6Xsc8q98MmmwQ_nd20T205FZdZz_4NTZctEIb4i_CH1E6QWimuSjyuS3k0zzW-xrFy_sOcOr7fFP7sdu_Wz4XKeIgMag298ADEdvjPZROOHKDIEuyGO4GUJD1R1plqgH3e_DGikga6gg8vclgmT9omoTmqWhyRYLzzKu5zRU-qBRNaZUK-lTrx7VrYKyHSi1nI30tPcSKvkcaSo4cn1TU3_4jpOcktq-ey25aYwrjGUg1LYZvKDwR_Zen9Alxxfiyak3iTiwwm1Ys8I1NInymPvFZxtXLpq4k9lF3eZmWPVRb1AoTbGA2L_tP_DoebLT7jdfsaOkpkpQ_YahhTGg-M_Wy38DMGNwvOTS8lPPxYCAV1PCrJiwpZNiCNDoSFJ_BUrO-_CShSykfrlR2OyoD1BoBLsKQ_uF1G3s92LFm798uxm65fDFR4l0NFtkDDGC2TrLt7Q_zyIeido9VTIQTLW38gnPhejL3xmACDjfh-EJYgLkXlgcvKcRYOau7DouQOewD0zYBkddaBtSwuviRvbO8dxLsM5jAzitMCImJX4lzDXrpfaf69jfNHi8DQ1pGlf-ipXP9PUAzzyQ6XurYGWZu7SjRWGUhu7L-PATzJPsv8C4aD8y-cEZ2extvfZzpswoTDF8eYc6SEzCfBoJFen5hzfTwPBPskLRjfMAMyFz9G9PvKAQ7-9jT-bNbdNRV8migMrt7xAI5upq3ctIFmwPEyz-7vWjsxqUnwYTHL9jFkTypJnC5IAeI_jFx4BNlD4eHTLuR6HHsZUMTvuoiTz34Q5UVh5rX7PYQYvnnZOtjpsvPE8eLIYR2nkog9-K3R77x1DJ3f_2w716705J2lllgE5qsV_fa0T7Cxhht4-CzQVSfj6MUhmk6-yUAibGfEK6-Hjt50zd8Ezu6HGBq8iBG-pizVuQi8nybbQ02o6-zV2G2uT4RxCWmfgGxl1YH7kvxRnrC3sUDsWyffYjlEiKhiGGYiW_F0GmVmya6lMHHUcBL50hOpvRTk1k7eRu5cWv1gXCs_rVQ29UmGf7ut0D2qC9kBbMd-KfTrdeaVJz1pBXkWm0SLYn-Vd4buNbQRUf712zMs7yIwtGECAGCLxyC0PiY7vxVh16k40fhKwSSWFxHZx6o-KLkphcwSuwPxqphScMtPQQKAJx8Un6f7bjemLWq_LlHkAJh_YakCTIN2Vx_mIkbpqRdouUkKp5Kpy36AZEmnj0lbs6h0k9gJQG1ArfdDvjua6gIuxwP6znWuDWHYK4ljVui78d-RfZF13w9EbEH5wiEyj1Cu5STroVjPb5ks8_oPz69DJWEVOtS4Q_4SEY9MQmIWCGBEl9cEZ7eLsdYFMgEUZemrU-gmgO3rzYg4wHKrfaVdCpj1cXeWS8C9-lEuGA70llXgotW1iOQ4iGm89l6kAwNeVhHVZ1yJVZa-MO6tMm2MORprY-slcsT8pyiB7e9DnYMzE2a/https://www.amazon.com/dp/B0B74WZ9K8/?_encoding=UTF8&pd_rd_i=B0B74WZ9K8&pd_rd_i=B0B74WZ9K8&ref_=sbx_be_s_sparkle_ssd_cta&pd_rd_w=YmwuS&content-id=amzn1.sym.fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=00BFFS7V5J3YZK2APJQ1&pd_rd_wg=2n6nV&pd_rd_r=a4bbce73-dcff-4083-8328-21adfa0e1717",
+        "link_clean": "https://www.amazon.com/dp/B0B74WZ9K8/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0B74WZ9K8&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "thumbnail": "https://m.media-amazon.com/images/I/61REhArzENL._AC_SR100,100_QL65_.jpg",
+        "video": {
+          "link": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/693b65bc-12ea-4164-8954-08174776f4db.mp4/productVideoOptimized.mp4",
+          "thumbnail": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/693b65bc-12ea-4164-8954-08174776f4db.mp4/r/THUMBNAIL_360P_FRAME_3_CAPTURE_2.JPG"
+        },
+        "rating": 4.4,
+        "reviews": 683,
+        "price": "$23.97",
+        "extracted_price": 23.97
+      },
+      {
+        "position": 3,
+        "asin": "B0CZKWT5ZS",
+        "title": "PASUTO Pumpkin Halloween Decorations Lights, 8.5FT Pumpkin String Lights with 10 LED Waterproof Orange Jack-O-Lantern Lights for Outdoor Indoor Home, Halloween Party Decorations, Black Wire, Plug in",
+        "link": "https://aax-us-east-retail-direct.amazon.com/x/c/JKyvek18xdf4c95urBVc4rQAAAGhZGWcfAEAAAH2AQBvbm9fdHhuX2JpZDEgICBvbm9fdHhuX2ltcDEgICD7uLAa/clv1c_ek-YBfH3FbbSzjI3kMdSpvBwCsUHE2g13AYlL7G-iKMXnxub1YlFsAU_NgQNZSsoz6WQJlHydPOjDRYZXDrr9NQg5WcdFbba-gdtHrWaEPC6EgjN2LJ5d2394elEBzN-byEK3J5e2gty2m24CfiS6rVLgN2ahx1i_oCAfxeKz4cFFYMlvlkBLsKXQFJ8AYhqe-8tJMtKERH8DehVN4p05m80H9i7gImnstkzIKOU6PIjG1bsbRwSf2iroZWDYlUbdnCURsnGvaOInpFthhGn2qiNi-F-UYPX7G0WUFovxhrJqry4dFVGUfT-K_tQkW-Srb40eQgI69DWsZ4uDOfCLw1Q2DJ1hEEzIH6VxzgO5BqIsPRtIKqGBbDTBtkAwgtJ_d-otrdLsXi9EcUJSZtTc2HV1ojzBdMFcdgBrVZvLAJRBcIu9713HClRKLJWIYyJnEwnkpkqu_qzktG4U8PCSi_Rp3X-iKMgCZVldqn6rifx7gpzqh-QRirEmwCx1pnwILtzXfQXRhD9bPYdYS0EqGEuHAQ2xXrTRZiQDMj9jpn0a5Hv3N3uKIiM3YvLZ02RD9IyrnOiQ5iOTueDaZKnJXxrDJWeJFXV7vujyU4_Q1we-1XNuwY1t9IvzPc40YcJ_ygIophGjS0yFcEVAmI2jQcN-gF4Wa8dvsECngiP47qzXLhTsjjZvRkT49RC1Mlnx0wJLwm-Zgha965wPRqOLYRI05amf85MsJnAJtQ4M2SUJVHFdX9OXk9VRxzKMos-6J-qkd4rUxTYBU1rtdPJ9Suv3hJqcIWg0RUScCNNPPctiuueH2rNfKRGNMC-yXYrxHFvrk5VsRH7oumOj1fYsG3ChhmwKrSb1cDwykEKl4M4jtQwrl0ostgaM-L0789ygRsfv3GQ3A_oUGBLVolTVDVaraHnZQaFkKlPHkyjtEfNijWc-SXIzIb38jpe0M1Ge8lJ6jOm54xfxd4_32BVQJzrxoYxgVuEZlDvUb6e0nS8_mWrlopppbvCbBwK9xw6E0YTNuXbdvnm5IMxbacFuw_7mod4ZyguqTq8nNE3FZEPQt5puzHazly9gxsMZAd39o64_w8HQvANXR3_aWy654gB_9OCxul5Nxwd5Hju9uEW4CP6DF5hSQdwYTSPRo96BRenpkhplpdCRXddZxmtc5UXtsI0MXAP6LM2qpMvb2JNnxKoYfIuGDPrv2pC3vLeT3IJYCy5XDhNh_x6ycwFe-lk-DEbD315mmRrI0yhfHkzlkFvcWKVCHSDLIp-Pv3bZ9P5Wodr2i_1ycCgk-sjz5DAUIDHoOxnRE-ZRtzhCdwIqD7fQ8Rb8lHs3abPNI9Nt-LlP1XjHiMz1pawapxB915JU04NMqW3vPHSvRBVwVrZ8cf4MfSpjCdimVRr8y5BpTrejKNjAJB7UBtmG7dIV020uO3kaxjyyxv7S1fqNfsd3SZD_o0NXMgiDw3SVj-PwB9Nkhxw-W5lV-nm8Kd8DNpvIBzN5dkPvKLy2BPLo64ii0BSj1RHbyXGmU3EPlacRVHNU6oEbj_xAcTLbU0kse1ZpOD_b-_wwPwUKOntcpCSo1qJejhsLBUJeHxAjpi_uFW8K5WgJTxFfdyH8YI/https://www.amazon.com/dp/B0CZKWT5ZS/?_encoding=UTF8&pd_rd_i=B0CZKWT5ZS&pd_rd_i=B0CZKWT5ZS&ref_=sbx_be_s_sparkle_ssd_cta&pd_rd_w=YmwuS&content-id=amzn1.sym.fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=00BFFS7V5J3YZK2APJQ1&pd_rd_wg=2n6nV&pd_rd_r=a4bbce73-dcff-4083-8328-21adfa0e1717",
+        "link_clean": "https://www.amazon.com/dp/B0CZKWT5ZS/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0CZKWT5ZS&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "thumbnail": "https://m.media-amazon.com/images/I/41z8+A967tL._AC_SR100,100_QL65_.jpg",
+        "video": {
+          "link": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/ae39af0c-8928-415e-bbf7-945a72f6eee7.mp4/productVideoOptimized.mp4",
+          "thumbnail": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/ae39af0c-8928-415e-bbf7-945a72f6eee7.mp4/r/THUMBNAIL_360P_FRAME_3_CAPTURE_2.JPG"
+        },
+        "rating": 4.2,
+        "reviews": 204,
+        "price": "$15.99",
+        "extracted_price": 15.99,
+        "old_price": "$17.99",
+        "extracted_old_price": 17.99
+      },
+      {
+        "position": 4,
+        "asin": "B0F37MV2NZ",
+        "title": "2 Pack 5FT Halloween Light up Spider Decorations Outdoor, Giant Black and Dual Color Fake Spider Totally 52 LEDs for Yard Outside Indoor Scary Haunted House Prop Halloween Party Decor",
+        "link": "https://aax-us-east-retail-direct.amazon.com/x/c/JE-X4hci_yD3xZnqzwqW3MsAAAGhZGWcfQEAAAH2AQBvbm9fdHhuX2JpZDEgICBvbm9fdHhuX2ltcDEgICB-_ef3/clv1c_ek-wxfX3VcbWTfWXjyWX7umWmlAkb3hzxvawnE8FJdlIeccnTiXQnsgblRrtdJpD9kxfgoMr1xgwMflg3TjJSau1HJ7smgTRyDFsz472U40WTR3wX-WVuux858mclhLXGwqUobI53hcEo-YhJvNvavXLgNyWj10i5qD4vxcLzogVNfNsnfcyTgIEtvgRfmM6zpEcxorJHwDOie6J9yibQMax3f-frBYqV9oaFN_2yUqjD8w70Im9PPDm6BwyCdx73jkJOgeKmctflClBLUjI_FqwBIcODh9JeyUrKtf8U-2iCLrSv2LowLoyV68CJ5jCapsHgWiM9PXv5f0k662E-aMa-1Z4N8d1lg_rYhMZKauVZ8DcvVvw8uU0vckeIIuR_55ZMULom8IVY4qm5x78adYdBaTzpQnoHDG2hy3iZwq_zkIa2JZihAnXMcuFKHhVM7kR0jPDDKSDzXO8Ve4wXhoxcWAJMuA6u2B6aI4_pqKL1z2loAWUfobE5fwL2Kcy41ACc5yLLe0zERga1FN4xc5aBwWPQaqwgurw63Yjb1rkaJWsyK1u7OcJvCfHqCtZD5L6L_MhosICvwMEehesR7zB4hFnUtN-Lf8-U-gOHkeFDH8J4ozmmiYao2nS6rAKfAADRCkt1Uq9-Sc8utNZPnYYHnmJjB6uHGyTgFCxwCcv8xJltcW5H55dOAqonlOq8YIEAAbZHpbxT4fcaQ6pIhUMct2jhpA5h-fk3rPoNrUvlT3E1bTq9DFTclXqHHSL_7pcKse10TG0rudK8QUZjfHVuwpHdXCTSJw8AoxDOipvyvAx00fEz49nfet76S4tTIKFa_cxh0FxJmMiuGZRKfiphJ-XJJaYbd6B5Ut1F76jCTO5wyiO8yEHKB9vAFgIzAMamLR5gMHlED9gF2sCR9D8YVOx7eyZoeEPplvxfWJivErkUybnLDIsMenNsWn5Jg9wADwtAv5eXbVKrNdjRWLxyMmrxFd7jzfUNsAiz3GN1K0bDVRfm1sBPFE5hrOHb_k282CbWXQWoC-fGLQwRAsH48Cs2vVeiAvcccMeHjpX6y8w-b19WnnonZ9WDHK-rr7_Ir6juWxiw5DHRx4NRqZoop9iqXa5yr3VcPodRRInLT4K8VIY3LoCoaARH-JMF7F5kcVlDLjT-ngyomz3sJXVrJj_sYU1aXAtPx09t9ooQvw22GtGJwvwZASBdJOXXZk5DcUs6UNl-VZxFxv2I5ez5dNetMRtTRNm7_p8q1sQSwBaw_QkM0jAm9NV-60pdrNevd7YJEmLyWI0qyGNpMS0eZH_kUw1e68mGXN8o9e64tij7GrBlWhAd4gAJXFXw6C5OO2tqthk16UgEfnifyl8BAP9kZJWVbNGulU-xCm7i3hAKZFc2-AhQxfKiZod_wa6q1t0skb3Q2JnH5nH2OMfjl5syZcZCQKCckFXJ3lzIe9RCpp5dKXOlHA0jUbjAqI-08Jr2bA2IJZF7NwcR06w9ZrGuzir8OKOGSnr8ifA7Uf73dU0fIggY6kYHlU_Vng2w-UoKF2bs5Ua8_mTlbu5mn2nFTziv_xQUwKFR_ijIx6DdRlEdOspTJQpKowP39s4YpI1Sk2aPMWRVA/https://www.amazon.com/dp/B0F37MV2NZ/?_encoding=UTF8&pd_rd_i=B0F37MV2NZ&pd_rd_i=B0F37MV2NZ&ref_=sbx_be_s_sparkle_ssd_cta&pd_rd_w=YmwuS&content-id=amzn1.sym.fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=00BFFS7V5J3YZK2APJQ1&pd_rd_wg=2n6nV&pd_rd_r=a4bbce73-dcff-4083-8328-21adfa0e1717",
+        "link_clean": "https://www.amazon.com/dp/B0F37MV2NZ/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0F37MV2NZ&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "thumbnail": "https://m.media-amazon.com/images/I/51syEZY4PML._AC_SR100,100_QL65_.jpg",
+        "video": {
+          "link": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/7e12942f-5a5d-4d0c-a90b-2f6695abb95b.mp4/productVideoOptimized.mp4",
+          "thumbnail": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/7e12942f-5a5d-4d0c-a90b-2f6695abb95b.mp4/r/THUMBNAIL_360P_FRAME_3_CAPTURE_2.JPG"
+        },
+        "rating": 4.5,
+        "reviews": 10,
+        "price": "$31.98",
+        "extracted_price": 31.98
+      },
+      {
+        "position": 5,
+        "asin": "B0F831L31B",
+        "title": "Piteno® 140Pcs Bats Halloween Decorations Party Supplies, Realistic PVC 3D Black Scary Bat Stickers for Creepy Home Decor Halloween Party Decorations DIY Wall Window Decal Bathroom Indoor",
+        "link": "https://aax-us-east-retail-direct.amazon.com/x/c/JH31SLJNeqEY5Eyad2Im1DYAAAGhZGWcfgEAAAH2AQBvbm9fdHhuX2JpZDEgICBvbm9fdHhuX2ltcDEgICDJuGOi/clv1c_ek-wBfHXFbbWzjK3YivOrRfcuXaZLo9pXMNN8JlulZ-YTe7ybr0J718JxMhkLfrbxsvF2DXPY2vgZYBrgsPsWCHxThTujO7AWyJnCsbYGsRXD5eLiCdv9m_a7rk0IXQMsX8_cw77nkNJZcernWxi7InfoeH8htVuUoD2xDyW9pa_me9TPB35GPQCl9hLiWrmGtVW7kpNR18YtdddtUITZk7eG1kySW-muTh64ZOSieqlboC-Kmi3gUatppbRa9qIIuehwAjHDdeZmFTqpzGjC6Z4y5mXKKlDNKAZwDZjAZcIreMqxiTUpRLd-7GDmolgndv8bxNKBMHeosqQsQ3-_xQ-6hRNoZYC_HQ7BrWofa-9Ui1mX7TYgagFrtpRU5sKhCDZ3W4_REgPtu-GK8GHsrJPb8YNjcYBkCT0H1d7pQufrEaDSAzR4kmm-UzadrQt9GRTlR9C6G1awQ21I9YJhhWKX7UXeTyEj5NpfIdK8n_uNLwfjr8F5jm_bQ6gAAtGYJ5mCoVKLoIyPVnD5lhShWANQ2FF3Ncxsp3326beHAK93LHuk3mgI4gupILrc1mc5v5Pu1xWVfiuYihd3fG1dbpxgs2LjK5jb2P22ILZct6f7hK76HjoiKbkxGAvAikFWRJ9f9P4DeCgEPJADrm1hR7mYA3QCXCnakD77envZjsFIHOkNW-9vJZaqjmh_YcukXpPNop-ghrO2CA6c1zw98zlPFSEtfKmn5sSz3LWE7tuIKohDfUD7bsPLWQOK_6RzEbC4vlU9x89xyLMxYURhV-zTOp7C0FgBuJbjPDnq-I1rEOhaxqHF2phciHoTwDAhwGtsZ4UNIxGe3HaMsDVxYRmqvFEoYTy4y0jL3GqmnL3cHrTyFQMthcrxR3gB5p6Lj0vd_pgcGudsznBi_oKIqcNM3hKb79jTULqtysFj-vUcUbYoRrwFkjp9GK3TT7joUbr0OfnPEBZlaXy74sHdk_Db0sqUFOSjjmbW9YyYpAke2FF4ffJOWGF1jQ4-EhKt96-_vmGK_8kATKpMZ1fEhJKqHbolddphNZocEucgnuaA95h0_-htNgSa5AoMX1-ag5c6xpuQZUr4tZIVapY5Gw254CjFgcx8b76sOR_b609OnRpThf4iI8vK4ApRx1OaZmLWlbcDLOoYRZALHWUtwp40gz-8ni6SV-MBJZNvarctbG5MufwyDJQwwDEWwHlrHIgqrv652CJfvjKneFxvIoDy1aJ-GEjcKNPIpoxB2Caz_nyD_Qp4mT6OPwos6n5mxXUbxJxKp6nzwx211yTRDYcLLO3qddylFvwBNAduOXBw7aEeLQcbHzDSp9LeSUFjkf2beI-1LzcNiJaORB6B1QaTFcfUA6Joa7IhxtjapWxMCom8y1-XhViKoSrE3622_QSZgwQpZN9rfLecMQFMRsb5piOvpwr_qe348HJ_DR5ojAYytd4XzrAWXMTMNUD8kPCX5LEsHvsFTtvn2Q3_voa15wVNC7-ycK7T9_Aa67VAA7l2njQz4Bk3EUqIQ_gnuN7Ug-jKEPSwxpULrwCJI3QAT6Yje_SbFi2-xGfCngjuexWOfCyzwS3MLOnx4pYaxPvpc8X1f16O7XV824P8jmkyPoEwmag5KDVQQ/https://www.amazon.com/dp/B0F831L31B/?_encoding=UTF8&pd_rd_i=B0F831L31B&pd_rd_i=B0F831L31B&ref_=sbx_be_s_sparkle_ssd_cta&pd_rd_w=YmwuS&content-id=amzn1.sym.fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=00BFFS7V5J3YZK2APJQ1&pd_rd_wg=2n6nV&pd_rd_r=a4bbce73-dcff-4083-8328-21adfa0e1717",
+        "link_clean": "https://www.amazon.com/dp/B0F831L31B/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0F831L31B&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "thumbnail": "https://m.media-amazon.com/images/I/419uQuucMKL._AC_SR100,100_QL65_.jpg",
+        "video": {
+          "link": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/de46c326-003f-47ce-8f44-41d4cd412f97.mp4/productVideoOptimized.mp4",
+          "thumbnail": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/de46c326-003f-47ce-8f44-41d4cd412f97.mp4/r/THUMBNAIL_360P_FRAME_3_CAPTURE_2.JPG"
+        },
+        "rating": 4.6,
+        "reviews": 1302,
+        "price": "$9.99",
+        "extracted_price": 9.99
+      }
+    ]
+  }
+}

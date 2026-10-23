@@ -1,0 +1,1197 @@
+{
+  "provider": "serpapi",
+  "endpoint": "https://serpapi.com/search.json",
+  "parameters": {
+    "engine": "amazon_product",
+    "asin": "B08X94JGJ1",
+    "amazon_domain": "amazon.com",
+    "language": "en_US",
+    "shipping_location": "US",
+    "device": "tablet",
+    "output": "json"
+  },
+  "fetched_at_utc": "2026-10-22T16:18:11.221619+00:00",
+  "raw_file": "supplements/supplement-2026-10-22T1610589019850000-ed08e5/raw/serpapi-6bc9399e9881857dd238.json",
+  "response": {
+    "search_metadata": {
+      "id": "6ada3744368070ddd6681949",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/bd0mkk8hCiL34t-ZS_qBXwW2Ir0xRCpvmhfGWH-TaHI/6ada3744368070ddd6681949.json",
+      "markdown_endpoint": "https://serpapi.com/searches/bd0mkk8hCiL34t-ZS_qBXwW2Ir0xRCpvmhfGWH-TaHI/6ada3744368070ddd6681949.md",
+      "created_at": "2026-10-22 16:18:12 UTC",
+      "processed_at": "2026-10-22 16:18:12 UTC",
+      "amazon_product_url": "https://www.amazon.com/dp/B08X94JGJ1/?language=en_US",
+      "raw_html_file": "https://serpapi.com/searches/bd0mkk8hCiL34t-ZS_qBXwW2Ir0xRCpvmhfGWH-TaHI/6ada3744368070ddd6681949.html",
+      "total_time_taken": 6.8
+    },
+    "search_parameters": {
+      "engine": "amazon_product",
+      "asin": "B08X94JGJ1",
+      "amazon_domain": "amazon.com",
+      "language": "en_US",
+      "device": "tablet",
+      "shipping_location": "US"
+    },
+    "product_results": {
+      "categories": [
+        {
+          "position": 1,
+          "name": "Grocery & Gourmet Food",
+          "link": "https://www.amazon.com/grocery-breakfast-foods-snacks-organic/b/ref=dp_bc_1?ie=UTF8&node=16310101",
+          "node": "16310101",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=tablet&engine=amazon&language=en_US&node=16310101&shipping_location=US"
+        },
+        {
+          "position": 2,
+          "name": "Food & Beverage Gifts",
+          "link": "https://www.amazon.com/Gourmet-Gifts-Baskets/b/ref=dp_bc_2?ie=UTF8&node=2255571011",
+          "node": "2255571011",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=tablet&engine=amazon&language=en_US&node=2255571011&shipping_location=US"
+        },
+        {
+          "position": 3,
+          "name": "Fruit & Nut Gifts",
+          "link": "https://www.amazon.com/Fruit-Nut-Gifts/b/ref=dp_bc_3?ie=UTF8&node=2255577011",
+          "node": "2255577011",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=tablet&engine=amazon&language=en_US&node=2255577011&shipping_location=US"
+        }
+      ],
+      "asin": "B08X94JGJ1",
+      "title": "Holiday Nuts Gift Basket - Assortment of Sweet & Roasted Salted Gourmet Nuts - Food Gift Box for Dad, Him, Husband, Christmas, Father's Day, Mother's Day, Sympathy, Family, Men & Women",
+      "link": "https://www.amazon.com/Nuts-Gift-Basket-Assortment-Thanksgiving/dp/B08X94JGJ1/",
+      "link_clean": "https://www.amazon.com/dp/B08X94JGJ1/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B08X94JGJ1&device=tablet&engine=amazon_product&language=en_US&shipping_location=US",
+      "tags": [
+        "Kosher",
+        "Vegan"
+      ],
+      "badges": [
+        "Amazon's Choice"
+      ],
+      "variants": [
+        {
+          "title": "Style",
+          "items": [
+            {
+              "position": 1,
+              "asin": "B08X94JGJ1",
+              "name": "A. Large Nuts Gift Basket - Brown",
+              "image": "https://m.media-amazon.com/images/I/51lXfmhLb9L._SS64_.jpg",
+              "selected": true,
+              "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B08X94JGJ1&device=tablet&engine=amazon_product&language=en_US&shipping_location=US"
+            },
+            {
+              "position": 2,
+              "asin": "B07QHG8HW8",
+              "name": "B. Extra Large Nuts Gift Basket - Brown",
+              "image": "https://m.media-amazon.com/images/I/51UgbDFCQOS._SS64_.jpg",
+              "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B07QHG8HW8&device=tablet&engine=amazon_product&language=en_US&shipping_location=US"
+            }
+          ]
+        }
+      ],
+      "brand": "Visit the Nut Haven Store",
+      "thumbnail": "https://m.media-amazon.com/images/I/51lXfmhLb9L._SY300_SX300_QL70_FMwebp_.jpg",
+      "thumbnails": [
+        "https://m.media-amazon.com/images/I/919ORz0v6IL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81AoCNMGC-L._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/A1ESjtd+bOL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/91dPHKASzxL._SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81aM+WiwiQL._SL1500_.jpg"
+      ],
+      "rating": 4.5,
+      "reviews": 8469,
+      "bought_last_month": "3K+ bought in past month",
+      "price": "$29.95",
+      "extracted_price": 29.95,
+      "price_unit": "$29.95 / count",
+      "extracted_price_unit": 29.95,
+      "snap_ebt_eligible": true,
+      "delivery": [
+        "FREE delivery Tuesday, October 27 on orders shipped by Amazon over $35. Order within 12 hrs 41 mins"
+      ],
+      "stock": "In Stock"
+    },
+    "purchase_options": {
+      "buy_new": {
+        "caption": "One-time purchase",
+        "price": "$29.95",
+        "extracted_price": 29.95,
+        "price_unit": "$29.95 / count",
+        "extracted_price_unit": 29.95,
+        "delivery": [
+          "FREE delivery Tuesday, October 27 on orders shipped by Amazon over $35. Order within 12 hrs 41 mins"
+        ],
+        "stock": "In Stock",
+        "features": {
+          "ships_from": {
+            "text": "Amazon",
+            "details": {
+              "heading": "Ships from",
+              "content": "Amazon"
+            }
+          },
+          "sold_by": {
+            "text": "Nut haven",
+            "details": {
+              "heading": "Sold by",
+              "content": "Nut haven"
+            },
+            "link": {
+              "text": "Nut haven",
+              "link": "https://www.amazon.com/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2M8LX982FJF81&asin=B08X94JGJ1&ref_=dp_merchant_link&isAmazonFulfilled=1"
+            }
+          },
+          "returns": {
+            "text": "Non-returnable due to Food safety reasons",
+            "details": {
+              "heading": "Non-returnable due to Food safety reasons",
+              "content": "This item is non-returnable due to potential safety risk as an ingestible product, but if the item arrives damaged or defective, you may request a refund or replacement through Your Orders by providing an image of the item and its defects."
+            },
+            "link": {
+              "text": "See return policy",
+              "link": "https://www.amazon.com/gp/help/customer/display.html?nodeId=GKM69DUUYKQWKWX7&ref_=dp_ret_policy"
+            }
+          },
+          "payment": {
+            "text": "Secure transaction",
+            "details": {
+              "heading": "Your transaction is secure",
+              "content": "We work hard to protect your security and privacy. Our payment security system encrypts your information during transmission. We don’t share your credit card details with third-party sellers, and we don’t sell your information to others. Learn more"
+            },
+            "link": {
+              "text": "Learn more",
+              "link": "https://www.amazon.com/gp/help/customer/display.html?nodeId=201909010"
+            }
+          }
+        }
+      },
+      "subscribe_and_save": {
+        "caption": "Subscribe & Save",
+        "price": "$29.95",
+        "extracted_price": 29.95,
+        "price_unit": "$29.95 / count",
+        "extracted_price_unit": 29.95,
+        "delivery": [
+          "FREE delivery Tuesday, October 27 on orders shipped by Amazon over $35. Order within 12 hrs 41 mins"
+        ],
+        "stock": "In Stock",
+        "features": {
+          "ships_from": {
+            "text": "Amazon",
+            "details": {
+              "heading": "Ships from",
+              "content": "Amazon"
+            }
+          },
+          "sold_by": {
+            "text": "Nut haven",
+            "details": {
+              "heading": "Sold by",
+              "content": "Nut haven"
+            },
+            "link": {
+              "text": "Nut haven",
+              "link": "https://www.amazon.com/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2M8LX982FJF81&asin=B08X94JGJ1&ref_=dp_merchant_link&isAmazonFulfilled=1"
+            }
+          },
+          "returns": {
+            "text": "Non-returnable due to Food safety reasons",
+            "details": {
+              "heading": "Non-returnable due to Food safety reasons",
+              "content": "This item is non-returnable due to potential safety risk as an ingestible product, but if the item arrives damaged or defective, you may request a refund or replacement through Your Orders by providing an image of the item and its defects."
+            },
+            "link": {
+              "text": "See return policy",
+              "link": "https://www.amazon.com/gp/help/customer/display.html?nodeId=GKM69DUUYKQWKWX7&ref_=dp_ret_policy"
+            }
+          },
+          "subscription": "No fees. Skip or cancel anytime."
+        }
+      }
+    },
+    "item_ingredients": [
+      "a"
+    ],
+    "about_item": [
+      "🎁 ELEGANTLY PACKAGED GIFT BASKET LOADED WITH TASTY NUTS - Forget flowers and chocolate, give a gift that’s delicious and healthy! In this bundle pack of Healthy Snacks, you get approximately 1 LB of tasty gourmet nuts meticulously packaged in a boutique-style gift box.",
+      "🥜 VARIETY OF FRESH TASTY NUTS FOR EVERYONE TO ENJOY – The deluxe mixed nut box contains Toffee Peanuts, Glazed Almonds, Roasted Salted Almonds, Dry Roasted Salted or Unsalted Pistachios, Glazed Peanuts, Roasted Salted Cashews, and Glazed Pecans",
+      "👌 THERE ARE TREATS... AND THEN THERE ARE NUT HAVEN TREATS! - Batches of nuts may look the same to most of us, but the mavens at Nut Haven know the difference between a typical treat and a gourmet edible delight. The only items that make it into a Nut Haven basket are carefully selected nuts that are naturally rich, ideally textured and roasted OR sweetened with the perfect flavor.",
+      "💝 MOUTH-WATERING GIFT IDEA FOR A VARIETY OF OCCASIONS – Out of this world gift idea of any occasion like Corporate Events, Holidays, Birthdays, Christmas, Thank You, Sympathy, Get Well, Father's Day, Mother’s Day, Easter, and more!",
+      "✅ SPECIFICATIONS – Package dimensions: 10x10x1.3 IN. Net weight: Approximately 1LB. Image proportions may vary from the actual product. For precise sizing, please refer to the written dimensions. OK Kosher Certified, Vegan."
+    ],
+    "bought_together": [
+      {
+        "position": 1,
+        "title": "Holiday Nuts Gift Basket - Assortment of Sweet & Roasted Salted Gourmet Nuts - Food Gift Box for Dad, Him, Husband, Christmas, Father's Day, Mother's Day, Sympathy, Family, Men & Women",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/919ORz0v6IL._AC_UL116_SR116,116_.jpg",
+        "price": "$29.95",
+        "extracted_price": 29.95,
+        "price_unit": "$29.95/count",
+        "extracted_price_unit": 29.95,
+        "delivery": [
+          "Get it as soon as Tuesday, Oct 27"
+        ],
+        "stock": "In Stock"
+      },
+      {
+        "position": 2,
+        "title": "Barnetts 24 Gourmet Chocolate Cookies Biscotti Gift Baskets | Halloween, Thanksgiving, Diwali, Christmas Holiday Cookie Gifts Box For Family Him and Her Food Baskets Delivery Candy Treats",
+        "link": "https://www.amazon.com/Barnetts-Biscotti-Christmas-Thanksgiving-Valentines/dp/B006J7TAHM/ref=pd_bxgy_thbs_d_sccl_1/134-6611602-6691543?pd_rd_w=2Ciwr&content-id=amzn1.sym.395480b3-fd19-4bc1-8264-407af245153b&pf_rd_p=395480b3-fd19-4bc1-8264-407af245153b&pf_rd_r=EJ8C8RZ9M79J5HAREA32&pd_rd_wg=nptCs&pd_rd_r=a4f4ecf6-b14b-40d3-b943-736f88d22bf5&pd_rd_i=B006J7TAHM&psc=1",
+        "asin": "B006J7TAHM",
+        "link_clean": "https://www.amazon.com/Barnetts-Biscotti-Christmas-Thanksgiving-Valentines/dp/B006J7TAHM/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B006J7TAHM&device=tablet&engine=amazon_product&language=en_US&shipping_location=US",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/A1RLUWDzCPL._AC_UL116_SR116,116_.jpg",
+        "price": "$39.99",
+        "extracted_price": 39.99,
+        "price_unit": "$39.99/count",
+        "extracted_price_unit": 39.99,
+        "delivery": [
+          "Get it as soon as Tuesday, Oct 27"
+        ],
+        "stock": "In Stock"
+      },
+      {
+        "position": 3,
+        "title": "Barnetts 12 Gourmet Chocolate Biscotti Cookies Gift Basket | Cookie Gifts Baskets Box for Halloween, Thanksgiving, Diwali, Christmas Holiday Gourmet Candy For Family Women, Men, Adults",
+        "link": "https://www.amazon.com/Biscotti-Barnetts-Corporate-Mishloach-Assorted/dp/B0081BE3E4/ref=pd_bxgy_thbs_d_sccl_2/134-6611602-6691543?pd_rd_w=2Ciwr&content-id=amzn1.sym.395480b3-fd19-4bc1-8264-407af245153b&pf_rd_p=395480b3-fd19-4bc1-8264-407af245153b&pf_rd_r=EJ8C8RZ9M79J5HAREA32&pd_rd_wg=nptCs&pd_rd_r=a4f4ecf6-b14b-40d3-b943-736f88d22bf5&pd_rd_i=B0081BE3E4&psc=1",
+        "asin": "B0081BE3E4",
+        "link_clean": "https://www.amazon.com/Biscotti-Barnetts-Corporate-Mishloach-Assorted/dp/B0081BE3E4/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0081BE3E4&device=tablet&engine=amazon_product&language=en_US&shipping_location=US",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/91oCs4AGh2L._AC_UL116_SR116,116_.jpg",
+        "price": "$25.99",
+        "extracted_price": 25.99,
+        "price_unit": "$1.78/ounce",
+        "extracted_price_unit": 1.78,
+        "delivery": [
+          "Get it as soon as Tuesday, Oct 27"
+        ],
+        "stock": "In Stock"
+      }
+    ],
+    "related_products": [
+      {
+        "position": 1,
+        "title": "Nuts gift Basket, a Variety of Freshly Roasted Nuts | Beautifully Packaged Gift Baskets for Woman, Christmas Holiday Gift Bas",
+        "link": "https://www.amazon.com/Variety-Freshly-Beautifully-Packaged-Christmas/dp/B0BH5CJM8B/ref=bmx_dp_d_sccl_1_1/134-6611602-6691543?pd_rd_w=Vau4U&content-id=amzn1.sym.70fc1905-7e54-414e-b33b-ffb28dd4c5ea&pf_rd_p=70fc1905-7e54-414e-b33b-ffb28dd4c5ea&pf_rd_r=EJ8C8RZ9M79J5HAREA32&pd_rd_wg=nptCs&pd_rd_r=a4f4ecf6-b14b-40d3-b943-736f88d22bf5&pd_rd_i=B0BH5CJM8B&psc=1",
+        "asin": "B0BH5CJM8B",
+        "link_clean": "https://www.amazon.com/Variety-Freshly-Beautifully-Packaged-Christmas/dp/B0BH5CJM8B/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0BH5CJM8B&device=tablet&engine=amazon_product&language=en_US&shipping_location=US",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/91OrMXYZRKL._AC_UL165_SR165,165_.jpg",
+        "rating": 4.4,
+        "reviews": 2450,
+        "price": "$29.94",
+        "extracted_price": 29.94,
+        "price_unit": "$29.94/count",
+        "extracted_price_unit": 29.94,
+        "delivery": [
+          "Get it as soon as Tuesday, Oct 27"
+        ]
+      },
+      {
+        "position": 2,
+        "title": "Hickory Farms Farmhouse Meat & Cheese Food Gift Basket (Small) - Box Set | Charcuterie Board Food | Summer Sausage | Father's",
+        "link": "https://www.amazon.com/Hickory-Farms-Farmhouse-Congratulations-Retirement/dp/B0C94YG17L/ref=bmx_dp_d_sccl_1_2/134-6611602-6691543?pd_rd_w=Vau4U&content-id=amzn1.sym.70fc1905-7e54-414e-b33b-ffb28dd4c5ea&pf_rd_p=70fc1905-7e54-414e-b33b-ffb28dd4c5ea&pf_rd_r=EJ8C8RZ9M79J5HAREA32&pd_rd_wg=nptCs&pd_rd_r=a4f4ecf6-b14b-40d3-b943-736f88d22bf5&pd_rd_i=B0C94YG17L&psc=1",
+        "asin": "B0C94YG17L",
+        "link_clean": "https://www.amazon.com/Hickory-Farms-Farmhouse-Congratulations-Retirement/dp/B0C94YG17L/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0C94YG17L&device=tablet&engine=amazon_product&language=en_US&shipping_location=US",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/81fWzs48PtL._AC_UL165_SR165,165_.jpg",
+        "rating": 4.4,
+        "reviews": 1676,
+        "price": "$24.99",
+        "extracted_price": 24.99,
+        "price_unit": "$24.99/count",
+        "extracted_price_unit": 24.99,
+        "delivery": [
+          "Get it as soon as Tuesday, Oct 27"
+        ]
+      },
+      {
+        "position": 3,
+        "title": "Pop n' Dulge Popcorn Movie Night Supplies 16 pcs Gift Set, 5 Gourmet Popcorn Kernels, 5 Seasoning Variety Packs Non-GMO Koshe",
+        "link": "https://www.amazon.com/Popcorn-Seasoning-Kernels-Flavoring-Supplies/dp/B0B4X5SLKC/ref=bmx_dp_d_sccl_1_3/134-6611602-6691543?pd_rd_w=Vau4U&content-id=amzn1.sym.70fc1905-7e54-414e-b33b-ffb28dd4c5ea&pf_rd_p=70fc1905-7e54-414e-b33b-ffb28dd4c5ea&pf_rd_r=EJ8C8RZ9M79J5HAREA32&pd_rd_wg=nptCs&pd_rd_r=a4f4ecf6-b14b-40d3-b943-736f88d22bf5&pd_rd_i=B0B4X5SLKC&psc=1",
+        "asin": "B0B4X5SLKC",
+        "link_clean": "https://www.amazon.com/Popcorn-Seasoning-Kernels-Flavoring-Supplies/dp/B0B4X5SLKC/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0B4X5SLKC&device=tablet&engine=amazon_product&language=en_US&shipping_location=US",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/81ZCAoimEAL._AC_UL165_SR165,165_.jpg",
+        "rating": 4.5,
+        "reviews": 4781,
+        "price": "$21.95",
+        "extracted_price": 21.95,
+        "price_unit": "$1.00/ounce",
+        "extracted_price_unit": 1.0,
+        "delivery": [
+          "Get it as soon as Tuesday, Oct 27"
+        ]
+      },
+      {
+        "position": 4,
+        "title": "Hickory Farms Signature Beef Meat and Cheese Gift Basket (Large) - Box Set | Charcuterie Board Food | Summer Sausage | Father",
+        "link": "https://www.amazon.com/Hickory-Farms-Charcuterie-Congratulations-Retirement/dp/B0CT62LY2Q/ref=bmx_dp_d_sccl_1_4/134-6611602-6691543?pd_rd_w=Vau4U&content-id=amzn1.sym.70fc1905-7e54-414e-b33b-ffb28dd4c5ea&pf_rd_p=70fc1905-7e54-414e-b33b-ffb28dd4c5ea&pf_rd_r=EJ8C8RZ9M79J5HAREA32&pd_rd_wg=nptCs&pd_rd_r=a4f4ecf6-b14b-40d3-b943-736f88d22bf5&pd_rd_i=B0CT62LY2Q&psc=1",
+        "asin": "B0CT62LY2Q",
+        "link_clean": "https://www.amazon.com/Hickory-Farms-Charcuterie-Congratulations-Retirement/dp/B0CT62LY2Q/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0CT62LY2Q&device=tablet&engine=amazon_product&language=en_US&shipping_location=US",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/81LFkYY4UiL._AC_UL165_SR165,165_.jpg",
+        "rating": 4.5,
+        "reviews": 171,
+        "price": "$62.99",
+        "extracted_price": 62.99,
+        "price_unit": "$62.99/count",
+        "extracted_price_unit": 62.99,
+        "delivery": [
+          "Get it as soon as Tuesday, Oct 27"
+        ]
+      },
+      {
+        "position": 5,
+        "title": "Rolling Grill Basket, Grilling Accessories, Outdoor Camping, Gifts for Men | 304 Stainless Steel, Nesting BBQ Tools, Removabl",
+        "link": "https://www.amazon.com/ivtivfu-Rolling-Basket-Removable-Nesting/dp/B0CGX3ZGBK/ref=bmx_dp_d_sccl_1_5/134-6611602-6691543?pd_rd_w=Vau4U&content-id=amzn1.sym.70fc1905-7e54-414e-b33b-ffb28dd4c5ea&pf_rd_p=70fc1905-7e54-414e-b33b-ffb28dd4c5ea&pf_rd_r=EJ8C8RZ9M79J5HAREA32&pd_rd_wg=nptCs&pd_rd_r=a4f4ecf6-b14b-40d3-b943-736f88d22bf5&pd_rd_i=B0CGX3ZGBK&psc=1",
+        "asin": "B0CGX3ZGBK",
+        "link_clean": "https://www.amazon.com/ivtivfu-Rolling-Basket-Removable-Nesting/dp/B0CGX3ZGBK/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0CGX3ZGBK&device=tablet&engine=amazon_product&language=en_US&shipping_location=US",
+        "badges": [
+          "#1 Best Seller"
+        ],
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/81QbXyUeF5L._AC_UL165_SR165,165_.jpg",
+        "rating": 4.5,
+        "reviews": 3934,
+        "price": "$23.99",
+        "extracted_price": 23.99,
+        "price_unit": "$12.00/count",
+        "extracted_price_unit": 12.0,
+        "delivery": [
+          "Get it as soon as Tuesday, Oct 27"
+        ]
+      },
+      {
+        "position": 6,
+        "title": "Nuts gift Basket of Cravings Gourmet Nuts Collection, Mixed Nut Gift Box | 4 Sectional Gift Basket",
+        "link": "https://www.amazon.com/Easter-Nuts-Gift-Basket-Collection/dp/B0CGRXW81K/ref=bmx_dp_d_sccl_1_6/134-6611602-6691543?pd_rd_w=Vau4U&content-id=amzn1.sym.70fc1905-7e54-414e-b33b-ffb28dd4c5ea&pf_rd_p=70fc1905-7e54-414e-b33b-ffb28dd4c5ea&pf_rd_r=EJ8C8RZ9M79J5HAREA32&pd_rd_wg=nptCs&pd_rd_r=a4f4ecf6-b14b-40d3-b943-736f88d22bf5&pd_rd_i=B0CGRXW81K&psc=1",
+        "asin": "B0CGRXW81K",
+        "link_clean": "https://www.amazon.com/Easter-Nuts-Gift-Basket-Collection/dp/B0CGRXW81K/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0CGRXW81K&device=tablet&engine=amazon_product&language=en_US&shipping_location=US",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/71kaqUUUYwL._AC_UL165_SR165,165_.jpg",
+        "rating": 4.3,
+        "reviews": 1907,
+        "price": "$16.95",
+        "extracted_price": 16.95,
+        "price_unit": "$16.95/count",
+        "extracted_price_unit": 16.95,
+        "old_price": "$18.96",
+        "extracted_old_price": 18.96,
+        "delivery": [
+          "Get it as soon as Tuesday, Oct 27"
+        ]
+      }
+    ],
+    "related_product_sections": [
+      {
+        "title": "Explore more from across the store",
+        "items": [
+          {
+            "position": 1,
+            "title": "Nuts gift Basket, a Variety of Freshly Roasted Nuts | Beautifully Packaged Gift Baskets for Woman, Christmas Holiday Gift Bas",
+            "link": "https://www.amazon.com/Variety-Freshly-Beautifully-Packaged-Christmas/dp/B0BH5CJM8B/ref=bmx_dp_d_sccl_1_1/134-6611602-6691543?pd_rd_w=Vau4U&content-id=amzn1.sym.70fc1905-7e54-414e-b33b-ffb28dd4c5ea&pf_rd_p=70fc1905-7e54-414e-b33b-ffb28dd4c5ea&pf_rd_r=EJ8C8RZ9M79J5HAREA32&pd_rd_wg=nptCs&pd_rd_r=a4f4ecf6-b14b-40d3-b943-736f88d22bf5&pd_rd_i=B0BH5CJM8B&psc=1",
+            "asin": "B0BH5CJM8B",
+            "link_clean": "https://www.amazon.com/Variety-Freshly-Beautifully-Packaged-Christmas/dp/B0BH5CJM8B/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0BH5CJM8B&device=tablet&engine=amazon_product&language=en_US&shipping_location=US",
+            "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/91OrMXYZRKL._AC_UL165_SR165,165_.jpg",
+            "rating": 4.4,
+            "reviews": 2450,
+            "price": "$29.94",
+            "extracted_price": 29.94,
+            "price_unit": "$29.94/count",
+            "extracted_price_unit": 29.94,
+            "delivery": [
+              "Get it as soon as Tuesday, Oct 27"
+            ]
+          },
+          {
+            "position": 2,
+            "title": "Hickory Farms Farmhouse Meat & Cheese Food Gift Basket (Small) - Box Set | Charcuterie Board Food | Summer Sausage | Father's",
+            "link": "https://www.amazon.com/Hickory-Farms-Farmhouse-Congratulations-Retirement/dp/B0C94YG17L/ref=bmx_dp_d_sccl_1_2/134-6611602-6691543?pd_rd_w=Vau4U&content-id=amzn1.sym.70fc1905-7e54-414e-b33b-ffb28dd4c5ea&pf_rd_p=70fc1905-7e54-414e-b33b-ffb28dd4c5ea&pf_rd_r=EJ8C8RZ9M79J5HAREA32&pd_rd_wg=nptCs&pd_rd_r=a4f4ecf6-b14b-40d3-b943-736f88d22bf5&pd_rd_i=B0C94YG17L&psc=1",
+            "asin": "B0C94YG17L",
+            "link_clean": "https://www.amazon.com/Hickory-Farms-Farmhouse-Congratulations-Retirement/dp/B0C94YG17L/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0C94YG17L&device=tablet&engine=amazon_product&language=en_US&shipping_location=US",
+            "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/81fWzs48PtL._AC_UL165_SR165,165_.jpg",
+            "rating": 4.4,
+            "reviews": 1676,
+            "price": "$24.99",
+            "extracted_price": 24.99,
+            "price_unit": "$24.99/count",
+            "extracted_price_unit": 24.99,
+            "delivery": [
+              "Get it as soon as Tuesday, Oct 27"
+            ]
+          },
+          {
+            "position": 3,
+            "title": "Pop n' Dulge Popcorn Movie Night Supplies 16 pcs Gift Set, 5 Gourmet Popcorn Kernels, 5 Seasoning Variety Packs Non-GMO Koshe",
+            "link": "https://www.amazon.com/Popcorn-Seasoning-Kernels-Flavoring-Supplies/dp/B0B4X5SLKC/ref=bmx_dp_d_sccl_1_3/134-6611602-6691543?pd_rd_w=Vau4U&content-id=amzn1.sym.70fc1905-7e54-414e-b33b-ffb28dd4c5ea&pf_rd_p=70fc1905-7e54-414e-b33b-ffb28dd4c5ea&pf_rd_r=EJ8C8RZ9M79J5HAREA32&pd_rd_wg=nptCs&pd_rd_r=a4f4ecf6-b14b-40d3-b943-736f88d22bf5&pd_rd_i=B0B4X5SLKC&psc=1",
+            "asin": "B0B4X5SLKC",
+            "link_clean": "https://www.amazon.com/Popcorn-Seasoning-Kernels-Flavoring-Supplies/dp/B0B4X5SLKC/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0B4X5SLKC&device=tablet&engine=amazon_product&language=en_US&shipping_location=US",
+            "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/81ZCAoimEAL._AC_UL165_SR165,165_.jpg",
+            "rating": 4.5,
+            "reviews": 4781,
+            "price": "$21.95",
+            "extracted_price": 21.95,
+            "price_unit": "$1.00/ounce",
+            "extracted_price_unit": 1.0,
+            "delivery": [
+              "Get it as soon as Tuesday, Oct 27"
+            ]
+          },
+          {
+            "position": 4,
+            "title": "Hickory Farms Signature Beef Meat and Cheese Gift Basket (Large) - Box Set | Charcuterie Board Food | Summer Sausage | Father",
+            "link": "https://www.amazon.com/Hickory-Farms-Charcuterie-Congratulations-Retirement/dp/B0CT62LY2Q/ref=bmx_dp_d_sccl_1_4/134-6611602-6691543?pd_rd_w=Vau4U&content-id=amzn1.sym.70fc1905-7e54-414e-b33b-ffb28dd4c5ea&pf_rd_p=70fc1905-7e54-414e-b33b-ffb28dd4c5ea&pf_rd_r=EJ8C8RZ9M79J5HAREA32&pd_rd_wg=nptCs&pd_rd_r=a4f4ecf6-b14b-40d3-b943-736f88d22bf5&pd_rd_i=B0CT62LY2Q&psc=1",
+            "asin": "B0CT62LY2Q",
+            "link_clean": "https://www.amazon.com/Hickory-Farms-Charcuterie-Congratulations-Retirement/dp/B0CT62LY2Q/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0CT62LY2Q&device=tablet&engine=amazon_product&language=en_US&shipping_location=US",
+            "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/81LFkYY4UiL._AC_UL165_SR165,165_.jpg",
+            "rating": 4.5,
+            "reviews": 171,
+            "price": "$62.99",
+            "extracted_price": 62.99,
+            "price_unit": "$62.99/count",
+            "extracted_price_unit": 62.99,
+            "delivery": [
+              "Get it as soon as Tuesday, Oct 27"
+            ]
+          },
+          {
+            "position": 5,
+            "title": "Rolling Grill Basket, Grilling Accessories, Outdoor Camping, Gifts for Men | 304 Stainless Steel, Nesting BBQ Tools, Removabl",
+            "link": "https://www.amazon.com/ivtivfu-Rolling-Basket-Removable-Nesting/dp/B0CGX3ZGBK/ref=bmx_dp_d_sccl_1_5/134-6611602-6691543?pd_rd_w=Vau4U&content-id=amzn1.sym.70fc1905-7e54-414e-b33b-ffb28dd4c5ea&pf_rd_p=70fc1905-7e54-414e-b33b-ffb28dd4c5ea&pf_rd_r=EJ8C8RZ9M79J5HAREA32&pd_rd_wg=nptCs&pd_rd_r=a4f4ecf6-b14b-40d3-b943-736f88d22bf5&pd_rd_i=B0CGX3ZGBK&psc=1",
+            "asin": "B0CGX3ZGBK",
+            "link_clean": "https://www.amazon.com/ivtivfu-Rolling-Basket-Removable-Nesting/dp/B0CGX3ZGBK/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0CGX3ZGBK&device=tablet&engine=amazon_product&language=en_US&shipping_location=US",
+            "badges": [
+              "#1 Best Seller"
+            ],
+            "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/81QbXyUeF5L._AC_UL165_SR165,165_.jpg",
+            "rating": 4.5,
+            "reviews": 3934,
+            "price": "$23.99",
+            "extracted_price": 23.99,
+            "price_unit": "$12.00/count",
+            "extracted_price_unit": 12.0,
+            "delivery": [
+              "Get it as soon as Tuesday, Oct 27"
+            ]
+          },
+          {
+            "position": 6,
+            "title": "Nuts gift Basket of Cravings Gourmet Nuts Collection, Mixed Nut Gift Box | 4 Sectional Gift Basket",
+            "link": "https://www.amazon.com/Easter-Nuts-Gift-Basket-Collection/dp/B0CGRXW81K/ref=bmx_dp_d_sccl_1_6/134-6611602-6691543?pd_rd_w=Vau4U&content-id=amzn1.sym.70fc1905-7e54-414e-b33b-ffb28dd4c5ea&pf_rd_p=70fc1905-7e54-414e-b33b-ffb28dd4c5ea&pf_rd_r=EJ8C8RZ9M79J5HAREA32&pd_rd_wg=nptCs&pd_rd_r=a4f4ecf6-b14b-40d3-b943-736f88d22bf5&pd_rd_i=B0CGRXW81K&psc=1",
+            "asin": "B0CGRXW81K",
+            "link_clean": "https://www.amazon.com/Easter-Nuts-Gift-Basket-Collection/dp/B0CGRXW81K/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0CGRXW81K&device=tablet&engine=amazon_product&language=en_US&shipping_location=US",
+            "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/71kaqUUUYwL._AC_UL165_SR165,165_.jpg",
+            "rating": 4.3,
+            "reviews": 1907,
+            "price": "$16.95",
+            "extracted_price": 16.95,
+            "price_unit": "$16.95/count",
+            "extracted_price_unit": 16.95,
+            "old_price": "$18.96",
+            "extracted_old_price": 18.96,
+            "delivery": [
+              "Get it as soon as Tuesday, Oct 27"
+            ]
+          }
+        ]
+      }
+    ],
+    "videos": [
+      {
+        "position": 1,
+        "title": "WATCH BEFORE YOU BUY - in shock",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/0fbb7da4-9084-4b7c-a2b1-ba2dbde53877/default.jobtemplate.hls.m3u8",
+        "thumbnail": "https://m.media-amazon.com/images/I/61B4kTXJvXL.jpg",
+        "duration": "0:36",
+        "vendor": "Ashley Hatfield",
+        "vendor_thumbnail": "https://m.media-amazon.com/images/I/A1ghs2SW9LL._CR0,0,2316,2316_._FMjpg_._SL34_.jpg",
+        "date": "Dec 24, 2024"
+      },
+      {
+        "position": 2,
+        "title": "Gift basket? Or just a snack! See what I choose here!",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/753e6b5d-3f38-4b7e-8843-49d19c75aa22/default.vertical.jobtemplate.hls.m3u8",
+        "thumbnail": "https://m.media-amazon.com/images/I/A1p6FWdvyKL.jpg",
+        "duration": "1:01",
+        "vendor": "🌟Realistic Mom Reviews🌟",
+        "vendor_thumbnail": "https://m.media-amazon.com/images/I/61M5-LT318L._CR0,0,585,585_._FMjpg_._SL34_.jpg",
+        "date": "Jul 6, 2026"
+      },
+      {
+        "position": 3,
+        "title": "Impressive NUT Tray Perfect for Gifting",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/4cafc811-2dcf-4254-b60b-20bf85efd333/default.jobtemplate.hls.m3u8",
+        "thumbnail": "https://m.media-amazon.com/images/I/61zWfMwso5L.jpg",
+        "duration": "0:58",
+        "vendor": "Hella Bella Reviews",
+        "vendor_thumbnail": "https://m.media-amazon.com/images/I/712Xv6gQxxL._CR0,0,1158,1158_._FMjpg_._SL34_.jpg",
+        "date": "Jun 26, 2025"
+      },
+      {
+        "position": 4,
+        "title": "Tasty Gift for Many Occasions",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/63e9ce4f-2275-41c8-bd2b-f1630df3eddd/default.jobtemplate.hls.m3u8",
+        "thumbnail": "https://m.media-amazon.com/images/I/91Y53OcqkuL.png",
+        "duration": "0:45",
+        "vendor": "⭐️ Our Fun Finds ⭐️",
+        "vendor_thumbnail": "https://m.media-amazon.com/images/I/C1IQjHOxTEL._CR1100,596,1832,1832_._FMjpg_._SL34_.jpg",
+        "date": "Jan 21, 2024"
+      },
+      {
+        "position": 5,
+        "title": "Premium Nuts Gift Basket",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/c4ff1510-c14f-4f03-baf5-4c2149a72799/default.jobtemplate.hls.m3u8",
+        "thumbnail": "https://m.media-amazon.com/images/I/51tm7mFRClL.jpg",
+        "duration": "0:34",
+        "vendor": "Nut haven",
+        "date": "Oct 30, 2022"
+      },
+      {
+        "position": 6,
+        "title": "Valentine Day Gourmet Nuts Gift Basket Sweet and Savory Mix",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/398e1411-4a82-4538-8fb7-c8b797c3c14b/default.jobtemplate.hls.m3u8",
+        "thumbnail": "https://m.media-amazon.com/images/I/91wuNppjfqL.png",
+        "duration": "0:48",
+        "vendor": "Dezineaura",
+        "vendor_thumbnail": "https://m.media-amazon.com/images/I/71E4rribiNL._CR0,0,1024,1024_._FMjpg_._SL34_.jpg",
+        "date": "Jan 19, 2026"
+      },
+      {
+        "position": 7,
+        "title": "Real Taste Test, Quantity, Value, and Review of Nut Haven Nut Gift Box Set",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/bfe60da2-7095-421e-8841-33f6bf2db607/default.jobtemplate.hls.m3u8",
+        "thumbnail": "https://m.media-amazon.com/images/I/51tW9lgIv8L.jpg",
+        "duration": "4:22",
+        "vendor": "Matt's Recommendations 👍",
+        "vendor_thumbnail": "https://m.media-amazon.com/images/I/A1SzCK+gjJL._CR879,325,603,603_._FMjpg_._SL34_.jpg",
+        "date": "Jun 12, 2024"
+      },
+      {
+        "position": 8,
+        "title": "Great gift or fun for game day!",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/057cdc8f-7100-42f5-937c-c58da83c5efd/default.jobtemplate.hls.m3u8",
+        "thumbnail": "https://m.media-amazon.com/images/I/C1xFVZkjPpL.jpg",
+        "duration": "0:39",
+        "vendor": "Kim's Trendy Finds",
+        "vendor_thumbnail": "https://m.media-amazon.com/images/I/41bt-FKeWPL._CR0,0,348,348_._FMjpg_._SL34_.jpg",
+        "date": "Aug 26, 2024"
+      },
+      {
+        "position": 9,
+        "title": "Assorted nuts, sweet/salty, great value, great gift",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/3c70f545-4dda-45b4-b856-f0f4ea744c5f/default.vertical.jobtemplate.hls.m3u8",
+        "thumbnail": "https://m.media-amazon.com/images/I/81JU1+TPKgL.jpg",
+        "duration": "0:56",
+        "vendor": "Whitney",
+        "vendor_thumbnail": "https://m.media-amazon.com/images/I/B13UhLQwqgL._CR111,118,1137,1138_._FMjpg_._SL34_.jpg",
+        "date": "Dec 25, 2024"
+      },
+      {
+        "position": 10,
+        "title": "Holiday Christmas Nuts Gift Basket Sweet & Roasted Gourmet Nut Assortment",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/03d301bc-baa7-44d5-b27e-8123e3b0f954/default.jobtemplate.hls.m3u8",
+        "thumbnail": "https://m.media-amazon.com/images/I/51SW2G8nKNL.jpg",
+        "duration": "1:07",
+        "vendor": "D&D’s Top Rated Product Finds",
+        "vendor_thumbnail": "https://m.media-amazon.com/images/I/A1CF7X0pEtL._CR0,0,2281,2281_._FMjpg_._SL34_.jpg",
+        "date": "Dec 26, 2025"
+      }
+    ],
+    "product_description": [
+      {
+        "position": 1,
+        "title": "1",
+        "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/be35a507-e005-4298-96d5-fa50a03d9711.__CR0,0,970,300_PT0_SX970_V1___.jpg"
+      },
+      {
+        "position": 2,
+        "title": "2",
+        "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/4aef1ab2-50e4-4532-95b7-69ad00de9c31.__CR0,0,970,600_PT0_SX970_V1___.jpg"
+      },
+      {
+        "position": 3,
+        "features": [
+          {
+            "position": 1,
+            "title": "For you and your loved ones!",
+            "text": "Perfect choice to send best wishes and love to anyone, for any occasion: “I love you”; “Happy Birthday”; “Happy Anniversary”; “Happy Holidays”... They all sound better – and taste better!",
+            "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/8a7c3914-44b3-4349-a3e2-11e463d81871.__CR0,0,300,300_PT0_SX300_V1___.jpg"
+          },
+          {
+            "position": 2,
+            "title": "Freshness is King!",
+            "text": "Batches of nuts may look the same to most of us, but the mavens at Nut Haven know the difference between a typical treat and a gourmet edible delight. The only items that make it into a Nut Haven basket are carefully selected nuts that are naturally rich, ideally textured, and roasted OR sweetened with the perfect flavor.",
+            "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/27ca6983-e9d6-4491-bf4a-9283e4e66b8d.__CR0,0,300,300_PT0_SX300_V1___.jpg"
+          },
+          {
+            "position": 3,
+            "title": "We go extra mile to taste the difference!",
+            "text": "There’s a gourmet assortment of Toffee Peanuts, Glazed Almonds, Roasted Salted Almonds, Roasted Salted Pistachios, Glazed Peanuts, Roasted Salted Cashews, and Glazed Pecans.",
+            "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/2721dd04-7bf3-4fc7-a7ba-4e8baec2877a.__CR0,0,300,300_PT0_SX300_V1___.jpg"
+          }
+        ]
+      },
+      {
+        "position": 4
+      }
+    ],
+    "product_details": {
+      "brand_name": "Nut Haven",
+      "diet_type": "Kosher, Vegan",
+      "container_type": "Basket,Box,Pack",
+      "flavor": "Large Nuts Gift Basket",
+      "item_form": "Dry",
+      "cuisine": "Mixed",
+      "specialty": "kosher",
+      "upc": "857091008190",
+      "set_name": "Gourmet Nut Assortment (7 Piece)",
+      "manufacturer": "Nut Haven",
+      "age_range_description": "Adult",
+      "best_sellers_rank": [
+        {
+          "text": "#4,693 in Grocery & Gourmet Food (See Top 100 in Grocery & Gourmet Food)",
+          "extracted_rank": 4693,
+          "link": "https://www.amazon.com/gp/bestsellers/grocery/ref=pd_zg_ts_grocery",
+          "link_text": "See Top 100 in Grocery & Gourmet Food"
+        },
+        {
+          "text": "#1 in Fruit & Nut Gifts",
+          "extracted_rank": 1,
+          "link": "https://www.amazon.com/gp/bestsellers/grocery/2255577011/ref=pd_zg_hrsr_grocery",
+          "link_text": "Fruit & Nut Gifts"
+        }
+      ],
+      "asin": "B08X94JGJ1",
+      "rating": 4.5,
+      "reviews": 8469,
+      "number_of_items": "1",
+      "item_weight": "16 ounces",
+      "size": "A. Large Nut Gift Basket",
+      "number_of_pieces": "1",
+      "unit_count": "1 Count",
+      "package_size_name": "1 Pound",
+      "color": "C. Large Nuts Gift Basket - Brown",
+      "package_dimensions": "10.24 x 10.16 x 1.57 inches; 1 pounds",
+      "units": "1 Count"
+    },
+    "sponsored_brands": [
+      {
+        "position": 1,
+        "asin": "B09GYLVDVB",
+        "title": "Gift Baskets for Men – Gourmet Nuts Gift Basket, Birthday Gift for Dad, Husband & Adults, Roasted Snack Box Variety, Fathers Day Gift",
+        "link": "https://aax-us-east-retail-direct.amazon.com/x/c/JAj94GDlJeyDhgneraK_N5sAAAGhZGf16gEAAAH2AQBvbm9fdHhuX2JpZDQgICBvbm9fdHhuX2ltcDEgICDt8Y3W/clv1c_ek-wBQvWbcbaXj1XZ_sI5WMWEL2bFJjMTw-tRSx119p5w9znGscA866H4Hrv2trbY8xlVAC3Rz5ymQFzIp6VHR8rIqPxofyPJhiowvrincQXQzGn_n1Q-O704ZnEBzP-lBRg9SbE6GAin6FTHB6m3pyLIdyY3pVr8OexSzKu5iYvOCkyDvldgI7CbmHqs6ibhxTD-hbJHhbe4TyxHwgDxg_CSB97RR9HEEcTnrvZCBJaCwme6ooJIXCWG9l93hpXANGWay5mZsUdmcRO9Vf9fa_4WzsIQftpctQ_4XUVew1SoVUWebDmneXv6gRMpW-etdH8LoMXZ-nesm4xzN_CLs3vHUug02AIiGJl_65Uet3xTs3nunKq4cBQLuvZ9uSCfAzE5-I_j39l14vH1Y76iQLBimXLUw5WenVsJh-zrRPTyyHmpu--SAijxzI7n30pLQ1nMyQfglFI8BWzM4KJxAPFhU1-euTMSiA1bYRa1gkld5UqoVoTRgveaYkhQY6-moCaj82Z1Y2-pt_6B-z8a5nfhhfMlpXNG0BsLmhdR-K7VXChwwi6FbAjX9UA2LwMoElO96lIcJnRK_ZNUWTyb2qvnQR36cAF-3lyqA4kxKnpcQpSHkC3a9BwiQz3a53OGZXWQ59YL89F4TJGnqWHiCjUTar-Po8RlSl1tQwgXSWcU5MAfChaYORhQmMEx-kqp19Y-yy0c7V_NMFgiVrSLDKBtIurfjUHJOVhQQ_Ux2ySSGJy-YrKRSEHeV84KR21-mBMEI_-5lGFzT-H8MQNO3edGquYW-f4TRlttKuBwPoLcWWv3WfaSo_JrWARpYvslWmKrb2N7Jl4inNgFdglz4TeiEo8IH2-qEfzEknBNj6KubNMO2xGN2g8wn9tojSNg0dJ53dd1DUnYIqPQVGzWlONojdsYjLNT1CeMglwcRylgJEEnANmyQAz3vIXYFxurbhllwwl5BLHP5G7B0Dwd3z24pZjwZJPv1AGQEGXi_2Pg05HNUQ9xaKbf25MbIM8HDHw8j8toLzOxZzzRuHIlFGfdXK17Xbq4FriPIcE_mDqNJQZimy8QL6Gmgl_VnBUAWbtDaLrdO_15rQeeYTKq-2Gg2DVw3YyBZ09UPh5HTb7qotXb9vEjGch2DGgrXXhUiBpRPbSVABeu1b2wITt_moRVCauVq5Y-G6YD8BDfpJIMMB80OmGtVv1YDLFoVikwrVi2Apwwp0xIOJyeCJvC_r_rH0mbdLqCJebOVdo_O4AmG_3fmRLD6-uvaG2Oq3sr2s08g-nvtlI-xzz3t-Gm7ZqNuaSfuz331ql8UHYBIjyXu6FMt9TLxtXo3urgHoFka9LD6LpVMxYzuEVlli4VCPske1TH3j0vzm0HCnz7brc9kVXyivZ8FupLX2AGR8kMqjmwO0FhfEEJit2CXHokOttq1nHfFgrRGAsa18IWaqB16Q4p4yLDaqXElSMF6neDMjfwQjn9fhBS8Zh3I2dUDrD9Stj9pDJHE22f5-OZYlXDpZIfFM_osEyXfWlap8c6aPsgr6d4V_tiyp7gkpfclyFaXJ0ux7AGacOZw58vFQKSv4/https://www.amazon.com/dp/B09GYLVDVB/?_encoding=UTF8&pd_rd_i=B09GYLVDVB&pd_rd_i=B09GYLVDVB&ref_=sbx_be_s_sparkle_ssd_cta&pd_rd_w=S9nDx&content-id=amzn1.sym.fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=EJ8C8RZ9M79J5HAREA32&pd_rd_wg=nptCs&pd_rd_r=a4f4ecf6-b14b-40d3-b943-736f88d22bf5",
+        "link_clean": "https://www.amazon.com/dp/B09GYLVDVB/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B09GYLVDVB&device=tablet&engine=amazon_product&language=en_US&shipping_location=US",
+        "thumbnail": "https://m.media-amazon.com/images/I/61z3EI4sIQL._AC_SR100,100_QL65_.jpg",
+        "video": {
+          "link": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/8580cfe3-294a-4622-a68f-66b8e464200c.mp4/productVideoOptimized.mp4",
+          "thumbnail": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/8580cfe3-294a-4622-a68f-66b8e464200c.mp4/r/THUMBNAIL_1080P_FRAME_3_CAPTURE_2.JPG"
+        },
+        "rating": 4.5,
+        "reviews": 1287,
+        "price": "$38.99",
+        "extracted_price": 38.99
+      },
+      {
+        "position": 2,
+        "asin": "B07Q6ZD19B",
+        "title": "Oh! Nuts Dried Fruit and Nut Gift Basket - XL 18 Variety Gourmet Assorted Fruits and Nuts Gift Baskets - Holiday Gift Box - Food Snack Box for Birthday, Corporate - Gift for Men, Women",
+        "link": "https://aax-us-east-retail-direct.amazon.com/x/c/JG5ZbrPLMZQp1YcPSttHlfIAAAGhZGf16wEAAAH2AQBvbm9fdHhuX2JpZDQgICBvbm9fdHhuX2ltcDEgICArw09H/clv1c_ek-YBff3asTaRuwy9ANOjGTeGWlyDvxpfdB7TYd6h0jwzuf2a-XIuGaQcmOW3fF-1NfpNQo0fzhACQ--uhn9rOwI5z6Ultk4ve0gY4NX7QoWjVC7Swp_hAH3asl0JWIrIyTfe9u8HuN4Q8GqWXvi4ZqJINiAdpXql6i9SD-hpNL_mOgUw1i-6RsN2Noa4Sj0vFtY-3FaGUOQBYTq10rBoXneoVs1DkSoFT7fOngtDtkaW9vfJyPpidUCNqYy7goZziMmRA37tBQ3cBYCyU0iuHJmujqCKtMezqWKYjCmPjh_dPfYAXYrUc6InC7_BZqumh3kVmiAHdoopYCWojuPxCcEU91p2jhQEpWvApJKdv6Z2WpFHbs-J0lRNpvVeRR05ZkST-8yH1n45jUoOlD5Rw8OiFcMIORL_qMspmGsWIpYtbSMc1QGsAXGqcmSJjnww0Yr1bbzW0ClCizL9zm_xGFI7A4MmrojJ6VHkuV8JZi7MR2ctnMqJrnc3ngVMCp2oJ1ufJBGvnbBNWKNB-R8a5Ff1sqPKIYYmsbe5bQafq9TBJ9BUrOm_A_FNNcfrlR2SjidsAL5RWz0jFr8xlG7ZnDbOEOtmIOLazI4oyxc3yyMvsumY5Y46EXgLPJnxW6VwD9tES-EGW07SJMa-qMEmPY9ADulY0gmvHjkQnFEaTFoU5afvG1ZJRL7lc2QQhieWk1KULjgMc4K3LXHH9TDWfYciGUfSdr3v5Q7mIvkaPJeNC0IiotXPicwC05CDWc85llHv9Z2JIttPwWpCSOq1PJa6AmagapzQ24pI0p7Lfp3N5zr61mcoSbLWx9wh8MOo3sLe6ryiokbYM1ARUKlMpnn1Ip_0kQh14Hb5LXWwwXJP6a-KGwMx3vw9axgyEWjOborbAAwiWcWiGnPyt2Iloz9nDUWGhAJH2I3n0_tvLXsr2Z1BlXbk-R1xk7dnI5n6JVe_XWSrdVB9GijlpL7qgZSlrFuOePrHxAo8YPnD9Gdx1FLCgl07M3IwbeC9YqS7RlK7UJUkS3F9Z3cvn1uNwQmNOBJSMsOijXGIz7DHgVqxYvxJXbfYr-cNsKCs1qmcIBBh5OG-2WkOXwXaV7hg0G129XF3o2DIdFKNGEyzx5xvV98q1I9EGxXxe6PeayFDjKbsoiQ_nmwf5zfqetxr0Xd-L3X1ISbRGCqkAfGUFNC1RcXj2zlV3i9g3G4p03y9FlolhVmCiuaA8fDQ3Bx9j3eaQxfvl_mR6bHz3TcA2aPBNtF0YOizL0DOH6RowiaiepSFS_-Nsz-Xife8CHQUEwlwesyCdTjzujW5xQjbJF3cI6mr43MNUzJi2OGI71E7ridDtjaE_VkVcghk8jt6-ha8bZVa16efqZfu8FauzI9A-e0Jy46DdxEcB9qp39D1EX59P6Ywls0Hh6REyXZmo72gY40tf2SkmBn7oaiOkR6YWYR65IQTyYLEYCiRhEx4NBnOF_t_D9riOy7DoEALLNNJk1Qhuw-y9MIM8TObE04w2QcSCRn-1KLAQzSrM_zg8lhz4zUgFA9pxMXMK3Q8UwPFtIDNEaW6H4VqBmj1zEAmCkil6nqdBDic2foblG0Zl6mz0z4/https://www.amazon.com/dp/B07Q6ZD19B/?_encoding=UTF8&pd_rd_i=B07Q6ZD19B&pd_rd_i=B07Q6ZD19B&ref_=sbx_be_s_sparkle_ssd_cta&pd_rd_w=S9nDx&content-id=amzn1.sym.fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=EJ8C8RZ9M79J5HAREA32&pd_rd_wg=nptCs&pd_rd_r=a4f4ecf6-b14b-40d3-b943-736f88d22bf5",
+        "link_clean": "https://www.amazon.com/dp/B07Q6ZD19B/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B07Q6ZD19B&device=tablet&engine=amazon_product&language=en_US&shipping_location=US",
+        "thumbnail": "https://m.media-amazon.com/images/I/51-3b0Yfb9L._AC_SR100,100_QL65_.jpg",
+        "video": {
+          "link": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/701b2a92-4284-4197-a217-9542c2c196c0.mp4/productVideoOptimized.mp4",
+          "thumbnail": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/701b2a92-4284-4197-a217-9542c2c196c0.mp4/r/THUMBNAIL_360P_FRAME_3_CAPTURE_2.JPG"
+        },
+        "rating": 4.5,
+        "reviews": 2794,
+        "price": "$54.99",
+        "extracted_price": 54.99
+      },
+      {
+        "position": 3,
+        "asin": "B012BA0VSM",
+        "title": "Jerky.com Gifts for Men 26pc Meat Sticks Jerky Variety Pack Gift Basket | High Protein Meat Sticks Individually Wrapped, Pork, Turkey, Ham, Beef Jerky Sticks & Cheese Sticks - Christmas Gift for Men",
+        "link": "https://aax-us-east-retail-direct.amazon.com/x/c/JN0Y0Dcmq1pPnwffLK6gsVMAAAGhZGf17AEAAAH2AQBvbm9fdHhuX2JpZDQgICBvbm9fdHhuX2ltcDEgICByRVA2/clv1c_ek-YBYHXKsTWXk6hthnFvou-AxqnslLIAByIrRKgV1jAVodKoXRXAOVEKhyyhYCJAR7lDwHV8Aefn8HN0OuyE-x1X3DIDG1razskK3xexK-ymlPhMVutURdYIvto5GoBZJi2GS7SZu6h2b3k-VRMazLHjD0dlkOCcu7ER0cqDYIeZbMtdZ-gjAQM2q055BZusObv_KRDrycKVOXKMEbkniePlE2XHFbylueVjTr2dZ3Byzf8YzZAsszFXTAV59n04e8HO_DXVuTDDOyWPi2o-0AwpL-6vr6-VtVhZUbaE1MsEZbi5Kxn9K0yK1pzpQyAFKrVgIU74aBzK03BRT1lNAdlbBT4u2wXRrC9qWpkCDXkGtJm04RiYtBR9rYntCpndpd6sYWzhA475U6uunYv_zU3DCPEkFKg4kG9m_rYQlWL8V6DYMoLRs5Oxbt5GVlrad6n06jnCdL5JwDM7ZLnN4AsyeAsO7XpE_GJjvodJr-3ok4VFOEmEK5pX6Zy_cXxRO30iQESbDZsTZ1aLeVk_Jzz89JCIhOeKNQyqCSgF1o8Ki6PbMM3aWTAokj5EeDr_jfHeRfHRbCoTENrmHXv79u5OldDODF0ZxpKMamXOYQwDb1lak_vRPfOCQGeoGb6j1mxLpQe7EYU3VffmXXGBi0ZIb11GMSytzO5uofevbx5lVKKcqnW9HNbXCOascOmFP1LLukDip2PIxoqxJBCSWzMTuLFCLkaT9kYaYpdel61I8E87htlqcZikDuAH58tLceULJVtEcA3afD_fXaeL921mBuMffPg4GuZg8sOSpyLQawU5BikELy076gBTDeO4xjNtI6Xi5fXRpXU1oxLm7wUJbs-JWNwdrTw3Z-vy5tE47QOVejNHy9HIfUkf9hXbqrXSjvNRtXViyvHmiRygor9lDUW3JE2fNhvIvdiQH5gNpbGPSsGx7A6jOEnjw2AfEsSbFBAHXMTX3yehk_p5wGxZDH9I5CtL6K3-0sjJm8wZCIftALX1-mMznH4Hmc_5B3fAc7dZQdnw0IPdz1lOVnGgbFLBjY5rNasGzVlyJ1z2qFwIMw3ZZtBCyl20YTImlJhN76GGKJHi007APR2j4cyUCW6gbhMMxWo6CE0ZW_rgItTaF3PBoYNTKSyfC5Pbbj4ihO6_JeHtox0S0OgDxChmz3mSY0HueiTczZLnc7Gbm1wAHTNZG-Wu6b1oPLhyuLxt5-10iJjjsEvAjs9J2e8Ungi8RDelaryvjb8Tv9TafwKmdWcP7_fAacNGf33JuJsebsHXHZD8iw5nmI81WxY952Mvp16pvmWAR7qvO6cvQbDgeVLbFhR54xoETRqmY6XnyywQnCB09tA7gTeaHGizLZpRrQ9i1cXInhh-FeFvR-6C5vNkS9LJQTuG3SL0f89TbDpiz0fRy_iDLIAcwYQNQfdIERqL-VqXQMlbAaYKEkbtusYrJC9YD9aYKF6OGuckky9ukpDdVRqOhkAm2xFTVKb_crYUhYzbzmOjnCm2xmb_eu8jkTx9QACZwbkRL1reboMYlJRyPT2Uj-U2ykji83ReVEWvt0JStKN0U8-gU-frbl_ZpDAQ5DIx0ByQuRF/https://www.amazon.com/dp/B012BA0VSM/?_encoding=UTF8&pd_rd_i=B012BA0VSM&pd_rd_i=B012BA0VSM&ref_=sbx_be_s_sparkle_ssd_cta&pd_rd_w=S9nDx&content-id=amzn1.sym.fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=EJ8C8RZ9M79J5HAREA32&pd_rd_wg=nptCs&pd_rd_r=a4f4ecf6-b14b-40d3-b943-736f88d22bf5",
+        "link_clean": "https://www.amazon.com/dp/B012BA0VSM/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B012BA0VSM&device=tablet&engine=amazon_product&language=en_US&shipping_location=US",
+        "thumbnail": "https://m.media-amazon.com/images/I/51BcBwDGCTL._AC_SR100,100_QL65_.jpg",
+        "video": {
+          "link": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/50f115be-f311-475a-8c69-02b537f43ec0.mp4/productVideoOptimized.mp4",
+          "thumbnail": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/50f115be-f311-475a-8c69-02b537f43ec0.mp4/r/THUMBNAIL_360P_FRAME_3_CAPTURE_2.JPG"
+        },
+        "rating": 4.3,
+        "reviews": 9675,
+        "price": "$39.99",
+        "extracted_price": 39.99
+      },
+      {
+        "position": 4,
+        "asin": "B0813WM3YZ",
+        "title": "NUT CRAVINGS - Halloween Treats, Mixed Nuts Gift Basket (12 Assortments) | in Reusable Diamond Wooden Tray + Green Ribbon, Treats for Adults, Healthy Snack Care Package, Kosher",
+        "link": "https://aax-us-east-retail-direct.amazon.com/x/c/JLm8kxCeNJk0bZdaHiqZfpkAAAGhZGf17QEAAAH2AQBvbm9fdHhuX2JpZDQgICBvbm9fdHhuX2ltcDEgICDuWBBO/clv1c_ek-YBQvWFbbazjI3YisGKEShqhZWsNxQ_OAqxuqRHimtxQzhmdt3J4pXr0O9JsT4vHIjJtH8LhxU0D_k2QMPVNbEu06Nkf5TDCDnDjQRIdcKD_HLLmkgy4D1vYwUx3M14RSDmEbaP4SK3yzhpMOrY5TtdEmdnAXqkcXoX1uehPYfnm8HEhidx4kgDyGFTVqaI27jpR4QssB49SV8tt_B73pDi3OUDkaujKRkediVQMH7BFdWn6ZY8wd8VHgCCje7h7RpOjeKXjYh5L4G9KQBQB6Lin5AUyzAAl4g5n1MyG4Ug-ORtjR8Zai1UgRY8v8HEyFA3y2GkRLo3lZ5qjgxaGDRfoDoWGSGcJ85B78uHeExFWM73xQ_23qL3thH5yP7MHhF8s6ggWgaHy_BDSdva5Q26JA4bRB9tzDnN6h3pLxJubxj7wYBOFgdyv2RxZlgasYuxBY0uLLUkwTC6Qq1DpjiC_5UhzF4y9RflP2h-hN2pXsGM6DpkC7h5KvzSir_QynslLwkrUA0RRhuufTTlZ2GeSGaNGGn7OtTdpTmClGZ5VMeijlU9HOT9A5vZGmudP2-FXB-YYSTxltc7kv11fhFaRDYT0qZCSdLRzYet_Mb3Be6qhQ8pg33U7QS6l6rH8Nphgk_4fT4JzcgW1Qub1AEJcPov7WaJco5vUiXTrBtRRWhgBMpvhsp8Xjusgym_kX622DstsnhJuh7Cwj6cAOXlQm6AenCYPsM_cE73-NpesRbdR6DexGbCr-dWW6YPIww3yMhrYALxPYh3q7nKIHXNjrekQGOB6tbkja6wu0sON24Qmrh5AwzW0AootDKzPQTM4KDDj4PC6x9SY4fJGgJ_PSOFNmLe6NQAKcl2GwpNhoMoxPhn_tXxPKYG7IzTuWsBrbBPmntFEQehq-0-hIsNkyx8t6HH8rBjLVLvD1G02tMqq2meyDlvtQcFuImSH9rNFdaaQNY-4_bqVCHA0QJpJXUYvV4guhmdGFANLKmWbGd-7DkZXLlkOKStDO5AdfqRP0WRnisKN2ubQaExzEWV9vPqt1TfLDiduEeKcgZfKCzQ20vrnD9d_WmwaTLcwfkadf7TUdUM923AMKgiWZE5830Bg-swiRznIPNawo9K0lBI0M7GzEwXJlcMCxIP9HNFVzInstdhlxF80oaADLrPisr1b9Ci-1pqne_odPs6gNk5SM9NRRg4obbxXyIKMOELHd53pezYOhIBRRjurQ13Ymf7Nu6CwtbBtQh5X0uGpWP3YBf53USUXY1ZginSxNcyGCfx2VP3SKogznRtKqj4Kd05I8MmSFOPrO-nAYpZOSTaNVQbxtTYgdK1KZQRUhGQSnz0-ouguzV1dyJ8zEejnQ1pPchNnXxcMaWjjdRbHz9-vGu0KqhXpga05p7euQzCn7_bbTDZFtebgNXpGbo5LHqTnaJOIwS-NJVMzl70LLYR-XJLPOjCE0cy2riWinBuUW3XzuopADQRd-fvyRMgZc3zWCFClb6lc78oc6sjZcQSle077lJysAibnlZvocj9Rv4zNSdIwNS8Ecz4qCNwBG57VPyX3rCzCxW_Dz3LG_y4qM/https://www.amazon.com/dp/B0813WM3YZ/?_encoding=UTF8&pd_rd_i=B0813WM3YZ&pd_rd_i=B0813WM3YZ&ref_=sbx_be_s_sparkle_ssd_cta&pd_rd_w=S9nDx&content-id=amzn1.sym.fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=EJ8C8RZ9M79J5HAREA32&pd_rd_wg=nptCs&pd_rd_r=a4f4ecf6-b14b-40d3-b943-736f88d22bf5",
+        "link_clean": "https://www.amazon.com/dp/B0813WM3YZ/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0813WM3YZ&device=tablet&engine=amazon_product&language=en_US&shipping_location=US",
+        "thumbnail": "https://m.media-amazon.com/images/I/61DHv1CB2RL._AC_SR100,100_QL65_.jpg",
+        "video": {
+          "link": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/2820a952-8c80-4e30-9298-86c1ca465e70.mp4/productVideoOptimized.mp4",
+          "thumbnail": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/2820a952-8c80-4e30-9298-86c1ca465e70.mp4/r/THUMBNAIL_360P_FRAME_3_CAPTURE_2.JPG"
+        },
+        "rating": 4.4,
+        "reviews": 1614,
+        "price": "$39.97",
+        "extracted_price": 39.97
+      },
+      {
+        "position": 5,
+        "asin": "B0FD49S5C1",
+        "title": "Nuts.com Organic Dried Fruit & Nuts Gift Box - Gourmet Variety Assortment | Includes organic cashews, almonds, walnuts, raisins & trail mix - a gourmet assortment perfect for gift-giving.",
+        "link": "https://aax-us-east-retail-direct.amazon.com/x/c/JDD9RXppSnNGkPibv0YPgcwAAAGhZGf17wEAAAH2AQBvbm9fdHhuX2JpZDQgICBvbm9fdHhuX2ltcDEgICA3pSss/clv1c_ek-wBfv3VcbW3jI2m8VSJvBwCvKxcAcY_x5o_rfeyCE3uyS-MJNO9a59xVgfFJ4cbxFQr4yKU-ogsWB8skHtbt2eIwkOI_WjNXwAP7KAgEAu6p36qCXbNsJmcph1qkQ9TzfaHZ2wqAt5GXyVwRpizUQQoNiE1tXujuzG_XOSjCYdVG1xhtnPM6aV5ZHzPY-pW2mavHHdHgzqyfyNrpjBdwdSr_W_hMwUVp1aBos32bOha7nT6KeDBl3QPY1Hw6RPtNrDYR7hsymcyId6y-pzWCCzjbmTvzdzo_BzFiFADwuEaaKz6rFY9n7ZSPAK4bdkI4latWcqd7FxR8KEOzdGOJWuYfLL3ApEpTM5-W1FOdf8yuNW0MZiuYNEV5SEv-CYOk9vS3w9950PwxBxzYr5N8OE6hgLMtFD29Hd9IhenAeAE9ZTJvthevIKc83GrwhFcPJnOIo-_OZ1E4FVDv0jEG-z3vX702laKJ0DI4N8h_ltniwnnvpRZYkDyUiKlsUq0NGJwURGHJfqRBWswXJOSsrV575hW2sXKNLaLK3sCszEukMAXRz7mTHe-a9RJn04SdMh5pHZ44kjps9bzMffrCw_UGqMgj0EPn4sB5vXN-UgtMufXYR1G507_FxQGNUFCoE-VpxY3KK7bCZDl-P-GV69Ps6RydUpr6UxHcqF5JtEgsZXNwAg5QBZ6-WT9o1WaKR3rBAMa8-r1TDUT6YWcAuWlQqi87xO_9bKHve8ITEy7FW3Gm6UwfENXSNunnVWZbtYoFl2sQbphFpMQZ1_yHK7Bbe_CxQMSKK1neYTKk249eBrWtNzsKWvXYrH8mYq_yNHKe4acZPjYMJVHEDIOZbZPLYGWgYUrubVAk_rCAbwKSQWnK2lG49uCTAl8PxYxNPL78FgPJ85YCaFEBxl3W3vAkQTGbDphMGoNXcEUM4pbjs0dumNs9MPAzrnLfda6qxl2iKi9mTCXWW6qQTChpjK23OPMSIQD_E3PscaicwZq8SzQWvHT5fFYwHNf4WocTIHFPkV0eUBv9NaSMCRjU_fQ_9RnwGyOOaZgwfU_hIIV4ZdHP0v4CzbcQtWINTUCGIJBvgQPCcEwxqQXASdt64syIzCHQUDbTQTBVgmzQqkl634eNkYxWFuG2PM1G5Jed-OFL2XM-P9JiPorcI7KfEUzdSznCR5OU2cvAcZ5mekUoDPM5D_xcprSp8uYJ3bvqIgzuL6OWyBJrtuCT9g2fk2yVcGjIytQEpbyzf10CqbgwEFyJuJ_qAFii3cVHN1NJCsC9PzrNOaRqDvuJUEiXYzhSzyL4vwZCUKikKnoSQp--MOdL2Z5hILiCW7U-RZzmaNdTFH0VSyfXPv7Tmd0RNwz5I6GO6C5xPz1BDeSbhTTJACnAGaQnl8lm1GjZHJI_0sJVFT2zW6775SBYrokyqJ28lbEcbzQBQv8Opi4Ue7IZdbyANif3duJzxRlEyxsWWbqbW6PDsKFMeQNrvqC4bglUGW6HrPqEHU6MxMriv2X_YknzG9Nf_nQgu8XRlQX2AKCKPDlkgu8Baq6kefQvwmaI0hYZtW_KGpuCulf8BTg9oPYZP02vAp9KynF42Lw2eH0A-ckGm9tw/https://www.amazon.com/dp/B0FD49S5C1/?_encoding=UTF8&pd_rd_i=B0FD49S5C1&pd_rd_i=B0FD49S5C1&ref_=sbx_be_s_sparkle_ssd_cta&pd_rd_w=S9nDx&content-id=amzn1.sym.fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=EJ8C8RZ9M79J5HAREA32&pd_rd_wg=nptCs&pd_rd_r=a4f4ecf6-b14b-40d3-b943-736f88d22bf5",
+        "link_clean": "https://www.amazon.com/dp/B0FD49S5C1/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0FD49S5C1&device=tablet&engine=amazon_product&language=en_US&shipping_location=US",
+        "thumbnail": "https://m.media-amazon.com/images/I/41H2NfFzgnL._AC_SR100,100_QL65_.jpg",
+        "video": {
+          "link": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/211cd841-ddd9-4e98-b3f3-8475171ee012.mp4/productVideoOptimized.mp4",
+          "thumbnail": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/211cd841-ddd9-4e98-b3f3-8475171ee012.mp4/r/THUMBNAIL_360P_FRAME_3_CAPTURE_2.JPG"
+        },
+        "rating": 4.6,
+        "reviews": 102,
+        "price": "$29.99",
+        "extracted_price": 29.99
+      }
+    ],
+    "reviews_information": {
+      "summary": {
+        "text": "Customers find the nut basket beautiful and appreciate its variety of flavors, making it a great gift choice, particularly for Christmas and Father's Day. The quality and taste receive positive feedback, with one customer describing them as delicious. While some customers consider it worth the money, others feel it's not worth the price, and there are mixed opinions about the nutritional content, with some noting there aren't many nuts in the container. Customers express disappointment about the size, finding it much smaller than expected.",
+        "insights": [
+          {
+            "title": "Quality",
+            "sentiment": "positive",
+            "mentions": {
+              "total": 772,
+              "positive": 616,
+              "negative": 156
+            },
+            "summary": "Customers find the nut basket to be of excellent quality, with multiple customers mentioning that both husbands and mothers loved it.",
+            "examples": [
+              {
+                "position": 1,
+                "snippet": "My dad said it was great and he ate it really fast. I know my dad likes peanuts and nuts as a snack and he really enjoyed this little gift.",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R3O7KGPABD37SW"
+              },
+              {
+                "position": 2,
+                "snippet": "...I sent them as there was a death in the family and it was good and easy to put out. The nuts also are nutritious.",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/RVA9RCFJA88R7"
+              },
+              {
+                "position": 3,
+                "snippet": "This was given as a gift. The recipient said they were very good. I had put a message on them and it was not included",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R3047EYKSO1702"
+              },
+              {
+                "position": 4,
+                "snippet": "Disappointed in the small little tray of nuts. I didn receive a very nice larger tray like this one year and I guess I expected it to be the same....",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R67QA7WEH0MTB"
+              }
+            ]
+          },
+          {
+            "title": "Taste",
+            "sentiment": "positive",
+            "mentions": {
+              "total": 526,
+              "positive": 425,
+              "negative": 101
+            },
+            "summary": "Customers enjoy the taste of these gourmet nuts, describing them as delicious with new flavors, and one customer notes they are crisp.",
+            "examples": [
+              {
+                "position": 1,
+                "snippet": "Delicious! My husband loves them. I don’t know who ate the most—him or the rest of us in the family. This was one of his Father’s Day gifts.",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R2D2EXSW97COJ2"
+              },
+              {
+                "position": 2,
+                "snippet": "Nuts were fresh, tasty and for once the box wasn't crushed in transit. I did notice that the portions seem to be getting smaller but not the price....",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R2KW6NEJ4F9MXZ"
+              },
+              {
+                "position": 3,
+                "snippet": "Very tasty. There were a few nuts on the top and crumbs at the bottom. I had a problem with one of my boxes and this company made it right....",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R1S1BTACW6MPU8"
+              },
+              {
+                "position": 4,
+                "snippet": "Such a nice assortment of nuts, all so fresh and yummy. The company has a very good satisfaction guarantee so you can’t go wrong in trying....",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R16YZRXYDMHBJS"
+              }
+            ]
+          },
+          {
+            "title": "Gift",
+            "sentiment": "positive",
+            "mentions": {
+              "total": 432,
+              "positive": 417,
+              "negative": 15
+            },
+            "summary": "Customers find the nut basket makes a great gift, particularly for Christmas and Father's Day, and one customer mentions it was perfect for holiday snacking.",
+            "examples": [
+              {
+                "position": 1,
+                "snippet": "...Everything was good. Not the best ever had but tasty. Great value, great gift for that person who doesn’t want or need candy or any nick nack to out...",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R12O9EYPLEQ7A0"
+              },
+              {
+                "position": 2,
+                "snippet": "Packaged well, as described. Nice gift person I gave it to loved it",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R87U4DEVM1PIS"
+              },
+              {
+                "position": 3,
+                "snippet": "This tray of delicious nuts, were the perfect gift for my brother in law, who went through knee replacement. Nice snack for him....",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R1JUBPAHVZ7LYV"
+              },
+              {
+                "position": 4,
+                "snippet": "Good gift",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R2RKTMRBILJQG1"
+              }
+            ]
+          },
+          {
+            "title": "Variety",
+            "sentiment": "positive",
+            "mentions": {
+              "total": 253,
+              "positive": 246,
+              "negative": 7
+            },
+            "summary": "Customers are satisfied with the variety of nuts in the basket, appreciating the great selection and assortment of flavors.",
+            "examples": [
+              {
+                "position": 1,
+                "snippet": "I gifted this to my future in-laws and they loved it! Great variety and it looks just like the online picture, came in just in time....",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R3IJOZHBF8REFD"
+              },
+              {
+                "position": 2,
+                "snippet": "Great gift and pretty tasty too with nice variety. Came quickly and was in perfect condition with no tears or anything....",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R336G20R45WRGE"
+              },
+              {
+                "position": 3,
+                "snippet": "Father’s Day gift. Well received from a picky man. Good variety and fresh.",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/RWUROSHXSYHSN"
+              },
+              {
+                "position": 4,
+                "snippet": "This was a great assortment. I had bought it for my husband for Valentine's Day, and he thoroughly enjoyed it....",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/RG6MTY6HHEQPJ"
+              }
+            ]
+          },
+          {
+            "title": "Appearance",
+            "sentiment": "positive",
+            "mentions": {
+              "total": 109,
+              "positive": 79,
+              "negative": 30
+            },
+            "summary": "Customers appreciate the appearance of the nut basket, describing it as beautiful and nice-looking, with one customer noting that it will be appetizing to recipients.",
+            "examples": [
+              {
+                "position": 1,
+                "snippet": "This product is beautiful.",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R1OIFR1HP8OF3C"
+              },
+              {
+                "position": 2,
+                "snippet": "These nuts taste so good and they looked great on my table ready to just dig in and believe me they loved them",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/RZCCOFPXX0LGP"
+              },
+              {
+                "position": 3,
+                "snippet": "Cheap looking. Not impressed",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R2QXO6AQLP04UY"
+              },
+              {
+                "position": 4,
+                "snippet": "looks good so I know it will be good \\",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/RYS4HORJUHFCP"
+              }
+            ]
+          },
+          {
+            "title": "Value for money",
+            "sentiment": "mixed",
+            "mentions": {
+              "total": 337,
+              "positive": 159,
+              "negative": 178
+            },
+            "summary": "Customers have mixed opinions about the value of the nut basket, with some finding it worth the money while others say it's not worth the price, particularly noting the small quantity relative to the cost.",
+            "examples": [
+              {
+                "position": 1,
+                "snippet": "Not worth the money. Not much and wasn’t good! It was a gift and he threw it away after he ate a little of peanuts. Was very disappointed!",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R1Y04DBK74Q4R1"
+              },
+              {
+                "position": 2,
+                "snippet": "Delicious variety. Great price. Definitely suggest for a gift! Would purchase again! High quality!",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/REQXECW2J7DVZ"
+              },
+              {
+                "position": 3,
+                "snippet": "...to my family more tha once without know in that, They were not worth the price and I will never order nuts fron NUt Haven again and possibly Amazon....",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R2Y10G7OSJYI4H"
+              },
+              {
+                "position": 4,
+                "snippet": "Good stuff. Everything was good. Not the best ever had but tasty. Great value, great gift for that person who doesn’t want or need candy or any nick...",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R12O9EYPLEQ7A0"
+              }
+            ]
+          },
+          {
+            "title": "Nutritional content",
+            "sentiment": "mixed",
+            "mentions": {
+              "total": 198,
+              "positive": 105,
+              "negative": 93
+            },
+            "summary": "Customers have mixed opinions about the nutritional content of the nut basket, with some loving them while others express disappointment, particularly noting that there are barely any nuts in the container.",
+            "examples": [
+              {
+                "position": 1,
+                "snippet": "Great nuts! Tastes good and the packaging is great to keep nuts fresh. Used these for Thanksgiving party and still eating on them a week later....",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R8ARYMQ5TET6X"
+              },
+              {
+                "position": 2,
+                "snippet": "Nuts!!",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R15VQQ93GK1EYE"
+              },
+              {
+                "position": 3,
+                "snippet": "...I just think its a little bit expensive but overall good nuts",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R38WC61Y85EV0V"
+              },
+              {
+                "position": 4,
+                "snippet": "Nutty",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R1AXULK6VYS0OG"
+              }
+            ]
+          },
+          {
+            "title": "Size",
+            "sentiment": "negative",
+            "mentions": {
+              "total": 125,
+              "positive": 29,
+              "negative": 96
+            },
+            "summary": "Customers are disappointed with the size of the nut basket, finding it much smaller than expected and not worth the price.",
+            "examples": [
+              {
+                "position": 1,
+                "snippet": "Doesn't look like the picture. Small and not tu much product like the pic.",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R2DGGFANE56UK5"
+              },
+              {
+                "position": 2,
+                "snippet": "...Bait and switch vibes. Smaller than expected, seemed old...",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/RNVXYSNG6HRTY"
+              },
+              {
+                "position": 3,
+                "snippet": "Smaller portions than expected and or realized from advertising.",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R39WS1QR75H8I"
+              },
+              {
+                "position": 4,
+                "snippet": "Love all the nuts and a good size and the quality is good will buy again",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R391MX2A8X58HE"
+              }
+            ]
+          }
+        ],
+        "images": [
+          "https://m.media-amazon.com/images/I/61FxrApakpL.jpg",
+          "https://m.media-amazon.com/images/I/81G3Zs3XPfL.jpg",
+          "https://m.media-amazon.com/images/I/71idgj9zuQL.jpg",
+          "https://m.media-amazon.com/images/I/71+l8V-ixAL.jpg",
+          "https://m.media-amazon.com/images/I/71hjFK37MaL.jpg",
+          "https://m.media-amazon.com/images/I/71M6Y16rQ1L.jpg",
+          "https://m.media-amazon.com/images/I/71lYrs-TUlL.jpg",
+          "https://m.media-amazon.com/images/I/71VE96Foe5L.jpg",
+          "https://m.media-amazon.com/images/I/71tsUd-67KL.jpg",
+          "https://m.media-amazon.com/images/I/81Ru+WkSmbL.jpg",
+          "https://m.media-amazon.com/images/I/61CL-lsA20L.jpg",
+          "https://m.media-amazon.com/images/I/71bCGe2goYL.jpg"
+        ],
+        "customer_reviews": {
+          "5 star": 78,
+          "4 star": 10,
+          "3 star": 6,
+          "2 star": 2,
+          "1 star": 4
+        }
+      },
+      "authors_reviews": [
+        {
+          "position": 1,
+          "title": "Fantastic holiday variety, incredibly fresh, and an absolute hit with the family!",
+          "text": "I purchased these Holiday Nuts Gift Baskets as Christmas presents for several of my relatives, and they were a massive success. Every single family member called to let me know how much they absolutely loved the gift and raved about the excellent, high-quality variety inside the arrangement. The selection strikes the perfect culinary balance, offering a premium assortment of savory roasted favorites and beautifully glazed sweet treats that keep everyone happily snacking throughout the holiday gatherings.The overall presentation is exceptionally polished, arriving in a beautiful, gift-ready layout that feels immediately festive and premium right out of the shipping box. Each type of nut tastes remarkably fresh, crisp, and perfectly seasoned, completely avoiding the stale or overly salted texture you often find in standard holiday food tins. The individual sections keep the flavors perfectly separated and secure during transit, making it a reliable, stress-free gift choice. For anyone looking for a high-quality, universally enjoyed holiday treat to send to loved ones, this assortment is an outstanding five-star value.",
+          "rating": 5.0,
+          "date": "August 9, 2026",
+          "author": "Mike",
+          "author_link": "https://www.amazon.com/gp/profile/amzn1.account.AFW4BL6CE6RBLLKGAAMVIUOOTPAQ?ref=cm_cr_dp_d_bdcrb_top",
+          "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SX48_.png",
+          "helpful_votes": "2 people found this helpful",
+          "verified_purchase": true,
+          "product": {
+            "style": "A. Large Nuts Gift Basket - Brown"
+          }
+        },
+        {
+          "position": 2,
+          "title": "Must try!",
+          "text": "Thoroughly enjoyed each one!",
+          "rating": 5.0,
+          "date": "October 6, 2026",
+          "author": "Lisa",
+          "author_link": "https://www.amazon.com/gp/profile/amzn1.account.AGJAF5TYFKPHXJFDBLVMTD5ACJ6A?ref=cm_cr_dp_d_bdcrb_top",
+          "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SX48_.png",
+          "verified_purchase": true,
+          "product": {
+            "style": "A. Large Nuts Gift Basket - Brown"
+          }
+        },
+        {
+          "position": 3,
+          "title": "Great gift",
+          "text": "Great gift. Tastes great",
+          "rating": 5.0,
+          "date": "October 18, 2026",
+          "author": "Amazon Customer",
+          "author_link": "https://www.amazon.com/gp/profile/amzn1.account.AEMKOLBJV4VAWDFORPF52Y4KHFAA?ref=cm_cr_dp_d_bdcrb_top",
+          "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SX48_.png",
+          "verified_purchase": true,
+          "product": {
+            "style": "A. Large Nuts Gift Basket - Brown"
+          }
+        },
+        {
+          "position": 4,
+          "title": "Good Assortment",
+          "text": "Very Good",
+          "rating": 5.0,
+          "date": "October 9, 2026",
+          "author": "Catherine",
+          "author_link": "https://www.amazon.com/gp/profile/amzn1.account.AFCINWVSAZXF5CCEKFDP3ZBPX3RQ?ref=cm_cr_dp_d_bdcrb_top",
+          "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SX48_.png",
+          "verified_purchase": true,
+          "product": {
+            "style": "A. Large Nuts Gift Basket - Brown"
+          }
+        },
+        {
+          "position": 5,
+          "title": "Perfect Valentines gift",
+          "text": "Got this for my wife for Valentines day - her first name is Bonnie and she calls me pops a lot so the name on the box was PRICELESS! She absolutely will keep the lovely tin box and she tells me the candies were really yummy! She very much liked that each one was individually wrapped. I think that helps keep the flavors separate. I would recommend this to anyone. One critique in the description it would be nice to put the weight of the product in the copy some place.",
+          "rating": 4.0,
+          "date": "May 3, 2026",
+          "author": "Kindle Customer",
+          "author_link": "https://www.amazon.com/gp/profile/amzn1.account.AHBDBNMVKHHVC3UXSCOENSPCXSIQ?ref=cm_cr_dp_d_bdcrb_top",
+          "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SX48_.png",
+          "helpful_votes": "3 people found this helpful",
+          "verified_purchase": true,
+          "product": {
+            "style": "A. Large Nuts Gift Basket - Brown"
+          }
+        },
+        {
+          "position": 6,
+          "title": "Really fresh and good tasting nuts",
+          "text": "Loved by the recipients of this gift. Nuts were so fresh and a really good selection. Would buy again.",
+          "rating": 5.0,
+          "date": "September 7, 2026",
+          "author": "Babs",
+          "author_link": "https://www.amazon.com/gp/profile/amzn1.account.AFJIY6TPDWTZRGAEAJKN4Y7NADGQ?ref=cm_cr_dp_d_bdcrb_top",
+          "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SX48_.png",
+          "verified_purchase": true,
+          "product": {
+            "style": "A. Large Nuts Gift Basket - Brown"
+          }
+        },
+        {
+          "position": 7,
+          "title": "Really good",
+          "text": "I gave as a gift and my sister and brother in law said the nuts were really good .",
+          "rating": 5.0,
+          "date": "September 19, 2026",
+          "author": "Kevin",
+          "author_link": "https://www.amazon.com/gp/profile/amzn1.account.AELUNVZAW644ONB4AN2A53XFNGLQ?ref=cm_cr_dp_d_bdcrb_top",
+          "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SX48_.png",
+          "verified_purchase": true,
+          "product": {
+            "style": "A. Large Nuts Gift Basket - Brown"
+          }
+        },
+        {
+          "position": 8,
+          "title": "Ok, but not going to buy again.",
+          "text": "Most of the coating on the nuts were off the nuts 😢 tasted good. Wouldn’t buy again though.",
+          "rating": 3.0,
+          "date": "July 15, 2026",
+          "author": "Tina Chong",
+          "author_link": "https://www.amazon.com/gp/profile/amzn1.account.AGGHH66QW4E4HIWEQAXJFLEFA3TA?ref=cm_cr_dp_d_bdcrb_top",
+          "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SX48_.png",
+          "helpful_votes": "2 people found this helpful",
+          "verified_purchase": true,
+          "product": {
+            "style": "A. Large Nuts Gift Basket - Brown"
+          }
+        }
+      ],
+      "other_countries_reviews": [
+        {
+          "position": 1,
+          "title": "No lo recomiendo",
+          "text": "Demasiado caro para lo que es",
+          "rating": 1.0,
+          "date": "April 7, 2026",
+          "author": "Carlos",
+          "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SX48_.png",
+          "verified_purchase": true,
+          "product": {
+            "style": "A. Large Nuts Gift Basket - Brown"
+          },
+          "country": {
+            "code": "MX",
+            "name": "Mexico"
+          },
+          "language": {
+            "code": "es",
+            "name": "Spanish (Mexico)"
+          }
+        }
+      ]
+    }
+  }
+}

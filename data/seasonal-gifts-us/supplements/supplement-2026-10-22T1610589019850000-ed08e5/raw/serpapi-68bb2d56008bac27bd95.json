@@ -1,0 +1,1495 @@
+{
+  "provider": "serpapi",
+  "endpoint": "https://serpapi.com/search.json",
+  "parameters": {
+    "engine": "amazon_product",
+    "asin": "B0B7X15D9B",
+    "amazon_domain": "amazon.com",
+    "language": "en_US",
+    "shipping_location": "US",
+    "device": "tablet",
+    "output": "json"
+  },
+  "fetched_at_utc": "2026-10-22T16:13:47.982327+00:00",
+  "raw_file": "supplements/supplement-2026-10-22T1610589019850000-ed08e5/raw/serpapi-68bb2d56008bac27bd95.json",
+  "response": {
+    "search_metadata": {
+      "id": "6ada363c6771801a0fff3597",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/GDyZbdwaCmZbmHGfjh8Ouzu7MPhHy_NmW2mtZL6JPmM/6ada363c6771801a0fff3597.json",
+      "markdown_endpoint": "https://serpapi.com/searches/GDyZbdwaCmZbmHGfjh8Ouzu7MPhHy_NmW2mtZL6JPmM/6ada363c6771801a0fff3597.md",
+      "created_at": "2026-10-22 16:13:48 UTC",
+      "processed_at": "2026-10-22 16:13:48 UTC",
+      "amazon_product_url": "https://www.amazon.com/dp/B0B7X15D9B/?language=en_US",
+      "raw_html_file": "https://serpapi.com/searches/GDyZbdwaCmZbmHGfjh8Ouzu7MPhHy_NmW2mtZL6JPmM/6ada363c6771801a0fff3597.html",
+      "total_time_taken": 9.15
+    },
+    "search_parameters": {
+      "engine": "amazon_product",
+      "asin": "B0B7X15D9B",
+      "amazon_domain": "amazon.com",
+      "language": "en_US",
+      "device": "tablet",
+      "shipping_location": "US"
+    },
+    "product_results": {
+      "categories": [
+        {
+          "position": 1,
+          "name": "Tools & Home Improvement",
+          "link": "https://www.amazon.com/Tools-and-Home-Improvement/b/ref=dp_bc_1?ie=UTF8&node=228013",
+          "node": "228013",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=tablet&engine=amazon&language=en_US&node=228013&shipping_location=US"
+        },
+        {
+          "position": 2,
+          "name": "Lighting & Ceiling Fans",
+          "link": "https://www.amazon.com/lighting-ceiling-fans/b/ref=dp_bc_2?ie=UTF8&node=495224",
+          "node": "495224",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=tablet&engine=amazon&language=en_US&node=495224&shipping_location=US"
+        },
+        {
+          "position": 3,
+          "name": "Outdoor Lighting",
+          "link": "https://www.amazon.com/outdoor-lighting/b/ref=dp_bc_3?ie=UTF8&node=495236",
+          "node": "495236",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=tablet&engine=amazon&language=en_US&node=495236&shipping_location=US"
+        },
+        {
+          "position": 4,
+          "name": "String Lights",
+          "link": "https://www.amazon.com/string-lights/b/ref=dp_bc_4?ie=UTF8&node=3742221",
+          "node": "3742221",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=tablet&engine=amazon&language=en_US&node=3742221&shipping_location=US"
+        }
+      ],
+      "asin": "B0B7X15D9B",
+      "title": "Dazzle Bright Color Changing Fairy Lights Battery Operated, 2 Pack Total 40FT 120LED Silver Copper Wire RGB String Lights with Remote, Waterproof Halloween Decorations for Indoor Outdoor Party Decor",
+      "link": "https://www.amazon.com/Dazzle-Bright-Waterproof-Christmas-Decorations/dp/B0B7X15D9B/",
+      "link_clean": "https://www.amazon.com/dp/B0B7X15D9B/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0B7X15D9B&device=tablet&engine=amazon_product&language=en_US&shipping_location=US",
+      "badges": [
+        "Amazon's Choice"
+      ],
+      "variants": [
+        {
+          "title": "Color",
+          "items": [
+            {
+              "position": 1,
+              "asin": "B0B7X15D9B",
+              "name": "RGB Color Changing",
+              "image": "https://m.media-amazon.com/images/I/51xIYzw09AL._SS64_.jpg",
+              "selected": true,
+              "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0B7X15D9B&device=tablet&engine=amazon_product&language=en_US&shipping_location=US"
+            },
+            {
+              "position": 2,
+              "asin": "B09WZX46X6",
+              "name": "Orange",
+              "image": "https://m.media-amazon.com/images/I/61ec89eK2DL._SS64_.jpg",
+              "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B09WZX46X6&device=tablet&engine=amazon_product&language=en_US&shipping_location=US"
+            },
+            {
+              "position": 3,
+              "asin": "B09WZYP19G",
+              "name": "Green",
+              "image": "https://m.media-amazon.com/images/I/51uOLXlDuwL._SS64_.jpg",
+              "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B09WZYP19G&device=tablet&engine=amazon_product&language=en_US&shipping_location=US"
+            },
+            {
+              "position": 4,
+              "asin": "B09WZXVS6C",
+              "name": "White",
+              "image": "https://m.media-amazon.com/images/I/51LsZ8CY6EL._SS64_.jpg",
+              "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B09WZXVS6C&device=tablet&engine=amazon_product&language=en_US&shipping_location=US"
+            },
+            {
+              "position": 5,
+              "asin": "B09WZWZYWT",
+              "name": "purple and orange",
+              "image": "https://m.media-amazon.com/images/I/61D-wEZWgXL._SS64_.jpg",
+              "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B09WZWZYWT&device=tablet&engine=amazon_product&language=en_US&shipping_location=US"
+            },
+            {
+              "position": 6,
+              "asin": "B09WZXJN69",
+              "name": "Purple",
+              "image": "https://m.media-amazon.com/images/I/61YeDKDYo7L._SS64_.jpg",
+              "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B09WZXJN69&device=tablet&engine=amazon_product&language=en_US&shipping_location=US"
+            },
+            {
+              "position": 7,
+              "asin": "B09WZX75T8",
+              "name": "Red",
+              "image": "https://m.media-amazon.com/images/I/61z3iF+IL8L._SS64_.jpg",
+              "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B09WZX75T8&device=tablet&engine=amazon_product&language=en_US&shipping_location=US"
+            },
+            {
+              "position": 8,
+              "asin": "B09WZY6XBD",
+              "name": "Warm White",
+              "image": "https://m.media-amazon.com/images/I/51jS4TuNRPL._SS64_.jpg",
+              "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B09WZY6XBD&device=tablet&engine=amazon_product&language=en_US&shipping_location=US"
+            },
+            {
+              "position": 9,
+              "asin": "B09WZZD3TY",
+              "name": "Multicolor",
+              "image": "https://m.media-amazon.com/images/I/61iUdrUNWQL._SS64_.jpg",
+              "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B09WZZD3TY&device=tablet&engine=amazon_product&language=en_US&shipping_location=US"
+            }
+          ]
+        },
+        {
+          "title": "Item Package Quantity",
+          "items": [
+            {
+              "position": 1,
+              "asin": "B09WZY6VDK",
+              "name": "1",
+              "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B09WZY6VDK&device=tablet&engine=amazon_product&language=en_US&shipping_location=US"
+            },
+            {
+              "position": 2,
+              "asin": "B0B7X15D9B",
+              "name": "2",
+              "selected": true,
+              "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0B7X15D9B&device=tablet&engine=amazon_product&language=en_US&shipping_location=US"
+            },
+            {
+              "position": 3,
+              "asin": "B09WZY6XBD",
+              "name": "4",
+              "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B09WZY6XBD&device=tablet&engine=amazon_product&language=en_US&shipping_location=US"
+            }
+          ]
+        }
+      ],
+      "variant_combinations": [
+        {
+          "dimensions": {
+            "color": "Red",
+            "item_package_quantity": "1"
+          },
+          "asin": "B09WZX75T8",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B09WZX75T8&device=tablet&engine=amazon_product&language=en_US&shipping_location=US"
+        },
+        {
+          "dimensions": {
+            "color": "Red",
+            "item_package_quantity": "2"
+          },
+          "unavailable": true
+        },
+        {
+          "dimensions": {
+            "color": "Red",
+            "item_package_quantity": "4"
+          },
+          "unavailable": true
+        },
+        {
+          "dimensions": {
+            "color": "Warm White",
+            "item_package_quantity": "1"
+          },
+          "unavailable": true
+        },
+        {
+          "dimensions": {
+            "color": "Warm White",
+            "item_package_quantity": "2"
+          },
+          "unavailable": true
+        },
+        {
+          "dimensions": {
+            "color": "Warm White",
+            "item_package_quantity": "4"
+          },
+          "asin": "B09WZY6XBD",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B09WZY6XBD&device=tablet&engine=amazon_product&language=en_US&shipping_location=US"
+        },
+        {
+          "dimensions": {
+            "color": "Multicolor",
+            "item_package_quantity": "1"
+          },
+          "unavailable": true
+        },
+        {
+          "dimensions": {
+            "color": "Multicolor",
+            "item_package_quantity": "2"
+          },
+          "unavailable": true
+        },
+        {
+          "dimensions": {
+            "color": "Multicolor",
+            "item_package_quantity": "4"
+          },
+          "asin": "B09WZZD3TY",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B09WZZD3TY&device=tablet&engine=amazon_product&language=en_US&shipping_location=US"
+        },
+        {
+          "dimensions": {
+            "color": "White",
+            "item_package_quantity": "1"
+          },
+          "asin": "B09WZXRLPD",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B09WZXRLPD&device=tablet&engine=amazon_product&language=en_US&shipping_location=US"
+        },
+        {
+          "dimensions": {
+            "color": "White",
+            "item_package_quantity": "2"
+          },
+          "asin": "B09WZXVS6C",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B09WZXVS6C&device=tablet&engine=amazon_product&language=en_US&shipping_location=US"
+        },
+        {
+          "dimensions": {
+            "color": "White",
+            "item_package_quantity": "4"
+          },
+          "unavailable": true
+        },
+        {
+          "dimensions": {
+            "color": "Orange",
+            "item_package_quantity": "1"
+          },
+          "asin": "B09WZXVMQX",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B09WZXVMQX&device=tablet&engine=amazon_product&language=en_US&shipping_location=US"
+        },
+        {
+          "dimensions": {
+            "color": "Orange",
+            "item_package_quantity": "2"
+          },
+          "asin": "B09WZX46X6",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B09WZX46X6&device=tablet&engine=amazon_product&language=en_US&shipping_location=US"
+        },
+        {
+          "dimensions": {
+            "color": "Orange",
+            "item_package_quantity": "4"
+          },
+          "asin": "B09WZY6JMR",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B09WZY6JMR&device=tablet&engine=amazon_product&language=en_US&shipping_location=US"
+        },
+        {
+          "dimensions": {
+            "color": "purple and orange",
+            "item_package_quantity": "1"
+          },
+          "asin": "B09WZZ9L4P",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B09WZZ9L4P&device=tablet&engine=amazon_product&language=en_US&shipping_location=US"
+        },
+        {
+          "dimensions": {
+            "color": "purple and orange",
+            "item_package_quantity": "2"
+          },
+          "asin": "B09WZWZYWT",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B09WZWZYWT&device=tablet&engine=amazon_product&language=en_US&shipping_location=US"
+        },
+        {
+          "dimensions": {
+            "color": "purple and orange",
+            "item_package_quantity": "4"
+          },
+          "asin": "B09WZW5WBB",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B09WZW5WBB&device=tablet&engine=amazon_product&language=en_US&shipping_location=US"
+        },
+        {
+          "dimensions": {
+            "color": "Green",
+            "item_package_quantity": "1"
+          },
+          "asin": "B09WZX93YK",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B09WZX93YK&device=tablet&engine=amazon_product&language=en_US&shipping_location=US"
+        },
+        {
+          "dimensions": {
+            "color": "Green",
+            "item_package_quantity": "2"
+          },
+          "asin": "B09WZYP19G",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B09WZYP19G&device=tablet&engine=amazon_product&language=en_US&shipping_location=US"
+        },
+        {
+          "dimensions": {
+            "color": "Green",
+            "item_package_quantity": "4"
+          },
+          "asin": "B09WZYKKXC",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B09WZYKKXC&device=tablet&engine=amazon_product&language=en_US&shipping_location=US"
+        },
+        {
+          "dimensions": {
+            "color": "Purple",
+            "item_package_quantity": "1"
+          },
+          "asin": "B09WZY6VDK",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B09WZY6VDK&device=tablet&engine=amazon_product&language=en_US&shipping_location=US"
+        },
+        {
+          "dimensions": {
+            "color": "Purple",
+            "item_package_quantity": "2"
+          },
+          "asin": "B09WZXJN69",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B09WZXJN69&device=tablet&engine=amazon_product&language=en_US&shipping_location=US"
+        },
+        {
+          "dimensions": {
+            "color": "Purple",
+            "item_package_quantity": "4"
+          },
+          "asin": "B09WZXSVR5",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B09WZXSVR5&device=tablet&engine=amazon_product&language=en_US&shipping_location=US"
+        },
+        {
+          "dimensions": {
+            "color": "RGB Color Changing",
+            "item_package_quantity": "1"
+          },
+          "unavailable": true
+        },
+        {
+          "dimensions": {
+            "color": "RGB Color Changing",
+            "item_package_quantity": "2"
+          },
+          "asin": "B0B7X15D9B",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0B7X15D9B&device=tablet&engine=amazon_product&language=en_US&shipping_location=US"
+        },
+        {
+          "dimensions": {
+            "color": "RGB Color Changing",
+            "item_package_quantity": "4"
+          },
+          "unavailable": true
+        }
+      ],
+      "brand": "Visit the Dazzle Bright Store",
+      "thumbnail": "https://m.media-amazon.com/images/I/91Rkx2dD57L._AC_SY300_SX300_QL70_FMwebp_.jpg",
+      "thumbnails": [
+        "https://m.media-amazon.com/images/I/91Rkx2dD57L._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81FsrsJ+yNL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81VcRXDC7gL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/819J+zeLwaL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/816yUAtjlAL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/91bqXBRZ2RL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/91N80VVNl1L._AC_SL1500_.jpg"
+      ],
+      "rating": 4.2,
+      "reviews": 7659,
+      "bought_last_month": "8K+ bought in past month",
+      "price": "$16.99",
+      "extracted_price": 16.99,
+      "price_unit": "$8.50 / count",
+      "extracted_price_unit": 8.5,
+      "delivery": [
+        "FREE delivery Wednesday, October 28 on orders shipped by Amazon over $35. Order within 12 hrs 46 mins",
+        "Arrives 3 days before Halloween"
+      ],
+      "stock": "In Stock"
+    },
+    "purchase_options": {
+      "single_offer": {
+        "price": "$16.99",
+        "extracted_price": 16.99,
+        "price_unit": "$8.50 / count",
+        "extracted_price_unit": 8.5,
+        "delivery": [
+          "FREE delivery Wednesday, October 28 on orders shipped by Amazon over $35. Order within 12 hrs 46 mins",
+          "Arrives 3 days before Halloween"
+        ],
+        "stock": "In Stock",
+        "features": {
+          "ships_from": {
+            "text": "Amazon",
+            "details": {
+              "heading": "Ships from",
+              "content": "Amazon"
+            }
+          },
+          "sold_by": {
+            "text": "YiYuan LLC",
+            "details": {
+              "heading": "Sold by",
+              "content": "YiYuan LLC"
+            },
+            "link": {
+              "text": "YiYuan LLC",
+              "link": "https://www.amazon.com/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A2LH0D2PAX85Y8&asin=B0B7X15D9B&ref_=dp_merchant_link&isAmazonFulfilled=1"
+            }
+          },
+          "returns": {
+            "text": "FREE 30-day refund/replacement",
+            "details": {
+              "heading": "FREE 30-day refund/replacement"
+            },
+            "link": {
+              "text": "See exceptions",
+              "link": "https://www.amazon.com/gp/help/customer/display.html/?nodeId=GKQNFKFK5CF3C54B"
+            }
+          },
+          "payment": {
+            "text": "Secure transaction",
+            "details": {
+              "heading": "Your transaction is secure",
+              "content": "We work hard to protect your security and privacy. Our payment security system encrypts your information during transmission. We don’t share your credit card details with third-party sellers, and we don’t sell your information to others. Learn more"
+            },
+            "link": {
+              "text": "Learn more",
+              "link": "https://www.amazon.com/gp/help/customer/display.html?nodeId=201909010"
+            }
+          }
+        }
+      }
+    },
+    "item_specifications": {
+      "color": "RGB Color Changing",
+      "brand": "Dazzle Bright",
+      "indoor_outdoor_usage": "Indoor, Outdoor",
+      "special_feature": "Color Changing",
+      "light_source_type": "LED",
+      "power_source": "Battery Powered",
+      "light_color": "RGB",
+      "theme": "Christmas",
+      "occasion": "Christmas",
+      "style": "Modern"
+    },
+    "about_item": [
+      "Light Size: Dazzle Bright fairy lights comes with 60 LED bulbs. Bright lights exude a 360 degrees charming light, add a festival glow to your home. The fairy lights is 20 ft, bulb spacing is 3.7 inch",
+      "Remote Control: The fairy lights can be controlled with 44 key wireless remote. There are 24 different color options and 6 lighting modes (fade, dump, in waves, strobe, twinkle, breathing). It also has 3 timer modes, \"4H\" (4 hours on/20 hours off), \"6H\" (6 hours on/18 hours off), \"8H\" (8 hours on/16 hours off), \"TIMER OFF\", the timer will be canceled. Press \"DIM-\" and \"DIM+\" can adjust brightness. Press \"SPEED-\" and \"SPEED+\" can adjust speed",
+      "Battery Operated & USB: Requires 3 AA batteries for power supply, which consumes little power and can stay bright for a long time without worrying about dimming. Also the lights powered by USB normally, equipped with a USB transfer to adapter. Note: When the battery box and USB are connected , the USB power supply will be used without the battery",
+      "Waterproof: Our lights are IP44 waterproof, can withstand rain, light up well in rainy weather outside, ideal decorative light string for indoor and outdoor. Note: Please keep the USB plug and battery box away from the water",
+      "Widely Application: Creating a winter fairy kingdom belong to you with fairy lights. Perfect for indoor, home, garden, lawn, courtyards, stairs, front door, Christmas tree, fence decorations"
+    ],
+    "bought_together": [
+      {
+        "position": 1,
+        "title": "Dazzle Bright Color Changing Fairy Lights Battery Operated, 2 Pack Total 40FT 120LED Silver Copper Wire RGB String Lights with Remote, Waterproof Halloween Decorations for Indoor Outdoor Party Decor",
+        "link": "https://www.amazon.com/product-reviews/B0B7X15D9B/ref=sspa_dk_detail_sbb_d_sccl_2_cr/132-0629990-4267834?pd_rd_w=opJc4&content-id=amzn1.sym.7154b216-2f41-4765-8779-9a282bdc557c&pf_rd_p=7154b216-2f41-4765-8779-9a282bdc557c&pf_rd_r=MK1KMXCE4TW0T8QZ6M7M&pd_rd_wg=gTK3k&pd_rd_r=7ad66603-6f59-4d42-bd51-135397d270f6&pd_rd_i=B0B7X15D9B",
+        "asin": "B0B7X15D9B",
+        "link_clean": "https://www.amazon.com/product-reviews/B0B7X15D9B/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0B7X15D9B&device=tablet&engine=amazon_product&language=en_US&shipping_location=US",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/91Rkx2dD57L._AC_UL116_SR116,116_.jpg",
+        "rating": 4.2,
+        "reviews": 7659,
+        "price": "$16.99",
+        "extracted_price": 16.99,
+        "price_unit": "$8.50/count",
+        "extracted_price_unit": 8.5,
+        "stock": "In Stock"
+      },
+      {
+        "position": 2,
+        "title": "Dazzle Bright 300 LED Christmas String Lights, 100 FT Connectable Waterproof String Lights Green Wire with 8 Modes, Christmas Decorations for Indoor Outdoor Xmas Party Yard Garden (Multi Colored)",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo4MjE1Nzg3NTE5OTQxODYzOjE3OTI2ODU2MzY6c3BfZGV0YWlsX3RoZW1hdGljOjMwMTU4MzM5NDM0MjAwMjo6MDo6&url=%2FDazzle-Bright-Connectable-Waterproof-Decorations%2Fdp%2FB0995QBK44%3Fpsc%3D1%26pd_rd_w%3DopJc4%26content-id%3Damzn1.sym.7154b216-2f41-4765-8779-9a282bdc557c%26pf_rd_p%3D7154b216-2f41-4765-8779-9a282bdc557c%26pf_rd_r%3DMK1KMXCE4TW0T8QZ6M7M%26pd_rd_wg%3DgTK3k%26pd_rd_r%3D7ad66603-6f59-4d42-bd51-135397d270f6%26ref_%3Dsspa_dk_detail_sbb_img_0%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM%3D",
+        "asin": "B0995QBK44",
+        "link_clean": "https://www.amazon.com/dp/B0995QBK44/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0995QBK44&device=tablet&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/81mxyGPn0pL._AC_UL116_SR116,116_.jpg",
+        "rating": 4.4,
+        "reviews": 8663,
+        "discount": "-43%",
+        "price": "$16.99",
+        "extracted_price": 16.99,
+        "old_price": "$29.99",
+        "extracted_old_price": 29.99,
+        "prime": true,
+        "stock": "In Stock"
+      }
+    ],
+    "related_products": [
+      {
+        "position": 1,
+        "asin": "B0995QBK44",
+        "title": "Dazzle Bright 300 LED Christmas String Lights, 100 FT Connectable Waterproof String Lights Green Wire with 8 Modes, Christmas Decorations for Indoor Outdoor Xmas Party Yard Garden (Multi Colored)",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo3MTEyODYyNTI4MjIzMzc2OjE3OTI2ODU2MzY6c3BfZGV0YWlsX3RoZW1hdGljOjMwMTU4MzM5NDM0MjAwMjo6Ojo&url=%2Fdp%2FB0995QBK44%2Fref%3Dsspa_dk_detail_0%3Fpsc%3D1%26pd_rd_i%3DB0995QBK44%26pd_rd_w%3DdNa3r%26content-id%3Damzn1.sym.4adc092d-0184-45e6-8bd0-773f48fbf8ff%26pf_rd_p%3D4adc092d-0184-45e6-8bd0-773f48fbf8ff%26pf_rd_r%3DMK1KMXCE4TW0T8QZ6M7M%26pd_rd_wg%3DgTK3k%26pd_rd_r%3D7ad66603-6f59-4d42-bd51-135397d270f6%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM",
+        "link_clean": "https://www.amazon.com/dp/B0995QBK44/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0995QBK44&device=tablet&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "thumbnail": "https://m.media-amazon.com/images/I/81mxyGPn0pL._AC_UF480,480_SR480,480_.jpg",
+        "rating": 4.4,
+        "reviews": 8663,
+        "discount": "-43%",
+        "price": "$16.99",
+        "extracted_price": 16.99,
+        "old_price": "null",
+        "climate_pledge_friendly": true
+      },
+      {
+        "position": 2,
+        "asin": "B0GJR1RCMV",
+        "title": "JMEXSUSS Smart RGB Fairy Lights, 33FT 100 LED Color Changing String Lights | USB Lights for Bedroom Christmas Party Wedding Classroom Decor, Copper Wire, APP & Voice Control, Music Sync, Group Control",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo3MTEyODYyNTI4MjIzMzc2OjE3OTI2ODU2MzY6c3BfZGV0YWlsX3RoZW1hdGljOjMwMTM0Mzc4NDYzMTIwMjo6Ojo&url=%2Fdp%2FB0GJR1RCMV%2Fref%3Dsspa_dk_detail_1%3Fpsc%3D1%26pd_rd_i%3DB0GJR1RCMV%26pd_rd_w%3DdNa3r%26content-id%3Damzn1.sym.4adc092d-0184-45e6-8bd0-773f48fbf8ff%26pf_rd_p%3D4adc092d-0184-45e6-8bd0-773f48fbf8ff%26pf_rd_r%3DMK1KMXCE4TW0T8QZ6M7M%26pd_rd_wg%3DgTK3k%26pd_rd_r%3D7ad66603-6f59-4d42-bd51-135397d270f6%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM",
+        "link_clean": "https://www.amazon.com/dp/B0GJR1RCMV/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0GJR1RCMV&device=tablet&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "thumbnail": "https://m.media-amazon.com/images/I/81QDOKp+0xL._AC_UF480,480_SR480,480_.jpg",
+        "rating": 4.3,
+        "reviews": 313,
+        "discount": "-5%",
+        "price": "$16.14",
+        "extracted_price": 16.14,
+        "price_unit": "$0.16 / count",
+        "extracted_price_unit": 0.16,
+        "old_price": "null",
+        "climate_pledge_friendly": true
+      },
+      {
+        "position": 3,
+        "asin": "B094FVBQB1",
+        "title": "Dazzle Bright Christmas Mini String Lights, 60FT 300 Incandescent Green Wire Fairy Lights UL Certified Christmas Decorations for Indoor Outdoor Yard Party Xmas Tree Decor, Warm White",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo3MTEyODYyNTI4MjIzMzc2OjE3OTI2ODU2MzY6c3BfZGV0YWlsX3RoZW1hdGljOjMwMDU1NzA4NTk5NzkwMjo6Ojo&url=%2Fdp%2FB094FVBQB1%2Fref%3Dsspa_dk_detail_2%3Fpsc%3D1%26pd_rd_i%3DB094FVBQB1%26pd_rd_w%3DdNa3r%26content-id%3Damzn1.sym.4adc092d-0184-45e6-8bd0-773f48fbf8ff%26pf_rd_p%3D4adc092d-0184-45e6-8bd0-773f48fbf8ff%26pf_rd_r%3DMK1KMXCE4TW0T8QZ6M7M%26pd_rd_wg%3DgTK3k%26pd_rd_r%3D7ad66603-6f59-4d42-bd51-135397d270f6%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM",
+        "link_clean": "https://www.amazon.com/dp/B094FVBQB1/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B094FVBQB1&device=tablet&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "thumbnail": "https://m.media-amazon.com/images/I/71b0QdNTE5L._AC_UF480,480_SR480,480_.jpg",
+        "rating": 4.4,
+        "reviews": 4016,
+        "price": "$26.99",
+        "extracted_price": 26.99,
+        "price_unit": "$0.41 / feet",
+        "extracted_price_unit": 0.41,
+        "climate_pledge_friendly": true
+      },
+      {
+        "position": 4,
+        "asin": "B0F9P1TCSB",
+        "title": "240LED Smart Color Changing String Lights 92FT Halloween Lights App Remote | Music ...",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo3MTEyODYyNTI4MjIzMzc2OjE3OTI2ODU2MzY6c3BfZGV0YWlsX3RoZW1hdGljOjMwMDk2OTAzNTg4NzcwMjo6Ojo&url=%2Fdp%2FB0F9P1TCSB%2Fref%3Dsspa_dk_detail_3%3Fpsc%3D1%26pd_rd_i%3DB0F9P1TCSB%26pd_rd_w%3DdNa3r%26content-id%3Damzn1.sym.4adc092d-0184-45e6-8bd0-773f48fbf8ff%26pf_rd_p%3D4adc092d-0184-45e6-8bd0-773f48fbf8ff%26pf_rd_r%3DMK1KMXCE4TW0T8QZ6M7M%26pd_rd_wg%3DgTK3k%26pd_rd_r%3D7ad66603-6f59-4d42-bd51-135397d270f6%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM",
+        "link_clean": "https://www.amazon.com/dp/B0F9P1TCSB/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0F9P1TCSB&device=tablet&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "badges": [
+          "Amazon's Choice",
+          "Limited time deal"
+        ],
+        "thumbnail": "https://m.media-amazon.com/images/I/81m-IuGmMWL._AC_UF480,480_SR480,480_.jpg",
+        "rating": 4.4,
+        "reviews": 3242,
+        "discount": "-10%",
+        "price": "$25.99",
+        "extracted_price": 25.99,
+        "old_price": "null"
+      },
+      {
+        "position": 5,
+        "asin": "B0GX96HK7X",
+        "title": "JMEXSUSS 33FT 100 LED Battery Operated Halloween Lights with Remote | Purple and Green Halloween Lights Indoor Outdoor, 8 Modes String Lights for Outside Yard Tree Front Porch Room House",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo3MTEyODYyNTI4MjIzMzc2OjE3OTI2ODU2MzY6c3BfZGV0YWlsX3RoZW1hdGljOjMwMTU0MjAzMjg3OTgwMjo6Ojo&url=%2Fdp%2FB0GX96HK7X%2Fref%3Dsspa_dk_detail_4%3Fpsc%3D1%26pd_rd_i%3DB0GX96HK7X%26pd_rd_w%3DdNa3r%26content-id%3Damzn1.sym.4adc092d-0184-45e6-8bd0-773f48fbf8ff%26pf_rd_p%3D4adc092d-0184-45e6-8bd0-773f48fbf8ff%26pf_rd_r%3DMK1KMXCE4TW0T8QZ6M7M%26pd_rd_wg%3DgTK3k%26pd_rd_r%3D7ad66603-6f59-4d42-bd51-135397d270f6%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM",
+        "link_clean": "https://www.amazon.com/dp/B0GX96HK7X/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0GX96HK7X&device=tablet&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "badges": [
+          "Limited time deal"
+        ],
+        "thumbnail": "https://m.media-amazon.com/images/I/711aZdLN6GL._AC_UF480,480_SR480,480_.jpg",
+        "rating": 4.4,
+        "reviews": 1828,
+        "discount": "-20%",
+        "price": "$7.99",
+        "extracted_price": 7.99,
+        "price_unit": "$0.08 / count",
+        "extracted_price_unit": 0.08,
+        "old_price": "null",
+        "climate_pledge_friendly": true
+      },
+      {
+        "position": 6,
+        "asin": "B0DZN2JTZG",
+        "title": "Orange Fairy Lights, 100 LED 33ft Battery Operated Halloween Lights with Remote, 8 ...",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo3MTEyODYyNTI4MjIzMzc2OjE3OTI2ODU2MzY6c3BfZGV0YWlsX3RoZW1hdGljOjMwMDg3NjI0MzUyODQwMjo6Ojo&url=%2Fdp%2FB0DZN2JTZG%2Fref%3Dsspa_dk_detail_5%3Fpsc%3D1%26pd_rd_i%3DB0DZN2JTZG%26pd_rd_w%3DdNa3r%26content-id%3Damzn1.sym.4adc092d-0184-45e6-8bd0-773f48fbf8ff%26pf_rd_p%3D4adc092d-0184-45e6-8bd0-773f48fbf8ff%26pf_rd_r%3DMK1KMXCE4TW0T8QZ6M7M%26pd_rd_wg%3DgTK3k%26pd_rd_r%3D7ad66603-6f59-4d42-bd51-135397d270f6%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM",
+        "link_clean": "https://www.amazon.com/dp/B0DZN2JTZG/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0DZN2JTZG&device=tablet&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "thumbnail": "https://m.media-amazon.com/images/I/9118oRhf7GL._AC_UF480,480_SR480,480_.jpg",
+        "rating": 4.5,
+        "reviews": 422,
+        "price": "$9.98",
+        "extracted_price": 9.98,
+        "price_unit": "$0.10 / count",
+        "extracted_price_unit": 0.1
+      },
+      {
+        "position": 7,
+        "asin": "B0H87JXXKK",
+        "title": "Anycosy Halloween String Lights Battery Operated, 29.5 Ft 100 LEDs C6 Color Change Lights 8 Modes for Indoor Outdoor Halloween Decoration",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo3MTEyODYyNTI4MjIzMzc2OjE3OTI2ODU2MzY6c3BfZGV0YWlsX3RoZW1hdGljOjMwMTU1ODI2ODE5NDYwMjo6Ojo&url=%2Fdp%2FB0H87JXXKK%2Fref%3Dsspa_dk_detail_6%3Fpsc%3D1%26pd_rd_i%3DB0H87JXXKK%26pd_rd_w%3DdNa3r%26content-id%3Damzn1.sym.4adc092d-0184-45e6-8bd0-773f48fbf8ff%26pf_rd_p%3D4adc092d-0184-45e6-8bd0-773f48fbf8ff%26pf_rd_r%3DMK1KMXCE4TW0T8QZ6M7M%26pd_rd_wg%3DgTK3k%26pd_rd_r%3D7ad66603-6f59-4d42-bd51-135397d270f6%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM",
+        "link_clean": "https://www.amazon.com/dp/B0H87JXXKK/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0H87JXXKK&device=tablet&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "thumbnail": "https://m.media-amazon.com/images/I/71eiy+xhWlL._AC_UF480,480_SR480,480_.jpg",
+        "rating": 4.3,
+        "reviews": 650,
+        "discount": "-41%",
+        "price": "$9.99",
+        "extracted_price": 9.99,
+        "price_unit": "$0.10 / count",
+        "extracted_price_unit": 0.1,
+        "old_price": "null"
+      },
+      {
+        "position": 8,
+        "asin": "B0DN1K2RLD",
+        "title": "DAYBETTER LED Strip Lights 110ft RGB Music Sync Smart App Control 1 Roll | Bluetooth Color Changing, 44-key Remoter Timer Memory Cuttable Strong Adhesive for Bedroom Kitchen Party Wall Decor",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo2NTcyODQ4NDUxNDkzNTg0OjE3OTI2ODU2MzY6c3BfZGV0YWlsMjozMDA4NTYzMzE5NTc2MDI6Ojo6&url=%2Fdp%2FB0DN1K2RLD%2Fref%3Dsspa_dk_detail_0%3Fpsc%3D1%26pd_rd_i%3DB0DN1K2RLD%26pd_rd_w%3D1CXnM%26content-id%3Damzn1.sym.4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_p%3D4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_r%3DMK1KMXCE4TW0T8QZ6M7M%26pd_rd_wg%3DgTK3k%26pd_rd_r%3D7ad66603-6f59-4d42-bd51-135397d270f6%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+        "link_clean": "https://www.amazon.com/dp/B0DN1K2RLD/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0DN1K2RLD&device=tablet&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "badges": [
+          "Amazon's Choice"
+        ],
+        "thumbnail": "https://m.media-amazon.com/images/I/81bSK7MRYAL._AC_UF480,480_SR480,480_.jpg",
+        "rating": 4.4,
+        "reviews": 36652,
+        "discount": "-17%",
+        "price": "$9.99",
+        "extracted_price": 9.99,
+        "price_unit": "$0.09 / feet",
+        "extracted_price_unit": 0.09,
+        "old_price": "null"
+      },
+      {
+        "position": 9,
+        "asin": "B0C4NQKV95",
+        "title": "osteplus Fairy Lights Battery Operated String Lights Color Changing 2 Pack | 16.4FT Twinkle Lights with remote USB Plug or Battery Powered, Outdoor Christmas Decorations for Bedroom Wedding Party Indoor",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo2NTcyODQ4NDUxNDkzNTg0OjE3OTI2ODU2MzY6c3BfZGV0YWlsMjozMDA2Mjc5OTA5MDU1MDI6Ojo6&url=%2Fdp%2FB0C4NQKV95%2Fref%3Dsspa_dk_detail_1%3Fpsc%3D1%26pd_rd_i%3DB0C4NQKV95%26pd_rd_w%3D1CXnM%26content-id%3Damzn1.sym.4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_p%3D4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_r%3DMK1KMXCE4TW0T8QZ6M7M%26pd_rd_wg%3DgTK3k%26pd_rd_r%3D7ad66603-6f59-4d42-bd51-135397d270f6%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+        "link_clean": "https://www.amazon.com/dp/B0C4NQKV95/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0C4NQKV95&device=tablet&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "thumbnail": "https://m.media-amazon.com/images/I/81hmOu89eNL._AC_UF480,480_SR480,480_.jpg",
+        "rating": 4.1,
+        "reviews": 1036,
+        "price": "$16.99",
+        "extracted_price": 16.99,
+        "price_unit": "$8.50 / count",
+        "extracted_price_unit": 8.5
+      },
+      {
+        "position": 10,
+        "asin": "B0DCSML27Y",
+        "title": "KepStars 100ft Color Changing Christmas String Lights, 300 LED Twinkle Fairy Lights String Waterproof, 200+ Scene Modes, Smart App & Remote for Indoor Outdoor Christmas Tree Xmas Bedroom Patio Decor",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo2NTcyODQ4NDUxNDkzNTg0OjE3OTI2ODU2MzY6c3BfZGV0YWlsMjozMDA1Mzk4MzE5Njg2MDI6Ojo6&url=%2Fdp%2FB0DCSML27Y%2Fref%3Dsspa_dk_detail_2%3Fpsc%3D1%26pd_rd_i%3DB0DCSML27Y%26pd_rd_w%3D1CXnM%26content-id%3Damzn1.sym.4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_p%3D4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_r%3DMK1KMXCE4TW0T8QZ6M7M%26pd_rd_wg%3DgTK3k%26pd_rd_r%3D7ad66603-6f59-4d42-bd51-135397d270f6%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+        "link_clean": "https://www.amazon.com/dp/B0DCSML27Y/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0DCSML27Y&device=tablet&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "thumbnail": "https://m.media-amazon.com/images/I/61hN3OgomOL._AC_UF480,480_SR480,480_.jpg",
+        "rating": 4.4,
+        "reviews": 104,
+        "price": "$29.99",
+        "extracted_price": 29.99
+      },
+      {
+        "position": 11,
+        "asin": "B0H3352W15",
+        "title": "QITONG 2 Pack Battery Operated Halloween Lights, Each 33ft 100 LED | Orange Purple Green String lights with Remote, Clear Wire Twinkle Lights Indoor Outdoor",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo2NTcyODQ4NDUxNDkzNTg0OjE3OTI2ODU2MzY6c3BfZGV0YWlsMjozMDE0MDMyNzcxNjI0MDI6Ojo6&url=%2Fdp%2FB0H3352W15%2Fref%3Dsspa_dk_detail_3%3Fpsc%3D1%26pd_rd_i%3DB0H3352W15%26pd_rd_w%3D1CXnM%26content-id%3Damzn1.sym.4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_p%3D4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_r%3DMK1KMXCE4TW0T8QZ6M7M%26pd_rd_wg%3DgTK3k%26pd_rd_r%3D7ad66603-6f59-4d42-bd51-135397d270f6%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+        "link_clean": "https://www.amazon.com/dp/B0H3352W15/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0H3352W15&device=tablet&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "thumbnail": "https://m.media-amazon.com/images/I/813wyv4eUML._AC_UF480,480_SR480,480_.jpg",
+        "rating": 4.1,
+        "reviews": 137,
+        "price": "$22.99",
+        "extracted_price": 22.99,
+        "price_unit": "$0.70 / feet",
+        "extracted_price_unit": 0.7,
+        "save_with_coupon": "You pay $16.09"
+      },
+      {
+        "position": 12,
+        "asin": "B0F997DH25",
+        "title": "Smart Color Changing Halloween Lights String 112FT 300 LED APP and Remote | Orange Purple Green, Custom Timer Settings, Music Sync, Multiple colors and modes, Group Control, Waterproof Outdoor Indoor",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo2NTcyODQ4NDUxNDkzNTg0OjE3OTI2ODU2MzY6c3BfZGV0YWlsMjozMDE1ODUwNzY4NDY1MDI6Ojo6&url=%2Fdp%2FB0F997DH25%2Fref%3Dsspa_dk_detail_4%3Fpsc%3D1%26pd_rd_i%3DB0F997DH25%26pd_rd_w%3D1CXnM%26content-id%3Damzn1.sym.4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_p%3D4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_r%3DMK1KMXCE4TW0T8QZ6M7M%26pd_rd_wg%3DgTK3k%26pd_rd_r%3D7ad66603-6f59-4d42-bd51-135397d270f6%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+        "link_clean": "https://www.amazon.com/dp/B0F997DH25/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0F997DH25&device=tablet&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "thumbnail": "https://m.media-amazon.com/images/I/812bq4ie-bL._AC_UF480,480_SR480,480_.jpg",
+        "rating": 4.6,
+        "reviews": 976,
+        "discount": "-13%",
+        "price": "$34.99",
+        "extracted_price": 34.99,
+        "old_price": "null"
+      },
+      {
+        "position": 13,
+        "asin": "B0995QBK44",
+        "title": "Dazzle Bright 300 LED Christmas String Lights, 100 FT Connectable Waterproof String Lights Green Wire with 8 Modes, Christmas Decorations for Indoor Outdoor Xmas Party Yard Garden (Multi Colored)",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo2NTcyODQ4NDUxNDkzNTg0OjE3OTI2ODU2MzY6c3BfZGV0YWlsMjozMDE1ODMzOTQzNDIwMDI6Ojo6&url=%2Fdp%2FB0995QBK44%2Fref%3Dsspa_dk_detail_5%3Fpsc%3D1%26pd_rd_i%3DB0995QBK44%26pd_rd_w%3D1CXnM%26content-id%3Damzn1.sym.4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_p%3D4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_r%3DMK1KMXCE4TW0T8QZ6M7M%26pd_rd_wg%3DgTK3k%26pd_rd_r%3D7ad66603-6f59-4d42-bd51-135397d270f6%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+        "link_clean": "https://www.amazon.com/dp/B0995QBK44/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0995QBK44&device=tablet&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "thumbnail": "https://m.media-amazon.com/images/I/81mxyGPn0pL._AC_UF480,480_SR480,480_.jpg",
+        "rating": 4.4,
+        "reviews": 8663,
+        "discount": "-43%",
+        "price": "$16.99",
+        "extracted_price": 16.99,
+        "old_price": "null",
+        "climate_pledge_friendly": true
+      },
+      {
+        "position": 14,
+        "asin": "B0H292PH4B",
+        "title": "Minetom Smart RGB+W Christmas String Lights, 66FT 200 LED Color Changing Tree Lights with Remote & App Controlled, Christmas Decorations for Indoor Outdoor Holiday Xmas Tree Party Decor",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo2NTcyODQ4NDUxNDkzNTg0OjE3OTI2ODU2MzY6c3BfZGV0YWlsMjozMDE2MDU3MTgwOTMwMDI6Ojo6&url=%2Fdp%2FB0H292PH4B%2Fref%3Dsspa_dk_detail_6%3Fpsc%3D1%26pd_rd_i%3DB0H292PH4B%26pd_rd_w%3D1CXnM%26content-id%3Damzn1.sym.4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_p%3D4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_r%3DMK1KMXCE4TW0T8QZ6M7M%26pd_rd_wg%3DgTK3k%26pd_rd_r%3D7ad66603-6f59-4d42-bd51-135397d270f6%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+        "link_clean": "https://www.amazon.com/dp/B0H292PH4B/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0H292PH4B&device=tablet&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "thumbnail": "https://m.media-amazon.com/images/I/81qO8jUBuEL._AC_UF480,480_SR480,480_.jpg",
+        "rating": 4.6,
+        "reviews": 35,
+        "discount": "-20%",
+        "price": "$23.99",
+        "extracted_price": 23.99,
+        "old_price": "null"
+      }
+    ],
+    "related_product_sections": [
+      {
+        "title": "4 stars and above",
+        "items": [
+          {
+            "position": 1,
+            "asin": "B0995QBK44",
+            "title": "Dazzle Bright 300 LED Christmas String Lights, 100 FT Connectable Waterproof String Lights Green Wire with 8 Modes, Christmas Decorations for Indoor Outdoor Xmas Party Yard Garden (Multi Colored)",
+            "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo3MTEyODYyNTI4MjIzMzc2OjE3OTI2ODU2MzY6c3BfZGV0YWlsX3RoZW1hdGljOjMwMTU4MzM5NDM0MjAwMjo6Ojo&url=%2Fdp%2FB0995QBK44%2Fref%3Dsspa_dk_detail_0%3Fpsc%3D1%26pd_rd_i%3DB0995QBK44%26pd_rd_w%3DdNa3r%26content-id%3Damzn1.sym.4adc092d-0184-45e6-8bd0-773f48fbf8ff%26pf_rd_p%3D4adc092d-0184-45e6-8bd0-773f48fbf8ff%26pf_rd_r%3DMK1KMXCE4TW0T8QZ6M7M%26pd_rd_wg%3DgTK3k%26pd_rd_r%3D7ad66603-6f59-4d42-bd51-135397d270f6%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM",
+            "link_clean": "https://www.amazon.com/dp/B0995QBK44/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0995QBK44&device=tablet&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "thumbnail": "https://m.media-amazon.com/images/I/81mxyGPn0pL._AC_UF480,480_SR480,480_.jpg",
+            "rating": 4.4,
+            "reviews": 8663,
+            "discount": "-43%",
+            "price": "$16.99",
+            "extracted_price": 16.99,
+            "old_price": "null",
+            "climate_pledge_friendly": true
+          },
+          {
+            "position": 2,
+            "asin": "B0GJR1RCMV",
+            "title": "JMEXSUSS Smart RGB Fairy Lights, 33FT 100 LED Color Changing String Lights | USB Lights for Bedroom Christmas Party Wedding Classroom Decor, Copper Wire, APP & Voice Control, Music Sync, Group Control",
+            "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo3MTEyODYyNTI4MjIzMzc2OjE3OTI2ODU2MzY6c3BfZGV0YWlsX3RoZW1hdGljOjMwMTM0Mzc4NDYzMTIwMjo6Ojo&url=%2Fdp%2FB0GJR1RCMV%2Fref%3Dsspa_dk_detail_1%3Fpsc%3D1%26pd_rd_i%3DB0GJR1RCMV%26pd_rd_w%3DdNa3r%26content-id%3Damzn1.sym.4adc092d-0184-45e6-8bd0-773f48fbf8ff%26pf_rd_p%3D4adc092d-0184-45e6-8bd0-773f48fbf8ff%26pf_rd_r%3DMK1KMXCE4TW0T8QZ6M7M%26pd_rd_wg%3DgTK3k%26pd_rd_r%3D7ad66603-6f59-4d42-bd51-135397d270f6%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM",
+            "link_clean": "https://www.amazon.com/dp/B0GJR1RCMV/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0GJR1RCMV&device=tablet&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "thumbnail": "https://m.media-amazon.com/images/I/81QDOKp+0xL._AC_UF480,480_SR480,480_.jpg",
+            "rating": 4.3,
+            "reviews": 313,
+            "discount": "-5%",
+            "price": "$16.14",
+            "extracted_price": 16.14,
+            "price_unit": "$0.16 / count",
+            "extracted_price_unit": 0.16,
+            "old_price": "null",
+            "climate_pledge_friendly": true
+          },
+          {
+            "position": 3,
+            "asin": "B094FVBQB1",
+            "title": "Dazzle Bright Christmas Mini String Lights, 60FT 300 Incandescent Green Wire Fairy Lights UL Certified Christmas Decorations for Indoor Outdoor Yard Party Xmas Tree Decor, Warm White",
+            "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo3MTEyODYyNTI4MjIzMzc2OjE3OTI2ODU2MzY6c3BfZGV0YWlsX3RoZW1hdGljOjMwMDU1NzA4NTk5NzkwMjo6Ojo&url=%2Fdp%2FB094FVBQB1%2Fref%3Dsspa_dk_detail_2%3Fpsc%3D1%26pd_rd_i%3DB094FVBQB1%26pd_rd_w%3DdNa3r%26content-id%3Damzn1.sym.4adc092d-0184-45e6-8bd0-773f48fbf8ff%26pf_rd_p%3D4adc092d-0184-45e6-8bd0-773f48fbf8ff%26pf_rd_r%3DMK1KMXCE4TW0T8QZ6M7M%26pd_rd_wg%3DgTK3k%26pd_rd_r%3D7ad66603-6f59-4d42-bd51-135397d270f6%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM",
+            "link_clean": "https://www.amazon.com/dp/B094FVBQB1/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B094FVBQB1&device=tablet&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "thumbnail": "https://m.media-amazon.com/images/I/71b0QdNTE5L._AC_UF480,480_SR480,480_.jpg",
+            "rating": 4.4,
+            "reviews": 4016,
+            "price": "$26.99",
+            "extracted_price": 26.99,
+            "price_unit": "$0.41 / feet",
+            "extracted_price_unit": 0.41,
+            "climate_pledge_friendly": true
+          },
+          {
+            "position": 4,
+            "asin": "B0F9P1TCSB",
+            "title": "240LED Smart Color Changing String Lights 92FT Halloween Lights App Remote | Music ...",
+            "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo3MTEyODYyNTI4MjIzMzc2OjE3OTI2ODU2MzY6c3BfZGV0YWlsX3RoZW1hdGljOjMwMDk2OTAzNTg4NzcwMjo6Ojo&url=%2Fdp%2FB0F9P1TCSB%2Fref%3Dsspa_dk_detail_3%3Fpsc%3D1%26pd_rd_i%3DB0F9P1TCSB%26pd_rd_w%3DdNa3r%26content-id%3Damzn1.sym.4adc092d-0184-45e6-8bd0-773f48fbf8ff%26pf_rd_p%3D4adc092d-0184-45e6-8bd0-773f48fbf8ff%26pf_rd_r%3DMK1KMXCE4TW0T8QZ6M7M%26pd_rd_wg%3DgTK3k%26pd_rd_r%3D7ad66603-6f59-4d42-bd51-135397d270f6%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM",
+            "link_clean": "https://www.amazon.com/dp/B0F9P1TCSB/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0F9P1TCSB&device=tablet&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "badges": [
+              "Amazon's Choice",
+              "Limited time deal"
+            ],
+            "thumbnail": "https://m.media-amazon.com/images/I/81m-IuGmMWL._AC_UF480,480_SR480,480_.jpg",
+            "rating": 4.4,
+            "reviews": 3242,
+            "discount": "-10%",
+            "price": "$25.99",
+            "extracted_price": 25.99,
+            "old_price": "null"
+          },
+          {
+            "position": 5,
+            "asin": "B0GX96HK7X",
+            "title": "JMEXSUSS 33FT 100 LED Battery Operated Halloween Lights with Remote | Purple and Green Halloween Lights Indoor Outdoor, 8 Modes String Lights for Outside Yard Tree Front Porch Room House",
+            "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo3MTEyODYyNTI4MjIzMzc2OjE3OTI2ODU2MzY6c3BfZGV0YWlsX3RoZW1hdGljOjMwMTU0MjAzMjg3OTgwMjo6Ojo&url=%2Fdp%2FB0GX96HK7X%2Fref%3Dsspa_dk_detail_4%3Fpsc%3D1%26pd_rd_i%3DB0GX96HK7X%26pd_rd_w%3DdNa3r%26content-id%3Damzn1.sym.4adc092d-0184-45e6-8bd0-773f48fbf8ff%26pf_rd_p%3D4adc092d-0184-45e6-8bd0-773f48fbf8ff%26pf_rd_r%3DMK1KMXCE4TW0T8QZ6M7M%26pd_rd_wg%3DgTK3k%26pd_rd_r%3D7ad66603-6f59-4d42-bd51-135397d270f6%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM",
+            "link_clean": "https://www.amazon.com/dp/B0GX96HK7X/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0GX96HK7X&device=tablet&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "badges": [
+              "Limited time deal"
+            ],
+            "thumbnail": "https://m.media-amazon.com/images/I/711aZdLN6GL._AC_UF480,480_SR480,480_.jpg",
+            "rating": 4.4,
+            "reviews": 1828,
+            "discount": "-20%",
+            "price": "$7.99",
+            "extracted_price": 7.99,
+            "price_unit": "$0.08 / count",
+            "extracted_price_unit": 0.08,
+            "old_price": "null",
+            "climate_pledge_friendly": true
+          },
+          {
+            "position": 6,
+            "asin": "B0DZN2JTZG",
+            "title": "Orange Fairy Lights, 100 LED 33ft Battery Operated Halloween Lights with Remote, 8 ...",
+            "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo3MTEyODYyNTI4MjIzMzc2OjE3OTI2ODU2MzY6c3BfZGV0YWlsX3RoZW1hdGljOjMwMDg3NjI0MzUyODQwMjo6Ojo&url=%2Fdp%2FB0DZN2JTZG%2Fref%3Dsspa_dk_detail_5%3Fpsc%3D1%26pd_rd_i%3DB0DZN2JTZG%26pd_rd_w%3DdNa3r%26content-id%3Damzn1.sym.4adc092d-0184-45e6-8bd0-773f48fbf8ff%26pf_rd_p%3D4adc092d-0184-45e6-8bd0-773f48fbf8ff%26pf_rd_r%3DMK1KMXCE4TW0T8QZ6M7M%26pd_rd_wg%3DgTK3k%26pd_rd_r%3D7ad66603-6f59-4d42-bd51-135397d270f6%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM",
+            "link_clean": "https://www.amazon.com/dp/B0DZN2JTZG/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0DZN2JTZG&device=tablet&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "thumbnail": "https://m.media-amazon.com/images/I/9118oRhf7GL._AC_UF480,480_SR480,480_.jpg",
+            "rating": 4.5,
+            "reviews": 422,
+            "price": "$9.98",
+            "extracted_price": 9.98,
+            "price_unit": "$0.10 / count",
+            "extracted_price_unit": 0.1
+          },
+          {
+            "position": 7,
+            "asin": "B0H87JXXKK",
+            "title": "Anycosy Halloween String Lights Battery Operated, 29.5 Ft 100 LEDs C6 Color Change Lights 8 Modes for Indoor Outdoor Halloween Decoration",
+            "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo3MTEyODYyNTI4MjIzMzc2OjE3OTI2ODU2MzY6c3BfZGV0YWlsX3RoZW1hdGljOjMwMTU1ODI2ODE5NDYwMjo6Ojo&url=%2Fdp%2FB0H87JXXKK%2Fref%3Dsspa_dk_detail_6%3Fpsc%3D1%26pd_rd_i%3DB0H87JXXKK%26pd_rd_w%3DdNa3r%26content-id%3Damzn1.sym.4adc092d-0184-45e6-8bd0-773f48fbf8ff%26pf_rd_p%3D4adc092d-0184-45e6-8bd0-773f48fbf8ff%26pf_rd_r%3DMK1KMXCE4TW0T8QZ6M7M%26pd_rd_wg%3DgTK3k%26pd_rd_r%3D7ad66603-6f59-4d42-bd51-135397d270f6%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM",
+            "link_clean": "https://www.amazon.com/dp/B0H87JXXKK/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0H87JXXKK&device=tablet&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "thumbnail": "https://m.media-amazon.com/images/I/71eiy+xhWlL._AC_UF480,480_SR480,480_.jpg",
+            "rating": 4.3,
+            "reviews": 650,
+            "discount": "-41%",
+            "price": "$9.99",
+            "extracted_price": 9.99,
+            "price_unit": "$0.10 / count",
+            "extracted_price_unit": 0.1,
+            "old_price": "null"
+          }
+        ]
+      },
+      {
+        "title": "Related products with free delivery on eligible orders",
+        "items": [
+          {
+            "position": 1,
+            "asin": "B0DN1K2RLD",
+            "title": "DAYBETTER LED Strip Lights 110ft RGB Music Sync Smart App Control 1 Roll | Bluetooth Color Changing, 44-key Remoter Timer Memory Cuttable Strong Adhesive for Bedroom Kitchen Party Wall Decor",
+            "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo2NTcyODQ4NDUxNDkzNTg0OjE3OTI2ODU2MzY6c3BfZGV0YWlsMjozMDA4NTYzMzE5NTc2MDI6Ojo6&url=%2Fdp%2FB0DN1K2RLD%2Fref%3Dsspa_dk_detail_0%3Fpsc%3D1%26pd_rd_i%3DB0DN1K2RLD%26pd_rd_w%3D1CXnM%26content-id%3Damzn1.sym.4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_p%3D4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_r%3DMK1KMXCE4TW0T8QZ6M7M%26pd_rd_wg%3DgTK3k%26pd_rd_r%3D7ad66603-6f59-4d42-bd51-135397d270f6%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+            "link_clean": "https://www.amazon.com/dp/B0DN1K2RLD/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0DN1K2RLD&device=tablet&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "badges": [
+              "Amazon's Choice"
+            ],
+            "thumbnail": "https://m.media-amazon.com/images/I/81bSK7MRYAL._AC_UF480,480_SR480,480_.jpg",
+            "rating": 4.4,
+            "reviews": 36652,
+            "discount": "-17%",
+            "price": "$9.99",
+            "extracted_price": 9.99,
+            "price_unit": "$0.09 / feet",
+            "extracted_price_unit": 0.09,
+            "old_price": "null"
+          },
+          {
+            "position": 2,
+            "asin": "B0C4NQKV95",
+            "title": "osteplus Fairy Lights Battery Operated String Lights Color Changing 2 Pack | 16.4FT Twinkle Lights with remote USB Plug or Battery Powered, Outdoor Christmas Decorations for Bedroom Wedding Party Indoor",
+            "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo2NTcyODQ4NDUxNDkzNTg0OjE3OTI2ODU2MzY6c3BfZGV0YWlsMjozMDA2Mjc5OTA5MDU1MDI6Ojo6&url=%2Fdp%2FB0C4NQKV95%2Fref%3Dsspa_dk_detail_1%3Fpsc%3D1%26pd_rd_i%3DB0C4NQKV95%26pd_rd_w%3D1CXnM%26content-id%3Damzn1.sym.4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_p%3D4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_r%3DMK1KMXCE4TW0T8QZ6M7M%26pd_rd_wg%3DgTK3k%26pd_rd_r%3D7ad66603-6f59-4d42-bd51-135397d270f6%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+            "link_clean": "https://www.amazon.com/dp/B0C4NQKV95/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0C4NQKV95&device=tablet&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "thumbnail": "https://m.media-amazon.com/images/I/81hmOu89eNL._AC_UF480,480_SR480,480_.jpg",
+            "rating": 4.1,
+            "reviews": 1036,
+            "price": "$16.99",
+            "extracted_price": 16.99,
+            "price_unit": "$8.50 / count",
+            "extracted_price_unit": 8.5
+          },
+          {
+            "position": 3,
+            "asin": "B0DCSML27Y",
+            "title": "KepStars 100ft Color Changing Christmas String Lights, 300 LED Twinkle Fairy Lights String Waterproof, 200+ Scene Modes, Smart App & Remote for Indoor Outdoor Christmas Tree Xmas Bedroom Patio Decor",
+            "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo2NTcyODQ4NDUxNDkzNTg0OjE3OTI2ODU2MzY6c3BfZGV0YWlsMjozMDA1Mzk4MzE5Njg2MDI6Ojo6&url=%2Fdp%2FB0DCSML27Y%2Fref%3Dsspa_dk_detail_2%3Fpsc%3D1%26pd_rd_i%3DB0DCSML27Y%26pd_rd_w%3D1CXnM%26content-id%3Damzn1.sym.4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_p%3D4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_r%3DMK1KMXCE4TW0T8QZ6M7M%26pd_rd_wg%3DgTK3k%26pd_rd_r%3D7ad66603-6f59-4d42-bd51-135397d270f6%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+            "link_clean": "https://www.amazon.com/dp/B0DCSML27Y/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0DCSML27Y&device=tablet&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "thumbnail": "https://m.media-amazon.com/images/I/61hN3OgomOL._AC_UF480,480_SR480,480_.jpg",
+            "rating": 4.4,
+            "reviews": 104,
+            "price": "$29.99",
+            "extracted_price": 29.99
+          },
+          {
+            "position": 4,
+            "asin": "B0H3352W15",
+            "title": "QITONG 2 Pack Battery Operated Halloween Lights, Each 33ft 100 LED | Orange Purple Green String lights with Remote, Clear Wire Twinkle Lights Indoor Outdoor",
+            "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo2NTcyODQ4NDUxNDkzNTg0OjE3OTI2ODU2MzY6c3BfZGV0YWlsMjozMDE0MDMyNzcxNjI0MDI6Ojo6&url=%2Fdp%2FB0H3352W15%2Fref%3Dsspa_dk_detail_3%3Fpsc%3D1%26pd_rd_i%3DB0H3352W15%26pd_rd_w%3D1CXnM%26content-id%3Damzn1.sym.4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_p%3D4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_r%3DMK1KMXCE4TW0T8QZ6M7M%26pd_rd_wg%3DgTK3k%26pd_rd_r%3D7ad66603-6f59-4d42-bd51-135397d270f6%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+            "link_clean": "https://www.amazon.com/dp/B0H3352W15/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0H3352W15&device=tablet&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "thumbnail": "https://m.media-amazon.com/images/I/813wyv4eUML._AC_UF480,480_SR480,480_.jpg",
+            "rating": 4.1,
+            "reviews": 137,
+            "price": "$22.99",
+            "extracted_price": 22.99,
+            "price_unit": "$0.70 / feet",
+            "extracted_price_unit": 0.7,
+            "save_with_coupon": "You pay $16.09"
+          },
+          {
+            "position": 5,
+            "asin": "B0F997DH25",
+            "title": "Smart Color Changing Halloween Lights String 112FT 300 LED APP and Remote | Orange Purple Green, Custom Timer Settings, Music Sync, Multiple colors and modes, Group Control, Waterproof Outdoor Indoor",
+            "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo2NTcyODQ4NDUxNDkzNTg0OjE3OTI2ODU2MzY6c3BfZGV0YWlsMjozMDE1ODUwNzY4NDY1MDI6Ojo6&url=%2Fdp%2FB0F997DH25%2Fref%3Dsspa_dk_detail_4%3Fpsc%3D1%26pd_rd_i%3DB0F997DH25%26pd_rd_w%3D1CXnM%26content-id%3Damzn1.sym.4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_p%3D4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_r%3DMK1KMXCE4TW0T8QZ6M7M%26pd_rd_wg%3DgTK3k%26pd_rd_r%3D7ad66603-6f59-4d42-bd51-135397d270f6%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+            "link_clean": "https://www.amazon.com/dp/B0F997DH25/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0F997DH25&device=tablet&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "thumbnail": "https://m.media-amazon.com/images/I/812bq4ie-bL._AC_UF480,480_SR480,480_.jpg",
+            "rating": 4.6,
+            "reviews": 976,
+            "discount": "-13%",
+            "price": "$34.99",
+            "extracted_price": 34.99,
+            "old_price": "null"
+          },
+          {
+            "position": 6,
+            "asin": "B0995QBK44",
+            "title": "Dazzle Bright 300 LED Christmas String Lights, 100 FT Connectable Waterproof String Lights Green Wire with 8 Modes, Christmas Decorations for Indoor Outdoor Xmas Party Yard Garden (Multi Colored)",
+            "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo2NTcyODQ4NDUxNDkzNTg0OjE3OTI2ODU2MzY6c3BfZGV0YWlsMjozMDE1ODMzOTQzNDIwMDI6Ojo6&url=%2Fdp%2FB0995QBK44%2Fref%3Dsspa_dk_detail_5%3Fpsc%3D1%26pd_rd_i%3DB0995QBK44%26pd_rd_w%3D1CXnM%26content-id%3Damzn1.sym.4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_p%3D4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_r%3DMK1KMXCE4TW0T8QZ6M7M%26pd_rd_wg%3DgTK3k%26pd_rd_r%3D7ad66603-6f59-4d42-bd51-135397d270f6%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+            "link_clean": "https://www.amazon.com/dp/B0995QBK44/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0995QBK44&device=tablet&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "thumbnail": "https://m.media-amazon.com/images/I/81mxyGPn0pL._AC_UF480,480_SR480,480_.jpg",
+            "rating": 4.4,
+            "reviews": 8663,
+            "discount": "-43%",
+            "price": "$16.99",
+            "extracted_price": 16.99,
+            "old_price": "null",
+            "climate_pledge_friendly": true
+          },
+          {
+            "position": 7,
+            "asin": "B0H292PH4B",
+            "title": "Minetom Smart RGB+W Christmas String Lights, 66FT 200 LED Color Changing Tree Lights with Remote & App Controlled, Christmas Decorations for Indoor Outdoor Holiday Xmas Tree Party Decor",
+            "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo2NTcyODQ4NDUxNDkzNTg0OjE3OTI2ODU2MzY6c3BfZGV0YWlsMjozMDE2MDU3MTgwOTMwMDI6Ojo6&url=%2Fdp%2FB0H292PH4B%2Fref%3Dsspa_dk_detail_6%3Fpsc%3D1%26pd_rd_i%3DB0H292PH4B%26pd_rd_w%3D1CXnM%26content-id%3Damzn1.sym.4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_p%3D4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_r%3DMK1KMXCE4TW0T8QZ6M7M%26pd_rd_wg%3DgTK3k%26pd_rd_r%3D7ad66603-6f59-4d42-bd51-135397d270f6%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+            "link_clean": "https://www.amazon.com/dp/B0H292PH4B/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0H292PH4B&device=tablet&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "thumbnail": "https://m.media-amazon.com/images/I/81qO8jUBuEL._AC_UF480,480_SR480,480_.jpg",
+            "rating": 4.6,
+            "reviews": 35,
+            "discount": "-20%",
+            "price": "$23.99",
+            "extracted_price": 23.99,
+            "old_price": "null"
+          }
+        ]
+      }
+    ],
+    "sustainability_features": {
+      "summary": "This product has sustainability features recognized by trusted certifications.",
+      "climate_pledge_friendly": true,
+      "learn_more_link": "https://www.amazon.com/climatepledgefriendly",
+      "features": [
+        {
+          "position": 1,
+          "title": "Recycled materials",
+          "text": "Contains at least 50% recycled material.",
+          "certified_by": [
+            {
+              "name": "Global Recycled Standard",
+              "logo": "https://m.media-amazon.com/images/I/51IhSrucIyL._SS128_.png",
+              "description": "Global Recycled Standard (GRS) certified products contain recycled content (>50%) that has been independently verified at each stage of the supply chain, from the source to the final product and meet social, environmental, and chemical requirements. The purchase of Global Recycled Standard (GRS) certified products supports the use of recycled content in the supply chain.",
+              "link": "https://textileexchange.org/integrity/"
+            }
+          ]
+        },
+        {
+          "position": 2,
+          "title": "Safer chemicals",
+          "text": "Made with chemicals safer for human health and the environment.",
+          "certified_by": [
+            {
+              "name": "Global Recycled Standard",
+              "logo": "https://m.media-amazon.com/images/I/51IhSrucIyL._SS128_.png",
+              "description": "Global Recycled Standard (GRS) certified products contain recycled content (>50%) that has been independently verified at each stage of the supply chain, from the source to the final product and meet social, environmental, and chemical requirements. The purchase of Global Recycled Standard (GRS) certified products supports the use of recycled content in the supply chain.",
+              "link": "https://textileexchange.org/integrity/"
+            }
+          ]
+        },
+        {
+          "position": 3,
+          "title": "Worker well-being",
+          "text": "Manufactured on farms or in facilities that protect the rights and/or health of workers.",
+          "certified_by": [
+            {
+              "name": "Global Recycled Standard",
+              "logo": "https://m.media-amazon.com/images/I/51IhSrucIyL._SS128_.png",
+              "description": "Global Recycled Standard (GRS) certified products contain recycled content (>50%) that has been independently verified at each stage of the supply chain, from the source to the final product and meet social, environmental, and chemical requirements. The purchase of Global Recycled Standard (GRS) certified products supports the use of recycled content in the supply chain.",
+              "link": "https://textileexchange.org/integrity/"
+            }
+          ]
+        }
+      ]
+    },
+    "videos": [
+      {
+        "position": 1,
+        "title": "Watch to see how I'm using in a spot without plugs",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/81c8d605-a20b-4339-bc4f-9fa7f12a6c1b/default.vertical.jobtemplate.hls.m3u8",
+        "thumbnail": "https://m.media-amazon.com/images/I/81eBuSBwzEL.jpg",
+        "duration": "0:50",
+        "vendor": "Andrea's Favorites",
+        "vendor_thumbnail": "https://m.media-amazon.com/images/I/B1wCfZvxfPL._CR0,0,3458,3458_._FMjpg_._SL34_.jpg",
+        "date": "Oct 5, 2026"
+      },
+      {
+        "position": 2,
+        "title": "These light are COOL!",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/73fa57df-ba23-4147-a399-e1bc18e017fb/default.vertical.jobtemplate.hls.m3u8",
+        "thumbnail": "https://m.media-amazon.com/images/I/91ALB731peL.png",
+        "duration": "2:09",
+        "vendor": "Shop My Amazon Favorites!",
+        "vendor_thumbnail": "https://m.media-amazon.com/images/I/61xYNfs03tL._CR0,0,540,540_._FMjpg_._SL34_.jpg",
+        "date": "Oct 29, 2024"
+      },
+      {
+        "position": 3,
+        "title": "What can these LIGHTS be used for?",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/32218132-ebdb-437e-a4f0-c00aabc233d3/default.jobtemplate.hls.m3u8",
+        "thumbnail": "https://m.media-amazon.com/images/I/A1b0odKH9uL.png",
+        "duration": "2:44",
+        "vendor": "Jamie Mc",
+        "vendor_thumbnail": "https://m.media-amazon.com/images/I/A1ji4o-u2HL._CR0,0,2316,2316_._FMjpg_._SL34_.jpg",
+        "date": "Sep 29, 2026"
+      },
+      {
+        "position": 4,
+        "title": "Versatile",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/a354a022-ef19-4c62-a827-e886173a42f5/embedded.cc.default.vertical.jobtemplate.hls.m3u8",
+        "thumbnail": "https://m.media-amazon.com/images/I/616xhTzKwML.jpg",
+        "duration": "0:14",
+        "vendor": "Drake Taylor",
+        "vendor_thumbnail": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SL34_.png",
+        "date": "Nov 24, 2024"
+      },
+      {
+        "position": 5,
+        "title": "Fairy Lights Honest Review and Demo",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/c109ce2b-4d49-42a7-83fb-e279f0b1fff5/default.vertical.jobtemplate.hls.m3u8",
+        "thumbnail": "https://m.media-amazon.com/images/I/A1rAdHbq2pL.png",
+        "duration": "0:24",
+        "vendor": "Kate",
+        "vendor_thumbnail": "https://m.media-amazon.com/images/I/61vfGTxnS5L._CR0,0,640,640_._FMjpg_._SL34_.jpg",
+        "date": "Sep 6, 2024"
+      },
+      {
+        "position": 6,
+        "title": "Dazzle Bright Halloween Fairy String Lights 20 FT 60 LED",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/655f73b7-2dc0-4b5c-b7ad-cb6bde7e6900/default.vertical.jobtemplate.hls.m3u8",
+        "thumbnail": "https://m.media-amazon.com/images/I/711EMeCoy9L.jpg",
+        "duration": "0:40",
+        "vendor": "David Chase",
+        "vendor_thumbnail": "https://m.media-amazon.com/images/I/719faMBa4XL._CR0,0,736,736_._FMjpg_._SL34_.jpg",
+        "date": "Aug 19, 2026"
+      },
+      {
+        "position": 7,
+        "title": "Decent for the price",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/8cd94c4d-618a-453a-bb12-39f27ad9029b/embedded.cc.default.jobtemplate.hls.m3u8",
+        "thumbnail": "https://m.media-amazon.com/images/I/41ojSL0vtcL.jpg",
+        "duration": "0:35",
+        "vendor": "kairo",
+        "vendor_thumbnail": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SL34_.png",
+        "date": "Nov 20, 2024"
+      },
+      {
+        "position": 8,
+        "title": "Dazzle Bright Purple and Orange Fairy Lights, 20 ft, 60 LED",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/ad68fdaf-10f1-4b5f-a408-3c619142ae0c/default.vertical.jobtemplate.hls.m3u8",
+        "thumbnail": "https://m.media-amazon.com/images/I/91xHKDIxF5L.jpg",
+        "duration": "0:20",
+        "vendor": "Spoil My Petz",
+        "vendor_thumbnail": "https://m.media-amazon.com/images/I/513tfNiFrLL._CR0,0,711,711_._FMjpg_._SL34_.jpg",
+        "date": "Sep 15, 2024"
+      },
+      {
+        "position": 9,
+        "title": "Don't Work as advertised (no strobe etc)",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/e8a5ee7c-66fb-433c-8325-2e42f3b82901/embedded.cc.default.vertical.jobtemplate.hls.m3u8",
+        "thumbnail": "https://m.media-amazon.com/images/I/81kHFHIIrpL.jpg",
+        "duration": "0:45",
+        "vendor": "Holly",
+        "vendor_thumbnail": "https://m.media-amazon.com/images/S/amazon-avatars-global/15f50132-b492-4023-bfec-777c7f317fd1._CR0%2C0%2C375%2C375_UX460_._SL34_.jpg",
+        "date": "Oct 22, 2023"
+      },
+      {
+        "position": 10,
+        "title": "Love easy to place pretty colors nice n light but strong.",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/8149f436-e182-4db6-b8c3-4e7eed7b1934/embedded.cc.default.vertical.jobtemplate.hls.m3u8",
+        "thumbnail": "https://m.media-amazon.com/images/I/31hXFQjKRML.jpg",
+        "duration": "0:27",
+        "vendor": "India Cruz",
+        "vendor_thumbnail": "https://m.media-amazon.com/images/S/amazon-avatars-global/72a1bd7b-1982-4ef1-9bd4-a019db939aa2._CR0%2C0%2C375%2C375_UX460_._SL34_.jpg",
+        "date": "Dec 2, 2025"
+      }
+    ],
+    "product_description": [
+      {
+        "position": 1
+      },
+      {
+        "position": 2,
+        "title": "v",
+        "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/76c04c09-05d3-43ac-b050-28bb17c3642f.__CR0,0,970,600_PT0_SX970_V1___.jpg"
+      },
+      {
+        "position": 3
+      },
+      {
+        "position": 4,
+        "highlights": [
+          "Customer Reviews",
+          "Price"
+        ]
+      }
+    ],
+    "product_details": {
+      "indoor_outdoor_usage": "Indoor, Outdoor",
+      "additional_features": "Color Changing",
+      "light_source_type": "LED",
+      "power_source": "Battery Powered",
+      "light_color": "RGB",
+      "controller_type": "Remote Control",
+      "wattage": "5 watts",
+      "control_method": "Remote",
+      "number_of_batteries": "3 AA batteries required.",
+      "ingress_protection_code_rating": "IP44",
+      "connectivity_technology": "USB",
+      "water_resistance_level": "Waterproof",
+      "material_type": "Copper",
+      "color": "RGB Color Changing",
+      "theme": "Christmas",
+      "occasion": "Christmas",
+      "product_style": "Modern",
+      "seasons": "Winter",
+      "hanging_pattern_layout": "Linear",
+      "form_factor": "String Lights",
+      "number_of_light_sources": "60",
+      "number_of_items": "2",
+      "brand_name": "Dazzle Bright",
+      "model_number": "TXD60-RGB",
+      "item_length": "20 feet",
+      "number_of_packs": "2",
+      "unit_count": "2 Count",
+      "manufacturer": "Dazzle Bright",
+      "best_sellers_rank": [
+        {
+          "text": "#68 in Tools & Home Improvement (See Top 100 in Tools & Home Improvement)",
+          "extracted_rank": 68,
+          "link": "https://www.amazon.com/gp/bestsellers/hi/ref=pd_zg_ts_hi",
+          "link_text": "See Top 100 in Tools & Home Improvement"
+        },
+        {
+          "text": "#1 in Outdoor String Lights",
+          "extracted_rank": 1,
+          "link": "https://www.amazon.com/gp/bestsellers/hi/3742221/ref=pd_zg_hrsr_hi",
+          "link_text": "Outdoor String Lights"
+        }
+      ],
+      "asin": "B0B7X15D9B",
+      "customer_reviews": "4.2 out of 5 stars",
+      "rating": 4.2,
+      "reviews": 7659
+    },
+    "sponsored_brands": [
+      {
+        "position": 1,
+        "name": "Sponsored ad from QITONG. Shop QITONG.",
+        "link": "https://aax-events-cell02-cf.us-east.ono.axp.amazon-adsystem.com/x/c/JLn6XZecJ86bWRuscaCE9qsAAAGhZGP67wEAAAH2AQBvbm9fdHhuX2JpZDMgICBvbm9fdHhuX2ltcDIgICDXyuBL/clv1c_ek-wBQH2UsbaHn0mGP3P82PkEFV3E5fxbGju-LvHzZ_wK-JKUnO1kMi7Qimq-VofzMvoiCbJc2NZ3gIuO5RXQfNMDqNxI3kpJ6XhiBrqvtxVhyOH_pVRci9959mslhJj4jQ2mpicCieb9MdRVQq2m5h7oNGMxtXpW4ZywzCimMbe2WYOWZB6Zu-18e09wLEcwiCm1lln13eoFYG9sEx236ExH101jsRhgtU3oYOYatInmZZ2ffu9PrDm-EQRBdj5ZB5suZjtNh8U9uf2w1XqqXVHjtavxvpfGxcux1i6CqK7FPQPMIP2HQyHwLNDNs3_vzveVrDnoVCDPNI795ePsqQZLjwydptz7b5iSKnGE2zd6c44pAwSMuySX3ewzIjpxxy4tY9cdxWJOQdT1bdlHrl-vyjgomx6-Es4hnx3QtE0Cda8YFOmSphuMduFKLTWtBwlvDPBDAh7vWM8FYNdGAoBOaQxXpVIYEzf_NR0EobqihF8OQOR9oGs7gULrz0uqSkmLUXaPsycUJzFFSU-Ec__UaEDe7tY0Eg2nHXU14b3xN14nx-68tGEUx3rxg4sGNNk2MEgqBppflyg2bA4tsPI4iSy_35f1TtWGKHgFzwsmM8gLeMzDbtHawXm998R8uWTdDiCakjNE961Kdz445cdiHI3_cj7YnlwGT6bmJ7e1LsqdKtIjuhpMpIofsSw69LudBwvcDLj-4hrvevjMy9QoGWeJJlDeB_uBTRC9uZGEjNDTGH267Vlg1pvPsJqOkZdEz9_pLhQDn24trg6kPraeEbf0V_H6n9GMOzzjMTkvOmqGGgF2ssa-1BU6zcyYkTyvQSrlhyqgwg2oxqtb_loLQ0LpusoUY7DOYYR9tx5r_eEpwC36hrkfzbbZpDkNK7RCNHSWXzM1f2wh6LdjINlQcDofbVuW83hsQrDF1KJY0xCDkhpcGQ6WOcgDuq9BulcFig_0a_9C2sLLkJihARnOf9skJmDSq0fHPBh9rp-bropPpmqoU3WwZklZQVXEOwW5c1wX6Aln_YFD0QVb65DiXyMc1dj-BwXCDAMiq0z1Cyq2RBBI822e0OGRFPVM7VrDbr429b1eH2r0upnT24306mCY1g-5lYTvwHPk8P_lPAHwAbfRJfVnPAS6GtBxJbgs8GtLTNHJfmuRbSKVtNiwVJAR9qEWnNeL3Kp2CsV2KZMBMHfcaCh99wjzconWVK6wq-oWP-z943u7LbYYemQIev9VM5pZqZtcWOyYaix4fO76VQvp0BDHDaNoWp1inXUnTDzZpP7Tdf6-VjPvWSoTpQOSRoZy9cEOUhDkOUFWPOc4GxpQ9zk13IUyzMf_X-0-1pjzIUFU-Hd-SyL_R4GG1wA_Ufhi8UnbWjjiCU99BwKDz0KaZFhmwNytOMIW80BMMxpMpJ4m0LRiXJy6IQKLh22TNVFIGN7lenaP8WJK9hzD8Q0Pj9XhhCVjCOEPU9Bz9bCUi0Xwj50q7F5MCggL3DbOc90pFVsThPLRbVeIInJdtgr48vKa0wGJF32C7hF83uNgMA7MLtyQ2-aj4s4c7rkPteZe-0hag7Ay426mPsH3ccg8SWiLuI15WPrxFD3zyhw0rpgdrvb02RcKbd3H-zdmA/https://www.amazon.com/stores/page/14757517-B652-46A7-9C69-2F5D7120C370/?_encoding=UTF8&store_ref=SB_A100576215LGKX71HXHGR-A10315151W2SPHSX669B4&pd_rd_plhdr=t&aaxitk=0d1172018325c85f3b6de19d7224b3c2&hsa_cr_id=0&lp_slot=desktop-arbies&lp_page_asin=B0B7X15D9B&pd_rd_i=ad1&ref_=sbx_be_dp_arbies_mbd_mb0_bkgd&pd_rd_w=TPjzc&content-id=amzn1.sym.d4d91f0b-2ea5-4099-b125-c8f96930ac21&pf_rd_p=d4d91f0b-2ea5-4099-b125-c8f96930ac21&pf_rd_r=MK1KMXCE4TW0T8QZ6M7M&pd_rd_wg=gTK3k&pd_rd_r=7ad66603-6f59-4d42-bd51-135397d270f6"
+      },
+      {
+        "position": 2,
+        "name": "Sponsored ad from KAQ. Shop KAQ.",
+        "link": "https://aax-events-cell02-cf.us-east.ono.axp.amazon-adsystem.com/x/c/JJXeFXwY2BX5vxL8ez95md4AAAGhZGP68AEAAAH2AQBvbm9fdHhuX2JpZDMgICBvbm9fdHhuX2ltcDIgICDqa3lD/clv1c_ek-wxQfWKjbbTBHUSp7ZoFXkkKAnu9NK6lM2INgE8YkZZuOOz41mCRsGuvgVpM06q0nHstf4u412wGuUNy3EMknzpPGMY6YyeOSLN28TIbExkx3mNsjRWYgh0xzwpnfxV58XhcmtstzGN44y3yfh_B97H5uJlla6EsTir7fKjIIFQ6uMn8Gu5GL1wjRC44it6Ict_lVZY9m-2_r3Z5jgsc0ZH0trWVrHhi7XOEnP8VEcDa5NDm6e9NaA8NhEkxppWr9q6eeb-haa2pfZ-2SYHqnzJccSINUHDachKYAq1acVaDQlitF2bEvkz-ZAxnmB3e26d9Knkwy08rST4_EAONUOjjQsr9JyfsavQbiYn0YincJXJw2dvwkbRmbDV2Dic_0ZdcTCNWxqeIi55RZnvkHYekWab3L5qVILAEPoYJouDiT5bzmPsXKcqYSxLmiYIPjvFAXtMq1pmKAyJJZiluJWutpfXeoghjqgLfeGf4_SQRZYdAijjkNPo9jy2VI8-YwUCvZUGaPJA-iI8C_88OnGKQj2N-qOVTQzso_dZt2ATpa72prkFPrM1ovmMowUBHNomWHy8cG3R5Xm44mvSskUBRXlrnfJ1PT7n2o0QwdFhURaguv6kDNdI0f4Qwwvt9qddJnctFwQCJIf2_fvehzrjEwHnj3zo2DjTlzOh5ZsQD_Ik4bF96VMHRiSCNxvpez5H_DoPfDVAVrxeZkqnkG7cCgQm7SaBMOjaWRzU9odIGzIkMb7JlUrofURbWAKvkjQ-zen3aUZ5PMOyCzjTa5Kg57wr9sWhbYICfz-gR9jsZ0OwS7L0zqlsLj2pPPpB0m533ldijAyzuxThRkxanx-nK291-7w5CSA6l4sYWYahtYri9iWv5dwN4pzsL6xL5edeGjV5QD40tAVShnpEI3-E8yU-cAsnphv36d3AOauJJyGD-ZZDsgUH8s6P-ZLC43hOiW4FMweKKbLyRjDCksWrRTDNVlqCS5YbfMrF5AksFeIGkUKGJwL4q00Vmyu1Fcutzp4ExNONunvb2gjz6IsN3LEOTH7yxlXVFRMltVSSY4-dh_7wqIS3nEPCiHM9uWqWuFplodNOnOcks5HzGJG0tdf2xbDI6hRZn-FMhGUGjnh9DqnqG9WDcgmgZ2xEMlOhecqku64Rl7L2w4fiq42OOzgrOCrwcMeL6s6fNY0IclXCaocTZAJkTF-KhGqckk6wtLZ-FKNQ2bYE0d5G8TTc7fpAOhton5n7hTPGxJNLNeY0CdRl_H-jYNSA_yQ3mvES3Wdu9leryWyXQrqfGRXxR20i5d4ZeOgBZlUO6wkqad31uj9-cWlAa9zK1Vw-XrepP4-O5Q_BAarbTyajnGuBV_c8kQWvXGbrGi5kpTXMMNSAid_OKyGJdHSZV5srHgp9xaYSTNhn9Te-G-7AZgE2hfIavSen45vBgZBOYuItytKcP1D6Q6ypZEacNQ0inlAz4R6ucSDVDdfJ45sPZgfYel4yXFtMvotUsGhmJHurC0xeYmjEmHxc_c0vRZ4NaDLmu6eRAZwJmxpnqNeAr1eWcjZX870tuaXVWGvN0QAPGyXltJ851EmSaD-TPqNfZEjlbN5QxsmqKuotdOFsISDsavowIKQIpOhLD--MWFnwBuu/https://www.amazon.com/stores/page/F6D4F618-AC54-4946-8201-F40A38210E02/?_encoding=UTF8&store_ref=SB_A068251630ZQOFPOH8GJR-A08479331REFOGCVINPMY&pd_rd_plhdr=t&aaxitk=816dbdfd86d392d6294cd73b82e04ceb&hsa_cr_id=0&lp_slot=desktop-arbies&lp_page_asin=B0B7X15D9B&pd_rd_i=ad2&ref_=sbx_be_dp_arbies_mbd_mb1_bkgd&pd_rd_w=TPjzc&content-id=amzn1.sym.d4d91f0b-2ea5-4099-b125-c8f96930ac21&pf_rd_p=d4d91f0b-2ea5-4099-b125-c8f96930ac21&pf_rd_r=MK1KMXCE4TW0T8QZ6M7M&pd_rd_wg=gTK3k&pd_rd_r=7ad66603-6f59-4d42-bd51-135397d270f6"
+      },
+      {
+        "position": 3,
+        "name": "Sponsored ad from JMEXSUSS. Shop JMEXSUSS.",
+        "link": "https://aax-events-cell02-cf.us-east.ono.axp.amazon-adsystem.com/x/c/JJYgGbG5F_fAVMpfcUF-v84AAAGhZGP68gEAAAH2AQBvbm9fdHhuX2JpZDMgICBvbm9fdHhuX2ltcDIgICChXtVM/clv1c_ek-YBff3Vcba3jI2mMVSJvBwCsVHq2g1iJOvW-q2NaHiLXAyTiFQ9a4rInnMP5kszENezCcyG7mvD6V7oLkBpYJkDxykKXqsEjPMhbhf76owutfLLC9st2pWv6kVp3Af24Avssekbrm9oBTxkOIi9evpOe_0FlTgvpQwv2eKD4cFTCOtfgOxXbN8eQJVsn2SGq5BpH1UlAfD5_jlx9EQ8-12NdWZhopV_YqbS5KBkkA6i-RVRbswBkI7zoXrXWoWi4i_PbC6SBB3aCr6K7bPJWeyfUOdx88OiUWIbyl8t5X9d8m782z7xXiBgoEK5naYgpziG1MSQiXjWb69_buagyK-UBY-XcnVU6XhQSZ5XTUfHm1Zp6P5Gc_Ep9mxPrJByTOstQzricDwxbMoKhCiiEoV6drWnWWoBBYLVLGIxND_pO81333a_uWI_yLTqtCrNnGwhdJKeV3L69JsPJCaaJCq7Q0V-t33ZSah07x6qZjabdcLYknEJ60obzrfBHO9kq4rtfs0NeePlntgPn5rRFnjazoGdZiqWxuhd-eRMptbvSrUjXd0EHh5unMR0Wf9l_pbASeihRXqYeYBmQLeGfWlqr6QWmZ3gFn6fiFwGKIaXYXgVG8FhCyLZwtYW48q7emkR1d-N5B0FjV5l5k2X3FNXuGC6dA-Cf5_5A9z1OpcuTJIL4wZeAi_FFhH1hBSdjSgcl8eFritszJI9dgQnCWD84kXRHQEWQuczKDl5_WbbY_hkjvGyZ7GisIkPQXt5FIQ9jD4p0NG_f4E26cT8nayDZAGx8rJ_Hq7DCNSBvCD3WA5YcF2nmH-JnLk8JhndlNmAhXPo-5SwXTG0gRTvmP_4Ltb-SSazSuImRUdIcXDe2TMFU0OF0mYer6-kXVKmw2cOV6zNLcFgSihlmjYZw8UrI7fj12fXAG_lLdfFGo3OLsoNudNS83L2H8N-EvdFAl4201kZx0CNeXwRVWBdgDNYOI_a-EDbDf6HQEBUp6rO3wqLPffG-4rRv3MP_4ouRWMOXLKH7H7hynbtufWEVW0EsgWNNAJdxHmGXfLEiLtlRR9_rKNIYsy7PUZ81cVDOMICpEWH8YV0qSaTrqnFkkXbFWOkZDCap-wdIKjxhBU-Hix5rOhwaD5D6gR4fGTuweFVB_0dH5FtN19o01Wj0R7pxoWtfhfF35Gza9R3Ww2ySJ_9tccykUpe2CE38Je2z5uQU9HZ-1MwyRxDiITVR_rOmbVLhqwk9vuA32yGAlY27LKthzyE2AzRt-cNCo2t_RV96u-hZ4IJiwUmK7VJroVA4S-2ZUIXh_MfIfmpStC1tLt_UHXND9stLB1VK0lHJ2vnKkXtipgweIvrlsuu93OwGH2PbjcB1jYgR4SXu8Lv6mvsL9dnBiMBllU0V0zKv-IaM0phsdEpljP6bTtOBEB5ybIzS7V_oD6p0bf2l9TxJUrQCP0QHrM1uofqa2gtlITdP4apYD8f2OG9RCgcHXgNwJOdcBpPY2bn9Vn4Gxzto-MIP2Kc5gfV35LiEWAdVHva3mdwLzhlTa8dTPU6FyhFY5PFNeXpvUB7gvv5FX7UrrJhUXOa22cdsItnNylvd_AIR0/https://www.amazon.com/stores/page/70B3A2BC-F4E6-40ED-8EAD-C0199CDBA1F8/?_encoding=UTF8&store_ref=SB_A033002425HDW0U1Q8EIJ-A0724547UBAGDH4VESJ6&pd_rd_plhdr=t&aaxitk=5e835d48f846c335a2eeb6c691aea07f&hsa_cr_id=0&lp_slot=desktop-arbies&lp_page_asin=B0B7X15D9B&pd_rd_i=ad3&ref_=sbx_be_dp_arbies_mbd_mb2_bkgd&pd_rd_w=TPjzc&content-id=amzn1.sym.d4d91f0b-2ea5-4099-b125-c8f96930ac21&pf_rd_p=d4d91f0b-2ea5-4099-b125-c8f96930ac21&pf_rd_r=MK1KMXCE4TW0T8QZ6M7M&pd_rd_wg=gTK3k&pd_rd_r=7ad66603-6f59-4d42-bd51-135397d270f6"
+      },
+      {
+        "position": 4,
+        "name": "Sponsored ad from SUNSGNE. \"G40 LED Outdoor String Lights.\" Shop SUNSGNE.",
+        "link": "https://aax-events-cell02-cf.us-east.ono.axp.amazon-adsystem.com/x/c/JOfMidd4NXEEMZ0_MuhcRnEAAAGhZGP68wEAAAH2AQBvbm9fdHhuX2JpZDMgICBvbm9fdHhuX2ltcDIgICAZQIV5/clv1c_ek-wBYHXFcbWDn2nI7cAJ16WtD4jqvAbdBo_P-joj49H6fzjzYMdCo1TkEWrYKBEzsnCn8Lvj1caowsbMDBop98bW-D6NBkd6ktljFphzIou6CVzwtsB8-j84dlEBzOWvyBxeekMCSebW5-glUrWKPRLoNyEvpVr9mZySDKu9ua_mO9Dv8poqYvUlcM6m32rjKuvK0dNZ18YtTddNc-pOdgxHdi5oqyDAyM-rET2yUqiP9M9MbmxvrDmeIQQHdg7_oHDzoeKXcoP6aJ7fGm62qz68GCH1PJa2m7syGlgAGw_3VNxxsE40j91SDYUoejDrUcl0PnOd9Tex7-E1PFa_c1f1BIYbmzcwqnZ7c2zmUuiFS5idPQCsG_B9R0WZT-mVGM_gDWEV8TReQePUGxTq-EBkcuM6VESu8I-gY3xcVHgVIIJOMTQv2XZrn73_Vjkg91GRCZbzCJYssOmdi8iVUsi2SAUxMLT01Fajvy8_TnU5Q7yNMRRKo0K-qvlogGXmIG9r8wQAVLokgtPLbVwkQZr5RPFE7jl8HJFchJIX7JPACScMKPy0atUvQhchsDRL9DKxFsi-TdBl7zWapBzoxfDT2ks7oNM9B5lE4uN541midbs9kIzuGT7hlaKf3QJ22LFWPYdctQzM46KyuYpWJp_q9zwhybPml4RjQeom3MoDObTC1sVwPLi9e6h6GuXy97jpElVq7gwZXzV6BiWWsReyR6xd70mo9kDM7m3LICGGdUFTfER2CbKovBTT-GzWr5PDWWtYF11QoEdIdETpme_gXHiHqax_cwLFP7icV0cmYADtidYMxFkCWhxopB-gm17JWCC_qPVwDxZtnK2GXUXXhp2bW0lEETnFG2vWRmV8cPQwNfDwtP8E5T-UlKJVhZZhkJqLhPLyznFNh3lkeNaUXOhq8YURZbcMICe2jZ40nrLTylhxaeatm5_wVUR4ycLTz8U2A6W9jrMJcVFpwH81u-CNm7dju72OjkVg9XTijKnJwMA9gctzY7XlSdRAtcf7w2gYuA-RafxGWeLC7oBuO4AEIXLBLCAdH9b9cbcc0_nRUJyEjXxmztHgIyI4mxZFmHdjNboAjRp1Wnl1eTITyCvHCu6khNtuKKOCs5LXGE7DFLlUcRLZp5V5SPXEJHqKzu3Mx2s8xQfsUhiDDgBdUDQ1-FKZ92OoFhIHB4V97nGMF4mAaxVMysYvICpyGgDrnIQP359wSVoblvPggDY-nA4JVDLWlntihvGq72pel90fYcDRMqhtxGnNEz0OEFMFCWlNpRHjuHccdYiUqKodhnoeJd-rpmdSdVlL3pqRQQ-Ca__SOUB5moqRQQEW6NBrq_3Qgse00W_W18pQ9gRrYYhfE929cwu5UmnfcaPQfEFFRoUB_fDrnoiCo9gMdg4CYpViwlD6y4uvtQprZa19eUnqBGikTiaNCA1SiIDa0MhDQQcbbYj1ErYI0Lg5r938HOPyV8ftHUnLCKpwwU0V3pw4fTgCVHYejRr2fn4nsNRe15AzuqowDxqXiChzXjw5J571V7bA-hriWexsP8CpdrrLQ1sOiAbt5FdBXiDwNkHdy4OHKX3YoYi9UBPRBcZOYoaOZxplPpbrAcl/https://www.amazon.com/stores/page/F931035F-DC5F-4BBA-ACEF-D415123AE818/?_encoding=UTF8&store_ref=SB_A06358681LFIJ0XXVPR5B-A0030242IWEHXCBR6F40&pd_rd_plhdr=t&aaxitk=8919ad385eedb4623700d468e1bd7a0e&hsa_cr_id=0&lp_slot=desktop-arbies&lp_page_asin=B0B7X15D9B&pd_rd_i=ad4&ref_=sbx_be_dp_arbies_mbd_mb3_bkgd&pd_rd_w=TPjzc&content-id=amzn1.sym.d4d91f0b-2ea5-4099-b125-c8f96930ac21&pf_rd_p=d4d91f0b-2ea5-4099-b125-c8f96930ac21&pf_rd_r=MK1KMXCE4TW0T8QZ6M7M&pd_rd_wg=gTK3k&pd_rd_r=7ad66603-6f59-4d42-bd51-135397d270f6"
+      }
+    ],
+    "reviews_information": {
+      "summary": {
+        "text": "Customers find the string lights wonderfully bright with a warm blue glow, and one customer mentions they're bright enough to see through multiple layers of colored fabric. However, the color quality receives mixed feedback, with some praising the variety of patterns and colors while others report inconsistent color distribution along the string. Moreover, the reliability and durability are concerning, with multiple customers reporting that 3/4 of the lights don't work and that they only last a week. Additionally, the battery life and value for money are mixed aspects, with some finding them great for the price while others say they're not worth the money and go through batteries quickly.",
+        "insights": [
+          {
+            "title": "Brightness",
+            "sentiment": "positive",
+            "mentions": {
+              "total": 296,
+              "positive": 230,
+              "negative": 66
+            },
+            "summary": "Customers appreciate the string lights' brightness, noting they give off a warm blue glow without being too harsh on the eyes. One customer mentions they are bright enough to see through multiple layers of colored fabric, while another finds them perfect for night golf.",
+            "examples": [
+              {
+                "position": 1,
+                "snippet": "...Loved that they were bright and worked well. I didn't notice them getting warm at all and they are very lightweight. Very pleased with my purchase.",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R3N04Q3K9ECV6H"
+              },
+              {
+                "position": 2,
+                "snippet": "These are not 3 strand, but they are very bright. Brighter than the 3 strand I bought at the same time. They are good, just not 3 strand....",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/RXV48BD7U99HJ"
+              },
+              {
+                "position": 3,
+                "snippet": "These lights were perfect for the table and super bright! The wire is super tiny so you may have to untangle the lights but that’s the only con....",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R38UO9ST4JWCI0"
+              },
+              {
+                "position": 4,
+                "snippet": "NOT bright at all ...disappointed",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R6O5393D7NC4H"
+              }
+            ]
+          },
+          {
+            "title": "Quality",
+            "sentiment": "mixed",
+            "mentions": {
+              "total": 516,
+              "positive": 349,
+              "negative": 167
+            },
+            "summary": "Customers have mixed opinions about the string lights, with some finding them amazing and nice, while others describe them as terrible and of poor quality.",
+            "examples": [
+              {
+                "position": 1,
+                "snippet": "...I am using Duracell and Amazon batteries. Overall love them an think that battery option would be perfect some decorating at home during holidays or...",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/RFR2303I33EUB"
+              },
+              {
+                "position": 2,
+                "snippet": "...They looked so great! Nice, bright color and everyone loved them! Definitely recommend if you are looking for a good set of fairy lights.",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R1FZCD8JDAC6XA"
+              },
+              {
+                "position": 3,
+                "snippet": "...set okay just got some more today one works and one doesn't, very disappointed I'm 74 can't just run to the store that's why I order off of Amazon..",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R2TNR7XTO0SKHO"
+              },
+              {
+                "position": 4,
+                "snippet": "...Returning them, they are cheap so I'll try to get another one and I'll update you if I get two bad lights in a row.",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R1NB97W8XOQE7T"
+              }
+            ]
+          },
+          {
+            "title": "Reliability",
+            "sentiment": "mixed",
+            "mentions": {
+              "total": 304,
+              "positive": 154,
+              "negative": 150
+            },
+            "summary": "Customers have mixed experiences with the string lights' reliability, with some reporting that they work great while others mention that they completely stopped working or that only 3/4 of the lights were functional.",
+            "examples": [
+              {
+                "position": 1,
+                "snippet": "Bought this portable mini light string and used it at camp, works great. We use it all the time at camp to brighten up our campsites....",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R3JN95B087XUK3"
+              },
+              {
+                "position": 2,
+                "snippet": "It stopped working right after I got my mantle decorations done .Ruined it all.I take it back....",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R2K35RPV5ZZSS0"
+              },
+              {
+                "position": 3,
+                "snippet": "They worked great when I took out of the box but then in a few days the lights dimmed on one strand and the remote quit working on the other strand,...",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R24UOSER3VUIQ3"
+              },
+              {
+                "position": 4,
+                "snippet": "The first lights I received didn't work so they sent a replacement at no charge.",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R3B3WES51VQUZV"
+              }
+            ]
+          },
+          {
+            "title": "Color",
+            "sentiment": "mixed",
+            "mentions": {
+              "total": 227,
+              "positive": 143,
+              "negative": 84
+            },
+            "summary": "Customers have mixed opinions about the string lights' colors, with some appreciating the variety of patterns and shades like blue and purple, while others note that the bulbs are not all the same color and that the colors change as the batteries die.",
+            "examples": [
+              {
+                "position": 1,
+                "snippet": "Bright, colorful, battery operated and the length is great. I will purchase these again if and when I need the, Great lights, great price.",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/REZJRW7WP1GTH"
+              },
+              {
+                "position": 2,
+                "snippet": "These are not a pastel colors they are bright colors. I needed these for Easter and I cannot use them since they look like Christmas light colors.",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/RILV8DO53MFRZ"
+              },
+              {
+                "position": 3,
+                "snippet": "...I gave it 2 stars because the colors are bright and came neat in a box for use. However, online the multicolored option looks like pastels to me....",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R1S2PF7VRQMUD1"
+              },
+              {
+                "position": 4,
+                "snippet": "...These fit the bill perfectly. Colors are amazing and vibrant. I am ordering more!",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R2GAV1WI0GEEVB"
+              }
+            ]
+          },
+          {
+            "title": "Value for money",
+            "sentiment": "mixed",
+            "mentions": {
+              "total": 222,
+              "positive": 123,
+              "negative": 99
+            },
+            "summary": "Customers have mixed opinions about the value for money of these string lights, with some finding them great for the price and willing to buy more, while others consider them a waste of money.",
+            "examples": [
+              {
+                "position": 1,
+                "snippet": "...And you get two sets at a great price. I'm currently using it in a Halloween decoration. Very nice! I'll probably buy again.",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R3V0NNZ6FSHL5H"
+              },
+              {
+                "position": 2,
+                "snippet": "Not very long but bright. Not worth it",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R1QIWKIY6XHEM"
+              },
+              {
+                "position": 3,
+                "snippet": "...For the price, I feel they are a good value - if you are particular about how they look in daylight, be prepared for kinking.",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R1TE51WPF3A4UJ"
+              },
+              {
+                "position": 4,
+                "snippet": "1 broke before I could use it and the other quite working. Waste of money…",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R3LXNNLO01HAAO"
+              }
+            ]
+          },
+          {
+            "title": "Battery life",
+            "sentiment": "mixed",
+            "mentions": {
+              "total": 191,
+              "positive": 66,
+              "negative": 125
+            },
+            "summary": "Customers have mixed experiences with the battery life of these string lights: while some report they last 24 hours a day, others mention they go through batteries quickly and need replacement after a few weeks of use.",
+            "examples": [
+              {
+                "position": 1,
+                "snippet": "Eats batteries. Last only one day. Plug in is fine",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R2UL5F4CYIZWX4"
+              },
+              {
+                "position": 2,
+                "snippet": "Bright, colorful, battery operated and the length is great. I will purchase these again if and when I need the, Great lights, great price.",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/REZJRW7WP1GTH"
+              },
+              {
+                "position": 3,
+                "snippet": "these take 3 AA batteries which is a lot of power for tiny fairy lights, they burm down in about 36 hours of use.",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R3R74B00XECQPP"
+              },
+              {
+                "position": 4,
+                "snippet": "Batteries don't last!!!! 😔",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R2N08M95VQZ2G4"
+              }
+            ]
+          },
+          {
+            "title": "Durability",
+            "sentiment": "negative",
+            "mentions": {
+              "total": 165,
+              "positive": 40,
+              "negative": 125
+            },
+            "summary": "Customers report significant durability issues with these string lights, noting that they break on the first day, don't last long, and die within 2 days of use.",
+            "examples": [
+              {
+                "position": 1,
+                "snippet": "...But I knew they were battery operated but they don’t last long",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R2DNTHN2CFLM5M"
+              },
+              {
+                "position": 2,
+                "snippet": "Broke",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R2IKJW0PN4X4IX"
+              },
+              {
+                "position": 3,
+                "snippet": "...Unfortunately, this one did not even last a month before it quit working. A waste of money.",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R2YFF1ENO4WX6E"
+              },
+              {
+                "position": 4,
+                "snippet": "Amazingly bright,long lasting with tons of options!",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R12WORTTHF01VB"
+              }
+            ]
+          }
+        ],
+        "customer_reviews": {
+          "5 star": 68,
+          "4 star": 12,
+          "3 star": 8,
+          "2 star": 4,
+          "1 star": 8
+        }
+      }
+    }
+  }
+}

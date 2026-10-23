@@ -1,0 +1,965 @@
+{
+  "provider": "serpapi",
+  "endpoint": "https://serpapi.com/search.json",
+  "parameters": {
+    "engine": "amazon_product",
+    "asin": "B07HDX46HS",
+    "amazon_domain": "amazon.com",
+    "language": "en_US",
+    "shipping_location": "US",
+    "output": "json"
+  },
+  "fetched_at_utc": "2026-10-22T08:43:42.917365+00:00",
+  "raw_file": "raw/serpapi-f40887f551ca7c0dd8f4.json",
+  "response": {
+    "search_metadata": {
+      "id": "6ad9ccbfc06680935b452094",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/HwbV18-mw9XP6je3XYDTGV203GDqPHiJPnfNGxln1SI/6ad9ccbfc06680935b452094.json",
+      "markdown_endpoint": "https://serpapi.com/searches/HwbV18-mw9XP6je3XYDTGV203GDqPHiJPnfNGxln1SI/6ad9ccbfc06680935b452094.md",
+      "created_at": "2026-10-22 08:43:43 UTC",
+      "processed_at": "2026-10-22 08:43:43 UTC",
+      "amazon_product_url": "https://www.amazon.com/dp/B07HDX46HS/?language=en_US",
+      "raw_html_file": "https://serpapi.com/searches/HwbV18-mw9XP6je3XYDTGV203GDqPHiJPnfNGxln1SI/6ad9ccbfc06680935b452094.html",
+      "total_time_taken": 10.78
+    },
+    "search_parameters": {
+      "engine": "amazon_product",
+      "asin": "B07HDX46HS",
+      "amazon_domain": "amazon.com",
+      "language": "en_US",
+      "device": "desktop",
+      "shipping_location": "US"
+    },
+    "product_results": {
+      "categories": [
+        {
+          "position": 1,
+          "name": "Toys & Games",
+          "link": "https://www.amazon.com/toys/b/ref=dp_bc_1?ie=UTF8&node=165793011",
+          "node": "165793011",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&language=en_US&node=165793011&shipping_location=US"
+        },
+        {
+          "position": 2,
+          "name": "Novelty & Gag Toys",
+          "link": "https://www.amazon.com/kids-activities-Amusements/b/ref=dp_bc_2?ie=UTF8&node=166027011",
+          "node": "166027011",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&language=en_US&node=166027011&shipping_location=US"
+        },
+        {
+          "position": 3,
+          "name": "Squeeze Toys",
+          "link": "https://www.amazon.com/Squeeze-Toys/b/ref=dp_bc_3?ie=UTF8&node=23538328011",
+          "node": "23538328011",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&language=en_US&node=23538328011&shipping_location=US"
+        }
+      ],
+      "asin": "B07HDX46HS",
+      "title": "Crayola Globbles Fidget Toy, 6ct, Sticky Stress Ball, Kid Stocking Stuffers",
+      "link": "https://www.amazon.com/hp/wlp/pipeline/membersignup?ref=primedp_ventures_desktopBelowThreshold&primeCampaignId=primedp_ventures_desktopBelowThreshold",
+      "link_clean": "https://www.amazon.com/dp/B07HDX46HS/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B07HDX46HS&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+      "badges": [
+        "Amazon's Choice"
+      ],
+      "variants": [
+        {
+          "title": "Color",
+          "items": [
+            {
+              "position": 1,
+              "asin": "B07HDX46HS",
+              "name": "Multi - 6 Ct",
+              "image": "https://m.media-amazon.com/images/I/41JhIRet6NL._SS64_.jpg",
+              "selected": true,
+              "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B07HDX46HS&device=desktop&engine=amazon_product&language=en_US&shipping_location=US"
+            },
+            {
+              "position": 2,
+              "asin": "B07DL4Z7XW",
+              "name": "Multi - 16 Ct",
+              "image": "https://m.media-amazon.com/images/I/41+ac3QHmgL._SS64_.jpg",
+              "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B07DL4Z7XW&device=desktop&engine=amazon_product&language=en_US&shipping_location=US"
+            }
+          ]
+        },
+        {
+          "title": "Number of Items",
+          "items": [
+            {
+              "position": 1,
+              "asin": "B07HDX46HS",
+              "name": "1",
+              "selected": true,
+              "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B07HDX46HS&device=desktop&engine=amazon_product&language=en_US&shipping_location=US"
+            },
+            {
+              "position": 2,
+              "asin": "B0GMZFG7T4",
+              "name": "2",
+              "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0GMZFG7T4&device=desktop&engine=amazon_product&language=en_US&shipping_location=US"
+            }
+          ]
+        }
+      ],
+      "variant_combinations": [
+        {
+          "dimensions": {
+            "color": "Multi - 16 Ct",
+            "number_of_items": "1"
+          },
+          "asin": "B07DL4Z7XW",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B07DL4Z7XW&device=desktop&engine=amazon_product&language=en_US&shipping_location=US"
+        },
+        {
+          "dimensions": {
+            "color": "Multi - 16 Ct",
+            "number_of_items": "2"
+          },
+          "asin": "B0GMZFG7T4",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0GMZFG7T4&device=desktop&engine=amazon_product&language=en_US&shipping_location=US"
+        },
+        {
+          "dimensions": {
+            "color": "Multi - 6 Ct",
+            "number_of_items": "1"
+          },
+          "asin": "B07HDX46HS",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B07HDX46HS&device=desktop&engine=amazon_product&language=en_US&shipping_location=US"
+        },
+        {
+          "dimensions": {
+            "color": "Multi - 6 Ct",
+            "number_of_items": "2"
+          },
+          "unavailable": true
+        }
+      ],
+      "brand": "Visit the Crayola Store",
+      "thumbnail": "https://m.media-amazon.com/images/I/71uE0L7cFOL._AC_SY300_SX300_QL70_FMwebp_.jpg",
+      "thumbnails": [
+        "https://m.media-amazon.com/images/I/71uE0L7cFOL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81tGrWITSOL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81OQm+I5tyL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/91CUOz2JK1L._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61D67hqY-2L._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71t7P3DCtTL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/817SVIwGwVL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81sHvOdie6L._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71qwgW6vF6L._AC_SL1500_.jpg"
+      ],
+      "rating": 4.5,
+      "reviews": 21178,
+      "bought_last_month": "30K+ bought in past month",
+      "discount": "-8%",
+      "price": "$11.99",
+      "extracted_price": 11.99,
+      "delivery": [
+        "FREE delivery Tuesday, October 27 on orders shipped by Amazon over $35"
+      ],
+      "stock": "In Stock",
+      "description": "Feel that satisfying squish with Crayola Globbles Fidget Toys—a colorful, creative way to relieve stress, stay focused, and have fun! This 6-count pack includes vibrant, reusable squish balls that stick, stack, squish, and sling without leaving a sticky residue. Whether you need stress relief toys for adults, sensory toys for kids, or classroom fidget tools, Globbles deliver endless tactile fun. Each ball has a super sticky, squeezable texture perfect for anxiety relief, sensory stimulation, and calming play. Great for kids with ADHD, autism, or sensory processing needs, they offer a quiet, mess-free way to self-regulate. When they lose stickiness, rinse with soap and water to refresh. This makes a delightful Easter basket essential—perfect as a cheerful Easter basket stuffer that adds creative fun to any spring celebration. Compact and portable, they’re perfect for home, classrooms, travel, or the office. Use them as party favors, classroom rewards, or fun desk toys. Safe, nontoxic, and ACMI Certified, these fidget toys are ideal for ages 4 and up."
+    },
+    "purchase_options": {
+      "buy_new": {
+        "caption": "Buy New",
+        "price": "$11.99",
+        "extracted_price": 11.99,
+        "delivery": [
+          "FREE delivery Tuesday, October 27 on orders shipped by Amazon over $35"
+        ],
+        "stock": "In Stock",
+        "features": {
+          "shipper_seller": {
+            "text": "Amazon.com",
+            "details": {
+              "heading": "Shipper / Seller",
+              "content": "Amazon.com"
+            }
+          },
+          "returns": {
+            "text": "FREE 30-day refund/replacement",
+            "details": {
+              "heading": "FREE 30-day refund/replacement"
+            },
+            "link": {
+              "text": "See exceptions",
+              "link": "https://www.amazon.com/gp/help/customer/display.html/?nodeId=GKQNFKFK5CF3C54B"
+            }
+          },
+          "packaging": {
+            "text": "Ships in product packaging",
+            "details": {
+              "heading": "Ships in product packaging",
+              "content": "This item has been tested to certify it can ship safely in its original box or bag to avoid unnecessary packaging. Since 2015, we have reduced the weight of outbound packaging per shipment by 41% on average, that’s over 2 million tons of packaging material.If you still require Amazon packaging for this item, choose \"Ship in Amazon packaging\" at checkout. Learn more"
+            },
+            "link": {
+              "text": "Learn more",
+              "link": "https://www.amazon.com/sipp_home"
+            }
+          }
+        }
+      },
+      "buy_used": {
+        "caption": "Used - Like New",
+        "price": "$11.09",
+        "extracted_price": 11.09,
+        "delivery": [
+          "FREE delivery Wednesday, October 28 on orders shipped by Amazon over $35"
+        ],
+        "stock": "Only 1 left in stock - order soon.",
+        "features": {
+          "ships_from": "Amazon",
+          "sold_by": "Amazon Resale"
+        }
+      }
+    },
+    "about_item": [
+      "CRAYOLA GLOBBLES FIDGET TOYS: This 6-count set features vibrant, squishy balls that stick, stack, squish, and sling—perfect for stress relief, sensory play, and fidget fun.",
+      "STOCKING STUFFERS FOR KIDS: Give the gift of creativity with this Crayola toy, perfect for kids stocking stuffers or a Christmas gift for under the tree.",
+      "STICKY SQUISH TOYS FOR KIDS: These reusable fidget balls never leave a sticky residue and regain their stickiness after washing—great for tactile play and anxiety relief.",
+      "CALMING SENSORY PLAY: Great for helping kids focus, self-regulate, and relieve stress through tactile, hands-on fun.",
+      "WASHABLE & PORTABLE SENSORY TOYS: Easy to clean with soap and water, making them perfect for on-the-go play at home, school, or travel.",
+      "STRESS BALLS FOR KIDS & ADULTS: Great for focus and relaxation—use them as desk toys, party favors, or tradeable toys.",
+      "SAFE & NONTOXIC: Designed for kids ages 4 and up, these sensory fidget toys are safe, durable, and endlessly fun. Do not expose to extreme temperatures."
+    ],
+    "bought_together": [
+      {
+        "position": 1,
+        "title": "Crayola Globbles Fidget Toy, 6ct, Sticky Stress Ball, Kid Stocking Stuffers | Holiday Gift for Kids & Adults, Squishy Balls, Calming Sensory Gifts for Stress Relief",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/71uE0L7cFOL._AC_UL116_SR116,116_.jpg",
+        "price": "$11.99",
+        "extracted_price": 11.99,
+        "delivery": [
+          "Get it as soon as Tuesday, Oct 27"
+        ],
+        "stock": "In Stock"
+      },
+      {
+        "position": 2,
+        "title": "Cheese Squishy Toy – Coconut Oil Squishy Scentless Anti-Pop No Rebound Dough Texture Stress Relief Fidget Toy for Adults, Anxiety Relief Sensory Tool",
+        "link": "https://www.amazon.com/Realistic-Swiss-Cheese-Squishy-Toy/dp/B0GTZ43D24/ref=pd_bxgy_thbs_d_sccl_1/136-5516565-7029432?pd_rd_w=UYsbk&content-id=amzn1.sym.1fbb380b-ee1d-4eeb-a44a-61f4d3013ea6&pf_rd_p=1fbb380b-ee1d-4eeb-a44a-61f4d3013ea6&pf_rd_r=G285GXGX2K0AYMK3APTP&pd_rd_wg=tPkvq&pd_rd_r=c19a75ca-cc42-4a06-89db-2fcc275094a5&pd_rd_i=B0GTZ43D24&psc=1",
+        "asin": "B0GTZ43D24",
+        "link_clean": "https://www.amazon.com/Realistic-Swiss-Cheese-Squishy-Toy/dp/B0GTZ43D24/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0GTZ43D24&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/511BsXUfz-L._AC_UL116_SR116,116_.jpg",
+        "price": "$9.99",
+        "extracted_price": 9.99,
+        "delivery": [
+          "Get it as soon as Tuesday, Oct 27"
+        ],
+        "stock": "In Stock"
+      },
+      {
+        "position": 3,
+        "title": "Coconut Oil Butter Squishy Toy, Butter Stick Stress Relief Squeeze Toy, Non-Rebound Moldable Sensory Fidget Toy, Soft Jelly Squishy Desk Toy for Teens Adults",
+        "link": "https://www.amazon.com/Coconut-Squishy-Squeeze-Non-Rebound-Moldable/dp/B0HG984XF7/ref=pd_bxgy_thbs_d_sccl_2/136-5516565-7029432?pd_rd_w=UYsbk&content-id=amzn1.sym.1fbb380b-ee1d-4eeb-a44a-61f4d3013ea6&pf_rd_p=1fbb380b-ee1d-4eeb-a44a-61f4d3013ea6&pf_rd_r=G285GXGX2K0AYMK3APTP&pd_rd_wg=tPkvq&pd_rd_r=c19a75ca-cc42-4a06-89db-2fcc275094a5&pd_rd_i=B0HG984XF7&psc=1",
+        "asin": "B0HG984XF7",
+        "link_clean": "https://www.amazon.com/Coconut-Squishy-Squeeze-Non-Rebound-Moldable/dp/B0HG984XF7/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0HG984XF7&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/71guGNIf9oL._AC_UL116_SR116,116_.jpg",
+        "price": "$9.99",
+        "extracted_price": 9.99,
+        "delivery": [
+          "Get it as soon as Tuesday, Oct 27"
+        ],
+        "stock": "In Stock"
+      }
+    ],
+    "related_products": [
+      {
+        "position": 1,
+        "asin": "B08HDJC2JF",
+        "title": "Foam Airplanes - Stocking Stuffers for Kids All Ages 4 5 6 7 8 9 10 Year Old - Best Toy Gift - Boy Toys Stocking Stuffer Gifts - Air Plane Gift Idea - Easter Basket Gifts for Boys & Girls Party Favors",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo3NDk3Nzg1NjcxODc4OTMwOjE3OTI2NTg2MzA6c3BfZGV0YWlsX3RoZW1hdGljOjMwMTU5ODU0MTA5MjUwMjo6Ojo&url=%2Fdp%2FB08HDJC2JF%2Fref%3Dsspa_dk_detail_0%3Fpsc%3D1%26pd_rd_i%3DB08HDJC2JF%26pd_rd_w%3DPYIm9%26content-id%3Damzn1.sym.3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_p%3D3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_r%3DG285GXGX2K0AYMK3APTP%26pd_rd_wg%3DtPkvq%26pd_rd_r%3Dc19a75ca-cc42-4a06-89db-2fcc275094a5%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM",
+        "link_clean": "https://www.amazon.com/dp/B08HDJC2JF/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B08HDJC2JF&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "badges": [
+          "Limited time deal"
+        ],
+        "thumbnail": "https://m.media-amazon.com/images/I/816FmlG3KuL._AC_UF480,480_SR480,480_.jpg",
+        "rating": 4.3,
+        "reviews": 5424,
+        "discount": "-31%",
+        "price": "$9.35",
+        "extracted_price": 9.35,
+        "old_price": "null"
+      },
+      {
+        "position": 2,
+        "asin": "B0CP22LZZ1",
+        "title": "120 Pcs Fidget Toys Pack, Pop Sensory Party Favors Set Gifts for Kids Adults Boy Girl Stocking Stuffers Autistic Bulk Goodie Bag Filler Treasure Box Classroom Prizes School",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo3NDk3Nzg1NjcxODc4OTMwOjE3OTI2NTg2MzA6c3BfZGV0YWlsX3RoZW1hdGljOjMwMDE5OTgyMjMwMDMwMjo6Ojo&url=%2Fdp%2FB0CP22LZZ1%2Fref%3Dsspa_dk_detail_1%3Fpsc%3D1%26pd_rd_i%3DB0CP22LZZ1%26pd_rd_w%3DPYIm9%26content-id%3Damzn1.sym.3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_p%3D3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_r%3DG285GXGX2K0AYMK3APTP%26pd_rd_wg%3DtPkvq%26pd_rd_r%3Dc19a75ca-cc42-4a06-89db-2fcc275094a5%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM",
+        "link_clean": "https://www.amazon.com/dp/B0CP22LZZ1/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0CP22LZZ1&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "badges": [
+          "Limited time deal"
+        ],
+        "thumbnail": "https://m.media-amazon.com/images/I/91i6gjecQ4L._AC_UF480,480_SR480,480_.jpg",
+        "rating": 4.6,
+        "reviews": 2168,
+        "discount": "-10%",
+        "price": "$17.96",
+        "extracted_price": 17.96,
+        "price_unit": "$0.15 / count",
+        "extracted_price_unit": 0.15,
+        "old_price": "null"
+      },
+      {
+        "position": 3,
+        "asin": "B0F1YDRG3P",
+        "title": "12 Pack Slow Rising Stress Cube, Stress Balls Fidget Squishy Toys | Squeeze Toy for...",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo3NDk3Nzg1NjcxODc4OTMwOjE3OTI2NTg2MzA6c3BfZGV0YWlsX3RoZW1hdGljOjMwMTI3MTY4NTQ0NTgwMjo6Ojo&url=%2Fdp%2FB0F1YDRG3P%2Fref%3Dsspa_dk_detail_2%3Fpsc%3D1%26pd_rd_i%3DB0F1YDRG3P%26pd_rd_w%3DPYIm9%26content-id%3Damzn1.sym.3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_p%3D3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_r%3DG285GXGX2K0AYMK3APTP%26pd_rd_wg%3DtPkvq%26pd_rd_r%3Dc19a75ca-cc42-4a06-89db-2fcc275094a5%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM",
+        "link_clean": "https://www.amazon.com/dp/B0F1YDRG3P/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0F1YDRG3P&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "badges": [
+          "Limited time deal"
+        ],
+        "thumbnail": "https://m.media-amazon.com/images/I/71Q6K-JnKPL._AC_UF480,480_SR480,480_.jpg",
+        "rating": 4.0,
+        "reviews": 1533,
+        "discount": "-17%",
+        "price": "$9.99",
+        "extracted_price": 9.99,
+        "old_price": "null"
+      },
+      {
+        "position": 4,
+        "asin": "B0GZZMW1YD",
+        "title": "Balloon Dog Squishy Toy, Soft Squeeze Toys for Kids, Autism Sensory Squishy Toys wi...",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo3NDk3Nzg1NjcxODc4OTMwOjE3OTI2NTg2MzA6c3BfZGV0YWlsX3RoZW1hdGljOjMwMTQ5ODU1NzAxMTAwMjo6Ojo&url=%2Fdp%2FB0GZZMW1YD%2Fref%3Dsspa_dk_detail_3%3Fpsc%3D1%26pd_rd_i%3DB0GZZMW1YD%26pd_rd_w%3DPYIm9%26content-id%3Damzn1.sym.3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_p%3D3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_r%3DG285GXGX2K0AYMK3APTP%26pd_rd_wg%3DtPkvq%26pd_rd_r%3Dc19a75ca-cc42-4a06-89db-2fcc275094a5%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM",
+        "link_clean": "https://www.amazon.com/dp/B0GZZMW1YD/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0GZZMW1YD&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "badges": [
+          "Limited time deal"
+        ],
+        "thumbnail": "https://m.media-amazon.com/images/I/71Yk-BaddYL._AC_UF480,480_SR480,480_.jpg",
+        "rating": 4.6,
+        "reviews": 48,
+        "discount": "-30%",
+        "price": "$6.99",
+        "extracted_price": 6.99,
+        "old_price": "null"
+      },
+      {
+        "position": 5,
+        "asin": "B0GY8BHPSR",
+        "title": "Kravkind Magnetic Men Sensory Toys, 6Pcs Fidget Desk Toys for Kids & Adults | Magnetic Sensory Fidget Toys,Airplane Car Travel Essential Toys,Stocking Stuffers and Classroom Prizes for Kids.",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo3NDk3Nzg1NjcxODc4OTMwOjE3OTI2NTg2MzA6c3BfZGV0YWlsX3RoZW1hdGljOjMwMTM3OTA5NTU1MzAwMjo6Ojo&url=%2Fdp%2FB0GY8BHPSR%2Fref%3Dsspa_dk_detail_4%3Fpsc%3D1%26pd_rd_i%3DB0GY8BHPSR%26pd_rd_w%3DPYIm9%26content-id%3Damzn1.sym.3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_p%3D3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_r%3DG285GXGX2K0AYMK3APTP%26pd_rd_wg%3DtPkvq%26pd_rd_r%3Dc19a75ca-cc42-4a06-89db-2fcc275094a5%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM",
+        "link_clean": "https://www.amazon.com/dp/B0GY8BHPSR/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0GY8BHPSR&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "badges": [
+          "Limited time deal"
+        ],
+        "thumbnail": "https://m.media-amazon.com/images/I/617Ye1nV0DL._AC_UF480,480_SR480,480_.jpg",
+        "rating": 4.3,
+        "reviews": 58,
+        "discount": "-10%",
+        "price": "$8.98",
+        "extracted_price": 8.98,
+        "price_unit": "$1.50 / count",
+        "extracted_price_unit": 1.5,
+        "old_price": "null"
+      },
+      {
+        "position": 6,
+        "asin": "B0H28JPLVB",
+        "title": "4pcs Taba Squishies Fidget Toys Gumdrop Bear Squishy Stress Cube Raindrop Squishy Slow Rising Squishy Toys Sensory Toys Adult for Kids with Autism,Fidgets for Classroom Prize, Birthday Gifts",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo3NDk3Nzg1NjcxODc4OTMwOjE3OTI2NTg2MzA6c3BfZGV0YWlsX3RoZW1hdGljOjMwMTQ3NTczNDYzODAwMjo6Ojo&url=%2Fdp%2FB0H28JPLVB%2Fref%3Dsspa_dk_detail_5%3Fpsc%3D1%26pd_rd_i%3DB0H28JPLVB%26pd_rd_w%3DPYIm9%26content-id%3Damzn1.sym.3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_p%3D3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_r%3DG285GXGX2K0AYMK3APTP%26pd_rd_wg%3DtPkvq%26pd_rd_r%3Dc19a75ca-cc42-4a06-89db-2fcc275094a5%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM",
+        "link_clean": "https://www.amazon.com/dp/B0H28JPLVB/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0H28JPLVB&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "badges": [
+          "Limited time deal"
+        ],
+        "thumbnail": "https://m.media-amazon.com/images/I/81qrH3hO8fL._AC_UF480,480_SR480,480_.jpg",
+        "rating": 4.1,
+        "reviews": 86,
+        "discount": "-10%",
+        "price": "$17.99",
+        "extracted_price": 17.99,
+        "old_price": "null"
+      },
+      {
+        "position": 7,
+        "asin": "B0D1QWP8B7",
+        "title": "Fidget Toys Sensory Stone for Kids: 6 Pack Textured Soft Worry Stone for Autism Kids Calming - Fidget Stress Toys for Students Stress Relief - Small Prizes Stocking Stuffer",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo3NDk3Nzg1NjcxODc4OTMwOjE3OTI2NTg2MzA6c3BfZGV0YWlsX3RoZW1hdGljOjMwMTEzMTc0MTIxMzcwMjo6Ojo&url=%2Fdp%2FB0D1QWP8B7%2Fref%3Dsspa_dk_detail_6%3Fpsc%3D1%26pd_rd_i%3DB0D1QWP8B7%26pd_rd_w%3DPYIm9%26content-id%3Damzn1.sym.3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_p%3D3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_r%3DG285GXGX2K0AYMK3APTP%26pd_rd_wg%3DtPkvq%26pd_rd_r%3Dc19a75ca-cc42-4a06-89db-2fcc275094a5%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM",
+        "link_clean": "https://www.amazon.com/dp/B0D1QWP8B7/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0D1QWP8B7&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "badges": [
+          "Amazon's Choice",
+          "Limited time deal"
+        ],
+        "thumbnail": "https://m.media-amazon.com/images/I/71bRd3FoX9L._AC_UF480,480_SR480,480_.jpg",
+        "rating": 4.6,
+        "reviews": 1447,
+        "discount": "-10%",
+        "price": "$6.29",
+        "extracted_price": 6.29,
+        "price_unit": "$1.05 / count",
+        "extracted_price_unit": 1.05,
+        "old_price": "null"
+      },
+      {
+        "position": 8,
+        "asin": "B0GWNG8LNS",
+        "title": "Stress Ocean Ice Cube Sensory Squeeze Toy Super Solid Squish Squishy Cube Square St...",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MToyNTYwMTcxMDMxNDUzODY5OjE3OTI2NTg2MzA6c3BfZGV0YWlsMjozMDEzNDIxOTY5MDkwMDI6Ojo6&url=%2Fdp%2FB0GWNG8LNS%2Fref%3Dsspa_dk_detail_0%3Fpsc%3D1%26pd_rd_i%3DB0GWNG8LNS%26pd_rd_w%3DXWa6x%26content-id%3Damzn1.sym.4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_p%3D4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_r%3DG285GXGX2K0AYMK3APTP%26pd_rd_wg%3DtPkvq%26pd_rd_r%3Dc19a75ca-cc42-4a06-89db-2fcc275094a5%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+        "link_clean": "https://www.amazon.com/dp/B0GWNG8LNS/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0GWNG8LNS&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "thumbnail": "https://m.media-amazon.com/images/I/71hjfxIibAL._AC_UF480,480_SR480,480_.jpg",
+        "rating": 3.9,
+        "reviews": 34,
+        "price": "$13.99",
+        "extracted_price": 13.99
+      },
+      {
+        "position": 9,
+        "asin": "B0HK6Y6TMY",
+        "title": "8 Pcs Squishies Toys Kit with Gift Box,Realistic Slow-Rebound Squishies,Soft Sensor...",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MToyNTYwMTcxMDMxNDUzODY5OjE3OTI2NTg2MzA6c3BfZGV0YWlsMjozMDE1ODE2MDE4NzUyMDI6Ojo6&url=%2Fdp%2FB0HK6Y6TMY%2Fref%3Dsspa_dk_detail_1%3Fpsc%3D1%26pd_rd_i%3DB0HK6Y6TMY%26pd_rd_w%3DXWa6x%26content-id%3Damzn1.sym.4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_p%3D4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_r%3DG285GXGX2K0AYMK3APTP%26pd_rd_wg%3DtPkvq%26pd_rd_r%3Dc19a75ca-cc42-4a06-89db-2fcc275094a5%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+        "link_clean": "https://www.amazon.com/dp/B0HK6Y6TMY/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0HK6Y6TMY&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "thumbnail": "https://m.media-amazon.com/images/I/71GqZYEhFGL._AC_UF480,480_SR480,480_.jpg",
+        "rating": 3.6,
+        "reviews": 4,
+        "price": "$16.99",
+        "extracted_price": 16.99
+      },
+      {
+        "position": 10,
+        "asin": "B0HGX57V1N",
+        "title": "6 Pcs Squishies Toys Kit with Gift Box,Soft Shapeable Sensory Fidget Toys,Stress Re...",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MToyNTYwMTcxMDMxNDUzODY5OjE3OTI2NTg2MzA6c3BfZGV0YWlsMjozMDE1NzEyNjY1NjI1MDI6Ojo6&url=%2Fdp%2FB0HGX57V1N%2Fref%3Dsspa_dk_detail_2%3Fpsc%3D1%26pd_rd_i%3DB0HGX57V1N%26pd_rd_w%3DXWa6x%26content-id%3Damzn1.sym.4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_p%3D4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_r%3DG285GXGX2K0AYMK3APTP%26pd_rd_wg%3DtPkvq%26pd_rd_r%3Dc19a75ca-cc42-4a06-89db-2fcc275094a5%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+        "link_clean": "https://www.amazon.com/dp/B0HGX57V1N/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0HGX57V1N&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "thumbnail": "https://m.media-amazon.com/images/I/71HUG43k2AL._AC_UF480,480_SR480,480_.jpg",
+        "rating": 3.2,
+        "reviews": 8,
+        "discount": "-25%",
+        "price": "$29.99",
+        "extracted_price": 29.99,
+        "old_price": "null"
+      },
+      {
+        "position": 11,
+        "asin": "B0BZPFL9ZY",
+        "title": "Handheld Speed Push Pop Game Fun Sensory Fidget Toy for Kids White | A Fun Multipla...",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MToyNTYwMTcxMDMxNDUzODY5OjE3OTI2NTg2MzA6c3BfZGV0YWlsMjozMDAzMzE0OTAwOTkyMDI6Ojo6&url=%2Fdp%2FB0BZPFL9ZY%2Fref%3Dsspa_dk_detail_3%3Fpsc%3D1%26pd_rd_i%3DB0BZPFL9ZY%26pd_rd_w%3DXWa6x%26content-id%3Damzn1.sym.4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_p%3D4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_r%3DG285GXGX2K0AYMK3APTP%26pd_rd_wg%3DtPkvq%26pd_rd_r%3Dc19a75ca-cc42-4a06-89db-2fcc275094a5%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+        "link_clean": "https://www.amazon.com/dp/B0BZPFL9ZY/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0BZPFL9ZY&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "thumbnail": "https://m.media-amazon.com/images/I/61B6WTJ+53L._AC_UF480,480_SR480,480_.jpg",
+        "rating": 4.3,
+        "reviews": 2278,
+        "price": "$9.99",
+        "extracted_price": 9.99
+      },
+      {
+        "position": 12,
+        "asin": "B0H949346N",
+        "title": "JOYIN 2PCS Colorful Stone Cube Stress Relief Toys, Stone Squishy Toys for Adults and Kids, Fidget Sensory Toy, Soft Squeeze Toys for Birthday Gifts, ASMR Calming, Office Desk, Party Favors",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MToyNTYwMTcxMDMxNDUzODY5OjE3OTI2NTg2MzA6c3BfZGV0YWlsMjozMDE2MDE3Mzc5NzIxMDI6Ojo6&url=%2Fdp%2FB0H949346N%2Fref%3Dsspa_dk_detail_4%3Fpsc%3D1%26pd_rd_i%3DB0H949346N%26pd_rd_w%3DXWa6x%26content-id%3Damzn1.sym.4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_p%3D4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_r%3DG285GXGX2K0AYMK3APTP%26pd_rd_wg%3DtPkvq%26pd_rd_r%3Dc19a75ca-cc42-4a06-89db-2fcc275094a5%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+        "link_clean": "https://www.amazon.com/dp/B0H949346N/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0H949346N&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "thumbnail": "https://m.media-amazon.com/images/I/81EuBlEBiIL._AC_UF480,480_SR480,480_.jpg",
+        "price": "$19.99",
+        "extracted_price": 19.99,
+        "price_unit": "$10.00 / count",
+        "extracted_price_unit": 10.0,
+        "save_with_coupon": "You pay $12.99"
+      },
+      {
+        "position": 13,
+        "asin": "B0FLWMGYLF",
+        "title": "Halloween Christmas School Opening Ceremony2 Sets of Sensory Toys, Calming Artifact...",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MToyNTYwMTcxMDMxNDUzODY5OjE3OTI2NTg2MzA6c3BfZGV0YWlsMjozMDA5NTYyOTk3MjQ4MDI6Ojo6&url=%2Fdp%2FB0FLWMGYLF%2Fref%3Dsspa_dk_detail_5%3Fpsc%3D1%26pd_rd_i%3DB0FLWMGYLF%26pd_rd_w%3DXWa6x%26content-id%3Damzn1.sym.4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_p%3D4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_r%3DG285GXGX2K0AYMK3APTP%26pd_rd_wg%3DtPkvq%26pd_rd_r%3Dc19a75ca-cc42-4a06-89db-2fcc275094a5%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+        "link_clean": "https://www.amazon.com/dp/B0FLWMGYLF/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0FLWMGYLF&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "thumbnail": "https://m.media-amazon.com/images/I/51iVMmmSP9L._AC_UF480,480_SR480,480_.jpg",
+        "rating": 4.2,
+        "reviews": 9,
+        "price": "$8.89",
+        "extracted_price": 8.89,
+        "price_unit": "$4.45 / count",
+        "extracted_price_unit": 4.45
+      },
+      {
+        "position": 14,
+        "asin": "B0GKVKQZ7S",
+        "title": "12 Pack Animal Sensory Toys for Kids Toddlers, Textured Silicone Fidget Toys, Quiet...",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MToyNTYwMTcxMDMxNDUzODY5OjE3OTI2NTg2MzA6c3BfZGV0YWlsMjozMDE1NzU1MDk5NjA1MDI6Ojo6&url=%2Fdp%2FB0GKVKQZ7S%2Fref%3Dsspa_dk_detail_6%3Fpsc%3D1%26pd_rd_i%3DB0GKVKQZ7S%26pd_rd_w%3DXWa6x%26content-id%3Damzn1.sym.4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_p%3D4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_r%3DG285GXGX2K0AYMK3APTP%26pd_rd_wg%3DtPkvq%26pd_rd_r%3Dc19a75ca-cc42-4a06-89db-2fcc275094a5%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+        "link_clean": "https://www.amazon.com/dp/B0GKVKQZ7S/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0GKVKQZ7S&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "badges": [
+          "Amazon's Choice"
+        ],
+        "thumbnail": "https://m.media-amazon.com/images/I/81H7wH+ri0L._AC_UF480,480_SR480,480_.jpg",
+        "rating": 4.6,
+        "reviews": 139,
+        "price": "$12.99",
+        "extracted_price": 12.99,
+        "price_unit": "$1.08 / count",
+        "extracted_price_unit": 1.08
+      }
+    ],
+    "related_product_sections": [
+      {
+        "title": "Deals on related products",
+        "items": [
+          {
+            "position": 1,
+            "asin": "B08HDJC2JF",
+            "title": "Foam Airplanes - Stocking Stuffers for Kids All Ages 4 5 6 7 8 9 10 Year Old - Best Toy Gift - Boy Toys Stocking Stuffer Gifts - Air Plane Gift Idea - Easter Basket Gifts for Boys & Girls Party Favors",
+            "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo3NDk3Nzg1NjcxODc4OTMwOjE3OTI2NTg2MzA6c3BfZGV0YWlsX3RoZW1hdGljOjMwMTU5ODU0MTA5MjUwMjo6Ojo&url=%2Fdp%2FB08HDJC2JF%2Fref%3Dsspa_dk_detail_0%3Fpsc%3D1%26pd_rd_i%3DB08HDJC2JF%26pd_rd_w%3DPYIm9%26content-id%3Damzn1.sym.3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_p%3D3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_r%3DG285GXGX2K0AYMK3APTP%26pd_rd_wg%3DtPkvq%26pd_rd_r%3Dc19a75ca-cc42-4a06-89db-2fcc275094a5%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM",
+            "link_clean": "https://www.amazon.com/dp/B08HDJC2JF/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B08HDJC2JF&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "badges": [
+              "Limited time deal"
+            ],
+            "thumbnail": "https://m.media-amazon.com/images/I/816FmlG3KuL._AC_UF480,480_SR480,480_.jpg",
+            "rating": 4.3,
+            "reviews": 5424,
+            "discount": "-31%",
+            "price": "$9.35",
+            "extracted_price": 9.35,
+            "old_price": "null"
+          },
+          {
+            "position": 2,
+            "asin": "B0CP22LZZ1",
+            "title": "120 Pcs Fidget Toys Pack, Pop Sensory Party Favors Set Gifts for Kids Adults Boy Girl Stocking Stuffers Autistic Bulk Goodie Bag Filler Treasure Box Classroom Prizes School",
+            "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo3NDk3Nzg1NjcxODc4OTMwOjE3OTI2NTg2MzA6c3BfZGV0YWlsX3RoZW1hdGljOjMwMDE5OTgyMjMwMDMwMjo6Ojo&url=%2Fdp%2FB0CP22LZZ1%2Fref%3Dsspa_dk_detail_1%3Fpsc%3D1%26pd_rd_i%3DB0CP22LZZ1%26pd_rd_w%3DPYIm9%26content-id%3Damzn1.sym.3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_p%3D3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_r%3DG285GXGX2K0AYMK3APTP%26pd_rd_wg%3DtPkvq%26pd_rd_r%3Dc19a75ca-cc42-4a06-89db-2fcc275094a5%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM",
+            "link_clean": "https://www.amazon.com/dp/B0CP22LZZ1/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0CP22LZZ1&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "badges": [
+              "Limited time deal"
+            ],
+            "thumbnail": "https://m.media-amazon.com/images/I/91i6gjecQ4L._AC_UF480,480_SR480,480_.jpg",
+            "rating": 4.6,
+            "reviews": 2168,
+            "discount": "-10%",
+            "price": "$17.96",
+            "extracted_price": 17.96,
+            "price_unit": "$0.15 / count",
+            "extracted_price_unit": 0.15,
+            "old_price": "null"
+          },
+          {
+            "position": 3,
+            "asin": "B0F1YDRG3P",
+            "title": "12 Pack Slow Rising Stress Cube, Stress Balls Fidget Squishy Toys | Squeeze Toy for...",
+            "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo3NDk3Nzg1NjcxODc4OTMwOjE3OTI2NTg2MzA6c3BfZGV0YWlsX3RoZW1hdGljOjMwMTI3MTY4NTQ0NTgwMjo6Ojo&url=%2Fdp%2FB0F1YDRG3P%2Fref%3Dsspa_dk_detail_2%3Fpsc%3D1%26pd_rd_i%3DB0F1YDRG3P%26pd_rd_w%3DPYIm9%26content-id%3Damzn1.sym.3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_p%3D3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_r%3DG285GXGX2K0AYMK3APTP%26pd_rd_wg%3DtPkvq%26pd_rd_r%3Dc19a75ca-cc42-4a06-89db-2fcc275094a5%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM",
+            "link_clean": "https://www.amazon.com/dp/B0F1YDRG3P/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0F1YDRG3P&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "badges": [
+              "Limited time deal"
+            ],
+            "thumbnail": "https://m.media-amazon.com/images/I/71Q6K-JnKPL._AC_UF480,480_SR480,480_.jpg",
+            "rating": 4.0,
+            "reviews": 1533,
+            "discount": "-17%",
+            "price": "$9.99",
+            "extracted_price": 9.99,
+            "old_price": "null"
+          },
+          {
+            "position": 4,
+            "asin": "B0GZZMW1YD",
+            "title": "Balloon Dog Squishy Toy, Soft Squeeze Toys for Kids, Autism Sensory Squishy Toys wi...",
+            "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo3NDk3Nzg1NjcxODc4OTMwOjE3OTI2NTg2MzA6c3BfZGV0YWlsX3RoZW1hdGljOjMwMTQ5ODU1NzAxMTAwMjo6Ojo&url=%2Fdp%2FB0GZZMW1YD%2Fref%3Dsspa_dk_detail_3%3Fpsc%3D1%26pd_rd_i%3DB0GZZMW1YD%26pd_rd_w%3DPYIm9%26content-id%3Damzn1.sym.3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_p%3D3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_r%3DG285GXGX2K0AYMK3APTP%26pd_rd_wg%3DtPkvq%26pd_rd_r%3Dc19a75ca-cc42-4a06-89db-2fcc275094a5%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM",
+            "link_clean": "https://www.amazon.com/dp/B0GZZMW1YD/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0GZZMW1YD&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "badges": [
+              "Limited time deal"
+            ],
+            "thumbnail": "https://m.media-amazon.com/images/I/71Yk-BaddYL._AC_UF480,480_SR480,480_.jpg",
+            "rating": 4.6,
+            "reviews": 48,
+            "discount": "-30%",
+            "price": "$6.99",
+            "extracted_price": 6.99,
+            "old_price": "null"
+          },
+          {
+            "position": 5,
+            "asin": "B0GY8BHPSR",
+            "title": "Kravkind Magnetic Men Sensory Toys, 6Pcs Fidget Desk Toys for Kids & Adults | Magnetic Sensory Fidget Toys,Airplane Car Travel Essential Toys,Stocking Stuffers and Classroom Prizes for Kids.",
+            "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo3NDk3Nzg1NjcxODc4OTMwOjE3OTI2NTg2MzA6c3BfZGV0YWlsX3RoZW1hdGljOjMwMTM3OTA5NTU1MzAwMjo6Ojo&url=%2Fdp%2FB0GY8BHPSR%2Fref%3Dsspa_dk_detail_4%3Fpsc%3D1%26pd_rd_i%3DB0GY8BHPSR%26pd_rd_w%3DPYIm9%26content-id%3Damzn1.sym.3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_p%3D3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_r%3DG285GXGX2K0AYMK3APTP%26pd_rd_wg%3DtPkvq%26pd_rd_r%3Dc19a75ca-cc42-4a06-89db-2fcc275094a5%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM",
+            "link_clean": "https://www.amazon.com/dp/B0GY8BHPSR/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0GY8BHPSR&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "badges": [
+              "Limited time deal"
+            ],
+            "thumbnail": "https://m.media-amazon.com/images/I/617Ye1nV0DL._AC_UF480,480_SR480,480_.jpg",
+            "rating": 4.3,
+            "reviews": 58,
+            "discount": "-10%",
+            "price": "$8.98",
+            "extracted_price": 8.98,
+            "price_unit": "$1.50 / count",
+            "extracted_price_unit": 1.5,
+            "old_price": "null"
+          },
+          {
+            "position": 6,
+            "asin": "B0H28JPLVB",
+            "title": "4pcs Taba Squishies Fidget Toys Gumdrop Bear Squishy Stress Cube Raindrop Squishy Slow Rising Squishy Toys Sensory Toys Adult for Kids with Autism,Fidgets for Classroom Prize, Birthday Gifts",
+            "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo3NDk3Nzg1NjcxODc4OTMwOjE3OTI2NTg2MzA6c3BfZGV0YWlsX3RoZW1hdGljOjMwMTQ3NTczNDYzODAwMjo6Ojo&url=%2Fdp%2FB0H28JPLVB%2Fref%3Dsspa_dk_detail_5%3Fpsc%3D1%26pd_rd_i%3DB0H28JPLVB%26pd_rd_w%3DPYIm9%26content-id%3Damzn1.sym.3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_p%3D3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_r%3DG285GXGX2K0AYMK3APTP%26pd_rd_wg%3DtPkvq%26pd_rd_r%3Dc19a75ca-cc42-4a06-89db-2fcc275094a5%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM",
+            "link_clean": "https://www.amazon.com/dp/B0H28JPLVB/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0H28JPLVB&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "badges": [
+              "Limited time deal"
+            ],
+            "thumbnail": "https://m.media-amazon.com/images/I/81qrH3hO8fL._AC_UF480,480_SR480,480_.jpg",
+            "rating": 4.1,
+            "reviews": 86,
+            "discount": "-10%",
+            "price": "$17.99",
+            "extracted_price": 17.99,
+            "old_price": "null"
+          },
+          {
+            "position": 7,
+            "asin": "B0D1QWP8B7",
+            "title": "Fidget Toys Sensory Stone for Kids: 6 Pack Textured Soft Worry Stone for Autism Kids Calming - Fidget Stress Toys for Students Stress Relief - Small Prizes Stocking Stuffer",
+            "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo3NDk3Nzg1NjcxODc4OTMwOjE3OTI2NTg2MzA6c3BfZGV0YWlsX3RoZW1hdGljOjMwMTEzMTc0MTIxMzcwMjo6Ojo&url=%2Fdp%2FB0D1QWP8B7%2Fref%3Dsspa_dk_detail_6%3Fpsc%3D1%26pd_rd_i%3DB0D1QWP8B7%26pd_rd_w%3DPYIm9%26content-id%3Damzn1.sym.3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_p%3D3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_r%3DG285GXGX2K0AYMK3APTP%26pd_rd_wg%3DtPkvq%26pd_rd_r%3Dc19a75ca-cc42-4a06-89db-2fcc275094a5%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM",
+            "link_clean": "https://www.amazon.com/dp/B0D1QWP8B7/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0D1QWP8B7&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "badges": [
+              "Amazon's Choice",
+              "Limited time deal"
+            ],
+            "thumbnail": "https://m.media-amazon.com/images/I/71bRd3FoX9L._AC_UF480,480_SR480,480_.jpg",
+            "rating": 4.6,
+            "reviews": 1447,
+            "discount": "-10%",
+            "price": "$6.29",
+            "extracted_price": 6.29,
+            "price_unit": "$1.05 / count",
+            "extracted_price_unit": 1.05,
+            "old_price": "null"
+          }
+        ]
+      },
+      {
+        "title": "Related products with free delivery on eligible orders",
+        "items": [
+          {
+            "position": 1,
+            "asin": "B0GWNG8LNS",
+            "title": "Stress Ocean Ice Cube Sensory Squeeze Toy Super Solid Squish Squishy Cube Square St...",
+            "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MToyNTYwMTcxMDMxNDUzODY5OjE3OTI2NTg2MzA6c3BfZGV0YWlsMjozMDEzNDIxOTY5MDkwMDI6Ojo6&url=%2Fdp%2FB0GWNG8LNS%2Fref%3Dsspa_dk_detail_0%3Fpsc%3D1%26pd_rd_i%3DB0GWNG8LNS%26pd_rd_w%3DXWa6x%26content-id%3Damzn1.sym.4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_p%3D4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_r%3DG285GXGX2K0AYMK3APTP%26pd_rd_wg%3DtPkvq%26pd_rd_r%3Dc19a75ca-cc42-4a06-89db-2fcc275094a5%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+            "link_clean": "https://www.amazon.com/dp/B0GWNG8LNS/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0GWNG8LNS&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "thumbnail": "https://m.media-amazon.com/images/I/71hjfxIibAL._AC_UF480,480_SR480,480_.jpg",
+            "rating": 3.9,
+            "reviews": 34,
+            "price": "$13.99",
+            "extracted_price": 13.99
+          },
+          {
+            "position": 2,
+            "asin": "B0HK6Y6TMY",
+            "title": "8 Pcs Squishies Toys Kit with Gift Box,Realistic Slow-Rebound Squishies,Soft Sensor...",
+            "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MToyNTYwMTcxMDMxNDUzODY5OjE3OTI2NTg2MzA6c3BfZGV0YWlsMjozMDE1ODE2MDE4NzUyMDI6Ojo6&url=%2Fdp%2FB0HK6Y6TMY%2Fref%3Dsspa_dk_detail_1%3Fpsc%3D1%26pd_rd_i%3DB0HK6Y6TMY%26pd_rd_w%3DXWa6x%26content-id%3Damzn1.sym.4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_p%3D4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_r%3DG285GXGX2K0AYMK3APTP%26pd_rd_wg%3DtPkvq%26pd_rd_r%3Dc19a75ca-cc42-4a06-89db-2fcc275094a5%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+            "link_clean": "https://www.amazon.com/dp/B0HK6Y6TMY/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0HK6Y6TMY&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "thumbnail": "https://m.media-amazon.com/images/I/71GqZYEhFGL._AC_UF480,480_SR480,480_.jpg",
+            "rating": 3.6,
+            "reviews": 4,
+            "price": "$16.99",
+            "extracted_price": 16.99
+          },
+          {
+            "position": 3,
+            "asin": "B0HGX57V1N",
+            "title": "6 Pcs Squishies Toys Kit with Gift Box,Soft Shapeable Sensory Fidget Toys,Stress Re...",
+            "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MToyNTYwMTcxMDMxNDUzODY5OjE3OTI2NTg2MzA6c3BfZGV0YWlsMjozMDE1NzEyNjY1NjI1MDI6Ojo6&url=%2Fdp%2FB0HGX57V1N%2Fref%3Dsspa_dk_detail_2%3Fpsc%3D1%26pd_rd_i%3DB0HGX57V1N%26pd_rd_w%3DXWa6x%26content-id%3Damzn1.sym.4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_p%3D4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_r%3DG285GXGX2K0AYMK3APTP%26pd_rd_wg%3DtPkvq%26pd_rd_r%3Dc19a75ca-cc42-4a06-89db-2fcc275094a5%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+            "link_clean": "https://www.amazon.com/dp/B0HGX57V1N/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0HGX57V1N&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "thumbnail": "https://m.media-amazon.com/images/I/71HUG43k2AL._AC_UF480,480_SR480,480_.jpg",
+            "rating": 3.2,
+            "reviews": 8,
+            "discount": "-25%",
+            "price": "$29.99",
+            "extracted_price": 29.99,
+            "old_price": "null"
+          },
+          {
+            "position": 4,
+            "asin": "B0BZPFL9ZY",
+            "title": "Handheld Speed Push Pop Game Fun Sensory Fidget Toy for Kids White | A Fun Multipla...",
+            "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MToyNTYwMTcxMDMxNDUzODY5OjE3OTI2NTg2MzA6c3BfZGV0YWlsMjozMDAzMzE0OTAwOTkyMDI6Ojo6&url=%2Fdp%2FB0BZPFL9ZY%2Fref%3Dsspa_dk_detail_3%3Fpsc%3D1%26pd_rd_i%3DB0BZPFL9ZY%26pd_rd_w%3DXWa6x%26content-id%3Damzn1.sym.4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_p%3D4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_r%3DG285GXGX2K0AYMK3APTP%26pd_rd_wg%3DtPkvq%26pd_rd_r%3Dc19a75ca-cc42-4a06-89db-2fcc275094a5%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+            "link_clean": "https://www.amazon.com/dp/B0BZPFL9ZY/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0BZPFL9ZY&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "thumbnail": "https://m.media-amazon.com/images/I/61B6WTJ+53L._AC_UF480,480_SR480,480_.jpg",
+            "rating": 4.3,
+            "reviews": 2278,
+            "price": "$9.99",
+            "extracted_price": 9.99
+          },
+          {
+            "position": 5,
+            "asin": "B0H949346N",
+            "title": "JOYIN 2PCS Colorful Stone Cube Stress Relief Toys, Stone Squishy Toys for Adults and Kids, Fidget Sensory Toy, Soft Squeeze Toys for Birthday Gifts, ASMR Calming, Office Desk, Party Favors",
+            "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MToyNTYwMTcxMDMxNDUzODY5OjE3OTI2NTg2MzA6c3BfZGV0YWlsMjozMDE2MDE3Mzc5NzIxMDI6Ojo6&url=%2Fdp%2FB0H949346N%2Fref%3Dsspa_dk_detail_4%3Fpsc%3D1%26pd_rd_i%3DB0H949346N%26pd_rd_w%3DXWa6x%26content-id%3Damzn1.sym.4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_p%3D4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_r%3DG285GXGX2K0AYMK3APTP%26pd_rd_wg%3DtPkvq%26pd_rd_r%3Dc19a75ca-cc42-4a06-89db-2fcc275094a5%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+            "link_clean": "https://www.amazon.com/dp/B0H949346N/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0H949346N&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "thumbnail": "https://m.media-amazon.com/images/I/81EuBlEBiIL._AC_UF480,480_SR480,480_.jpg",
+            "price": "$19.99",
+            "extracted_price": 19.99,
+            "price_unit": "$10.00 / count",
+            "extracted_price_unit": 10.0,
+            "save_with_coupon": "You pay $12.99"
+          },
+          {
+            "position": 6,
+            "asin": "B0FLWMGYLF",
+            "title": "Halloween Christmas School Opening Ceremony2 Sets of Sensory Toys, Calming Artifact...",
+            "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MToyNTYwMTcxMDMxNDUzODY5OjE3OTI2NTg2MzA6c3BfZGV0YWlsMjozMDA5NTYyOTk3MjQ4MDI6Ojo6&url=%2Fdp%2FB0FLWMGYLF%2Fref%3Dsspa_dk_detail_5%3Fpsc%3D1%26pd_rd_i%3DB0FLWMGYLF%26pd_rd_w%3DXWa6x%26content-id%3Damzn1.sym.4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_p%3D4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_r%3DG285GXGX2K0AYMK3APTP%26pd_rd_wg%3DtPkvq%26pd_rd_r%3Dc19a75ca-cc42-4a06-89db-2fcc275094a5%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+            "link_clean": "https://www.amazon.com/dp/B0FLWMGYLF/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0FLWMGYLF&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "thumbnail": "https://m.media-amazon.com/images/I/51iVMmmSP9L._AC_UF480,480_SR480,480_.jpg",
+            "rating": 4.2,
+            "reviews": 9,
+            "price": "$8.89",
+            "extracted_price": 8.89,
+            "price_unit": "$4.45 / count",
+            "extracted_price_unit": 4.45
+          },
+          {
+            "position": 7,
+            "asin": "B0GKVKQZ7S",
+            "title": "12 Pack Animal Sensory Toys for Kids Toddlers, Textured Silicone Fidget Toys, Quiet...",
+            "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MToyNTYwMTcxMDMxNDUzODY5OjE3OTI2NTg2MzA6c3BfZGV0YWlsMjozMDE1NzU1MDk5NjA1MDI6Ojo6&url=%2Fdp%2FB0GKVKQZ7S%2Fref%3Dsspa_dk_detail_6%3Fpsc%3D1%26pd_rd_i%3DB0GKVKQZ7S%26pd_rd_w%3DXWa6x%26content-id%3Damzn1.sym.4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_p%3D4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_r%3DG285GXGX2K0AYMK3APTP%26pd_rd_wg%3DtPkvq%26pd_rd_r%3Dc19a75ca-cc42-4a06-89db-2fcc275094a5%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+            "link_clean": "https://www.amazon.com/dp/B0GKVKQZ7S/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0GKVKQZ7S&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "badges": [
+              "Amazon's Choice"
+            ],
+            "thumbnail": "https://m.media-amazon.com/images/I/81H7wH+ri0L._AC_UF480,480_SR480,480_.jpg",
+            "rating": 4.6,
+            "reviews": 139,
+            "price": "$12.99",
+            "extracted_price": 12.99,
+            "price_unit": "$1.08 / count",
+            "extracted_price_unit": 1.08
+          }
+        ]
+      }
+    ],
+    "videos": [
+      {
+        "position": 1,
+        "title": "Globbles",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/f7036a7f-e442-4457-abeb-fe40a9a9512d/embedded.cc.default.vertical.jobtemplate.hls.m3u8",
+        "thumbnail": "https://m.media-amazon.com/images/I/216xBowD+SL.jpg",
+        "duration": "0:26",
+        "vendor": "Addy Vazquez",
+        "vendor_thumbnail": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SL34_.png",
+        "date": "Oct 16, 2026"
+      },
+      {
+        "position": 2,
+        "title": "There so funnn :3",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/3dcb87de-7acd-446e-b0ba-1cd2bf877fe9/default.vertical.jobtemplate.hls.m3u8",
+        "thumbnail": "https://m.media-amazon.com/images/I/41u22d2tH5L.jpg",
+        "duration": "2:47",
+        "vendor": "Jackelyn Ornelas",
+        "vendor_thumbnail": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SL34_.png",
+        "date": "May 23, 2026"
+      },
+      {
+        "position": 3,
+        "title": "Damage",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/a0efdfc8-2621-46f7-96c6-4de12bf61f28/default.jobtemplate.hls.m3u8",
+        "thumbnail": "https://m.media-amazon.com/images/I/31L0dKnFxNL.jpg",
+        "duration": "0:26",
+        "vendor": "Lia",
+        "vendor_thumbnail": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SL34_.png",
+        "date": "Mar 2, 2022"
+      },
+      {
+        "position": 4,
+        "title": "I am obsessed!!!",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/29aadc46-87a1-4f54-8cbc-296ef8db35bb/default.vertical.jobtemplate.hls.m3u8",
+        "thumbnail": "https://m.media-amazon.com/images/I/71Y1eJ2D+9L.jpg",
+        "duration": "0:40",
+        "vendor": "Jr",
+        "vendor_thumbnail": "https://m.media-amazon.com/images/S/amazon-avatars-global/78cd93bd-29f6-4cb1-ad4f-4e608c228090._CR0%2C0%2C970%2C970_SX460_._SL34_.jpg",
+        "date": "Jun 5, 2026"
+      },
+      {
+        "position": 5,
+        "title": "It's an kind good product",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/11cb6b9c-49b6-41f0-b677-775f23c5f6c6/default.vertical.jobtemplate.hls.m3u8",
+        "thumbnail": "https://m.media-amazon.com/images/I/51TbzLg-dmL.jpg",
+        "duration": "0:06",
+        "vendor": "Haila",
+        "vendor_thumbnail": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SL34_.png",
+        "date": "Sep 27, 2026"
+      },
+      {
+        "position": 6,
+        "title": "These are amazing for people who want a sticky, fun squishy toy",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/08c1c453-7434-45a0-a2de-8abd5c279d84/default.vertical.jobtemplate.hls.m3u8",
+        "thumbnail": "https://m.media-amazon.com/images/I/31rhcmYlBBL.jpg",
+        "duration": "0:39",
+        "vendor": "Cassondra McCormack",
+        "vendor_thumbnail": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SL34_.png",
+        "date": "Aug 7, 2026"
+      },
+      {
+        "position": 7,
+        "title": "A fun, simple toy my kids love!",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/326cdc33-441a-4716-aa94-43f14ec68a47/default.vertical.jobtemplate.hls.m3u8",
+        "thumbnail": "https://m.media-amazon.com/images/I/61Wr3zcPmJL.jpg",
+        "duration": "0:49",
+        "vendor": "Erin Cole",
+        "vendor_thumbnail": "https://m.media-amazon.com/images/I/51KNCxh+gYL._CR0,0,400,400_._FMjpg_._SL34_.jpg",
+        "date": "Aug 3, 2026"
+      },
+      {
+        "position": 8,
+        "title": "Crayola Globbles Fidget Toy Review",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/4356faf5-2345-491d-8245-a6b48639dce5/default.jobtemplate.hls.m3u8",
+        "thumbnail": "https://m.media-amazon.com/images/I/718Ix6xcMUL.jpg",
+        "duration": "1:41",
+        "vendor": "The Redhead Finds",
+        "vendor_thumbnail": "https://m.media-amazon.com/images/I/A1WWnGeJ1sL._CR0,0,2316,2316_._FMjpg_._SL34_.jpg",
+        "date": "Oct 19, 2026"
+      },
+      {
+        "position": 9,
+        "title": "Squishy",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/c04135be-d493-4c54-9632-a3086411427a/default.vertical.jobtemplate.hls.m3u8",
+        "thumbnail": "https://m.media-amazon.com/images/I/41-DUxRHAcL.jpg",
+        "duration": "0:14",
+        "vendor": "Glenda",
+        "vendor_thumbnail": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SL34_.png",
+        "date": "Oct 16, 2026"
+      },
+      {
+        "position": 10,
+        "title": "Please buy if u want ASMR!!",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/d4b0eab2-5d32-4799-bbd2-99b33248e9d4/embedded.cc.default.jobtemplate.hls.m3u8",
+        "thumbnail": "https://m.media-amazon.com/images/I/31uMJGZY3JL.jpg",
+        "duration": "1:54",
+        "vendor": "Amanda V.",
+        "vendor_thumbnail": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SL34_.png",
+        "date": "Sep 12, 2026"
+      }
+    ],
+    "product_description": [
+      {
+        "position": 1,
+        "title": "Nurturing creatively alive children to inspire and change the world",
+        "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/4f6a275d-7f65-4d1f-b85a-439e73f069cb.__CR0,0,970,300_PT0_SX970_V1___.jpg"
+      },
+      {
+        "position": 2,
+        "title": "history of the crayola crayon",
+        "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/8f084160-42fe-4023-890f-535da83cf1e0.__CR0,0,970,600_PT0_SX970_V1___.jpg"
+      },
+      {
+        "position": 3,
+        "title": "Expand your creative horizons with other Crayola offerings",
+        "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/2605cba9-52d9-4d8e-a961-6b725d671a27.__CR0,0,970,600_PT0_SX970_V1___.jpg"
+      },
+      {
+        "position": 4,
+        "title": "Learn, play, and create with Crayola apps",
+        "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/620438b2-6617-483f-9697-8737e97ccaeb.__CR0,0,970,300_PT0_SX970_V1___.jpg"
+      }
+    ],
+    "product_details": {
+      "age_range_description": "Kid",
+      "brand_name": "Crayola",
+      "unit_count": "1 Count",
+      "global_trade_identification_number": "00071662072940",
+      "item_highlight": "Holiday Gift for Kids & Adults, Squishy Balls, Calming Sensory Gifts for Stress Relief",
+      "number_of_items": "1",
+      "upc": "071662072940",
+      "number_of_packs": "1",
+      "included_components": "6 Globbles",
+      "item_type_name": "Globbles",
+      "manufacturer": "Crayola",
+      "model_number": "74-7294",
+      "manufacturer_part_number": "747294",
+      "set_name": "6ct",
+      "best_sellers_rank": [
+        {
+          "text": "#23 in Toys & Games (See Top 100 in Toys & Games)",
+          "extracted_rank": 23,
+          "link": "https://www.amazon.com/gp/bestsellers/toys-and-games/ref=pd_zg_ts_toys-and-games",
+          "link_text": "See Top 100 in Toys & Games"
+        },
+        {
+          "text": "#4 in Squeeze Toys",
+          "extracted_rank": 4,
+          "link": "https://www.amazon.com/gp/bestsellers/toys-and-games/23538328011/ref=pd_zg_hrsr_toys-and-games",
+          "link_text": "Squeeze Toys"
+        }
+      ],
+      "asin": "B07HDX46HS",
+      "customer_reviews": "4.5 out of 5 stars",
+      "rating": 4.5,
+      "reviews": 21178,
+      "manufacturer_recommended_age": "4 years and up",
+      "size": "6 Count (Pack of 1)",
+      "item_dimensions": "6.68 x 8.54 x 1.5 inches",
+      "item_weight": "3.84 ounces",
+      "color": "Multi - 6 Ct",
+      "theme": "Squishy",
+      "subject_character": "Globbles",
+      "material_type": "Plastic",
+      "material_type_free": "Latex Free"
+    },
+    "sponsored_brands": [
+      {
+        "position": 1,
+        "name": "Sponsored ad from Rowecvce. Shop Rowecvce.",
+        "link": "https://aax-us-east-retail-direct.amazon.com/x/c/JIkht3uM5QrHGatDB0Bei60AAAGhYsfoKwEAAAH2AQBvbm9fdHhuX2JpZDYgICBvbm9fdHhuX2ltcDEgICB_OcTJ/clv1c_ek-wBfHXFbbWzjK3YivOrRfcuXaZLo9pXJlLV85ulJ-YjRTYdYkN718JxMhoPUj5pbZ-bW7J0s62N3liq1LEIOitH7ZZleAFMjMRT6k5LEoGzRnILrOcezDFQzl2vj4p51ejg5zKGget7oHhb9pw6E9QgNyejgV6snVh7ver3psXiQveAsEA_BPw-MANp-Z63LUNpG4PrycIVOVqvlWQKuy_DDrfVB8_kBzDjuLbhontmIeS-AesJ_0LlhAYm_qdc7MSYdqJG8E6VwsRJxZ73JYWefLs6Dx3nO-XiDhInplRjBAxi9AAvH1djzRdGPdw-M0dvpjuUg2ifYJavJhEh7mOD9daERa1v0LE0e6KTtQPwQpBPORaQWQGr9v4poOLF3Vn8uJKmpIvlKvfiIBvZ5aWvaMu0CHABUdxR_4E3CdDdMHfJOMVrhVgC5uj-M9JbksX3wpqph1U1t9kYcYbY1t0U3sIHwX9lUkrpkKpvokyMpwfjrsdXmUh4bbNVEnllUHM1YBWP7sv_-BjjmEjbjmvN1eOwQBY4jvF7HLd5XdF7P4n6_QnkxVO8kuMEOUEBHCEQhsFSJ_zAM69BdGeyT6HElQBvVUTnTCui0wAoLTnjTYIOitYI14RgmIH2-8KpSGH8xP6wPFL_XGzBc1PwYjDBQePjfqPWtU-tkRMPwtq7XUgfnOeE_6hwkbUpuKB3IGyNoFlOhEVM-makPTmi9p628njHIGIIX6iIRjMplhtLNAMx0hYIWbomjFJ1UfmwO5L5ivrdpA529kCM6FlHjUaEbnX5H7bQXcJBHVrkavL3z_v24BOeBGtzJvJHmz8CPfc83b7bTOG3a7Ux79eDPeFeo-HZMizw9oBKmEzciCOzDakUPmbX_muZj_A2AfL5wWg0xpfqg3wn4pk8ClgtzEPncZPhSMEUgxVZYqpXhuLAnK2Iewv7rti3yLVxpNRNqzOd4GJey76ZpeUGZaga8kuR1_20oAtYPqIwRD4w_jVaMRTYXKobVJzLCJsqiVL47vniLPRTnev3mgj26jEE2O56lLnKgJTgQsoAAYBjSo9D5QRQgpxEutMIrure57c_ORiw_0bzShwFYDi406GbtF79EMvYGpwTQwOee0I4H-T79anq5iMucenhMHm6igKW7j-TPFEmPwKt-kBq8F2q-rHlKAHPqOXzGnzojq0B0qlg_46xV1X3QvnEohdwOE4xxxOvF14dQA_AqCZugyoyuXt6d_1ALDhsdBKxvqcYvd3isuCALMYsKe7jzatgzIfNnEnpdpZkbbK4x3XAC-tnTHCblk3eoWaAgUFwgz2yhWx1ZsGcBKEYAdTOD_V1kv72UQTxppImTZm-6mZuxB2SL7AVcjFmdsRboUvZnYaR_aBZpRuoAdDIj_-I52pDcVvBmBwQVpU-4aJJisiEdByz7iwcjpRtGI-4AHLIuA0b6fe7iGKvvN8F9yKmAEJ4ZROdmIvw-65v-N702g7Z0MPmFkX4EVVzGOf1yskV9rZELK9lFs-YhpZnoM6qctOeCC8tEjkEdow5Ke63MpYQzPqfGljbjIbdT1G7mSUMHuvfoBDF0anw7TNggeSJ4dep8F760F1rg0LVPhzR7HWkCxpWLaWw561aW_uCuypdA/https://www.amazon.com/stores/page/BC4C405C-DDFD-4502-88E4-37913EAC0D7F/?_encoding=UTF8&store_ref=SB_A0051172345MZPWB7QI5U-A01932472SG6I23EZ1RIK&pd_rd_plhdr=t&aaxitk=6f16745c850e2b43d17e73bd038aac0e&hsa_cr_id=0&lp_slot=desktop-arbies&lp_page_asin=B07HDX46HS&pd_rd_i=ad1&ref_=sbx_be_dp_arbies_mbd_mb0_bkgd&pd_rd_w=TWC8P&content-id=amzn1.sym.d4d91f0b-2ea5-4099-b125-c8f96930ac21&pf_rd_p=d4d91f0b-2ea5-4099-b125-c8f96930ac21&pf_rd_r=G285GXGX2K0AYMK3APTP&pd_rd_wg=tPkvq&pd_rd_r=c19a75ca-cc42-4a06-89db-2fcc275094a5"
+      },
+      {
+        "position": 2,
+        "name": "Sponsored ad from LIQILAMII. Shop LIQILAMII.",
+        "link": "https://aax-us-east-retail-direct.amazon.com/x/c/JCHv0cgoz-Tt7gQJAP-2zkwAAAGhYsfoLQEAAAH2AQBvbm9fdHhuX2JpZDYgICBvbm9fdHhuX2ltcDEgICB68C16/clv1c_ek-wBfH3Vcba3TI2msVSJvBwCsVHk2g1-IPpBidKy94r2BGGe5fnFBdJMMkjY1j_bM2r9U6YJ3I2Msg9GN_adFRWPq69L7S4Ws_-95bS3PxaXySa6ar9G-xYIHkNBRHQ383eBZHOqeDx4f8uwMVh5fAbgJz2B3Qqk9Dlr6fKD6pTI69LBCSLJzo8DELb5Y4tFO6A5FdTb64YFCfLswnScyjajFd7j2BssPe1CgE1ddGvuaSxEiq1LBW8XrJE6XH-qAwTOnck3NYDYfGlCePlixmBoUuf0c7aP0AX6fl6CHrNSj1sMx8UOekWOd0oDG4NuUz8Rctfv4clMsFXC7zi-EdPecEgEFyxjhJDDt2UJhw-jwKXxkDW50cGqqLQRuhpxDxmuAdqFuH5kp5WI5WDpelTyH_4lYw-8RAUqO5kwSejQrcp9WnGAMVhqsulvhMMIfhVOaFaXB3yAG-SSWsmWjL2dA0SgvS4RB7PabWWnuzIurpIeasPsVEqfPKdTdCl1dNanFGcM3-NvSgpbjaxs_zxse3pslHYynv0KFkYm1heyX1M2gveX_G8t2L6wOQTjsma8nQuDvMjMzF6mwCLt24sgP4OuV4nTYqnD49JiC4C-UtklaaiOU0nIv2yoVOLiprcLRBBaqc9MMtpi7BJRDh_ow497P5UffkZnNJt8FDlLdiIA50qfEOI3qgPWebYSSD8vmRZzYjUAX04FEiiIHFYhx4pi0ZE8L_r3-kGzvjRpEDpCDxaiRfPB_OMxVlXXwjMzJix1DRKN7NcNfZs7ecVKhUkFjxeapWDxKoj4Y3rUrmXsKcOwIfCUBfw0VeN_RFbae4rxep3e63enLSBD7opvZat8ep6UUIalGLC3BjYPiHkq0-1UEjP1u_iTpzBwAiWlYyt-ZF7LXCqndE-L6l7uZAZ7k95qY6qSL5UhuljotIr1UqJ-7PObOglAnV3b-y7j3XJOXAswtWmnMjQtAetfQZunUFkMzWfQaYR3S98Mp7fuplqUUb9n4qJWSQGKhUg6uFFzX0g0oJ2Ur3U8rOtiByMA2Z5UerUzDEMCp4DJGUu8xnzolvpz76w1GDaeqUGbRVb4odFG1kWsgmwNRC-02SJTve8JdIsWrk7AGwmM-QxoyHLTbqM_7ZbPgvOKI9e2wxEzB4J6KFbC_qCYSTbpQljCZ3E95hNgVYuDRuFl7pXEIsz4_YalWGig-0rXFmbBs0E7i15lYJM7XokIW10IMsozYtKPk_QXcJA6OGIHxBxI1CYzWodtS8dp1o7Kll8QOgPVxHca8lMLG4oIkXzrrZBZOHwgGOdgZpqxFb2Mkved29IT8l7EXBMdD-ZsiAtcYakB2bLuuzCSqy0qrNu2EzMwGQzv_G58At4x2pzx4XVAQacDfg_gjrGFj1L6fP0KVkGt6_E1tZRrttAIPmKL1cQDefUoF5McMk6dPGLbF4P6gZbMdd-rzoEDguZrTvcOibpKMLPlshB8ZkG_wKfEz5SKj3B-ZKufMh2bn7GvchUGD2wP-KjAZO5hluHrsHHlRhuEV2HtVYbw1ojhJVh87wX4GLQ5b8F_Y-HL3orcgvn9j8PdALDSAr-x8vK9itXvXIXh6sB7W3i/https://www.amazon.com/stores/page/C49A9F3E-042B-4A71-8F89-AB9C9EF016A5/?_encoding=UTF8&store_ref=SB_A0199890391OMU05APDE8-A02482861MC64FQW2EI3K&pd_rd_plhdr=t&aaxitk=c67b29e7f18bacbad0d777c90d200ce2&hsa_cr_id=0&lp_slot=desktop-arbies&lp_page_asin=B07HDX46HS&pd_rd_i=ad2&ref_=sbx_be_dp_arbies_mbd_mb1_bkgd&pd_rd_w=TWC8P&content-id=amzn1.sym.d4d91f0b-2ea5-4099-b125-c8f96930ac21&pf_rd_p=d4d91f0b-2ea5-4099-b125-c8f96930ac21&pf_rd_r=G285GXGX2K0AYMK3APTP&pd_rd_wg=tPkvq&pd_rd_r=c19a75ca-cc42-4a06-89db-2fcc275094a5"
+      },
+      {
+        "position": 3,
+        "name": "Sponsored ad from Squeez'M. \"Shop TODAY Expert Pick 2026.\" Shop Squeez'M.",
+        "link": "https://aax-us-east-retail-direct.amazon.com/x/c/JKtLL-zPXrBejna0ZBmDUlkAAAGhYsfoLgEAAAH2AQBvbm9fdHhuX2JpZDYgICBvbm9fdHhuX2ltcDEgICBiu8Ie/clv1c_ek-wBYHXFcbWDn2nI7cAJ16WtD5jqvBbdBoc6k3Cl69XA3p3YLKv1oB-Y3q4DUGOY4jaO_NE6DcFFK-K-2Q4kieiXANC-EP5e6tZst7FUP1UE_mQyFLsFGp4Qrv32OGCp5zp3fopTYxBMMCzQ9Pn-NfLwM29oJ0K88V6wQfi_CccZ6MlimwfK0Vi-Iw6AUORKs2HFvvr3mGI0OMuJWyF9GCWUH4vEx3A3CRtYsuXeLwbQSnZa5MQr51RYf5wYoKko1s1aX3BRUnIdIrOI3a3SiQOIuKjW9RGp7PJR_MlmsTC5gvukin-jotHrLaCUGZjAOq5jED0DmqVdWo2pPfF7wvJ2KhMuCCfHe7Zq-KwOj1DmXYHRezlWkynIYgQmkbZAJctkjfnyU8LOE-IbmlQf2FFlBW5GAWcbetaN5HuG8j5AIu-nJlLxOfR2wsYuNUW6AOYTVMGpSRxGbXMdubhHcAcvCF6UAmzuuJeWJu_A77sgeGQ0LV4eHZ7S9sRtcyQebW1m4HPcynmUCsL8gi0UM_3DB4gOhp_7zi-AWd15NN3Lzh2uQtzYwlCfQjXhs80Df_ASHbOVxzgA0TYG9XcQ_V4rb3b-lxQkL4C9iacdzXZwmlfG0LfwY__IgmlY_V15FG_kzNa6xUbSqv1mGpOF_i9BAoC-Lb5fIX4Amw8SLZ0ojJBY3RzCQggWDUfZGqVbgRcbUuwyYzEEwyImWd4ULpmpZNBDsJIKEA8ZWdq6I-23BtbroNcYEZvVi94tvKwPbuD4CYnxAFeDSBz7ppOtvipezS-qoQcF11Dta8mSlvYx_VERc59aeqNDL6x-ukYmxU5P0R0dEfOfy0vJLWr69rtImY84j0J66brQnLPXkz7uYERZqC9N4f-Z86k55cr0HpcdRZrlhlLMffu9qFTntP6I1MD4vA4EBTOJeL3YM6RGxk7SPa0yu-tuw2T1jruVc0QHAH82enH6gmCyzqEdPZuq2nuwSP-pvtzr4X0mpXYg_l2siIDXZU-Yq2s5YgeUGayZmXM8yoNQivS6hqlL-PKVHVmw7SYtfnHwUjvzHMhebIQ_spNTWLUo9Jv4C3gaWdWxJB1UfSeJBiT4coSMOYoydXHW_e9PWfiVCFfJvNWOVmxFGxV6i8AcLBcI_igV5b2ugAYu_yvG6pwz76inq0zykNBXz4EOqVfFLIomAoVyKZMBGuScbCn99xBq6Q5UQhVxq-mrP5BT344RPnZ66y6rar1JUinV6k6scTpMHvelfFkaZO52CDFq8WQRpQjLACQvWyYEmH4ILAZqr0axIunsULV_sWLpzq9h5VZAOqR2lYV50tTFSQyghis8oz2Hhpk-pFnzSJSJgmEFjeGJ71lQ0__XRWyHskHnjsLjxlv3edCDZIEVMEi7NUJxFPBP8oGLBHXN99e--AI_UoJnW8mZqF3ddkV3OWTQLthJXHibinxozXq7NAI-MWwG_atzN2G_qYvKvhkD3l1YdOlk5zSgRHGyPk0HG3573pK1tc6AJI4ldsJYbM4Vc1eZCVZbIxu_A_7M8hvMo7FZQmLvIlRvvRhgTMMi-qHhtHqZ4BC49oIfVfA9OnJ5pYcihSMUBT24MXsSlsNcd946A/https://www.amazon.com/stores/page/77A56B61-3F3C-40B9-AB3A-680EDA30B6A3/?_encoding=UTF8&store_ref=SB_A03087141BZYIP3VG3PGP-A046761913WBRKJ3FVB9Y&pd_rd_plhdr=t&aaxitk=34e97ad9fd83e46ca5020b9ab5ddbfb0&hsa_cr_id=0&lp_slot=desktop-arbies&lp_page_asin=B07HDX46HS&pd_rd_i=ad3&ref_=sbx_be_dp_arbies_mbd_mb2_bkgd&pd_rd_w=TWC8P&content-id=amzn1.sym.d4d91f0b-2ea5-4099-b125-c8f96930ac21&pf_rd_p=d4d91f0b-2ea5-4099-b125-c8f96930ac21&pf_rd_r=G285GXGX2K0AYMK3APTP&pd_rd_wg=tPkvq&pd_rd_r=c19a75ca-cc42-4a06-89db-2fcc275094a5"
+      }
+    ]
+  }
+}

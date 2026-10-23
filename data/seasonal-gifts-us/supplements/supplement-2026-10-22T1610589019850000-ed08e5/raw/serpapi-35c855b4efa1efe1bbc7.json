@@ -1,0 +1,1591 @@
+{
+  "provider": "serpapi",
+  "endpoint": "https://serpapi.com/search.json",
+  "parameters": {
+    "engine": "amazon_product",
+    "asin": "B07L5QGF38",
+    "amazon_domain": "amazon.com",
+    "language": "en_US",
+    "shipping_location": "US",
+    "device": "desktop",
+    "output": "json"
+  },
+  "fetched_at_utc": "2026-10-22T16:17:04.660393+00:00",
+  "raw_file": "supplements/supplement-2026-10-22T1610589019850000-ed08e5/raw/serpapi-35c855b4efa1efe1bbc7.json",
+  "response": {
+    "search_metadata": {
+      "id": "6ada37014db6f0b310940009",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/uxm-3YtTqejKuHb91yHP1w9wkqjwTpHYPE5Os1oCucI/6ada37014db6f0b310940009.json",
+      "markdown_endpoint": "https://serpapi.com/searches/uxm-3YtTqejKuHb91yHP1w9wkqjwTpHYPE5Os1oCucI/6ada37014db6f0b310940009.md",
+      "created_at": "2026-10-22 16:17:05 UTC",
+      "processed_at": "2026-10-22 16:17:05 UTC",
+      "amazon_product_url": "https://www.amazon.com/dp/B07L5QGF38/?language=en_US",
+      "raw_html_file": "https://serpapi.com/searches/uxm-3YtTqejKuHb91yHP1w9wkqjwTpHYPE5Os1oCucI/6ada37014db6f0b310940009.html",
+      "total_time_taken": 11.75
+    },
+    "search_parameters": {
+      "engine": "amazon_product",
+      "asin": "B07L5QGF38",
+      "amazon_domain": "amazon.com",
+      "language": "en_US",
+      "device": "desktop",
+      "shipping_location": "US"
+    },
+    "product_results": {
+      "categories": [
+        {
+          "position": 1,
+          "name": "Beauty & Personal Care",
+          "link": "https://www.amazon.com/Beauty-Makeup-Skin-Hair-Products/b/ref=dp_bc_1?ie=UTF8&node=3760911",
+          "node": "3760911",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&language=en_US&node=3760911&shipping_location=US"
+        },
+        {
+          "position": 2,
+          "name": "Personal Care",
+          "link": "https://www.amazon.com/Personal-Care-Products-Health/b/ref=dp_bc_2?ie=UTF8&node=3777891",
+          "node": "3777891",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&language=en_US&node=3777891&shipping_location=US"
+        },
+        {
+          "position": 3,
+          "name": "Bath & Bathing Accessories",
+          "link": "https://www.amazon.com/Bath-Shower-Products-Beauty/b/ref=dp_bc_3?ie=UTF8&node=11055991",
+          "node": "11055991",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&language=en_US&node=11055991&shipping_location=US"
+        },
+        {
+          "position": 4,
+          "name": "Bath",
+          "link": "https://www.amazon.com/Bath-Products/b/ref=dp_bc_4?ie=UTF8&node=11056211",
+          "node": "11056211",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&language=en_US&node=11056211&shipping_location=US"
+        },
+        {
+          "position": 5,
+          "name": "Shower Steamers",
+          "link": "https://www.amazon.com/Shower-Steamers/b/ref=dp_bc_5?ie=UTF8&node=73249573011",
+          "node": "73249573011",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&language=en_US&node=73249573011&shipping_location=US"
+        }
+      ],
+      "asin": "B07L5QGF38",
+      "title": "Cleverfy Shower Steamers, Stocking Stuffers for Women and Men, 6 Pack",
+      "link": "https://www.amazon.com/gp/cart/view.html/ref=uss_cart",
+      "link_clean": "https://www.amazon.com/dp/B07L5QGF38/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B07L5QGF38&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+      "badges": [
+        "Amazon's Choice"
+      ],
+      "variants": [
+        {
+          "title": "Color",
+          "items": [
+            {
+              "position": 1,
+              "asin": "B07L5QGF38",
+              "name": "Purple 6 Pack",
+              "image": "https://m.media-amazon.com/images/I/41Dcqrj6-DL._SS64_.jpg",
+              "selected": true,
+              "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B07L5QGF38&device=desktop&engine=amazon_product&language=en_US&shipping_location=US"
+            },
+            {
+              "position": 2,
+              "asin": "B09VTDS3NV",
+              "name": "Eucalyptus Green 18 Pack",
+              "image": "https://m.media-amazon.com/images/I/41gYsuj7rzL._SS64_.jpg",
+              "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B09VTDS3NV&device=desktop&engine=amazon_product&language=en_US&shipping_location=US"
+            },
+            {
+              "position": 3,
+              "asin": "B09GY4VXNV",
+              "name": "Lavender Purple 18 Pack",
+              "image": "https://m.media-amazon.com/images/I/514tuqYRBtL._SS64_.jpg",
+              "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B09GY4VXNV&device=desktop&engine=amazon_product&language=en_US&shipping_location=US"
+            },
+            {
+              "position": 4,
+              "asin": "B0H71MCTV1",
+              "name": "Mint Blue 5 Pack",
+              "image": "https://m.media-amazon.com/images/I/414g5sV2eYL._SS64_.jpg",
+              "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0H71MCTV1&device=desktop&engine=amazon_product&language=en_US&shipping_location=US"
+            },
+            {
+              "position": 5,
+              "asin": "B09VTCWC1F",
+              "name": "Orange 18 Pack",
+              "image": "https://m.media-amazon.com/images/I/41XPWPnwfqL._SS64_.jpg",
+              "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B09VTCWC1F&device=desktop&engine=amazon_product&language=en_US&shipping_location=US"
+            },
+            {
+              "position": 6,
+              "asin": "B09VTHB39V",
+              "name": "Purple 18 Pack",
+              "image": "https://m.media-amazon.com/images/I/41O0nYk+QML._SS64_.jpg",
+              "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B09VTHB39V&device=desktop&engine=amazon_product&language=en_US&shipping_location=US"
+            },
+            {
+              "position": 7,
+              "asin": "B0DBR8C35G",
+              "name": "Purple 3 Pack",
+              "image": "https://m.media-amazon.com/images/I/513Uf4QaJ3L._SS64_.jpg",
+              "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0DBR8C35G&device=desktop&engine=amazon_product&language=en_US&shipping_location=US"
+            }
+          ]
+        }
+      ],
+      "brand": "Visit the CLEVERFY Store",
+      "thumbnail": "https://m.media-amazon.com/images/I/81BWzPZJF3L._AC_SY300_SX300_QL70_FMwebp_.jpg",
+      "thumbnails": [
+        "https://m.media-amazon.com/images/I/81BWzPZJF3L._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/914YnsBdKLL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81viSQTQoYL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/91bgM4wzh2L._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81SOV6QwIyL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81L59X3008L._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/816O9CIfkvL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81lW-VjjTqL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/919Qy5Uba5L._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/91VObQR99aL._AC_SL1500_.jpg"
+      ],
+      "rating": 4.4,
+      "reviews": 43828,
+      "bought_last_month": "10K+ bought in past month",
+      "discount": "-41%",
+      "price": "$9.99",
+      "extracted_price": 9.99,
+      "price_unit": "$1.67 / count",
+      "extracted_price_unit": 1.67,
+      "old_price": "$16.99",
+      "extracted_old_price": 16.99,
+      "save_with_coupon": "Save an extra 20% on your first Subscribe and Save order.",
+      "coupons": [
+        {
+          "text": "Save 20%: Coupon available when you select Subscribe & Save.",
+          "discount": "20%",
+          "shop_items_link": "https://www.amazon.com/promotion/psp/AW345TZ4OSD00?ref=clp_external&redirectAsin=B07L5QGF38&redirectMerchantId=A1MGLLY6LRWRZT&ref=cxcw_clp_AW345TZ4OSD00&source=dp_cxcw",
+          "serpapi_amazon_promotion_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon_promotion&language=en_US&promotion_id=AW345TZ4OSD00",
+          "terms_link": "https://www.amazon.com/promotion/details/popup/AW345TZ4OSD00?ref=cxcw_bxgx_tc_AW345TZ4OSD00&source=dp_cxcw"
+        }
+      ],
+      "promotions": [
+        {
+          "type": "subscribe_save",
+          "text": "Save an extra 20% on your first Subscribe and Save order.",
+          "discount_percent": 20,
+          "eligibility": "Subscribe & Save",
+          "link": "https://www.amazon.com/promotion/psp/AW345TZ4OSD00?ref=clp_external&redirectAsin=B07L5QGF38&redirectMerchantId=A1MGLLY6LRWRZT&ref=cxcw_clp_AW345TZ4OSD00&source=dp_cxcw"
+        }
+      ],
+      "snap_ebt_eligible": true,
+      "delivery": [
+        "FREE delivery Tuesday, October 27 on orders shipped by Amazon over $35. Order within 12 hrs 42 mins"
+      ],
+      "stock": "In Stock"
+    },
+    "purchase_options": {
+      "buy_new": {
+        "caption": "One-time purchase",
+        "price": "$9.99",
+        "extracted_price": 9.99,
+        "price_unit": "$1.67 / count",
+        "extracted_price_unit": 1.67,
+        "delivery": [
+          "FREE delivery Tuesday, October 27 on orders shipped by Amazon over $35. Order within 12 hrs 42 mins"
+        ],
+        "stock": "In Stock",
+        "features": {
+          "ships_from": {
+            "text": "Amazon",
+            "details": {
+              "heading": "Ships from",
+              "content": "Amazon"
+            }
+          },
+          "sold_by": {
+            "text": "CLEVERFY",
+            "details": {
+              "heading": "Sold by",
+              "content": "CLEVERFY"
+            },
+            "link": {
+              "text": "CLEVERFY",
+              "link": "https://www.amazon.com/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1MGLLY6LRWRZT&asin=B07L5QGF38&ref_=dp_merchant_link&isAmazonFulfilled=1"
+            }
+          },
+          "returns": {
+            "text": "FREE 30-day refund/replacement",
+            "details": {
+              "heading": "FREE 30-day refund/replacement"
+            },
+            "link": {
+              "text": "See exceptions",
+              "link": "https://www.amazon.com/gp/help/customer/display.html/?nodeId=GKQNFKFK5CF3C54B"
+            }
+          },
+          "packaging": {
+            "text": "Ships in product packaging",
+            "details": {
+              "heading": "Ships in product packaging",
+              "content": "This item has been tested to certify it can ship safely in its original box or bag to avoid unnecessary packaging. Since 2015, we have reduced the weight of outbound packaging per shipment by 41% on average, that’s over 2 million tons of packaging material.If you still require Amazon packaging for this item, choose \"Ship in Amazon packaging\" at checkout. Learn more"
+            },
+            "link": {
+              "text": "Learn more",
+              "link": "https://www.amazon.com/sipp_home"
+            }
+          }
+        }
+      },
+      "subscribe_and_save": {
+        "caption": "Subscribe & Save",
+        "price": "$8.99",
+        "extracted_price": 8.99,
+        "price_unit": "$1.50 / count",
+        "extracted_price_unit": 1.5,
+        "delivery": [
+          "FREE delivery Tuesday, October 27 on orders shipped by Amazon over $35. Order within 12 hrs 42 mins"
+        ],
+        "stock": "In Stock",
+        "features": {
+          "ships_from": {
+            "text": "Amazon",
+            "details": {
+              "heading": "Ships from",
+              "content": "Amazon"
+            }
+          },
+          "sold_by": {
+            "text": "CLEVERFY",
+            "details": {
+              "heading": "Sold by",
+              "content": "CLEVERFY"
+            },
+            "link": {
+              "text": "CLEVERFY",
+              "link": "https://www.amazon.com/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1MGLLY6LRWRZT&asin=B07L5QGF38&ref_=dp_merchant_link&isAmazonFulfilled=1"
+            }
+          },
+          "returns": {
+            "text": "FREE 30-day refund/replacement",
+            "details": {
+              "heading": "FREE 30-day refund/replacement"
+            },
+            "link": {
+              "text": "See exceptions",
+              "link": "https://www.amazon.com/gp/help/customer/display.html/?nodeId=GKQNFKFK5CF3C54B"
+            }
+          },
+          "subscription": "No fees. Skip or cancel anytime."
+        }
+      }
+    },
+    "about_item": [
+      "The Perfect Christmas Stocking Stuffer Gift: Bring a relaxing spa moment home with these shower bombs. A thoughtful choice for gifts for women, moms, wives, sisters, girlfriend and best friends, as well as stocking stuffers for teen girls this holiday season.",
+      "Aromatherapy Made Simple: Infused with essential oils, 6 shower steamers release aromas as they fizz. Discover 6 scents: Eucalyptus & Menthol, Lavender, Peppermint, Vanilla & Orange, Grapefruit and Watermelon - each individually wrapped.",
+      "Made in USA with Natural Essential Oils: Thoughtfully crafted with cruelty-free ingredients and pleasantly strong fragrances, these shower pods bring an indulgent aromatherapy experience and premium self-care into your home.",
+      "Relax, Unwind & Recharge: Turn bath steamers into a home-spa ritual for mind & body. Shower the stress away, enjoy daily serenity, unwind in the evening, or start your day with a great mood, energy and an uplifting aroma.",
+      "Create Your Own Home Spa: Place one shower fizzy in the corner, away from direct water. Light splashes activate and slowly dissolve the tablet, while warm steam helps disperse its aroma. Breathe deeply and enjoy an easy aromatherapy spa at home."
+    ],
+    "bought_together": [
+      {
+        "position": 1,
+        "title": "Cleverfy Shower Steamers, Stocking Stuffers for Women and Men, 6 Pack | Aromatherapy, Christmas & Birthday Gifts | for Teens, Mom, Adults, Wife, Sister, Best Friend, Kids | Self-Care & Relaxation",
+        "link": "https://www.amazon.com/product-reviews/B07L5QGF38/ref=sspa_dk_detail_sbb_d_sccl_2_cr/145-3799134-9198423?pd_rd_w=gildc&content-id=amzn1.sym.7154b216-2f41-4765-8779-9a282bdc557c&pf_rd_p=7154b216-2f41-4765-8779-9a282bdc557c&pf_rd_r=BG5DZYJKNWC1D22BEKQD&pd_rd_wg=pObed&pd_rd_r=27388ac9-3a0d-48fd-b06d-e31ae7abe161&pd_rd_i=B07L5QGF38",
+        "asin": "B07L5QGF38",
+        "link_clean": "https://www.amazon.com/product-reviews/B07L5QGF38/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B07L5QGF38&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/81BWzPZJF3L._AC_UL116_SR116,116_.jpg",
+        "rating": 4.4,
+        "reviews": 43828,
+        "discount": "-41%",
+        "price": "$9.99",
+        "extracted_price": 9.99,
+        "price_unit": "$1.67/count",
+        "extracted_price_unit": 1.67,
+        "old_price": "$16.99",
+        "extracted_old_price": 16.99,
+        "stock": "In Stock"
+      },
+      {
+        "position": 2,
+        "title": "Cleverfy Shower Steamers, Stocking Stuffers for Women and Men, 18 Tablets | Holiday & Birthday Gifts for Mom & Sister | Aromatherapy Spa | Made in USA with Natural Essential Oils | Cruelty-Free",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo0OTA1OTY0OTI4NDMzMDQ1OjE3OTI2ODU4MzU6c3BfZGV0YWlsX3RoZW1hdGljOjMwMTUxNDQyMTM0MjgwMjo6MDo6&url=%2FCleverfy-Shower-Steamers-Aromatherapy-Essential%2Fdp%2FB0B9XWQ341%3Fpsc%3D1%26pd_rd_w%3Dgildc%26content-id%3Damzn1.sym.7154b216-2f41-4765-8779-9a282bdc557c%26pf_rd_p%3D7154b216-2f41-4765-8779-9a282bdc557c%26pf_rd_r%3DBG5DZYJKNWC1D22BEKQD%26pd_rd_wg%3DpObed%26pd_rd_r%3D27388ac9-3a0d-48fd-b06d-e31ae7abe161%26ref_%3Dsspa_dk_detail_sbb_img_0%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM%3D",
+        "asin": "B0B9XWQ341",
+        "link_clean": "https://www.amazon.com/dp/B0B9XWQ341/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0B9XWQ341&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/81x4lEYIaZL._AC_UL116_SR116,116_.jpg",
+        "rating": 4.3,
+        "reviews": 19516,
+        "price": "$19.99",
+        "extracted_price": 19.99,
+        "price_unit": "$1.11/count",
+        "extracted_price_unit": 1.11,
+        "prime": true,
+        "stock": "In Stock"
+      }
+    ],
+    "related_products": [
+      {
+        "position": 1,
+        "asin": "B0FQB77ZHC",
+        "title": "Shower Steamers Aromatherapy Birthday Gifts for Women - 8 Pack Shower Bombs Gift Se...",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MToyNTM4MzIyODkzOTc4ODg4OjE3OTI2ODU4MzU6c3BfZGV0YWlsX3RoZW1hdGljOjMwMDk5MTQyNDc5OTgwMjo6Ojo&url=%2Fdp%2FB0FQB77ZHC%2Fref%3Dsspa_dk_detail_0%3Fpsc%3D1%26pd_rd_i%3DB0FQB77ZHC%26pd_rd_w%3DzPotk%26content-id%3Damzn1.sym.3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_p%3D3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_r%3DBG5DZYJKNWC1D22BEKQD%26pd_rd_wg%3DpObed%26pd_rd_r%3D27388ac9-3a0d-48fd-b06d-e31ae7abe161%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM",
+        "link_clean": "https://www.amazon.com/dp/B0FQB77ZHC/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0FQB77ZHC&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "badges": [
+          "Limited time deal"
+        ],
+        "thumbnail": "https://m.media-amazon.com/images/I/71SSEHyZdJL._AC_UF480,480_SR480,480_.jpg",
+        "rating": 4.4,
+        "reviews": 1845,
+        "discount": "-10%",
+        "price": "$8.98",
+        "extracted_price": 8.98,
+        "price_unit": "$1.12 / count",
+        "extracted_price_unit": 1.12,
+        "old_price": "null",
+        "climate_pledge_friendly": true
+      },
+      {
+        "position": 2,
+        "asin": "B0BJYCRS51",
+        "title": "Body Restore Shower Steamers Aromatherapy, Gifts for Women, Bloom 6 Pack | Stocking Stuffers & Birthday Gifts for Women & Men, Spa Stress Relief & Relaxation, 6 Scent Essential Oil Tablets",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MToyNTM4MzIyODkzOTc4ODg4OjE3OTI2ODU4MzU6c3BfZGV0YWlsX3RoZW1hdGljOjMwMTU2NTQ0ODQyMTgwMjo6Ojo&url=%2Fdp%2FB0BJYCRS51%2Fref%3Dsspa_dk_detail_1%3Fpsc%3D1%26pd_rd_i%3DB0BJYCRS51%26pd_rd_w%3DzPotk%26content-id%3Damzn1.sym.3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_p%3D3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_r%3DBG5DZYJKNWC1D22BEKQD%26pd_rd_wg%3DpObed%26pd_rd_r%3D27388ac9-3a0d-48fd-b06d-e31ae7abe161%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM",
+        "link_clean": "https://www.amazon.com/dp/B0BJYCRS51/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0BJYCRS51&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "badges": [
+          "Limited time deal"
+        ],
+        "thumbnail": "https://m.media-amazon.com/images/I/71dJ+npggkL._AC_UF480,480_SR480,480_.jpg",
+        "rating": 4.5,
+        "reviews": 5402,
+        "discount": "-20%",
+        "price": "$13.59",
+        "extracted_price": 13.59,
+        "price_unit": "$2.27 / count",
+        "extracted_price_unit": 2.27,
+        "old_price": "null"
+      },
+      {
+        "position": 3,
+        "asin": "B0CLDN4BRM",
+        "title": "SWCANDY Shower Steamers Aromatherapy Gifts for Women 8 Pcs Shower Home Spa | Christmas Stocking Stuffers Birthday Gifts for Mom Wife Sister Her Adult Natural Essential Oils Holidays Self Care Relaxation",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MToyNTM4MzIyODkzOTc4ODg4OjE3OTI2ODU4MzU6c3BfZGV0YWlsX3RoZW1hdGljOjMwMTI4NDE0MDUzMzMwMjo6Ojo&url=%2Fdp%2FB0CLDN4BRM%2Fref%3Dsspa_dk_detail_2%3Fpsc%3D1%26pd_rd_i%3DB0CLDN4BRM%26pd_rd_w%3DzPotk%26content-id%3Damzn1.sym.3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_p%3D3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_r%3DBG5DZYJKNWC1D22BEKQD%26pd_rd_wg%3DpObed%26pd_rd_r%3D27388ac9-3a0d-48fd-b06d-e31ae7abe161%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM",
+        "link_clean": "https://www.amazon.com/dp/B0CLDN4BRM/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0CLDN4BRM&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "badges": [
+          "#1 Best Seller",
+          "Limited time deal"
+        ],
+        "thumbnail": "https://m.media-amazon.com/images/I/810MBwVTSaL._AC_UF480,480_SR480,480_.jpg",
+        "rating": 4.3,
+        "reviews": 7604,
+        "discount": "-15%",
+        "price": "$8.49",
+        "extracted_price": 8.49,
+        "price_unit": "$1.06 / count",
+        "extracted_price_unit": 1.06,
+        "old_price": "null",
+        "climate_pledge_friendly": true
+      },
+      {
+        "position": 4,
+        "asin": "B0DPQ8BMHM",
+        "title": "Shower Steamers Aromatherapy - 8 Pack Shower Bombs with Natural Essential Oils, Ear...",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MToyNTM4MzIyODkzOTc4ODg4OjE3OTI2ODU4MzU6c3BfZGV0YWlsX3RoZW1hdGljOjMwMTIyNzQwODcyOTkwMjo6Ojo&url=%2Fdp%2FB0DPQ8BMHM%2Fref%3Dsspa_dk_detail_3%3Fpsc%3D1%26pd_rd_i%3DB0DPQ8BMHM%26pd_rd_w%3DzPotk%26content-id%3Damzn1.sym.3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_p%3D3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_r%3DBG5DZYJKNWC1D22BEKQD%26pd_rd_wg%3DpObed%26pd_rd_r%3D27388ac9-3a0d-48fd-b06d-e31ae7abe161%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM",
+        "link_clean": "https://www.amazon.com/dp/B0DPQ8BMHM/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0DPQ8BMHM&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "badges": [
+          "Limited time deal"
+        ],
+        "thumbnail": "https://m.media-amazon.com/images/I/81GheIbkxhL._AC_UF480,480_SR480,480_.jpg",
+        "rating": 4.4,
+        "reviews": 1456,
+        "discount": "-20%",
+        "price": "$7.98",
+        "extracted_price": 7.98,
+        "price_unit": "$1.00 / count",
+        "extracted_price_unit": 1.0,
+        "old_price": "null",
+        "climate_pledge_friendly": true
+      },
+      {
+        "position": 5,
+        "asin": "B0BFHXRG1F",
+        "title": "Shower Steamers Aromatherapy - 18 Pack Christmas & Birthday Gifts for Women, Mom Wi...",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MToyNTM4MzIyODkzOTc4ODg4OjE3OTI2ODU4MzU6c3BfZGV0YWlsX3RoZW1hdGljOjMwMTI1MTM5OTMyOTEwMjo6Ojo&url=%2Fdp%2FB0BFHXRG1F%2Fref%3Dsspa_dk_detail_4%3Fpsc%3D1%26pd_rd_i%3DB0BFHXRG1F%26pd_rd_w%3DzPotk%26content-id%3Damzn1.sym.3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_p%3D3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_r%3DBG5DZYJKNWC1D22BEKQD%26pd_rd_wg%3DpObed%26pd_rd_r%3D27388ac9-3a0d-48fd-b06d-e31ae7abe161%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM",
+        "link_clean": "https://www.amazon.com/dp/B0BFHXRG1F/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0BFHXRG1F&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "badges": [
+          "Limited time deal"
+        ],
+        "thumbnail": "https://m.media-amazon.com/images/I/71vX9I3kUXL._AC_UF480,480_SR480,480_.jpg",
+        "rating": 4.4,
+        "reviews": 5602,
+        "discount": "-22%",
+        "price": "$17.99",
+        "extracted_price": 17.99,
+        "price_unit": "$1.00 / count",
+        "extracted_price_unit": 1.0,
+        "old_price": "null",
+        "climate_pledge_friendly": true
+      },
+      {
+        "position": 6,
+        "asin": "B0BMQ9JV6P",
+        "title": "Shower Steamers Aromatherapy 21 Pack, Birthday Gifts for Women, Self Care Spa Gift ...",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MToyNTM4MzIyODkzOTc4ODg4OjE3OTI2ODU4MzU6c3BfZGV0YWlsX3RoZW1hdGljOjMwMTIwNTA3NjI2MTAwMjo6Ojo&url=%2Fdp%2FB0BMQ9JV6P%2Fref%3Dsspa_dk_detail_5%3Fpsc%3D1%26pd_rd_i%3DB0BMQ9JV6P%26pd_rd_w%3DzPotk%26content-id%3Damzn1.sym.3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_p%3D3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_r%3DBG5DZYJKNWC1D22BEKQD%26pd_rd_wg%3DpObed%26pd_rd_r%3D27388ac9-3a0d-48fd-b06d-e31ae7abe161%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM",
+        "link_clean": "https://www.amazon.com/dp/B0BMQ9JV6P/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0BMQ9JV6P&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "badges": [
+          "Limited time deal"
+        ],
+        "thumbnail": "https://m.media-amazon.com/images/I/814Mfx5bs0L._AC_UF480,480_SR480,480_.jpg",
+        "rating": 4.3,
+        "reviews": 2846,
+        "discount": "-35%",
+        "price": "$12.99",
+        "extracted_price": 12.99,
+        "price_unit": "$0.62 / count",
+        "extracted_price_unit": 0.62,
+        "old_price": "null",
+        "climate_pledge_friendly": true
+      },
+      {
+        "position": 7,
+        "asin": "B0CHMDT2FM",
+        "title": "Blriet Shower Steamers Aromatherapy Relief Gifts for Women Teen Girls 8 ct | Birthday Gifts Basket Christmas Stocking Stuffers Wife Her Mom Natural Essential Oils Relaxation Self Care Home Spa Tablets",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MToyNTM4MzIyODkzOTc4ODg4OjE3OTI2ODU4MzU6c3BfZGV0YWlsX3RoZW1hdGljOjMwMTQ4MjUzNzg5MDEwMjo6Ojo&url=%2Fdp%2FB0CHMDT2FM%2Fref%3Dsspa_dk_detail_6%3Fpsc%3D1%26pd_rd_i%3DB0CHMDT2FM%26pd_rd_w%3DzPotk%26content-id%3Damzn1.sym.3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_p%3D3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_r%3DBG5DZYJKNWC1D22BEKQD%26pd_rd_wg%3DpObed%26pd_rd_r%3D27388ac9-3a0d-48fd-b06d-e31ae7abe161%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM",
+        "link_clean": "https://www.amazon.com/dp/B0CHMDT2FM/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0CHMDT2FM&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "badges": [
+          "Amazon's Choice",
+          "Limited time deal"
+        ],
+        "thumbnail": "https://m.media-amazon.com/images/I/71IeFfOoyNL._AC_UF480,480_SR480,480_.jpg",
+        "rating": 4.4,
+        "reviews": 5823,
+        "discount": "-23%",
+        "price": "$9.99",
+        "extracted_price": 9.99,
+        "price_unit": "$1.25 / count",
+        "extracted_price_unit": 1.25,
+        "old_price": "null",
+        "climate_pledge_friendly": true
+      },
+      {
+        "position": 8,
+        "asin": "B0FJXZ2W5L",
+        "title": "Friend Gifts for Women, Unique Birthday Gifts for Women, Sister Gift from Sister, W...",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MToyMzUzMTQ3NTE5ODQxNTI2OjE3OTI2ODU4MzU6c3BfZGV0YWlsMjozMDA4NzYzNDY2NjkxMDI6Ojo6&url=%2Fdp%2FB0FJXZ2W5L%2Fref%3Dsspa_dk_detail_0%3Fpsc%3D1%26pd_rd_i%3DB0FJXZ2W5L%26pd_rd_w%3DTWeh3%26content-id%3Damzn1.sym.4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_p%3D4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_r%3DBG5DZYJKNWC1D22BEKQD%26pd_rd_wg%3DpObed%26pd_rd_r%3D27388ac9-3a0d-48fd-b06d-e31ae7abe161%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+        "link_clean": "https://www.amazon.com/dp/B0FJXZ2W5L/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0FJXZ2W5L&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "thumbnail": "https://m.media-amazon.com/images/I/81ly-dASdBL._AC_UF480,480_SR480,480_.jpg",
+        "rating": 4.6,
+        "reviews": 622,
+        "price": "$16.95",
+        "extracted_price": 16.95,
+        "save_with_coupon": "You pay $16.10"
+      },
+      {
+        "position": 9,
+        "asin": "B0DPQ8BMHM",
+        "title": "Shower Steamers Aromatherapy - 8 Pack Shower Bombs with Natural Essential Oils, Ear...",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MToyMzUzMTQ3NTE5ODQxNTI2OjE3OTI2ODU4MzU6c3BfZGV0YWlsMjozMDEyMjcwMjc3NzAyMDI6Ojo6&url=%2Fdp%2FB0DPQ8BMHM%2Fref%3Dsspa_dk_detail_1%3Fpsc%3D1%26pd_rd_i%3DB0DPQ8BMHM%26pd_rd_w%3DTWeh3%26content-id%3Damzn1.sym.4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_p%3D4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_r%3DBG5DZYJKNWC1D22BEKQD%26pd_rd_wg%3DpObed%26pd_rd_r%3D27388ac9-3a0d-48fd-b06d-e31ae7abe161%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+        "link_clean": "https://www.amazon.com/dp/B0DPQ8BMHM/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0DPQ8BMHM&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "badges": [
+          "Limited time deal"
+        ],
+        "thumbnail": "https://m.media-amazon.com/images/I/81GheIbkxhL._AC_UF480,480_SR480,480_.jpg",
+        "rating": 4.4,
+        "reviews": 1456,
+        "discount": "-20%",
+        "price": "$7.98",
+        "extracted_price": 7.98,
+        "price_unit": "$1.00 / count",
+        "extracted_price_unit": 1.0,
+        "old_price": "null",
+        "climate_pledge_friendly": true
+      },
+      {
+        "position": 10,
+        "asin": "B0GS95BMYD",
+        "title": "Shower Steamers Aromatherapy, Long Lasting Essential Oil Spa, Women Gift | Self Car...",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MToyMzUzMTQ3NTE5ODQxNTI2OjE3OTI2ODU4MzU6c3BfZGV0YWlsMjozMDEzMjQ2MDQzOTEzMDI6Ojo6&url=%2Fdp%2FB0GS95BMYD%2Fref%3Dsspa_dk_detail_2%3Fpsc%3D1%26pd_rd_i%3DB0GS95BMYD%26pd_rd_w%3DTWeh3%26content-id%3Damzn1.sym.4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_p%3D4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_r%3DBG5DZYJKNWC1D22BEKQD%26pd_rd_wg%3DpObed%26pd_rd_r%3D27388ac9-3a0d-48fd-b06d-e31ae7abe161%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+        "link_clean": "https://www.amazon.com/dp/B0GS95BMYD/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0GS95BMYD&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "thumbnail": "https://m.media-amazon.com/images/I/81AX591ae8L._AC_UF480,480_SR480,480_.jpg",
+        "rating": 4.3,
+        "reviews": 3649,
+        "price": "$13.99",
+        "extracted_price": 13.99,
+        "price_unit": "$1.75 / count",
+        "extracted_price_unit": 1.75
+      },
+      {
+        "position": 11,
+        "asin": "B0963NLYLQ",
+        "title": "Shower Bombs Steamers Gifts for Women-EUSEMIA 12 Pcs Scented Aromatherapy Shower Ba...",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MToyMzUzMTQ3NTE5ODQxNTI2OjE3OTI2ODU4MzU6c3BfZGV0YWlsMjozMDEwNjQ2Mzg2ODkzMDI6Ojo6&url=%2Fdp%2FB0963NLYLQ%2Fref%3Dsspa_dk_detail_3%3Fpsc%3D1%26pd_rd_i%3DB0963NLYLQ%26pd_rd_w%3DTWeh3%26content-id%3Damzn1.sym.4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_p%3D4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_r%3DBG5DZYJKNWC1D22BEKQD%26pd_rd_wg%3DpObed%26pd_rd_r%3D27388ac9-3a0d-48fd-b06d-e31ae7abe161%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+        "link_clean": "https://www.amazon.com/dp/B0963NLYLQ/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0963NLYLQ&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "thumbnail": "https://m.media-amazon.com/images/I/81uUP0epJWL._AC_UF480,480_SR480,480_.jpg",
+        "rating": 4.4,
+        "reviews": 1007,
+        "discount": "-5%",
+        "price": "$7.57",
+        "extracted_price": 7.57,
+        "price_unit": "$0.63 / count",
+        "extracted_price_unit": 0.63,
+        "old_price": "null"
+      },
+      {
+        "position": 12,
+        "asin": "B0DNZG27NY",
+        "title": "Purple Flower Jewelry Dish Glass Ring Holder Dish Jewelry Tray Cute Vanity Organize...",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MToyMzUzMTQ3NTE5ODQxNTI2OjE3OTI2ODU4MzU6c3BfZGV0YWlsMjozMDExMDMyODA1NDMwMDI6Ojo6&url=%2Fdp%2FB0DNZG27NY%2Fref%3Dsspa_dk_detail_4%3Fpsc%3D1%26pd_rd_i%3DB0DNZG27NY%26pd_rd_w%3DTWeh3%26content-id%3Damzn1.sym.4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_p%3D4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_r%3DBG5DZYJKNWC1D22BEKQD%26pd_rd_wg%3DpObed%26pd_rd_r%3D27388ac9-3a0d-48fd-b06d-e31ae7abe161%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+        "link_clean": "https://www.amazon.com/dp/B0DNZG27NY/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0DNZG27NY&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "badges": [
+          "Amazon's Choice",
+          "Limited time deal"
+        ],
+        "thumbnail": "https://m.media-amazon.com/images/I/717o1xR9SeL._AC_UF480,480_SR480,480_.jpg",
+        "rating": 4.8,
+        "reviews": 3255,
+        "discount": "-10%",
+        "price": "$7.19",
+        "extracted_price": 7.19,
+        "old_price": "null"
+      },
+      {
+        "position": 13,
+        "asin": "B075P7R3VN",
+        "title": "Jeasona Women’s Cute Cat Animal Socks Gifts for Women Wife Mom | Cat Gifts for Cat Lovers Girlfriend Daughter for Birthday Christmas Mother’s Day",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MToyMzUzMTQ3NTE5ODQxNTI2OjE3OTI2ODU4MzU6c3BfZGV0YWlsMjoyMDAwNDE5ODk0NTcyMzE6Ojo6&url=%2Fdp%2FB075P7R3VN%2Fref%3Dsspa_dk_detail_5%3Fpsc%3D1%26pd_rd_i%3DB075P7R3VN%26pd_rd_w%3DTWeh3%26content-id%3Damzn1.sym.4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_p%3D4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_r%3DBG5DZYJKNWC1D22BEKQD%26pd_rd_wg%3DpObed%26pd_rd_r%3D27388ac9-3a0d-48fd-b06d-e31ae7abe161%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+        "link_clean": "https://www.amazon.com/dp/B075P7R3VN/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B075P7R3VN&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "thumbnail": "https://m.media-amazon.com/images/I/81+cyVZq6QL._AC_UF480,480_SR480,480_.jpg",
+        "rating": 4.7,
+        "reviews": 38366,
+        "price": "$12.99",
+        "extracted_price": 12.99,
+        "price_unit": "$2.60 / count",
+        "extracted_price_unit": 2.6,
+        "climate_pledge_friendly": true
+      },
+      {
+        "position": 14,
+        "asin": "B0GJSDYCKP",
+        "title": "Shower Steamers Aromatherapy Gifts for Women, Relief 8 Pack | Birthday Gifts for Wo...",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MToyMzUzMTQ3NTE5ODQxNTI2OjE3OTI2ODU4MzU6c3BfZGV0YWlsMjozMDE1ODQ5NDMwNTQ0MDI6Ojo6&url=%2Fdp%2FB0GJSDYCKP%2Fref%3Dsspa_dk_detail_6%3Fpsc%3D1%26pd_rd_i%3DB0GJSDYCKP%26pd_rd_w%3DTWeh3%26content-id%3Damzn1.sym.4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_p%3D4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_r%3DBG5DZYJKNWC1D22BEKQD%26pd_rd_wg%3DpObed%26pd_rd_r%3D27388ac9-3a0d-48fd-b06d-e31ae7abe161%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+        "link_clean": "https://www.amazon.com/dp/B0GJSDYCKP/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0GJSDYCKP&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "thumbnail": "https://m.media-amazon.com/images/I/91X5sInCl8L._AC_UF480,480_SR480,480_.jpg",
+        "rating": 4.6,
+        "reviews": 91,
+        "price": "$9.99",
+        "extracted_price": 9.99,
+        "price_unit": "$1.25 / count",
+        "extracted_price_unit": 1.25,
+        "climate_pledge_friendly": true
+      }
+    ],
+    "related_product_sections": [
+      {
+        "title": "Deals on related products",
+        "items": [
+          {
+            "position": 1,
+            "asin": "B0FQB77ZHC",
+            "title": "Shower Steamers Aromatherapy Birthday Gifts for Women - 8 Pack Shower Bombs Gift Se...",
+            "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MToyNTM4MzIyODkzOTc4ODg4OjE3OTI2ODU4MzU6c3BfZGV0YWlsX3RoZW1hdGljOjMwMDk5MTQyNDc5OTgwMjo6Ojo&url=%2Fdp%2FB0FQB77ZHC%2Fref%3Dsspa_dk_detail_0%3Fpsc%3D1%26pd_rd_i%3DB0FQB77ZHC%26pd_rd_w%3DzPotk%26content-id%3Damzn1.sym.3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_p%3D3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_r%3DBG5DZYJKNWC1D22BEKQD%26pd_rd_wg%3DpObed%26pd_rd_r%3D27388ac9-3a0d-48fd-b06d-e31ae7abe161%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM",
+            "link_clean": "https://www.amazon.com/dp/B0FQB77ZHC/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0FQB77ZHC&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "badges": [
+              "Limited time deal"
+            ],
+            "thumbnail": "https://m.media-amazon.com/images/I/71SSEHyZdJL._AC_UF480,480_SR480,480_.jpg",
+            "rating": 4.4,
+            "reviews": 1845,
+            "discount": "-10%",
+            "price": "$8.98",
+            "extracted_price": 8.98,
+            "price_unit": "$1.12 / count",
+            "extracted_price_unit": 1.12,
+            "old_price": "null",
+            "climate_pledge_friendly": true
+          },
+          {
+            "position": 2,
+            "asin": "B0BJYCRS51",
+            "title": "Body Restore Shower Steamers Aromatherapy, Gifts for Women, Bloom 6 Pack | Stocking Stuffers & Birthday Gifts for Women & Men, Spa Stress Relief & Relaxation, 6 Scent Essential Oil Tablets",
+            "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MToyNTM4MzIyODkzOTc4ODg4OjE3OTI2ODU4MzU6c3BfZGV0YWlsX3RoZW1hdGljOjMwMTU2NTQ0ODQyMTgwMjo6Ojo&url=%2Fdp%2FB0BJYCRS51%2Fref%3Dsspa_dk_detail_1%3Fpsc%3D1%26pd_rd_i%3DB0BJYCRS51%26pd_rd_w%3DzPotk%26content-id%3Damzn1.sym.3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_p%3D3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_r%3DBG5DZYJKNWC1D22BEKQD%26pd_rd_wg%3DpObed%26pd_rd_r%3D27388ac9-3a0d-48fd-b06d-e31ae7abe161%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM",
+            "link_clean": "https://www.amazon.com/dp/B0BJYCRS51/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0BJYCRS51&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "badges": [
+              "Limited time deal"
+            ],
+            "thumbnail": "https://m.media-amazon.com/images/I/71dJ+npggkL._AC_UF480,480_SR480,480_.jpg",
+            "rating": 4.5,
+            "reviews": 5402,
+            "discount": "-20%",
+            "price": "$13.59",
+            "extracted_price": 13.59,
+            "price_unit": "$2.27 / count",
+            "extracted_price_unit": 2.27,
+            "old_price": "null"
+          },
+          {
+            "position": 3,
+            "asin": "B0CLDN4BRM",
+            "title": "SWCANDY Shower Steamers Aromatherapy Gifts for Women 8 Pcs Shower Home Spa | Christmas Stocking Stuffers Birthday Gifts for Mom Wife Sister Her Adult Natural Essential Oils Holidays Self Care Relaxation",
+            "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MToyNTM4MzIyODkzOTc4ODg4OjE3OTI2ODU4MzU6c3BfZGV0YWlsX3RoZW1hdGljOjMwMTI4NDE0MDUzMzMwMjo6Ojo&url=%2Fdp%2FB0CLDN4BRM%2Fref%3Dsspa_dk_detail_2%3Fpsc%3D1%26pd_rd_i%3DB0CLDN4BRM%26pd_rd_w%3DzPotk%26content-id%3Damzn1.sym.3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_p%3D3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_r%3DBG5DZYJKNWC1D22BEKQD%26pd_rd_wg%3DpObed%26pd_rd_r%3D27388ac9-3a0d-48fd-b06d-e31ae7abe161%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM",
+            "link_clean": "https://www.amazon.com/dp/B0CLDN4BRM/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0CLDN4BRM&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "badges": [
+              "#1 Best Seller",
+              "Limited time deal"
+            ],
+            "thumbnail": "https://m.media-amazon.com/images/I/810MBwVTSaL._AC_UF480,480_SR480,480_.jpg",
+            "rating": 4.3,
+            "reviews": 7604,
+            "discount": "-15%",
+            "price": "$8.49",
+            "extracted_price": 8.49,
+            "price_unit": "$1.06 / count",
+            "extracted_price_unit": 1.06,
+            "old_price": "null",
+            "climate_pledge_friendly": true
+          },
+          {
+            "position": 4,
+            "asin": "B0DPQ8BMHM",
+            "title": "Shower Steamers Aromatherapy - 8 Pack Shower Bombs with Natural Essential Oils, Ear...",
+            "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MToyNTM4MzIyODkzOTc4ODg4OjE3OTI2ODU4MzU6c3BfZGV0YWlsX3RoZW1hdGljOjMwMTIyNzQwODcyOTkwMjo6Ojo&url=%2Fdp%2FB0DPQ8BMHM%2Fref%3Dsspa_dk_detail_3%3Fpsc%3D1%26pd_rd_i%3DB0DPQ8BMHM%26pd_rd_w%3DzPotk%26content-id%3Damzn1.sym.3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_p%3D3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_r%3DBG5DZYJKNWC1D22BEKQD%26pd_rd_wg%3DpObed%26pd_rd_r%3D27388ac9-3a0d-48fd-b06d-e31ae7abe161%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM",
+            "link_clean": "https://www.amazon.com/dp/B0DPQ8BMHM/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0DPQ8BMHM&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "badges": [
+              "Limited time deal"
+            ],
+            "thumbnail": "https://m.media-amazon.com/images/I/81GheIbkxhL._AC_UF480,480_SR480,480_.jpg",
+            "rating": 4.4,
+            "reviews": 1456,
+            "discount": "-20%",
+            "price": "$7.98",
+            "extracted_price": 7.98,
+            "price_unit": "$1.00 / count",
+            "extracted_price_unit": 1.0,
+            "old_price": "null",
+            "climate_pledge_friendly": true
+          },
+          {
+            "position": 5,
+            "asin": "B0BFHXRG1F",
+            "title": "Shower Steamers Aromatherapy - 18 Pack Christmas & Birthday Gifts for Women, Mom Wi...",
+            "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MToyNTM4MzIyODkzOTc4ODg4OjE3OTI2ODU4MzU6c3BfZGV0YWlsX3RoZW1hdGljOjMwMTI1MTM5OTMyOTEwMjo6Ojo&url=%2Fdp%2FB0BFHXRG1F%2Fref%3Dsspa_dk_detail_4%3Fpsc%3D1%26pd_rd_i%3DB0BFHXRG1F%26pd_rd_w%3DzPotk%26content-id%3Damzn1.sym.3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_p%3D3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_r%3DBG5DZYJKNWC1D22BEKQD%26pd_rd_wg%3DpObed%26pd_rd_r%3D27388ac9-3a0d-48fd-b06d-e31ae7abe161%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM",
+            "link_clean": "https://www.amazon.com/dp/B0BFHXRG1F/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0BFHXRG1F&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "badges": [
+              "Limited time deal"
+            ],
+            "thumbnail": "https://m.media-amazon.com/images/I/71vX9I3kUXL._AC_UF480,480_SR480,480_.jpg",
+            "rating": 4.4,
+            "reviews": 5602,
+            "discount": "-22%",
+            "price": "$17.99",
+            "extracted_price": 17.99,
+            "price_unit": "$1.00 / count",
+            "extracted_price_unit": 1.0,
+            "old_price": "null",
+            "climate_pledge_friendly": true
+          },
+          {
+            "position": 6,
+            "asin": "B0BMQ9JV6P",
+            "title": "Shower Steamers Aromatherapy 21 Pack, Birthday Gifts for Women, Self Care Spa Gift ...",
+            "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MToyNTM4MzIyODkzOTc4ODg4OjE3OTI2ODU4MzU6c3BfZGV0YWlsX3RoZW1hdGljOjMwMTIwNTA3NjI2MTAwMjo6Ojo&url=%2Fdp%2FB0BMQ9JV6P%2Fref%3Dsspa_dk_detail_5%3Fpsc%3D1%26pd_rd_i%3DB0BMQ9JV6P%26pd_rd_w%3DzPotk%26content-id%3Damzn1.sym.3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_p%3D3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_r%3DBG5DZYJKNWC1D22BEKQD%26pd_rd_wg%3DpObed%26pd_rd_r%3D27388ac9-3a0d-48fd-b06d-e31ae7abe161%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM",
+            "link_clean": "https://www.amazon.com/dp/B0BMQ9JV6P/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0BMQ9JV6P&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "badges": [
+              "Limited time deal"
+            ],
+            "thumbnail": "https://m.media-amazon.com/images/I/814Mfx5bs0L._AC_UF480,480_SR480,480_.jpg",
+            "rating": 4.3,
+            "reviews": 2846,
+            "discount": "-35%",
+            "price": "$12.99",
+            "extracted_price": 12.99,
+            "price_unit": "$0.62 / count",
+            "extracted_price_unit": 0.62,
+            "old_price": "null",
+            "climate_pledge_friendly": true
+          },
+          {
+            "position": 7,
+            "asin": "B0CHMDT2FM",
+            "title": "Blriet Shower Steamers Aromatherapy Relief Gifts for Women Teen Girls 8 ct | Birthday Gifts Basket Christmas Stocking Stuffers Wife Her Mom Natural Essential Oils Relaxation Self Care Home Spa Tablets",
+            "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MToyNTM4MzIyODkzOTc4ODg4OjE3OTI2ODU4MzU6c3BfZGV0YWlsX3RoZW1hdGljOjMwMTQ4MjUzNzg5MDEwMjo6Ojo&url=%2Fdp%2FB0CHMDT2FM%2Fref%3Dsspa_dk_detail_6%3Fpsc%3D1%26pd_rd_i%3DB0CHMDT2FM%26pd_rd_w%3DzPotk%26content-id%3Damzn1.sym.3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_p%3D3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_r%3DBG5DZYJKNWC1D22BEKQD%26pd_rd_wg%3DpObed%26pd_rd_r%3D27388ac9-3a0d-48fd-b06d-e31ae7abe161%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM",
+            "link_clean": "https://www.amazon.com/dp/B0CHMDT2FM/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0CHMDT2FM&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "badges": [
+              "Amazon's Choice",
+              "Limited time deal"
+            ],
+            "thumbnail": "https://m.media-amazon.com/images/I/71IeFfOoyNL._AC_UF480,480_SR480,480_.jpg",
+            "rating": 4.4,
+            "reviews": 5823,
+            "discount": "-23%",
+            "price": "$9.99",
+            "extracted_price": 9.99,
+            "price_unit": "$1.25 / count",
+            "extracted_price_unit": 1.25,
+            "old_price": "null",
+            "climate_pledge_friendly": true
+          }
+        ]
+      },
+      {
+        "title": "Related products with free delivery on eligible orders",
+        "items": [
+          {
+            "position": 1,
+            "asin": "B0FJXZ2W5L",
+            "title": "Friend Gifts for Women, Unique Birthday Gifts for Women, Sister Gift from Sister, W...",
+            "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MToyMzUzMTQ3NTE5ODQxNTI2OjE3OTI2ODU4MzU6c3BfZGV0YWlsMjozMDA4NzYzNDY2NjkxMDI6Ojo6&url=%2Fdp%2FB0FJXZ2W5L%2Fref%3Dsspa_dk_detail_0%3Fpsc%3D1%26pd_rd_i%3DB0FJXZ2W5L%26pd_rd_w%3DTWeh3%26content-id%3Damzn1.sym.4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_p%3D4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_r%3DBG5DZYJKNWC1D22BEKQD%26pd_rd_wg%3DpObed%26pd_rd_r%3D27388ac9-3a0d-48fd-b06d-e31ae7abe161%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+            "link_clean": "https://www.amazon.com/dp/B0FJXZ2W5L/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0FJXZ2W5L&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "thumbnail": "https://m.media-amazon.com/images/I/81ly-dASdBL._AC_UF480,480_SR480,480_.jpg",
+            "rating": 4.6,
+            "reviews": 622,
+            "price": "$16.95",
+            "extracted_price": 16.95,
+            "save_with_coupon": "You pay $16.10"
+          },
+          {
+            "position": 2,
+            "asin": "B0DPQ8BMHM",
+            "title": "Shower Steamers Aromatherapy - 8 Pack Shower Bombs with Natural Essential Oils, Ear...",
+            "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MToyMzUzMTQ3NTE5ODQxNTI2OjE3OTI2ODU4MzU6c3BfZGV0YWlsMjozMDEyMjcwMjc3NzAyMDI6Ojo6&url=%2Fdp%2FB0DPQ8BMHM%2Fref%3Dsspa_dk_detail_1%3Fpsc%3D1%26pd_rd_i%3DB0DPQ8BMHM%26pd_rd_w%3DTWeh3%26content-id%3Damzn1.sym.4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_p%3D4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_r%3DBG5DZYJKNWC1D22BEKQD%26pd_rd_wg%3DpObed%26pd_rd_r%3D27388ac9-3a0d-48fd-b06d-e31ae7abe161%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+            "link_clean": "https://www.amazon.com/dp/B0DPQ8BMHM/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0DPQ8BMHM&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "badges": [
+              "Limited time deal"
+            ],
+            "thumbnail": "https://m.media-amazon.com/images/I/81GheIbkxhL._AC_UF480,480_SR480,480_.jpg",
+            "rating": 4.4,
+            "reviews": 1456,
+            "discount": "-20%",
+            "price": "$7.98",
+            "extracted_price": 7.98,
+            "price_unit": "$1.00 / count",
+            "extracted_price_unit": 1.0,
+            "old_price": "null",
+            "climate_pledge_friendly": true
+          },
+          {
+            "position": 3,
+            "asin": "B0GS95BMYD",
+            "title": "Shower Steamers Aromatherapy, Long Lasting Essential Oil Spa, Women Gift | Self Car...",
+            "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MToyMzUzMTQ3NTE5ODQxNTI2OjE3OTI2ODU4MzU6c3BfZGV0YWlsMjozMDEzMjQ2MDQzOTEzMDI6Ojo6&url=%2Fdp%2FB0GS95BMYD%2Fref%3Dsspa_dk_detail_2%3Fpsc%3D1%26pd_rd_i%3DB0GS95BMYD%26pd_rd_w%3DTWeh3%26content-id%3Damzn1.sym.4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_p%3D4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_r%3DBG5DZYJKNWC1D22BEKQD%26pd_rd_wg%3DpObed%26pd_rd_r%3D27388ac9-3a0d-48fd-b06d-e31ae7abe161%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+            "link_clean": "https://www.amazon.com/dp/B0GS95BMYD/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0GS95BMYD&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "thumbnail": "https://m.media-amazon.com/images/I/81AX591ae8L._AC_UF480,480_SR480,480_.jpg",
+            "rating": 4.3,
+            "reviews": 3649,
+            "price": "$13.99",
+            "extracted_price": 13.99,
+            "price_unit": "$1.75 / count",
+            "extracted_price_unit": 1.75
+          },
+          {
+            "position": 4,
+            "asin": "B0963NLYLQ",
+            "title": "Shower Bombs Steamers Gifts for Women-EUSEMIA 12 Pcs Scented Aromatherapy Shower Ba...",
+            "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MToyMzUzMTQ3NTE5ODQxNTI2OjE3OTI2ODU4MzU6c3BfZGV0YWlsMjozMDEwNjQ2Mzg2ODkzMDI6Ojo6&url=%2Fdp%2FB0963NLYLQ%2Fref%3Dsspa_dk_detail_3%3Fpsc%3D1%26pd_rd_i%3DB0963NLYLQ%26pd_rd_w%3DTWeh3%26content-id%3Damzn1.sym.4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_p%3D4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_r%3DBG5DZYJKNWC1D22BEKQD%26pd_rd_wg%3DpObed%26pd_rd_r%3D27388ac9-3a0d-48fd-b06d-e31ae7abe161%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+            "link_clean": "https://www.amazon.com/dp/B0963NLYLQ/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0963NLYLQ&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "thumbnail": "https://m.media-amazon.com/images/I/81uUP0epJWL._AC_UF480,480_SR480,480_.jpg",
+            "rating": 4.4,
+            "reviews": 1007,
+            "discount": "-5%",
+            "price": "$7.57",
+            "extracted_price": 7.57,
+            "price_unit": "$0.63 / count",
+            "extracted_price_unit": 0.63,
+            "old_price": "null"
+          },
+          {
+            "position": 5,
+            "asin": "B0DNZG27NY",
+            "title": "Purple Flower Jewelry Dish Glass Ring Holder Dish Jewelry Tray Cute Vanity Organize...",
+            "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MToyMzUzMTQ3NTE5ODQxNTI2OjE3OTI2ODU4MzU6c3BfZGV0YWlsMjozMDExMDMyODA1NDMwMDI6Ojo6&url=%2Fdp%2FB0DNZG27NY%2Fref%3Dsspa_dk_detail_4%3Fpsc%3D1%26pd_rd_i%3DB0DNZG27NY%26pd_rd_w%3DTWeh3%26content-id%3Damzn1.sym.4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_p%3D4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_r%3DBG5DZYJKNWC1D22BEKQD%26pd_rd_wg%3DpObed%26pd_rd_r%3D27388ac9-3a0d-48fd-b06d-e31ae7abe161%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+            "link_clean": "https://www.amazon.com/dp/B0DNZG27NY/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0DNZG27NY&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "badges": [
+              "Amazon's Choice",
+              "Limited time deal"
+            ],
+            "thumbnail": "https://m.media-amazon.com/images/I/717o1xR9SeL._AC_UF480,480_SR480,480_.jpg",
+            "rating": 4.8,
+            "reviews": 3255,
+            "discount": "-10%",
+            "price": "$7.19",
+            "extracted_price": 7.19,
+            "old_price": "null"
+          },
+          {
+            "position": 6,
+            "asin": "B075P7R3VN",
+            "title": "Jeasona Women’s Cute Cat Animal Socks Gifts for Women Wife Mom | Cat Gifts for Cat Lovers Girlfriend Daughter for Birthday Christmas Mother’s Day",
+            "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MToyMzUzMTQ3NTE5ODQxNTI2OjE3OTI2ODU4MzU6c3BfZGV0YWlsMjoyMDAwNDE5ODk0NTcyMzE6Ojo6&url=%2Fdp%2FB075P7R3VN%2Fref%3Dsspa_dk_detail_5%3Fpsc%3D1%26pd_rd_i%3DB075P7R3VN%26pd_rd_w%3DTWeh3%26content-id%3Damzn1.sym.4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_p%3D4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_r%3DBG5DZYJKNWC1D22BEKQD%26pd_rd_wg%3DpObed%26pd_rd_r%3D27388ac9-3a0d-48fd-b06d-e31ae7abe161%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+            "link_clean": "https://www.amazon.com/dp/B075P7R3VN/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B075P7R3VN&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "thumbnail": "https://m.media-amazon.com/images/I/81+cyVZq6QL._AC_UF480,480_SR480,480_.jpg",
+            "rating": 4.7,
+            "reviews": 38366,
+            "price": "$12.99",
+            "extracted_price": 12.99,
+            "price_unit": "$2.60 / count",
+            "extracted_price_unit": 2.6,
+            "climate_pledge_friendly": true
+          },
+          {
+            "position": 7,
+            "asin": "B0GJSDYCKP",
+            "title": "Shower Steamers Aromatherapy Gifts for Women, Relief 8 Pack | Birthday Gifts for Wo...",
+            "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MToyMzUzMTQ3NTE5ODQxNTI2OjE3OTI2ODU4MzU6c3BfZGV0YWlsMjozMDE1ODQ5NDMwNTQ0MDI6Ojo6&url=%2Fdp%2FB0GJSDYCKP%2Fref%3Dsspa_dk_detail_6%3Fpsc%3D1%26pd_rd_i%3DB0GJSDYCKP%26pd_rd_w%3DTWeh3%26content-id%3Damzn1.sym.4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_p%3D4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_r%3DBG5DZYJKNWC1D22BEKQD%26pd_rd_wg%3DpObed%26pd_rd_r%3D27388ac9-3a0d-48fd-b06d-e31ae7abe161%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+            "link_clean": "https://www.amazon.com/dp/B0GJSDYCKP/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0GJSDYCKP&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "thumbnail": "https://m.media-amazon.com/images/I/91X5sInCl8L._AC_UF480,480_SR480,480_.jpg",
+            "rating": 4.6,
+            "reviews": 91,
+            "price": "$9.99",
+            "extracted_price": 9.99,
+            "price_unit": "$1.25 / count",
+            "extracted_price_unit": 1.25,
+            "climate_pledge_friendly": true
+          }
+        ]
+      }
+    ],
+    "videos": [
+      {
+        "position": 1,
+        "title": "Cleverfy shower steamers 6pack",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/2c3e9dd3-fee3-4768-8098-0433a5102aaa/default.jobtemplate.hls.m3u8",
+        "thumbnail": "https://m.media-amazon.com/images/I/51cB1qzbUGL.jpg",
+        "duration": "1:17",
+        "vendor": "MistyMae",
+        "vendor_thumbnail": "https://m.media-amazon.com/images/I/A10bzqCqkfL._CR0,0,2544,2544_._FMjpg_._SL34_.jpg",
+        "date": "Dec 1, 2025"
+      },
+      {
+        "position": 2,
+        "title": "Go to gift!",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/4b8f0eb5-ec92-4df2-9388-77890beb662c/default.jobtemplate.hls.m3u8",
+        "thumbnail": "https://m.media-amazon.com/images/I/91y9AjPiN0L.png",
+        "duration": "0:35",
+        "vendor": "CLEVERFY",
+        "date": "Jan 28, 2026"
+      },
+      {
+        "position": 3,
+        "title": "Not what I expected!",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/c25f179a-94b3-419f-a2ef-affb55640f6f/default.jobtemplate.hls.m3u8",
+        "thumbnail": "https://m.media-amazon.com/images/I/A1eQpwlBsGL.jpg",
+        "duration": "1:55",
+        "vendor": "Reviews With Hua",
+        "vendor_thumbnail": "https://m.media-amazon.com/images/I/71S6RaOoPXL._CR0,0,1536,1536_._FMjpg_._SL34_.jpg",
+        "date": "Apr 26, 2026"
+      },
+      {
+        "position": 4,
+        "title": "Scented shower steamers for your special someone",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/3cb55227-54df-4149-9446-a556b81f9f54/default.jobtemplate.hls.m3u8",
+        "thumbnail": "https://m.media-amazon.com/images/I/51Ml8l-pWPL.jpg",
+        "duration": "1:18",
+        "vendor": "Frills and Function",
+        "vendor_thumbnail": "https://m.media-amazon.com/images/I/816BBl+97FL._CR0,0,1080,1080_._FMjpg_._SL34_.jpg",
+        "date": "Feb 9, 2026"
+      },
+      {
+        "position": 5,
+        "title": "Your questions answered on these shower steamers",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/2322030b-4faf-46be-9418-e66ad2b9d6e5/default.jobtemplate.hls.m3u8",
+        "thumbnail": "https://m.media-amazon.com/images/I/A1ijD8pEv2L.png",
+        "duration": "0:59",
+        "vendor": "Shopping with Christine",
+        "vendor_thumbnail": "https://m.media-amazon.com/images/I/91dMlh6jGuL._CR0,0,1716,1715_._FMjpg_._SL34_.jpg",
+        "date": "Mar 10, 2026"
+      },
+      {
+        "position": 6,
+        "title": "Switch up your shower scent with these steamers",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/418904fd-05eb-4558-b5b2-9938add099bf/default.jobtemplate.hls.m3u8",
+        "thumbnail": "https://m.media-amazon.com/images/I/B1E9oF-XRaL.png",
+        "duration": "0:36",
+        "vendor": "Jess",
+        "vendor_thumbnail": "https://m.media-amazon.com/images/I/61T2ehgghwL._CR0,0,692,692_._FMjpg_._SL34_.jpg",
+        "date": "Feb 17, 2026"
+      },
+      {
+        "position": 7,
+        "title": "OHHHHHH WOOOOOWWWW",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/ef1fa22e-33d1-4290-854b-6607ad3e085f/embedded.cc.default.vertical.jobtemplate.hls.m3u8",
+        "thumbnail": "https://m.media-amazon.com/images/I/61iBaPGnQ1L.jpg",
+        "duration": "0:36",
+        "vendor": "latreca07",
+        "vendor_thumbnail": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SL34_.png",
+        "date": "Dec 9, 2022"
+      },
+      {
+        "position": 8,
+        "title": "Spa day at home with Cleverfy",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/e5ba7150-ed55-41e3-adc5-7e0c1cf5d2f2/default.jobtemplate.hls.m3u8",
+        "thumbnail": "https://m.media-amazon.com/images/I/51ql6YgBLFL.jpg",
+        "duration": "1:00",
+        "vendor": "Kayli Allen",
+        "vendor_thumbnail": "https://m.media-amazon.com/images/I/81IrZenjkFL._CR0,0,1631,1631_._FMjpg_._SL34_.jpg",
+        "date": "May 9, 2026"
+      },
+      {
+        "position": 9,
+        "title": "Review of shower steamers",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/010e5279-63e4-4e18-bd28-f786a99dbe74/default.jobtemplate.hls.m3u8",
+        "thumbnail": "https://m.media-amazon.com/images/I/A1hgbJcjhKL.png",
+        "duration": "1:13",
+        "vendor": "Whitney Pennington",
+        "vendor_thumbnail": "https://m.media-amazon.com/images/I/C1aSItSL7OL._CR0,386,2316,2316_._FMjpg_._SL34_.jpg",
+        "date": "Jul 24, 2026"
+      },
+      {
+        "position": 10,
+        "title": "Makes a cute gift and is a simple way to upgrade your routine",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/c5a6c63a-a143-4c96-9b5d-bf7722587221/default.jobtemplate.hls.m3u8",
+        "thumbnail": "https://m.media-amazon.com/images/I/41VbSUbMnCL.jpg",
+        "duration": "1:04",
+        "vendor": "Katie Chilton",
+        "vendor_thumbnail": "https://m.media-amazon.com/images/I/81MtQWalWDL._CR0,0,1290,1290_._FMjpg_._SL34_.jpg",
+        "date": "Feb 13, 2026"
+      }
+    ],
+    "product_description": [
+      {
+        "position": 1,
+        "title": "BOX",
+        "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/9f26dc91-5099-4109-a07c-47aed8668227.__CR0,0,1464,600_PT0_SX1464_V1___.jpg"
+      },
+      {
+        "position": 2,
+        "carousel_images": [
+          {
+            "position": 1,
+            "title": "original shower steamers",
+            "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/f12a8d26-27b7-4f15-80a2-501695f8d274.__CR0,0,1464,600_PT0_SX1464_V1___.jpg"
+          },
+          {
+            "position": 2,
+            "title": "natural aromatherapy",
+            "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/c7628f5d-0f0c-4764-b485-494cba5122c9.__CR0,0,1464,600_PT0_SX1464_V1___.jpg"
+          },
+          {
+            "position": 3,
+            "title": "with love helen",
+            "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/032fde4b-a5f8-47bb-9721-080b9d41fe79.__CR0,0,1464,600_PT0_SX1464_V1___.jpg"
+          }
+        ]
+      },
+      {
+        "position": 3,
+        "title": "shower steamers",
+        "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/a36fc2c4-8dab-4a55-a20f-6555eeff984c.__CR0,0,1464,600_PT0_SX1464_V1___.jpg"
+      },
+      {
+        "position": 4,
+        "title": "PERFECT GIFT",
+        "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/a0b64574-bbfb-42ee-b9dd-1ec0641b187d.__CR0,0,1464,600_PT0_SX1464_V1___.jpg"
+      },
+      {
+        "position": 5,
+        "carousel_images": [
+          {
+            "position": 1,
+            "title": "shower steamers",
+            "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/96375cff-ee05-4b7f-b5b0-6fd22003210f.__CR0,0,1464,600_PT0_SX1464_V1___.jpg"
+          },
+          {
+            "position": 2,
+            "title": "shower steamers",
+            "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/381bcfde-f679-42ce-8de0-d8d69a7766e0.__CR0,0,1464,600_PT0_SX1464_V1___.jpg"
+          }
+        ]
+      },
+      {
+        "position": 6,
+        "title": "how to use",
+        "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/d8197091-fe45-4800-a28e-bcf9c8685fbb.__CR0,0,1464,600_PT0_SX1464_V1___.jpg"
+      },
+      {
+        "position": 7,
+        "compare_with_similar": [
+          {
+            "position": 1,
+            "asin": "B07L5QGF38",
+            "title": "Purple Gift Set",
+            "thumbnail": "https://m.media-amazon.com/images/I/51uohA7PvpL.__AC_SR200,225___.jpg",
+            "link": "https://www.amazon.com/dp/B07L5QGF38?ref=emc_p_m_5_i_atc",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B07L5QGF38&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "rating": 4.4,
+            "reviews": 43828,
+            "price": "$9.99",
+            "extracted_price": 9.99,
+            "benefits": "Invigorating",
+            "amount_included": "6 Shower Steamers",
+            "tablet_size": "0.92 oz",
+            "tablet_decoration": "Non-Decorated White Tablets",
+            "packaging": "Gift Pouch"
+          },
+          {
+            "position": 2,
+            "asin": "B0C49PM1HS",
+            "title": "Teen Gift Set",
+            "thumbnail": "https://m.media-amazon.com/images/I/41%2B2XIrOGLL.__AC_SR200,225___.jpg",
+            "link": "https://www.amazon.com/dp/B0C49PM1HS?ref=emc_p_m_5_i_atc",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0C49PM1HS&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "rating": 4.3,
+            "reviews": 19516,
+            "price": "$12.99",
+            "extracted_price": 12.99,
+            "benefits": "Uplifting",
+            "amount_included": "6 Shower Steamers",
+            "tablet_size": "0.92 oz",
+            "tablet_decoration": "Non-Decorated White Tablets",
+            "packaging": "Gift Box"
+          },
+          {
+            "position": 3,
+            "asin": "B07P8395DZ",
+            "title": "Red Gift Set",
+            "thumbnail": "https://m.media-amazon.com/images/I/51xFS2a-CNL.__AC_SR200,225___.jpg",
+            "link": "https://www.amazon.com/dp/B07P8395DZ?ref=emc_p_m_5_i_atc",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B07P8395DZ&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "rating": 4.3,
+            "reviews": 19516,
+            "price": "$9.99",
+            "extracted_price": 9.99,
+            "benefits": "Mood Boost",
+            "amount_included": "6 Shower Steamers",
+            "tablet_size": "0.92 oz",
+            "tablet_decoration": "Non-Decorated White Tablets",
+            "packaging": "Gift Box"
+          },
+          {
+            "position": 4,
+            "asin": "B07P8SQVXR",
+            "title": "Blue Gift Set",
+            "thumbnail": "https://m.media-amazon.com/images/I/41GnpMW-Z9L.__AC_SR200,225___.jpg",
+            "link": "https://www.amazon.com/dp/B07P8SQVXR?ref=emc_p_m_5_i_atc",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B07P8SQVXR&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "rating": 4.3,
+            "reviews": 19516,
+            "price": "$9.98",
+            "extracted_price": 9.98,
+            "benefits": "Calming",
+            "amount_included": "6 Shower Steamers",
+            "tablet_size": "0.92 oz",
+            "tablet_decoration": "Non-Decorated White Tablets",
+            "packaging": "Gift Box"
+          },
+          {
+            "position": 5,
+            "asin": "B09TL5RYXP",
+            "title": "Men Gift Set",
+            "thumbnail": "https://m.media-amazon.com/images/I/51ok8l1cmaL.__AC_SR200,225___.jpg",
+            "link": "https://www.amazon.com/dp/B09TL5RYXP?ref=emc_p_m_5_i_atc",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B09TL5RYXP&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "rating": 4.3,
+            "reviews": 19516,
+            "price": "$12.99",
+            "extracted_price": 12.99,
+            "benefits": "Refreshing",
+            "amount_included": "6 Shower Steamers",
+            "tablet_size": "0.92 oz",
+            "tablet_decoration": "Non-Decorated White Tablets",
+            "packaging": "Gift Box"
+          },
+          {
+            "position": 6,
+            "asin": "B09VTHB39V",
+            "title": "Purple 18 Set",
+            "thumbnail": "https://m.media-amazon.com/images/I/517BINHcf7L.__AC_SR200,225___.jpg",
+            "link": "https://www.amazon.com/dp/B09VTHB39V?ref=emc_p_m_5_i_atc",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B09VTHB39V&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "rating": 4.4,
+            "reviews": 43828,
+            "price": "$19.99",
+            "extracted_price": 19.99,
+            "benefits": "Invigorating",
+            "amount_included": "18 Shower Steamers",
+            "tablet_size": "0.92 oz",
+            "tablet_decoration": "Non-Decorated White Tablets",
+            "packaging": "Gift Pouch"
+          },
+          {
+            "position": 7,
+            "asin": "B0B9XWQ341",
+            "title": "Red 18 Set",
+            "thumbnail": "https://m.media-amazon.com/images/I/51-mw%2BuMwkL.__AC_SR200,225___.jpg",
+            "link": "https://www.amazon.com/dp/B0B9XWQ341?ref=emc_p_m_5_i_atc",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0B9XWQ341&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "rating": 4.3,
+            "reviews": 19516,
+            "price": "$19.99",
+            "extracted_price": 19.99,
+            "benefits": "Mood Boost",
+            "amount_included": "18 Shower Steamers",
+            "tablet_size": "0.92 oz",
+            "tablet_decoration": "Non-Decorated White Tablets",
+            "packaging": "Gift Pouch"
+          }
+        ]
+      }
+    ],
+    "product_details": {
+      "scent_name": "MultiScent",
+      "product_benefits": "Aromatherapy, Mood Boosting, Promotes Sleep, Relaxing, Stress Relief",
+      "item_form": "Tablet",
+      "skin_type": "All, Combination, Mature, Normal, Young",
+      "special_ingredients": "Essential Oil",
+      "coin_variety_1": "Individually wrapped",
+      "bathwater_additive_type": "Shower Steamer",
+      "brand_name": "CLEVERFY",
+      "age_range_description": "Adult, Teen",
+      "item_highlight": "Aromatherapy, Christmas & Birthday Gifts | for Teens, Mom, Adults, Wife, Sister, Best Friend, Kids | Self-Care & Relaxation",
+      "manufacturer": "CLEVERFY",
+      "model_number": "purple-6",
+      "manufacturer_part_number": "purple-6",
+      "best_sellers_rank": [
+        {
+          "text": "#675 in Beauty & Personal Care (See Top 100 in Beauty & Personal Care)",
+          "extracted_rank": 675,
+          "link": "https://www.amazon.com/gp/bestsellers/beauty/ref=pd_zg_ts_beauty",
+          "link_text": "See Top 100 in Beauty & Personal Care"
+        },
+        {
+          "text": "#3 in Shower Steamers",
+          "extracted_rank": 3,
+          "link": "https://www.amazon.com/gp/bestsellers/beauty/73249573011/ref=pd_zg_hrsr_beauty",
+          "link_text": "Shower Steamers"
+        }
+      ],
+      "asin": "B07L5QGF38",
+      "rating": 4.4,
+      "reviews": 43828,
+      "unit_count": "6 Count",
+      "number_of_items": "1",
+      "item_weight": "40 g",
+      "package_size_name": "6 Pack",
+      "recommended_uses_for_product": "Aromatherapy & Home Spa, Gifting for Any Occasion, Morning & Evening Shower Routine, Relaxation, Self-Care",
+      "material_features": "Cruelty Free, Vegan",
+      "material_type_free": "Paraben Free, Phthalate Free",
+      "color": "Purple 6 Pack",
+      "product_dimensions": "7.87 x 5.31 x 0.79 inches; 1.41 ounces",
+      "item_model_number": "purple-6",
+      "department": "unisex-adult",
+      "date_first_available": "May 8, 2019"
+    },
+    "sponsored_brands": [
+      {
+        "position": 1,
+        "asin": "B08BC88KG1",
+        "title": "BodyRestore Shower Steamers Aromatherapy, Self Care Gifts, Relief 15 Pack | Stocking Stuffers & Birthday Gifts for Women & Men, Spa Stress Relief & Relaxation, Eucalyptus Essential Oil Tablets",
+        "link": "https://aax-us-east-retail-direct.amazon.com/x/c/JJxfD2za1CXc29iEN38v5nQAAAGhZGcGJwEAAAH2AQBvbm9fdHhuX2JpZDIgICBvbm9fdHhuX2ltcDIgICDOTVeP/clv1c_ek-wBQfWFbbazTI3YisGKESh-r1b63NcOGwHdibIz5-v7-sD4HfjIgo4Y2EVDnm5OlJ-_4OUiLDuMt1sSRJY-Cz2UNTyVzW5tmnlLjalX6xG42E6_WxXBkbkYjjyoyk2wZ267EsdbP-1rrn293Mi4cXzIN-fgkWqQZXQDjS40fYvualLAcoPvTr5E3GZsSI9vNQMu4rKGwjeKe7blziNuzj_DY_vEHJ38kRI-Uz6GnbtpnofJ-D0JnubZPwCBdq5NAug7p0wcZZfuKJril9UvPEGgrSXWM9l2hzsSYxI07CzFPJvn878VOJn5sLX0bWbpWYD2bFjEW4f83R7IIDy0V5lff-Jse8mTe2n9P3M8DR-Pd_3FzjiWlkCxx3RMbLuED9i_a4jQlROgQbzFNWp6TjAX5_kODDYF8apPkCIUoVa_x5PrYHxSAucwyjyODhfbPsAww8yTQMmAZaaF64mj6_n1_j0844baU-GOFbi4NcVnhRXgvpxYYkHQTm0HWm_fqnlDhDymIwdIyZ3U_2r3xa1hDDnUy8Cc-BqE0hWd9-CPxT2iflSXLDTG58C2jA2FDySGJ1auamVaMbcWido5AKvPx1m812u5l9_0PJ9_iioZUXF9MUIwoqRmF_kDGvh4bN1ZOy0y5ZgOvXsFpehxkeSI-9G6iGFHKkWo8rgRr2LRLnYBF8PPit9mErf6hwzz0oWK19bOPO8GhB7zGgCpv1e1YNfHw_fxESNFQR2AEW8w4Wxd5_Xvfxb9wmTZc6oLdcyVzwFLmw8W-ZOSFFVw3i4AwpXSOJiWAXTUpHmwOSv8HoHsBivV2jOSCeTvwstzrp_JvXBgsEJuQiH4-JGL_SWazZvRe2La4JWB1rzqpDPbRytbtHHIk8ptBmf4pS-5FndP9NRBNHxY2KKo9izEj-0BU-8nY7JJgOSMaK7UnbfJ5l-IfZN-kbR1y4StSYZU-5MaG8rjITb6BRaTXAlj4-GdA3TuF_fGoNENsAaX_5jNBRvgFP6bVFbIfzALIxT4oRYzmTyEHae9mx4WUO-OvU3P707Qe3aR4KoUwIlgBFBe5aiCgfeGpkwipy6csck9ywpv_1YDRBYlpHma2REU6aI1M1P1Udf9vvv6zmLsrXrYsZY4r97_tiy4ZScyXeI8CRc7ivxbeweaRGXnpdAIx6CqSpbR_bx2OHorkBjNvi5f1pcI5MKX8uHb-FL5rjPjA0Wqly_X1t80wjUA-S46ZXDvB4Ckor90OTyqqX1sSysGxkRbyJhgF08sQAr4IOHZ44QTuVejkhvFsetY2r-fXNCCH2rvdiNAZ65E2mIvM3-9MK3nXblT6XZ6eWN-4lwQPAglq1LZwnVE-OXGu3XZTKQOTFo0l7U4xlAma5Y-XNHquOTytbdJUeo9T00cS1njDUplD3kMtwT9w7qNClZA_5ZCCqcm412_I-zmINkXVHPsUeYmLxRt9LE6pDHVQyxTODtf0zdaVhMhsyyMKnZ_GDfHP5SovxC2ZGhdLEGU7DKNtX8JyUlUUaf4Q7Zh9bHjMzTBSyChxaywhxRwdfLUaGscWvs2A3riLuEwa-DP2pb8ovn9zoHVI_TSPhQp6-SRMuO49YTwZdW2vts/https://www.amazon.com/dp/B08BC88KG1/?_encoding=UTF8&pd_rd_i=B08BC88KG1&pd_rd_i=B08BC88KG1&ref_=sbx_be_s_sparkle_ssd_cta&pd_rd_w=NUbkF&content-id=amzn1.sym.fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=BG5DZYJKNWC1D22BEKQD&pd_rd_wg=pObed&pd_rd_r=27388ac9-3a0d-48fd-b06d-e31ae7abe161",
+        "link_clean": "https://www.amazon.com/dp/B08BC88KG1/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B08BC88KG1&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "thumbnail": "https://m.media-amazon.com/images/I/41fkN6PHRnL._AC_SR100,100_QL65_.jpg",
+        "video": {
+          "link": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/5648ed02-5a95-493d-b4fb-105a1f19dbf3.mp4/productVideoOptimized.mp4",
+          "thumbnail": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/5648ed02-5a95-493d-b4fb-105a1f19dbf3.mp4/r/THUMBNAIL_360P_FRAME_3_CAPTURE_2.JPG"
+        },
+        "rating": 4.4,
+        "reviews": 23290,
+        "price": "$23.99",
+        "extracted_price": 23.99,
+        "old_price": "$29.99",
+        "extracted_old_price": 29.99
+      },
+      {
+        "position": 2,
+        "asin": "B0CVSHHS1Y",
+        "title": "Sport Shower Steamers for Men - USA Made, Natural Eucalyptus Essential Oil | Aromatherapy, Sinus Relief, Muscle Recovery for Athletes, Birthday Presents and Gifts for Runners, Marathon Essentials",
+        "link": "https://aax-us-east-retail-direct.amazon.com/x/c/JLtzxC3tfiae0duvPSNw7q8AAAGhZGcGKAEAAAH2AQBvbm9fdHhuX2JpZDIgICBvbm9fdHhuX2ltcDIgICDUcYfl/clv1c_ek-wBQH2FbbazjI3kMfCrVeKjFOCmJFeFKjNsItJnc48e_3rmhW-S9yKs-vIHBgWQeUIIgJ3BFk9BWaCiJOKQTnxQHPuLMwRTypkjBMh90q1CJpRDA68XY347s9YfkiBnzQG1TYYIOKh6-dKo6O0U5DatMU8FlVwG8D50acCTAUeTl2LG23pehDWRJmtaXsUn_KebdirX4XP3pr4pFh4VEZ4CE9vVL6OFkMQtJtVCRJaChwuyn66UDbySTi_CUP5RIa5F7KF-DopLyyGRBb40ArPIziRED_x06z44OHDODoGnielJT340WqIYLYis2-V7rKEu47CPBoJwcStTIqZWW7RVpfFW0-gNf_f6q8Ef7QA1u3VWG7Q6jY2EOLa4at6NQ7Ei_NZQj46Wynmzai66LGqXfUzy6G9y8BYM2hpWnFf7zP1t3JEZ_lGMUFxNcxRFzqOytH6268ybNTN4y8InpUh3rVJZi5QMl030THwDQYNaN19pcceJmUZ1BjeACvdmC0RatH9lKGypulZPmeL2VdsQ4dlDFZd-NhsLpy8VzC_QnIW7QLiS1KAI4OENqNajcjfWeKCWrI5_-z_9bKYeaamlrHRF3RmYAdlzdW67iv2t6EjGMyellSnWgz1EZy5YX8TqxaSTLur2euu-aYkmIm3_YgoKcQzfWQW9ydvxFAEy-kDhEApnBF3YNOC28kzgn_ncYeuYoml105RESB2lZP-R0tvjfff6a8hGa2lb6J6uuecZFqhCqSiFZscxpd9cgjelfeUus4HZ8OzuTr2Ts3gjvk_c-1JDjP_NtPqBBLvC1S1FwGFa5Uik-fhJrpUd_fzb9vpq88XgZrmiVpTWgWM8J0JLF8O-edQfyEWjd5lZ0MasB-FK9wQ_dKKxRNeojPQ9-o6bMYxIwlkhtfzSlGam1Y_y9rIQeEROsXZvfHSqUFE6W1TK50siGIEIktIim1AvzxXvaZTBsqXcMQWjJtuaYhHEKUy_r-5CKan_G1B00Hj0myWtkm4LnSZI2msbOYiKpmjmYFO0CsqsxBe0-yP0JfaXKOZ4TWvHg_X7RVrTW9qT90vQxgKv2Niq6GdBmBbY4-0h-3OZaH2LlqgYdafsAD60dFYwFl1ys8WtnYq5B69C-2Olr1ViM-Tw4W_1i9QaGPUTLS0R4zrE5k8n6wu0m0ElQ7HWLDnXoo1NBXrD4zmKoMTEGVIDPacX1Nf9-DLjNTzmee6vbYscPhk8v3hGLRsT2eF_XObLXqMqnsQyR9M155j0Yn7E8McF4RD1XUcbrDMrXH41YiIR6YZ4S6ctB00CMpJlz69QlX5-_G_q_4me3VdB1_GDsdev1zj75zPrgZIIOiCl3s6zxWSEid9y0ArBh4Tosv-oLGxWEwRBVmGBxm6wzYQ2Ia-Z-WYKTfbxH_qzs8NaRNCo0ZQlDXV7iWkDDcY_jAGhSseILHWLlgZCOzwZMTYTe6nFkNQfRP5S4Ua6yzIf3HZBHw_Y1b7cF1EGZpYx4zVKepCI1WVyusUHX386HXGgYcaCGFfU772gOyVktn2lIuiy5nblrp37PTaVcjVQtwUMOHsMpBTo9iKfDxUDBULPl5CsSSJjyh-QDS8c2hhkBHisx8/https://www.amazon.com/dp/B0CVSHHS1Y/?_encoding=UTF8&pd_rd_i=B0CVSHHS1Y&pd_rd_i=B0CVSHHS1Y&ref_=sbx_be_s_sparkle_ssd_cta&pd_rd_w=NUbkF&content-id=amzn1.sym.fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=BG5DZYJKNWC1D22BEKQD&pd_rd_wg=pObed&pd_rd_r=27388ac9-3a0d-48fd-b06d-e31ae7abe161",
+        "link_clean": "https://www.amazon.com/dp/B0CVSHHS1Y/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0CVSHHS1Y&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "thumbnail": "https://m.media-amazon.com/images/I/51RtiUEaOCL._AC_SR100,100_QL65_.jpg",
+        "video": {
+          "link": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/ab6f5278-832c-460c-9430-2066b054236b.mp4/productVideoOptimized.mp4",
+          "thumbnail": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/ab6f5278-832c-460c-9430-2066b054236b.mp4/r/THUMBNAIL_360P_FRAME_3_CAPTURE_2.JPG"
+        },
+        "rating": 4.5,
+        "reviews": 536,
+        "price": "$26.99",
+        "extracted_price": 26.99,
+        "old_price": "$29.99",
+        "extracted_old_price": 29.99
+      },
+      {
+        "position": 3,
+        "asin": "B0CNSBC8VP",
+        "title": "KAV Donut Bath Bombs Gift Set for Women, Men, Teens and Kids, Bliss, 4-Pack | Handmade Organic Formula with Shea Butter, Coconut Oil & Essential Oils for a Moisturizing Aromatherapy Soak, Gift-Ready",
+        "link": "https://aax-us-east-retail-direct.amazon.com/x/c/JAqUEJxL_PlRAJw1A4su9Q0AAAGhZGcGKQEAAAH2AQBvbm9fdHhuX2JpZDIgICBvbm9fdHhuX2ltcDIgICDn4zPS/clv1c_ek-wxXfWasTaTNOorhewS4x7Ns6YYzGckWduJ7370wf0t9XH-3W1k8T3keEGknB0TRvS2uaLcWDvQb9_Lo7RnpIcYMqePe1c4xQxTKNmvaQWy3DzDFIL9R755foU1tNwAJheyeurJXikW6a6MmZxYpSyrA2ck1PCskSW7nQqyaIluQvcmo6OyEu6RJkVgV6WwHOx4t_ZBcdI1e_n206UsgpxjxurRQzzsUzVjqMDUozbtfel1C83DwW8rgIK8o39Y2DqA2Yqie9i-VrOm1j-lRI5w7cXITlAHbpMuJbWWF6KLZkBeryVfhBSHDyLgSPi2Ew-mT0UOM7o9bIIVWKeC9V6hwz_7VA0_VhTUfxrqZT9zmdbMm91Y5K8hL-kFYWo_LNRWA6-5Q_S_L2czLMBBoE35_hpguB0kTLaZZeuowuSeKPfSaoJOBnquMJDvUFtHO2L-G0QqBpbe7oGW86q4-CORcr-Bro1m2SAHcJ_OnJZAta5lKa7wdlL_cxrvNrpYyllLrEOMEm5b02fqyHZIo05OEoWpK_VY-y_7NYsyf5YFFf9N6kggbI72J3SJDH7CDsJd_MX7f81AGP69r83NWe0WnBIpyXNoDdorkYE1yT_-jOVoYERVrjUxAam5sa3O1LIhv0FFWQzt7HaFlNoRRPjuhAdjNutfVTsQ2GJaVRwcXTtgk1dRSL_aROlg0GfweE9DfdzaHfwcNCOcI2YSiPu5HCHGModl5w7RU_UBWwqODAN4ZJBEiCIhD8wh2mdYiaMddaPgsK4crEb-Li3J3iTDJsy7z0N3l7GBJAsVFt1PfoJ0sUsoRE8M7931szvOaObnU0cd6xqZTyNqNBVt3Q_JcQRtOiw7QGdBIrN76iUOtmBW3QP-zbXAanZkJUbW9ydznJG48GkCoINk66o9ZFkF781TME5qn4VaS-HAc2URDsIZSOuNiBu85J2HW-zksMPvHSEfW_SjAO-y7Yz_zQ7yC_t4Sxcqt65dCqnmRftCW2_5JeTG7t09kk7jhIJUcbSCxzUYBPsZMr1XlZV1pygzIR9xUMTEKjRTNG8Xsrr3GoSnJ9hWImNgcMpFT2cTbzAGa-tZ4QvcyyNt4IweYv5-umQ102PDh8uHNwmI4NuAm9mrYd-r4fys-2dhZuMo4FfZQ5EWoZcDGdDa396iGmmzGsjIJCLN-Pm_gd8bEF6djG-m1X-_SQKj3uWusLy9ndzrkqKBNeXibyRvyvQJIaFrTJbITyrV1-fYPlr0bq3tz7CFbLu_vzdZLfojbH1ibcHC6KV1cM3wHdQhpexFt30SPi7T28NAvLsEAgrGZTqI9AGq4ZyPGdqpUGcY_PPu5u1nPZDtkhJfTUyAN5XW1qn0ueppi5sz_C_3fgYhq1mRhkV1wRPj9LORyN-gM8YGVkMfeTmRrTrkOvbgTKGc5nEP70L00pyOT0aZQAOuz17aitsOFwUTVSyLcGl3NZzgXiV18GGm4Qanpo0V8bhvWRZD4-z1ew9RBEX9c8DdYMLPJnLmYWLKxNC6ciwQQmFcirzdARa7l58wJX6vp1sKsUlk8bLCVH8t2ksgEMxYBeGbhWcJvMsuUlLWe6uLvCk-TSocCT63QxhtLt4SPpqI-EbSy3k2o5p1l6rIoV8EgRb/https://www.amazon.com/dp/B0CNSBC8VP/?_encoding=UTF8&pd_rd_i=B0CNSBC8VP&pd_rd_i=B0CNSBC8VP&ref_=sbx_be_s_sparkle_ssd_cta&pd_rd_w=NUbkF&content-id=amzn1.sym.fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=BG5DZYJKNWC1D22BEKQD&pd_rd_wg=pObed&pd_rd_r=27388ac9-3a0d-48fd-b06d-e31ae7abe161",
+        "link_clean": "https://www.amazon.com/dp/B0CNSBC8VP/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0CNSBC8VP&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "thumbnail": "https://m.media-amazon.com/images/I/510lB99n52L._AC_SR100,100_QL65_.jpg",
+        "video": {
+          "link": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/15d16655-24a2-47fb-a33a-5492ef4992f5.mp4/productVideoOptimized.mp4",
+          "thumbnail": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/15d16655-24a2-47fb-a33a-5492ef4992f5.mp4/r/THUMBNAIL_360P_FRAME_3_CAPTURE_2.JPG"
+        },
+        "rating": 4.6,
+        "reviews": 70,
+        "price": "$19.49",
+        "extracted_price": 19.49
+      },
+      {
+        "position": 4,
+        "asin": "B0D79VSCKH",
+        "title": "Latika Shower Steamers Aromatherapy – Breathe & Release Steamers | Eucalyptus for Shower & Peppermint | Vegan Shower Steamer for Stress Relief | Home Spa & Shower Accessories",
+        "link": "https://aax-us-east-retail-direct.amazon.com/x/c/JF0xGK7WhsPcYlPP2723B24AAAGhZGcGKgEAAAH2AQBvbm9fdHhuX2JpZDIgICBvbm9fdHhuX2ltcDIgICBMDmJC/clv1c_ek-YBYXWbcbaXj1XZ_ts2QDJ7b2aFJjMTw9tqy_EzZ_E_pyE6m6xFDfMb9HtT1UQj6LjdQA-GkQFlfHiW4nZJlNZocEtb1S9bGwvPzub5EgWgzAjCsQV1J0dZvV_loJQFyxbz_FnMtydGM2JGdlWcZx9lvuE1lXlvhQwfm66LYacV38lrqHzQbygFJU2PwPigpNqMQ8VF7foF2X8IEHdgrI9MfQ1LCbevh8i2aw660Eag8Y1SDtwI8d7ykBeRmQX-VL2mQfSoPNjJ0rmv1GXapk5rFhAdr1wpeVViX9_k6vPNbNofadif-gShCuMSdqyWlFZuYTDi5vi9zUsTb645zr8tIHxTeE0_kC3MyqjMaIRSFUEKJ8pVmb0Had5UsCsoscu6sEcTSx4Z0S7J3yUllqfkzHHR2p0rVYJqNLc3Pk7qv7TJfthHhQRtqmMyVkZwY1PeRE1pEpM9lqsnsmq6wUq3lRW4puUW2FDfNJzJui58IuQHdNnh_1hvilwiyqjb0WGQHM04cX63dOGeB-1u47GoBYBRXD_kkDPXvo8yf64Fb_GZ7B8sSJSzqYP0jRuWekKhTwQ8B6_FwasGOt_1lXoRzEbfcnO5ZiCcypS_TVY-TCVoQAfsTW5j4uZBbzyELY5HIfM2U4N286Vy9d4Zy0aIr3nPub9JghskVqWnJFwob4ZhglBIZu1iDtS0kQBZ30VUHneXTU6qhf5kLzK056ekHKpHj1P5VkcTz9LLiie2KhZlvwTn9_4Ynxq79P4OUFO2q0F71szgiPj8TVDEw0CfJB78VAWJMpgmQ1C32l5xsnzCgMruic09UHCKr8KV8DHiJrd6on7MA7t_fO1uN4CtlyDCuKqvLFVFWWYr44fjtgvoqMJh8hl06SuTYpwoFbswm01dugGgVBYQB50U6xP7jYI52oWfCZBz16qBACbCfnRkSkuOQ2iwTK7hRanyHlUid3pYZ4vmu1Sf7gHBSQMx-reXCcd__hRKl_73nTCk3bddgb-V7ZufQ2H9qLtKJdyqSv-ojLGYXXi4QRvx8USG1cKTSzpLkeZyt4DnKCZqDUSWPRRCxHc0eeKiPFPrfPBH92bEnb8GESSlSuqhyT4FLvPTXce2S6YDXMbjZ07UWzAGbJnsMPY6uFGFA07bLa7A6J1bPLOCRbiHQqh8I92087ePNSIrGYI2CVYGvXjNaF_zAyj4KXOfzCqweysdyNRLrcWsSEv0DNL4zi6Dxnx5L6_rpF6RRO0iHW1eX2W8MMp8aMrH8-Cg7dzxxTxT9wCj1NV6-fUiER2Ut9nc7uSNRvrSZrTHwXU0sBlTt5lJAIscmylOlxfEKmdKa3y3ZOER5wtcKXdxA_NHgAzV9T_HRDG42sz8cfBfqKjClBdSceKdvaWeySRzoyN6BSmTyKlsvdm8bzOqda-lVjpW3JZZdoSdHO34Q2JmwmBHtIO8IpUZS0Xw9dyE43Kdqxd-97JWP3Var3YTm29sf_Qtpl6cVZFtg53Ef6bpBiFTbTcV0QKHrpzCYYB6x8Bm8bou5SBch5n8M5SaW51uv_sFU0KCG55_0cToZfOrNi6i-qQcs6c1jOR-gvS6np15WcMQYe80ITCpKs3N0eQUj_lAW4V9V0/https://www.amazon.com/dp/B0D79VSCKH/?_encoding=UTF8&pd_rd_i=B0D79VSCKH&pd_rd_i=B0D79VSCKH&ref_=sbx_be_s_sparkle_ssd_cta&pd_rd_w=NUbkF&content-id=amzn1.sym.fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=BG5DZYJKNWC1D22BEKQD&pd_rd_wg=pObed&pd_rd_r=27388ac9-3a0d-48fd-b06d-e31ae7abe161",
+        "link_clean": "https://www.amazon.com/dp/B0D79VSCKH/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0D79VSCKH&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "thumbnail": "https://m.media-amazon.com/images/I/41q2yKLDRLL._AC_SR100,100_QL65_.jpg",
+        "video": {
+          "link": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/c45c739b-3bb7-4c3c-a9d2-c22ea51a97a7.mov/productVideoOptimized.mp4",
+          "thumbnail": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/c45c739b-3bb7-4c3c-a9d2-c22ea51a97a7.mov/r/THUMBNAIL_360P_FRAME_3_CAPTURE_2.JPG"
+        },
+        "rating": 4.1,
+        "reviews": 30,
+        "price": "$13.74",
+        "extracted_price": 13.74
+      },
+      {
+        "position": 5,
+        "asin": "B0CC3HGBGD",
+        "title": "Shower Steamers Aromatherapy - USA Made with Natural & Organic Ingredients | Stocking Stuffers, Large Shower Bombs with Eucalyptus Essential Oil, Relaxation, Spa & Birthday Gifts for Women & Men",
+        "link": "https://aax-us-east-retail-direct.amazon.com/x/c/JPBQLh_xsA2lwCzNU1cTMpsAAAGhZGcGKwEAAAH2AQBvbm9fdHhuX2JpZDIgICBvbm9fdHhuX2ltcDIgICCjEThs/clv1c_ek-wBQH2UsbaHn0mGP3P82PkEFX3Epdxbei3-OmmFamLa7OEUiy2EM-7eimqwdbFmbMyIztqu4iKiplwgPmJ_OZOoQoTdt6GQgcjFCReRAtGG_BJxCGPOhyI4v9jsB4sjzJYqL5VK9HSmQSBqW8CGfiao8mENtXqCIp1wzjimEbe22CG5IuhR4O-NhXR4nFkZG4C1m9zj-YJV7s_s0xu26HDGHsrEGKU-r9Ts5aF0Tp8q5_IGgrvkTHySTyHfpXGuEybjk2iH6Noqu-x27Dm8sJVjYV_jsjN8UcZcJL26m9wqgYhD-h9EOuLblEio-l4rclk4K7MPJoJRkeMxEmZ1S3BFojw7W1QU40jA5oPN_4vLDObBZ__dvYiOjWCiTPF7aOaxVjjFY1zfttqBraQYuEwFSGFiNbRFAZNxaV5NEwJreHVaKChdv2zB7un_Y4JCMYrxBo0vvL3X1AUEwHpCw3RQJm6NDY52yQfEurJUP-bFG4dFOkk0apxzgGcrzNZkzZShkESmhbCr0EuBFCwv2Hn76oXlIoJSILCKKIlSNB9DUwlKlivbT47pRIo07Cw2U1b8xb-Duchn2O8zNgs7uJj-X44Q_QRk2wbH95LyZrvsM1PMfOWMv-1sXmbh_r47d7D3L94-2Awozcm__VWYFMF_YWq_sUYqADuCX6IlMCNwL5fuJob1zfz5FEbFrvjoKWkMGGZQPjJgAoMmAF5Zv6Dy5mhFf2eBeeB7mFK-Eynwtn1Af3F6u9UTXuUHL4SwyqkB2OLWmchTzGaHqogZyXWuxpv6HHoFKQRYvs7cLhQoQqaKlPbGAzRWNyRu8NVPZSj7ddcPHvVBuVBQiH4ckXSmukg9yqRoI-txMEvLd2ajM4gDOM35YGQJ6LU0sDXUumKn2uJ_C3GE82ZxrBR4NsCVngMgKHJr8jMxmm6KMWBtbEuCSVUDKnoQV7AnxkXKYnxAzz95dfTEPqeysrX2qApCEt2xRciWkglp8SNklOU1MCQNRJG3ebi6v0juulKAiJRBgDo6kRHxD4lXFW75Hq2IhfyfRsbz7NxCy6mbVVtD1bHkZXDgLx82Z-HxyFMtagRQxfsZPd1zGD-TX7iXc_LETyCow3uaLvb5aeKzRNFRoyK4Dn0W_TPCfKnwPN09zLAxopiF-DR-nBi_pokdW8Drdg_gFlxy6UD4Zu7eusQ8b-2EwBoEqTGvUMNvzYp_YkTaN5J3q9Xvp-qAEIMDTbU4ZP-jf4AoCVAXnoD6GRVvAeT1MCLc0D3XMN2BpjnbADznWSaHRngIPAZeFgNg0S294qbNqOixdI_jj6W-r0Oj_MrjFxPEqSnTlNtOk3KOn8065H19SUqNg3U7qc7YXR-u6VgzAcyBy7LaMwUxqKo9oUFHFV2U-6jmZjenCxQWaQBr9VponW6ZbBWd7azs6GfDdBITVtXgidn5cv4x5FVlfgV09CUaAf0UkjgyXixDxEnL3lXOji5hIN5l529mSQqSAn-At_4injvHsnBAjDm2XjdhJ1v3ckfwNzSk8QHCZsgQO_8ryJzqFpfsRkLs0NnCGpM_Dl7zw4GvWZmFlpjyrpGN7Yfwml2YMtn8UjZxh3ZikBbqzIfWLuDnfgV/https://www.amazon.com/dp/B0CC3HGBGD/?_encoding=UTF8&pd_rd_i=B0CC3HGBGD&pd_rd_i=B0CC3HGBGD&ref_=sbx_be_s_sparkle_ssd_cta&pd_rd_w=NUbkF&content-id=amzn1.sym.fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=BG5DZYJKNWC1D22BEKQD&pd_rd_wg=pObed&pd_rd_r=27388ac9-3a0d-48fd-b06d-e31ae7abe161",
+        "link_clean": "https://www.amazon.com/dp/B0CC3HGBGD/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0CC3HGBGD&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "thumbnail": "https://m.media-amazon.com/images/I/41cbDOtfuOL._AC_SR100,100_QL65_.jpg",
+        "video": {
+          "link": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/2031e642-09fb-4a54-82de-7fcc81e40379.mp4/productVideoOptimized.mp4",
+          "thumbnail": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/2031e642-09fb-4a54-82de-7fcc81e40379.mp4/r/THUMBNAIL_360P_FRAME_3_CAPTURE_2.JPG"
+        },
+        "rating": 4.4,
+        "reviews": 2191,
+        "price": "$19.99",
+        "extracted_price": 19.99
+      }
+    ],
+    "reviews_information": {
+      "summary": {
+        "text": "Customers find these shower steamers make a cute gift set and appreciate their relaxation benefits, particularly noting how the lavender ones help with stress relief. The steamers receive mixed feedback regarding their effectiveness, with some saying they work well in the shower while others report they don't work at all. Customers have mixed opinions about the value for money, with some finding them great value while others say they're not worth the price. The steamers' scent and dissolvability receive mixed reviews, with some finding them wonderful while others report very weak scents, and while some say they last the whole shower, others mention they dissolve too quickly.",
+        "insights": [
+          {
+            "title": "Gift",
+            "sentiment": "positive",
+            "mentions": {
+              "total": 549,
+              "positive": 539,
+              "negative": 10
+            },
+            "summary": "Customers find these shower steamers make a good gift, particularly as stocking stuffers, with wives and families enjoying them.",
+            "examples": [
+              {
+                "position": 1,
+                "snippet": "Great gift for anyone that loves to enhance their shower experience, price is perfect to order a few and hand them out to people as nice gestures to...",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R1HKGMRNNBLA4A"
+              },
+              {
+                "position": 2,
+                "snippet": "These are the perfect gift for the Ms. who is traveling and needs a bathbomb without the bath. They last a solid 15+ mins and smell great....",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R1ZZJNGSIAA8KX"
+              },
+              {
+                "position": 3,
+                "snippet": "...Scent didn't last long in the shower. Nice gift tho",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R2MTMBCHGEP57K"
+              },
+              {
+                "position": 4,
+                "snippet": "Good gift, great presentation. The aroma is there but short lived. Pricey for a Single use item. Probably a nice house warming gift.",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R3TV7ZYSZ9GLEQ"
+              }
+            ]
+          },
+          {
+            "title": "Taste",
+            "sentiment": "positive",
+            "mentions": {
+              "total": 427,
+              "positive": 400,
+              "negative": 27
+            },
+            "summary": "Customers enjoy these shower steamers, particularly their wives and daughters, describing them as a nice little treat.",
+            "examples": [
+              {
+                "position": 1,
+                "snippet": "I got this as part of a gift idea for my girlfriend. She loves them and has used a couple so far. packaging looks nice and it is presented well....",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R1995723ND8OJH"
+              },
+              {
+                "position": 2,
+                "snippet": "Gifted the shower steamers to my daughter. She loved them and asked for them again this year. Great quality gift. Lasting auroma, nicely packaged.",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R5NYSF7LFLIAF"
+              },
+              {
+                "position": 3,
+                "snippet": "Sent this to my granddaughter for her birthday. She loved it. The aroma was coming through the package before she opened it. Couldn’t wait to use it....",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R4N7QJM8DFCNL"
+              },
+              {
+                "position": 4,
+                "snippet": "I gave this as a gift and she loves it! The smell is very strong so I put it in a Ziploc bag before wrapping it. The smell came through anyway....",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R1MRD9A8P4VSYS"
+              }
+            ]
+          },
+          {
+            "title": "Relaxation",
+            "sentiment": "positive",
+            "mentions": {
+              "total": 286,
+              "positive": 277,
+              "negative": 9
+            },
+            "summary": "Customers find these shower steamers relaxing, particularly noting that the lavender scents help with stress relief. One customer mentions feeling like they're in a spa, while another appreciates how it provides just the right amount of serenity.",
+            "examples": [
+              {
+                "position": 1,
+                "snippet": "...One daughter shared that the 'grapefruit' was amazing -was to be relaxing and immune boosting, yet it also 'cleaned out my sinuses'....",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R3SV7X18XNO36M"
+              },
+              {
+                "position": 2,
+                "snippet": "My wife loves the sense when she gets in the shower. It's very relaxing to her. It was a gift I never thought about getting for her. It was perfect.",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R4HY3AXJUFSSF"
+              },
+              {
+                "position": 3,
+                "snippet": "...These are perfect for my situation at home! They’re so relaxing, and smell so wonderful, it makes not having a bathtub a little easier on me, haha....",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R3CC03RFEKOURN"
+              },
+              {
+                "position": 4,
+                "snippet": "...They make my shower comforting and soothing. They are not overpowering - just the right touch. I will buy again!",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R22LOXP0MYFLWT"
+              }
+            ]
+          },
+          {
+            "title": "Scent",
+            "sentiment": "mixed",
+            "mentions": {
+              "total": 2600,
+              "positive": 1730,
+              "negative": 902
+            },
+            "summary": "Customers have mixed opinions about the shower steamer's scent, with some finding it wonderful while others report very weak fragrance.",
+            "examples": [
+              {
+                "position": 1,
+                "snippet": "Best out there hands down, and I have tried them all. Smells great and lasts my entire shower. I do things a little bit different than most people....",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R18YUJLB5OYE7C"
+              },
+              {
+                "position": 2,
+                "snippet": "...No scent. The eucalyptus one (I believe) did much better. I haven’t tried them all just two and will update my review when the box is gone.",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R3RYTVE4LSPDXS"
+              },
+              {
+                "position": 3,
+                "snippet": "I will reorder these & continue to give them as gifts. They smell great and make my small bath smell goo even when the shower is not running.",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R3CFPIC8A060AB"
+              },
+              {
+                "position": 4,
+                "snippet": "This product smells amazing, however it did not work. I followed the directions and did not get any steam from it, it just kinda melted.",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R1IN46RCUQZ33"
+              }
+            ]
+          },
+          {
+            "title": "Value for money",
+            "sentiment": "mixed",
+            "mentions": {
+              "total": 751,
+              "positive": 308,
+              "negative": 443
+            },
+            "summary": "Customers have mixed opinions about the shower steamers' value for money, with some finding them a great value while others consider them a complete waste of money.",
+            "examples": [
+              {
+                "position": 1,
+                "snippet": "Waste of money. Dissolved in seconds and doesn’t even have strong scent. I didn’t even smell it while the water was on and it was dissolving....",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R1L06Y1M20LLPV"
+              },
+              {
+                "position": 2,
+                "snippet": "...My wife has used 2 tablets so far and loves the aromatic affects. Will buy again. Also fast delivery.",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R317AK0CYDNKHE"
+              },
+              {
+                "position": 3,
+                "snippet": "...order to make it work correctly and I still can't get it to work so NOT WORTH IT. All in all I don't not recommend",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R1KGVUKE5HALBI"
+              },
+              {
+                "position": 4,
+                "snippet": "...Used it right when I got it and the pod lasted longer than my shower! Worth it for sure",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R3EPHKSMCFHLVH"
+              }
+            ]
+          },
+          {
+            "title": "Effectiveness",
+            "sentiment": "mixed",
+            "mentions": {
+              "total": 530,
+              "positive": 251,
+              "negative": 279
+            },
+            "summary": "Customers have mixed experiences with the shower steamers, with some reporting they work well in the shower, while others find them ineffective.",
+            "examples": [
+              {
+                "position": 1,
+                "snippet": "...have a shower that sometimes collects water in the bottom, this is useless....",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R25M06TARSEIY6"
+              },
+              {
+                "position": 2,
+                "snippet": "...She has found that 1 steamer is to big. So I broke them in half & it works great. Now she’s got twice as many for the same price. 👍",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/RAS1A9LH05FPG"
+              },
+              {
+                "position": 3,
+                "snippet": "Do not recommend. One star only because the BOX smelt amazing! Extremely light, light, scent in the shower....",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R3NN0KVSXQXY6K"
+              },
+              {
+                "position": 4,
+                "snippet": "They work but they all smell the same. Maybe because they’re packaged all together. The sweet scents just smell like mint and eucalyptus....",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/RXOREWFXSRGD0"
+              }
+            ]
+          },
+          {
+            "title": "Duration",
+            "sentiment": "mixed",
+            "mentions": {
+              "total": 422,
+              "positive": 220,
+              "negative": 202
+            },
+            "summary": "Customers have mixed experiences with how long the shower steamers last, with some reporting they stay effective throughout the entire shower while others find they don't even make it through one wash.",
+            "examples": [
+              {
+                "position": 1,
+                "snippet": "My husband gifted me these and I’m hooked. Scents are great and long lasting. I’ve tried others and there are no comparisons. These are the Best!",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R3U5DELOMPUOW2"
+              },
+              {
+                "position": 2,
+                "snippet": "...It's a poor product that doesn't last long if you smell anything at all. I'm short, 4'10\", I had to basically bend in the shower to smell it....",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R3CRSN5WFGWIR0"
+              },
+              {
+                "position": 3,
+                "snippet": "These have wonderful, strong, great smelling scents and they last a LONG time. Sometimes I'm ready to get out of the shower and still have some left....",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R3PMLEJ17LF73N"
+              },
+              {
+                "position": 4,
+                "snippet": "Little to know fragrance and it doesn’t last long",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/RWM91E0U39JNZ"
+              }
+            ]
+          },
+          {
+            "title": "Dissolvability",
+            "sentiment": "mixed",
+            "mentions": {
+              "total": 311,
+              "positive": 104,
+              "negative": 207
+            },
+            "summary": "Customers have mixed experiences with how the shower steamers dissolve, with some reporting they quickly break down while others find they don't melt in the water at all.",
+            "examples": [
+              {
+                "position": 1,
+                "snippet": "Waste of money. Very dissapointing. Pop one in the shower, it dissolved quickly and no scent at all. Tried another ons and the same thing....",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R3F8PVRY90FGOL"
+              },
+              {
+                "position": 2,
+                "snippet": "...time and did not put it into a direct water stream and it dissolved very quickly, and also the scent was not very strong and I don’t have a problem...",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R3TYCW2UAWMWBU"
+              },
+              {
+                "position": 3,
+                "snippet": "They dissolve very quickly.They don't give off very good aroma therapy in any way shape or form",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R2FJYXHVC6RHO1"
+              },
+              {
+                "position": 4,
+                "snippet": "...Bottom line: These things dissolve quickly if exposed to too much constant water....",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/RSYM08SO00C4U"
+              }
+            ]
+          }
+        ],
+        "customer_reviews": {
+          "5 star": 69,
+          "4 star": 14,
+          "3 star": 10,
+          "2 star": 3,
+          "1 star": 4
+        }
+      }
+    }
+  }
+}

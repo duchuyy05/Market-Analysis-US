@@ -1,0 +1,641 @@
+{
+  "provider": "serpapi",
+  "endpoint": "https://serpapi.com/search.json",
+  "parameters": {
+    "engine": "amazon_product",
+    "asin": "B0G5QKD8ZS",
+    "amazon_domain": "amazon.com",
+    "language": "en_US",
+    "shipping_location": "US",
+    "device": "mobile",
+    "output": "json"
+  },
+  "fetched_at_utc": "2026-10-22T15:55:20.362048+00:00",
+  "raw_file": "supplements/supplement-2026-10-22T1555203491100000-9b1e70/raw/serpapi-c39b5465e9669898c2e1.json",
+  "response": {
+    "search_metadata": {
+      "id": "6ada31e97e70283a3072654a",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/91iHclKxpAebk5LMVcXEBsFjS64im722iRTzju_tqYw/6ada31e97e70283a3072654a.json",
+      "markdown_endpoint": "https://serpapi.com/searches/91iHclKxpAebk5LMVcXEBsFjS64im722iRTzju_tqYw/6ada31e97e70283a3072654a.md",
+      "created_at": "2026-10-22 15:55:21 UTC",
+      "processed_at": "2026-10-22 15:55:21 UTC",
+      "amazon_product_url": "https://www.amazon.com/dp/B0G5QKD8ZS/?language=en_US",
+      "raw_html_file": "https://serpapi.com/searches/91iHclKxpAebk5LMVcXEBsFjS64im722iRTzju_tqYw/6ada31e97e70283a3072654a.html",
+      "total_time_taken": 9.0
+    },
+    "search_parameters": {
+      "engine": "amazon_product",
+      "asin": "B0G5QKD8ZS",
+      "amazon_domain": "amazon.com",
+      "language": "en_US",
+      "device": "mobile",
+      "shipping_location": "US"
+    },
+    "product_results": {
+      "categories": [
+        {
+          "position": 1,
+          "name": "Toys & Games",
+          "link": "https://www.amazon.com/toys/b/ref=m_dp_bc_1?ie=UTF8&node=165793011",
+          "node": "165793011",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=mobile&engine=amazon&language=en_US&node=165793011&shipping_location=US"
+        },
+        {
+          "position": 2,
+          "name": "Building Toys",
+          "link": "https://www.amazon.com/kids-construction-blocks-models-building-sets/b/ref=m_dp_bc_2?ie=UTF8&node=166092011",
+          "node": "166092011",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=mobile&engine=amazon&language=en_US&node=166092011&shipping_location=US"
+        }
+      ],
+      "asin": "B0G5QKD8ZS",
+      "title": "LEGO Star Wars Advent Calendar 2026 75456 Christmas Advent Calendar for Kids, Building Toy, Boys & Girls, Ages 6+, Festive Star Wars Minifigures, 293 pieces",
+      "link": "https://www.amazon.com/LEGO-TBD-Star-Wars-75456/dp/B0G5QKD8ZS/",
+      "link_clean": "https://www.amazon.com/dp/B0G5QKD8ZS/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0G5QKD8ZS&device=mobile&engine=amazon_product&language=en_US&shipping_location=US",
+      "badges": [
+        "#1 Best Seller"
+      ],
+      "brand": ".premium-logoByLine-brand-logo { max-height: 36px; height: auto; max-width: min(154px, 100%); min-width: 4px; width: auto; object-fit: contain; } .premium-logoByLine-mobile-link-text { white-space: normal; word-wrap: break-word; line-height: 120%; max-width: 100%; } Visit the LEGO Store",
+      "thumbnail": "https://m.media-amazon.com/images/I/81QFB5T8KyL._AC_UF894,1000_QL80_FMwebp_.jpg",
+      "thumbnails": [
+        "https://m.media-amazon.com/images/I/81QFB5T8KyL._AC_UF894,1000_QL80_FMwebp_.jpg",
+        "https://m.media-amazon.com/images/I/81wBZmxFxUL._AC_UF894,1000_QL80_FMwebp_.jpg",
+        "https://m.media-amazon.com/images/I/81Mlb3K6pBL._AC_UF894,1000_QL80_FMwebp_.jpg",
+        "https://m.media-amazon.com/images/I/71IJ9cc0awL._AC_UF894,1000_QL80_FMwebp_.jpg",
+        "https://m.media-amazon.com/images/I/71VrEYCVycL._AC_UF894,1000_QL80_FMwebp_.jpg",
+        "https://m.media-amazon.com/images/I/71e9Uvh5dBL._AC_UF894,1000_QL80_FMwebp_.jpg"
+      ],
+      "rating": 4.8,
+      "reviews": 145,
+      "price": "$49.99",
+      "extracted_price": 49.99,
+      "description": "This is the way… to count down to Christmas. The LEGO Star Wars Advent Calendar 2026 (75456) building toy for kids ages 6 years old and up sparks daily creative fun during the holiday season. Discover iconic characters as they’ve never been seen before: The Mandalorian and Moff Gideon LEGO minifigures, plus Grogu and Pit Droid LEGO figures all in holiday outfits. Mando and Grogu have complementary sweaters, where Grogu’s features an image of Mando and Mando’s has an image of Grogu. Find 8 mini build vehicles, including an X-wing in festive colors. Look out for mini build toys for kids including LEGO figures of a Blurrg, Mudhorn, Bantha and Dewback. Packed with collectible Star Wars: The Mandalorian themed mini building toys, this Christmas advent calendar for kids makes an exciting early Christmas gift for boys, girls and any fans ages 6 years old and up. With a surprise treat every day, this festive LEGO advent calendar offers hours of fun and family-bonding activities to enjoy throughout the run-up to Christmas. Contains 293 pieces."
+    },
+    "purchase_options": {
+      "single_offer": {
+        "price": "$49.99",
+        "extracted_price": 49.99
+      }
+    },
+    "item_specifications": {
+      "brand": "LEGO",
+      "color": "Multicolor",
+      "theme": "LEGO",
+      "material": "Plastic",
+      "special_feature": "Since 1958, LEGO bricks have met the highest industry standards, so they are consistent, compatible and connect and come apart easily every time – and it's still that way today Special Feature Since 1958, LEGO bricks have met the highest industry standards, so they are consistent, compatible and connect and come apart easily every time – and it's still that way today See more",
+      "item_weight": "14.72 ounces"
+    },
+    "about_item": [
+      "STAR WARS ADVENT CALENDAR 2026 – Find surprise brick-built LEGO toys behind every door for kids to create their own festive Star Wars: The Mandalorian adventures with the LEGO Star Wars Advent Calendar 2026 (75456) building toy for kids ages 6 years old and up",
+      "ICONIC CHARACTERS – Discover The Mandalorian and Grogu in holiday sweaters, Moff Gideon, Carson Teva and Jawa LEGO minifigures, plus LEGO figures of IG-11 and a Pit Droid in festive colors",
+      "8 MINI BUILD VEHICLES – Discover Mando’s N-1 Starfighter, The Razor Crest, a speeder bike, Sandcrawler, Imperial Shuttle, Mandalorian Gauntlet Fighter, Imperial Light Cruiser and an X-wing in festive colors",
+      "MORE MINI BUILD TOYS FOR KIDS – LEGO figures of a Mudhorn, Bantha, Dewback and Blurrg, plus 3 tables with beskar, gifts and Moff Gideon’s accessories, a weapons rack and Grogu’s hoverpram",
+      "EARLY CHRISTMAS GIFT IDEA – This LEGO advent calendar for kids ages 6 years old and up makes an awesome holiday gift for boys, girls and any Star Wars: The Mandalorian fans",
+      "EXPANDED PLAY – The mini builds and characters in this set can be added to other LEGO Star Wars sets (each sold separately) for endless play possibilities",
+      "HOLIDAY ACTIVITY – This 293-piece Christmas advent calendar for kids is great for boys and girls to build and play with either solo or with family and friends as a holiday bonding activity"
+    ],
+    "related_products": [
+      {
+        "position": 1,
+        "asin": "B0HNNKMZGR",
+        "title": "2026 Nativity Advent Calendar Toys, 24-Day 3D Printed Christmas Figurine Set, Jesus Birth Story Holiday Desk Display &amp; Novelty Gift for Kids",
+        "link": "https://www.amazon.com/dp/B0HNNKMZGR/ref=sspa_mw_detail_0?ie=UTF8&psc=1&spc=MTo4MDE3NTY4MjA4NzM1MDMwOjE3OTI2ODQ1Mjg6c3BfcGhvbmVfZGV0YWlsOjMwMTYwMTg4NTkxMTMwMjo6Ojo&sp_csd=d2lkZ2V0TmFtZT1zcF9waG9uZV9kZXRhaWw",
+        "link_clean": "https://www.amazon.com/dp/B0HNNKMZGR/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0HNNKMZGR&device=mobile&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "thumbnail": "https://m.media-amazon.com/images/I/51CGZvk4MtL._AC_UX450_UY450_SR450,450_.jpg",
+        "price": "$14.99",
+        "extracted_price": 14.99
+      },
+      {
+        "position": 2,
+        "asin": "B0HNNS42M4",
+        "title": "2026 Nativity Advent Calendar Building Toys, 24-Day Countdown Brick Set with Warm Light, Holiday Mantle Display &amp; Novelty Gift",
+        "link": "https://www.amazon.com/dp/B0HNNS42M4/ref=sspa_mw_detail_1?ie=UTF8&psc=1&spc=MTo4MDE3NTY4MjA4NzM1MDMwOjE3OTI2ODQ1Mjg6c3BfcGhvbmVfZGV0YWlsOjMwMTYwMTg4NTkxMTQwMjo6Ojo&sp_csd=d2lkZ2V0TmFtZT1zcF9waG9uZV9kZXRhaWw",
+        "link_clean": "https://www.amazon.com/dp/B0HNNS42M4/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0HNNS42M4&device=mobile&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "thumbnail": "https://m.media-amazon.com/images/I/51kmKONwnDL._AC_UX450_UY450_SR450,450_.jpg",
+        "price": "$21.99",
+        "extracted_price": 21.99
+      },
+      {
+        "position": 3,
+        "asin": "B0DMWKPLJT",
+        "title": "STAR WARS Advent Calendar, 24 Pieces Including Micro Figures &amp; Vehicles, Countdown Calendar, Surprise Toys for Boys &amp; Girls Ages 4+ (Amazon Exclusive)",
+        "link": "https://www.amazon.com/dp/B0DMWKPLJT/ref=sspa_mw_detail_2?ie=UTF8&psc=1&spc=MTo4MDE3NTY4MjA4NzM1MDMwOjE3OTI2ODQ1Mjg6c3BfcGhvbmVfZGV0YWlsOjMwMDk5MDQ2NTA1MTYwMjo6Ojo&sp_csd=d2lkZ2V0TmFtZT1zcF9waG9uZV9kZXRhaWw",
+        "link_clean": "https://www.amazon.com/dp/B0DMWKPLJT/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0DMWKPLJT&device=mobile&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "thumbnail": "https://m.media-amazon.com/images/I/81D+F69pQML._AC_UX450_UY450_SR450,450_.jpg",
+        "rating": 4.7,
+        "reviews": 537,
+        "discount": "-15%",
+        "price": "$25.80",
+        "extracted_price": 25.8,
+        "old_price": "null"
+      },
+      {
+        "position": 4,
+        "asin": "B0FCYRGZL4",
+        "title": "Marvel Studios’ Avengers: Doomsday Doctor Doom Power Surge FX Mask",
+        "link": "https://www.amazon.com/dp/B0FCYRGZL4/ref=sspa_mw_detail_3?ie=UTF8&psc=1&spc=MTo4MDE3NTY4MjA4NzM1MDMwOjE3OTI2ODQ1Mjg6c3BfcGhvbmVfZGV0YWlsOjMwMTQ5Njk2MzAyODUwMjo6Ojo&sp_csd=d2lkZ2V0TmFtZT1zcF9waG9uZV9kZXRhaWw",
+        "link_clean": "https://www.amazon.com/dp/B0FCYRGZL4/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0FCYRGZL4&device=mobile&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "thumbnail": "https://m.media-amazon.com/images/I/710FXbCG6+L._AC_UX450_UY450_SR450,450_.jpg",
+        "rating": 4.6,
+        "reviews": 33,
+        "price": "$29.97",
+        "extracted_price": 29.97
+      },
+      {
+        "position": 5,
+        "asin": "B0H4M188ZP",
+        "title": "Dinosaur Advent Calendar 2026 for Kids, 24 Days Christmas Countdown with 22 Mini Pull Back Dino Cars, Play Map, Trees &amp; Rock, Dinosaur Car Toys Gifts for Boys Girls Ages 3+",
+        "link": "https://www.amazon.com/dp/B0H4M188ZP/ref=sspa_mw_detail_4?ie=UTF8&psc=1&spc=MTo4MDE3NTY4MjA4NzM1MDMwOjE3OTI2ODQ1Mjg6c3BfcGhvbmVfZGV0YWlsOjMwMTU5ODcwODA2OTIwMjo6Ojo&sp_csd=d2lkZ2V0TmFtZT1zcF9waG9uZV9kZXRhaWw",
+        "link_clean": "https://www.amazon.com/dp/B0H4M188ZP/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0H4M188ZP&device=mobile&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "thumbnail": "https://m.media-amazon.com/images/I/81KLe4nTjaL._AC_UX450_UY450_SR450,450_.jpg",
+        "rating": 4.0,
+        "reviews": 5,
+        "price": "$18.99",
+        "extracted_price": 18.99
+      },
+      {
+        "position": 6,
+        "asin": "B0FFMQJGLF",
+        "title": "Advent Calendar 2026 Christmas Tree Building Blocks Compatible with Lego, with LED Light, Sleigh, 24 Day Countdown Advent Calendar Xmas Tree Building Set, Christmas Toys Gifts for Kids Girls Boys 6-12",
+        "link": "https://www.amazon.com/dp/B0FFMQJGLF/ref=sspa_mw_detail_5?ie=UTF8&psc=1&spc=MTo4MDE3NTY4MjA4NzM1MDMwOjE3OTI2ODQ1Mjg6c3BfcGhvbmVfZGV0YWlsOjMwMTAxNzM3MTI2OTIwMjo6Ojo&sp_csd=d2lkZ2V0TmFtZT1zcF9waG9uZV9kZXRhaWw",
+        "link_clean": "https://www.amazon.com/dp/B0FFMQJGLF/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0FFMQJGLF&device=mobile&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "thumbnail": "https://m.media-amazon.com/images/I/81RbSLXfGjL._AC_UX450_UY450_SR450,450_.jpg",
+        "rating": 4.7,
+        "reviews": 93,
+        "discount": "-8%",
+        "price": "$36.99",
+        "extracted_price": 36.99,
+        "old_price": "null",
+        "save_with_coupon": "You pay $29.59"
+      },
+      {
+        "position": 7,
+        "asin": "B0H8ZPWKYN",
+        "title": "Dinosaur Kids Advent Calendar 2026, 24 Day Pull Back Cars with Big Play Mat | 21 Dino Themed Cars &amp; 3 Scene, Play Mat for Fun Racing, 24 Days Countdown Dinosaur Toys Gift for Boys Girls Dinosaur Lovers",
+        "link": "https://www.amazon.com/dp/B0H8ZPWKYN/ref=sspa_mw_detail_6?ie=UTF8&psc=1&spc=MTo4MDE3NTY4MjA4NzM1MDMwOjE3OTI2ODQ1Mjg6c3BfcGhvbmVfZGV0YWlsOjMwMTUzMDMyODAwMDAwMjo6Ojo&sp_csd=d2lkZ2V0TmFtZT1zcF9waG9uZV9kZXRhaWw",
+        "link_clean": "https://www.amazon.com/dp/B0H8ZPWKYN/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0H8ZPWKYN&device=mobile&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "thumbnail": "https://m.media-amazon.com/images/I/81FFqHDCJML._AC_UX450_UY450_SR450,450_.jpg",
+        "rating": 4.8,
+        "reviews": 9,
+        "discount": "-7%",
+        "price": "$27.99",
+        "extracted_price": 27.99,
+        "old_price": "null"
+      }
+    ],
+    "related_product_sections": [
+      {
+        "title": "You might also like",
+        "items": [
+          {
+            "position": 1,
+            "asin": "B0HNNKMZGR",
+            "title": "2026 Nativity Advent Calendar Toys, 24-Day 3D Printed Christmas Figurine Set, Jesus Birth Story Holiday Desk Display &amp; Novelty Gift for Kids",
+            "link": "https://www.amazon.com/dp/B0HNNKMZGR/ref=sspa_mw_detail_0?ie=UTF8&psc=1&spc=MTo4MDE3NTY4MjA4NzM1MDMwOjE3OTI2ODQ1Mjg6c3BfcGhvbmVfZGV0YWlsOjMwMTYwMTg4NTkxMTMwMjo6Ojo&sp_csd=d2lkZ2V0TmFtZT1zcF9waG9uZV9kZXRhaWw",
+            "link_clean": "https://www.amazon.com/dp/B0HNNKMZGR/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0HNNKMZGR&device=mobile&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "thumbnail": "https://m.media-amazon.com/images/I/51CGZvk4MtL._AC_UX450_UY450_SR450,450_.jpg",
+            "price": "$14.99",
+            "extracted_price": 14.99
+          },
+          {
+            "position": 2,
+            "asin": "B0HNNS42M4",
+            "title": "2026 Nativity Advent Calendar Building Toys, 24-Day Countdown Brick Set with Warm Light, Holiday Mantle Display &amp; Novelty Gift",
+            "link": "https://www.amazon.com/dp/B0HNNS42M4/ref=sspa_mw_detail_1?ie=UTF8&psc=1&spc=MTo4MDE3NTY4MjA4NzM1MDMwOjE3OTI2ODQ1Mjg6c3BfcGhvbmVfZGV0YWlsOjMwMTYwMTg4NTkxMTQwMjo6Ojo&sp_csd=d2lkZ2V0TmFtZT1zcF9waG9uZV9kZXRhaWw",
+            "link_clean": "https://www.amazon.com/dp/B0HNNS42M4/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0HNNS42M4&device=mobile&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "thumbnail": "https://m.media-amazon.com/images/I/51kmKONwnDL._AC_UX450_UY450_SR450,450_.jpg",
+            "price": "$21.99",
+            "extracted_price": 21.99
+          },
+          {
+            "position": 3,
+            "asin": "B0DMWKPLJT",
+            "title": "STAR WARS Advent Calendar, 24 Pieces Including Micro Figures &amp; Vehicles, Countdown Calendar, Surprise Toys for Boys &amp; Girls Ages 4+ (Amazon Exclusive)",
+            "link": "https://www.amazon.com/dp/B0DMWKPLJT/ref=sspa_mw_detail_2?ie=UTF8&psc=1&spc=MTo4MDE3NTY4MjA4NzM1MDMwOjE3OTI2ODQ1Mjg6c3BfcGhvbmVfZGV0YWlsOjMwMDk5MDQ2NTA1MTYwMjo6Ojo&sp_csd=d2lkZ2V0TmFtZT1zcF9waG9uZV9kZXRhaWw",
+            "link_clean": "https://www.amazon.com/dp/B0DMWKPLJT/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0DMWKPLJT&device=mobile&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "thumbnail": "https://m.media-amazon.com/images/I/81D+F69pQML._AC_UX450_UY450_SR450,450_.jpg",
+            "rating": 4.7,
+            "reviews": 537,
+            "discount": "-15%",
+            "price": "$25.80",
+            "extracted_price": 25.8,
+            "old_price": "null"
+          },
+          {
+            "position": 4,
+            "asin": "B0FCYRGZL4",
+            "title": "Marvel Studios’ Avengers: Doomsday Doctor Doom Power Surge FX Mask",
+            "link": "https://www.amazon.com/dp/B0FCYRGZL4/ref=sspa_mw_detail_3?ie=UTF8&psc=1&spc=MTo4MDE3NTY4MjA4NzM1MDMwOjE3OTI2ODQ1Mjg6c3BfcGhvbmVfZGV0YWlsOjMwMTQ5Njk2MzAyODUwMjo6Ojo&sp_csd=d2lkZ2V0TmFtZT1zcF9waG9uZV9kZXRhaWw",
+            "link_clean": "https://www.amazon.com/dp/B0FCYRGZL4/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0FCYRGZL4&device=mobile&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "thumbnail": "https://m.media-amazon.com/images/I/710FXbCG6+L._AC_UX450_UY450_SR450,450_.jpg",
+            "rating": 4.6,
+            "reviews": 33,
+            "price": "$29.97",
+            "extracted_price": 29.97
+          },
+          {
+            "position": 5,
+            "asin": "B0H4M188ZP",
+            "title": "Dinosaur Advent Calendar 2026 for Kids, 24 Days Christmas Countdown with 22 Mini Pull Back Dino Cars, Play Map, Trees &amp; Rock, Dinosaur Car Toys Gifts for Boys Girls Ages 3+",
+            "link": "https://www.amazon.com/dp/B0H4M188ZP/ref=sspa_mw_detail_4?ie=UTF8&psc=1&spc=MTo4MDE3NTY4MjA4NzM1MDMwOjE3OTI2ODQ1Mjg6c3BfcGhvbmVfZGV0YWlsOjMwMTU5ODcwODA2OTIwMjo6Ojo&sp_csd=d2lkZ2V0TmFtZT1zcF9waG9uZV9kZXRhaWw",
+            "link_clean": "https://www.amazon.com/dp/B0H4M188ZP/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0H4M188ZP&device=mobile&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "thumbnail": "https://m.media-amazon.com/images/I/81KLe4nTjaL._AC_UX450_UY450_SR450,450_.jpg",
+            "rating": 4.0,
+            "reviews": 5,
+            "price": "$18.99",
+            "extracted_price": 18.99
+          },
+          {
+            "position": 6,
+            "asin": "B0FFMQJGLF",
+            "title": "Advent Calendar 2026 Christmas Tree Building Blocks Compatible with Lego, with LED Light, Sleigh, 24 Day Countdown Advent Calendar Xmas Tree Building Set, Christmas Toys Gifts for Kids Girls Boys 6-12",
+            "link": "https://www.amazon.com/dp/B0FFMQJGLF/ref=sspa_mw_detail_5?ie=UTF8&psc=1&spc=MTo4MDE3NTY4MjA4NzM1MDMwOjE3OTI2ODQ1Mjg6c3BfcGhvbmVfZGV0YWlsOjMwMTAxNzM3MTI2OTIwMjo6Ojo&sp_csd=d2lkZ2V0TmFtZT1zcF9waG9uZV9kZXRhaWw",
+            "link_clean": "https://www.amazon.com/dp/B0FFMQJGLF/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0FFMQJGLF&device=mobile&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "thumbnail": "https://m.media-amazon.com/images/I/81RbSLXfGjL._AC_UX450_UY450_SR450,450_.jpg",
+            "rating": 4.7,
+            "reviews": 93,
+            "discount": "-8%",
+            "price": "$36.99",
+            "extracted_price": 36.99,
+            "old_price": "null",
+            "save_with_coupon": "You pay $29.59"
+          },
+          {
+            "position": 7,
+            "asin": "B0H8ZPWKYN",
+            "title": "Dinosaur Kids Advent Calendar 2026, 24 Day Pull Back Cars with Big Play Mat | 21 Dino Themed Cars &amp; 3 Scene, Play Mat for Fun Racing, 24 Days Countdown Dinosaur Toys Gift for Boys Girls Dinosaur Lovers",
+            "link": "https://www.amazon.com/dp/B0H8ZPWKYN/ref=sspa_mw_detail_6?ie=UTF8&psc=1&spc=MTo4MDE3NTY4MjA4NzM1MDMwOjE3OTI2ODQ1Mjg6c3BfcGhvbmVfZGV0YWlsOjMwMTUzMDMyODAwMDAwMjo6Ojo&sp_csd=d2lkZ2V0TmFtZT1zcF9waG9uZV9kZXRhaWw",
+            "link_clean": "https://www.amazon.com/dp/B0H8ZPWKYN/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0H8ZPWKYN&device=mobile&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "thumbnail": "https://m.media-amazon.com/images/I/81FFqHDCJML._AC_UX450_UY450_SR450,450_.jpg",
+            "rating": 4.8,
+            "reviews": 9,
+            "discount": "-7%",
+            "price": "$27.99",
+            "extracted_price": 27.99,
+            "old_price": "null"
+          }
+        ]
+      }
+    ],
+    "videos": [
+      {
+        "position": 1,
+        "title": "Watch before buying! Unboxing the 2026 LEGO Star Wars Advent",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/f7d54150-dd06-4128-bf35-107367d0e491/videopreview.jobtemplate.mp4.default.mp4",
+        "thumbnail": "https://m.media-amazon.com/images/I/B1VAEW9N-3L.jpg",
+        "duration": "1:03",
+        "vendor": "🌟Amanda’s Amazon Finds🌟",
+        "vendor_thumbnail": "https://m.media-amazon.com/images/I/719Jychg7mL._CR0,0,900,900_._FMjpg_._SL34_.jpg",
+        "date": "Sep 9, 2026"
+      },
+      {
+        "position": 2,
+        "title": "Watch before buying! What's Inside LEGO Star Wars Advent?",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/e082117b-bce9-490d-8aa1-b1a5b694aa00/videopreview.jobtemplate.mp4.default.mp4",
+        "thumbnail": "https://m.media-amazon.com/images/I/A1hQiYwWhaL.png",
+        "duration": "2:37",
+        "vendor": "✅  AJ Reviews",
+        "vendor_thumbnail": "https://m.media-amazon.com/images/I/61798+0j8YL._CR0,0,951,951_._FMjpg_._SL34_.jpg",
+        "date": "Sep 14, 2026"
+      },
+      {
+        "position": 3,
+        "title": "WHY this advent calendar is DIFFERENT from others!",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/cd54f25e-fd52-4771-8454-21d18b7ff95b/videopreview.jobtemplate.mp4.default.mp4",
+        "thumbnail": "https://m.media-amazon.com/images/I/A1iQn5Yku1L.png",
+        "duration": "1:18",
+        "vendor": "⭐ My Next Find ⭐",
+        "vendor_thumbnail": "https://m.media-amazon.com/images/I/61UU7PvbH6L._CR0,0,549,549_._FMjpg_._SL34_.jpg",
+        "date": "Sep 17, 2026"
+      },
+      {
+        "position": 4,
+        "title": "A quick PEEK but no spoilers!",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/383f6eb5-d83a-4242-8ae1-ddfe5c35c8bb/videopreview.jobtemplate.mp4.default.mp4",
+        "thumbnail": "https://m.media-amazon.com/images/I/A1KL7PJ4DDL.png",
+        "duration": "0:53",
+        "vendor": "✨🌸 Michelle Johnson 🌸✨",
+        "vendor_thumbnail": "https://m.media-amazon.com/images/I/913Dh-wTYnL._CR0,0,2656,2656_._FMjpg_._SL34_.jpg",
+        "date": "Sep 18, 2026"
+      },
+      {
+        "position": 5,
+        "title": "SEE details on Lego Advent calendar+how to assemble!",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/555d25e1-b2eb-41bd-983b-1a50b635f4ed/videopreview.jobtemplate.mp4.default.mp4",
+        "thumbnail": "https://m.media-amazon.com/images/I/A11EXIMkBsL.png",
+        "duration": "5:38",
+        "vendor": "⚡KJ Finds | Kristi and Jonathan",
+        "vendor_thumbnail": "https://m.media-amazon.com/images/I/8104k8hWDbL._CR0,0,1254,1254_._FMjpg_._SL34_.jpg",
+        "date": "Sep 17, 2026"
+      },
+      {
+        "position": 6,
+        "title": "Everything You MUST Know About This Star Wars Lego Set!",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/a3e461fe-6c87-4576-ab8f-b8c1f7389f4a/videopreview.jobtemplate.mp4.default.mp4",
+        "thumbnail": "https://m.media-amazon.com/images/I/91U-MsaTk7L.jpg",
+        "duration": "3:07",
+        "vendor": "✅ Scott Shafer",
+        "vendor_thumbnail": "https://images-na.ssl-images-amazon.com/images/S/influencer-profile-image-prod/logo/scottshafer_1590745360000_original._CR0,64,1080,1080_._FMjpg_._SL34_.jpeg",
+        "date": "Oct 2, 2026"
+      },
+      {
+        "position": 7,
+        "title": "Lego Star Wars advent calendar is HERE!",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/0fa4d176-feb7-4bfa-b01e-31b4bf7207d4/videopreview.jobtemplate.mp4.default.mp4",
+        "thumbnail": "https://m.media-amazon.com/images/I/81M5RwAvXJL.jpg",
+        "duration": "0:56",
+        "vendor": "Campus To Catnip",
+        "vendor_thumbnail": "https://m.media-amazon.com/images/I/71GbaazdC+L._CR0,0,1222,1223_._FMjpg_._SL34_.jpg",
+        "date": "Sep 19, 2026"
+      },
+      {
+        "position": 8,
+        "title": "Here is WHY I RECOMMEND this Advent Calendar",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/39c282bc-704a-4821-98c3-ced92c7ba3ad/videopreview.jobtemplate.mp4.default.mp4",
+        "thumbnail": "https://m.media-amazon.com/images/I/B1TgfUkmFyL.jpg",
+        "duration": "1:36",
+        "vendor": "Your Favorite Kat",
+        "vendor_thumbnail": "https://m.media-amazon.com/images/I/A1bUgkK7ZZL._CR0,0,2162,2163_._FMjpg_._SL34_.jpg",
+        "date": "Oct 18, 2026"
+      },
+      {
+        "position": 9,
+        "title": "Building the 2026 LEGO Star Wars Advent Calendar",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/8d4f9857-2d4f-48a8-9c54-e747303b3136/videopreview.jobtemplate.mp4.default.mp4",
+        "thumbnail": "https://m.media-amazon.com/images/I/71jBzxB1rFL.jpg",
+        "duration": "1:13",
+        "vendor": "Jennifer.Paulk4",
+        "vendor_thumbnail": "https://m.media-amazon.com/images/I/51TrRnGmB1L._CR0,0,500,500_._FMjpg_._SL34_.jpg",
+        "date": "Sep 21, 2026"
+      },
+      {
+        "position": 10,
+        "title": "What’s Behind the Doors? LEGO Star Wars",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/37b5ad27-c906-4b11-a9fb-a8b6b52c0597/videopreview.jobtemplate.mp4.default.mp4",
+        "thumbnail": "https://m.media-amazon.com/images/I/A1U13hGWfGL.png",
+        "duration": "1:19",
+        "vendor": "Inese BP",
+        "vendor_thumbnail": "https://m.media-amazon.com/images/I/A1BROf3B2LL._CR0,0,2296,2296_._FMjpg_._SL34_.jpg",
+        "date": "Sep 18, 2026"
+      }
+    ],
+    "product_description": [
+      {
+        "position": 1,
+        "title": "75456_Lifestyle",
+        "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/6efbfbb5-34cd-4b2e-a7b7-564e335ece92.__CR0,0,970,600_PT0_SX970_V1___.jpg"
+      },
+      {
+        "position": 2,
+        "title": "75456_Hero",
+        "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/759cf24f-c6dd-4859-b4a2-22bbe39aaeee.__CR0,0,970,600_PT0_SX970_V1___.jpg"
+      },
+      {
+        "position": 3,
+        "features": [
+          {
+            "position": 1,
+            "title": "Festive fun with key characters",
+            "text": "The Mandalorian, Moff Gideon and Grogu in holiday outfits, and more.",
+            "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/eefb24d3-6c27-4b31-a842-bf2a4fc8f668.__CR0,0,300,300_PT0_SX300_V1___.jpg"
+          },
+          {
+            "position": 2,
+            "title": "7 mini build vehicles",
+            "text": "Includes an X-wing in festive colors and The Razor Crest for action play.",
+            "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/a5e9ed7a-681f-47a7-acd6-c2550b4396d0.__CR0,0,300,300_PT0_SX300_V1___.jpg"
+          },
+          {
+            "position": 3,
+            "title": "4 LEGO Star Wars figures",
+            "text": "Look out for the Blurrg, Mudhorn, Bantha and Dewback.",
+            "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/4817fce3-d76e-440f-bdd4-0868aa560202.__CR0,0,300,300_PT0_SX300_V1___.jpg"
+          }
+        ]
+      },
+      {
+        "position": 4,
+        "title": "75456_Build",
+        "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/eb5e5aa0-6f30-45cf-b073-2698616e5e2d.__CR0,0,970,600_PT0_SX970_V1___.jpg"
+      },
+      {
+        "position": 5,
+        "title": "75456_IntheBox",
+        "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/dde07ee5-52b8-4172-9ab9-dbda4fbd570c.__CR0,0,970,600_PT0_SX970_V1___.jpg"
+      }
+    ],
+    "product_details": {
+      "brand_name": "LEGO",
+      "item_weight": "14.72 ounces",
+      "global_trade_identification_number": "00673419422253",
+      "upc": "673419422253",
+      "number_of_items": "1",
+      "item_highlight": "Christmas Advent Calendar for Kids, Building Toy, Boys & Girls, Ages 6+, Festive Star Wars Minifigures, 293 pieces",
+      "unit_count": "1 Count",
+      "included_components": "LEGO Building Elements",
+      "item_type_name": "Building Kit",
+      "manufacturer": "LEGO",
+      "model_number": "6588648",
+      "part_number": "6588648",
+      "best_sellers_rank": [
+        {
+          "text": "#15 in Toys & Games (See Top 100 in Toys & Games)",
+          "extracted_rank": 15,
+          "link": "https://www.amazon.com/gp/bestsellers/toys-and-games/ref=pd_zg_ts_toys-and-games",
+          "link_text": "See Top 100 in Toys & Games"
+        },
+        {
+          "text": "#1 in Building Toys",
+          "extracted_rank": 1,
+          "link": "https://www.amazon.com/gp/bestsellers/toys-and-games/166092011/ref=pd_zg_hrsr_toys-and-games",
+          "link_text": "Building Toys"
+        }
+      ],
+      "asin": "B0G5QKD8ZS",
+      "customer_reviews": "4.8 out of 5 stars 145Reviews",
+      "color": "Multicolor",
+      "theme": "LEGO",
+      "material": "Plastic",
+      "special_features": "Since 1958, LEGO bricks have met the highest industry standards, so they are consistent, compatible and connect and come apart easily every time – and it's still that way today"
+    },
+    "sponsored_brands": [
+      {
+        "position": 1,
+        "link": "https://aax-us-east-retail-direct.amazon.com/x/c/JFH2fyMHeheEFWopucKFHaIAAAGhZFMTGwEAAAH2AQBvbm9fdHhuX2JpZDEgICBvbm9fdHhuX2ltcDIgICBfXp3T/clv1c_ek-YBfHXFbbWzjK3YivOrRfcuXaZLo9pXMP98S0kmgHfNhJJ-I4NB-NPEW883WB-q4qV_J8IzbO_z-tSJbZph4r0zywG3knZjQ3uDnQJA7oKDyApIgkgSfPltbe8lnIzygJv61x6JWHFHqhmjKGZY1NRaw6UkhVrksDSX1u-PDY_-2gbFIxFz6tb9dEf203KSTX5v0BXEhXEJVRddi6A93I9uHdHEVaCoLLETklqBkjVeEeUfzYyU2C5UrkGMUqBcJ7ra3b36EvHboBvEtYgZdlgyseLZu0A-m8gX8l-imbpRE3YXVmY57ePcjPg_rS9Fyl6NAy4GKmZ-xBnskjtomTdtNXk65c2v078kZFFZfczwVEy0ZNepSB6Tqfg3Lt4BnU8IIxttHQgFGYOrnHOO_0eRAe2jadp68sQvoXK-YhThLg2u1X31oJ2L01gj7p7_FmURCLkEhgLNqTrqgoXALnJ2kysUqPZRK0lvS7BUY6muH5qQ7-oc_ElrMMNLrf9wn1qay1FC88naXC67XCb7nEfp6J7m1DKRxsu9qfdIx26varUgjdwEHjp_OEaxeFD_jp3CnzRxo3H_dYaQ7kNS1dj72rTpKam5N8RbAVdKAtBn62_Hbs9vgoVlB_sPFxBTFp9MM2szHpRE9mROa4i-GeG-uehxQHzOB_W1Y5yqERPCFtGuN6jmjo1atyefHrop3iZpIaMJ30CGUfm7VPyZPWdpFH8deyXEIFqneYmYgj45IGdiWOJaLoODkRRldf3uIDnRHepMUnSv7f_NdFlDnUKUUdeNLlJ1q2Le55cbW0sCyDK02BIutckbnkaRmYRt1Gw4zw5Uprm9hdmG9UylDTS9Ay-4e59FUN2-zvYr_4d3NwxQCcDMsm4gl5Nozk7UCTKAtHS31YQ6sSWIjbNs23l2ROmbba4680_gpDSScTMaeNd6qruh8lG3KFWBlyKm3mXChxpHGxZqT1zSitzt8u8ad9twgLHFPSAEq0nqqkFCuN3YdUUcJ1AOZTX5RJpitGkStof73Xq4D_RQUzdXXsvpi1vx76bHXrfciBVqSt7-Xor2x35yxfivcbijr6-MCwEcrl8bY4ONAK4DcajVQPOcPBw1yU6XrG8KQliMGQp_mShh_eXL-nzDCM5cwJ8wmVaL_CVk_zJr01Myspn_yGmLOkOXw8Ti_uCYir3tgw47UQS0fNHaQ4q3qjrDQoxEQqEKXNO69lOmJ1y9Ul2lZAgAUcUrCSIWojA1k4fN2R6qXPB7j7vpmaPtVG1ARgXnU-uzelb7gcOQAtiI50fWX9B_2AMYgFTfIWqYfgZbzAnZOYsP153bK8pa97HtOE0VEVt0lWrLSQvodfQJMfjxY2Qy7HNHLvDLYqy_jXQst_CJNdME5phKveMsuTSj7dzafjf9-H6w9jfcIW-EkGGnzkZFjqXeP3197wffutc1zECns35zU4RVxafbj1v13296xkut8udhwW4PKKdxxdShmP8v9x0AH-VCsgU5qs6Mqb1OEiZfZ7uiBeKVzzCTOavs2txCzTl3rBv6UEIp5m3uoHKqg7-WgFLL1_DShlvz_BCIt0DXF8YC0A8TCzbmUcLW_30LI6jzwECef_R/https://www.amazon.com/stores/page/F235D12B-1F88-462B-98C8-CEFB7DC6A536/?_encoding=UTF8&store_ref=SB_A079401817W9E6EI4M0YW-A0896309DDPUEMXMQFYQ&pd_rd_plhdr=t&aaxitk=bc02b78b30ac4916c2b94c65e02e0bbf&hsa_cr_id=0&lp_slot=mobile-arbies&lp_page_asin=B0G5QKD8ZS&pd_rd_i=ad1&ref_=sbx_be_dp_arbies_mbm_mb0_bkgd&pd_rd_w=2Brgo&content-id=amzn1.sym.a0cf6175-49ce-4c72-8721-b2bed4d3a00e&pf_rd_p=a0cf6175-49ce-4c72-8721-b2bed4d3a00e&pf_rd_r=34J59KFAY564DQ9RPYXK&pd_rd_wg=iSbMl&pd_rd_r=77678f5f-50fa-4465-b528-1e2fc471e405",
+        "link_clean": "https://aax-us-east-retail-direct.amazon.com/x/c/JFH2fyMHeheEFWopucKFHaIAAAGhZFMTGwEAAAH2AQBvbm9fdHhuX2JpZDEgICBvbm9fdHhuX2ltcDIgICBfXp3T/clv1c_ek-YBfHXFbbWzjK3YivOrRfcuXaZLo9pXMP98S0kmgHfNhJJ-I4NB-NPEW883WB-q4qV_J8IzbO_z-tSJbZph4r0zywG3knZjQ3uDnQJA7oKDyApIgkgSfPltbe8lnIzygJv61x6JWHFHqhmjKGZY1NRaw6UkhVrksDSX1u-PDY_-2gbFIxFz6tb9dEf203KSTX5v0BXEhXEJVRddi6A93I9uHdHEVaCoLLETklqBkjVeEeUfzYyU2C5UrkGMUqBcJ7ra3b36EvHboBvEtYgZdlgyseLZu0A-m8gX8l-imbpRE3YXVmY57ePcjPg_rS9Fyl6NAy4GKmZ-xBnskjtomTdtNXk65c2v078kZFFZfczwVEy0ZNepSB6Tqfg3Lt4BnU8IIxttHQgFGYOrnHOO_0eRAe2jadp68sQvoXK-YhThLg2u1X31oJ2L01gj7p7_FmURCLkEhgLNqTrqgoXALnJ2kysUqPZRK0lvS7BUY6muH5qQ7-oc_ElrMMNLrf9wn1qay1FC88naXC67XCb7nEfp6J7m1DKRxsu9qfdIx26varUgjdwEHjp_OEaxeFD_jp3CnzRxo3H_dYaQ7kNS1dj72rTpKam5N8RbAVdKAtBn62_Hbs9vgoVlB_sPFxBTFp9MM2szHpRE9mROa4i-GeG-uehxQHzOB_W1Y5yqERPCFtGuN6jmjo1atyefHrop3iZpIaMJ30CGUfm7VPyZPWdpFH8deyXEIFqneYmYgj45IGdiWOJaLoODkRRldf3uIDnRHepMUnSv7f_NdFlDnUKUUdeNLlJ1q2Le55cbW0sCyDK02BIutckbnkaRmYRt1Gw4zw5Uprm9hdmG9UylDTS9Ay-4e59FUN2-zvYr_4d3NwxQCcDMsm4gl5Nozk7UCTKAtHS31YQ6sSWIjbNs23l2ROmbba4680_gpDSScTMaeNd6qruh8lG3KFWBlyKm3mXChxpHGxZqT1zSitzt8u8ad9twgLHFPSAEq0nqqkFCuN3YdUUcJ1AOZTX5RJpitGkStof73Xq4D_RQUzdXXsvpi1vx76bHXrfciBVqSt7-Xor2x35yxfivcbijr6-MCwEcrl8bY4ONAK4DcajVQPOcPBw1yU6XrG8KQliMGQp_mShh_eXL-nzDCM5cwJ8wmVaL_CVk_zJr01Myspn_yGmLOkOXw8Ti_uCYir3tgw47UQS0fNHaQ4q3qjrDQoxEQqEKXNO69lOmJ1y9Ul2lZAgAUcUrCSIWojA1k4fN2R6qXPB7j7vpmaPtVG1ARgXnU-uzelb7gcOQAtiI50fWX9B_2AMYgFTfIWqYfgZbzAnZOYsP153bK8pa97HtOE0VEVt0lWrLSQvodfQJMfjxY2Qy7HNHLvDLYqy_jXQst_CJNdME5phKveMsuTSj7dzafjf9-H6w9jfcIW-EkGGnzkZFjqXeP3197wffutc1zECns35zU4RVxafbj1v13296xkut8udhwW4PKKdxxdShmP8v9x0AH-VCsgU5qs6Mqb1OEiZfZ7uiBeKVzzCTOavs2txCzTl3rBv6UEIp5m3uoHKqg7-WgFLL1_DShlvz_BCIt0DXF8YC0A8TCzbmUcLW_30LI6jzwECef_R/https://www.amazon.com/stores/page/",
+        "thumbnail": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/60ccd91d-e75d-4f5f-ab97-6ea2b1972107._CR0,0,1000,1000_AC_SX140_SY80_CB1169409_QL70_.jpg"
+      },
+      {
+        "position": 2,
+        "link": "https://aax-us-east-retail-direct.amazon.com/x/c/JFhrC1OXtDOGRZLRJIjcfZYAAAGhZFMTHQEAAAH2AQBvbm9fdHhuX2JpZDEgICBvbm9fdHhuX2ltcDIgICAdnjkB/clv1c_ek-YBfHXbcbWXixXZLscz959BD6IUnBx7u0BA4kP19p5zLzASXqWmdpIaEEmKE2IjgszRwSlj9foBoe7N0-9k-PnrUCgOdZsRz1MhQKMi2A-6JXbMGklUW-jzdkVpn4L4_BTd6snYN2kMz2jW2I3clYWM82YVlXthvbgyh2ulBYueOkfDToI5AJWyD4vF2jzMo14befKFwTK-YxNLhjBcwNTLx4-Ak01FKkcxPyZ6hYsCb-dmQHqZfoBJbCOEmJiOCoY7aw7CLL0EL-2vZy-PA1if_P8GDz5n-8CA0o4ywLfuMo4NWeb5ypOjiQ5478ngHa6xrnq0_3AsWrMh2sIEaazPszOmbZ3BA5Jl6lumpr7SZWHEJCvJ_DWK-5E0R7Vl4OvvK29WfoRer2piTY4JFmKc-DL6dPl9gR-LQMHKMovoeoVn_3nsWMqWKqCdwk1hgxDeYikcuuiYtA4pfh7Xn-aQBCWbxRZ11ZXVtHhTo-vIrfFNVNOZafF3RA7g9DO4vHkKCVHKsfmdjCqbtoGoUThcpmMlN8jDXcvmVFr37Sk2SEWyfDb9D4y_CPaXIF8RttS9EZyMzTll2g9wgv_wHbfYmFn8kqwy2qTOxWmtD_UPvB7MeIhCf32qB3-sPahQUqzL5yRNzpLTdGWXo2BknphBqqDbATcUr7_gZJjk_v5mqRzVVQ_7RZvK3Npko40B7QUxDV1L0L7LWgkWPMr5xAhP9yJDVMWv30rh40CF5kKNhB125qa1d1ulxOvYzOqGL8BB19h3DXqsqAXa4prZUgR9ENNvXk9u22ILhquNAoTQOODzwzoUWdHK5-TSBQP7N6QjVxVEZCFlWIGdHdpL6eDxWOcnkoBbCHRIAHZsGM8f3ymuDQBlY7RGK4a_eCcHChSB8Clc3S66ZB_8rMzvbeoqfjWPCDulJQvNl-Mh0xtGyjZrZUE7696TvxOqB0dU93BOJORy6ZRF3vyRWPMyxQVAAiqMnx51pj2nLZptvwE6fbnhqIqPBNF29-J7xZPV3ZzxZyxpoZXGl6-7-4fcrXg7pDZ-5Pq4BZUGIpfreooMpgew3yL2SX27AwNLzVL96aiu_Qcaw3ChFbPMewzx4ABTdtGknzDlY31nhKiTzO3HVoocGmaZUeou-LaMpl3niX1-OwMiZdaEicozp40Onhd1GuV_hoDsytNkRV4CFHFNF5wCDUZl_PBl3pMo0DaC5dvUedPpXzjgW6KqGXvc60taIJGG5599GWzMJPzXFncb_wOyKfdkS7INamOmKmze4YtNNS-eeYvd7lQDGPVePEE3oiWEjVAhfOL4JT4_jOE1wqNPVK2hfTydAh2kavOKk_X9O4cdXydf7WrvGExZ83iwT-ZsbdnVtVVxM2kCnxLIndQEWi7jSWztPmILRJ98inl-It-3zm_i0DCrFFHr32jvoWodbkgtn-dIXmCj5j-T64hvrlKti18JwkGQsBQJrpL25Wo7U1cdusHCFJVHKDx9AQS-Q3MFEwuiFy6CLcRdoCg76vQgq4RL7Q7xFzajXReUcKfYtV7hlwboz-3IxTW0VRzGQf0uHONGnJNo1UpDtr4c3nL-UJAiV1og7pq-GnbPmuCPPo/https://www.amazon.com/stores/page/E698BE56-C75D-4B75-AC84-27E5D8D7CA15/?_encoding=UTF8&store_ref=SB_A06228083HPFR1TZJDG35-A06051651SLRS3SU9UGT8&pd_rd_plhdr=t&aaxitk=243dd6eeae11c6c54339e46d8ce307ce&hsa_cr_id=0&lp_slot=mobile-arbies&lp_page_asin=B0G5QKD8ZS&pd_rd_i=ad2&ref_=sbx_be_dp_arbies_mbm_mb1_bkgd&pd_rd_w=2Brgo&content-id=amzn1.sym.a0cf6175-49ce-4c72-8721-b2bed4d3a00e&pf_rd_p=a0cf6175-49ce-4c72-8721-b2bed4d3a00e&pf_rd_r=34J59KFAY564DQ9RPYXK&pd_rd_wg=iSbMl&pd_rd_r=77678f5f-50fa-4465-b528-1e2fc471e405",
+        "link_clean": "https://aax-us-east-retail-direct.amazon.com/x/c/JFhrC1OXtDOGRZLRJIjcfZYAAAGhZFMTHQEAAAH2AQBvbm9fdHhuX2JpZDEgICBvbm9fdHhuX2ltcDIgICAdnjkB/clv1c_ek-YBfHXbcbWXixXZLscz959BD6IUnBx7u0BA4kP19p5zLzASXqWmdpIaEEmKE2IjgszRwSlj9foBoe7N0-9k-PnrUCgOdZsRz1MhQKMi2A-6JXbMGklUW-jzdkVpn4L4_BTd6snYN2kMz2jW2I3clYWM82YVlXthvbgyh2ulBYueOkfDToI5AJWyD4vF2jzMo14befKFwTK-YxNLhjBcwNTLx4-Ak01FKkcxPyZ6hYsCb-dmQHqZfoBJbCOEmJiOCoY7aw7CLL0EL-2vZy-PA1if_P8GDz5n-8CA0o4ywLfuMo4NWeb5ypOjiQ5478ngHa6xrnq0_3AsWrMh2sIEaazPszOmbZ3BA5Jl6lumpr7SZWHEJCvJ_DWK-5E0R7Vl4OvvK29WfoRer2piTY4JFmKc-DL6dPl9gR-LQMHKMovoeoVn_3nsWMqWKqCdwk1hgxDeYikcuuiYtA4pfh7Xn-aQBCWbxRZ11ZXVtHhTo-vIrfFNVNOZafF3RA7g9DO4vHkKCVHKsfmdjCqbtoGoUThcpmMlN8jDXcvmVFr37Sk2SEWyfDb9D4y_CPaXIF8RttS9EZyMzTll2g9wgv_wHbfYmFn8kqwy2qTOxWmtD_UPvB7MeIhCf32qB3-sPahQUqzL5yRNzpLTdGWXo2BknphBqqDbATcUr7_gZJjk_v5mqRzVVQ_7RZvK3Npko40B7QUxDV1L0L7LWgkWPMr5xAhP9yJDVMWv30rh40CF5kKNhB125qa1d1ulxOvYzOqGL8BB19h3DXqsqAXa4prZUgR9ENNvXk9u22ILhquNAoTQOODzwzoUWdHK5-TSBQP7N6QjVxVEZCFlWIGdHdpL6eDxWOcnkoBbCHRIAHZsGM8f3ymuDQBlY7RGK4a_eCcHChSB8Clc3S66ZB_8rMzvbeoqfjWPCDulJQvNl-Mh0xtGyjZrZUE7696TvxOqB0dU93BOJORy6ZRF3vyRWPMyxQVAAiqMnx51pj2nLZptvwE6fbnhqIqPBNF29-J7xZPV3ZzxZyxpoZXGl6-7-4fcrXg7pDZ-5Pq4BZUGIpfreooMpgew3yL2SX27AwNLzVL96aiu_Qcaw3ChFbPMewzx4ABTdtGknzDlY31nhKiTzO3HVoocGmaZUeou-LaMpl3niX1-OwMiZdaEicozp40Onhd1GuV_hoDsytNkRV4CFHFNF5wCDUZl_PBl3pMo0DaC5dvUedPpXzjgW6KqGXvc60taIJGG5599GWzMJPzXFncb_wOyKfdkS7INamOmKmze4YtNNS-eeYvd7lQDGPVePEE3oiWEjVAhfOL4JT4_jOE1wqNPVK2hfTydAh2kavOKk_X9O4cdXydf7WrvGExZ83iwT-ZsbdnVtVVxM2kCnxLIndQEWi7jSWztPmILRJ98inl-It-3zm_i0DCrFFHr32jvoWodbkgtn-dIXmCj5j-T64hvrlKti18JwkGQsBQJrpL25Wo7U1cdusHCFJVHKDx9AQS-Q3MFEwuiFy6CLcRdoCg76vQgq4RL7Q7xFzajXReUcKfYtV7hlwboz-3IxTW0VRzGQf0uHONGnJNo1UpDtr4c3nL-UJAiV1og7pq-GnbPmuCPPo/https://www.amazon.com/stores/page/",
+        "thumbnail": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/e3b73d1f-6938-480c-b8e3-5d7a78aca086._CR0,0,400,400_AC_SX140_SY80_CB1169409_QL70_.png"
+      }
+    ],
+    "reviews_information": {
+      "summary": {
+        "text": "Customers find the LEGO Star Wars Advent Calendar to be a must-have for Star Wars and Lego fans. They consider it a great deal, with one customer noting it provides a lot of entertainment for the money.",
+        "insights": [
+          {
+            "title": "Design",
+            "sentiment": "positive",
+            "mentions": {
+              "total": 29,
+              "positive": 28,
+              "negative": 1
+            },
+            "summary": "Customers love the design of the LEGO Star Wars Advent Calendar, with several noting it's a must-have for Star Wars and Lego fans.",
+            "examples": [
+              {
+                "position": 1,
+                "snippet": "Good",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/RIBR0INXG4QQK"
+              },
+              {
+                "position": 2,
+                "snippet": "Awesome Advent Calendar",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R2PV8RE73TSLQQ"
+              },
+              {
+                "position": 3,
+                "snippet": "perfect",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R2GGLK3G4X0PE4"
+              },
+              {
+                "position": 4,
+                "snippet": "Great advent calendar gift for our two grandsons. We gift them a Lego advent calendar every year and they’re always great!...",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R2M8F1PMN48GU"
+              }
+            ]
+          },
+          {
+            "title": "Value for money",
+            "sentiment": "positive",
+            "mentions": {
+              "total": 7,
+              "positive": 6,
+              "negative": 1
+            },
+            "summary": "Customers find the advent calendar to be a great deal and purchase it every year.",
+            "examples": [
+              {
+                "position": 1,
+                "snippet": "Awesome can't wait to open it. Was a great deal and cheapest place to buy it",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R2SKUT4ONODMDA"
+              },
+              {
+                "position": 2,
+                "snippet": "Buy every year My son loves them",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R18BM89114LYT4"
+              },
+              {
+                "position": 3,
+                "snippet": "Love this Lego purchase every year",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/RXQO2IGJBHMXE"
+              },
+              {
+                "position": 4,
+                "snippet": "...The price is right, it’s a lot of entertainment for the money.",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R2M8F1PMN48GU"
+              }
+            ]
+          },
+          {
+            "title": "Design",
+            "sentiment": "positive",
+            "mentions": {
+              "total": 29,
+              "positive": 28,
+              "negative": 1
+            },
+            "summary": "Customers love the design of the LEGO Star Wars Advent Calendar, with several noting it's a must-have for Star Wars and Lego fans.",
+            "examples": [
+              {
+                "position": 1,
+                "snippet": "Good",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/RIBR0INXG4QQK"
+              },
+              {
+                "position": 2,
+                "snippet": "Awesome Advent Calendar",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R2PV8RE73TSLQQ"
+              },
+              {
+                "position": 3,
+                "snippet": "perfect",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R2GGLK3G4X0PE4"
+              },
+              {
+                "position": 4,
+                "snippet": "Great advent calendar gift for our two grandsons. We gift them a Lego advent calendar every year and they’re always great!...",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R2M8F1PMN48GU"
+              }
+            ]
+          },
+          {
+            "title": "Value for money",
+            "sentiment": "positive",
+            "mentions": {
+              "total": 7,
+              "positive": 6,
+              "negative": 1
+            },
+            "summary": "Customers find the advent calendar to be a great deal and purchase it every year.",
+            "examples": [
+              {
+                "position": 1,
+                "snippet": "Awesome can't wait to open it. Was a great deal and cheapest place to buy it",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R2SKUT4ONODMDA"
+              },
+              {
+                "position": 2,
+                "snippet": "Buy every year My son loves them",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R18BM89114LYT4"
+              },
+              {
+                "position": 3,
+                "snippet": "Love this Lego purchase every year",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/RXQO2IGJBHMXE"
+              },
+              {
+                "position": 4,
+                "snippet": "...The price is right, it’s a lot of entertainment for the money.",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R2M8F1PMN48GU"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

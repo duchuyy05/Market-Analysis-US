@@ -1,0 +1,1557 @@
+{
+  "provider": "serpapi",
+  "endpoint": "https://serpapi.com/search.json",
+  "parameters": {
+    "engine": "amazon_product",
+    "asin": "B0B3JF6BMR",
+    "amazon_domain": "amazon.com",
+    "language": "en_US",
+    "shipping_location": "US",
+    "device": "mobile",
+    "output": "json"
+  },
+  "fetched_at_utc": "2026-10-22T15:57:50.649437+00:00",
+  "raw_file": "supplements/supplement-2026-10-22T1555203491100000-9b1e70/raw/serpapi-6941398b1e4c85c29c7a.json",
+  "response": {
+    "search_metadata": {
+      "id": "6ada327f2691dbf9f1174d4f",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/spJbK5hdL3UOf07F80Td1-BA8H14Hv46I8c2jbg9cCo/6ada327f2691dbf9f1174d4f.json",
+      "markdown_endpoint": "https://serpapi.com/searches/spJbK5hdL3UOf07F80Td1-BA8H14Hv46I8c2jbg9cCo/6ada327f2691dbf9f1174d4f.md",
+      "created_at": "2026-10-22 15:57:51 UTC",
+      "processed_at": "2026-10-22 15:57:51 UTC",
+      "amazon_product_url": "https://www.amazon.com/dp/B0B3JF6BMR/?language=en_US",
+      "raw_html_file": "https://serpapi.com/searches/spJbK5hdL3UOf07F80Td1-BA8H14Hv46I8c2jbg9cCo/6ada327f2691dbf9f1174d4f.html",
+      "total_time_taken": 11.49
+    },
+    "search_parameters": {
+      "engine": "amazon_product",
+      "asin": "B0B3JF6BMR",
+      "amazon_domain": "amazon.com",
+      "language": "en_US",
+      "device": "mobile",
+      "shipping_location": "US"
+    },
+    "product_results": {
+      "categories": [
+        {
+          "position": 1,
+          "name": "Home & Kitchen",
+          "link": "https://www.amazon.com/home-garden-kitchen-furniture-bedding/b/ref=m_dp_bc_1?ie=UTF8&node=1055398",
+          "node": "1055398",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=mobile&engine=amazon&language=en_US&node=1055398&shipping_location=US"
+        },
+        {
+          "position": 2,
+          "name": "Seasonal Décor",
+          "link": "https://www.amazon.com/seasonal-d%C3%A9cor/b/ref=m_dp_bc_2?ie=UTF8&node=13679381",
+          "node": "13679381",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=mobile&engine=amazon&language=en_US&node=13679381&shipping_location=US"
+        },
+        {
+          "position": 3,
+          "name": "Wreaths, Garlands & Swags",
+          "link": "https://www.amazon.com/wreaths-garlands/b/ref=m_dp_bc_3?ie=UTF8&node=13679411",
+          "node": "13679411",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=mobile&engine=amazon&language=en_US&node=13679411&shipping_location=US"
+        },
+        {
+          "position": 4,
+          "name": "Garlands",
+          "link": "https://www.amazon.com/Christmas-Garlands/b/ref=m_dp_bc_4?ie=UTF8&node=16175660011",
+          "node": "16175660011",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=mobile&engine=amazon&language=en_US&node=16175660011&shipping_location=US"
+        }
+      ],
+      "asin": "B0B3JF6BMR",
+      "title": "6PCS Fall Maple Leaves Garland, Party Joy 5.6Ft Artificial Maple Leaf Autumn Garland Hanging Fall Vines Table Decorations Front Door Fall Decor Thanksgiving Decorations Decor Outside Indoor Decor",
+      "link": "https://www.amazon.com/stores//page/C3870FFE-BD77-4780-842E-C09D5B1A8EE2?lp_asin=B0B3JF6BMR&ref_=ast_bln&store_ref=bl_ast_dp_brandlogo_sto",
+      "link_clean": "https://www.amazon.com/dp/B0B3JF6BMR/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0B3JF6BMR&device=mobile&engine=amazon_product&language=en_US&shipping_location=US",
+      "badges": [
+        "Amazon's Choice",
+        "Limited time deal"
+      ],
+      "variants": [
+        {
+          "title": "model",
+          "items": [
+            {
+              "position": 1,
+              "asin": "B0D5CFXJ1Q",
+              "name": "24-QCFYTT-LBeige",
+              "image": "https://m.media-amazon.com/images/I/51y4M7hk0GL._QL92_SH45_SS72_.jpg",
+              "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0D5CFXJ1Q&device=mobile&engine=amazon_product&language=en_US&shipping_location=US"
+            },
+            {
+              "position": 2,
+              "asin": "B0D5CD6RFW",
+              "name": "24-QCFYTT-ORed",
+              "image": "https://m.media-amazon.com/images/I/61ZymDhrCML._QL92_SH45_SS72_.jpg",
+              "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0D5CD6RFW&device=mobile&engine=amazon_product&language=en_US&shipping_location=US"
+            },
+            {
+              "position": 3,
+              "asin": "B0F841R65Z",
+              "name": "25-QCFYTT-Deep Autumn Green",
+              "image": "https://m.media-amazon.com/images/I/51dosDfRfhL._QL92_SH45_SS72_.jpg",
+              "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0F841R65Z&device=mobile&engine=amazon_product&language=en_US&shipping_location=US"
+            },
+            {
+              "position": 4,
+              "asin": "B0F83W82K7",
+              "name": "25-QCFYTT-Early Autumn Green",
+              "image": "https://m.media-amazon.com/images/I/61ZpVIjnBWL._QL92_SH45_SS72_.jpg",
+              "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0F83W82K7&device=mobile&engine=amazon_product&language=en_US&shipping_location=US"
+            },
+            {
+              "position": 5,
+              "asin": "B0C73J6F6S",
+              "name": "00-QCFYTT-HJS",
+              "image": "https://m.media-amazon.com/images/I/61OdI3dl4jL._QL92_SH45_SS72_.jpg",
+              "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0C73J6F6S&device=mobile&engine=amazon_product&language=en_US&shipping_location=US"
+            },
+            {
+              "position": 6,
+              "asin": "B0C73HC2HW",
+              "name": "00-QCFYTT-HS",
+              "image": "https://m.media-amazon.com/images/I/61RuheVIMRL._QL92_SH45_SS72_.jpg",
+              "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0C73HC2HW&device=mobile&engine=amazon_product&language=en_US&shipping_location=US"
+            },
+            {
+              "position": 7,
+              "asin": "B0C73GN77H",
+              "name": "00-QCFYTT-JS",
+              "image": "https://m.media-amazon.com/images/I/61CTCTqH4gL._QL92_SH45_SS72_.jpg",
+              "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0C73GN77H&device=mobile&engine=amazon_product&language=en_US&shipping_location=US"
+            },
+            {
+              "position": 8,
+              "asin": "B0B3JF6BMR",
+              "name": "Maple Leaves Garland",
+              "image": "https://m.media-amazon.com/images/I/61Vy1US74cL._QL92_SH45_SS72_.jpg",
+              "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0B3JF6BMR&device=mobile&engine=amazon_product&language=en_US&shipping_location=US"
+            }
+          ]
+        }
+      ],
+      "brand": ".premium-logoByLine-brand-logo { max-height: 36px; height: auto; max-width: min(154px, 100%); min-width: 4px; width: auto; object-fit: contain; } Visit the Store, PARTY JOY PARTY JOY Visit the Store",
+      "thumbnail": "https://m.media-amazon.com/images/I/91DFuyckX2L._AC_UF894,1000_QL80_FMwebp_.jpg",
+      "thumbnails": [
+        "https://m.media-amazon.com/images/I/91DFuyckX2L._AC_UF894,1000_QL80_FMwebp_.jpg",
+        "https://m.media-amazon.com/images/I/716o38bXpjL._AC_UF894,1000_QL80_FMwebp_.jpg",
+        "https://m.media-amazon.com/images/I/81R-O8Hc8cL._AC_UF894,1000_QL80_FMwebp_.jpg",
+        "https://m.media-amazon.com/images/I/81mRZujgc1L._AC_UF894,1000_QL80_FMwebp_.jpg",
+        "https://m.media-amazon.com/images/I/819yNCvLjoL._AC_UF894,1000_QL80_FMwebp_.jpg",
+        "https://m.media-amazon.com/images/I/81ebkuyM9vL._AC_UF894,1000_QL80_FMwebp_.jpg",
+        "https://m.media-amazon.com/images/I/813k+8+fdfL._AC_UF894,1000_QL80_FMwebp_.jpg",
+        "https://m.media-amazon.com/images/I/81DXM2Dk0CL._AC_UF894,1000_QL80_FMwebp_.jpg"
+      ],
+      "rating": 4.4,
+      "reviews": 1119,
+      "bought_last_month": "3K+ bought in past month",
+      "discount": "-10%",
+      "price": "$22.40",
+      "extracted_price": 22.4,
+      "old_price": "$24.89",
+      "extracted_old_price": 24.89,
+      "delivery": [
+        "FREE delivery Wednesday, October 28 on orders shipped by Amazon over $35. Order within 13 hrs 1 min"
+      ],
+      "stock": "In Stock"
+    },
+    "purchase_options": {
+      "buy_new": {
+        "caption": "Buy New",
+        "discount": "-10%",
+        "price": "$22.40",
+        "extracted_price": 22.4,
+        "old_price": "$24.89",
+        "extracted_old_price": 24.89,
+        "delivery": [
+          "FREE delivery Wednesday, October 28 on orders shipped by Amazon over $35. Order within 13 hrs 1 min"
+        ],
+        "stock": "In Stock",
+        "features": {
+          "ships_from": {
+            "text": "Amazon",
+            "details": {
+              "heading": "Ships from",
+              "content": "Amazon"
+            }
+          },
+          "sold_by": {
+            "text": "PARTY JOY",
+            "details": {
+              "heading": "Sold by",
+              "content": "PARTY JOY"
+            },
+            "link": {
+              "text": "PARTY JOY",
+              "link": "https://www.amazon.com/gp/aw/sp.html/ref=dp_merchant_link?ie=UTF8&seller=A1EHZ9V0XTWVXR&asin=B0B3JF6BMR&ref_=dp_merchant_link&isAmazonFulfilled=1"
+            }
+          },
+          "returns": {
+            "text": "FREE 30-day refund/replacement",
+            "details": {
+              "heading": "FREE 30-day refund/replacement"
+            },
+            "link": {
+              "text": "See exceptions",
+              "link": "https://www.amazon.com/gp/help/customer/display.html/?nodeId=GKQNFKFK5CF3C54B"
+            }
+          },
+          "payment": {
+            "text": "Secure transaction",
+            "details": {
+              "heading": "Your transaction is secure",
+              "content": "We work hard to protect your security and privacy. Our payment security system encrypts your information during transmission. We don’t share your credit card details with third-party sellers, and we don’t sell your information to others. Learn more"
+            },
+            "link": {
+              "text": "Learn more",
+              "link": "https://www.amazon.com/gp/help/customer/display.html?nodeId=201909010"
+            }
+          }
+        }
+      },
+      "buy_used": {
+        "price": "$20.38",
+        "extracted_price": 20.38,
+        "delivery": [
+          "FREE delivery Tuesday, October 27 on orders shipped by Amazon over $35. Order within 13 hrs 1 min"
+        ],
+        "stock": "Only 1 left in stock - order soon.",
+        "features": {
+          "ships_from": "Amazon",
+          "sold_by": "Amazon Resale"
+        }
+      }
+    },
+    "item_specifications": {
+      "brand": "PARTY JOY",
+      "color": "Maple Leaves Garland",
+      "material": "Silk",
+      "item_length": "67.2 inches",
+      "item_weight": "1.4 pounds",
+      "size": "Colorful"
+    },
+    "about_item": [
+      "【REALISTIC MAPLE LEAF WREATH】 The 7 different colors of maple leaves make this fall garland look even more natural. From deep green to vibrant orange, it resembles real fallen leaves, creating a harmonious blend of colors that warms any room. Flower garland is the perfect festive decoration for both indoor and outdoor use.",
+      "【PACKAGE CONTENTS】 You will receive 6 individual artificial maple leaf garlands, each 5.6ft. You can weave two garlands together to make them look fuller, or connect two garlands end-to-end to extend the length. These versatile garlands can be used to create a stunning wreath or to decorate various spaces, adding a touch of autumnal charm to your home.",
+      "【HIGH QUALITY】 The multi-coloured maple leaves are made of high quality silk fabric, while the stems are made of high quality plastic. Easy to clean and maintain, these leaves feature beautiful vein details. The floral garland can be reused, so you don't have to worry about the leaves being damaged by wind, rain, or sun.",
+      "【VERSATILE USE】 This fall garland is perfect for Thanksgiving, fireplaces, door decorations, holidays, and dinners. It can also be used as hanging plants to adorn wedding arches, dining tables, balconies, swings, stair railings, and more. Whether indoors or outdoors, this artificial garland adds a touch of autumn charm to any setting, making it an ideal choice for a variety of festive and decorative purposes.",
+      "【WARM REMINDER】 If you encounter any issues during the purchase of our faux garland, please feel free to contact us. We are here to provide you with a satisfactory solution. Party Joy is dedicated to offering our customers a great shopping experience. Your satisfaction is our top priority, and we will do our utmost to ensure that you are completely happy with our products and services."
+    ],
+    "related_products": [
+      {
+        "position": 1,
+        "asin": "B0FCDC2KJK",
+        "title": "Fall Decorations for Home 9Ft Plug in Fall Garland with Lights Lush and Thicker Large Leaves, 50 Orange Bulbs Prelit Connectable UL Certified Fall Lights for Autumn Thanksgiving Halloween Decorations",
+        "link": "https://www.amazon.com/dp/B0FCDC2KJK/ref=sspa_mw_detail_0?ie=UTF8&psc=1&spc=MTo4MTEyNjUwNDEwODg0MjE6MTc5MjY4NDY4MTpzcF9waG9uZV9kZXRhaWw6MzAxNTEyNjAyODIyMDAyOjo6Og&sp_csd=d2lkZ2V0TmFtZT1zcF9waG9uZV9kZXRhaWw",
+        "link_clean": "https://www.amazon.com/dp/B0FCDC2KJK/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0FCDC2KJK&device=mobile&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "thumbnail": "https://m.media-amazon.com/images/I/71QgZassNCL._AC_UX450_UY450_SR450,450_.jpg",
+        "rating": 4.7,
+        "reviews": 218,
+        "price": "$24.99",
+        "extracted_price": 24.99
+      },
+      {
+        "position": 2,
+        "asin": "B0D263FZXZ",
+        "title": "6 Pack Fall Garland with Orange Leaves | Autumn Leaves Garland, Hanging Maple Leaf Foliage Vines for Mantle,Fireplace, Front Door, Porch and Thanksgiving Decor",
+        "link": "https://www.amazon.com/dp/B0D263FZXZ/ref=sspa_mw_detail_1?ie=UTF8&psc=1&spc=MTo4MTEyNjUwNDEwODg0MjE6MTc5MjY4NDY4MTpzcF9waG9uZV9kZXRhaWw6MzAwNDI2ODEzOTc0NTAyOjo6Og&sp_csd=d2lkZ2V0TmFtZT1zcF9waG9uZV9kZXRhaWw",
+        "link_clean": "https://www.amazon.com/dp/B0D263FZXZ/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0D263FZXZ&device=mobile&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "badges": [
+          "Limited time deal"
+        ],
+        "thumbnail": "https://m.media-amazon.com/images/I/81cp05g+x4L._AC_UX450_UY450_SR450,450_.jpg",
+        "rating": 4.3,
+        "reviews": 310,
+        "discount": "-11%",
+        "price": "$21.99",
+        "extracted_price": 21.99,
+        "old_price": "null"
+      },
+      {
+        "position": 3,
+        "asin": "B0H9RV465Y",
+        "title": "26.2 Ft Faux Fall Garland Maple Leaves Vines Autumn Decorations (4 Pack) | Fall Leaves Garland Décor for Thanksgiving Halloween Harvest Wedding Fireplace Mantle Porch Table Wall Arch Indoor Outdoor",
+        "link": "https://www.amazon.com/dp/B0H9RV465Y/ref=sspa_mw_detail_2?ie=UTF8&psc=1&spc=MTo4MTEyNjUwNDEwODg0MjE6MTc5MjY4NDY4MTpzcF9waG9uZV9kZXRhaWw6MzAxNDc1MzM2MTUzMjAyOjo6Og&sp_csd=d2lkZ2V0TmFtZT1zcF9waG9uZV9kZXRhaWw",
+        "link_clean": "https://www.amazon.com/dp/B0H9RV465Y/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0H9RV465Y&device=mobile&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "thumbnail": "https://m.media-amazon.com/images/I/81G5MVlwDJL._AC_UX450_UY450_SR450,450_.jpg",
+        "rating": 4.5,
+        "reviews": 9,
+        "discount": "-10%",
+        "price": "$17.99",
+        "extracted_price": 17.99,
+        "old_price": "null",
+        "save_with_coupon": "You pay $14.99"
+      },
+      {
+        "position": 4,
+        "asin": "B0C8THFRG6",
+        "title": "5 Pack Fall Leaves Garland Decorations for Home | Autumn Leaf Garland Maple Leaf Vine Outdoor Fall Decor for Porch Mantle Fireplace Stair Railing Office Front Door, Orange",
+        "link": "https://www.amazon.com/dp/B0C8THFRG6/ref=sspa_mw_detail_3?ie=UTF8&psc=1&spc=MTo4MTEyNjUwNDEwODg0MjE6MTc5MjY4NDY4MTpzcF9waG9uZV9kZXRhaWw6MzAwMDI5ODQyMjExMDAyOjo6Og&sp_csd=d2lkZ2V0TmFtZT1zcF9waG9uZV9kZXRhaWw",
+        "link_clean": "https://www.amazon.com/dp/B0C8THFRG6/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0C8THFRG6&device=mobile&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "badges": [
+          "Limited time deal"
+        ],
+        "thumbnail": "https://m.media-amazon.com/images/I/81PN+-TDT7L._AC_UX450_UY450_SR450,450_.jpg",
+        "rating": 4.2,
+        "reviews": 508,
+        "discount": "-10%",
+        "price": "$21.59",
+        "extracted_price": 21.59,
+        "price_unit": "$4.32 / count",
+        "extracted_price_unit": 4.32,
+        "old_price": "null"
+      },
+      {
+        "position": 5,
+        "asin": "B0BZQ5BMKF",
+        "title": "Fall Maple Leaf Garland, 6 Ft Fall Decor Garland with 30 Warm Lights | Harvest Decor Garlands with Pinecones Berries for Fall Home Thanksgiving Fireplace Table Indoor Outdoor Porch Decor",
+        "link": "https://www.amazon.com/dp/B0BZQ5BMKF/ref=sspa_mw_detail_4?ie=UTF8&psc=1&spc=MTo4MTEyNjUwNDEwODg0MjE6MTc5MjY4NDY4MTpzcF9waG9uZV9kZXRhaWw6MzAwMzcyMzQ3ODQ1ODAyOjo6Og&sp_csd=d2lkZ2V0TmFtZT1zcF9waG9uZV9kZXRhaWw",
+        "link_clean": "https://www.amazon.com/dp/B0BZQ5BMKF/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0BZQ5BMKF&device=mobile&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "badges": [
+          "Amazon's Choice",
+          "Limited time deal"
+        ],
+        "thumbnail": "https://m.media-amazon.com/images/I/81-Q12lfI1L._AC_UX450_UY450_SR450,450_.jpg",
+        "rating": 4.4,
+        "reviews": 412,
+        "discount": "-17%",
+        "price": "$24.99",
+        "extracted_price": 24.99,
+        "old_price": "null"
+      },
+      {
+        "position": 6,
+        "asin": "B0F8P5C18Z",
+        "title": "4Pack 23.6FT Fall Leaves Garland for Thanksgiving Wedding Fall Decorations | Garlands With 72 Lifelike Leaves, Flexible Fade-Resistant Plastic, Weatherproof, Hooks Included, for Mantel Porch Decor",
+        "link": "https://www.amazon.com/dp/B0F8P5C18Z/ref=sspa_mw_detail_5?ie=UTF8&psc=1&spc=MTo4MTEyNjUwNDEwODg0MjE6MTc5MjY4NDY4MTpzcF9waG9uZV9kZXRhaWw6MzAxNTAyMjg1MTMwODAyOjo6Og&sp_csd=d2lkZ2V0TmFtZT1zcF9waG9uZV9kZXRhaWw",
+        "link_clean": "https://www.amazon.com/dp/B0F8P5C18Z/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0F8P5C18Z&device=mobile&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "thumbnail": "https://m.media-amazon.com/images/I/91wY1P-XqUL._AC_UX450_UY450_SR450,450_.jpg",
+        "rating": 4.4,
+        "reviews": 1415,
+        "discount": "-15%",
+        "price": "$16.99",
+        "extracted_price": 16.99,
+        "price_unit": "$4.25 / count",
+        "extracted_price_unit": 4.25,
+        "old_price": "null",
+        "save_with_coupon": "You pay $15.29"
+      },
+      {
+        "position": 7,
+        "asin": "B0H2VW2D9R",
+        "title": "Fall Decorations for Home 9FT Fall Garland With Lights Large Maple Leaves, 50 Orange Bulbs UL Certified Connectable Lush and Thicker Fall Lights for Indoor Outdoor Harvest Halloween Thanksgving Decor",
+        "link": "https://www.amazon.com/dp/B0H2VW2D9R/ref=sspa_mw_detail_6?ie=UTF8&psc=1&spc=MTo4MTEyNjUwNDEwODg0MjE6MTc5MjY4NDY4MTpzcF9waG9uZV9kZXRhaWw6MzAxNTEyMDM3MzUyMjAyOjo6Og&sp_csd=d2lkZ2V0TmFtZT1zcF9waG9uZV9kZXRhaWw",
+        "link_clean": "https://www.amazon.com/dp/B0H2VW2D9R/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0H2VW2D9R&device=mobile&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "thumbnail": "https://m.media-amazon.com/images/I/81+xmn1rEoL._AC_UX450_UY450_SR450,450_.jpg",
+        "rating": 4.6,
+        "reviews": 56,
+        "price": "$24.99",
+        "extracted_price": 24.99,
+        "price_unit": "$2.78 / feet",
+        "extracted_price_unit": 2.78
+      }
+    ],
+    "related_product_sections": [
+      {
+        "title": "You might also like",
+        "items": [
+          {
+            "position": 1,
+            "asin": "B0FCDC2KJK",
+            "title": "Fall Decorations for Home 9Ft Plug in Fall Garland with Lights Lush and Thicker Large Leaves, 50 Orange Bulbs Prelit Connectable UL Certified Fall Lights for Autumn Thanksgiving Halloween Decorations",
+            "link": "https://www.amazon.com/dp/B0FCDC2KJK/ref=sspa_mw_detail_0?ie=UTF8&psc=1&spc=MTo4MTEyNjUwNDEwODg0MjE6MTc5MjY4NDY4MTpzcF9waG9uZV9kZXRhaWw6MzAxNTEyNjAyODIyMDAyOjo6Og&sp_csd=d2lkZ2V0TmFtZT1zcF9waG9uZV9kZXRhaWw",
+            "link_clean": "https://www.amazon.com/dp/B0FCDC2KJK/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0FCDC2KJK&device=mobile&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "thumbnail": "https://m.media-amazon.com/images/I/71QgZassNCL._AC_UX450_UY450_SR450,450_.jpg",
+            "rating": 4.7,
+            "reviews": 218,
+            "price": "$24.99",
+            "extracted_price": 24.99
+          },
+          {
+            "position": 2,
+            "asin": "B0D263FZXZ",
+            "title": "6 Pack Fall Garland with Orange Leaves | Autumn Leaves Garland, Hanging Maple Leaf Foliage Vines for Mantle,Fireplace, Front Door, Porch and Thanksgiving Decor",
+            "link": "https://www.amazon.com/dp/B0D263FZXZ/ref=sspa_mw_detail_1?ie=UTF8&psc=1&spc=MTo4MTEyNjUwNDEwODg0MjE6MTc5MjY4NDY4MTpzcF9waG9uZV9kZXRhaWw6MzAwNDI2ODEzOTc0NTAyOjo6Og&sp_csd=d2lkZ2V0TmFtZT1zcF9waG9uZV9kZXRhaWw",
+            "link_clean": "https://www.amazon.com/dp/B0D263FZXZ/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0D263FZXZ&device=mobile&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "badges": [
+              "Limited time deal"
+            ],
+            "thumbnail": "https://m.media-amazon.com/images/I/81cp05g+x4L._AC_UX450_UY450_SR450,450_.jpg",
+            "rating": 4.3,
+            "reviews": 310,
+            "discount": "-11%",
+            "price": "$21.99",
+            "extracted_price": 21.99,
+            "old_price": "null"
+          },
+          {
+            "position": 3,
+            "asin": "B0H9RV465Y",
+            "title": "26.2 Ft Faux Fall Garland Maple Leaves Vines Autumn Decorations (4 Pack) | Fall Leaves Garland Décor for Thanksgiving Halloween Harvest Wedding Fireplace Mantle Porch Table Wall Arch Indoor Outdoor",
+            "link": "https://www.amazon.com/dp/B0H9RV465Y/ref=sspa_mw_detail_2?ie=UTF8&psc=1&spc=MTo4MTEyNjUwNDEwODg0MjE6MTc5MjY4NDY4MTpzcF9waG9uZV9kZXRhaWw6MzAxNDc1MzM2MTUzMjAyOjo6Og&sp_csd=d2lkZ2V0TmFtZT1zcF9waG9uZV9kZXRhaWw",
+            "link_clean": "https://www.amazon.com/dp/B0H9RV465Y/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0H9RV465Y&device=mobile&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "thumbnail": "https://m.media-amazon.com/images/I/81G5MVlwDJL._AC_UX450_UY450_SR450,450_.jpg",
+            "rating": 4.5,
+            "reviews": 9,
+            "discount": "-10%",
+            "price": "$17.99",
+            "extracted_price": 17.99,
+            "old_price": "null",
+            "save_with_coupon": "You pay $14.99"
+          },
+          {
+            "position": 4,
+            "asin": "B0C8THFRG6",
+            "title": "5 Pack Fall Leaves Garland Decorations for Home | Autumn Leaf Garland Maple Leaf Vine Outdoor Fall Decor for Porch Mantle Fireplace Stair Railing Office Front Door, Orange",
+            "link": "https://www.amazon.com/dp/B0C8THFRG6/ref=sspa_mw_detail_3?ie=UTF8&psc=1&spc=MTo4MTEyNjUwNDEwODg0MjE6MTc5MjY4NDY4MTpzcF9waG9uZV9kZXRhaWw6MzAwMDI5ODQyMjExMDAyOjo6Og&sp_csd=d2lkZ2V0TmFtZT1zcF9waG9uZV9kZXRhaWw",
+            "link_clean": "https://www.amazon.com/dp/B0C8THFRG6/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0C8THFRG6&device=mobile&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "badges": [
+              "Limited time deal"
+            ],
+            "thumbnail": "https://m.media-amazon.com/images/I/81PN+-TDT7L._AC_UX450_UY450_SR450,450_.jpg",
+            "rating": 4.2,
+            "reviews": 508,
+            "discount": "-10%",
+            "price": "$21.59",
+            "extracted_price": 21.59,
+            "price_unit": "$4.32 / count",
+            "extracted_price_unit": 4.32,
+            "old_price": "null"
+          },
+          {
+            "position": 5,
+            "asin": "B0BZQ5BMKF",
+            "title": "Fall Maple Leaf Garland, 6 Ft Fall Decor Garland with 30 Warm Lights | Harvest Decor Garlands with Pinecones Berries for Fall Home Thanksgiving Fireplace Table Indoor Outdoor Porch Decor",
+            "link": "https://www.amazon.com/dp/B0BZQ5BMKF/ref=sspa_mw_detail_4?ie=UTF8&psc=1&spc=MTo4MTEyNjUwNDEwODg0MjE6MTc5MjY4NDY4MTpzcF9waG9uZV9kZXRhaWw6MzAwMzcyMzQ3ODQ1ODAyOjo6Og&sp_csd=d2lkZ2V0TmFtZT1zcF9waG9uZV9kZXRhaWw",
+            "link_clean": "https://www.amazon.com/dp/B0BZQ5BMKF/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0BZQ5BMKF&device=mobile&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "badges": [
+              "Amazon's Choice",
+              "Limited time deal"
+            ],
+            "thumbnail": "https://m.media-amazon.com/images/I/81-Q12lfI1L._AC_UX450_UY450_SR450,450_.jpg",
+            "rating": 4.4,
+            "reviews": 412,
+            "discount": "-17%",
+            "price": "$24.99",
+            "extracted_price": 24.99,
+            "old_price": "null"
+          },
+          {
+            "position": 6,
+            "asin": "B0F8P5C18Z",
+            "title": "4Pack 23.6FT Fall Leaves Garland for Thanksgiving Wedding Fall Decorations | Garlands With 72 Lifelike Leaves, Flexible Fade-Resistant Plastic, Weatherproof, Hooks Included, for Mantel Porch Decor",
+            "link": "https://www.amazon.com/dp/B0F8P5C18Z/ref=sspa_mw_detail_5?ie=UTF8&psc=1&spc=MTo4MTEyNjUwNDEwODg0MjE6MTc5MjY4NDY4MTpzcF9waG9uZV9kZXRhaWw6MzAxNTAyMjg1MTMwODAyOjo6Og&sp_csd=d2lkZ2V0TmFtZT1zcF9waG9uZV9kZXRhaWw",
+            "link_clean": "https://www.amazon.com/dp/B0F8P5C18Z/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0F8P5C18Z&device=mobile&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "thumbnail": "https://m.media-amazon.com/images/I/91wY1P-XqUL._AC_UX450_UY450_SR450,450_.jpg",
+            "rating": 4.4,
+            "reviews": 1415,
+            "discount": "-15%",
+            "price": "$16.99",
+            "extracted_price": 16.99,
+            "price_unit": "$4.25 / count",
+            "extracted_price_unit": 4.25,
+            "old_price": "null",
+            "save_with_coupon": "You pay $15.29"
+          },
+          {
+            "position": 7,
+            "asin": "B0H2VW2D9R",
+            "title": "Fall Decorations for Home 9FT Fall Garland With Lights Large Maple Leaves, 50 Orange Bulbs UL Certified Connectable Lush and Thicker Fall Lights for Indoor Outdoor Harvest Halloween Thanksgving Decor",
+            "link": "https://www.amazon.com/dp/B0H2VW2D9R/ref=sspa_mw_detail_6?ie=UTF8&psc=1&spc=MTo4MTEyNjUwNDEwODg0MjE6MTc5MjY4NDY4MTpzcF9waG9uZV9kZXRhaWw6MzAxNTEyMDM3MzUyMjAyOjo6Og&sp_csd=d2lkZ2V0TmFtZT1zcF9waG9uZV9kZXRhaWw",
+            "link_clean": "https://www.amazon.com/dp/B0H2VW2D9R/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0H2VW2D9R&device=mobile&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "thumbnail": "https://m.media-amazon.com/images/I/81+xmn1rEoL._AC_UX450_UY450_SR450,450_.jpg",
+            "rating": 4.6,
+            "reviews": 56,
+            "price": "$24.99",
+            "extracted_price": 24.99,
+            "price_unit": "$2.78 / feet",
+            "extracted_price_unit": 2.78
+          }
+        ]
+      }
+    ],
+    "videos": [
+      {
+        "position": 1,
+        "title": "Maple Leaves Garland",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/8044a286-0e03-40c4-8b2f-aa276c2ec5fa/videopreview.jobtemplate.mp4.default.mp4",
+        "thumbnail": "https://m.media-amazon.com/images/I/A1441fWoiLL.jpg",
+        "duration": "0:18",
+        "vendor": "💡Avery Ford",
+        "vendor_thumbnail": "https://m.media-amazon.com/images/I/81ZMoirr2nL._CR0,0,1916,1916_._FMjpg_._SL34_.jpg",
+        "date": "Sep 20, 2023"
+      },
+      {
+        "position": 2,
+        "title": "6PCS Fall Maple Leaves Garland",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/8dcecf2a-5c27-420a-ac5c-6d95224daa7e/videopreview.jobtemplate.mp4.default.mp4",
+        "thumbnail": "https://m.media-amazon.com/images/I/91bgmTZJm4L.jpg",
+        "duration": "0:45",
+        "vendor": "Natasha Hoffman",
+        "vendor_thumbnail": "https://m.media-amazon.com/images/I/51JCnKWqteL._CR0,0,499,499_._FMjpg_._SL34_.jpg",
+        "date": "Sep 5, 2023"
+      },
+      {
+        "position": 3,
+        "title": "What I Love About This Fall Garland",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/13d6f5e8-cad5-4de6-8678-01e6f0e62365/videopreview.jobtemplate.mp4.default.mp4",
+        "thumbnail": "https://m.media-amazon.com/images/I/A1--LnpE2wL.jpg",
+        "duration": "0:24",
+        "vendor": "Sarah Ashley",
+        "vendor_thumbnail": "https://m.media-amazon.com/images/I/718R1RFq3nL._CR0,0,708,708_._FMjpg_._SL34_.jpg",
+        "date": "Sep 24, 2024"
+      },
+      {
+        "position": 4,
+        "title": "Autumn decor with fall maple leaves",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/8877d80a-5368-4146-ab89-2ab4f99c2842/videopreview.jobtemplate.mp4.default.mp4",
+        "thumbnail": "https://m.media-amazon.com/images/I/71Uamtqsw+L.jpg",
+        "duration": "0:53",
+        "vendor": "Jude Tallent",
+        "vendor_thumbnail": "https://m.media-amazon.com/images/I/71bte1880wL._CR0,0,1024,1024_._FMjpg_._SL34_.jpg",
+        "date": "Oct 13, 2026"
+      },
+      {
+        "position": 5,
+        "title": "Honest review SECOND YEAR USING THEM OUTSIDE! Close look!",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/a9dc8787-4e7c-48df-a81b-3dc398dcd93e/videopreview.jobtemplate.mp4.default.mp4",
+        "thumbnail": "https://m.media-amazon.com/images/I/91k8ffyb-xL.jpg",
+        "duration": "0:47",
+        "vendor": "Ashley John",
+        "vendor_thumbnail": "https://m.media-amazon.com/images/I/B1S7uJxEaTL._CR61,352,782,782_._FMjpg_._SL34_.jpg",
+        "date": "Sep 24, 2024"
+      },
+      {
+        "position": 6,
+        "title": "Used indoor and outdoor",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/ea4685b2-9047-4d5a-9008-47dc297d4728/videopreview.jobtemplate.mp4.default.mp4",
+        "thumbnail": "https://m.media-amazon.com/images/I/71NokH+eHYL.jpg",
+        "duration": "0:15",
+        "vendor": "Jesenia",
+        "vendor_thumbnail": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SL34_.png",
+        "date": "Nov 10, 2024"
+      },
+      {
+        "position": 7,
+        "title": "I love decorating for Fall",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/eb7a4645-ec83-499d-bad6-ca820cd2c97a/videopreview.jobtemplate.mp4.default.mp4",
+        "thumbnail": "https://m.media-amazon.com/images/I/51Xrrg1V7cL.jpg",
+        "duration": "0:55",
+        "vendor": "Tasha Calaway",
+        "vendor_thumbnail": "https://m.media-amazon.com/images/I/A1XredKmg+L._CR0,275,1186,1186_._FMjpg_._SL34_.jpg",
+        "date": "Oct 24, 2024"
+      },
+      {
+        "position": 8,
+        "title": "Looks awesome",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/bf0c54d6-99ed-46da-9637-444daa0dd037/videopreview.jobtemplate.mp4.default.mp4",
+        "thumbnail": "https://m.media-amazon.com/images/I/710MOJAYuhL.jpg",
+        "duration": "0:20",
+        "vendor": "sandra",
+        "vendor_thumbnail": "https://m.media-amazon.com/images/S/amazon-avatars-global/84c5b60e-ff26-45e2-8d38-687aabd5dfd6._CR0%2C0%2C375%2C375_UX460_._SL34_.jpg",
+        "date": "Nov 12, 2023"
+      },
+      {
+        "position": 9,
+        "title": "Fall maple leaves artificial garland for home or office",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/d72891b5-c6a1-487c-a011-e5780c9d2594/videopreview.jobtemplate.mp4.default.mp4",
+        "thumbnail": "https://m.media-amazon.com/images/I/71CaoEl8PUL.jpg",
+        "duration": "0:50",
+        "vendor": "Ires Alliston",
+        "vendor_thumbnail": "https://m.media-amazon.com/images/I/A1rlIGWwksL._CR0,0,1080,1080_._FMjpg_._SL34_.jpg",
+        "date": "Oct 12, 2023"
+      },
+      {
+        "position": 10,
+        "title": "I love how FULL this fall garland is!",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/7eb9207e-7579-4029-9c71-a1ec60b58725/videopreview.jobtemplate.mp4.default.mp4",
+        "thumbnail": "https://m.media-amazon.com/images/I/51EHmyMkW4L.jpg",
+        "duration": "1:53",
+        "vendor": "Dawn Does Reviews",
+        "vendor_thumbnail": "https://m.media-amazon.com/images/I/91LBOeIgtzL._CR0,0,2275,2275_._FMjpg_._SL34_.jpg",
+        "date": "Oct 8, 2026"
+      }
+    ],
+    "product_description": [
+      {
+        "position": 1
+      },
+      {
+        "position": 2,
+        "title": "Scene presentation",
+        "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/c2adc065-4f5f-482a-86cc-b948c948edd2.__CR0,0,600,450_PT0_SX600_V1___.jpg"
+      },
+      {
+        "position": 3
+      },
+      {
+        "position": 4
+      },
+      {
+        "position": 5
+      },
+      {
+        "position": 6
+      },
+      {
+        "position": 7,
+        "compare_with_similar": [
+          {
+            "position": 1,
+            "asin": "B0C73HC2HW",
+            "title": "Black Maple Leaf Garland",
+            "thumbnail": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/7ad60149-cfe9-434a-9fd3-59ce636f190f.__AC_SR200,225___.jpg",
+            "link": "https://www.amazon.com/dp/B0C73HC2HW?ref=emc_p_m_5_mob_i_atc",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0C73HC2HW&device=mobile&engine=amazon_product&language=en_US&shipping_location=US",
+            "rating": 4.4,
+            "reviews": 1119,
+            "price": "$22.99",
+            "extracted_price": 22.99,
+            "quantity_size": "6pcs/5.6ft",
+            "color": "Black",
+            "seasons": "Autumn, Winter",
+            "materials": "Soie & plastique",
+            "high_quality": "✔"
+          },
+          {
+            "position": 2,
+            "asin": "B0BNJ3VS55",
+            "title": "Faux Fake Orchid Outdoor",
+            "thumbnail": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/611b64d5-6d69-455f-9e17-bc49f9737159.__AC_SR200,225___.jpg",
+            "link": "https://www.amazon.com/dp/B0BNJ3VS55?ref=emc_p_m_5_mob_i_atc",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0BNJ3VS55&device=mobile&engine=amazon_product&language=en_US&shipping_location=US",
+            "rating": 4.3,
+            "reviews": 574,
+            "price": "$19.99",
+            "extracted_price": 19.99,
+            "quantity_size": "15pcs",
+            "color": "Orange",
+            "seasons": "Autumn",
+            "materials": "Soie & plastique",
+            "high_quality": "✔"
+          },
+          {
+            "position": 3,
+            "asin": "B0D5L98NL8",
+            "title": "Greenery Shrubs Outdoor",
+            "thumbnail": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/86adf66d-5b4b-402c-bd46-9cdb9ba1602e.__AC_SR200,225___.jpg",
+            "link": "https://www.amazon.com/dp/B0D5L98NL8?ref=emc_p_m_5_mob_i_atc",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0D5L98NL8&device=mobile&engine=amazon_product&language=en_US&shipping_location=US",
+            "rating": 4.3,
+            "reviews": 574,
+            "price": "$33.99",
+            "extracted_price": 33.99,
+            "quantity_size": "12pcs",
+            "color": "green",
+            "seasons": "Autumn, Spring",
+            "materials": "Soie & plastique",
+            "high_quality": "✔"
+          },
+          {
+            "position": 4,
+            "asin": "B0B4WCZ2M4",
+            "title": "Maple Leaf Pumpkin Branch",
+            "thumbnail": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/a70ecfa5-d304-48c3-81be-c1650f20f9a9.__AC_SR200,225___.jpg",
+            "link": "https://www.amazon.com/dp/B0B4WCZ2M4?ref=emc_p_m_5_mob_i_atc",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0B4WCZ2M4&device=mobile&engine=amazon_product&language=en_US&shipping_location=US",
+            "rating": 4.6,
+            "reviews": 321,
+            "price": "$15.99",
+            "extracted_price": 15.99,
+            "quantity_size": "4pcs",
+            "color": "Orange",
+            "seasons": "Autumn",
+            "materials": "Soie & plastique",
+            "high_quality": "✔"
+          },
+          {
+            "position": 5,
+            "asin": "B0B4NX4YQY",
+            "title": "Fall Silk Maple Leaves",
+            "thumbnail": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/d523052b-faa4-4608-a0a8-6aad3fbe4ff2.__AC_SR200,225___.jpg",
+            "link": "https://www.amazon.com/dp/B0B4NX4YQY?ref=emc_p_m_5_mob_i_atc",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0B4NX4YQY&device=mobile&engine=amazon_product&language=en_US&shipping_location=US",
+            "rating": 4.6,
+            "reviews": 321,
+            "price": "$17.99",
+            "extracted_price": 17.99,
+            "quantity_size": "4pcs",
+            "color": "Orange",
+            "seasons": "Autumn",
+            "materials": "Soie & plastique",
+            "high_quality": "✔"
+          },
+          {
+            "position": 6,
+            "asin": "B07DCQM2S4",
+            "title": "Hydrangea Silk Flowers",
+            "thumbnail": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/7d9f4a54-8f73-47bf-b8a5-9aa411c24dc1.__AC_SR200,225___.jpg",
+            "link": "https://www.amazon.com/dp/B07DCQM2S4?ref=emc_p_m_5_mob_i_atc",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B07DCQM2S4&device=mobile&engine=amazon_product&language=en_US&shipping_location=US",
+            "rating": 4.5,
+            "reviews": 1205,
+            "price": "$15.99",
+            "extracted_price": 15.99,
+            "quantity_size": "5pcs",
+            "color": "White",
+            "seasons": "Autumn, Spring",
+            "materials": "Soie & plastique",
+            "high_quality": "✔"
+          },
+          {
+            "position": 7,
+            "asin": "B0CCP6LWDN",
+            "title": "Black Roses Garland Decor",
+            "thumbnail": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/054d513a-28cc-41b3-8f54-babe4f4a80ad.__AC_SR200,225___.jpg",
+            "link": "https://www.amazon.com/dp/B0CCP6LWDN?ref=emc_p_m_5_mob_i_atc",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0CCP6LWDN&device=mobile&engine=amazon_product&language=en_US&shipping_location=US",
+            "rating": 4.6,
+            "reviews": 4662,
+            "price": "$42.99",
+            "extracted_price": 42.99,
+            "quantity_size": "1pcs/6.56ft",
+            "color": "Black",
+            "seasons": "Autumn, Winter",
+            "materials": "Soie & plastique",
+            "high_quality": "✔"
+          }
+        ]
+      }
+    ],
+    "product_details": {
+      "brand_name": "PARTY JOY",
+      "manufacturer": "PARTY JOY",
+      "included_components": "6pcs maple garlands",
+      "item_type_name": "Maple Garland",
+      "model_number": "Maple Leaves Garland",
+      "manufacturer_part_number": "06",
+      "best_sellers_rank": [
+        {
+          "text": "#12,127 in Home & Kitchen (See Top 100 in Home & Kitchen)",
+          "extracted_rank": 12127,
+          "link": "https://www.amazon.com/gp/bestsellers/home-garden/ref=pd_zg_ts_home-garden",
+          "link_text": "See Top 100 in Home & Kitchen"
+        },
+        {
+          "text": "#17 in Christmas Garlands",
+          "extracted_rank": 17,
+          "link": "https://www.amazon.com/gp/bestsellers/home-garden/16175660011/ref=pd_zg_hrsr_home-garden",
+          "link_text": "Christmas Garlands"
+        }
+      ],
+      "asin": "B0B3JF6BMR",
+      "customer_reviews": "4.4 out of 5 stars 1,119Reviews",
+      "color": "Maple Leaves Garland",
+      "shape": "Semicircular",
+      "item_length": "67.2 inches",
+      "item_weight": "1.4 pounds",
+      "size": "Colorful",
+      "material_type": "Silk",
+      "plant_or_animal_product_type": "Maple"
+    },
+    "sponsored_brands": [
+      {
+        "position": 1,
+        "link": "https://aax-us-east-retail-direct.amazon.com/x/c/JH5HOKyk6Pf23CkOcXJ0pJsAAAGhZFVntwEAAAH2AQBvbm9fdHhuX2JpZDMgICBvbm9fdHhuX2ltcDIgICAb2ZDH/clv1c_ek-wBYf3FbbazjI3kMfCrVeKLAWZLs9HnEF98ImZwis1zIZU2cfEAKKU4d6sUL00aFRf_0oRBCpa31J6HYWVG8uX_qYp0Cd3ABoBLmkJpOy-yp0aLLuUAzDFwzh0rgZZB3EfOed4mUgytTcmcOhkBCsvuNmcl1DukNSsi0ca7CYdV2FR9uTOvMO4bxL5GR1aLHYtqHrxEwTU-YxNbhjBdAOwFw46Aksz3F4aFoP3uQ7dlEfowwUMGv8LpvYZ2_qdhdMGydAl512PZyVz8K00wolmMGQWGM8-HIteeGJpbSYKRdXe1Z0lERCqk-_Pxln-pMZ5xTLDp8omZcRH4DiqdyP_kZXH3XdXVrzVtxNIyBFMTnQjTXLgbGD2OV4DyYCfRhBvgYAv8zQcbPM_rneuk-hY1lo7MtPigSbeZ-HM6akpWUQj7wBg_P2Mi6BzUqfFjmdNb2F9bJm9p5YidnAJIaFJDw7UAmjZnC6FSwSisterNgc2OZgPUslQuATsJ8DoDKNtAK9k4ElnjExqkpxpkw1fKk9yD1E7wS4n6Udzfo6xsXwm2XC-lIlCl1gyXeodE-KFyI-_pa7r3dRm20PWUhKthrWwalS8mmVPRaIkBc0QzypJ0jA8djmtWlfLyyDyrapJRuYWaubliOZLhsqQU0htLNuJevIIR_gkaleOLvjBw7Y1jj78PM30x01ItYn6b4vyVa12cL6oT5d4PkY42e0P93CFXCmNSUmhF58oXmHpkUf0j-cFpo2ioq_Fig2K-oEWaOtkD3p5H35iifxwTS6-s5dKEejiNnUNPt8KOAHyGz6PgWmAKV3oVs7v_jtm55QkrmYz6VmqK55-n-G1xFaiQ_uzmfuJTkQMa1oH8wjPV80wyRlBZx18FoS3f-HdhvCDvXOQYTRhNAx8O29xL12qJ37BT-UHXn1fu3bLD7awK0S4eSbplZ61h6-G6yH-9WCSmmz9LLHBNryAXoCIalc0pYvEasa6bUaBrOmlEzLfNlNL7KSr8GssYRZVRQ3IRUx4fkMzhzQ7XzmlxE_CWjYEUqTIEi5TriM7ONb7oGxIU1Ko-eFcjVpoZmZW5CSO7CqYdK2unRRVIb8hTRSeVkOBa8fM4IIp0ApL6WYyqVQ2oiHP5TEL-4LMRI7BrDYAaQidSe1EocQYbiBqlJEw52TShdclDgeziqX3hLb0oi_3_7f0aiQYhvVhJlox6962hCoz9qLZddFfHhCc13ckOrisJ-l9iuZ3Qpx8Ps8Py5IW9G00ljw74Hy-DLL89B0p9rStSSSE0vJXStux9MeMB80ceQN3BAyptAecjClhNEbjDMajS_ey55ISEaEwcgs65JiSI_ATyUXt_XwG4LNvL0aBs70IW22tGAha54u1bUaIPbQP_cdO_1XleY85Iy1UV5AKvsE4bCAbhfOIxMSXkGx-_WhPmDGq7UsORty9e1UI2QpW2uZCWrT_mw6gQRVwY6uxuvwPchn8Tcp4RQmBqjCVnttqg18n5wyLs7EGLHw3Ts71K7zb0wuBNQUYOGlLdHTK-9PT8WzJeqErXWEk74hZJd_g7tAz3m94t3uevtWBIopaXhP32aA97Jk0ZjajVlpwio2bBGPr0nj4AexMeQCt74xL__w4ieKBTl1UCYs/https://www.amazon.com/stores/page/FD5E5674-A009-4E2D-9523-414427EB1643/?_encoding=UTF8&store_ref=SB_A06098893QYKLONHC21LK-A01753833ELZ206DWJ993&pd_rd_plhdr=t&aaxitk=1fbcd77d88454f0f71ca9463fc8f3fa3&hsa_cr_id=0&lp_slot=mobile-arbies&lp_page_asin=B0B3JF6BMR&pd_rd_i=ad1&ref_=sbx_be_dp_arbies_mbm_mb0_bkgd&pd_rd_w=7WFoV&content-id=amzn1.sym.a0cf6175-49ce-4c72-8721-b2bed4d3a00e&pf_rd_p=a0cf6175-49ce-4c72-8721-b2bed4d3a00e&pf_rd_r=B6P96JMQ8C97BVYW1T3K&pd_rd_wg=kBJYg&pd_rd_r=d8d96107-4cce-492d-ae9b-36b17b5ac955",
+        "link_clean": "https://aax-us-east-retail-direct.amazon.com/x/c/JH5HOKyk6Pf23CkOcXJ0pJsAAAGhZFVntwEAAAH2AQBvbm9fdHhuX2JpZDMgICBvbm9fdHhuX2ltcDIgICAb2ZDH/clv1c_ek-wBYf3FbbazjI3kMfCrVeKLAWZLs9HnEF98ImZwis1zIZU2cfEAKKU4d6sUL00aFRf_0oRBCpa31J6HYWVG8uX_qYp0Cd3ABoBLmkJpOy-yp0aLLuUAzDFwzh0rgZZB3EfOed4mUgytTcmcOhkBCsvuNmcl1DukNSsi0ca7CYdV2FR9uTOvMO4bxL5GR1aLHYtqHrxEwTU-YxNbhjBdAOwFw46Aksz3F4aFoP3uQ7dlEfowwUMGv8LpvYZ2_qdhdMGydAl512PZyVz8K00wolmMGQWGM8-HIteeGJpbSYKRdXe1Z0lERCqk-_Pxln-pMZ5xTLDp8omZcRH4DiqdyP_kZXH3XdXVrzVtxNIyBFMTnQjTXLgbGD2OV4DyYCfRhBvgYAv8zQcbPM_rneuk-hY1lo7MtPigSbeZ-HM6akpWUQj7wBg_P2Mi6BzUqfFjmdNb2F9bJm9p5YidnAJIaFJDw7UAmjZnC6FSwSisterNgc2OZgPUslQuATsJ8DoDKNtAK9k4ElnjExqkpxpkw1fKk9yD1E7wS4n6Udzfo6xsXwm2XC-lIlCl1gyXeodE-KFyI-_pa7r3dRm20PWUhKthrWwalS8mmVPRaIkBc0QzypJ0jA8djmtWlfLyyDyrapJRuYWaubliOZLhsqQU0htLNuJevIIR_gkaleOLvjBw7Y1jj78PM30x01ItYn6b4vyVa12cL6oT5d4PkY42e0P93CFXCmNSUmhF58oXmHpkUf0j-cFpo2ioq_Fig2K-oEWaOtkD3p5H35iifxwTS6-s5dKEejiNnUNPt8KOAHyGz6PgWmAKV3oVs7v_jtm55QkrmYz6VmqK55-n-G1xFaiQ_uzmfuJTkQMa1oH8wjPV80wyRlBZx18FoS3f-HdhvCDvXOQYTRhNAx8O29xL12qJ37BT-UHXn1fu3bLD7awK0S4eSbplZ61h6-G6yH-9WCSmmz9LLHBNryAXoCIalc0pYvEasa6bUaBrOmlEzLfNlNL7KSr8GssYRZVRQ3IRUx4fkMzhzQ7XzmlxE_CWjYEUqTIEi5TriM7ONb7oGxIU1Ko-eFcjVpoZmZW5CSO7CqYdK2unRRVIb8hTRSeVkOBa8fM4IIp0ApL6WYyqVQ2oiHP5TEL-4LMRI7BrDYAaQidSe1EocQYbiBqlJEw52TShdclDgeziqX3hLb0oi_3_7f0aiQYhvVhJlox6962hCoz9qLZddFfHhCc13ckOrisJ-l9iuZ3Qpx8Ps8Py5IW9G00ljw74Hy-DLL89B0p9rStSSSE0vJXStux9MeMB80ceQN3BAyptAecjClhNEbjDMajS_ey55ISEaEwcgs65JiSI_ATyUXt_XwG4LNvL0aBs70IW22tGAha54u1bUaIPbQP_cdO_1XleY85Iy1UV5AKvsE4bCAbhfOIxMSXkGx-_WhPmDGq7UsORty9e1UI2QpW2uZCWrT_mw6gQRVwY6uxuvwPchn8Tcp4RQmBqjCVnttqg18n5wyLs7EGLHw3Ts71K7zb0wuBNQUYOGlLdHTK-9PT8WzJeqErXWEk74hZJd_g7tAz3m94t3uevtWBIopaXhP32aA97Jk0ZjajVlpwio2bBGPr0nj4AexMeQCt74xL__w4ieKBTl1UCYs/https://www.amazon.com/stores/page/",
+        "thumbnail": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/f35c5e46-2710-4850-8e8a-8fade8e8a718._CR0,0,477,477_AC_SX140_SY80_CB1169409_QL70_.jpg"
+      },
+      {
+        "position": 2,
+        "link": "https://aax-us-east-retail-direct.amazon.com/x/c/JPS0laaMg2n_xhMI-e9jvMYAAAGhZFVnuQEAAAH2AQBvbm9fdHhuX2JpZDMgICBvbm9fdHhuX2ltcDIgICA2eruc/clv1c_ek-wBYHXFcbWDn2nI7cAJ16WpAySucZsnNJWjyN1ngldjw3iuE6it_f5x09LvHTD3NR-5h4WDIavr6LvSVMyMkocps5dc4o2JpF9bhkhUNxwk3BvSgpPhAHvhuF0J3w87R3UW-0G2k5rqa_izICGBVBBIt28NtWqlkZ9xym8iNLfGOoUo2Y9jEcIdDVcEZ938md_L8NZIws4ZUQ80QnF6sw2NcU1CEQ8Eqn-9EysNtfe9EwiTizbvdZgy173cnmLz0bDNIwrGsEi0mNTv-tryNNrY0kd18sOuV1MLCFQFw2ZaaSyK_CP3v-RAu7mCrQVRR5akSEtFN48WQk8j8EFrS8W4Y0NRYr-xlQ-Ftx0kGU4r16-Adq4ZdpWwjcipELzH-BTUjFWcAaJUGMFgJVNRqHVaZo1ZXFiQEJknMOlDkgsRD9Pz15fJIvWpfuLXIl3R1Ca6Qb34mV3iHo7cGHaO7lI6ZG-JqHl_yznZVLRkEkG5ypeo6NhGHHgeMmzchlStWL5A59HX-4OHjf9G2wEQ6-62SZpm2KUMHguGjPpWpWeeUhkHv125Hhb97N1MSsJj45147qSzcV_Ph94EDEvoqwtlci4E3NMm5C-uJfx4Kq8ssCQrXENKUeVnxvHF6KZcWwEr4mQ6GSu2g-Ewk53_D01UHvd7LD1syswQy3AnFSiJQWu8duh2l_LOJpqDwtNC61oK2zd9_Ef6u_jAsdQMGfIUKP1zLgNecj2DRy8qCGVqlwojuBnxiX0NQtRW5C6B04H5snoRFwXc0R9gK4BxZ1VfXjY9p8q9Ecnxe2mysgCIhQFgFcCok_sGMzEFqCSOVpKyL3ENmG_yJo83r-Fie3olG3h3gwd3vVWmVBRPSUtssWkWC68fOMuAxvnK5EXNVGA64GAjyuGuNWBGKlBU_vLzWRKT88HSTczlSSg8zS2n4OChnTbUGs6dzawdtpRvyVldxpiVNcNegH6Py5Spf0EumMdONND-JpTZuOmScwRkbexoS97cgoy11yLGj393BHw9FYyy_2_tdZnD5FeD5BRdGy-aLNHCvOkLGZzxQG-Ktyr---tBSFKcHSGXtlIjVplun8wYJNkTFMyEmjHRtwygfB3yKrmiOGwMhBpAdsw5HYVKu3s0kziHTB86_Jl1SRceVHLJS3cSnhLOYnmWR0i5QPbV2qZJ8I_3Nt8hIAhhWwQZJkB9FHcqH_EBad19CXwMgULcctx8gKzozjQRc35xLjng1SunytL07oevyRl1hsddpOvHwVDsrmwwVa1aiIPnc4RHQSTmAboT0QPlKMySbTYClM1e6QPDTlW--ePc8P-0oCe8yDz-IynRTbH1A1pKvwTjF0Zg2UxXMY3pU6fpSanWKGhux5Rvv_-BcUPHmQXBYZt-kKbCHdxvFXOgQ8zAQJLqyW3mK4bM4Y1jUSCfjSzY4xY6MiJt5xGhJIiFyKAH39YY45m3NzOVQTgCIGF-lBpIGpa4Xv9fvcaWBDs_j3KeIwQLc5-uJgUfkdQdGzbSu3OOW36sctU1bmLvt1an1PDqwEFtyw7zx_rUN0gGrHD6_cEYagALvfeGztBLDggfDGGFFf3R7ExWTmW1VmYymooVEFv1WFSmYT580jcSafJUEONCQWzNdNebwMPKkNYFg/https://www.amazon.com/stores/page/98234AB7-C544-437B-A6D1-70D4652D314A/?_encoding=UTF8&store_ref=SB_A066041111UUOU5H153A7-A07266312UI4GYMFT7SRE&pd_rd_plhdr=t&aaxitk=3129ddfd2c82f7beb00be0c103ce81b8&hsa_cr_id=0&lp_slot=mobile-arbies&lp_page_asin=B0B3JF6BMR&pd_rd_i=ad2&ref_=sbx_be_dp_arbies_mbm_mb1_bkgd&pd_rd_w=7WFoV&content-id=amzn1.sym.a0cf6175-49ce-4c72-8721-b2bed4d3a00e&pf_rd_p=a0cf6175-49ce-4c72-8721-b2bed4d3a00e&pf_rd_r=B6P96JMQ8C97BVYW1T3K&pd_rd_wg=kBJYg&pd_rd_r=d8d96107-4cce-492d-ae9b-36b17b5ac955",
+        "link_clean": "https://aax-us-east-retail-direct.amazon.com/x/c/JPS0laaMg2n_xhMI-e9jvMYAAAGhZFVnuQEAAAH2AQBvbm9fdHhuX2JpZDMgICBvbm9fdHhuX2ltcDIgICA2eruc/clv1c_ek-wBYHXFcbWDn2nI7cAJ16WpAySucZsnNJWjyN1ngldjw3iuE6it_f5x09LvHTD3NR-5h4WDIavr6LvSVMyMkocps5dc4o2JpF9bhkhUNxwk3BvSgpPhAHvhuF0J3w87R3UW-0G2k5rqa_izICGBVBBIt28NtWqlkZ9xym8iNLfGOoUo2Y9jEcIdDVcEZ938md_L8NZIws4ZUQ80QnF6sw2NcU1CEQ8Eqn-9EysNtfe9EwiTizbvdZgy173cnmLz0bDNIwrGsEi0mNTv-tryNNrY0kd18sOuV1MLCFQFw2ZaaSyK_CP3v-RAu7mCrQVRR5akSEtFN48WQk8j8EFrS8W4Y0NRYr-xlQ-Ftx0kGU4r16-Adq4ZdpWwjcipELzH-BTUjFWcAaJUGMFgJVNRqHVaZo1ZXFiQEJknMOlDkgsRD9Pz15fJIvWpfuLXIl3R1Ca6Qb34mV3iHo7cGHaO7lI6ZG-JqHl_yznZVLRkEkG5ypeo6NhGHHgeMmzchlStWL5A59HX-4OHjf9G2wEQ6-62SZpm2KUMHguGjPpWpWeeUhkHv125Hhb97N1MSsJj45147qSzcV_Ph94EDEvoqwtlci4E3NMm5C-uJfx4Kq8ssCQrXENKUeVnxvHF6KZcWwEr4mQ6GSu2g-Ewk53_D01UHvd7LD1syswQy3AnFSiJQWu8duh2l_LOJpqDwtNC61oK2zd9_Ef6u_jAsdQMGfIUKP1zLgNecj2DRy8qCGVqlwojuBnxiX0NQtRW5C6B04H5snoRFwXc0R9gK4BxZ1VfXjY9p8q9Ecnxe2mysgCIhQFgFcCok_sGMzEFqCSOVpKyL3ENmG_yJo83r-Fie3olG3h3gwd3vVWmVBRPSUtssWkWC68fOMuAxvnK5EXNVGA64GAjyuGuNWBGKlBU_vLzWRKT88HSTczlSSg8zS2n4OChnTbUGs6dzawdtpRvyVldxpiVNcNegH6Py5Spf0EumMdONND-JpTZuOmScwRkbexoS97cgoy11yLGj393BHw9FYyy_2_tdZnD5FeD5BRdGy-aLNHCvOkLGZzxQG-Ktyr---tBSFKcHSGXtlIjVplun8wYJNkTFMyEmjHRtwygfB3yKrmiOGwMhBpAdsw5HYVKu3s0kziHTB86_Jl1SRceVHLJS3cSnhLOYnmWR0i5QPbV2qZJ8I_3Nt8hIAhhWwQZJkB9FHcqH_EBad19CXwMgULcctx8gKzozjQRc35xLjng1SunytL07oevyRl1hsddpOvHwVDsrmwwVa1aiIPnc4RHQSTmAboT0QPlKMySbTYClM1e6QPDTlW--ePc8P-0oCe8yDz-IynRTbH1A1pKvwTjF0Zg2UxXMY3pU6fpSanWKGhux5Rvv_-BcUPHmQXBYZt-kKbCHdxvFXOgQ8zAQJLqyW3mK4bM4Y1jUSCfjSzY4xY6MiJt5xGhJIiFyKAH39YY45m3NzOVQTgCIGF-lBpIGpa4Xv9fvcaWBDs_j3KeIwQLc5-uJgUfkdQdGzbSu3OOW36sctU1bmLvt1an1PDqwEFtyw7zx_rUN0gGrHD6_cEYagALvfeGztBLDggfDGGFFf3R7ExWTmW1VmYymooVEFv1WFSmYT580jcSafJUEONCQWzNdNebwMPKkNYFg/https://www.amazon.com/stores/page/",
+        "thumbnail": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/f6684be9-776d-4dd2-8e0f-82711a5c0de6._CR0,0,864,864_AC_SX140_SY80_CB1169409_QL70_.jpg"
+      }
+    ],
+    "reviews_information": {
+      "summary": {
+        "text": "Customers find the fall garland to be of good quality and appreciate its vibrant colors, with one customer noting it's an affordable way to decorate for fall. The garland receives positive feedback for its appearance as a beautiful way to mark the season, and customers love their autumn decorations, with one mentioning it's perfect for neutral boho style. The fullness and durability receive mixed reviews - while some say it has the right amount of leaves to look full, others note it's not as full as shown in photos, and while some find the leaves sturdy, others report the garland breaks easily. Several customers mention an unpleasant smell.",
+        "insights": [
+          {
+            "title": "Quality",
+            "sentiment": "positive",
+            "mentions": {
+              "total": 122,
+              "positive": 97,
+              "negative": 25
+            },
+            "summary": "Customers find the garland to be of good quality, describing it as fantastic and absolutely perfect.",
+            "examples": [
+              {
+                "position": 1,
+                "snippet": "Quick shipping and came nicely packaged. Pieces are of great quality, nice vibrant colors. Can’t wait to decorate my porch.",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R2LF5W2MQ4XG7E"
+              },
+              {
+                "position": 2,
+                "snippet": "Good quality Autumn garland. Wished each vine came a put more full. But with the larger leaves, it’s fair. 6pcs per order? That was very nice to have.",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R32E9WE203REQC"
+              },
+              {
+                "position": 3,
+                "snippet": "Very pretty. Used them during the fall. Perfect and matched our living room rug! Just took them down for Christmas.",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/RP1GI3PQSCBLN"
+              },
+              {
+                "position": 4,
+                "snippet": "The leaves are not as pictured. Very thin and cheap. Two of the strands were broken. I do not recommend these garland leaves for purchase.",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R3DKMWHEDZRK63"
+              }
+            ]
+          },
+          {
+            "title": "Appearance",
+            "sentiment": "positive",
+            "mentions": {
+              "total": 113,
+              "positive": 89,
+              "negative": 24
+            },
+            "summary": "Customers find the maple leaf garland beautiful and appreciate it as a way to mark the season, with one customer noting it makes everything look fall-ish.",
+            "examples": [
+              {
+                "position": 1,
+                "snippet": "...Such beautiful and realistic colors and shapes of maple leaves. It looked magical on my 20' high back windows. Great price! I very highly recommend!",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R2FJUBKWU1NA9V"
+              },
+              {
+                "position": 2,
+                "snippet": "Very pretty. Used them during the fall. Perfect and matched our living room rug! Just took them down for Christmas.",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/RP1GI3PQSCBLN"
+              },
+              {
+                "position": 3,
+                "snippet": "Purchased these last year and loved them. They’re reasonably priced, pretty, and have held up well. I loved them enough to order more this year....",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R1XOFIHK14KRJG"
+              },
+              {
+                "position": 4,
+                "snippet": "...Are they bad? No, but when they aren't more plush they look very fake....",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R2LK1XQJGQIWH2"
+              }
+            ]
+          },
+          {
+            "title": "Color",
+            "sentiment": "positive",
+            "mentions": {
+              "total": 77,
+              "positive": 61,
+              "negative": 16
+            },
+            "summary": "Customers appreciate the vibrant colors of the garland, with one customer specifically mentioning its beautiful rich tones.",
+            "examples": [
+              {
+                "position": 1,
+                "snippet": "These leaf garlands were colorful and full not scraggly They worked beautifully with battery tea lights and mini pumpkins for the outside banquet....",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R1AU3RTGSC4NQN"
+              },
+              {
+                "position": 2,
+                "snippet": "These leaves are nice quality. The colors are vibrant. But they smell like fish! I have them outside during out before using them inside.",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R33KXRTXT3YVIB"
+              },
+              {
+                "position": 3,
+                "snippet": "The leaves have been up for about a week. I love the colors and initially the quality. It is packaged in baggies so the leaves are wrinkled....",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R3FMX1434MVYKR"
+              },
+              {
+                "position": 4,
+                "snippet": "Colors are dull. Was hoping for a little more color. Otherwise they're OK",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R2KED2ZFFA4WPQ"
+              }
+            ]
+          },
+          {
+            "title": "Value for money",
+            "sentiment": "positive",
+            "mentions": {
+              "total": 67,
+              "positive": 55,
+              "negative": 12
+            },
+            "summary": "Customers find the fall garland to be worth the price, appreciating its good quality and considering it an affordable way to decorate for the season.",
+            "examples": [
+              {
+                "position": 1,
+                "snippet": "These are not as thick as pictured. Still good quality for the price, but the picture is misleading.",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R1W9R5HH98YY7L"
+              },
+              {
+                "position": 2,
+                "snippet": "I found this to be perfect and a great value! They are plastic/ fabric, but once they relax they will work perfectly 🥰",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R1C24V01UWOHGY"
+              },
+              {
+                "position": 3,
+                "snippet": "The leaves are very full and these are a great value for the money....I couldn't believe how many uses I found for all the pieces... I bought...",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R2IVC2G8KIWCBX"
+              },
+              {
+                "position": 4,
+                "snippet": "...These were nice for the price and they work great. The leaves are full so you don't see a lot of the vine and the colors look nice for the fall.",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R21Z9LDW8AQVGO"
+              }
+            ]
+          },
+          {
+            "title": "Fall decor",
+            "sentiment": "positive",
+            "mentions": {
+              "total": 29,
+              "positive": 29,
+              "negative": 0
+            },
+            "summary": "Customers love using this garland for autumn decorations, particularly for Thanksgiving, with one customer noting it makes their home feel cozy during the season.",
+            "examples": [
+              {
+                "position": 1,
+                "snippet": "GREAT FALL DECOR",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R3GYXBZCW2JPRX"
+              },
+              {
+                "position": 2,
+                "snippet": "...I added twinkling lights to them as a DIY project. They are perfect for fall decor and to get that ORANGE GLOW!",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R2RL2HEDF3MQ2R"
+              },
+              {
+                "position": 3,
+                "snippet": "...that being said they are still a great decor addition.",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R1TVB7AWM2I8EF"
+              },
+              {
+                "position": 4,
+                "snippet": "These are great for Fall decorations. Nice quality and just as described. I did buy (separately) some fairy lights to complement them.",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R14HDO5R94KL1F"
+              }
+            ]
+          },
+          {
+            "title": "Fullness",
+            "sentiment": "mixed",
+            "mentions": {
+              "total": 54,
+              "positive": 36,
+              "negative": 18
+            },
+            "summary": "Customers have mixed opinions about the garland's fullness, with some saying it has just the right amount of leaves while others note it looks sparse compared to the product photos.",
+            "examples": [
+              {
+                "position": 1,
+                "snippet": "They were full and vibrant, I didn't need to order as much as I did. I loved the way they came out and I will be using them next year.",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R1HTFTTZSWB5W3"
+              },
+              {
+                "position": 2,
+                "snippet": "sparse, but otherwise nice",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/RX4MTQXF36FNM"
+              },
+              {
+                "position": 3,
+                "snippet": "These are very full I bought some from Hobby lobby also and the middle piece that the leaves connect to was better quality but had half the amount...",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R2BJQRKX02UQDJ"
+              },
+              {
+                "position": 4,
+                "snippet": "The maple leaf garland is absolutely beautiful, so full and thick!",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R6KJ2GMEK9ZO9"
+              }
+            ]
+          },
+          {
+            "title": "Durability",
+            "sentiment": "mixed",
+            "mentions": {
+              "total": 38,
+              "positive": 16,
+              "negative": 22
+            },
+            "summary": "Customers have mixed experiences with the garland's durability: while some find the leaves sturdy and report no leaves falling off, others mention that the garland breaks easily and the stems are fragile.",
+            "examples": [
+              {
+                "position": 1,
+                "snippet": "...Garland is not full and very very cheap. Leaves fall off and garland is not “fluffy” as shown in picture. Do not recommend. Cheap cheap cheap!",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R16NTJF0S3J40L"
+              },
+              {
+                "position": 2,
+                "snippet": "Used to decorate for fall. They were beautiful, sturdy, just as pictured",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R2LZZ8CVVBGC6W"
+              },
+              {
+                "position": 3,
+                "snippet": "These look nice but the garland breaks easily. One arrived broken and another broke through typical handling during hanging....",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R31CYJZVQF9Q7K"
+              },
+              {
+                "position": 4,
+                "snippet": "We used these for our front entrance sign. Very beautiful and durable! Natural fall look. Love it!",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R1WBQZB73PT6ZT"
+              }
+            ]
+          },
+          {
+            "title": "Odor",
+            "sentiment": "negative",
+            "mentions": {
+              "total": 24,
+              "positive": 5,
+              "negative": 19
+            },
+            "summary": "Customers report that the garland has a foul smell.",
+            "examples": [
+              {
+                "position": 1,
+                "snippet": "They are pretty but they STINK. Thankfully I was using them outside",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R2B7N8WDZN3DF5"
+              },
+              {
+                "position": 2,
+                "snippet": "Beautiful, but stinky!! The leaves smell like fish. Good thing I’m using them outside!",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R2TQQVWLNSQANL"
+              },
+              {
+                "position": 3,
+                "snippet": "Smell is horrible, these reek like a dead animal.",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R1QC7A43JYX9N4"
+              },
+              {
+                "position": 4,
+                "snippet": "These leaves are nice quality. The colors are vibrant. But they smell like fish! I have them outside during out before using them inside.",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R33KXRTXT3YVIB"
+              }
+            ]
+          },
+          {
+            "title": "Quality",
+            "sentiment": "positive",
+            "mentions": {
+              "total": 122,
+              "positive": 97,
+              "negative": 25
+            },
+            "summary": "Customers find the garland to be of good quality, describing it as fantastic and absolutely perfect.",
+            "examples": [
+              {
+                "position": 1,
+                "snippet": "Quick shipping and came nicely packaged. Pieces are of great quality, nice vibrant colors. Can’t wait to decorate my porch.",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R2LF5W2MQ4XG7E"
+              },
+              {
+                "position": 2,
+                "snippet": "Good quality Autumn garland. Wished each vine came a put more full. But with the larger leaves, it’s fair. 6pcs per order? That was very nice to have.",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R32E9WE203REQC"
+              },
+              {
+                "position": 3,
+                "snippet": "Very pretty. Used them during the fall. Perfect and matched our living room rug! Just took them down for Christmas.",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/RP1GI3PQSCBLN"
+              },
+              {
+                "position": 4,
+                "snippet": "The leaves are not as pictured. Very thin and cheap. Two of the strands were broken. I do not recommend these garland leaves for purchase.",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R3DKMWHEDZRK63"
+              }
+            ]
+          },
+          {
+            "title": "Appearance",
+            "sentiment": "positive",
+            "mentions": {
+              "total": 113,
+              "positive": 89,
+              "negative": 24
+            },
+            "summary": "Customers find the maple leaf garland beautiful and appreciate it as a way to mark the season, with one customer noting it makes everything look fall-ish.",
+            "examples": [
+              {
+                "position": 1,
+                "snippet": "...Such beautiful and realistic colors and shapes of maple leaves. It looked magical on my 20' high back windows. Great price! I very highly recommend!",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R2FJUBKWU1NA9V"
+              },
+              {
+                "position": 2,
+                "snippet": "Very pretty. Used them during the fall. Perfect and matched our living room rug! Just took them down for Christmas.",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/RP1GI3PQSCBLN"
+              },
+              {
+                "position": 3,
+                "snippet": "Purchased these last year and loved them. They’re reasonably priced, pretty, and have held up well. I loved them enough to order more this year....",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R1XOFIHK14KRJG"
+              },
+              {
+                "position": 4,
+                "snippet": "...Are they bad? No, but when they aren't more plush they look very fake....",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R2LK1XQJGQIWH2"
+              }
+            ]
+          },
+          {
+            "title": "Color",
+            "sentiment": "positive",
+            "mentions": {
+              "total": 77,
+              "positive": 61,
+              "negative": 16
+            },
+            "summary": "Customers appreciate the vibrant colors of the garland, with one customer specifically mentioning its beautiful rich tones.",
+            "examples": [
+              {
+                "position": 1,
+                "snippet": "These leaf garlands were colorful and full not scraggly They worked beautifully with battery tea lights and mini pumpkins for the outside banquet....",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R1AU3RTGSC4NQN"
+              },
+              {
+                "position": 2,
+                "snippet": "These leaves are nice quality. The colors are vibrant. But they smell like fish! I have them outside during out before using them inside.",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R33KXRTXT3YVIB"
+              },
+              {
+                "position": 3,
+                "snippet": "The leaves have been up for about a week. I love the colors and initially the quality. It is packaged in baggies so the leaves are wrinkled....",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R3FMX1434MVYKR"
+              },
+              {
+                "position": 4,
+                "snippet": "Colors are dull. Was hoping for a little more color. Otherwise they're OK",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R2KED2ZFFA4WPQ"
+              }
+            ]
+          },
+          {
+            "title": "Value for money",
+            "sentiment": "positive",
+            "mentions": {
+              "total": 67,
+              "positive": 55,
+              "negative": 12
+            },
+            "summary": "Customers find the fall garland to be worth the price, appreciating its good quality and considering it an affordable way to decorate for the season.",
+            "examples": [
+              {
+                "position": 1,
+                "snippet": "These are not as thick as pictured. Still good quality for the price, but the picture is misleading.",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R1W9R5HH98YY7L"
+              },
+              {
+                "position": 2,
+                "snippet": "I found this to be perfect and a great value! They are plastic/ fabric, but once they relax they will work perfectly 🥰",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R1C24V01UWOHGY"
+              },
+              {
+                "position": 3,
+                "snippet": "The leaves are very full and these are a great value for the money....I couldn't believe how many uses I found for all the pieces... I bought...",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R2IVC2G8KIWCBX"
+              },
+              {
+                "position": 4,
+                "snippet": "...These were nice for the price and they work great. The leaves are full so you don't see a lot of the vine and the colors look nice for the fall.",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R21Z9LDW8AQVGO"
+              }
+            ]
+          },
+          {
+            "title": "Fall decor",
+            "sentiment": "positive",
+            "mentions": {
+              "total": 29,
+              "positive": 29,
+              "negative": 0
+            },
+            "summary": "Customers love using this garland for autumn decorations, particularly for Thanksgiving, with one customer noting it makes their home feel cozy during the season.",
+            "examples": [
+              {
+                "position": 1,
+                "snippet": "GREAT FALL DECOR",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R3GYXBZCW2JPRX"
+              },
+              {
+                "position": 2,
+                "snippet": "...I added twinkling lights to them as a DIY project. They are perfect for fall decor and to get that ORANGE GLOW!",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R2RL2HEDF3MQ2R"
+              },
+              {
+                "position": 3,
+                "snippet": "...that being said they are still a great decor addition.",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R1TVB7AWM2I8EF"
+              },
+              {
+                "position": 4,
+                "snippet": "These are great for Fall decorations. Nice quality and just as described. I did buy (separately) some fairy lights to complement them.",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R14HDO5R94KL1F"
+              }
+            ]
+          },
+          {
+            "title": "Fullness",
+            "sentiment": "mixed",
+            "mentions": {
+              "total": 54,
+              "positive": 36,
+              "negative": 18
+            },
+            "summary": "Customers have mixed opinions about the garland's fullness, with some saying it has just the right amount of leaves while others note it looks sparse compared to the product photos.",
+            "examples": [
+              {
+                "position": 1,
+                "snippet": "They were full and vibrant, I didn't need to order as much as I did. I loved the way they came out and I will be using them next year.",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R1HTFTTZSWB5W3"
+              },
+              {
+                "position": 2,
+                "snippet": "sparse, but otherwise nice",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/RX4MTQXF36FNM"
+              },
+              {
+                "position": 3,
+                "snippet": "These are very full I bought some from Hobby lobby also and the middle piece that the leaves connect to was better quality but had half the amount...",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R2BJQRKX02UQDJ"
+              },
+              {
+                "position": 4,
+                "snippet": "The maple leaf garland is absolutely beautiful, so full and thick!",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R6KJ2GMEK9ZO9"
+              }
+            ]
+          },
+          {
+            "title": "Durability",
+            "sentiment": "mixed",
+            "mentions": {
+              "total": 38,
+              "positive": 16,
+              "negative": 22
+            },
+            "summary": "Customers have mixed experiences with the garland's durability: while some find the leaves sturdy and report no leaves falling off, others mention that the garland breaks easily and the stems are fragile.",
+            "examples": [
+              {
+                "position": 1,
+                "snippet": "...Garland is not full and very very cheap. Leaves fall off and garland is not “fluffy” as shown in picture. Do not recommend. Cheap cheap cheap!",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R16NTJF0S3J40L"
+              },
+              {
+                "position": 2,
+                "snippet": "Used to decorate for fall. They were beautiful, sturdy, just as pictured",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R2LZZ8CVVBGC6W"
+              },
+              {
+                "position": 3,
+                "snippet": "These look nice but the garland breaks easily. One arrived broken and another broke through typical handling during hanging....",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R31CYJZVQF9Q7K"
+              },
+              {
+                "position": 4,
+                "snippet": "We used these for our front entrance sign. Very beautiful and durable! Natural fall look. Love it!",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R1WBQZB73PT6ZT"
+              }
+            ]
+          },
+          {
+            "title": "Odor",
+            "sentiment": "negative",
+            "mentions": {
+              "total": 24,
+              "positive": 5,
+              "negative": 19
+            },
+            "summary": "Customers report that the garland has a foul smell.",
+            "examples": [
+              {
+                "position": 1,
+                "snippet": "They are pretty but they STINK. Thankfully I was using them outside",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R2B7N8WDZN3DF5"
+              },
+              {
+                "position": 2,
+                "snippet": "Beautiful, but stinky!! The leaves smell like fish. Good thing I’m using them outside!",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R2TQQVWLNSQANL"
+              },
+              {
+                "position": 3,
+                "snippet": "Smell is horrible, these reek like a dead animal.",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R1QC7A43JYX9N4"
+              },
+              {
+                "position": 4,
+                "snippet": "These leaves are nice quality. The colors are vibrant. But they smell like fish! I have them outside during out before using them inside.",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R33KXRTXT3YVIB"
+              }
+            ]
+          }
+        ]
+      },
+      "authors_reviews": [
+        {
+          "position": 1,
+          "title": "Looks Great… Until the Cats Discover It",
+          "text": "This fall maple leaf garland looks really nice and adds a great seasonal touch. The colors are vibrant, the length is good for decorating, and the quality feels solid. It hangs easily and holds its shape well. The only downside is that the cats absolutely love tearing it apart — but that’s not the garland’s fault. As décor, it does exactly what it should.",
+          "rating": 5.0,
+          "date": "September 12, 2026",
+          "author": "Brian C",
+          "author_link": "https://www.amazon.com/gp/profile/amzn1.account.AE46ESHJU7NMDWLUMEXRVX5P4EAQ?ref=cm_cr_dp_mb_bdcrb_top",
+          "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SX110_.png",
+          "helpful_votes": "3 people found this helpful",
+          "verified_purchase": true,
+          "product": {
+            "model": "Maple Leaves Garland"
+          }
+        },
+        {
+          "position": 2,
+          "title": "Beautiful! Buy them !!",
+          "text": "I doubled them up and they came out perfect! They look full and expensive . I added twinkling lights to them as a DIY project. They are perfect for fall decor and to get that ORANGE GLOW!",
+          "rating": 5.0,
+          "date": "August 3, 2026",
+          "author": "c.08",
+          "author_link": "https://www.amazon.com/gp/profile/amzn1.account.AFIED6DTDXVQFK6AR7ROV34YTRUA?ref=cm_cr_dp_mb_bdcrb_top",
+          "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SX110_.png",
+          "images": [
+            "https://m.media-amazon.com/images/I/51rYmvuELNL._SY500_.jpg"
+          ],
+          "helpful_votes": "6 people found this helpful",
+          "verified_purchase": true,
+          "product": {
+            "model": "00-QCFYTT-JS"
+          }
+        },
+        {
+          "position": 3,
+          "title": "Extremely nice garland and great value",
+          "text": "Surprised how nice these really are for the price and quantity. Would definitely purchase again purchase again. While wrapping them the leaves don’t fall off easily which is a plus. The colors are nice and bright.",
+          "rating": 5.0,
+          "date": "September 13, 2026",
+          "author": "Flag mom",
+          "author_link": "https://www.amazon.com/gp/profile/amzn1.account.AEAL7GYFZLSOBDHPZZNRD7QHBVUQ?ref=cm_cr_dp_mb_bdcrb_top",
+          "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SX110_.png",
+          "helpful_votes": "3 people found this helpful",
+          "verified_purchase": true,
+          "product": {
+            "model": "Maple Leaves Garland"
+          }
+        },
+        {
+          "position": 4,
+          "title": "Rinse before outdoor use to prevent color bleeding!",
+          "text": "I bought these to add some festive beauty around the door outside my condo complex. The neighbors love it as much as I do. Exactly what I wanted in a garland, definitely looks best with two strands together side by side if you want a more thick/full look, but they seemed pretty good as a single strand as well, depending on what you are looking for. The colors are great and I love that there are such a variety so they look more realistic. I shook them all around in multiple ways and I did not have any leaves ever fall off so the quality seems great. The only reason I deducted one star is because, as other reviewers have mentioned, I had to do the extra steps of taking each strand and running it under cold water in my tub to remove excess color so that it would not bleed when it rains outside. I guess that only matters if you plan to use this outside. I took each strand and ran it under the cold tap in the tub and agitated it around a bit and then use my handheld showerhead to ensure there was no more dye. There was not as much color coming off as I expected based on the reviews but I assume it is because other people filled the tub with water and then soaked all of them together, which I did not do. After a quick rinse, I put them in a large garment bag and put them in the dryer on the gentle/low heat cycle for about 20 minutes.",
+          "rating": 4.0,
+          "date": "October 2, 2025",
+          "author": "MissMolly",
+          "author_link": "https://www.amazon.com/gp/profile/amzn1.account.AH2WN7QD3ATFTML223JOMRVLOIUA?ref=cm_cr_dp_mb_bdcrb_top",
+          "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SX110_.png",
+          "images": [
+            "https://m.media-amazon.com/images/I/81J6jbePkzL._SY500_.jpg"
+          ],
+          "helpful_votes": "11 people found this helpful",
+          "verified_purchase": true,
+          "product": {
+            "model": "Maple Leaves Garland"
+          }
+        },
+        {
+          "position": 5,
+          "title": "Fun, festive, fall decor!",
+          "text": "These maple leaf garlands were a fun and affordable way to decorate for fall. The leaves are obviously artificial when viewed up close, but once displayed, they looked festive and added great color to my home.I used them in several different areas, including above windows and around my fireplace. The garlands were easy to shape and arrange, and I was able to tuck the ends behind other decorations so they blended in nicely.The leaves have a nice mix of fall colors, and the strands were full enough to make an impact without needing a lot of extra decorating. I used them in several different areas of my home, which made them very versatile. The colors were bright and vibrant and showed up well both during the day and with decorative lighting at night. They also arrived without any strong chemical or plastic smell, which I appreciated. Overall, I was very happy with how they looked and would use them again for seasonal decorating.",
+          "rating": 5.0,
+          "date": "July 17, 2026",
+          "author": "Lizzy Platt",
+          "author_link": "https://www.amazon.com/gp/profile/amzn1.account.AEVWLP5ILJU24Y6YCEVC6ZVVQWVA?ref=cm_cr_dp_mb_bdcrb_top",
+          "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SX110_.png",
+          "images": [
+            "https://m.media-amazon.com/images/I/71ZIefvYnYL._SY500_.jpg",
+            "https://m.media-amazon.com/images/I/51uAU2s2UxL._SY500_.jpg",
+            "https://m.media-amazon.com/images/I/514f+-xCRiL._SY500_.jpg"
+          ],
+          "helpful_votes": "5 people found this helpful",
+          "verified_purchase": true,
+          "product": {
+            "model": "Maple Leaves Garland"
+          }
+        },
+        {
+          "position": 6,
+          "title": "Good value",
+          "text": "These are so cute and I plan on putting them on top of my cabinets. Only down fall, when I took them out of the package it had a funky smell but didnt last too long.",
+          "rating": 5.0,
+          "date": "August 11, 2026",
+          "author": "LeLe",
+          "author_link": "https://www.amazon.com/gp/profile/amzn1.account.AH2B2ZIWUPSITOCWXMTAFPEGW3SA?ref=cm_cr_dp_mb_bdcrb_top",
+          "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SX110_.png",
+          "verified_purchase": true,
+          "product": {
+            "model": "Maple Leaves Garland"
+          }
+        },
+        {
+          "position": 7,
+          "title": "Something’s fishy here",
+          "text": "Purchased these last year and loved them. They’re reasonably priced, pretty, and have held up well. I loved them enough to order more this year. When I opened my garlands this year, they smelled pungently of fish. Could I have febreezed and aired them out? Maybe? Was I willing to try? Nope, too grossed out. Returned and lost my trust. Sad day.",
+          "rating": 3.0,
+          "date": "October 12, 2026",
+          "author": "Kelly French",
+          "author_link": "https://www.amazon.com/gp/profile/amzn1.account.AEWFFFFW4CXJVYYTGQ7EUEKNXWFQ?ref=cm_cr_dp_mb_bdcrb_top",
+          "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SX110_.png",
+          "helpful_votes": "One person found this helpful",
+          "verified_purchase": true,
+          "product": {
+            "model": "Maple Leaves Garland"
+          }
+        },
+        {
+          "position": 8,
+          "title": "Great quality!",
+          "text": "Quick shipping and came nicely packaged. Pieces are of great quality, nice vibrant colors. Can’t wait to decorate my porch.",
+          "rating": 5.0,
+          "date": "September 21, 2026",
+          "author": "Bernice",
+          "author_link": "https://www.amazon.com/gp/profile/amzn1.account.AFHT5AFDXFTCJBH4VY6RGU7Z4PVQ?ref=cm_cr_dp_mb_bdcrb_top",
+          "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SX110_.png",
+          "verified_purchase": true,
+          "product": {
+            "model": "Maple Leaves Garland"
+          }
+        }
+      ],
+      "other_countries_reviews": [
+        {
+          "position": 1,
+          "title": "Satisfied",
+          "text": "Better than I expected!",
+          "rating": 5.0,
+          "date": "September 18, 2025",
+          "author": "Megan",
+          "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SX110_.png",
+          "verified_purchase": true,
+          "product": {
+            "model": "Maple Leaves Garland"
+          },
+          "country": {
+            "code": "CA",
+            "name": "Canada"
+          },
+          "language": {
+            "code": "en",
+            "name": "English (Canada)"
+          }
+        },
+        {
+          "position": 2,
+          "title": "Photos un peu trompeuses",
+          "text": "Guirlande moins dense que sur les photos, a croire qu'ils ont combiné plusieurs guirlandes en une pour faire les photos. Seule une photo de l'annonce correspond à peu près a la guirlande réelle. On peut tout de même faire des choses sympas avec mais avec 6 guirlande on en fait 3 comme présenté sur les photos.",
+          "rating": 3.0,
+          "date": "October 7, 2025",
+          "author": "Ant",
+          "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SX110_.png",
+          "verified_purchase": true,
+          "product": {
+            "model": "Maple Leaves Garland"
+          },
+          "country": {
+            "code": "FR",
+            "name": "France"
+          },
+          "language": {
+            "code": "fr",
+            "name": "French (France)"
+          }
+        },
+        {
+          "position": 3,
+          "title": "Thick",
+          "text": "6 pieces, very nice thick decoration",
+          "rating": 5.0,
+          "date": "October 28, 2025",
+          "author": "karla",
+          "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SX110_.png",
+          "verified_purchase": true,
+          "product": {
+            "model": "25-QCFYTT-Deep Autumn Green"
+          },
+          "country": {
+            "code": "CA",
+            "name": "Canada"
+          },
+          "language": {
+            "code": "en",
+            "name": "English (Canada)"
+          }
+        },
+        {
+          "position": 4,
+          "title": "Perfekt für das Treppengeländer",
+          "text": "Sehen super aus an unserem Treppengeländer. Dazwischen noch eine Lichterkette und es leuchtet abends wunderschön zwischen den orangenen und roten Blättern 🤭",
+          "rating": 5.0,
+          "date": "March 11, 2026",
+          "author": "Jenny",
+          "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SX110_.png",
+          "verified_purchase": true,
+          "product": {
+            "model": "Maple Leaves Garland"
+          },
+          "country": {
+            "code": "DE",
+            "name": "Germany"
+          },
+          "language": {
+            "code": "de",
+            "name": "German (Germany)"
+          }
+        },
+        {
+          "position": 5,
+          "title": "Great",
+          "text": "GreT value",
+          "rating": 5.0,
+          "date": "November 3, 2025",
+          "author": "Terence Hudson",
+          "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/208f145a-e0fc-4aa8-b868-e2247d80f0aa._CR0%2C0%2C1944%2C1944_SX460_SX110_.jpg",
+          "verified_purchase": true,
+          "product": {
+            "model": "00-QCFYTT-JS"
+          },
+          "country": {
+            "code": "GB",
+            "name": "United Kingdom"
+          },
+          "language": {
+            "code": "en",
+            "name": "English (United Kingdom)"
+          }
+        }
+      ]
+    }
+  }
+}

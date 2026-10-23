@@ -1,0 +1,92 @@
+{
+  "category": "Back to school desk and lunch accessories",
+  "market": "US",
+  "marketplace": "amazon.com",
+  "language": "en_US",
+  "years": [
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "months": [
+    7,
+    8,
+    9
+  ],
+  "as_of_date": "2026-10-22",
+  "products_per_family": 2,
+  "top_n": 5,
+  "max_mobile_review_requests": 4,
+  "max_serpapi_requests": 56,
+  "max_tavily_requests": 4,
+  "min_positive_week_points_per_period": 3,
+  "min_completed_years_for_timing": 2,
+  "ramp_up_profile_threshold_pct": 40,
+  "niches": [
+    {
+      "id": "topic",
+      "name": "School accessories",
+      "name_vi": "School accessories",
+      "discovery_query": "Back to school desk and lunch accessories School accessories USA products reviews"
+    }
+  ],
+  "families": [
+    {
+      "id": "group_1",
+      "niche_id": "topic",
+      "name": "school pencil case",
+      "name_vi": "school pencil case",
+      "keyword": "school pencil case",
+      "amazon_query": "school pencil case",
+      "required_patterns": [
+        "school",
+        "pencil",
+        "case"
+      ],
+      "idea_vi": "Đối chiếu quy cách, giá, đóng gói và review của nhóm school pencil case trước khi chọn mẫu thử."
+    },
+    {
+      "id": "group_2",
+      "niche_id": "topic",
+      "name": "kids lunch box",
+      "name_vi": "kids lunch box",
+      "keyword": "kids lunch box",
+      "amazon_query": "kids lunch box",
+      "required_patterns": [
+        "kids",
+        "lunch",
+        "box"
+      ],
+      "idea_vi": "Đối chiếu quy cách, giá, đóng gói và review của nhóm kids lunch box trước khi chọn mẫu thử."
+    },
+    {
+      "id": "group_3",
+      "niche_id": "topic",
+      "name": "desk organizer",
+      "name_vi": "desk organizer",
+      "keyword": "desk organizer",
+      "amazon_query": "desk organizer",
+      "required_patterns": [
+        "desk",
+        "organizer"
+      ],
+      "idea_vi": "Đối chiếu quy cách, giá, đóng gói và review của nhóm desk organizer trước khi chọn mẫu thử."
+    },
+    {
+      "id": "group_4",
+      "niche_id": "topic",
+      "name": "school water bottle",
+      "name_vi": "school water bottle",
+      "keyword": "school water bottle",
+      "amazon_query": "school water bottle",
+      "required_patterns": [
+        "school",
+        "water",
+        "bottle"
+      ],
+      "idea_vi": "Đối chiếu quy cách, giá, đóng gói và review của nhóm school water bottle trước khi chọn mẫu thử."
+    }
+  ],
+  "schema_version": 4
+}

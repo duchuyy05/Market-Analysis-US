@@ -1,0 +1,917 @@
+{
+  "provider": "serpapi",
+  "endpoint": "https://serpapi.com/search.json",
+  "parameters": {
+    "engine": "amazon_product",
+    "asin": "B0FCYCBV47",
+    "amazon_domain": "amazon.com",
+    "language": "en_US",
+    "shipping_location": "US",
+    "device": "mobile",
+    "output": "json"
+  },
+  "fetched_at_utc": "2026-10-22T16:12:59.156864+00:00",
+  "raw_file": "supplements/supplement-2026-10-22T1610589019850000-ed08e5/raw/serpapi-261bd9a968bc486e0558.json",
+  "response": {
+    "search_metadata": {
+      "id": "6ada360b6c6254a470c155f9",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/q_7Iw8SxpQ36dZcc1qIMVopv9pRCIFpy9OdLKCyygws/6ada360b6c6254a470c155f9.json",
+      "markdown_endpoint": "https://serpapi.com/searches/q_7Iw8SxpQ36dZcc1qIMVopv9pRCIFpy9OdLKCyygws/6ada360b6c6254a470c155f9.md",
+      "created_at": "2026-10-22 16:12:59 UTC",
+      "processed_at": "2026-10-22 16:12:59 UTC",
+      "amazon_product_url": "https://www.amazon.com/dp/B0FCYCBV47/?language=en_US",
+      "raw_html_file": "https://serpapi.com/searches/q_7Iw8SxpQ36dZcc1qIMVopv9pRCIFpy9OdLKCyygws/6ada360b6c6254a470c155f9.html",
+      "total_time_taken": 9.6
+    },
+    "search_parameters": {
+      "engine": "amazon_product",
+      "asin": "B0FCYCBV47",
+      "amazon_domain": "amazon.com",
+      "language": "en_US",
+      "device": "mobile",
+      "shipping_location": "US"
+    },
+    "product_results": {
+      "categories": [
+        {
+          "position": 1,
+          "name": "Home & Kitchen",
+          "link": "https://www.amazon.com/home-garden-kitchen-furniture-bedding/b/ref=m_dp_bc_1?ie=UTF8&node=1055398",
+          "node": "1055398",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=mobile&engine=amazon&language=en_US&node=1055398&shipping_location=US"
+        },
+        {
+          "position": 2,
+          "name": "Kitchen & Dining",
+          "link": "https://www.amazon.com/kitchen-dining/b/ref=m_dp_bc_2?ie=UTF8&node=284507",
+          "node": "284507",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=mobile&engine=amazon&language=en_US&node=284507&shipping_location=US"
+        },
+        {
+          "position": 3,
+          "name": "Dining & Entertaining",
+          "link": "https://www.amazon.com/dining-entertaining/b/ref=m_dp_bc_3?ie=UTF8&node=13162311",
+          "node": "13162311",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=mobile&engine=amazon&language=en_US&node=13162311&shipping_location=US"
+        },
+        {
+          "position": 4,
+          "name": "Glassware & Drinkware",
+          "link": "https://www.amazon.com/glassware/b/ref=m_dp_bc_4?ie=UTF8&node=13217501",
+          "node": "13217501",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=mobile&engine=amazon&language=en_US&node=13217501&shipping_location=US"
+        },
+        {
+          "position": 5,
+          "name": "Tumblers & Water Glasses",
+          "link": "https://www.amazon.com/Tumblers/b/ref=m_dp_bc_5?ie=UTF8&node=13218451",
+          "node": "13218451",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=mobile&engine=amazon&language=en_US&node=13218451&shipping_location=US"
+        }
+      ],
+      "asin": "B0FCYCBV47",
+      "title": "Boo Basket Stuffers for Women, Halloween Gifts for Women Cute Halloween Boo Basket for Teens Girls Her Sister Friend Adults With Spooky Glass Cups",
+      "link": "https://www.amazon.com/Basket-Stuffers-Women-Halloween-Gifts/dp/B0FCYCBV47/",
+      "link_clean": "https://www.amazon.com/dp/B0FCYCBV47/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0FCYCBV47&device=mobile&engine=amazon_product&language=en_US&shipping_location=US",
+      "badges": [
+        "Amazon's Choice"
+      ],
+      "variants": [
+        {
+          "title": "color_name",
+          "items": [
+            {
+              "position": 1,
+              "asin": "B0FJRZ2QTT",
+              "name": "Orange",
+              "image": "https://m.media-amazon.com/images/I/51rttybPwtL._QL92_SH45_SS72_.jpg",
+              "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0FJRZ2QTT&device=mobile&engine=amazon_product&language=en_US&shipping_location=US"
+            },
+            {
+              "position": 2,
+              "asin": "B0FCYCBV47",
+              "name": "Purple",
+              "image": "https://m.media-amazon.com/images/I/51dNGDNV4RL._QL92_SH45_SS72_.jpg",
+              "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0FCYCBV47&device=mobile&engine=amazon_product&language=en_US&shipping_location=US"
+            }
+          ]
+        }
+      ],
+      "brand": ".premium-logoByLine-brand-logo { max-height: 36px; height: auto; max-width: min(154px, 100%); min-width: 4px; width: auto; object-fit: contain; } Visit the Store, MHSMHL MHSMHL Visit the Store",
+      "thumbnail": "https://m.media-amazon.com/images/I/71+E9VJxcdL._AC_UF894,1000_QL80_FMwebp_.jpg",
+      "thumbnails": [
+        "https://m.media-amazon.com/images/I/71+E9VJxcdL._AC_UF894,1000_QL80_FMwebp_.jpg",
+        "https://m.media-amazon.com/images/I/71NjioFJHKL._AC_UF894,1000_QL80_FMwebp_.jpg",
+        "https://m.media-amazon.com/images/I/71BPrNJqVAL._AC_UF894,1000_QL80_FMwebp_.jpg",
+        "https://m.media-amazon.com/images/I/61c-ToGGUTL._AC_UF894,1000_QL80_FMwebp_.jpg",
+        "https://m.media-amazon.com/images/I/71t-A-76kgL._AC_UF894,1000_QL80_FMwebp_.jpg",
+        "https://m.media-amazon.com/images/I/71DAgURvfuL._AC_UF894,1000_QL80_FMwebp_.jpg"
+      ],
+      "rating": 4.6,
+      "reviews": 137,
+      "bought_last_month": "3K+ bought in past month",
+      "price": "$14.99",
+      "extracted_price": 14.99,
+      "delivery": [
+        "FREE delivery October 27 - 30 on orders shipped by Amazon over $35",
+        "Or fastest delivery October 27 - 29",
+        "Arrives before Halloween"
+      ],
+      "stock": "Only 7 left in stock - order soon."
+    },
+    "purchase_options": {
+      "single_offer": {
+        "price": "$14.99",
+        "extracted_price": 14.99,
+        "delivery": [
+          "FREE delivery October 27 - 30 on orders shipped by Amazon over $35",
+          "Or fastest delivery October 27 - 29",
+          "Arrives before Halloween"
+        ],
+        "stock": "Only 7 left in stock - order soon.",
+        "features": {
+          "ships_from": {
+            "text": "Amazon",
+            "details": {
+              "heading": "Ships from",
+              "content": "Amazon"
+            }
+          },
+          "sold_by": {
+            "text": "GIFT SHOP FOR WOMEN",
+            "details": {
+              "heading": "Sold by",
+              "content": "GIFT SHOP FOR WOMEN"
+            },
+            "link": {
+              "text": "GIFT SHOP FOR WOMEN",
+              "link": "https://www.amazon.com/gp/aw/sp.html/ref=dp_merchant_link?ie=UTF8&seller=A33474TPWK51MJ&asin=B0FCYCBV47&ref_=dp_merchant_link&isAmazonFulfilled=1"
+            }
+          },
+          "returns": {
+            "text": "FREE 30-day refund/replacement",
+            "details": {
+              "heading": "FREE 30-day refund/replacement"
+            },
+            "link": {
+              "text": "See exceptions",
+              "link": "https://www.amazon.com/gp/help/customer/display.html/?nodeId=GKQNFKFK5CF3C54B"
+            }
+          },
+          "payment": {
+            "text": "Secure transaction",
+            "details": {
+              "heading": "Your transaction is secure",
+              "content": "We work hard to protect your security and privacy. Our payment security system encrypts your information during transmission. We don’t share your credit card details with third-party sellers, and we don’t sell your information to others. Learn more"
+            },
+            "link": {
+              "text": "Learn more",
+              "link": "https://www.amazon.com/gp/help/customer/display.html?nodeId=201909010"
+            }
+          }
+        }
+      }
+    },
+    "item_specifications": {
+      "brand": "MHSMHL",
+      "material": "Borosilicate Glass",
+      "color": "Purple",
+      "capacity": "16 fluid ounces",
+      "special_feature": "Lightweight",
+      "style": "Modern"
+    },
+    "about_item": [
+      "Boo Basket Gifts: This thoughtfully curated Halloween basket is the perfect seasonal surprise. Packed with six festive goodies, it makes a charming boo basket and a delightful choice for those looking for cozy and fun Halloween gifts for women. Each item is selected to spark joy and bring spooky cheer to your Halloween celebration."
+    ],
+    "bought_together": [
+      {
+        "position": 1,
+        "title": "Boo Basket Stuffers for Women, Halloween Gifts for Women | Cute Halloween Boo Basket for Teens Girls Her Sister Friend Adults With Spooky Glass Cups",
+        "link": "https://www.amazon.com/product-reviews/B0FCYCBV47/ref=sspa_mw_detail_sbt_m_sccl_1_3_cr/141-6428020-9402541?pd_rd_w=2NhHi&content-id=amzn1.sym.aa600fb5-43ac-4070-a10d-d536cc783808&pf_rd_p=aa600fb5-43ac-4070-a10d-d536cc783808&pf_rd_r=W448J5PBB2NRRR2VXQ8S&pd_rd_wg=JfUOh&pd_rd_r=5ab914d7-1cde-48ae-ac85-8d45990dad63&pd_rd_i=B0FCYCBV47",
+        "asin": "B0FCYCBV47",
+        "link_clean": "https://www.amazon.com/product-reviews/B0FCYCBV47/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0FCYCBV47&device=mobile&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/71+E9VJxcdL._AC_UL70_SR70,70_.jpg",
+        "rating": 4.6,
+        "reviews": 137,
+        "price": "$14.99",
+        "extracted_price": 14.99
+      },
+      {
+        "position": 2,
+        "title": "Boo Basket Stuffers for Women, 9Pcs Spooky Halloween Gifts Basket | 18OZ Tumbler Glass Cups with Lids and Straws, Cute Halloween Cherry Mug Gifts for Women Her Girls Sister Friend",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo2NjI1ODU2OTgwMTkxMDQ2OjE3OTI2ODU1ODc6c3BfcGhvbmVfZGV0YWlsX3RoZW1hdGljOjMwMTU1MTMwMzE5ODEwMjo6MDo6&url=%2FMason-Life-Halloween-Stuffers-Pumpkin%2Fdp%2FB0FDGNX9J3%3Fpsc%3D1%26pd_rd_w%3D2NhHi%26content-id%3Damzn1.sym.aa600fb5-43ac-4070-a10d-d536cc783808%26pf_rd_p%3Daa600fb5-43ac-4070-a10d-d536cc783808%26pf_rd_r%3DW448J5PBB2NRRR2VXQ8S%26pd_rd_wg%3DJfUOh%26pd_rd_r%3D5ab914d7-1cde-48ae-ac85-8d45990dad63%26ref_%3Dsspa_mw_detail_sbt_img_0%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9waG9uZV9kZXRhaWxfdGhlbWF0aWM%3D",
+        "asin": "B0FDGNX9J3",
+        "link_clean": "https://www.amazon.com/dp/B0FDGNX9J3/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0FDGNX9J3&device=mobile&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/81V2SrCIlgL._AC_UL70_SR70,70_.jpg",
+        "rating": 4.5,
+        "reviews": 62,
+        "price": "$17.89",
+        "extracted_price": 17.89,
+        "prime": true
+      },
+      {
+        "position": 3,
+        "title": "Halloween Boo Basket Pumpkin Cat Cube Storage Organizer Bins Trick or Treat Bags Spooky Basket Stuffers for Boyfriend Dual Handles for Closet Shelf 10x14x8 Inch",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo2NjI1ODU2OTgwMTkxMDQ2OjE3OTI2ODU1ODc6c3BfcGhvbmVfZGV0YWlsX3RoZW1hdGljOjMwMDA0ODc5MTQ1MjgwMjo6MTo6&url=%2FAndemie-Organizer-Stuffers-Boyfriend-Handles%2Fdp%2FB0CDFNT2ZY%3Fpsc%3D1%26pd_rd_w%3D2NhHi%26content-id%3Damzn1.sym.aa600fb5-43ac-4070-a10d-d536cc783808%26pf_rd_p%3Daa600fb5-43ac-4070-a10d-d536cc783808%26pf_rd_r%3DW448J5PBB2NRRR2VXQ8S%26pd_rd_wg%3DJfUOh%26pd_rd_r%3D5ab914d7-1cde-48ae-ac85-8d45990dad63%26ref_%3Dsspa_mw_detail_sbt_img_1%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9waG9uZV9kZXRhaWxfdGhlbWF0aWM%3D",
+        "asin": "B0CDFNT2ZY",
+        "link_clean": "https://www.amazon.com/dp/B0CDFNT2ZY/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0CDFNT2ZY&device=mobile&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/81Y5U+r5PgL._AC_UL70_SR70,70_.jpg",
+        "rating": 4.7,
+        "reviews": 117,
+        "price": "$15.99",
+        "extracted_price": 15.99,
+        "old_price": "$22.98",
+        "extracted_old_price": 22.98,
+        "prime": true
+      }
+    ],
+    "related_products": [
+      {
+        "position": 1,
+        "asin": "B0FBJZDR1P",
+        "title": "Pink Boo Basket Stuffers for Women Teen Girls, Girly Halloween Gifts | Pink Halloween Blanket and Mug Scented Candles Halloween Socks Self Care Pacakage for College Girls Wife Aunt Girlfriend",
+        "link": "https://www.amazon.com/dp/B0FBJZDR1P/ref=sspa_mw_detail_0?ie=UTF8&psc=1&spc=MToyNTYxNDc5MTYxNzYyMDM6MTc5MjY4NTU4NzpzcF9waG9uZV9kZXRhaWw6MzAxNTg0MDAxMzQ0MTAyOjo6Og&sp_csd=d2lkZ2V0TmFtZT1zcF9waG9uZV9kZXRhaWw",
+        "link_clean": "https://www.amazon.com/dp/B0FBJZDR1P/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0FBJZDR1P&device=mobile&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "thumbnail": "https://m.media-amazon.com/images/I/71i1m+ZG62L._AC_UX450_UY450_SR450,450_.jpg",
+        "rating": 4.9,
+        "reviews": 17,
+        "price": "$36.99",
+        "extracted_price": 36.99,
+        "price_unit": "$4.11 / count",
+        "extracted_price_unit": 4.11
+      },
+      {
+        "position": 2,
+        "asin": "B0H5WPCJ5Q",
+        "title": "Pink Boo Basket Stuffers for Teen Girls Women, Halloween Spooky Gift Basket | Pink Halloween Boo Baskets Items for Teens Girls Her, Cute Ghost Gifts for Sister Friends Coworker, Spooky Gifts for Women",
+        "link": "https://www.amazon.com/dp/B0H5WPCJ5Q/ref=sspa_mw_detail_1?ie=UTF8&psc=1&spc=MToyNTYxNDc5MTYxNzYyMDM6MTc5MjY4NTU4NzpzcF9waG9uZV9kZXRhaWw6MzAxNTk1MTQ1MjYyNTAyOjo6Og&sp_csd=d2lkZ2V0TmFtZT1zcF9waG9uZV9kZXRhaWw",
+        "link_clean": "https://www.amazon.com/dp/B0H5WPCJ5Q/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0H5WPCJ5Q&device=mobile&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "badges": [
+          "#1 Best Seller"
+        ],
+        "thumbnail": "https://m.media-amazon.com/images/I/81YpUxsIz4L._AC_UX450_UY450_SR450,450_.jpg",
+        "rating": 5.0,
+        "reviews": 1,
+        "discount": "-13%",
+        "price": "$20.99",
+        "extracted_price": 20.99,
+        "old_price": "null"
+      },
+      {
+        "position": 3,
+        "asin": "B0H5BK8FM7",
+        "title": "Boo Basket Stuffers for Women, 10-Piece Halloween Basket Gift | With 16 oz Ghost Glass Cup, Crochet Ghost, Lavender Spa Set, Socks &amp; Eye Mask, Spooky Gifts",
+        "link": "https://www.amazon.com/dp/B0H5BK8FM7/ref=sspa_mw_detail_2?ie=UTF8&psc=1&spc=MToyNTYxNDc5MTYxNzYyMDM6MTc5MjY4NTU4NzpzcF9waG9uZV9kZXRhaWw6MzAxNTM0MzY1MTMyMjAyOjo6Og&sp_csd=d2lkZ2V0TmFtZT1zcF9waG9uZV9kZXRhaWw",
+        "link_clean": "https://www.amazon.com/dp/B0H5BK8FM7/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0H5BK8FM7&device=mobile&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "thumbnail": "https://m.media-amazon.com/images/I/813SdCQK07L._AC_UX450_UY450_SR450,450_.jpg",
+        "rating": 4.2,
+        "reviews": 8,
+        "discount": "-29%",
+        "price": "$16.99",
+        "extracted_price": 16.99,
+        "old_price": "null"
+      },
+      {
+        "position": 4,
+        "asin": "B0DCN225F9",
+        "title": "Birthday and Get Well Gifts for Women - Relaxing Spa Care Package | with Luxury Flannel Blanket, Light-up Rose Flower - Unique Self Care Gift Basket for Mom, Wife, Friends",
+        "link": "https://www.amazon.com/dp/B0DCN225F9/ref=sspa_mw_detail_3?ie=UTF8&psc=1&spc=MToyNTYxNDc5MTYxNzYyMDM6MTc5MjY4NTU4NzpzcF9waG9uZV9kZXRhaWw6MzAxNDkxMzY1NzU2MDAyOjo6Og&sp_csd=d2lkZ2V0TmFtZT1zcF9waG9uZV9kZXRhaWw",
+        "link_clean": "https://www.amazon.com/dp/B0DCN225F9/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0DCN225F9&device=mobile&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "badges": [
+          "Limited time deal"
+        ],
+        "thumbnail": "https://m.media-amazon.com/images/I/71evkCK1M-L._AC_UX450_UY450_SR450,450_.jpg",
+        "rating": 4.8,
+        "reviews": 970,
+        "discount": "-15%",
+        "price": "$33.99",
+        "extracted_price": 33.99,
+        "price_unit": "$33.99 / count",
+        "extracted_price_unit": 33.99,
+        "old_price": "null"
+      },
+      {
+        "position": 5,
+        "asin": "B0H5WGZ7CL",
+        "title": "Pink Boo Basket Stuffers for Teens Girl Women, Halloween Spa Gift Basket | Pink Halloween Gifts Set, Cute Ghost Gifts for Teen Girls, Spooky Gift Baskets for Women Her, Boo Baskets Ideas, Spa Sets",
+        "link": "https://www.amazon.com/dp/B0H5WGZ7CL/ref=sspa_mw_detail_4?ie=UTF8&psc=1&spc=MToyNTYxNDc5MTYxNzYyMDM6MTc5MjY4NTU4NzpzcF9waG9uZV9kZXRhaWw6MzAxNTkzNTI2NjIxODAyOjo6Og&sp_csd=d2lkZ2V0TmFtZT1zcF9waG9uZV9kZXRhaWw",
+        "link_clean": "https://www.amazon.com/dp/B0H5WGZ7CL/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0H5WGZ7CL&device=mobile&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "thumbnail": "https://m.media-amazon.com/images/I/81BeKHkQKoL._AC_UX450_UY450_SR450,450_.jpg",
+        "rating": 5.0,
+        "reviews": 1,
+        "discount": "-8%",
+        "price": "$22.99",
+        "extracted_price": 22.99,
+        "old_price": "null"
+      },
+      {
+        "position": 6,
+        "asin": "B0H68ZVLMB",
+        "title": "Purple Boo Basket Ideas, Halloween Boo Basket Stuffers for Women Teen Girls | Halloween Spooky Gift Baskets for Women Teen Girls Her, Cute Ghost Gifts, Purple Spooky Gift Baskets Stuffers for Sister Mom",
+        "link": "https://www.amazon.com/dp/B0H68ZVLMB/ref=sspa_mw_detail_5?ie=UTF8&psc=1&spc=MToyNTYxNDc5MTYxNzYyMDM6MTc5MjY4NTU4NzpzcF9waG9uZV9kZXRhaWw6MzAxNjAwMTEzMDQ0NTAyOjo6Og&sp_csd=d2lkZ2V0TmFtZT1zcF9waG9uZV9kZXRhaWw",
+        "link_clean": "https://www.amazon.com/dp/B0H68ZVLMB/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0H68ZVLMB&device=mobile&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "thumbnail": "https://m.media-amazon.com/images/I/81jHkc6uX+L._AC_UX450_UY450_SR450,450_.jpg",
+        "price": "$20.99",
+        "extracted_price": 20.99
+      },
+      {
+        "position": 7,
+        "asin": "B0H5WKTW6J",
+        "title": "13pcs Boo Basket Stuffers With Skeleton Accessories For Women | Spooky Halloween Basket Gift, Skeleton Boo Basket Gifts Set Ideas For Her, Black Gothic Boo Basket Stuffer Gift Ideas",
+        "link": "https://www.amazon.com/dp/B0H5WKTW6J/ref=sspa_mw_detail_6?ie=UTF8&psc=1&spc=MToyNTYxNDc5MTYxNzYyMDM6MTc5MjY4NTU4NzpzcF9waG9uZV9kZXRhaWw6MzAxNTg5NTY2NTcxODAyOjo6Og&sp_csd=d2lkZ2V0TmFtZT1zcF9waG9uZV9kZXRhaWw",
+        "link_clean": "https://www.amazon.com/dp/B0H5WKTW6J/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0H5WKTW6J&device=mobile&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "thumbnail": "https://m.media-amazon.com/images/I/81+8ffT-YTL._AC_UX450_UY450_SR450,450_.jpg",
+        "rating": 5.0,
+        "reviews": 2,
+        "price": "$23.99",
+        "extracted_price": 23.99
+      }
+    ],
+    "related_product_sections": [
+      {
+        "title": "You might also like",
+        "items": [
+          {
+            "position": 1,
+            "asin": "B0FBJZDR1P",
+            "title": "Pink Boo Basket Stuffers for Women Teen Girls, Girly Halloween Gifts | Pink Halloween Blanket and Mug Scented Candles Halloween Socks Self Care Pacakage for College Girls Wife Aunt Girlfriend",
+            "link": "https://www.amazon.com/dp/B0FBJZDR1P/ref=sspa_mw_detail_0?ie=UTF8&psc=1&spc=MToyNTYxNDc5MTYxNzYyMDM6MTc5MjY4NTU4NzpzcF9waG9uZV9kZXRhaWw6MzAxNTg0MDAxMzQ0MTAyOjo6Og&sp_csd=d2lkZ2V0TmFtZT1zcF9waG9uZV9kZXRhaWw",
+            "link_clean": "https://www.amazon.com/dp/B0FBJZDR1P/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0FBJZDR1P&device=mobile&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "thumbnail": "https://m.media-amazon.com/images/I/71i1m+ZG62L._AC_UX450_UY450_SR450,450_.jpg",
+            "rating": 4.9,
+            "reviews": 17,
+            "price": "$36.99",
+            "extracted_price": 36.99,
+            "price_unit": "$4.11 / count",
+            "extracted_price_unit": 4.11
+          },
+          {
+            "position": 2,
+            "asin": "B0H5WPCJ5Q",
+            "title": "Pink Boo Basket Stuffers for Teen Girls Women, Halloween Spooky Gift Basket | Pink Halloween Boo Baskets Items for Teens Girls Her, Cute Ghost Gifts for Sister Friends Coworker, Spooky Gifts for Women",
+            "link": "https://www.amazon.com/dp/B0H5WPCJ5Q/ref=sspa_mw_detail_1?ie=UTF8&psc=1&spc=MToyNTYxNDc5MTYxNzYyMDM6MTc5MjY4NTU4NzpzcF9waG9uZV9kZXRhaWw6MzAxNTk1MTQ1MjYyNTAyOjo6Og&sp_csd=d2lkZ2V0TmFtZT1zcF9waG9uZV9kZXRhaWw",
+            "link_clean": "https://www.amazon.com/dp/B0H5WPCJ5Q/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0H5WPCJ5Q&device=mobile&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "badges": [
+              "#1 Best Seller"
+            ],
+            "thumbnail": "https://m.media-amazon.com/images/I/81YpUxsIz4L._AC_UX450_UY450_SR450,450_.jpg",
+            "rating": 5.0,
+            "reviews": 1,
+            "discount": "-13%",
+            "price": "$20.99",
+            "extracted_price": 20.99,
+            "old_price": "null"
+          },
+          {
+            "position": 3,
+            "asin": "B0H5BK8FM7",
+            "title": "Boo Basket Stuffers for Women, 10-Piece Halloween Basket Gift | With 16 oz Ghost Glass Cup, Crochet Ghost, Lavender Spa Set, Socks &amp; Eye Mask, Spooky Gifts",
+            "link": "https://www.amazon.com/dp/B0H5BK8FM7/ref=sspa_mw_detail_2?ie=UTF8&psc=1&spc=MToyNTYxNDc5MTYxNzYyMDM6MTc5MjY4NTU4NzpzcF9waG9uZV9kZXRhaWw6MzAxNTM0MzY1MTMyMjAyOjo6Og&sp_csd=d2lkZ2V0TmFtZT1zcF9waG9uZV9kZXRhaWw",
+            "link_clean": "https://www.amazon.com/dp/B0H5BK8FM7/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0H5BK8FM7&device=mobile&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "thumbnail": "https://m.media-amazon.com/images/I/813SdCQK07L._AC_UX450_UY450_SR450,450_.jpg",
+            "rating": 4.2,
+            "reviews": 8,
+            "discount": "-29%",
+            "price": "$16.99",
+            "extracted_price": 16.99,
+            "old_price": "null"
+          },
+          {
+            "position": 4,
+            "asin": "B0DCN225F9",
+            "title": "Birthday and Get Well Gifts for Women - Relaxing Spa Care Package | with Luxury Flannel Blanket, Light-up Rose Flower - Unique Self Care Gift Basket for Mom, Wife, Friends",
+            "link": "https://www.amazon.com/dp/B0DCN225F9/ref=sspa_mw_detail_3?ie=UTF8&psc=1&spc=MToyNTYxNDc5MTYxNzYyMDM6MTc5MjY4NTU4NzpzcF9waG9uZV9kZXRhaWw6MzAxNDkxMzY1NzU2MDAyOjo6Og&sp_csd=d2lkZ2V0TmFtZT1zcF9waG9uZV9kZXRhaWw",
+            "link_clean": "https://www.amazon.com/dp/B0DCN225F9/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0DCN225F9&device=mobile&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "badges": [
+              "Limited time deal"
+            ],
+            "thumbnail": "https://m.media-amazon.com/images/I/71evkCK1M-L._AC_UX450_UY450_SR450,450_.jpg",
+            "rating": 4.8,
+            "reviews": 970,
+            "discount": "-15%",
+            "price": "$33.99",
+            "extracted_price": 33.99,
+            "price_unit": "$33.99 / count",
+            "extracted_price_unit": 33.99,
+            "old_price": "null"
+          },
+          {
+            "position": 5,
+            "asin": "B0H5WGZ7CL",
+            "title": "Pink Boo Basket Stuffers for Teens Girl Women, Halloween Spa Gift Basket | Pink Halloween Gifts Set, Cute Ghost Gifts for Teen Girls, Spooky Gift Baskets for Women Her, Boo Baskets Ideas, Spa Sets",
+            "link": "https://www.amazon.com/dp/B0H5WGZ7CL/ref=sspa_mw_detail_4?ie=UTF8&psc=1&spc=MToyNTYxNDc5MTYxNzYyMDM6MTc5MjY4NTU4NzpzcF9waG9uZV9kZXRhaWw6MzAxNTkzNTI2NjIxODAyOjo6Og&sp_csd=d2lkZ2V0TmFtZT1zcF9waG9uZV9kZXRhaWw",
+            "link_clean": "https://www.amazon.com/dp/B0H5WGZ7CL/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0H5WGZ7CL&device=mobile&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "thumbnail": "https://m.media-amazon.com/images/I/81BeKHkQKoL._AC_UX450_UY450_SR450,450_.jpg",
+            "rating": 5.0,
+            "reviews": 1,
+            "discount": "-8%",
+            "price": "$22.99",
+            "extracted_price": 22.99,
+            "old_price": "null"
+          },
+          {
+            "position": 6,
+            "asin": "B0H68ZVLMB",
+            "title": "Purple Boo Basket Ideas, Halloween Boo Basket Stuffers for Women Teen Girls | Halloween Spooky Gift Baskets for Women Teen Girls Her, Cute Ghost Gifts, Purple Spooky Gift Baskets Stuffers for Sister Mom",
+            "link": "https://www.amazon.com/dp/B0H68ZVLMB/ref=sspa_mw_detail_5?ie=UTF8&psc=1&spc=MToyNTYxNDc5MTYxNzYyMDM6MTc5MjY4NTU4NzpzcF9waG9uZV9kZXRhaWw6MzAxNjAwMTEzMDQ0NTAyOjo6Og&sp_csd=d2lkZ2V0TmFtZT1zcF9waG9uZV9kZXRhaWw",
+            "link_clean": "https://www.amazon.com/dp/B0H68ZVLMB/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0H68ZVLMB&device=mobile&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "thumbnail": "https://m.media-amazon.com/images/I/81jHkc6uX+L._AC_UX450_UY450_SR450,450_.jpg",
+            "price": "$20.99",
+            "extracted_price": 20.99
+          },
+          {
+            "position": 7,
+            "asin": "B0H5WKTW6J",
+            "title": "13pcs Boo Basket Stuffers With Skeleton Accessories For Women | Spooky Halloween Basket Gift, Skeleton Boo Basket Gifts Set Ideas For Her, Black Gothic Boo Basket Stuffer Gift Ideas",
+            "link": "https://www.amazon.com/dp/B0H5WKTW6J/ref=sspa_mw_detail_6?ie=UTF8&psc=1&spc=MToyNTYxNDc5MTYxNzYyMDM6MTc5MjY4NTU4NzpzcF9waG9uZV9kZXRhaWw6MzAxNTg5NTY2NTcxODAyOjo6Og&sp_csd=d2lkZ2V0TmFtZT1zcF9waG9uZV9kZXRhaWw",
+            "link_clean": "https://www.amazon.com/dp/B0H5WKTW6J/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0H5WKTW6J&device=mobile&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "thumbnail": "https://m.media-amazon.com/images/I/81+8ffT-YTL._AC_UX450_UY450_SR450,450_.jpg",
+            "rating": 5.0,
+            "reviews": 2,
+            "price": "$23.99",
+            "extracted_price": 23.99
+          }
+        ]
+      }
+    ],
+    "videos": [
+      {
+        "position": 1,
+        "title": "unboxing fall and halloween gifts",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/2f0c1c98-32fc-4a55-89c4-9bbea8b6652d/videopreview.jobtemplate.mp4.default.mp4",
+        "thumbnail": "https://m.media-amazon.com/images/I/61GEFyNwBaL.jpg",
+        "duration": "0:58",
+        "vendor": "sol studio ",
+        "vendor_thumbnail": "https://m.media-amazon.com/images/I/71UBs4J1MEL._CR0,0,1122,1122_._FMjpg_._SL34_.jpg",
+        "date": "Sep 2, 2026"
+      },
+      {
+        "position": 2,
+        "title": "these gifts will rock!",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/6fffc72c-86f7-4ea6-832a-5256d751235c/videopreview.jobtemplate.mp4.default.mp4",
+        "thumbnail": "https://m.media-amazon.com/images/I/51Y5wUh2FFL.jpg",
+        "duration": "0:39",
+        "vendor": "sol studio ",
+        "vendor_thumbnail": "https://m.media-amazon.com/images/I/71UBs4J1MEL._CR0,0,1122,1122_._FMjpg_._SL34_.jpg",
+        "date": "Sep 2, 2026"
+      },
+      {
+        "position": 3,
+        "title": "No tricks just treats in this Halloween giftbox!",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/dc41bbe2-423c-4e52-92d9-5f405bd43b68/videopreview.jobtemplate.mp4.default.mp4",
+        "thumbnail": "https://m.media-amazon.com/images/I/61tu8TwhxQL.jpg",
+        "duration": "2:53",
+        "vendor": "Alishia Brown",
+        "vendor_thumbnail": "https://m.media-amazon.com/images/I/B1t9tBg4+6L._CR0,0,2544,2544_._FMjpg_._SL34_.jpg",
+        "date": "Sep 15, 2026"
+      },
+      {
+        "position": 4,
+        "title": "spooky halloween gifts for everyone",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/05740989-dcdc-4123-b2f5-586c62a899ef/videopreview.jobtemplate.mp4.default.mp4",
+        "thumbnail": "https://m.media-amazon.com/images/I/71ITWm81WEL.jpg",
+        "duration": "0:38",
+        "vendor": "sol studio ",
+        "vendor_thumbnail": "https://m.media-amazon.com/images/I/71UBs4J1MEL._CR0,0,1122,1122_._FMjpg_._SL34_.jpg",
+        "date": "Sep 2, 2026"
+      },
+      {
+        "position": 5,
+        "title": "The size is okay-ish",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/56d978cb-11e3-4559-8ea9-043ca8e40699/videopreview.jobtemplate.mp4.default.mp4",
+        "thumbnail": "https://m.media-amazon.com/images/I/31aaMVRGpbL.jpg",
+        "duration": "0:54",
+        "vendor": "Eric",
+        "vendor_thumbnail": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SL34_.png",
+        "date": "Sep 27, 2026"
+      }
+    ],
+    "product_description": [
+      {
+        "position": 1,
+        "title": "boo basket, halloween basket, boo basket stuffers for women, halloween gifts for women",
+        "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/f08a2bdc-fc8d-4522-a622-13099e1c53a6.__CR0,0,800,600_PT0_SX600_V1___.png"
+      },
+      {
+        "position": 2,
+        "title": "boo basket, halloween basket, boo basket stuffers for women, halloween gifts for women",
+        "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/ffc66bd1-b5f7-4edd-a00a-f79333616580.__CR0,0,800,600_PT0_SX600_V1___.png"
+      },
+      {
+        "position": 3,
+        "title": "boo basket, halloween basket, boo basket stuffers for women, halloween gifts for women",
+        "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/55735a37-0d40-4e6e-af94-2939e5b8cb61.__CR0,0,800,600_PT0_SX600_V1___.png"
+      },
+      {
+        "position": 4,
+        "title": "boo basket, halloween basket, boo basket stuffers for women, halloween gifts for women",
+        "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/709c4919-4a00-44bf-8ca6-7042b268a17c.__CR0,0,800,600_PT0_SX600_V1___.png"
+      }
+    ],
+    "product_details": {
+      "brand_name": "MHSMHL",
+      "recommended_uses_for_product": "Home",
+      "included_components": "Message Card",
+      "specific_uses_for_product": "Hot Drinks",
+      "age_range_description": "women",
+      "manufacturer": "MHSMHL",
+      "set_name": "Halloween Boo Basket Essentials Set",
+      "model_number": "Halloween Gifts for Women",
+      "manufacturer_part_number": "BBG-001",
+      "best_sellers_rank": [
+        {
+          "text": "#3,895 in Kitchen & Dining (See Top 100 in Kitchen & Dining)",
+          "extracted_rank": 3895,
+          "link": "https://www.amazon.com/gp/bestsellers/kitchen/ref=pd_zg_ts_kitchen",
+          "link_text": "See Top 100 in Kitchen & Dining"
+        },
+        {
+          "text": "#35 in Tumblers & Water Glasses",
+          "extracted_rank": 35,
+          "link": "https://www.amazon.com/gp/bestsellers/kitchen/13218451/ref=pd_zg_hrsr_kitchen",
+          "link_text": "Tumblers & Water Glasses"
+        }
+      ],
+      "asin": "B0FCYCBV47",
+      "customer_reviews": "4.6 out of 5 stars 137Reviews",
+      "color": "Purple",
+      "product_style": "Modern",
+      "theme": "Halloween",
+      "shape": "Cylindrical",
+      "occasion": "Birthday, Boo Basket, Boo Basket Stuffers for Women, Halloween, halloween gifts for women",
+      "material_type": "Borosilicate Glass",
+      "product_care_instructions": "Hand Wash Only",
+      "reusability": "Reusable",
+      "capacity": "16 fluid ounces",
+      "unit_count": "1 Count",
+      "item_weight": "0.82 kg",
+      "item_dimensions_w_x_h": "8.5\"W x 3.5\"H",
+      "number_of_items": "1",
+      "size": "16 Ounces",
+      "other_special_features_of_the_product": "Lightweight"
+    },
+    "sponsored_brands": [
+      {
+        "position": 1,
+        "image": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/27c1c503-a49f-4722-b2e4-b9191e3caeb7._CR0,0,2400,1256_AC_SX414_CB1169409_QL70_.jpg",
+        "name": "RAEVAKI",
+        "brand_logo": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/75259faf-64d7-4739-a0ad-6b0aeb8bd3bb._CR0,0,1600,1600_AC_SX96_SY40_CB1169409_QL70_.jpeg",
+        "headline": "Personalized Gifts For Skull Lover",
+        "link": "https://aax-us-east-retail-direct.amazon.com/x/c/JDCp9KtwptkP0lnhHOt-QoUAAAGhZGM8rAEAAAH2AQBvbm9fdHhuX2JpZDYgICBvbm9fdHhuX2ltcDEgICC9xsUi/clv1c_ek-YBfHXFbbWzjK3YivOrRfcOWxCnjr_3RvOtZ_xiKMXL3MPLtlEYWrZvmh9hq38iqf3BeLIdrlb3qbnwpuV3ewUSxTvzIXCf8HnDmBF_cBxgxzF0DJZY2315ZlEx7P_zaMF_oemSmeo_Q39SEBIi_KTsN2ehGXKihTRDTS20ZbPualTv-myvJGnMTjdxW01StI-d4vKFwjeqc6xvzjNu6hQ3f6e5d--gt3wIbOcieqn-lbiw5NBdQMv6NuSkObvH0NBtHiyQhb7kKKR20Lmoqcae9doXTwJEgyGoMJlpAyio4-gkjz4-xg527GBf7WNAhJheoaEFv-7nJLIMicWCSMjwgeYmNnqu4obZHrg-eOh1UGpSR1zO9_uf5MvJdF6y3A0NIza75nrOuP3VN01GBjo90gkxHa97VPDcTVpHv78J9gcjHZQbgmofIYRF69piBKPsj1LLxl_WtkehIBtGYzcqED90-A4UQpddoY-liWCLQwvJ3SY2gEOMiW9GTJv0qmPsos-iv8j1iBm5d2q5_Rou8a1CTRcafqsMjIOPoMteBau_pLZa6w9FUUQ12ahG3qeAiGkxmoqS3SjoBhLBMyIs_moCq6vvsJnMlF8AAHWZDfZsYvyVQ9mmgkCo06YOtK_54akSxgyprVHiNyxsHus9xSbGNA8UqbHcL_96e3y58CuQHY43DvJQ5jKc_CVA7zis3L2KSR0YnC-uqghDVpdxVItUhMWx3nf_3mnKw8oNiiqKKwi690vmlG_7jFxk2GnTJpuyi4CCzntTFrVD8M9atFFzx4c6v2G2zRQyi7t8GZmRJRxtOCN5QTiUur2-7E0Xe1fySoeBWemZ5EzcNpcoLUqNoGH6_lOo6_HYn6_lARvM_7dljwH74CThuLYnyOaYNT8l4savP0vYyalSEzPGY2yG8-pYsWmdOR9ZTmEqCVgfZFEnwh_UWCsmeRZmzp8r9BuN4SEaKkHDfilKglWwyW1jnliCeRUsgWQS5jcL7XXxToJ2aEwugb3ShwCpws413h5IbKQu5hMeHjzYQOayHzEKZpTH2lPn9A9cls7v6WIoJtxMbyAkCf4Q-L9ahSL1rW08KkrcXPjAI2Y4A4PRBS4s4zuz63BL9bo4hVZx7hVaIqlfbq2nVffwLWY4ff45YjRn9mihaVm1tGAeyRueuemP4xfOwQa427DuHIgSuiikHE4uhzEfpYZX4YWC6AT1vrM1olzjJZAeLAMXheXWytPukbiSjiMBsmUdoh4FqGhB4dvxjHDoJ9q-0Cqt3IT_IkboqQwo21e7VLTOSCbc2m9Upc9Q7F0Ve-mBh5Ut7qszl5HKK8rdx2HvGMpsGVtshvklzS9RTAlJMuDhczwg9xXAYbX2Wkc9o4MdiIuUbQj69om25zftRk2uR91AnK8BFKic9Pfcio-TsT-EAJowDogTU7uGtbf0Wnqux5uJKc621J0DjzeI0hb1dAF963yaNO8WCrITmLKyYIm-jyQ_lSeSkbAI08GZFvJksAvHZbx01PD4nY9WI-dXaHdC7MLmzDgZdq8tTLjq02glAn_J67n1SCFrL77q1bP9pGD5lQJAssYCkgoSOf-axCEjHATVPB0Y5n9rmzz/https://www.amazon.com/stores/page/740F1447-9E72-4222-ACD9-887F69F0341A/?_encoding=UTF8&store_ref=SB_A0402959B1OCS983IBJS-A022092637ELKC1X9AI2M&pd_rd_plhdr=t&aaxitk=5acf5e685614aee73d752983696ebf51&hsa_cr_id=0&lp_slot=mobile-arbies&lp_page_asin=B0FCYCBV47&pd_rd_i=ad1&ref_=sbx_be_dp_arbies_mblsm_mb0_bkgd&pd_rd_w=ICUH6&content-id=amzn1.sym.a0cf6175-49ce-4c72-8721-b2bed4d3a00e&pf_rd_p=a0cf6175-49ce-4c72-8721-b2bed4d3a00e&pf_rd_r=W448J5PBB2NRRR2VXQ8S&pd_rd_wg=JfUOh&pd_rd_r=5ab914d7-1cde-48ae-ac85-8d45990dad63"
+      }
+    ],
+    "reviews_information": {
+      "summary": {
+        "text": "Customers love the appearance of the boo basket, with one mentioning their girlfriend particularly enjoyed the cup. Customers find it makes a wonderful gift and consider it good value for money.",
+        "insights": [
+          {
+            "title": "Appearance",
+            "sentiment": "positive",
+            "mentions": {
+              "total": 21,
+              "positive": 20,
+              "negative": 1
+            },
+            "summary": "Customers love the appearance of the cup, describing it as cute and perfect.",
+            "examples": [
+              {
+                "position": 1,
+                "snippet": "Perfect!! Super cute and well packed. Cup was protected well for the mailing. The ghosts are super cute too! Love it!",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R36CAES9IIVHFS"
+              },
+              {
+                "position": 2,
+                "snippet": "Very cute great price, comes with alot for the price",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/RK7DKE31HQTG9"
+              },
+              {
+                "position": 3,
+                "snippet": "I ordered this as a present for one of my best friends and she absolutely loved it! It really made her day!",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R19LBC2QAMRYQW"
+              },
+              {
+                "position": 4,
+                "snippet": "My sister-in-law loved it!",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R2TWEQQQHTBVOX"
+              }
+            ]
+          },
+          {
+            "title": "Gift",
+            "sentiment": "positive",
+            "mentions": {
+              "total": 8,
+              "positive": 8,
+              "negative": 0
+            },
+            "summary": "Customers find the drinking cup makes a wonderful gift, with one mentioning that everything inside is festive.",
+            "examples": [
+              {
+                "position": 1,
+                "snippet": "This was super cute and made a wonderful gift.",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R4RMMO2VNHGCV"
+              },
+              {
+                "position": 2,
+                "snippet": "Wonderful gift",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R1UJ250GTHCNRP"
+              },
+              {
+                "position": 3,
+                "snippet": "Great little gift. Nicely packaged.",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R3GYZIKDKIN3HQ"
+              },
+              {
+                "position": 4,
+                "snippet": "...It really made her day!",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R19LBC2QAMRYQW"
+              }
+            ]
+          },
+          {
+            "title": "Value for money",
+            "sentiment": "positive",
+            "mentions": {
+              "total": 6,
+              "positive": 5,
+              "negative": 1
+            },
+            "summary": "Customers find the product offers good value for money.",
+            "examples": [
+              {
+                "position": 1,
+                "snippet": "Very cute great price, comes with alot for the price",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/RK7DKE31HQTG9"
+              },
+              {
+                "position": 2,
+                "snippet": "Very cute and great value",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R3A3D31IRIUSES"
+              },
+              {
+                "position": 3,
+                "snippet": "It has everything in one box. Which is very convenient and cheaper.",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R1DGDXW4A6K95T"
+              },
+              {
+                "position": 4,
+                "snippet": "It is really worth the money, cup is so cure",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/RKH4GZDTS1FW4"
+              }
+            ]
+          },
+          {
+            "title": "Appearance",
+            "sentiment": "positive",
+            "mentions": {
+              "total": 21,
+              "positive": 20,
+              "negative": 1
+            },
+            "summary": "Customers love the appearance of the cup, describing it as cute and perfect.",
+            "examples": [
+              {
+                "position": 1,
+                "snippet": "Perfect!! Super cute and well packed. Cup was protected well for the mailing. The ghosts are super cute too! Love it!",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R36CAES9IIVHFS"
+              },
+              {
+                "position": 2,
+                "snippet": "Very cute great price, comes with alot for the price",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/RK7DKE31HQTG9"
+              },
+              {
+                "position": 3,
+                "snippet": "I ordered this as a present for one of my best friends and she absolutely loved it! It really made her day!",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R19LBC2QAMRYQW"
+              },
+              {
+                "position": 4,
+                "snippet": "My sister-in-law loved it!",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R2TWEQQQHTBVOX"
+              }
+            ]
+          },
+          {
+            "title": "Gift",
+            "sentiment": "positive",
+            "mentions": {
+              "total": 8,
+              "positive": 8,
+              "negative": 0
+            },
+            "summary": "Customers find the drinking cup makes a wonderful gift, with one mentioning that everything inside is festive.",
+            "examples": [
+              {
+                "position": 1,
+                "snippet": "This was super cute and made a wonderful gift.",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R4RMMO2VNHGCV"
+              },
+              {
+                "position": 2,
+                "snippet": "Wonderful gift",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R1UJ250GTHCNRP"
+              },
+              {
+                "position": 3,
+                "snippet": "Great little gift. Nicely packaged.",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R3GYZIKDKIN3HQ"
+              },
+              {
+                "position": 4,
+                "snippet": "...It really made her day!",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R19LBC2QAMRYQW"
+              }
+            ]
+          },
+          {
+            "title": "Value for money",
+            "sentiment": "positive",
+            "mentions": {
+              "total": 6,
+              "positive": 5,
+              "negative": 1
+            },
+            "summary": "Customers find the product offers good value for money.",
+            "examples": [
+              {
+                "position": 1,
+                "snippet": "Very cute great price, comes with alot for the price",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/RK7DKE31HQTG9"
+              },
+              {
+                "position": 2,
+                "snippet": "Very cute and great value",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R3A3D31IRIUSES"
+              },
+              {
+                "position": 3,
+                "snippet": "It has everything in one box. Which is very convenient and cheaper.",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R1DGDXW4A6K95T"
+              },
+              {
+                "position": 4,
+                "snippet": "It is really worth the money, cup is so cure",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/RKH4GZDTS1FW4"
+              }
+            ]
+          }
+        ]
+      },
+      "authors_reviews": [
+        {
+          "position": 1,
+          "title": "Great Halloween Gift for friend!",
+          "text": "I ordered this as a present for one of my best friends and she absolutely loved it! It really made her day!",
+          "rating": 5.0,
+          "date": "October 6, 2026",
+          "author": "Kelianne O'Shea",
+          "author_link": "https://www.amazon.com/gp/profile/amzn1.account.AF6Y3SDZODBLAZPX3BH4FDZ3GCLA?ref=cm_cr_dp_mb_bdcrb_top",
+          "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SX110_.png",
+          "verified_purchase": true,
+          "product": {
+            "color": "Purple"
+          }
+        },
+        {
+          "position": 2,
+          "title": "Boot",
+          "text": "Very cute great price, comes with alot for the price",
+          "rating": 5.0,
+          "date": "September 9, 2026",
+          "author": "Ron",
+          "author_link": "https://www.amazon.com/gp/profile/amzn1.account.AFDFEL4Q7Q3JP2JLFOQTWHXO3TTQ?ref=cm_cr_dp_mb_bdcrb_top",
+          "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SX110_.png",
+          "verified_purchase": true,
+          "product": {
+            "color": "Orange"
+          }
+        },
+        {
+          "position": 3,
+          "title": "Great gift",
+          "text": "This was super cute and made a wonderful gift.",
+          "rating": 5.0,
+          "date": "September 8, 2026",
+          "author": "Amazon Customer",
+          "author_link": "https://www.amazon.com/gp/profile/amzn1.account.AGYLRO77CQJPBACQFZZ46CALYURQ?ref=cm_cr_dp_mb_bdcrb_top",
+          "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SX110_.png",
+          "verified_purchase": true,
+          "product": {
+            "color": "Purple"
+          }
+        },
+        {
+          "position": 4,
+          "title": "Just boo-t-ful",
+          "text": "This great especially for those who love halloween",
+          "rating": 5.0,
+          "date": "August 24, 2026",
+          "author": "Heather Dougherty-Nelson",
+          "author_link": "https://www.amazon.com/gp/profile/amzn1.account.AGWMABM7X6RCDHFTKEK2QIK7PVXQ?ref=cm_cr_dp_mb_bdcrb_top",
+          "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SX110_.png",
+          "verified_purchase": true,
+          "product": {
+            "color": "Purple"
+          }
+        },
+        {
+          "position": 5,
+          "title": "Cute for boo baskets",
+          "text": "Cute items that I split up into boo baskets",
+          "rating": 4.0,
+          "date": "November 3, 2025",
+          "author": "Tiffnh",
+          "author_link": "https://www.amazon.com/gp/profile/amzn1.account.AGNFFCY4OU5ELG64KVKPEEZQ7KIQ?ref=cm_cr_dp_mb_bdcrb_top",
+          "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SX110_.png",
+          "verified_purchase": true,
+          "product": {
+            "color": "Orange"
+          }
+        },
+        {
+          "position": 6,
+          "title": "BOO T FUL and Thoughtful",
+          "text": "I absolutely loved this boo basket box! 🎃 It came beautifully packaged and was such a fun surprise. The Halloween theme was adorable, and everything inside was festive, thoughtful, and perfect for the season. It’s such a unique gift idea for kids or adults, whether for a Halloween party, a little spooky surprise, or just to spread some fall cheer. I’ll definitely be ordering more to give out next year!",
+          "rating": 5.0,
+          "date": "September 24, 2025",
+          "author": "Mandie",
+          "author_link": "https://www.amazon.com/gp/profile/amzn1.account.AEZFIMXUGHMV63YXNKPWW2P7MJBQ?ref=cm_cr_dp_mb_bdcrb_top",
+          "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/bd8a9785-732b-42be-adbe-afe00be23e7d._CR0%2C0%2C500%2C500_SX460_SX110_.jpg",
+          "images": [
+            "https://m.media-amazon.com/images/I/71RfIhEGSjL._SY500_.jpg"
+          ],
+          "helpful_votes": "6 people found this helpful",
+          "verified_purchase": true,
+          "product": {
+            "color": "Purple"
+          }
+        },
+        {
+          "position": 7,
+          "title": "So darn cute",
+          "text": "It is really worth the money, cup is so cure",
+          "rating": 5.0,
+          "date": "September 26, 2025",
+          "author": "debbie",
+          "author_link": "https://www.amazon.com/gp/profile/amzn1.account.AF3EWFTFIRQV7WAYZSWKVBSEVQWQ?ref=cm_cr_dp_mb_bdcrb_top",
+          "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SX110_.png",
+          "verified_purchase": true,
+          "product": {
+            "color": "Purple"
+          }
+        },
+        {
+          "position": 8,
+          "title": "Very cute gift",
+          "text": "Each item is 10/10 perfect. My girlfriend loved discovering each thing and loved all of it. My favorite is the cup, but she’s obsessed with the socks haha",
+          "rating": 5.0,
+          "date": "November 7, 2025",
+          "author": "Erin A",
+          "author_link": "https://www.amazon.com/gp/profile/amzn1.account.AFXYFZQDXV7RW7AWVYZZQCF32DNQ?ref=cm_cr_dp_mb_bdcrb_top",
+          "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SX110_.png",
+          "verified_purchase": true,
+          "product": {
+            "color": "Orange"
+          }
+        }
+      ]
+    }
+  }
+}

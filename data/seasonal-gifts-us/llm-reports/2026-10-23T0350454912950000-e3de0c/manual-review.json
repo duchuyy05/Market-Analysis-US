@@ -1,0 +1,140 @@
+{
+  "reviewed_at_utc": "2026-10-23T04:02:32.729828+00:00",
+  "reviewer": "Codex",
+  "reviewed_paragraphs": 21,
+  "rejected_paragraphs": 11,
+  "method": "Recorded reading against the supplied source registry; not an automatic check or self-evaluation by the report model",
+  "decisions": [
+    {
+      "task": "overview",
+      "paragraph_sha256": "d138b984d5ca9085b04376742410dfa7f78b52de2744e6523f9c71279e4e2f36",
+      "decision": "keep",
+      "reason": "T01 có đỉnh tìm kiếm lịch sử tháng mười; đoạn không dự báo doanh số tương lai."
+    },
+    {
+      "task": "overview",
+      "paragraph_sha256": "51d87326912d95811609588244e6817e5e3b35f82a86b68022ca6a7a762efdf3",
+      "decision": "reject",
+      "reason": "Câu Có nên bị bỏ lửng, nội dung kiểm tra lặp lại phần niche và chưa thành đề xuất diễn đạt rõ."
+    },
+    {
+      "task": "overview",
+      "paragraph_sha256": "b1de7e15607311b507b05bfec5c0821b20d571ba6c0c5625aefc4e8224b89e9a",
+      "decision": "reject",
+      "reason": "P02 có mô tả gốc về các kích thước; trường dimensions chưa trích xuất không chứng minh nguồn thiếu kích thước."
+    },
+    {
+      "task": "halloween",
+      "paragraph_sha256": "26b6599396ecebaacc4f513eb2c24a08d081c2c7909683e92cdd65b029368d25",
+      "decision": "keep",
+      "reason": "T02 xác nhận tháng mười là đỉnh tìm kiếm lịch sử trong kỳ; giữ giới hạn không dự báo."
+    },
+    {
+      "task": "halloween",
+      "paragraph_sha256": "3dd6ca3ddaa3cfd7e6eab99e58caa6b8d6d8332ce78c2b65e8e4bd580f680f5f",
+      "decision": "keep",
+      "reason": "P05 thực sự xuất hiện hạng năm trong shortlist tháng mười của bộ dữ liệu đã đồng bộ; T03 cùng nhóm decal. Nhãn mua là snapshot."
+    },
+    {
+      "task": "halloween",
+      "paragraph_sha256": "1faa1394361c2a01a1d074d102172e56ea8343b3d8f5d18a0fd09c6322b9fd8c",
+      "decision": "reject",
+      "reason": "R02 chỉ nói keo không bền lâu; chi tiết sau khi gỡ là model tự thêm, không có trong câu trích."
+    },
+    {
+      "task": "halloween",
+      "paragraph_sha256": "edca92f460aa23981fd768b94f24cda150ce3ea8e409f45ba7abb48fa31e7457",
+      "decision": "reject",
+      "reason": "Gọi sản phẩm là thẻ không đúng loại miếng dán trang trí đang được nhận xét; diễn đạt không đạt yêu cầu tự nhiên dù quote khớp."
+    },
+    {
+      "task": "halloween",
+      "paragraph_sha256": "80fa2b064897c17efc90f8cc5510be5c84f74595bab9f3111dbc627093d42830",
+      "decision": "keep",
+      "reason": "Đề nghị kiểm tra độ bền keo là việc nên thử từ R02; mô tả listing cùng sản phẩm có nói tái sử dụng. Không khẳng định kết quả thử."
+    },
+    {
+      "task": "halloween",
+      "paragraph_sha256": "2474e8cfc311384381073fed10071025c9e78a68d826db3d18cbbc3be40f9e3a",
+      "decision": "reject",
+      "reason": "Số lời viết là cụm dịch sai nghĩa; nguồn gốc cũng có mô tả kích thước nên không được kết luận thiếu thông số chỉ từ trường chuẩn hóa trống."
+    },
+    {
+      "task": "thanksgiving",
+      "paragraph_sha256": "0ab6f98003eed52a679e60cb47af4f2b365f66b0aabd587cb8179244bfaece9d",
+      "decision": "keep",
+      "reason": "T06 có đỉnh tìm kiếm lịch sử tháng mười một; đoạn không coi chỉ số là số bán."
+    },
+    {
+      "task": "thanksgiving",
+      "paragraph_sha256": "f811ec180dbb9f5f2dd99cdacb68d06e81b4eae4ab3e330423994caacd07b3bc",
+      "decision": "reject",
+      "reason": "Cụm có nhu cầu cao vượt dữ liệu shortlist và Huy động mua không đúng nghĩa nhãn mua hàng."
+    },
+    {
+      "task": "thanksgiving",
+      "paragraph_sha256": "3509f2b2976702dfe2e96cb6a3ae0c6220731a7bbe6512f11f7b471db269605d",
+      "decision": "reject",
+      "reason": "Cụm giá thành công là xứng đáng dịch sai, dù phần màu/kích thước có trong R11; không sửa lời model để che lỗi."
+    },
+    {
+      "task": "thanksgiving",
+      "paragraph_sha256": "84fffe65c9dadc511cd577e739312364938d462e4725882db985fb95dbc4457f",
+      "decision": "keep",
+      "reason": "Nội dung vết bẩn không hết sau giặt khớp R16. Nguồn là biến thể Sage Green, quốc gia Australia; không suy là người mua Mỹ."
+    },
+    {
+      "task": "thanksgiving",
+      "paragraph_sha256": "b70dd68c9478caff79652e33883d7f652625a5780d83219561365e9c9eede5d7",
+      "decision": "reject",
+      "reason": "R16 phản ánh vết bẩn không giặt hết, không phản ánh độ bền sau xử lý. Câu đề xuất đã chuyển vấn đề sang thuộc tính khác."
+    },
+    {
+      "task": "thanksgiving",
+      "paragraph_sha256": "a3dbba7a72881e1c58e43ed4c4f13f3b1c14e8ffeef9c0d275e93d1601ed59f6",
+      "decision": "reject",
+      "reason": "P19 thiếu nhận xét đầy đủ nhưng đã có mốc thu thập sản phẩm. Ngày ghi nhận không rõ đang chỉ ngày review hay ngày lấy dữ liệu, dễ gây hiểu nhầm."
+    },
+    {
+      "task": "christmas",
+      "paragraph_sha256": "a4a4585f9d1a3f7ee7b88250226dbee882dae99078e31cdcfee50d6bcd68490d",
+      "decision": "keep",
+      "reason": "T10 cho đỉnh tìm kiếm lịch sử tháng mười hai trong kỳ; không dự báo tháng tới."
+    },
+    {
+      "task": "christmas",
+      "paragraph_sha256": "3fcc4fa38fa7d4814fb11446766eb4c924969c0db32d82710dcec82b38765a92",
+      "decision": "keep",
+      "reason": "P01 Crayola có trong shortlist tháng mười hai với T10; không suy nhãn mua thành lịch sử doanh số."
+    },
+    {
+      "task": "christmas",
+      "paragraph_sha256": "c552752d9c3c10bc2579f7c0ad535177e10c2d4b403334287095619988c1e927",
+      "decision": "keep",
+      "reason": "R41 nói đèn đẹp và dễ bố trí. Mệnh đề không nêu số sao đang chỉ câu văn được trích; metadata có năm sao và được hiển thị riêng để đối chiếu."
+    },
+    {
+      "task": "christmas",
+      "paragraph_sha256": "8e96b0d55524b2e4714b219a9217bf894527b5527c5f71d62e120858a166d040",
+      "decision": "keep",
+      "reason": "Câu trích R08 trực tiếp nói dây có vẻ chưa nối vào hộp; diễn giải giữ tính nghi ngờ, không tự nêu nguyên nhân."
+    },
+    {
+      "task": "christmas",
+      "paragraph_sha256": "1ac47856476d44311094c2c90d1b80d5cb992861a8707a08d1fa90c97d9f8229",
+      "decision": "reject",
+      "reason": "Câu Có nên bị bỏ lửng và vận hành đơn hàng diễn đạt không rõ; không đạt yêu cầu ngôn ngữ tự nhiên."
+    },
+    {
+      "task": "christmas",
+      "paragraph_sha256": "689d02efeebf43acb1785add0fbbea3658c4a3da6ea459493e44728f61586315",
+      "decision": "reject",
+      "reason": "Mức độ chi trả không đồng nghĩa giá listing còn thiếu. Đoạn không chỉ rõ trường dữ liệu thiếu và đề xuất quá chung."
+    }
+  ],
+  "notes": [
+    "Codex đọc đối chiếu trong phiên phát triển; chưa có người dùng duyệt và không bảo đảm phát hiện hết lỗi.",
+    "Các đoạn giữ lại đi cùng toàn bộ bảng Python trong report-combined.html; phần phân tích còn thiếu sau khi loại lỗi được ghi rõ.",
+    "Mô tả và review gửi model có rút ngắn; không suy việc một thông tin không xuất hiện trong đoạn rút ngắn thành nguồn gốc thiếu thông tin."
+  ]
+}

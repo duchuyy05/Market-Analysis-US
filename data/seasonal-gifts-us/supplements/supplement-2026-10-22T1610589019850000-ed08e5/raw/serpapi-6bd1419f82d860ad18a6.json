@@ -1,0 +1,1351 @@
+{
+  "provider": "serpapi",
+  "endpoint": "https://serpapi.com/search.json",
+  "parameters": {
+    "engine": "amazon_product",
+    "asin": "B074N67JFG",
+    "amazon_domain": "amazon.com",
+    "language": "en_US",
+    "shipping_location": "US",
+    "device": "desktop",
+    "output": "json"
+  },
+  "fetched_at_utc": "2026-10-22T16:16:38.440435+00:00",
+  "raw_file": "supplements/supplement-2026-10-22T1610589019850000-ed08e5/raw/serpapi-6bd1419f82d860ad18a6.json",
+  "response": {
+    "search_metadata": {
+      "id": "6ada36e7b77a0a916afc00c9",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/KD2gFth3_KbI2tZPQ9iyJoi_0e3hqaCXYzBzR7TIH-U/6ada36e7b77a0a916afc00c9.json",
+      "markdown_endpoint": "https://serpapi.com/searches/KD2gFth3_KbI2tZPQ9iyJoi_0e3hqaCXYzBzR7TIH-U/6ada36e7b77a0a916afc00c9.md",
+      "created_at": "2026-10-22 16:16:39 UTC",
+      "processed_at": "2026-10-22 16:16:39 UTC",
+      "amazon_product_url": "https://www.amazon.com/dp/B074N67JFG/?language=en_US",
+      "raw_html_file": "https://serpapi.com/searches/KD2gFth3_KbI2tZPQ9iyJoi_0e3hqaCXYzBzR7TIH-U/6ada36e7b77a0a916afc00c9.html",
+      "total_time_taken": 8.21
+    },
+    "search_parameters": {
+      "engine": "amazon_product",
+      "asin": "B074N67JFG",
+      "amazon_domain": "amazon.com",
+      "language": "en_US",
+      "device": "desktop",
+      "shipping_location": "US"
+    },
+    "product_results": {
+      "categories": [
+        {
+          "position": 1,
+          "name": "Home & Kitchen",
+          "link": "https://www.amazon.com/home-garden-kitchen-furniture-bedding/b/ref=dp_bc_1?ie=UTF8&node=1055398",
+          "node": "1055398",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&language=en_US&node=1055398&shipping_location=US"
+        },
+        {
+          "position": 2,
+          "name": "Home Décor Products",
+          "link": "https://www.amazon.com/home-d%C3%A9cor/b/ref=dp_bc_2?ie=UTF8&node=1063278",
+          "node": "1063278",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&language=en_US&node=1063278&shipping_location=US"
+        },
+        {
+          "position": 3,
+          "name": "Artificial Plants & Flowers",
+          "link": "https://www.amazon.com/artificial-plants/b/ref=dp_bc_3?ie=UTF8&node=14087351",
+          "node": "14087351",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&language=en_US&node=14087351&shipping_location=US"
+        },
+        {
+          "position": 4,
+          "name": "Artificial Flowers",
+          "link": "https://www.amazon.com/artificial-flowers/b/ref=dp_bc_4?ie=UTF8&node=14087331",
+          "node": "14087331",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&language=en_US&node=14087331&shipping_location=US"
+        }
+      ],
+      "asin": "B074N67JFG",
+      "title": "Whaline 300Pcs Fall Artificial Maple Leaves 3.35 Inch Fake Mixed Autumn Leaves Thanksgiving Table Decor Assorted Colors Faux Fall Leaf for Thanksgiving Weddings Festival Events Party Crafts",
+      "link": "https://www.amazon.com/hp/wlp/pipeline/membersignup?ref=primedp_ventures_desktopBelowThreshold&primeCampaignId=primedp_ventures_desktopBelowThreshold",
+      "link_clean": "https://www.amazon.com/dp/B074N67JFG/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B074N67JFG&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+      "brand": "Visit the Whaline Store",
+      "thumbnail": "https://m.media-amazon.com/images/I/91gne9E0BrL._AC_SY300_SX300_QL70_FMwebp_.jpg",
+      "thumbnails": [
+        "https://m.media-amazon.com/images/I/91gne9E0BrL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81ykdaDHAeL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81yd-gR7VTL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71iLYFHRQuL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81+-40DncoL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81KxRH93QwL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81McGUZAHoL._AC_SL1500_.jpg"
+      ],
+      "rating": 4.4,
+      "reviews": 4012,
+      "bought_last_month": "2K+ bought in past month",
+      "discount": "-11%",
+      "price": "$6.99",
+      "extracted_price": 6.99,
+      "price_unit": "$0.02 / count",
+      "extracted_price_unit": 0.02,
+      "old_price": "$7.89",
+      "extracted_old_price": 7.89,
+      "delivery": [
+        "FREE delivery Tuesday, October 27 on orders shipped by Amazon over $35. Order within 12 hrs 43 mins"
+      ],
+      "stock": "In Stock"
+    },
+    "purchase_options": {
+      "single_offer": {
+        "price": "$6.99",
+        "extracted_price": 6.99,
+        "price_unit": "$0.02 / count",
+        "extracted_price_unit": 0.02,
+        "delivery": [
+          "FREE delivery Tuesday, October 27 on orders shipped by Amazon over $35. Order within 12 hrs 43 mins"
+        ],
+        "stock": "In Stock",
+        "features": {
+          "ships_from": {
+            "text": "Amazon",
+            "details": {
+              "heading": "Ships from",
+              "content": "Amazon"
+            }
+          },
+          "sold_by": {
+            "text": "Whale Online US",
+            "details": {
+              "heading": "Sold by",
+              "content": "Whale Online US"
+            },
+            "link": {
+              "text": "Whale Online US",
+              "link": "https://www.amazon.com/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=AX43SBHAMRULZ&asin=B074N67JFG&ref_=dp_merchant_link&isAmazonFulfilled=1"
+            }
+          },
+          "returns": {
+            "text": "FREE 30-day refund/replacement",
+            "details": {
+              "heading": "FREE 30-day refund/replacement"
+            },
+            "link": {
+              "text": "See exceptions",
+              "link": "https://www.amazon.com/gp/help/customer/display.html/?nodeId=GKQNFKFK5CF3C54B"
+            }
+          },
+          "payment": {
+            "text": "Secure transaction",
+            "details": {
+              "heading": "Your transaction is secure",
+              "content": "We work hard to protect your security and privacy. Our payment security system encrypts your information during transmission. We don’t share your credit card details with third-party sellers, and we don’t sell your information to others. Learn more"
+            },
+            "link": {
+              "text": "Learn more",
+              "link": "https://www.amazon.com/gp/help/customer/display.html?nodeId=201909010"
+            }
+          }
+        }
+      }
+    },
+    "item_specifications": {
+      "brand": "Whaline",
+      "plant_or_animal_product_type": "maple",
+      "color": "Multicolored",
+      "material": "Polyester",
+      "product_dimensions": "3.35\"D x 3.35\"W x 2.95\"H"
+    },
+    "about_item": [
+      "Polyester",
+      "Different shades of color – 300 pieces of maple leaves are assorted in 6 colors mixed together, each color has 50 leaves",
+      "Leaves Size – Range from 2.95-3.35inch/ 7.5-8.5cm wide, and you can pick a handful of unified or mixed colors to create more fun",
+      "Suitable for different occasions – These artificial maple leaves can be served as decorations for your wedding, festival, house, bars, party, banquet, stores or other occasions. And you sticking on the wall, write wishes on it as a card, serve as scatters for your wedding and so on",
+      "The material – Made with polyester material, It's not easy to fade or fall, and can be applied repeatedly",
+      "Vivid artificial autumn leaves – Color realistic, these fall leaves are conducive to providing visual enjoyment and creating a warm atmosphere"
+    ],
+    "bought_together": [
+      {
+        "position": 1,
+        "title": "Whaline 300Pcs Fall Artificial Maple Leaves 3.35 Inch Fake Mixed Autumn Leaves Thanksgiving Table Decor Assorted Colors Faux Fall Leaf for Thanksgiving Weddings Festival Events Party Crafts",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/91gne9E0BrL._AC_UL116_SR116,116_.jpg",
+        "price": "$6.99",
+        "extracted_price": 6.99,
+        "price_unit": "$0.02/count",
+        "extracted_price_unit": 0.02,
+        "delivery": [
+          "Get it as soon as Tuesday, Oct 27"
+        ],
+        "stock": "In Stock"
+      },
+      {
+        "position": 2,
+        "title": "Jiesky 360 Pcs 8cm/3.1inch Artificial Maple Leaves 6 Colors Fall Leaves Thanksgiving Day Autumn Leaf Decorations Wedding Parties Props Party Table Decor Crafts Artificial Flowers 2024",
+        "link": "https://www.amazon.com/Jiesky-3-1inch-Artificial-Thanksgiving-Decorations/dp/B0D9KBMMFV/ref=pd_bxgy_thbs_d_sccl_1/133-0300323-0331417?pd_rd_w=hk0b5&content-id=amzn1.sym.1fbb380b-ee1d-4eeb-a44a-61f4d3013ea6&pf_rd_p=1fbb380b-ee1d-4eeb-a44a-61f4d3013ea6&pf_rd_r=220NXG4234XZH7S94JM9&pd_rd_wg=roHIl&pd_rd_r=b8d6426c-b8eb-4073-992a-08eb6f77d3f7&pd_rd_i=B0D9KBMMFV&psc=1",
+        "asin": "B0D9KBMMFV",
+        "link_clean": "https://www.amazon.com/Jiesky-3-1inch-Artificial-Thanksgiving-Decorations/dp/B0D9KBMMFV/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0D9KBMMFV&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/81cKKOjtf7L._AC_UL116_SR116,116_.jpg",
+        "price": "$7.99",
+        "extracted_price": 7.99,
+        "price_unit": "$0.02/count",
+        "extracted_price_unit": 0.02,
+        "delivery": [
+          "Get it as soon as Tuesday, Oct 27"
+        ],
+        "stock": "In Stock"
+      },
+      {
+        "position": 3,
+        "title": "winemana Fall Decorations for Home Mini Pumpkins Gourds & Leaves Set | Thanksgiving Autumn Harvest Table Centerpieces, Cornucopia Basket Bowl Filler, Largest Pumpkin: 4.5\" x 2.1\"",
+        "link": "https://www.amazon.com/winemana-Decorations-Home-6pcs-Centerpiece-Set-Harvest/dp/B07VJDV971/ref=pd_bxgy_thbs_d_sccl_2/133-0300323-0331417?pd_rd_w=hk0b5&content-id=amzn1.sym.1fbb380b-ee1d-4eeb-a44a-61f4d3013ea6&pf_rd_p=1fbb380b-ee1d-4eeb-a44a-61f4d3013ea6&pf_rd_r=220NXG4234XZH7S94JM9&pd_rd_wg=roHIl&pd_rd_r=b8d6426c-b8eb-4073-992a-08eb6f77d3f7&pd_rd_i=B07VJDV971&psc=1",
+        "asin": "B07VJDV971",
+        "link_clean": "https://www.amazon.com/winemana-Decorations-Home-6pcs-Centerpiece-Set-Harvest/dp/B07VJDV971/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B07VJDV971&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/716qT0gtPYL._AC_UL116_SR116,116_.jpg",
+        "price": "$9.99",
+        "extracted_price": 9.99,
+        "price_unit": "$0.20/count",
+        "extracted_price_unit": 0.2,
+        "delivery": [
+          "Get it as soon as Tuesday, Oct 27"
+        ],
+        "stock": "In Stock"
+      }
+    ],
+    "related_products": [
+      {
+        "position": 1,
+        "title": "Jiesky 360 Pcs 8cm/3.1inch Artificial Maple Leaves 6 Colors Fall Leaves Thanksgiving Day Autumn Leaf Decorations Wedding Part",
+        "link": "https://www.amazon.com/Jiesky-3-1inch-Artificial-Thanksgiving-Decorations/dp/B0D9KBMMFV/ref=pd_sbs_d_sccl_1_1/133-0300323-0331417?pd_rd_w=9PUQC&content-id=amzn1.sym.0cb10f30-7cd4-4985-9826-58b2c1174c19&pf_rd_p=0cb10f30-7cd4-4985-9826-58b2c1174c19&pf_rd_r=220NXG4234XZH7S94JM9&pd_rd_wg=roHIl&pd_rd_r=b8d6426c-b8eb-4073-992a-08eb6f77d3f7&pd_rd_i=B0D9KBMMFV&psc=1",
+        "asin": "B0D9KBMMFV",
+        "link_clean": "https://www.amazon.com/Jiesky-3-1inch-Artificial-Thanksgiving-Decorations/dp/B0D9KBMMFV/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0D9KBMMFV&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "badges": [
+          "Amazon's Choice"
+        ],
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/81cKKOjtf7L._AC_UL165_SR165,165_.jpg",
+        "rating": 4.6,
+        "reviews": 682,
+        "price": "$7.99",
+        "extracted_price": 7.99,
+        "price_unit": "$0.02/count",
+        "extracted_price_unit": 0.02,
+        "delivery": [
+          "Get it as soon as Tuesday, Oct 27"
+        ]
+      },
+      {
+        "position": 2,
+        "title": "MAQIHAN 350PCS Fall Maple Leaves - Autumn Fall Maple Leaf Garland hojas de otoño para decorar Foliage Artificial Table Decora",
+        "link": "https://www.amazon.com/MAQIHAN-350PCS-Fall-Maple-Leaves/dp/B0CJBXWXNN/ref=pd_sbs_d_sccl_1_2/133-0300323-0331417?pd_rd_w=9PUQC&content-id=amzn1.sym.0cb10f30-7cd4-4985-9826-58b2c1174c19&pf_rd_p=0cb10f30-7cd4-4985-9826-58b2c1174c19&pf_rd_r=220NXG4234XZH7S94JM9&pd_rd_wg=roHIl&pd_rd_r=b8d6426c-b8eb-4073-992a-08eb6f77d3f7&pd_rd_i=B0CJBXWXNN&psc=1",
+        "asin": "B0CJBXWXNN",
+        "link_clean": "https://www.amazon.com/MAQIHAN-350PCS-Fall-Maple-Leaves/dp/B0CJBXWXNN/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0CJBXWXNN&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/81prR+5JbzL._AC_UL165_SR165,165_.jpg",
+        "rating": 4.6,
+        "reviews": 333,
+        "price": "$7.99",
+        "extracted_price": 7.99,
+        "price_unit": "$0.02/count",
+        "extracted_price_unit": 0.02,
+        "delivery": [
+          "Get it as soon as Tuesday, Oct 27"
+        ]
+      },
+      {
+        "position": 3,
+        "title": "VENCELIN 50Pcs Fall Artificial Maple Leaves Assorted Bulk for Crafts Decor | 50pcs mixed maple leaves, realistic, fall crafts",
+        "link": "https://www.amazon.com/VENCELIN-50Pcs-Artificial-Maple-Leaves/dp/B0C3YQBKHH/ref=pd_sbs_d_sccl_1_3/133-0300323-0331417?pd_rd_w=9PUQC&content-id=amzn1.sym.0cb10f30-7cd4-4985-9826-58b2c1174c19&pf_rd_p=0cb10f30-7cd4-4985-9826-58b2c1174c19&pf_rd_r=220NXG4234XZH7S94JM9&pd_rd_wg=roHIl&pd_rd_r=b8d6426c-b8eb-4073-992a-08eb6f77d3f7&pd_rd_i=B0C3YQBKHH&psc=1",
+        "asin": "B0C3YQBKHH",
+        "link_clean": "https://www.amazon.com/VENCELIN-50Pcs-Artificial-Maple-Leaves/dp/B0C3YQBKHH/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0C3YQBKHH&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/81-4ZLNXjSL._AC_UL165_SR165,165_.jpg",
+        "rating": 4.6,
+        "reviews": 196,
+        "price": "$12.99",
+        "extracted_price": 12.99,
+        "price_unit": "$0.26/count",
+        "extracted_price_unit": 0.26,
+        "delivery": [
+          "Get it as soon as Wednesday, Oct 28"
+        ]
+      },
+      {
+        "position": 4,
+        "title": "HENMI 500PCS Artificial Maple Leaves 5 Assorted Mixed Fake Fall Maple Leaf | Lifelike Looking Silk Autumn Leaf Garland for Ha",
+        "link": "https://www.amazon.com/HENMI-Artificial-Assorted-Thanksgiving-Decorations/dp/B07GF99661/ref=pd_sbs_d_sccl_1_4/133-0300323-0331417?pd_rd_w=9PUQC&content-id=amzn1.sym.0cb10f30-7cd4-4985-9826-58b2c1174c19&pf_rd_p=0cb10f30-7cd4-4985-9826-58b2c1174c19&pf_rd_r=220NXG4234XZH7S94JM9&pd_rd_wg=roHIl&pd_rd_r=b8d6426c-b8eb-4073-992a-08eb6f77d3f7&pd_rd_i=B07GF99661&psc=1",
+        "asin": "B07GF99661",
+        "link_clean": "https://www.amazon.com/HENMI-Artificial-Assorted-Thanksgiving-Decorations/dp/B07GF99661/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B07GF99661&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/81r2liVbOCL._AC_UL165_SR165,165_.jpg",
+        "rating": 4.6,
+        "reviews": 1422,
+        "price": "$9.99",
+        "extracted_price": 9.99,
+        "price_unit": "$0.02/count",
+        "extracted_price_unit": 0.02,
+        "delivery": [
+          "Get it as soon as Tuesday, Oct 27"
+        ]
+      },
+      {
+        "position": 5,
+        "title": "CODE FLORIST 200 Pcs Fall Artificial Maple Leaves for Thanksgiving,Weddings Decorations,Festival Events",
+        "link": "https://www.amazon.com/CODE-FLORIST-Artificial-Thanksgiving-Decorations/dp/B07HP1KZ45/ref=pd_sbs_d_sccl_1_5/133-0300323-0331417?pd_rd_w=9PUQC&content-id=amzn1.sym.0cb10f30-7cd4-4985-9826-58b2c1174c19&pf_rd_p=0cb10f30-7cd4-4985-9826-58b2c1174c19&pf_rd_r=220NXG4234XZH7S94JM9&pd_rd_wg=roHIl&pd_rd_r=b8d6426c-b8eb-4073-992a-08eb6f77d3f7&pd_rd_i=B07HP1KZ45&psc=1",
+        "asin": "B07HP1KZ45",
+        "link_clean": "https://www.amazon.com/CODE-FLORIST-Artificial-Thanksgiving-Decorations/dp/B07HP1KZ45/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B07HP1KZ45&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/818n0f1-KBL._AC_UL165_SR165,165_.jpg",
+        "rating": 4.3,
+        "reviews": 850,
+        "price": "$6.99",
+        "extracted_price": 6.99,
+        "price_unit": "$0.03/count",
+        "extracted_price_unit": 0.03,
+        "delivery": [
+          "Get it as soon as Tuesday, Oct 27"
+        ]
+      },
+      {
+        "position": 6,
+        "title": "PATIKIL Artificial Leaves, 200 Pcs Mixed Fall Maple Autumn Fake Leaf for Wedding Party Thanksgiving Halloween Decoration, 4 A",
+        "link": "https://www.amazon.com/PATIKIL-Artificial-Thanksgiving-Halloween-Decoration/dp/B0C3VTSZL9/ref=pd_sbs_d_sccl_1_6/133-0300323-0331417?pd_rd_w=9PUQC&content-id=amzn1.sym.0cb10f30-7cd4-4985-9826-58b2c1174c19&pf_rd_p=0cb10f30-7cd4-4985-9826-58b2c1174c19&pf_rd_r=220NXG4234XZH7S94JM9&pd_rd_wg=roHIl&pd_rd_r=b8d6426c-b8eb-4073-992a-08eb6f77d3f7&pd_rd_i=B0C3VTSZL9&psc=1",
+        "asin": "B0C3VTSZL9",
+        "link_clean": "https://www.amazon.com/PATIKIL-Artificial-Thanksgiving-Halloween-Decoration/dp/B0C3VTSZL9/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0C3VTSZL9&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/812l-PpU0sL._AC_UL165_SR165,165_.jpg",
+        "rating": 4.4,
+        "reviews": 87,
+        "price": "$9.19",
+        "extracted_price": 9.19,
+        "price_unit": "List: $12.34",
+        "extracted_price_unit": 12.34,
+        "old_price": "$12.34",
+        "extracted_old_price": 12.34,
+        "delivery": [
+          "Get it as soon as Tuesday, Oct 27"
+        ]
+      },
+      {
+        "position": 7,
+        "asin": "B07GF99661",
+        "title": "HENMI 500PCS Artificial Maple Leaves 5 Assorted Mixed Fake Fall Maple Leaf | Lifelike Looking Silk Autumn Leaf Garland for Halloween Fall Decor Party Festival Thanksgiving Table Decorations",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MToxMTk2MTA0MDE3MTY2MjgwOjE3OTI2ODU4MDU6c3BfZGV0YWlsMjozMDE1Nzk5MTc5NzYxMDI6Ojo6&url=%2Fdp%2FB07GF99661%2Fref%3Dsspa_dk_detail_0%3Fpsc%3D1%26pd_rd_i%3DB07GF99661%26pd_rd_w%3DQopUi%26content-id%3Damzn1.sym.4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_p%3D4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_r%3D220NXG4234XZH7S94JM9%26pd_rd_wg%3DroHIl%26pd_rd_r%3Db8d6426c-b8eb-4073-992a-08eb6f77d3f7%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+        "link_clean": "https://www.amazon.com/dp/B07GF99661/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B07GF99661&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "thumbnail": "https://m.media-amazon.com/images/I/81r2liVbOCL._AC_UF480,480_SR480,480_.jpg",
+        "rating": 4.6,
+        "reviews": 1422,
+        "price": "$9.99",
+        "extracted_price": 9.99,
+        "price_unit": "$0.02 / count",
+        "extracted_price_unit": 0.02
+      },
+      {
+        "position": 8,
+        "asin": "B0D45HLZ8R",
+        "title": "59PCS Large Maple Leaves Fall Artificial Decorations Autumn | Fabric Faux Leaf, Mul...",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MToxMTk2MTA0MDE3MTY2MjgwOjE3OTI2ODU4MDU6c3BfZGV0YWlsMjozMDAzNTY2MTUzMjU0MDI6Ojo6&url=%2Fdp%2FB0D45HLZ8R%2Fref%3Dsspa_dk_detail_1%3Fpsc%3D1%26pd_rd_i%3DB0D45HLZ8R%26pd_rd_w%3DQopUi%26content-id%3Damzn1.sym.4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_p%3D4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_r%3D220NXG4234XZH7S94JM9%26pd_rd_wg%3DroHIl%26pd_rd_r%3Db8d6426c-b8eb-4073-992a-08eb6f77d3f7%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+        "link_clean": "https://www.amazon.com/dp/B0D45HLZ8R/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0D45HLZ8R&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "badges": [
+          "Amazon's Choice"
+        ],
+        "thumbnail": "https://m.media-amazon.com/images/I/91AOMVBDdwL._AC_UF480,480_SR480,480_.jpg",
+        "rating": 4.3,
+        "reviews": 51,
+        "price": "$15.99",
+        "extracted_price": 15.99,
+        "price_unit": "$0.27 / count",
+        "extracted_price_unit": 0.27
+      },
+      {
+        "position": 9,
+        "asin": "B0FC6LYZVS",
+        "title": "24 Pack Fall Leaf Garland, Hanging Vines Garland Artificial Fall Maple Leaves Thank...",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MToxMTk2MTA0MDE3MTY2MjgwOjE3OTI2ODU4MDU6c3BfZGV0YWlsMjozMDEwNTc1Nzg3NTU4MDI6Ojo6&url=%2Fdp%2FB0FC6LYZVS%2Fref%3Dsspa_dk_detail_2%3Fpsc%3D1%26pd_rd_i%3DB0FC6LYZVS%26pd_rd_w%3DQopUi%26content-id%3Damzn1.sym.4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_p%3D4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_r%3D220NXG4234XZH7S94JM9%26pd_rd_wg%3DroHIl%26pd_rd_r%3Db8d6426c-b8eb-4073-992a-08eb6f77d3f7%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+        "link_clean": "https://www.amazon.com/dp/B0FC6LYZVS/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0FC6LYZVS&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "thumbnail": "https://m.media-amazon.com/images/I/91arrYm2IOL._AC_UF480,480_SR480,480_.jpg",
+        "rating": 5.0,
+        "reviews": 4,
+        "price": "$16.99",
+        "extracted_price": 16.99,
+        "price_unit": "$0.09 / feet",
+        "extracted_price_unit": 0.09,
+        "climate_pledge_friendly": true
+      },
+      {
+        "position": 10,
+        "asin": "B0C2P7HBKV",
+        "title": "Pumpkin Decor Set, 23 PCS Fall Harvest Bowl Filler Decorations | Including Mini Pum...",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MToxMTk2MTA0MDE3MTY2MjgwOjE3OTI2ODU4MDU6c3BfZGV0YWlsMjozMDEwMzIxOTA4MjU4MDI6Ojo6&url=%2Fdp%2FB0C2P7HBKV%2Fref%3Dsspa_dk_detail_3%3Fpsc%3D1%26pd_rd_i%3DB0C2P7HBKV%26pd_rd_w%3DQopUi%26content-id%3Damzn1.sym.4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_p%3D4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_r%3D220NXG4234XZH7S94JM9%26pd_rd_wg%3DroHIl%26pd_rd_r%3Db8d6426c-b8eb-4073-992a-08eb6f77d3f7%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+        "link_clean": "https://www.amazon.com/dp/B0C2P7HBKV/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0C2P7HBKV&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "thumbnail": "https://m.media-amazon.com/images/I/81sUQUda50L._AC_UF480,480_SR480,480_.jpg",
+        "rating": 4.4,
+        "reviews": 1093,
+        "discount": "-12%",
+        "price": "$14.99",
+        "extracted_price": 14.99,
+        "price_unit": "$0.65 / count",
+        "extracted_price_unit": 0.65,
+        "old_price": "null"
+      },
+      {
+        "position": 11,
+        "asin": "B0HDC3CRP4",
+        "title": "200PCS Fall Artificial Maple Leaves, 4 Colors Fake Fall Leaves, 3.1inch Artificial ...",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MToxMTk2MTA0MDE3MTY2MjgwOjE3OTI2ODU4MDU6c3BfZGV0YWlsMjozMDE0OTgxMzM1NDczMDI6Ojo6&url=%2Fdp%2FB0HDC3CRP4%2Fref%3Dsspa_dk_detail_4%3Fpsc%3D1%26pd_rd_i%3DB0HDC3CRP4%26pd_rd_w%3DQopUi%26content-id%3Damzn1.sym.4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_p%3D4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_r%3D220NXG4234XZH7S94JM9%26pd_rd_wg%3DroHIl%26pd_rd_r%3Db8d6426c-b8eb-4073-992a-08eb6f77d3f7%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+        "link_clean": "https://www.amazon.com/dp/B0HDC3CRP4/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0HDC3CRP4&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "thumbnail": "https://m.media-amazon.com/images/I/91BJA07xVEL._AC_UF480,480_SR480,480_.jpg",
+        "rating": 4.6,
+        "reviews": 34,
+        "discount": "-40%",
+        "price": "$5.99",
+        "extracted_price": 5.99,
+        "price_unit": "$0.03 / count",
+        "extracted_price_unit": 0.03,
+        "old_price": "null",
+        "save_with_coupon": "You pay $5.69"
+      },
+      {
+        "position": 12,
+        "asin": "B0B2MWBLBS",
+        "title": "Grunyia 6Pcs Artificial Maple Leaves Branches Fake Fall Maple Shrubs for Thanksgiving Christmas Festival Garland Decoration",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MToxMTk2MTA0MDE3MTY2MjgwOjE3OTI2ODU4MDU6c3BfZGV0YWlsMjozMDE1MjIxOTUzODIyMDI6Ojo6&url=%2Fdp%2FB0B2MWBLBS%2Fref%3Dsspa_dk_detail_5%3Fpsc%3D1%26pd_rd_i%3DB0B2MWBLBS%26pd_rd_w%3DQopUi%26content-id%3Damzn1.sym.4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_p%3D4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_r%3D220NXG4234XZH7S94JM9%26pd_rd_wg%3DroHIl%26pd_rd_r%3Db8d6426c-b8eb-4073-992a-08eb6f77d3f7%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+        "link_clean": "https://www.amazon.com/dp/B0B2MWBLBS/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0B2MWBLBS&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "thumbnail": "https://m.media-amazon.com/images/I/71aZh+v3NhL._AC_UF480,480_SR480,480_.jpg",
+        "rating": 4.3,
+        "reviews": 355,
+        "discount": "-24%",
+        "price": "$24.99",
+        "extracted_price": 24.99,
+        "price_unit": "$4.17 / count",
+        "extracted_price_unit": 4.17,
+        "old_price": "null"
+      },
+      {
+        "position": 13,
+        "asin": "B0D766X1ZR",
+        "title": "400Pcs Fake Fall Leaves, Maple Leaf for Thanksgiving Decor | Autumn Leaves for Craf...",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MToxMTk2MTA0MDE3MTY2MjgwOjE3OTI2ODU4MDU6c3BfZGV0YWlsMjozMDE0MDAzOTQwMTU5MDI6Ojo6&url=%2Fdp%2FB0D766X1ZR%2Fref%3Dsspa_dk_detail_6%3Fpsc%3D1%26pd_rd_i%3DB0D766X1ZR%26pd_rd_w%3DQopUi%26content-id%3Damzn1.sym.4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_p%3D4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_r%3D220NXG4234XZH7S94JM9%26pd_rd_wg%3DroHIl%26pd_rd_r%3Db8d6426c-b8eb-4073-992a-08eb6f77d3f7%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+        "link_clean": "https://www.amazon.com/dp/B0D766X1ZR/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0D766X1ZR&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "thumbnail": "https://m.media-amazon.com/images/I/91rJ3YrE5TL._AC_UF480,480_SR480,480_.jpg",
+        "rating": 4.3,
+        "reviews": 475,
+        "price": "$9.99",
+        "extracted_price": 9.99,
+        "price_unit": "$0.02 / count",
+        "extracted_price_unit": 0.02
+      }
+    ],
+    "related_product_sections": [
+      {
+        "title": "Customers who viewed this item also viewed",
+        "items": [
+          {
+            "position": 1,
+            "title": "Jiesky 360 Pcs 8cm/3.1inch Artificial Maple Leaves 6 Colors Fall Leaves Thanksgiving Day Autumn Leaf Decorations Wedding Part",
+            "link": "https://www.amazon.com/Jiesky-3-1inch-Artificial-Thanksgiving-Decorations/dp/B0D9KBMMFV/ref=pd_sbs_d_sccl_1_1/133-0300323-0331417?pd_rd_w=9PUQC&content-id=amzn1.sym.0cb10f30-7cd4-4985-9826-58b2c1174c19&pf_rd_p=0cb10f30-7cd4-4985-9826-58b2c1174c19&pf_rd_r=220NXG4234XZH7S94JM9&pd_rd_wg=roHIl&pd_rd_r=b8d6426c-b8eb-4073-992a-08eb6f77d3f7&pd_rd_i=B0D9KBMMFV&psc=1",
+            "asin": "B0D9KBMMFV",
+            "link_clean": "https://www.amazon.com/Jiesky-3-1inch-Artificial-Thanksgiving-Decorations/dp/B0D9KBMMFV/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0D9KBMMFV&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "badges": [
+              "Amazon's Choice"
+            ],
+            "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/81cKKOjtf7L._AC_UL165_SR165,165_.jpg",
+            "rating": 4.6,
+            "reviews": 682,
+            "price": "$7.99",
+            "extracted_price": 7.99,
+            "price_unit": "$0.02/count",
+            "extracted_price_unit": 0.02,
+            "delivery": [
+              "Get it as soon as Tuesday, Oct 27"
+            ]
+          },
+          {
+            "position": 2,
+            "title": "MAQIHAN 350PCS Fall Maple Leaves - Autumn Fall Maple Leaf Garland hojas de otoño para decorar Foliage Artificial Table Decora",
+            "link": "https://www.amazon.com/MAQIHAN-350PCS-Fall-Maple-Leaves/dp/B0CJBXWXNN/ref=pd_sbs_d_sccl_1_2/133-0300323-0331417?pd_rd_w=9PUQC&content-id=amzn1.sym.0cb10f30-7cd4-4985-9826-58b2c1174c19&pf_rd_p=0cb10f30-7cd4-4985-9826-58b2c1174c19&pf_rd_r=220NXG4234XZH7S94JM9&pd_rd_wg=roHIl&pd_rd_r=b8d6426c-b8eb-4073-992a-08eb6f77d3f7&pd_rd_i=B0CJBXWXNN&psc=1",
+            "asin": "B0CJBXWXNN",
+            "link_clean": "https://www.amazon.com/MAQIHAN-350PCS-Fall-Maple-Leaves/dp/B0CJBXWXNN/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0CJBXWXNN&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/81prR+5JbzL._AC_UL165_SR165,165_.jpg",
+            "rating": 4.6,
+            "reviews": 333,
+            "price": "$7.99",
+            "extracted_price": 7.99,
+            "price_unit": "$0.02/count",
+            "extracted_price_unit": 0.02,
+            "delivery": [
+              "Get it as soon as Tuesday, Oct 27"
+            ]
+          },
+          {
+            "position": 3,
+            "title": "VENCELIN 50Pcs Fall Artificial Maple Leaves Assorted Bulk for Crafts Decor | 50pcs mixed maple leaves, realistic, fall crafts",
+            "link": "https://www.amazon.com/VENCELIN-50Pcs-Artificial-Maple-Leaves/dp/B0C3YQBKHH/ref=pd_sbs_d_sccl_1_3/133-0300323-0331417?pd_rd_w=9PUQC&content-id=amzn1.sym.0cb10f30-7cd4-4985-9826-58b2c1174c19&pf_rd_p=0cb10f30-7cd4-4985-9826-58b2c1174c19&pf_rd_r=220NXG4234XZH7S94JM9&pd_rd_wg=roHIl&pd_rd_r=b8d6426c-b8eb-4073-992a-08eb6f77d3f7&pd_rd_i=B0C3YQBKHH&psc=1",
+            "asin": "B0C3YQBKHH",
+            "link_clean": "https://www.amazon.com/VENCELIN-50Pcs-Artificial-Maple-Leaves/dp/B0C3YQBKHH/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0C3YQBKHH&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/81-4ZLNXjSL._AC_UL165_SR165,165_.jpg",
+            "rating": 4.6,
+            "reviews": 196,
+            "price": "$12.99",
+            "extracted_price": 12.99,
+            "price_unit": "$0.26/count",
+            "extracted_price_unit": 0.26,
+            "delivery": [
+              "Get it as soon as Wednesday, Oct 28"
+            ]
+          },
+          {
+            "position": 4,
+            "title": "HENMI 500PCS Artificial Maple Leaves 5 Assorted Mixed Fake Fall Maple Leaf | Lifelike Looking Silk Autumn Leaf Garland for Ha",
+            "link": "https://www.amazon.com/HENMI-Artificial-Assorted-Thanksgiving-Decorations/dp/B07GF99661/ref=pd_sbs_d_sccl_1_4/133-0300323-0331417?pd_rd_w=9PUQC&content-id=amzn1.sym.0cb10f30-7cd4-4985-9826-58b2c1174c19&pf_rd_p=0cb10f30-7cd4-4985-9826-58b2c1174c19&pf_rd_r=220NXG4234XZH7S94JM9&pd_rd_wg=roHIl&pd_rd_r=b8d6426c-b8eb-4073-992a-08eb6f77d3f7&pd_rd_i=B07GF99661&psc=1",
+            "asin": "B07GF99661",
+            "link_clean": "https://www.amazon.com/HENMI-Artificial-Assorted-Thanksgiving-Decorations/dp/B07GF99661/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B07GF99661&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/81r2liVbOCL._AC_UL165_SR165,165_.jpg",
+            "rating": 4.6,
+            "reviews": 1422,
+            "price": "$9.99",
+            "extracted_price": 9.99,
+            "price_unit": "$0.02/count",
+            "extracted_price_unit": 0.02,
+            "delivery": [
+              "Get it as soon as Tuesday, Oct 27"
+            ]
+          },
+          {
+            "position": 5,
+            "title": "CODE FLORIST 200 Pcs Fall Artificial Maple Leaves for Thanksgiving,Weddings Decorations,Festival Events",
+            "link": "https://www.amazon.com/CODE-FLORIST-Artificial-Thanksgiving-Decorations/dp/B07HP1KZ45/ref=pd_sbs_d_sccl_1_5/133-0300323-0331417?pd_rd_w=9PUQC&content-id=amzn1.sym.0cb10f30-7cd4-4985-9826-58b2c1174c19&pf_rd_p=0cb10f30-7cd4-4985-9826-58b2c1174c19&pf_rd_r=220NXG4234XZH7S94JM9&pd_rd_wg=roHIl&pd_rd_r=b8d6426c-b8eb-4073-992a-08eb6f77d3f7&pd_rd_i=B07HP1KZ45&psc=1",
+            "asin": "B07HP1KZ45",
+            "link_clean": "https://www.amazon.com/CODE-FLORIST-Artificial-Thanksgiving-Decorations/dp/B07HP1KZ45/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B07HP1KZ45&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/818n0f1-KBL._AC_UL165_SR165,165_.jpg",
+            "rating": 4.3,
+            "reviews": 850,
+            "price": "$6.99",
+            "extracted_price": 6.99,
+            "price_unit": "$0.03/count",
+            "extracted_price_unit": 0.03,
+            "delivery": [
+              "Get it as soon as Tuesday, Oct 27"
+            ]
+          },
+          {
+            "position": 6,
+            "title": "PATIKIL Artificial Leaves, 200 Pcs Mixed Fall Maple Autumn Fake Leaf for Wedding Party Thanksgiving Halloween Decoration, 4 A",
+            "link": "https://www.amazon.com/PATIKIL-Artificial-Thanksgiving-Halloween-Decoration/dp/B0C3VTSZL9/ref=pd_sbs_d_sccl_1_6/133-0300323-0331417?pd_rd_w=9PUQC&content-id=amzn1.sym.0cb10f30-7cd4-4985-9826-58b2c1174c19&pf_rd_p=0cb10f30-7cd4-4985-9826-58b2c1174c19&pf_rd_r=220NXG4234XZH7S94JM9&pd_rd_wg=roHIl&pd_rd_r=b8d6426c-b8eb-4073-992a-08eb6f77d3f7&pd_rd_i=B0C3VTSZL9&psc=1",
+            "asin": "B0C3VTSZL9",
+            "link_clean": "https://www.amazon.com/PATIKIL-Artificial-Thanksgiving-Halloween-Decoration/dp/B0C3VTSZL9/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0C3VTSZL9&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/812l-PpU0sL._AC_UL165_SR165,165_.jpg",
+            "rating": 4.4,
+            "reviews": 87,
+            "price": "$9.19",
+            "extracted_price": 9.19,
+            "price_unit": "List: $12.34",
+            "extracted_price_unit": 12.34,
+            "old_price": "$12.34",
+            "extracted_old_price": 12.34,
+            "delivery": [
+              "Get it as soon as Tuesday, Oct 27"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Products related to this item",
+        "items": [
+          {
+            "position": 1,
+            "asin": "B07GF99661",
+            "title": "HENMI 500PCS Artificial Maple Leaves 5 Assorted Mixed Fake Fall Maple Leaf | Lifelike Looking Silk Autumn Leaf Garland for Halloween Fall Decor Party Festival Thanksgiving Table Decorations",
+            "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MToxMTk2MTA0MDE3MTY2MjgwOjE3OTI2ODU4MDU6c3BfZGV0YWlsMjozMDE1Nzk5MTc5NzYxMDI6Ojo6&url=%2Fdp%2FB07GF99661%2Fref%3Dsspa_dk_detail_0%3Fpsc%3D1%26pd_rd_i%3DB07GF99661%26pd_rd_w%3DQopUi%26content-id%3Damzn1.sym.4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_p%3D4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_r%3D220NXG4234XZH7S94JM9%26pd_rd_wg%3DroHIl%26pd_rd_r%3Db8d6426c-b8eb-4073-992a-08eb6f77d3f7%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+            "link_clean": "https://www.amazon.com/dp/B07GF99661/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B07GF99661&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "thumbnail": "https://m.media-amazon.com/images/I/81r2liVbOCL._AC_UF480,480_SR480,480_.jpg",
+            "rating": 4.6,
+            "reviews": 1422,
+            "price": "$9.99",
+            "extracted_price": 9.99,
+            "price_unit": "$0.02 / count",
+            "extracted_price_unit": 0.02
+          },
+          {
+            "position": 2,
+            "asin": "B0D45HLZ8R",
+            "title": "59PCS Large Maple Leaves Fall Artificial Decorations Autumn | Fabric Faux Leaf, Mul...",
+            "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MToxMTk2MTA0MDE3MTY2MjgwOjE3OTI2ODU4MDU6c3BfZGV0YWlsMjozMDAzNTY2MTUzMjU0MDI6Ojo6&url=%2Fdp%2FB0D45HLZ8R%2Fref%3Dsspa_dk_detail_1%3Fpsc%3D1%26pd_rd_i%3DB0D45HLZ8R%26pd_rd_w%3DQopUi%26content-id%3Damzn1.sym.4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_p%3D4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_r%3D220NXG4234XZH7S94JM9%26pd_rd_wg%3DroHIl%26pd_rd_r%3Db8d6426c-b8eb-4073-992a-08eb6f77d3f7%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+            "link_clean": "https://www.amazon.com/dp/B0D45HLZ8R/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0D45HLZ8R&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "badges": [
+              "Amazon's Choice"
+            ],
+            "thumbnail": "https://m.media-amazon.com/images/I/91AOMVBDdwL._AC_UF480,480_SR480,480_.jpg",
+            "rating": 4.3,
+            "reviews": 51,
+            "price": "$15.99",
+            "extracted_price": 15.99,
+            "price_unit": "$0.27 / count",
+            "extracted_price_unit": 0.27
+          },
+          {
+            "position": 3,
+            "asin": "B0FC6LYZVS",
+            "title": "24 Pack Fall Leaf Garland, Hanging Vines Garland Artificial Fall Maple Leaves Thank...",
+            "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MToxMTk2MTA0MDE3MTY2MjgwOjE3OTI2ODU4MDU6c3BfZGV0YWlsMjozMDEwNTc1Nzg3NTU4MDI6Ojo6&url=%2Fdp%2FB0FC6LYZVS%2Fref%3Dsspa_dk_detail_2%3Fpsc%3D1%26pd_rd_i%3DB0FC6LYZVS%26pd_rd_w%3DQopUi%26content-id%3Damzn1.sym.4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_p%3D4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_r%3D220NXG4234XZH7S94JM9%26pd_rd_wg%3DroHIl%26pd_rd_r%3Db8d6426c-b8eb-4073-992a-08eb6f77d3f7%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+            "link_clean": "https://www.amazon.com/dp/B0FC6LYZVS/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0FC6LYZVS&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "thumbnail": "https://m.media-amazon.com/images/I/91arrYm2IOL._AC_UF480,480_SR480,480_.jpg",
+            "rating": 5.0,
+            "reviews": 4,
+            "price": "$16.99",
+            "extracted_price": 16.99,
+            "price_unit": "$0.09 / feet",
+            "extracted_price_unit": 0.09,
+            "climate_pledge_friendly": true
+          },
+          {
+            "position": 4,
+            "asin": "B0C2P7HBKV",
+            "title": "Pumpkin Decor Set, 23 PCS Fall Harvest Bowl Filler Decorations | Including Mini Pum...",
+            "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MToxMTk2MTA0MDE3MTY2MjgwOjE3OTI2ODU4MDU6c3BfZGV0YWlsMjozMDEwMzIxOTA4MjU4MDI6Ojo6&url=%2Fdp%2FB0C2P7HBKV%2Fref%3Dsspa_dk_detail_3%3Fpsc%3D1%26pd_rd_i%3DB0C2P7HBKV%26pd_rd_w%3DQopUi%26content-id%3Damzn1.sym.4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_p%3D4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_r%3D220NXG4234XZH7S94JM9%26pd_rd_wg%3DroHIl%26pd_rd_r%3Db8d6426c-b8eb-4073-992a-08eb6f77d3f7%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+            "link_clean": "https://www.amazon.com/dp/B0C2P7HBKV/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0C2P7HBKV&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "thumbnail": "https://m.media-amazon.com/images/I/81sUQUda50L._AC_UF480,480_SR480,480_.jpg",
+            "rating": 4.4,
+            "reviews": 1093,
+            "discount": "-12%",
+            "price": "$14.99",
+            "extracted_price": 14.99,
+            "price_unit": "$0.65 / count",
+            "extracted_price_unit": 0.65,
+            "old_price": "null"
+          },
+          {
+            "position": 5,
+            "asin": "B0HDC3CRP4",
+            "title": "200PCS Fall Artificial Maple Leaves, 4 Colors Fake Fall Leaves, 3.1inch Artificial ...",
+            "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MToxMTk2MTA0MDE3MTY2MjgwOjE3OTI2ODU4MDU6c3BfZGV0YWlsMjozMDE0OTgxMzM1NDczMDI6Ojo6&url=%2Fdp%2FB0HDC3CRP4%2Fref%3Dsspa_dk_detail_4%3Fpsc%3D1%26pd_rd_i%3DB0HDC3CRP4%26pd_rd_w%3DQopUi%26content-id%3Damzn1.sym.4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_p%3D4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_r%3D220NXG4234XZH7S94JM9%26pd_rd_wg%3DroHIl%26pd_rd_r%3Db8d6426c-b8eb-4073-992a-08eb6f77d3f7%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+            "link_clean": "https://www.amazon.com/dp/B0HDC3CRP4/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0HDC3CRP4&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "thumbnail": "https://m.media-amazon.com/images/I/91BJA07xVEL._AC_UF480,480_SR480,480_.jpg",
+            "rating": 4.6,
+            "reviews": 34,
+            "discount": "-40%",
+            "price": "$5.99",
+            "extracted_price": 5.99,
+            "price_unit": "$0.03 / count",
+            "extracted_price_unit": 0.03,
+            "old_price": "null",
+            "save_with_coupon": "You pay $5.69"
+          },
+          {
+            "position": 6,
+            "asin": "B0B2MWBLBS",
+            "title": "Grunyia 6Pcs Artificial Maple Leaves Branches Fake Fall Maple Shrubs for Thanksgiving Christmas Festival Garland Decoration",
+            "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MToxMTk2MTA0MDE3MTY2MjgwOjE3OTI2ODU4MDU6c3BfZGV0YWlsMjozMDE1MjIxOTUzODIyMDI6Ojo6&url=%2Fdp%2FB0B2MWBLBS%2Fref%3Dsspa_dk_detail_5%3Fpsc%3D1%26pd_rd_i%3DB0B2MWBLBS%26pd_rd_w%3DQopUi%26content-id%3Damzn1.sym.4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_p%3D4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_r%3D220NXG4234XZH7S94JM9%26pd_rd_wg%3DroHIl%26pd_rd_r%3Db8d6426c-b8eb-4073-992a-08eb6f77d3f7%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+            "link_clean": "https://www.amazon.com/dp/B0B2MWBLBS/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0B2MWBLBS&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "thumbnail": "https://m.media-amazon.com/images/I/71aZh+v3NhL._AC_UF480,480_SR480,480_.jpg",
+            "rating": 4.3,
+            "reviews": 355,
+            "discount": "-24%",
+            "price": "$24.99",
+            "extracted_price": 24.99,
+            "price_unit": "$4.17 / count",
+            "extracted_price_unit": 4.17,
+            "old_price": "null"
+          },
+          {
+            "position": 7,
+            "asin": "B0D766X1ZR",
+            "title": "400Pcs Fake Fall Leaves, Maple Leaf for Thanksgiving Decor | Autumn Leaves for Craf...",
+            "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MToxMTk2MTA0MDE3MTY2MjgwOjE3OTI2ODU4MDU6c3BfZGV0YWlsMjozMDE0MDAzOTQwMTU5MDI6Ojo6&url=%2Fdp%2FB0D766X1ZR%2Fref%3Dsspa_dk_detail_6%3Fpsc%3D1%26pd_rd_i%3DB0D766X1ZR%26pd_rd_w%3DQopUi%26content-id%3Damzn1.sym.4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_p%3D4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_r%3D220NXG4234XZH7S94JM9%26pd_rd_wg%3DroHIl%26pd_rd_r%3Db8d6426c-b8eb-4073-992a-08eb6f77d3f7%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+            "link_clean": "https://www.amazon.com/dp/B0D766X1ZR/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0D766X1ZR&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "thumbnail": "https://m.media-amazon.com/images/I/91rJ3YrE5TL._AC_UF480,480_SR480,480_.jpg",
+            "rating": 4.3,
+            "reviews": 475,
+            "price": "$9.99",
+            "extracted_price": 9.99,
+            "price_unit": "$0.02 / count",
+            "extracted_price_unit": 0.02
+          }
+        ]
+      }
+    ],
+    "videos": [
+      {
+        "position": 1,
+        "title": "Product Overview Video",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/fa23dd11-dd60-49b5-a3e6-268a2507ee09/default.vertical.jobtemplate.hls.m3u8",
+        "thumbnail": "https://m.media-amazon.com/images/I/71QPJLMNaTL.jpg",
+        "duration": "0:25",
+        "vendor": "Amazon Product Imaging",
+        "date": "Nov 27, 2024"
+      },
+      {
+        "position": 2,
+        "title": "Strange fish bate like smell",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/fb363c5d-c33a-47f8-95b0-a04367af6073/default.vertical.jobtemplate.hls.m3u8",
+        "thumbnail": "https://m.media-amazon.com/images/I/61oJdWcg9GL.jpg",
+        "duration": "0:08",
+        "vendor": "Brooklyn L.",
+        "vendor_thumbnail": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SL34_.png",
+        "date": "Sep 18, 2023"
+      },
+      {
+        "position": 3,
+        "title": "Great buy.",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/d88eb2ea-180a-43de-a65f-3981031b5b59/default.vertical.jobtemplate.hls.m3u8",
+        "thumbnail": "https://m.media-amazon.com/images/I/61MuuXFYmUL.jpg",
+        "duration": "0:06",
+        "vendor": "Tanaeya",
+        "vendor_thumbnail": "https://m.media-amazon.com/images/S/amazon-avatars-global/dc8bc32f-650f-449d-a03b-037470ba0576._CR0%2C21%2C290%2C290_UX460_._SL34_.jpg",
+        "date": "Oct 2, 2021"
+      },
+      {
+        "position": 4,
+        "title": "This are so pretty",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/e75e4a2d-4697-4304-bbc1-d77a0d5ce0d2/default.jobtemplate.hls.m3u8",
+        "thumbnail": "https://m.media-amazon.com/images/I/51btFR3MKFL.jpg",
+        "duration": "0:25",
+        "vendor": "Ej Luxe",
+        "vendor_thumbnail": "https://m.media-amazon.com/images/S/amazon-avatars-global/07f07241-5803-4b2d-84b1-29be99240bac._CR0%2C0%2C828%2C828_SX460_._SL34_.jpg",
+        "date": "Nov 19, 2022"
+      },
+      {
+        "position": 5,
+        "title": "Artificial Autumn Maple Leaves",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/2f1cd7cd-5712-4704-8651-8dca07709d1d/default.jobtemplate.hls.m3u8",
+        "thumbnail": "https://m.media-amazon.com/images/I/811YRESPRNL.jpg",
+        "duration": "0:36",
+        "vendor": "Whale Online US",
+        "date": "Oct 8, 2020"
+      },
+      {
+        "position": 6,
+        "title": "Artificial Autumn Maple Leaves",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/41dc0995-a8e5-4db7-81f1-57238580d5a0/default.vertical.jobtemplate.hls.m3u8",
+        "thumbnail": "https://m.media-amazon.com/images/I/61tl0Bbs7kL.jpg",
+        "duration": "0:27",
+        "vendor": "Try This DIY",
+        "vendor_thumbnail": "https://m.media-amazon.com/images/I/61hrgvfXf4L._CR180,110,444,445_._FMjpg_._SL34_.jpg",
+        "date": "Oct 17, 2023"
+      },
+      {
+        "position": 7,
+        "title": "Grab These Fall Artificial Leaves To Decorate!",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/8a877532-e252-4e03-b492-17fc3d24562c/default.vertical.jobtemplate.hls.m3u8",
+        "thumbnail": "https://m.media-amazon.com/images/I/A1HU2CuPQoL.jpg",
+        "duration": "0:20",
+        "vendor": "JOY Filled Finds",
+        "vendor_thumbnail": "https://images-na.ssl-images-amazon.com/images/S/influencer-profile-image-prod/logo/musicalmeinokc_1682356061625_original._FMjpg_._SL34_.jpeg",
+        "date": "Sep 16, 2024"
+      },
+      {
+        "position": 8,
+        "title": "Luxury Furniture for Your Home",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/69160d6d-d905-46af-aaa7-afe6965e536b/default.jobtemplate.hls.m3u8",
+        "thumbnail": "https://m.media-amazon.com/images/I/51Xv-WJfRFL.jpg",
+        "duration": "0:33",
+        "vendor": "Tetony",
+        "vendor_thumbnail": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SL34_.png",
+        "date": "Mar 14, 2025"
+      },
+      {
+        "position": 9,
+        "title": "Beautiful fake leaves",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/8483e167-2bca-40c3-94bb-9339b2ca65e0/default.vertical.jobtemplate.hls.m3u8",
+        "thumbnail": "https://m.media-amazon.com/images/I/71sY87YvrBL.jpg",
+        "duration": "0:28",
+        "vendor": "Elfyaubrie",
+        "vendor_thumbnail": "https://m.media-amazon.com/images/I/A1XvOGxC+xL._CR0,242,1306,1306_._FMjpg_._SL34_.jpg",
+        "date": "Nov 8, 2024"
+      },
+      {
+        "position": 10,
+        "title": "Create A Festive Look w Artificial Maple Leafs_ #Home Decor",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/59a00aae-b049-41c5-baf5-64bffcbf1b3f/default.vertical.jobtemplate.hls.m3u8",
+        "thumbnail": "https://m.media-amazon.com/images/I/A11a5tku52L.jpg",
+        "duration": "0:29",
+        "vendor": "Ryan Young",
+        "vendor_thumbnail": "https://images-na.ssl-images-amazon.com/images/S/influencer-profile-image-prod/logo/ryanyoung_1658971312795_original._CR0,0,2422,2422_._FMjpg_._SL34_.jpeg",
+        "date": "Sep 15, 2024"
+      }
+    ],
+    "product_description": [
+      {
+        "position": 1,
+        "title": "Fall Artificial Maple Leaves",
+        "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/6ac92206-c173-4a09-a1eb-092ba58378ee.__CR0,0,1464,600_PT0_SX1464_V1___.jpg"
+      },
+      {
+        "position": 2,
+        "title": "Fall Artificial Maple Leaves",
+        "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/daac9885-ecf3-46a5-8ea1-7810b9b2bcdb.__CR0,0,1464,600_PT0_SX1464_V1___.jpg"
+      },
+      {
+        "position": 3,
+        "title": "Fall Artificial Maple Leaves",
+        "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/59c2ed02-0604-4f4a-85fb-b07388492e49.__CR0,0,1464,600_PT0_SX1464_V1___.jpg"
+      },
+      {
+        "position": 4,
+        "title": "Fall Artificial Maple Leaves",
+        "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/d3ca36f3-a72c-484b-b40e-18d8ceaafc27.__CR0,0,1464,600_PT0_SX1464_V1___.jpg"
+      },
+      {
+        "position": 5,
+        "title": "Fall Artificial Maple Leaves",
+        "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/c5ba6919-30e4-4c45-bd4e-4d95d342fb90.__CR0,0,1464,600_PT0_SX1464_V1___.jpg"
+      },
+      {
+        "position": 6
+      },
+      {
+        "position": 7,
+        "compare_with_similar": [
+          {
+            "position": 1,
+            "asin": "B074N67JFG",
+            "title": "Artificial Maple Leaves",
+            "thumbnail": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/07f839f0-2408-4d55-9394-8ee79b0a58e8.__AC_SR200,225___.jpg",
+            "link": "https://www.amazon.com/dp/B074N67JFG?ref=emc_p_m_5_i_atc",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B074N67JFG&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "rating": 4.4,
+            "reviews": 4012,
+            "price": "$6.99",
+            "extracted_price": 6.99,
+            "quantity": "300 Pcs",
+            "design": "1 Design",
+            "material": "Polyester"
+          },
+          {
+            "position": 2,
+            "asin": "B09B1QQ9BZ",
+            "title": "Faux Pumpkins",
+            "thumbnail": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/57c0c96c-8922-4f13-a99c-5123f8973c65.__AC_SR200,225___.jpg",
+            "link": "https://www.amazon.com/dp/B09B1QQ9BZ?ref=emc_p_m_5_i_atc",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B09B1QQ9BZ&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "rating": 4.6,
+            "reviews": 517,
+            "price": "$18.99",
+            "extracted_price": 18.99,
+            "quantity": "12 Pcs",
+            "design": "3 Designs",
+            "material": "Foam And Velvet"
+          },
+          {
+            "position": 3,
+            "asin": "B0D453VDZW",
+            "title": "Faux Pumpkins",
+            "thumbnail": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/06211a9f-b00c-429a-b6d6-079ae530ff82.__AC_SR200,225___.jpg",
+            "link": "https://www.amazon.com/dp/B0D453VDZW?ref=emc_p_m_5_i_atc",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0D453VDZW&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "rating": 4.5,
+            "reviews": 56,
+            "price": "$21.99",
+            "extracted_price": 21.99,
+            "quantity": "12 Pcs",
+            "design": "3 Designs",
+            "material": "Foam And Velvet"
+          },
+          {
+            "position": 4,
+            "asin": "B095W94HLX",
+            "title": "Faux Pumpkins",
+            "thumbnail": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/a336ed22-9d5a-4cb0-94b1-c3e13c4f6d71.__AC_SR200,225___.jpg",
+            "link": "https://www.amazon.com/dp/B095W94HLX?ref=emc_p_m_5_i_atc",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B095W94HLX&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "rating": 4.5,
+            "reviews": 996,
+            "price": "$16.99",
+            "extracted_price": 16.99,
+            "quantity": "12 Pcs",
+            "design": "1 Design",
+            "material": "Foam And Plastic"
+          },
+          {
+            "position": 5,
+            "asin": "B07WLC1S85",
+            "title": "Mini Acrylic Decorations",
+            "thumbnail": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/07caaad2-1d13-46dd-9abb-70219b9e648c.__AC_SR200,225___.jpg",
+            "link": "https://www.amazon.com/dp/B07WLC1S85?ref=emc_p_m_5_i_atc",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B07WLC1S85&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "rating": 4.7,
+            "reviews": 294,
+            "price": "$15.99",
+            "extracted_price": 15.99,
+            "quantity": "220Pcs",
+            "design": "5 Designs",
+            "material": "Acrylic"
+          },
+          {
+            "position": 6,
+            "asin": "B0B4C958R2",
+            "title": "Artificial Berry Stems",
+            "thumbnail": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/c978b778-4f6a-4777-9888-4004d6f03f1f.__AC_SR200,225___.jpg",
+            "link": "https://www.amazon.com/dp/B0B4C958R2?ref=emc_p_m_5_i_atc",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0B4C958R2&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "rating": 4.6,
+            "reviews": 1371,
+            "price": "$16.99",
+            "extracted_price": 16.99,
+            "quantity": "12 Pcs",
+            "design": "1 Design",
+            "material": "Iron Wire And Foam"
+          },
+          {
+            "position": 7,
+            "asin": "B0D4CPYTH4",
+            "title": "Spiral Taper Candles",
+            "thumbnail": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/21e45015-5de7-466e-995a-56af73e6f7a6.__AC_SR200,225___.jpg",
+            "link": "https://www.amazon.com/dp/B0D4CPYTH4?ref=emc_p_m_5_i_atc",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0D4CPYTH4&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "rating": 4.4,
+            "reviews": 83,
+            "price": "$13.99",
+            "extracted_price": 13.99,
+            "quantity": "8Pcs",
+            "design": "4 Designs",
+            "material": "Soy Wax"
+          }
+        ]
+      }
+    ],
+    "product_details": {
+      "brand_name": "Whaline",
+      "plant_or_animal_product_type": "maple",
+      "specific_uses_for_product": "Party,Wedding",
+      "indoor_outdoor_usage": "Indoor, Outdoor",
+      "container_type": "Box",
+      "number_of_items": "300",
+      "room_type": "Patio Garden",
+      "included_components": "300 x Maple leaves",
+      "manufacturer": "Whaline",
+      "upc": "654070967581",
+      "model_number": "WH",
+      "manufacturer_part_number": "WH",
+      "best_sellers_rank": [
+        {
+          "text": "#11,506 in Home & Kitchen (See Top 100 in Home & Kitchen)",
+          "extracted_rank": 11506,
+          "link": "https://www.amazon.com/gp/bestsellers/home-garden/ref=pd_zg_ts_home-garden",
+          "link_text": "See Top 100 in Home & Kitchen"
+        },
+        {
+          "text": "#51 in Artificial Plants & Greenery",
+          "extracted_rank": 51,
+          "link": "https://www.amazon.com/gp/bestsellers/home-garden/17833726011/ref=pd_zg_hrsr_home-garden",
+          "link_text": "Artificial Plants & Greenery"
+        },
+        {
+          "text": "#70 in Artificial Flowers",
+          "extracted_rank": 70,
+          "link": "https://www.amazon.com/gp/bestsellers/home-garden/14087331/ref=pd_zg_hrsr_home-garden",
+          "link_text": "Artificial Flowers"
+        }
+      ],
+      "asin": "B074N67JFG",
+      "customer_reviews": "4.4 out of 5 stars",
+      "rating": 4.4,
+      "reviews": 4012,
+      "item_dimensions_d_x_w_x_h": "3.35\"D x 3.35\"W x 2.95\"H",
+      "item_weight": "18.14 g",
+      "package_quantity": "1",
+      "unit_count": "300 Count",
+      "color": "Multicolored",
+      "shape": "Leaf-like",
+      "seasons": "Autumn",
+      "plant_style": "Realistic Style",
+      "occasion": "Wedding Festival House Bars Party Banquet Stores",
+      "material_type": "Polyester",
+      "additional_features": "Eco-Friendly",
+      "scent_name": "unscented",
+      "flower_count": "300"
+    },
+    "sponsored_brands": [
+      {
+        "position": 1,
+        "asin": "B0D3TRGFJV",
+        "title": "CQURE 4 Pack Fall Leaf Garland, Total 23.6 Ft Artificial Fall Maple Leaves Autumn Vines Garland Thanksgiving Decor for Home Fireplace Party",
+        "link": "https://aax-us-east-retail-direct.amazon.com/x/c/JDAxlBOBaKBIgePG2o2CwEIAAAGhZGaPVQEAAAH2AQBvbm9fdHhuX2JpZDEgICBvbm9fdHhuX2ltcDIgICDgIwrI/clv1c_ek-wxXXWasTaTdOorhewS4x7Ni4N9shSsj0jbPuFr7q7O_l8XczllsMJJ4xstXaj5XpOXPrvHPZhG8AX_w_0ePqIwAg2eNRN11LNiulKbMI36hm58kCSbdfx3tX0Z_cwhF6yZnliyvQ21nMcDOF1lhTtodCMNtXskFzq1gW27FceXmAr0osOSLPVroyiBux2Gk_wrsdPNSsApYQ90gjH5tyyVCcmIBriqIyH7qqi4XoCk840BPZ0YcG8seMKreykym9Vc2eObe1i5f4tEX7mlZF3vXzBTkzry-_tkKnZW57JUZZDMCQ-UKTIGzrYNa2t3iNG_6GGgYZgdYAn_aI4U7gKHAvDYUyEsb85Zu9di8Q-jpsK2hVH-4KiWyGbKcmA_bwluOkg2QetTeeaFDOCBGk2-dMhDfCPNmEKNnMc5Raj4NOLlxSlsQ0MGhsWotbyHiLQoyS6ZWynDrLZ_whIa4yGlpMasvHhTMDCyO2hv98O68PSLj-ks69-vVUHDS4RqgmLDASnKR7kz0cBdqXlm66cwNDsNOY5d9A4qIhf58BbuErxFAMsx5u2rdxc0WxfgDVXiNaSyMKGbUcX6oOoek05szCq69vVeZPO6wrNBGKO-qyM7UJwqruBqL7SkwVhsGviJc5Dg9OiaPESdmoPA5BWRmDv6K_XqrpM3TGSieaygl0s0rJf-VEwtZd19KcRelEaNS-rcEVJTWHkqBlxQmVeT-DNSLGbDl1YdQvRuwMwL23NLGOErevJ-XA4yeuTqY-WMgdhAYnj9mJ6zSaYxHuq51S5GzXaU_30gj-akUps1HcXVBTJy19h_2psToLmL4ZlQ2Ah5zC559m9pGE8RgDEVIc2HwMykOj9XocTvNxXpPrA_sXAxMhd9eD2tMUIJYO_r2TA6Wcu_simzttimFfvIvS0gIDY6NanPAAomSlMAz3ZvjU9MxZ8u2yb-RnJ4_y0YvdWSZfAwJkt-o1XNh-8pUoTwPS5yU28I3nBF4aEG7cM3_9WWLAMRsBrM8Y4FaAYDiLZLM_B6oJ_XDKUiuag1LjHiDcERvIYJnG6w_pyiI3MISjLkq-TdZz6PH1pzCuT2rU18sz7omG8WGgALaucbmfVBIIC3DO0RB4_xoXgq-39-25CGFnhDC5cWtiVWJpyssoEE4TSnDRT16D7V55TGwRgs7tbKbk2SKzoO7JNnrsoKuHcX7NACyi0EehXTE-eVfACSGRc-Y-g3LdHNdvcKKIbDHI0pKINuhCerwBGloTDFjB-fJbfbDZ1Kql5-G7Owxr2Vx0ORR27UTLLqzoRwd3XHCJ38rlCdSwL_zNwROE6mnvokIKfJUnVijd1D3Hn__54EiXp5wGX_JfewXI1W0pSYAM1e-FY2jr-p8FRfkBnGI1qYOPfOWvZFP9WeQZ_iXLlAyvWq3v-GKQQi03Vruoc96QLCBYSrcr4NvrTE55QikVQIo70atRfqg8CPY3WO_1p7DMhStUOwAl3a94ZLfcpKfdjoWZw8nKtNhWaalCig-0eq0umKZUwi_VcschOptvX0eLbdh6LJFi2h7DwZBlSaKCTcsr5xCMv7W1NZFYbahvwhNVwlZIUjbuCY1T604Nvynr8M5d9XIDhGQ/https://www.amazon.com/dp/B0D3TRGFJV/?_encoding=UTF8&pd_rd_i=B0D3TRGFJV&pd_rd_i=B0D3TRGFJV&ref_=sbx_be_s_sparkle_ssd_cta&pd_rd_w=HaRXr&content-id=amzn1.sym.fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=220NXG4234XZH7S94JM9&pd_rd_wg=roHIl&pd_rd_r=b8d6426c-b8eb-4073-992a-08eb6f77d3f7",
+        "link_clean": "https://www.amazon.com/dp/B0D3TRGFJV/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0D3TRGFJV&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "thumbnail": "https://m.media-amazon.com/images/I/61NfOzaoMBL._AC_SR100,100_QL65_.jpg",
+        "video": {
+          "link": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/1efd6e85-d8d8-44ed-a971-f0d231fd2408.mp4/productVideoOptimized.mp4",
+          "thumbnail": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/1efd6e85-d8d8-44ed-a971-f0d231fd2408.mp4/r/THUMBNAIL_360P_FRAME_3_CAPTURE_2.JPG"
+        },
+        "rating": 4.3,
+        "reviews": 242,
+        "price": "$19.99",
+        "extracted_price": 19.99
+      },
+      {
+        "position": 2,
+        "asin": "B07RGNJYPQ",
+        "title": "Thanksgiving Decor 2 Pack Fall Garland with Lights Enlarged Maple Leaves | Thanksgiving Decorations, 20Ft 40LED Battery Operated Waterproof Fall String Lights Halloween Fall Decor for Home Outdoor",
+        "link": "https://aax-us-east-retail-direct.amazon.com/x/c/JMeiOxaYhKSYsZJYEjR_Z-sAAAGhZGaPVgEAAAH2AQBvbm9fdHhuX2JpZDEgICBvbm9fdHhuX2ltcDIgICCYGWQx/clv1c_ek-YBfHXLcTWXmxhtwlAiFwLMKlTuYptTiwRWR3llioh_DadDTrNObxwYxTJeEa5yAQdSBwKqzcRXpZBHFIikySnzpr48zLD703cgOYkHdQXjwKSJ-RaTej5ygGkBtkd2bFnrv0YPtAt4PUYyM-5X7DbptEs1lQt00D4xF_O7EeeUDZ_CWwieYBUyEG4JieBkEJNcCoLmwLF4-fXV3itt6swvX8e5T8yXdsbCt926UIjD8M9M4mxOrD6_MR03-nhK3xNG4P-xsal7Mo1I_PDPQmE0S10UZy4f_Atcvxr3d8liOxRE2zeodx5jpVFQDeAj57YqRmCViNa7CAUzAjZAkWh1CnNklAICJe4WaweQCNMLmDrUn_dheZ8nMbTZCPqKZCyEGq-KqrVAGchstByCcd5hWdJZpakzltkMBBrYIqOU1weWX3aNNAVYkVYFuV2hoJikfEagzjoGwozGbxeKDgVB2hC5p0W1kPV0TYwLQaJ4tFEhQANJrnCWMusWYQsu3keLOEUDnnww6HhPsebGzIXdvspU5sWi2yPyEhGc8ZqPNFSTyNElCklXKUr-0SS7txFW_YxygrCxsMr4JwyIG9M-HY5osGPFfvnRKy3ZLJKxCsEs8V_wvKq1u21bGdJ6mxICTtampNdqOMkAhI2jUcNIlMVWi9kvoECncPgDlQER-lGH1M63AjBWd4sS68Bhn_39Ye-5smzGDCoxg16wFgRlk4vXWG4f2zsBKYndj1Kuud7il9jCqzk2Xz7MgG5vkvOWyPO5s5XD1uFYUW03u9QBHq4A4sdYJDFPeTfLSKtN1Lv01hEoNH_MRchppPC-kWAj87ZFcmpanUtjFiM7NGfy_NJ-TWqcQ0HXjblvtpUz6mpkA3_gMoYf7Yf7myekJHknals-Q0qGmhC5Un0wyl7-1W-SReEp4uHE2KaQi-fvtqQRYwKrt7AOMEthMPiruEJH4EEZPzDTiMkqFlZzNFLcxWQPs58SlMYzlQ-PO4KeMIjiGi3aaYX3MXQsIvEr_Q4oTR_iTc3N72aUsW2aL_dL7EGF-MLwkvXscGXQZXx-dadp4bwZM85fjb2DqrmtQ7gRcRuy3E1hQxVHmCadWUfnix6qyyuC9bcqOTjhMCNoIATFX5hSS3kaGIRcQH_gBfLI0sW2odPNHxFExeBQA9HssLa18ER_vdSvhIbrTQCuX4y2Jlb8OmhhJ-UGxdMJt5lvdlR77DHgHqqsANZeP6XN0k3EDcC4gTJBoZJtOKH6dDQyXt5Vp1E1kYN-mYxSeERqTDCF4aDU3PaZP9RRokBBMr_JN-XL2rXaNRD0lK_SFympnwX2cNuUa0GcOSqHUPbn79Eiu-E6579tdTuRdpyLruJik3qs1yTkDW9SOhMrzNHDIAcBlIqMIfSPHyQR3kbhpHKRi_FU07NXaHK19DcMlmROjpOblxMECleK93l1uQxE0ZMapED1ppGDiYtyBy8pJ-eLxrBN-8BnKOhGj1f73cOs88LsHLdgCVFpgrjmKn5DxFWO9UUDlQUF2eQaADO2-w8zMrK4Upp2VuXHJHQhLco6TpMH-QRclkActFDZFUURB9olRYEoG9D7lSDpsitPpmyNMFrszLR60w/https://www.amazon.com/dp/B07RGNJYPQ/?_encoding=UTF8&pd_rd_i=B07RGNJYPQ&pd_rd_i=B07RGNJYPQ&ref_=sbx_be_s_sparkle_ssd_cta&pd_rd_w=HaRXr&content-id=amzn1.sym.fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=220NXG4234XZH7S94JM9&pd_rd_wg=roHIl&pd_rd_r=b8d6426c-b8eb-4073-992a-08eb6f77d3f7",
+        "link_clean": "https://www.amazon.com/dp/B07RGNJYPQ/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B07RGNJYPQ&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "thumbnail": "https://m.media-amazon.com/images/I/517DhzR0FrL._AC_SR100,100_QL65_.jpg",
+        "video": {
+          "link": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/928b2503-492a-449d-a21a-47f97ee1da8c.mp4/productVideoOptimized.mp4",
+          "thumbnail": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/928b2503-492a-449d-a21a-47f97ee1da8c.mp4/r/THUMBNAIL_360P_FRAME_3_CAPTURE_2.JPG"
+        },
+        "rating": 4.3,
+        "reviews": 8964,
+        "price": "$8.08",
+        "extracted_price": 8.08,
+        "old_price": "$8.98",
+        "extracted_old_price": 8.98
+      },
+      {
+        "position": 3,
+        "asin": "B0C9MGBWKP",
+        "title": "Lyrow 24 Pcs Fall Leaves Stems Faux Maple Leaves Branches Decor for Vase | 15 '' Fake Fall Leaves Stems, Artificial Autumn Leaves, Fake Maple Shrubs, for Vases Table Home Fireplace, Thanksgiving Decor",
+        "link": "https://aax-us-east-retail-direct.amazon.com/x/c/JAq3nUMQmqxOjSJ0xk20AP0AAAGhZGaPVwEAAAH2AQBvbm9fdHhuX2JpZDEgICBvbm9fdHhuX2ltcDIgICCy9N_v/clv1c_ek-wxXX2bdTaTVOgjr6macOzPwsEXF5W-1549b1_BZPO8r-EUjinKinSNTkUgGGsT3WD5gw-Cx78R_MY1EFLlH33S_PPCrj4HVh3DCb-XqwWBzDnOXEL1bb64_-0RjE2hF5_PXOEcmhTPswCDnoqYaCOqOe81lTnlvS857dozpQGARt9nJlNA9NKrBPhlUUc7E08pFFwmwbg-QxN3pjAcQPTDx45HUc_FKkIHoX3ybVCUznQ2Oevuj3kU8Y1e_qFgwKWwyRvkedhW23QWT9rUKHae8O82Q4-tZs6PSHpuhUjwJijERU1NNQSwuo1nIC0yEzWFmh5apORrZ1-u6EJva_Q_XG4NRCd9hI_Bqps-gS2mKWk7Tw7IOL4M8KfQZojZMcNRDgSf8fHBGXa4QY6p1Y14h0LPFDS-Xd8k50HvLixUmVkChw4uzdT6Mag2gUXLVcV_2OE6x9_z1RNj8Q5e5t1399B0m9Zd1BXc6wVsFoqZnqdj3L1UqkjCfHvyADCRuzMmQM7njbeq8NDvbXRErc2plHzTh3KtBvTqPSCafqUEUKTT0T_DmTELtP-ZHhWpXxAXjvRfbizvqw24usK-Q-w8SHO_Gt6ooOAr-wj563JBmOQ2ckNiBTEPGx15QfKHMKR4-n6S0zYdJYBG0L-84BpPngMV9WCOPe-Ss1_SYIUmcaOlBlb5Q_9VHmH1q5ifP-Moe-KIQcHvyPdSrTo4cEqklr_2jEi3MQ8-1Nk3uk9nAMVW5mWzK7xPGXjbZAhOQFozRE02XPVkxt58UV40UuMv0RFpamEoD8SGuF-Ov7Qs1VS7x-hWm9lhCFlRoXg1KaJymxK5AQdEuIV9ctCEaPEdBskIKjBBX3kDK3C8yB18LsZbri4ZqyfZK20QyNWEI9e9_j6D_QcZK3BUgJVwl7yGh2neZI3GPfBLZKdReX4RDauTzt_2OqZJyHlrSNB45Q6FUeR53_aRwUqP6PryKcPDNOv7i-_OWhjZaGJ8nfGZf8L_avfgvuQ3uxGj_sFb8FLx3ZFakeDeXld765gHT3lxVkiQohdUG8KpgH7HPNeVerJLzHTdmGxob1ZHuLuULUN-XsHLgdfNUn4Yr9qNwXXuKW2L9GH4UGCqxfjMVAqQ62N8IUai48yRNHabCbTa2G4NPSgXCJ2YD12vBjoSEi0UovVNKc3p079aErnIJgg7OQFCf0C0a-gBkdkwQCKUw-AtnZJwoYIyXy15MY2sLlNiTL37eJ8-37emIc5jZrllYyB2TC8YA2i6tV2mmbRjF_ZVQt_f18_XJNPANYwWUIjvRreASBbZzmJLeqIgqQ-8Fb2uF1RcZ8STDLd2EtwjmkYBY4-8IcJ2PiK2lsw7K4zEbuUgAxwfzkElrzRF7mfpKnTMEdyHEyrJaLj28tQ7u8a87xZUH7_oz-bmqdPbcGwOBRjctjDUTmJSOiI47yO2i7CM2C8kaMf7BLtggxPo1dF62IApULzu4btpJWjDfogDQ23l9P_xdcl5WolTc_nVHKzLmx-ODuVb_lXYR1XE6Wuz6NaJPfdYOfC8GNzJCwY08I8nJeA92cZggH3t8Bi41Ed1rDKFlDjjvhaix_ug3R8fp_iH3aV/https://www.amazon.com/dp/B0C9MGBWKP/?_encoding=UTF8&pd_rd_i=B0C9MGBWKP&pd_rd_i=B0C9MGBWKP&ref_=sbx_be_s_sparkle_ssd_cta&pd_rd_w=HaRXr&content-id=amzn1.sym.fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=220NXG4234XZH7S94JM9&pd_rd_wg=roHIl&pd_rd_r=b8d6426c-b8eb-4073-992a-08eb6f77d3f7",
+        "link_clean": "https://www.amazon.com/dp/B0C9MGBWKP/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0C9MGBWKP&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "thumbnail": "https://m.media-amazon.com/images/I/61ZIJyP3OeL._AC_SR100,100_QL65_.jpg",
+        "video": {
+          "link": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/a66261b8-797c-4589-9d57-640dda29f1b7.mp4/productVideoOptimized.mp4",
+          "thumbnail": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/a66261b8-797c-4589-9d57-640dda29f1b7.mp4/r/THUMBNAIL_1080P_FRAME_3_CAPTURE_2.JPG"
+        },
+        "rating": 3.7,
+        "reviews": 8,
+        "price": "$30.99",
+        "extracted_price": 30.99
+      },
+      {
+        "position": 4,
+        "asin": "B076CD95WM",
+        "title": "Moon Boat 1100PCS Maple Leaves Fall Artificial Bulk Autumn Decor | Polyester Faux Leaf in 5 Colors, Table Centerpiece, Wedding, Wreath Craft Supplies",
+        "link": "https://aax-us-east-retail-direct.amazon.com/x/c/JLoTV5tOeQa0hal6UP9zjb8AAAGhZGaPWAEAAAH2AQBvbm9fdHhuX2JpZDEgICBvbm9fdHhuX2ltcDIgICBbB0Ub/clv1c_ek-wBXfWFcTa3eubk_3lSZr77RkGS3LPbxweAYnCvh8l1okQBi3OD3_6oZAfOqO_A2Tip9vUjGfgPUl-V_3uLB37RKl1kszKkkhBZdXV0P06SAEvmnmGylvryNX0Z_QwhF7-_wsQOtTjs7npjeQ1_TJQ4dyYvvVrkkJzzT6kXG6f2moGOAERUDCDLEly1ROgvQJdMsBcfkZK1ufTpHJgQifSP5YfpO8nHGqHPVQ1oRA6_djJzwduZ5zTXd3UAtVvEI8Lrwwp0imQomNDayPHocYozKmXvr-Q49B7Fi9ASJ1TzLAzMlVAnP19hzRdEPQQhChGcAEckg2ifRZXomdFC7rOpXDpK6Pg--SbkxVEY3VvwXJB_OTqYUiDBN6EhabhAaWWBYLgSfm9y3d4R2jTGazHum0_9Aa9G3JCa_SOagTiPFelSRpLNIVRh851319XD7ysxCNRjxbmUHsOZpXp4RDU8ho_g_riBRzgQqFc9seiEED5BtPGXbYhP70cAGccAV30pct4uhL7bgEhLHZsVUcohp3JsbMLilb9hxEykSv1lYX-yqkqSyDGuQwvhRNspp66mrCDJ7Sdh3VLga7F47NeW2HKF1kDndfzckPI27hd-4varnnKyW4RzJT3LheLXirqJc5PYGNi4v_zcoA1uTtj_BulDTOWe8b7VlpW9zWysu6GHlezlRJl60ozYpzYwSHpZGPeSouDdiiK2k2YiuAciWQ_1VjX8Yk1220Gxkwp4tE6SfBaZZMt8m-wdGOppjMy2NdmbmNyj4hL0Dz31OyDg7aY0z0bmUgZTRlRBWFxZ25Ua8Kd-omCPc4uUHMFEJX-dH91ubehnyDRPgWWUtEV8fB6T95i7kU6pFug9y83sNIpWcdWLjpd056lEnqnq59o3Y6TrirW_KFadOARw3ugpwjgJaNC6Yu0nBf9DhGpe6BO0VSlAYljeveEA8bNcxirEd5c_PVaUC9MNtXbIOXlJiOYMd0OwkKk7qyxz3xsE6LwYS8-bKM9kfmlyZWfiDF9JoYJQ7WvAJD05EvCgZgSDOAMYCkDVxQfdDfAnl6ELYKsPzj8ja7PJ1z5PH1VzSSTe28aan5KqfhrhPsc8ZPSoMCzs_ZgzWAWIjPGNdTiBciNv7bT1ErjDDz2OjOqPFt4RvozyOUUqOzf9cJLpuoNoOBKkLJOarQzv_VlOK4IYkzVTIHRU0BYW6uvBIcZM4fZDS_fzzWxwoeg9oRGLdvcKcZu2XPEnJImfeS-oYEiw0hmHRrWLi1Ax0mP0Vc1u-FIEmFoYACeAW09uN9jl-zFHuSTj_mzAxLDnd0tCxDMpKYuVvToXzmnfP_ViFW03lgSwBbLk_02tczSOdifcVpdvFujl-bqPi98Q-hB1FJta83eAkA4jW2qb0uEMdyp96H4c31oXun98upAOBKKTEVpWVRlCHrfdDv6LGxqD0F1evJ-v904j88UUhWLAOeanwETiIgp7MchStZPHdN2Kt7qR4zFohkYpty1Ywvb6KB8rGPuDNkkNCRstzl1PjOd_27i8vW2dXHG54FR5kWf1oMIRFmMyqW7wXejKSJrsXAA5FQQEkcglNfzdriB_-VwS-qa_HAyrAVru_blODo-/https://www.amazon.com/dp/B076CD95WM/?_encoding=UTF8&pd_rd_i=B076CD95WM&pd_rd_i=B076CD95WM&ref_=sbx_be_s_sparkle_ssd_cta&pd_rd_w=HaRXr&content-id=amzn1.sym.fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=220NXG4234XZH7S94JM9&pd_rd_wg=roHIl&pd_rd_r=b8d6426c-b8eb-4073-992a-08eb6f77d3f7",
+        "link_clean": "https://www.amazon.com/dp/B076CD95WM/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B076CD95WM&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "thumbnail": "https://m.media-amazon.com/images/I/510ScHnwL0L._AC_SR100,100_QL65_.jpg",
+        "video": {
+          "link": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/763aaee9-d279-40b2-acf9-d86e1a4d54b8.mp4/productVideoOptimized.mp4",
+          "thumbnail": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/763aaee9-d279-40b2-acf9-d86e1a4d54b8.mp4/r/THUMBNAIL_360P_FRAME_3_CAPTURE_2.JPG"
+        },
+        "rating": 4.4,
+        "reviews": 3118,
+        "price": "$17.99",
+        "extracted_price": 17.99
+      },
+      {
+        "position": 5,
+        "asin": "B08BYH7135",
+        "title": "Thanksgiving Tree Craft Kit 60 Pcs Fall Felt Leaves Thankful Tree Decor | Felt Tree Board with Maple Ornaments, DIY Craft Thanksgiving Decorations Bulletin Board Classroom Fall Activity Supplies",
+        "link": "https://aax-us-east-retail-direct.amazon.com/x/c/JPWBrcRUYKcFDSL7IXLzMm0AAAGhZGaPWQEAAAH2AQBvbm9fdHhuX2JpZDEgICBvbm9fdHhuX2ltcDIgICCgAg95/clv1c_ek-wBXfWLbTaXU6hthlGgETDcGlTsertjpl9Kr2uD5t3mxJcFA1eKyLFZBxAU8rTyM0ebljUjGfgPUl-NB32YI3PIMnKNMWbuuj3axZnvcS0qjn7Zlw4fJl85vpEVtNwQElDy-qXysTlsZnpCZdA9hjkot7s9tTpiLzm_TPyDCYcXGVR9iVk62sgtxyvLQgi-KnXZBZaEw94dSWb903CVE_Sl1M1LuT0tIBy0ajrBAxtd0zbmUcbQg3lAmJu_b75JK5JP-rfUtRPwz3xtj7yzVdjm8qe3yiXz86YzqHc4sbw3NH7awI2oN6gpkTuQ01kYtEnpGNrd7NxzYDXYd1pEpFqP3LQx-pW5DM5mW3HKd_8yhN22Or61sAhr86uh16Ipm47xm2HzSjsiEtmBrh0SO4QBSV0iNoJ_xZNjSz_obHp41bhjfpj0pZgi5pz4BVHnvK2etlyjEeVV6NVDv3TP8LG6_zMRA1VN1CVb6xruNLvwJE09uvvfClQAPSxQ34pSA7E0UTHukf-o78msjAgJFZghCB_iK3DXipIv67lV1cAPA0VkgAJmuHv-McgqmHWkQ35vKveI0RoT0IuIT8VDmaJmHkEx3JznKBRwOvL0nF24iR6MhkpUgURu4_iGZBvchxnEEpSSlU9RFsUE1uGChk7_W0acoZfEVr97ulvdj0EKHCElQ2ds6dSuD9TxYctsX5PvotujBreBtQu_whmrrEzOcCW-FPC4XnYW3M58f818lVWdgqsyHkTcCabC_ZGTG7ayf6Im4OHpiNuSFGi74Kt2_7n9x97ScmPOl0VCdrNJlwxo78AsiXPx0C5o1TmvNW32xaCWI_aubjNuLrpPtWSmuXpt_QKHCpXgoTHg_UrTsycDf6abGna_1Tx0py7sBg8kmNWvco9DGZFaykWtgTRWEWtZ3rk-RC8q17yki10JtKUxZCq6OsTvcf64oDBVHb9faKSebKUVqWNmX6LVzng3S4wNZZe0fJp4A5-7uU_73E58iafW_iFxhPNfwbReWTwYzKUJk4DVtx6Wnz2zzRDpDehptYbe2qJ6mxvCYujaXl2ATx3tUjN4O245wYxf9pZQRbvnFZMmQ3DDaaoe7jPfAFw50DK1TGM-RyjE_AABPpR2UqCjA3a4KBsMboy3tBK9G5mFUI0DiA9kmrmnS4nS1R4dq35arZ4o5lH_ANLNPmdzt7-OC1x-id4BdtYSOVDwbRh7SFwcofnl2w3NNVyokX-_TTNLnq1sntb7nIhaivUoPmJL_CrbDgpvOkAo2Ps3S9vl3wEAwka2jUGIKztMclO_1T_9r6Jo5GUvkiR6E21kZW0fqReCJLJbhN-tu7u8U2S1iBdg9XxbpPpwpk7JdOZEDgZPmn1B9GaXVc1Bv_eUBWVA9DXTDMNAF5znnBmvxVydBschAcrQUYa9A9v7-qSGuAP5q8GfeAMoFw2h_5V9aJjUeoldj1pgq8_Bjj8gLywnTG0bxOIGzrlvQfUBA2zmRM4VwbLlFf043sENOsJqGHlSXAQZunyVvjJw2dLZIuKNEzzlsY3siptn_HMhLCZqb9-53XMm7axOkUx42Km9t4gtq46TzS3pb4aj3C5YWbzWwk2AOOGMFBMLTzXyEEJpgoKdGb4Li4Cx-M/https://www.amazon.com/dp/B08BYH7135/?_encoding=UTF8&pd_rd_i=B08BYH7135&pd_rd_i=B08BYH7135&ref_=sbx_be_s_sparkle_ssd_cta&pd_rd_w=HaRXr&content-id=amzn1.sym.fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=220NXG4234XZH7S94JM9&pd_rd_wg=roHIl&pd_rd_r=b8d6426c-b8eb-4073-992a-08eb6f77d3f7",
+        "link_clean": "https://www.amazon.com/dp/B08BYH7135/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B08BYH7135&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "thumbnail": "https://m.media-amazon.com/images/I/51gl0OdrjAL._AC_SR100,100_QL65_.jpg",
+        "video": {
+          "link": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/8bdf2bc3-2538-47d9-b5cf-63982f07f470.mp4/productVideoOptimized.mp4",
+          "thumbnail": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/8bdf2bc3-2538-47d9-b5cf-63982f07f470.mp4/r/THUMBNAIL_360P_FRAME_3_CAPTURE_2.JPG"
+        },
+        "rating": 4.3,
+        "reviews": 91,
+        "price": "$21.99",
+        "extracted_price": 21.99
+      }
+    ],
+    "reviews_information": {
+      "summary": {
+        "text": "Customers find these artificial leaves look like real ones and come in an assortment of colors, with one customer noting several pretty different shades. The product receives positive feedback for its quality, functionality, and value for money, with customers saying it's worth the price and works perfectly for their projects. The size receives mixed reviews - while some love it, others find them too small for practical use.",
+        "insights": [
+          {
+            "title": "Quality",
+            "sentiment": "positive",
+            "mentions": {
+              "total": 93,
+              "positive": 79,
+              "negative": 14
+            },
+            "summary": "Customers find the artificial leaves to be of good quality and highly recommend them.",
+            "examples": [
+              {
+                "position": 1,
+                "snippet": "I was worried that they were going to be too small but they were perfect! My bf decorated for us for Halloween of last year and they looked amazing....",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R1OCWWLPCOQUOA"
+              },
+              {
+                "position": 2,
+                "snippet": "Great , package came quick , it had alittle smell but I left the bag open for 3 days and the smell disappeared",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R2368YLUDOU5TP"
+              },
+              {
+                "position": 3,
+                "snippet": "Nice and authentic looking leaves. I pulled them apart and put them in a laundry basket outside to air out for a day. I'd buy them again.",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R307V4C3ABPJ0O"
+              },
+              {
+                "position": 4,
+                "snippet": "These leaves are very nice. Packaged separately. Good quality.",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R3ITR1EJSKP29D"
+              }
+            ]
+          },
+          {
+            "title": "Appearance",
+            "sentiment": "positive",
+            "mentions": {
+              "total": 85,
+              "positive": 84,
+              "negative": 1
+            },
+            "summary": "Customers find that the artificial leaves look amazing and exactly as pictured, with one customer noting they provide a nice variety for a more natural appearance.",
+            "examples": [
+              {
+                "position": 1,
+                "snippet": "These are beautiful but the smell was awful. I opened each package of the different colors. Every one of them had a foul smell to them....",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/RPW3879TIKH1Y"
+              },
+              {
+                "position": 2,
+                "snippet": "pretty but smell like fish",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R2VZF9MRR6Q2TJ"
+              },
+              {
+                "position": 3,
+                "snippet": "was fun to decorate worked great and so pretty",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R1F7O9D36YDSGG"
+              },
+              {
+                "position": 4,
+                "snippet": "It's actually cute and just the right size!...",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R308FZNJWK3ALI"
+              }
+            ]
+          },
+          {
+            "title": "Color",
+            "sentiment": "positive",
+            "mentions": {
+              "total": 56,
+              "positive": 51,
+              "negative": 5
+            },
+            "summary": "Customers like the artificial leaves' colors, with one mentioning they have several pretty different shades.",
+            "examples": [
+              {
+                "position": 1,
+                "snippet": "Exactly the correct size for my project. Very colorful. Lots of leaves to peel away, though. Takes a good amount of time to separate them....",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R27DB759OB53OG"
+              },
+              {
+                "position": 2,
+                "snippet": "Colorful and plentiful. Used for decorating around pumpkin display and for search for spider game,",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R1BTJMJQJG8QDE"
+              },
+              {
+                "position": 3,
+                "snippet": "Wonderful. Beautiful colors, lifelike, a real decorative find for Fall. They come like post it note pads. You tear off how much you want.",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R1A6KDW0KHF6XU"
+              },
+              {
+                "position": 4,
+                "snippet": "Perfect for the autumn party decorations. Great colors.",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R5JPFOQOK5I8N"
+              }
+            ]
+          },
+          {
+            "title": "Value for money",
+            "sentiment": "positive",
+            "mentions": {
+              "total": 43,
+              "positive": 34,
+              "negative": 9
+            },
+            "summary": "Customers find these artificial maple leaves to be worth their price, with several mentioning they would purchase them again, and one noting the quality is surprisingly good for the cost.",
+            "examples": [
+              {
+                "position": 1,
+                "snippet": "Great value!!!",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R3P7UE3QBQTV46"
+              },
+              {
+                "position": 2,
+                "snippet": "These leaves are very nice at a great price. There are a variety of nice fall colors....",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R1DZSU1OTXE75J"
+              },
+              {
+                "position": 3,
+                "snippet": "...Yes, I would purchase again.",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R2RJ6BX2WVHNSI"
+              },
+              {
+                "position": 4,
+                "snippet": "...Fairly realistic good color good size quality wise though you get what you pay for so if you are looking for hyper realistic leaves this isn’t it",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/RLAVE5GGJBPOQ"
+              }
+            ]
+          },
+          {
+            "title": "Functionality",
+            "sentiment": "positive",
+            "mentions": {
+              "total": 30,
+              "positive": 27,
+              "negative": 3
+            },
+            "summary": "Customers are satisfied with the functionality of these artificial leaves, working perfectly for various projects, with one customer noting they are suitable for outdoor use and another mentioning they can be reused and spray painted.",
+            "examples": [
+              {
+                "position": 1,
+                "snippet": "I used these in a sensory bin as i work with kids. They worked great! They had a bit of a smell when i opened the bag, but quickly went away",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R3093EEIFIGF97"
+              },
+              {
+                "position": 2,
+                "snippet": "...I used these to take pictures with my newborn and while they did the job and looked how you’d expect the smell was so overwhelming.",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R2MBSC5ZQECTZA"
+              },
+              {
+                "position": 3,
+                "snippet": "Works for my project, but the packaging and leaves themselves smell so strongly of fish, I thought my fiance had fed my cat her wet food early....",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R1IESBCCAC4TVF"
+              },
+              {
+                "position": 4,
+                "snippet": "This was an awesome product! I used them for photo shoots and they worked PERFECTLY!!! However this product came in smelling like dead fish!!...",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R2JX1OTSXS1D7P"
+              }
+            ]
+          },
+          {
+            "title": "Leaves",
+            "sentiment": "positive",
+            "mentions": {
+              "total": 28,
+              "positive": 26,
+              "negative": 2
+            },
+            "summary": "Customers like these artificial leaves, with one customer noting they come in 6 different varieties.",
+            "examples": [
+              {
+                "position": 1,
+                "snippet": "Lots of leaves. You need to separate them as they clump when cut. They look nice for projects. We added ours for jars with battery tea lights.",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R2RH60HDDBVQVS"
+              },
+              {
+                "position": 2,
+                "snippet": "Great leaves. Just the right size. Looks great in craft projects.",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R2X19U63ABCIUI"
+              },
+              {
+                "position": 3,
+                "snippet": "Love these leaves! Everything I was looking for. They look so real and the colors are fantastic....",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R2QPLAF376BGX7"
+              },
+              {
+                "position": 4,
+                "snippet": "...There are so many leaves so its perfect!...",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/RKFPNRSUWHH6U"
+              }
+            ]
+          },
+          {
+            "title": "Size",
+            "sentiment": "mixed",
+            "mentions": {
+              "total": 33,
+              "positive": 15,
+              "negative": 18
+            },
+            "summary": "Customers have mixed opinions about the size of these artificial leaves, with some loving them while others find them very small and not practical for their intended use.",
+            "examples": [
+              {
+                "position": 1,
+                "snippet": "...I spent 2 hours trying until I gave up. Very small also so watch the size, that was my fault.",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R30AO8XLJAROTV"
+              },
+              {
+                "position": 2,
+                "snippet": "...I like that they are many different colors. They are also a good size. My only complaint would be that you have to peel them apart when they arrive....",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R2KE08Q6CGQI7"
+              },
+              {
+                "position": 3,
+                "snippet": "They are beautiful but smaller than expected: 2” across.",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R23DCB159Y9AJ7"
+              },
+              {
+                "position": 4,
+                "snippet": "Nice size and perfect amount, only flaw they have a nasty smell like fish food....",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R2BHZT16NDQYWY"
+              }
+            ]
+          },
+          {
+            "title": "Odor",
+            "sentiment": "negative",
+            "mentions": {
+              "total": 126,
+              "positive": 18,
+              "negative": 108
+            },
+            "summary": "Some customers report a terrible smell from these artificial leaves.",
+            "examples": [
+              {
+                "position": 1,
+                "snippet": "...The leaves were stuck together in piles. If it wasn't for the horrible smell, I would have given it a five stars",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R3NWGCVEH5KKPI"
+              },
+              {
+                "position": 2,
+                "snippet": "Great product but stinky!",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R2JX1OTSXS1D7P"
+              },
+              {
+                "position": 3,
+                "snippet": "So tiny and smelly",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/RH6WRTWMM5BX4"
+              },
+              {
+                "position": 4,
+                "snippet": "These had a great photo presentation. It smelled like fish. We used Febreeze and it only helped for a little while 😩....",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R33YFUBR9NN1VC"
+              }
+            ]
+          }
+        ],
+        "customer_reviews": {
+          "5 star": 70,
+          "4 star": 15,
+          "3 star": 9,
+          "2 star": 3,
+          "1 star": 3
+        }
+      }
+    }
+  }
+}

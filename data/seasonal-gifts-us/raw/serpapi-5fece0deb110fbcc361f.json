@@ -1,0 +1,1351 @@
+{
+  "provider": "serpapi",
+  "endpoint": "https://serpapi.com/search.json",
+  "parameters": {
+    "engine": "amazon_product",
+    "asin": "B0FFGFWB39",
+    "amazon_domain": "amazon.com",
+    "language": "en_US",
+    "shipping_location": "US",
+    "output": "json"
+  },
+  "fetched_at_utc": "2026-10-22T08:40:45.617567+00:00",
+  "raw_file": "raw/serpapi-5fece0deb110fbcc361f.json",
+  "response": {
+    "search_metadata": {
+      "id": "6ad9cc0ebbd34986b2c661f0",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/MjfCjmd2yFiLiXvQaHFxISMbtHd_5lYFvowO3mhbq-0/6ad9cc0ebbd34986b2c661f0.json",
+      "markdown_endpoint": "https://serpapi.com/searches/MjfCjmd2yFiLiXvQaHFxISMbtHd_5lYFvowO3mhbq-0/6ad9cc0ebbd34986b2c661f0.md",
+      "created_at": "2026-10-22 08:40:46 UTC",
+      "processed_at": "2026-10-22 08:40:46 UTC",
+      "amazon_product_url": "https://www.amazon.com/dp/B0FFGFWB39/?language=en_US",
+      "raw_html_file": "https://serpapi.com/searches/MjfCjmd2yFiLiXvQaHFxISMbtHd_5lYFvowO3mhbq-0/6ad9cc0ebbd34986b2c661f0.html",
+      "total_time_taken": 7.6
+    },
+    "search_parameters": {
+      "engine": "amazon_product",
+      "asin": "B0FFGFWB39",
+      "amazon_domain": "amazon.com",
+      "language": "en_US",
+      "device": "desktop",
+      "shipping_location": "US"
+    },
+    "product_results": {
+      "categories": [
+        {
+          "position": 1,
+          "name": "Tools & Home Improvement",
+          "link": "https://www.amazon.com/Tools-and-Home-Improvement/b/ref=dp_bc_1?ie=UTF8&node=228013",
+          "node": "228013",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&language=en_US&node=228013&shipping_location=US"
+        },
+        {
+          "position": 2,
+          "name": "Lighting & Ceiling Fans",
+          "link": "https://www.amazon.com/lighting-ceiling-fans/b/ref=dp_bc_2?ie=UTF8&node=495224",
+          "node": "495224",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&language=en_US&node=495224&shipping_location=US"
+        },
+        {
+          "position": 3,
+          "name": "Outdoor Lighting",
+          "link": "https://www.amazon.com/outdoor-lighting/b/ref=dp_bc_3?ie=UTF8&node=495236",
+          "node": "495236",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&language=en_US&node=495236&shipping_location=US"
+        },
+        {
+          "position": 4,
+          "name": "Landscape Lighting",
+          "link": "https://www.amazon.com/Landscape-Lighting/b/ref=dp_bc_4?ie=UTF8&node=553784",
+          "node": "553784",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&language=en_US&node=553784&shipping_location=US"
+        },
+        {
+          "position": 5,
+          "name": "Path Lights",
+          "link": "https://www.amazon.com/Path-Lights/b/ref=dp_bc_5?ie=UTF8&node=14193171",
+          "node": "14193171",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&language=en_US&node=14193171&shipping_location=US"
+        }
+      ],
+      "asin": "B0FFGFWB39",
+      "title": "Halloween Decorations Outdoor Flickering Flame Purple Halloween Solar Light",
+      "link": "https://www.amazon.com/IkeeRuic-Decorations-Purple-Solar-Torch/dp/B0FFGFWB39/",
+      "link_clean": "https://www.amazon.com/dp/B0FFGFWB39/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0FFGFWB39&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+      "badges": [
+        "Amazon's Choice"
+      ],
+      "variants": [
+        {
+          "title": "Size",
+          "items": [
+            {
+              "position": 1,
+              "asin": "B0FFGFWB39",
+              "name": "6Pack",
+              "selected": true,
+              "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0FFGFWB39&device=desktop&engine=amazon_product&language=en_US&shipping_location=US"
+            },
+            {
+              "position": 2,
+              "asin": "B0FFGJH8PT",
+              "name": "12Pack",
+              "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0FFGJH8PT&device=desktop&engine=amazon_product&language=en_US&shipping_location=US"
+            }
+          ]
+        }
+      ],
+      "brand": "Visit the IkeeRuic Store",
+      "thumbnail": "https://m.media-amazon.com/images/I/71OpOjnyN1L._AC_SX342_SY445_QL70_FMwebp_.jpg",
+      "thumbnails": [
+        "https://m.media-amazon.com/images/I/71OpOjnyN1L._AC_SL1200_.jpg",
+        "https://m.media-amazon.com/images/I/71ZGBu263UL._AC_SL1100_.jpg",
+        "https://m.media-amazon.com/images/I/81gKoK-HlBL._AC_SL1100_.jpg",
+        "https://m.media-amazon.com/images/I/71e4pjCDsiL._AC_SL1100_.jpg",
+        "https://m.media-amazon.com/images/I/61PYRZPlTEL._AC_SL1100_.jpg",
+        "https://m.media-amazon.com/images/I/713mKmFuLQL._AC_SL1100_.jpg"
+      ],
+      "rating": 4.2,
+      "reviews": 529,
+      "bought_last_month": "8K+ bought in past month",
+      "discount": "-17%",
+      "price": "$24.99",
+      "extracted_price": 24.99,
+      "price_unit": "$4.17 / count",
+      "extracted_price_unit": 4.17,
+      "old_price": "$29.99",
+      "extracted_old_price": 29.99,
+      "delivery": [
+        "FREE delivery Tuesday, October 27 on orders shipped by Amazon over $35",
+        "Arrives before Halloween"
+      ],
+      "stock": "In Stock"
+    },
+    "purchase_options": {
+      "buy_new": {
+        "caption": "Regular Price",
+        "price": "$29.99",
+        "extracted_price": 29.99,
+        "price_unit": "$5.00 / count",
+        "extracted_price_unit": 5.0,
+        "delivery": [
+          "FREE delivery Tuesday, October 27 on orders shipped by Amazon over $35",
+          "Arrives before Halloween"
+        ],
+        "stock": "In Stock",
+        "features": {
+          "ships_from": {
+            "text": "Amazon",
+            "details": {
+              "heading": "Ships from",
+              "content": "Amazon"
+            }
+          },
+          "sold_by": {
+            "text": "IkeeRuic Direct-US",
+            "details": {
+              "heading": "Sold by",
+              "content": "IkeeRuic Direct-US"
+            },
+            "link": {
+              "text": "IkeeRuic Direct-US",
+              "link": "https://www.amazon.com/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A3O2NIX29RL6TI&asin=B0FFGFWB39&ref_=dp_merchant_link&isAmazonFulfilled=1"
+            }
+          },
+          "returns": {
+            "text": "FREE 30-day refund/replacement",
+            "details": {
+              "heading": "FREE 30-day refund/replacement"
+            },
+            "link": {
+              "text": "See exceptions",
+              "link": "https://www.amazon.com/gp/help/customer/display.html/?nodeId=GKQNFKFK5CF3C54B"
+            }
+          },
+          "packaging": {
+            "text": "Ships in product packaging",
+            "details": {
+              "heading": "Ships in product packaging",
+              "content": "This item has been tested to certify it can ship safely in its original box or bag to avoid unnecessary packaging. Since 2015, we have reduced the weight of outbound packaging per shipment by 41% on average, that’s over 2 million tons of packaging material.If you still require Amazon packaging for this item, choose \"Ship in Amazon packaging\" at checkout. Learn more"
+            },
+            "link": {
+              "text": "Learn more",
+              "link": "https://www.amazon.com/sipp_home"
+            }
+          }
+        }
+      }
+    },
+    "item_specifications": {
+      "base_material": "Plastic",
+      "item_weight": "1.6 pounds",
+      "shade_color": "Purple",
+      "shade_material": "Plastic",
+      "switch_type": "Touch"
+    },
+    "about_item": [
+      "Flickering Flame Halloween Decorations: IkeeRuic halloween lights outdoor cast a scary purple glow like flickering flame, a safe alternative to the real “flame”. Solar halloween lights are perfect halloween decorations outdoor for yard, pathway, garden, patio, porch, fence, making your halloween yard decorations stand out in the community.",
+      "Solar Powered & Halloween Decor: Equipped with high-efficiency solar panel, outdoor halloween lights can work up 4-6 hours in winter after fully charged. Purple halloween lights provides ghostly and scary outside halloween decorations for party, camping and BBQ, which is a delightful addition to outdoor halloween decor.",
+      "Outdoor Halloween Decorations: No wires and tools needed, halloween solar lights outdoor are easy to install. Just connect the poles and spikes into the ground where there is direct sunshine. Please turn on the switch before first use, then solar powered halloween lights can light up from dusk to dawn automatically.",
+      "Waterproof Halloween Outdoor Decor: Halloween outdoor lights are made of high-quality ABS plastics, designed to withstand most of weather for halloween decor. No worries about rain, snow, frost and low-temperature. Please notice that weather and winter will affect charging efficiency.",
+      "Cute Torches & Warm Tips: The size of halloween torch lights are 2.9*20.5 inch with pole and spike, lovely and cute for Halloween outdoor decorations. Since it is powered by solar energy, the actual working time is affected by the installation location and the weather conditions. Firstly receiving package, please turn on the switch and put under direct sunlight."
+    ],
+    "related_products": [
+      {
+        "position": 1,
+        "asin": "B0FJRWSN3L",
+        "title": "16Pack Solar Torch Light Outdoor Flickering Flame for Halloween Decorations | Solar Lights for Outside Halloween Decor, Waterproof Garden Light Solar Powered, Flame Torches for Yard Pathway Decorations",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo0NTY3OTA4MjM5NjkyODk5OjE3OTI2NTg0NTI6c3BfZGV0YWlsX3RoZW1hdGljOjMwMTU2ODUyMjkyOTcwMjo6Ojo&url=%2Fdp%2FB0FJRWSN3L%2Fref%3Dsspa_dk_detail_0%3Fpsc%3D1%26pd_rd_i%3DB0FJRWSN3L%26pd_rd_w%3Dn1EMP%26content-id%3Damzn1.sym.3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_p%3D3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_r%3DDFGFXJ3YXR1PTF0NT81K%26pd_rd_wg%3DeLMU4%26pd_rd_r%3De24d1d47-7a28-41e1-a771-e5c43d5d8143%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM",
+        "link_clean": "https://www.amazon.com/dp/B0FJRWSN3L/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0FJRWSN3L&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "badges": [
+          "Limited time deal"
+        ],
+        "thumbnail": "https://m.media-amazon.com/images/I/719SP0u3lNL._AC_UF480,480_SR480,480_.jpg",
+        "rating": 4.4,
+        "reviews": 1490,
+        "discount": "-20%",
+        "price": "$39.99",
+        "extracted_price": 39.99,
+        "price_unit": "$2.50 / count",
+        "extracted_price_unit": 2.5,
+        "old_price": "null"
+      },
+      {
+        "position": 2,
+        "asin": "B0H2D2G2NX",
+        "title": "8 Pack Solar Pathway Lights Outdoor, Solar Torches Lights Halloween Decor | Purple ...",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo0NTY3OTA4MjM5NjkyODk5OjE3OTI2NTg0NTI6c3BfZGV0YWlsX3RoZW1hdGljOjMwMTQwMzAyNDE4MzUwMjo6Ojo&url=%2Fdp%2FB0H2D2G2NX%2Fref%3Dsspa_dk_detail_1%3Fpsc%3D1%26pd_rd_i%3DB0H2D2G2NX%26pd_rd_w%3Dn1EMP%26content-id%3Damzn1.sym.3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_p%3D3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_r%3DDFGFXJ3YXR1PTF0NT81K%26pd_rd_wg%3DeLMU4%26pd_rd_r%3De24d1d47-7a28-41e1-a771-e5c43d5d8143%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM",
+        "link_clean": "https://www.amazon.com/dp/B0H2D2G2NX/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0H2D2G2NX&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "badges": [
+          "Amazon's Choice",
+          "Limited time deal"
+        ],
+        "thumbnail": "https://m.media-amazon.com/images/I/81ht41RUp4L._AC_UF480,480_SR480,480_.jpg",
+        "rating": 4.3,
+        "reviews": 91,
+        "discount": "-10%",
+        "price": "$17.09",
+        "extracted_price": 17.09,
+        "old_price": "null"
+      },
+      {
+        "position": 3,
+        "asin": "B0FLPR9LDZ",
+        "title": "Solar Lights Outdoor, Halloween Solar Torch Lights | With Flickering Flame, Waterpr...",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo0NTY3OTA4MjM5NjkyODk5OjE3OTI2NTg0NTI6c3BfZGV0YWlsX3RoZW1hdGljOjMwMTAzMjc0NzM0MjUwMjo6Ojo&url=%2Fdp%2FB0FLPR9LDZ%2Fref%3Dsspa_dk_detail_2%3Fpsc%3D1%26pd_rd_i%3DB0FLPR9LDZ%26pd_rd_w%3Dn1EMP%26content-id%3Damzn1.sym.3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_p%3D3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_r%3DDFGFXJ3YXR1PTF0NT81K%26pd_rd_wg%3DeLMU4%26pd_rd_r%3De24d1d47-7a28-41e1-a771-e5c43d5d8143%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM",
+        "link_clean": "https://www.amazon.com/dp/B0FLPR9LDZ/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0FLPR9LDZ&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "badges": [
+          "Limited time deal"
+        ],
+        "thumbnail": "https://m.media-amazon.com/images/I/71RJ1f2glsL._AC_UF480,480_SR480,480_.jpg",
+        "rating": 4.2,
+        "reviews": 436,
+        "discount": "-10%",
+        "price": "$21.58",
+        "extracted_price": 21.58,
+        "price_unit": "$2.70 / count",
+        "extracted_price_unit": 2.7,
+        "old_price": "null"
+      },
+      {
+        "position": 4,
+        "asin": "B0H5K554YS",
+        "title": "8P Purple Flickering Flame Halloween Solar Lights for Halloween Decorations | Solar Halloween Lights Outdoor for Halloween Decor, Waterproof Solar Torch Lights for Halloween Yard Party Porch Decorations",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo0NTY3OTA4MjM5NjkyODk5OjE3OTI2NTg0NTI6c3BfZGV0YWlsX3RoZW1hdGljOjMwMTU1OTAxMTA1MzAwMjo6Ojo&url=%2Fdp%2FB0H5K554YS%2Fref%3Dsspa_dk_detail_3%3Fpsc%3D1%26pd_rd_i%3DB0H5K554YS%26pd_rd_w%3Dn1EMP%26content-id%3Damzn1.sym.3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_p%3D3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_r%3DDFGFXJ3YXR1PTF0NT81K%26pd_rd_wg%3DeLMU4%26pd_rd_r%3De24d1d47-7a28-41e1-a771-e5c43d5d8143%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM",
+        "link_clean": "https://www.amazon.com/dp/B0H5K554YS/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0H5K554YS&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "badges": [
+          "Limited time deal"
+        ],
+        "thumbnail": "https://m.media-amazon.com/images/I/71gD9KK1yEL._AC_UF480,480_SR480,480_.jpg",
+        "rating": 4.3,
+        "reviews": 11075,
+        "discount": "-31%",
+        "price": "$23.99",
+        "extracted_price": 23.99,
+        "old_price": "null"
+      },
+      {
+        "position": 5,
+        "asin": "B0FFHBM67K",
+        "title": "16Pack Purple Solar Halloween Lights for Halloween Decorations Outdoor | Scary Hall...",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo0NTY3OTA4MjM5NjkyODk5OjE3OTI2NTg0NTI6c3BfZGV0YWlsX3RoZW1hdGljOjMwMDk1MTExMjY5MzQwMjo6Ojo&url=%2Fdp%2FB0FFHBM67K%2Fref%3Dsspa_dk_detail_4%3Fpsc%3D1%26pd_rd_i%3DB0FFHBM67K%26pd_rd_w%3Dn1EMP%26content-id%3Damzn1.sym.3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_p%3D3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_r%3DDFGFXJ3YXR1PTF0NT81K%26pd_rd_wg%3DeLMU4%26pd_rd_r%3De24d1d47-7a28-41e1-a771-e5c43d5d8143%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM",
+        "link_clean": "https://www.amazon.com/dp/B0FFHBM67K/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0FFHBM67K&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "badges": [
+          "Limited time deal"
+        ],
+        "thumbnail": "https://m.media-amazon.com/images/I/71KUkOFrf7L._AC_UF480,480_SR480,480_.jpg",
+        "rating": 4.4,
+        "reviews": 1392,
+        "discount": "-31%",
+        "price": "$39.99",
+        "extracted_price": 39.99,
+        "price_unit": "$2.50 / count",
+        "extracted_price_unit": 2.5,
+        "old_price": "null"
+      },
+      {
+        "position": 6,
+        "asin": "B0H5JKLPLR",
+        "title": "16P Purple Flame Halloween Solar Lights for Halloween Decorations Outdoor | Flickering Solar Halloween Lights for Outdoor Halloween Decor, LED Solar Halloween Decorations for Outside Yard Pathway Party",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo0NTY3OTA4MjM5NjkyODk5OjE3OTI2NTg0NTI6c3BfZGV0YWlsX3RoZW1hdGljOjMwMTU4Mjc3NzAyOTIwMjo6Ojo&url=%2Fdp%2FB0H5JKLPLR%2Fref%3Dsspa_dk_detail_5%3Fpsc%3D1%26pd_rd_i%3DB0H5JKLPLR%26pd_rd_w%3Dn1EMP%26content-id%3Damzn1.sym.3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_p%3D3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_r%3DDFGFXJ3YXR1PTF0NT81K%26pd_rd_wg%3DeLMU4%26pd_rd_r%3De24d1d47-7a28-41e1-a771-e5c43d5d8143%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM",
+        "link_clean": "https://www.amazon.com/dp/B0H5JKLPLR/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0H5JKLPLR&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "badges": [
+          "Limited time deal"
+        ],
+        "thumbnail": "https://m.media-amazon.com/images/I/71bdsUJYd2L._AC_UF480,480_SR480,480_.jpg",
+        "rating": 4.3,
+        "reviews": 361,
+        "discount": "-31%",
+        "price": "$39.98",
+        "extracted_price": 39.98,
+        "old_price": "null"
+      },
+      {
+        "position": 7,
+        "asin": "B0H6B7Q9RK",
+        "title": "Solar Halloween Lights Outdoor(4pcs),Halloween Decorations Outdoor, IP65 Waterproof...",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo0NTY3OTA4MjM5NjkyODk5OjE3OTI2NTg0NTI6c3BfZGV0YWlsX3RoZW1hdGljOjMwMTUxNTQzNDQ4NzYwMjo6Ojo&url=%2Fdp%2FB0H6B7Q9RK%2Fref%3Dsspa_dk_detail_6%3Fpsc%3D1%26pd_rd_i%3DB0H6B7Q9RK%26pd_rd_w%3Dn1EMP%26content-id%3Damzn1.sym.3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_p%3D3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_r%3DDFGFXJ3YXR1PTF0NT81K%26pd_rd_wg%3DeLMU4%26pd_rd_r%3De24d1d47-7a28-41e1-a771-e5c43d5d8143%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM",
+        "link_clean": "https://www.amazon.com/dp/B0H6B7Q9RK/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0H6B7Q9RK&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "badges": [
+          "Limited time deal"
+        ],
+        "thumbnail": "https://m.media-amazon.com/images/I/71IENfVh5aL._AC_UF480,480_SR480,480_.jpg",
+        "rating": 4.2,
+        "reviews": 29,
+        "discount": "-60%",
+        "price": "$15.98",
+        "extracted_price": 15.98,
+        "price_unit": "$4.00 / count",
+        "extracted_price_unit": 4.0,
+        "old_price": "null"
+      },
+      {
+        "position": 8,
+        "asin": "B0FJRW9RTS",
+        "title": "10Pack Flame Torch Solar Halloween Lights Outdoor for Halloween Decorations | Solar...",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo0NjM3NTAzODg1MTU4MDczOjE3OTI2NTg0NTI6c3BfZGV0YWlsMjozMDE1NDAxNzcxMDQ2MDI6Ojo6&url=%2Fdp%2FB0FJRW9RTS%2Fref%3Dsspa_dk_detail_0%3Fpsc%3D1%26pd_rd_i%3DB0FJRW9RTS%26pd_rd_w%3DZRek4%26content-id%3Damzn1.sym.4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_p%3D4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_r%3DDFGFXJ3YXR1PTF0NT81K%26pd_rd_wg%3DeLMU4%26pd_rd_r%3De24d1d47-7a28-41e1-a771-e5c43d5d8143%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+        "link_clean": "https://www.amazon.com/dp/B0FJRW9RTS/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0FJRW9RTS&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "badges": [
+          "Limited time deal"
+        ],
+        "thumbnail": "https://m.media-amazon.com/images/I/71qdpDavCjL._AC_UF480,480_SR480,480_.jpg",
+        "rating": 4.4,
+        "reviews": 1490,
+        "discount": "-15%",
+        "price": "$29.74",
+        "extracted_price": 29.74,
+        "price_unit": "$2.97 / count",
+        "extracted_price_unit": 2.97,
+        "old_price": "null"
+      },
+      {
+        "position": 9,
+        "asin": "B0H6RFDYYX",
+        "title": "Solar Lights Outdoor,12 Pack Purple Waterproof Auto On/Off Solar Pathway Lights for...",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo0NjM3NTAzODg1MTU4MDczOjE3OTI2NTg0NTI6c3BfZGV0YWlsMjozMDE0ODY4MDUyMTUwMDI6Ojo6&url=%2Fdp%2FB0H6RFDYYX%2Fref%3Dsspa_dk_detail_1%3Fpsc%3D1%26pd_rd_i%3DB0H6RFDYYX%26pd_rd_w%3DZRek4%26content-id%3Damzn1.sym.4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_p%3D4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_r%3DDFGFXJ3YXR1PTF0NT81K%26pd_rd_wg%3DeLMU4%26pd_rd_r%3De24d1d47-7a28-41e1-a771-e5c43d5d8143%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+        "link_clean": "https://www.amazon.com/dp/B0H6RFDYYX/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0H6RFDYYX&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "thumbnail": "https://m.media-amazon.com/images/I/81l5VjsOWnL._AC_UF480,480_SR480,480_.jpg",
+        "rating": 4.3,
+        "reviews": 2756,
+        "discount": "-28%",
+        "price": "$28.99",
+        "extracted_price": 28.99,
+        "old_price": "null"
+      },
+      {
+        "position": 10,
+        "asin": "B0H3SZDH5V",
+        "title": "Halloween Decorations Outdoor Solar Eyeball Lights, 2 Pack 12LED Green | 2 Lighting...",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo0NjM3NTAzODg1MTU4MDczOjE3OTI2NTg0NTI6c3BfZGV0YWlsMjozMDE1NDc5OTIzNDMxMDI6Ojo6&url=%2Fdp%2FB0H3SZDH5V%2Fref%3Dsspa_dk_detail_2%3Fpsc%3D1%26pd_rd_i%3DB0H3SZDH5V%26pd_rd_w%3DZRek4%26content-id%3Damzn1.sym.4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_p%3D4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_r%3DDFGFXJ3YXR1PTF0NT81K%26pd_rd_wg%3DeLMU4%26pd_rd_r%3De24d1d47-7a28-41e1-a771-e5c43d5d8143%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+        "link_clean": "https://www.amazon.com/dp/B0H3SZDH5V/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0H3SZDH5V&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "thumbnail": "https://m.media-amazon.com/images/I/71ZP+W1L7mL._AC_UF480,480_SR480,480_.jpg",
+        "rating": 3.6,
+        "reviews": 15,
+        "discount": "-59%",
+        "price": "$6.99",
+        "extracted_price": 6.99,
+        "price_unit": "$3.50 / count",
+        "extracted_price_unit": 3.5,
+        "old_price": "null"
+      },
+      {
+        "position": 11,
+        "asin": "B0FFHFXL2L",
+        "title": "10Pack Purple Solar Halloween Lights for Halloween Decorations Outdoor | Purple Hal...",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo0NjM3NTAzODg1MTU4MDczOjE3OTI2NTg0NTI6c3BfZGV0YWlsMjozMDA5MjU3NjM2NjUwMDI6Ojo6&url=%2Fdp%2FB0FFHFXL2L%2Fref%3Dsspa_dk_detail_3%3Fpsc%3D1%26pd_rd_i%3DB0FFHFXL2L%26pd_rd_w%3DZRek4%26content-id%3Damzn1.sym.4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_p%3D4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_r%3DDFGFXJ3YXR1PTF0NT81K%26pd_rd_wg%3DeLMU4%26pd_rd_r%3De24d1d47-7a28-41e1-a771-e5c43d5d8143%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+        "link_clean": "https://www.amazon.com/dp/B0FFHFXL2L/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0FFHFXL2L&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "badges": [
+          "Limited time deal"
+        ],
+        "thumbnail": "https://m.media-amazon.com/images/I/71lI00RNRAL._AC_UF480,480_SR480,480_.jpg",
+        "rating": 4.4,
+        "reviews": 1392,
+        "discount": "-10%",
+        "price": "$29.69",
+        "extracted_price": 29.69,
+        "price_unit": "$2.97 / count",
+        "extracted_price_unit": 2.97,
+        "old_price": "null"
+      },
+      {
+        "position": 12,
+        "asin": "B09VFMXVMX",
+        "title": "Solar Torch Light with Flickering Flame for Halloween Decorations | Solar Lights Ou...",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo0NjM3NTAzODg1MTU4MDczOjE3OTI2NTg0NTI6c3BfZGV0YWlsMjozMDE1MTY1Mzg2MzkyMDI6Ojo6&url=%2Fdp%2FB09VFMXVMX%2Fref%3Dsspa_dk_detail_4%3Fpsc%3D1%26pd_rd_i%3DB09VFMXVMX%26pd_rd_w%3DZRek4%26content-id%3Damzn1.sym.4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_p%3D4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_r%3DDFGFXJ3YXR1PTF0NT81K%26pd_rd_wg%3DeLMU4%26pd_rd_r%3De24d1d47-7a28-41e1-a771-e5c43d5d8143%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+        "link_clean": "https://www.amazon.com/dp/B09VFMXVMX/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B09VFMXVMX&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "badges": [
+          "#1 Best Seller"
+        ],
+        "thumbnail": "https://m.media-amazon.com/images/I/71FFZJMbo3L._AC_UF480,480_SR480,480_.jpg",
+        "rating": 4.3,
+        "reviews": 10295,
+        "discount": "-17%",
+        "price": "$24.99",
+        "extracted_price": 24.99,
+        "price_unit": "$4.17 / count",
+        "extracted_price_unit": 4.17,
+        "old_price": "null"
+      },
+      {
+        "position": 13,
+        "asin": "B0HBPGHB42",
+        "title": "Solar Lights Outdoor, Halloween Solar Torch Lights | With Flickering Flame, Waterpr...",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo0NjM3NTAzODg1MTU4MDczOjE3OTI2NTg0NTI6c3BfZGV0YWlsMjozMDE1NzQxMDMzODg3MDI6Ojo6&url=%2Fdp%2FB0HBPGHB42%2Fref%3Dsspa_dk_detail_5%3Fpsc%3D1%26pd_rd_i%3DB0HBPGHB42%26pd_rd_w%3DZRek4%26content-id%3Damzn1.sym.4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_p%3D4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_r%3DDFGFXJ3YXR1PTF0NT81K%26pd_rd_wg%3DeLMU4%26pd_rd_r%3De24d1d47-7a28-41e1-a771-e5c43d5d8143%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+        "link_clean": "https://www.amazon.com/dp/B0HBPGHB42/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0HBPGHB42&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "badges": [
+          "Limited time deal"
+        ],
+        "thumbnail": "https://m.media-amazon.com/images/I/81ntkvNzjbL._AC_UF480,480_SR480,480_.jpg",
+        "rating": 4.2,
+        "reviews": 436,
+        "discount": "-24%",
+        "price": "$25.98",
+        "extracted_price": 25.98,
+        "old_price": "null"
+      },
+      {
+        "position": 14,
+        "asin": "B0FFGS4FN9",
+        "title": "12Pack Purple Solar Halloween Lights for Halloween Decorations Outdoor | Halloween ...",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo0NjM3NTAzODg1MTU4MDczOjE3OTI2NTg0NTI6c3BfZGV0YWlsMjozMDA5MzAzMDg2OTU5MDI6Ojo6&url=%2Fdp%2FB0FFGS4FN9%2Fref%3Dsspa_dk_detail_6%3Fpsc%3D1%26pd_rd_i%3DB0FFGS4FN9%26pd_rd_w%3DZRek4%26content-id%3Damzn1.sym.4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_p%3D4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_r%3DDFGFXJ3YXR1PTF0NT81K%26pd_rd_wg%3DeLMU4%26pd_rd_r%3De24d1d47-7a28-41e1-a771-e5c43d5d8143%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+        "link_clean": "https://www.amazon.com/dp/B0FFGS4FN9/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0FFGS4FN9&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "thumbnail": "https://m.media-amazon.com/images/I/71jQ9j-olXL._AC_UF480,480_SR480,480_.jpg",
+        "rating": 4.3,
+        "reviews": 9905,
+        "discount": "-5%",
+        "price": "$29.23",
+        "extracted_price": 29.23,
+        "old_price": "null"
+      }
+    ],
+    "related_product_sections": [
+      {
+        "title": "Deals on related products",
+        "items": [
+          {
+            "position": 1,
+            "asin": "B0FJRWSN3L",
+            "title": "16Pack Solar Torch Light Outdoor Flickering Flame for Halloween Decorations | Solar Lights for Outside Halloween Decor, Waterproof Garden Light Solar Powered, Flame Torches for Yard Pathway Decorations",
+            "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo0NTY3OTA4MjM5NjkyODk5OjE3OTI2NTg0NTI6c3BfZGV0YWlsX3RoZW1hdGljOjMwMTU2ODUyMjkyOTcwMjo6Ojo&url=%2Fdp%2FB0FJRWSN3L%2Fref%3Dsspa_dk_detail_0%3Fpsc%3D1%26pd_rd_i%3DB0FJRWSN3L%26pd_rd_w%3Dn1EMP%26content-id%3Damzn1.sym.3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_p%3D3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_r%3DDFGFXJ3YXR1PTF0NT81K%26pd_rd_wg%3DeLMU4%26pd_rd_r%3De24d1d47-7a28-41e1-a771-e5c43d5d8143%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM",
+            "link_clean": "https://www.amazon.com/dp/B0FJRWSN3L/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0FJRWSN3L&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "badges": [
+              "Limited time deal"
+            ],
+            "thumbnail": "https://m.media-amazon.com/images/I/719SP0u3lNL._AC_UF480,480_SR480,480_.jpg",
+            "rating": 4.4,
+            "reviews": 1490,
+            "discount": "-20%",
+            "price": "$39.99",
+            "extracted_price": 39.99,
+            "price_unit": "$2.50 / count",
+            "extracted_price_unit": 2.5,
+            "old_price": "null"
+          },
+          {
+            "position": 2,
+            "asin": "B0H2D2G2NX",
+            "title": "8 Pack Solar Pathway Lights Outdoor, Solar Torches Lights Halloween Decor | Purple ...",
+            "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo0NTY3OTA4MjM5NjkyODk5OjE3OTI2NTg0NTI6c3BfZGV0YWlsX3RoZW1hdGljOjMwMTQwMzAyNDE4MzUwMjo6Ojo&url=%2Fdp%2FB0H2D2G2NX%2Fref%3Dsspa_dk_detail_1%3Fpsc%3D1%26pd_rd_i%3DB0H2D2G2NX%26pd_rd_w%3Dn1EMP%26content-id%3Damzn1.sym.3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_p%3D3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_r%3DDFGFXJ3YXR1PTF0NT81K%26pd_rd_wg%3DeLMU4%26pd_rd_r%3De24d1d47-7a28-41e1-a771-e5c43d5d8143%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM",
+            "link_clean": "https://www.amazon.com/dp/B0H2D2G2NX/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0H2D2G2NX&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "badges": [
+              "Amazon's Choice",
+              "Limited time deal"
+            ],
+            "thumbnail": "https://m.media-amazon.com/images/I/81ht41RUp4L._AC_UF480,480_SR480,480_.jpg",
+            "rating": 4.3,
+            "reviews": 91,
+            "discount": "-10%",
+            "price": "$17.09",
+            "extracted_price": 17.09,
+            "old_price": "null"
+          },
+          {
+            "position": 3,
+            "asin": "B0FLPR9LDZ",
+            "title": "Solar Lights Outdoor, Halloween Solar Torch Lights | With Flickering Flame, Waterpr...",
+            "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo0NTY3OTA4MjM5NjkyODk5OjE3OTI2NTg0NTI6c3BfZGV0YWlsX3RoZW1hdGljOjMwMTAzMjc0NzM0MjUwMjo6Ojo&url=%2Fdp%2FB0FLPR9LDZ%2Fref%3Dsspa_dk_detail_2%3Fpsc%3D1%26pd_rd_i%3DB0FLPR9LDZ%26pd_rd_w%3Dn1EMP%26content-id%3Damzn1.sym.3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_p%3D3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_r%3DDFGFXJ3YXR1PTF0NT81K%26pd_rd_wg%3DeLMU4%26pd_rd_r%3De24d1d47-7a28-41e1-a771-e5c43d5d8143%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM",
+            "link_clean": "https://www.amazon.com/dp/B0FLPR9LDZ/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0FLPR9LDZ&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "badges": [
+              "Limited time deal"
+            ],
+            "thumbnail": "https://m.media-amazon.com/images/I/71RJ1f2glsL._AC_UF480,480_SR480,480_.jpg",
+            "rating": 4.2,
+            "reviews": 436,
+            "discount": "-10%",
+            "price": "$21.58",
+            "extracted_price": 21.58,
+            "price_unit": "$2.70 / count",
+            "extracted_price_unit": 2.7,
+            "old_price": "null"
+          },
+          {
+            "position": 4,
+            "asin": "B0H5K554YS",
+            "title": "8P Purple Flickering Flame Halloween Solar Lights for Halloween Decorations | Solar Halloween Lights Outdoor for Halloween Decor, Waterproof Solar Torch Lights for Halloween Yard Party Porch Decorations",
+            "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo0NTY3OTA4MjM5NjkyODk5OjE3OTI2NTg0NTI6c3BfZGV0YWlsX3RoZW1hdGljOjMwMTU1OTAxMTA1MzAwMjo6Ojo&url=%2Fdp%2FB0H5K554YS%2Fref%3Dsspa_dk_detail_3%3Fpsc%3D1%26pd_rd_i%3DB0H5K554YS%26pd_rd_w%3Dn1EMP%26content-id%3Damzn1.sym.3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_p%3D3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_r%3DDFGFXJ3YXR1PTF0NT81K%26pd_rd_wg%3DeLMU4%26pd_rd_r%3De24d1d47-7a28-41e1-a771-e5c43d5d8143%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM",
+            "link_clean": "https://www.amazon.com/dp/B0H5K554YS/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0H5K554YS&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "badges": [
+              "Limited time deal"
+            ],
+            "thumbnail": "https://m.media-amazon.com/images/I/71gD9KK1yEL._AC_UF480,480_SR480,480_.jpg",
+            "rating": 4.3,
+            "reviews": 11075,
+            "discount": "-31%",
+            "price": "$23.99",
+            "extracted_price": 23.99,
+            "old_price": "null"
+          },
+          {
+            "position": 5,
+            "asin": "B0FFHBM67K",
+            "title": "16Pack Purple Solar Halloween Lights for Halloween Decorations Outdoor | Scary Hall...",
+            "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo0NTY3OTA4MjM5NjkyODk5OjE3OTI2NTg0NTI6c3BfZGV0YWlsX3RoZW1hdGljOjMwMDk1MTExMjY5MzQwMjo6Ojo&url=%2Fdp%2FB0FFHBM67K%2Fref%3Dsspa_dk_detail_4%3Fpsc%3D1%26pd_rd_i%3DB0FFHBM67K%26pd_rd_w%3Dn1EMP%26content-id%3Damzn1.sym.3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_p%3D3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_r%3DDFGFXJ3YXR1PTF0NT81K%26pd_rd_wg%3DeLMU4%26pd_rd_r%3De24d1d47-7a28-41e1-a771-e5c43d5d8143%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM",
+            "link_clean": "https://www.amazon.com/dp/B0FFHBM67K/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0FFHBM67K&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "badges": [
+              "Limited time deal"
+            ],
+            "thumbnail": "https://m.media-amazon.com/images/I/71KUkOFrf7L._AC_UF480,480_SR480,480_.jpg",
+            "rating": 4.4,
+            "reviews": 1392,
+            "discount": "-31%",
+            "price": "$39.99",
+            "extracted_price": 39.99,
+            "price_unit": "$2.50 / count",
+            "extracted_price_unit": 2.5,
+            "old_price": "null"
+          },
+          {
+            "position": 6,
+            "asin": "B0H5JKLPLR",
+            "title": "16P Purple Flame Halloween Solar Lights for Halloween Decorations Outdoor | Flickering Solar Halloween Lights for Outdoor Halloween Decor, LED Solar Halloween Decorations for Outside Yard Pathway Party",
+            "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo0NTY3OTA4MjM5NjkyODk5OjE3OTI2NTg0NTI6c3BfZGV0YWlsX3RoZW1hdGljOjMwMTU4Mjc3NzAyOTIwMjo6Ojo&url=%2Fdp%2FB0H5JKLPLR%2Fref%3Dsspa_dk_detail_5%3Fpsc%3D1%26pd_rd_i%3DB0H5JKLPLR%26pd_rd_w%3Dn1EMP%26content-id%3Damzn1.sym.3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_p%3D3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_r%3DDFGFXJ3YXR1PTF0NT81K%26pd_rd_wg%3DeLMU4%26pd_rd_r%3De24d1d47-7a28-41e1-a771-e5c43d5d8143%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM",
+            "link_clean": "https://www.amazon.com/dp/B0H5JKLPLR/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0H5JKLPLR&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "badges": [
+              "Limited time deal"
+            ],
+            "thumbnail": "https://m.media-amazon.com/images/I/71bdsUJYd2L._AC_UF480,480_SR480,480_.jpg",
+            "rating": 4.3,
+            "reviews": 361,
+            "discount": "-31%",
+            "price": "$39.98",
+            "extracted_price": 39.98,
+            "old_price": "null"
+          },
+          {
+            "position": 7,
+            "asin": "B0H6B7Q9RK",
+            "title": "Solar Halloween Lights Outdoor(4pcs),Halloween Decorations Outdoor, IP65 Waterproof...",
+            "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo0NTY3OTA4MjM5NjkyODk5OjE3OTI2NTg0NTI6c3BfZGV0YWlsX3RoZW1hdGljOjMwMTUxNTQzNDQ4NzYwMjo6Ojo&url=%2Fdp%2FB0H6B7Q9RK%2Fref%3Dsspa_dk_detail_6%3Fpsc%3D1%26pd_rd_i%3DB0H6B7Q9RK%26pd_rd_w%3Dn1EMP%26content-id%3Damzn1.sym.3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_p%3D3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_r%3DDFGFXJ3YXR1PTF0NT81K%26pd_rd_wg%3DeLMU4%26pd_rd_r%3De24d1d47-7a28-41e1-a771-e5c43d5d8143%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM",
+            "link_clean": "https://www.amazon.com/dp/B0H6B7Q9RK/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0H6B7Q9RK&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "badges": [
+              "Limited time deal"
+            ],
+            "thumbnail": "https://m.media-amazon.com/images/I/71IENfVh5aL._AC_UF480,480_SR480,480_.jpg",
+            "rating": 4.2,
+            "reviews": 29,
+            "discount": "-60%",
+            "price": "$15.98",
+            "extracted_price": 15.98,
+            "price_unit": "$4.00 / count",
+            "extracted_price_unit": 4.0,
+            "old_price": "null"
+          }
+        ]
+      },
+      {
+        "title": "Products related to this item",
+        "items": [
+          {
+            "position": 1,
+            "asin": "B0FJRW9RTS",
+            "title": "10Pack Flame Torch Solar Halloween Lights Outdoor for Halloween Decorations | Solar...",
+            "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo0NjM3NTAzODg1MTU4MDczOjE3OTI2NTg0NTI6c3BfZGV0YWlsMjozMDE1NDAxNzcxMDQ2MDI6Ojo6&url=%2Fdp%2FB0FJRW9RTS%2Fref%3Dsspa_dk_detail_0%3Fpsc%3D1%26pd_rd_i%3DB0FJRW9RTS%26pd_rd_w%3DZRek4%26content-id%3Damzn1.sym.4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_p%3D4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_r%3DDFGFXJ3YXR1PTF0NT81K%26pd_rd_wg%3DeLMU4%26pd_rd_r%3De24d1d47-7a28-41e1-a771-e5c43d5d8143%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+            "link_clean": "https://www.amazon.com/dp/B0FJRW9RTS/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0FJRW9RTS&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "badges": [
+              "Limited time deal"
+            ],
+            "thumbnail": "https://m.media-amazon.com/images/I/71qdpDavCjL._AC_UF480,480_SR480,480_.jpg",
+            "rating": 4.4,
+            "reviews": 1490,
+            "discount": "-15%",
+            "price": "$29.74",
+            "extracted_price": 29.74,
+            "price_unit": "$2.97 / count",
+            "extracted_price_unit": 2.97,
+            "old_price": "null"
+          },
+          {
+            "position": 2,
+            "asin": "B0H6RFDYYX",
+            "title": "Solar Lights Outdoor,12 Pack Purple Waterproof Auto On/Off Solar Pathway Lights for...",
+            "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo0NjM3NTAzODg1MTU4MDczOjE3OTI2NTg0NTI6c3BfZGV0YWlsMjozMDE0ODY4MDUyMTUwMDI6Ojo6&url=%2Fdp%2FB0H6RFDYYX%2Fref%3Dsspa_dk_detail_1%3Fpsc%3D1%26pd_rd_i%3DB0H6RFDYYX%26pd_rd_w%3DZRek4%26content-id%3Damzn1.sym.4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_p%3D4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_r%3DDFGFXJ3YXR1PTF0NT81K%26pd_rd_wg%3DeLMU4%26pd_rd_r%3De24d1d47-7a28-41e1-a771-e5c43d5d8143%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+            "link_clean": "https://www.amazon.com/dp/B0H6RFDYYX/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0H6RFDYYX&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "thumbnail": "https://m.media-amazon.com/images/I/81l5VjsOWnL._AC_UF480,480_SR480,480_.jpg",
+            "rating": 4.3,
+            "reviews": 2756,
+            "discount": "-28%",
+            "price": "$28.99",
+            "extracted_price": 28.99,
+            "old_price": "null"
+          },
+          {
+            "position": 3,
+            "asin": "B0H3SZDH5V",
+            "title": "Halloween Decorations Outdoor Solar Eyeball Lights, 2 Pack 12LED Green | 2 Lighting...",
+            "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo0NjM3NTAzODg1MTU4MDczOjE3OTI2NTg0NTI6c3BfZGV0YWlsMjozMDE1NDc5OTIzNDMxMDI6Ojo6&url=%2Fdp%2FB0H3SZDH5V%2Fref%3Dsspa_dk_detail_2%3Fpsc%3D1%26pd_rd_i%3DB0H3SZDH5V%26pd_rd_w%3DZRek4%26content-id%3Damzn1.sym.4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_p%3D4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_r%3DDFGFXJ3YXR1PTF0NT81K%26pd_rd_wg%3DeLMU4%26pd_rd_r%3De24d1d47-7a28-41e1-a771-e5c43d5d8143%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+            "link_clean": "https://www.amazon.com/dp/B0H3SZDH5V/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0H3SZDH5V&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "thumbnail": "https://m.media-amazon.com/images/I/71ZP+W1L7mL._AC_UF480,480_SR480,480_.jpg",
+            "rating": 3.6,
+            "reviews": 15,
+            "discount": "-59%",
+            "price": "$6.99",
+            "extracted_price": 6.99,
+            "price_unit": "$3.50 / count",
+            "extracted_price_unit": 3.5,
+            "old_price": "null"
+          },
+          {
+            "position": 4,
+            "asin": "B0FFHFXL2L",
+            "title": "10Pack Purple Solar Halloween Lights for Halloween Decorations Outdoor | Purple Hal...",
+            "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo0NjM3NTAzODg1MTU4MDczOjE3OTI2NTg0NTI6c3BfZGV0YWlsMjozMDA5MjU3NjM2NjUwMDI6Ojo6&url=%2Fdp%2FB0FFHFXL2L%2Fref%3Dsspa_dk_detail_3%3Fpsc%3D1%26pd_rd_i%3DB0FFHFXL2L%26pd_rd_w%3DZRek4%26content-id%3Damzn1.sym.4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_p%3D4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_r%3DDFGFXJ3YXR1PTF0NT81K%26pd_rd_wg%3DeLMU4%26pd_rd_r%3De24d1d47-7a28-41e1-a771-e5c43d5d8143%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+            "link_clean": "https://www.amazon.com/dp/B0FFHFXL2L/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0FFHFXL2L&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "badges": [
+              "Limited time deal"
+            ],
+            "thumbnail": "https://m.media-amazon.com/images/I/71lI00RNRAL._AC_UF480,480_SR480,480_.jpg",
+            "rating": 4.4,
+            "reviews": 1392,
+            "discount": "-10%",
+            "price": "$29.69",
+            "extracted_price": 29.69,
+            "price_unit": "$2.97 / count",
+            "extracted_price_unit": 2.97,
+            "old_price": "null"
+          },
+          {
+            "position": 5,
+            "asin": "B09VFMXVMX",
+            "title": "Solar Torch Light with Flickering Flame for Halloween Decorations | Solar Lights Ou...",
+            "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo0NjM3NTAzODg1MTU4MDczOjE3OTI2NTg0NTI6c3BfZGV0YWlsMjozMDE1MTY1Mzg2MzkyMDI6Ojo6&url=%2Fdp%2FB09VFMXVMX%2Fref%3Dsspa_dk_detail_4%3Fpsc%3D1%26pd_rd_i%3DB09VFMXVMX%26pd_rd_w%3DZRek4%26content-id%3Damzn1.sym.4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_p%3D4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_r%3DDFGFXJ3YXR1PTF0NT81K%26pd_rd_wg%3DeLMU4%26pd_rd_r%3De24d1d47-7a28-41e1-a771-e5c43d5d8143%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+            "link_clean": "https://www.amazon.com/dp/B09VFMXVMX/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B09VFMXVMX&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "badges": [
+              "#1 Best Seller"
+            ],
+            "thumbnail": "https://m.media-amazon.com/images/I/71FFZJMbo3L._AC_UF480,480_SR480,480_.jpg",
+            "rating": 4.3,
+            "reviews": 10295,
+            "discount": "-17%",
+            "price": "$24.99",
+            "extracted_price": 24.99,
+            "price_unit": "$4.17 / count",
+            "extracted_price_unit": 4.17,
+            "old_price": "null"
+          },
+          {
+            "position": 6,
+            "asin": "B0HBPGHB42",
+            "title": "Solar Lights Outdoor, Halloween Solar Torch Lights | With Flickering Flame, Waterpr...",
+            "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo0NjM3NTAzODg1MTU4MDczOjE3OTI2NTg0NTI6c3BfZGV0YWlsMjozMDE1NzQxMDMzODg3MDI6Ojo6&url=%2Fdp%2FB0HBPGHB42%2Fref%3Dsspa_dk_detail_5%3Fpsc%3D1%26pd_rd_i%3DB0HBPGHB42%26pd_rd_w%3DZRek4%26content-id%3Damzn1.sym.4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_p%3D4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_r%3DDFGFXJ3YXR1PTF0NT81K%26pd_rd_wg%3DeLMU4%26pd_rd_r%3De24d1d47-7a28-41e1-a771-e5c43d5d8143%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+            "link_clean": "https://www.amazon.com/dp/B0HBPGHB42/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0HBPGHB42&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "badges": [
+              "Limited time deal"
+            ],
+            "thumbnail": "https://m.media-amazon.com/images/I/81ntkvNzjbL._AC_UF480,480_SR480,480_.jpg",
+            "rating": 4.2,
+            "reviews": 436,
+            "discount": "-24%",
+            "price": "$25.98",
+            "extracted_price": 25.98,
+            "old_price": "null"
+          },
+          {
+            "position": 7,
+            "asin": "B0FFGS4FN9",
+            "title": "12Pack Purple Solar Halloween Lights for Halloween Decorations Outdoor | Halloween ...",
+            "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo0NjM3NTAzODg1MTU4MDczOjE3OTI2NTg0NTI6c3BfZGV0YWlsMjozMDA5MzAzMDg2OTU5MDI6Ojo6&url=%2Fdp%2FB0FFGS4FN9%2Fref%3Dsspa_dk_detail_6%3Fpsc%3D1%26pd_rd_i%3DB0FFGS4FN9%26pd_rd_w%3DZRek4%26content-id%3Damzn1.sym.4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_p%3D4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_r%3DDFGFXJ3YXR1PTF0NT81K%26pd_rd_wg%3DeLMU4%26pd_rd_r%3De24d1d47-7a28-41e1-a771-e5c43d5d8143%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+            "link_clean": "https://www.amazon.com/dp/B0FFGS4FN9/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0FFGS4FN9&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "thumbnail": "https://m.media-amazon.com/images/I/71jQ9j-olXL._AC_UF480,480_SR480,480_.jpg",
+            "rating": 4.3,
+            "reviews": 9905,
+            "discount": "-5%",
+            "price": "$29.23",
+            "extracted_price": 29.23,
+            "old_price": "null"
+          }
+        ]
+      }
+    ],
+    "videos": [
+      {
+        "position": 1,
+        "title": "Low effort decor... but still high impact?",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/d60fd54a-6df7-452a-81c0-10dca4f7495d/default.vertical.jobtemplate.hls.m3u8",
+        "thumbnail": "https://m.media-amazon.com/images/I/91BPkRxzDmL.jpg",
+        "duration": "0:51",
+        "vendor": "Sonja's Finds",
+        "vendor_thumbnail": "https://m.media-amazon.com/images/I/515IgJJuWwL._CR0,0,454,454_._FMjpg_._SL34_.jpg",
+        "date": "Oct 4, 2025"
+      },
+      {
+        "position": 2,
+        "title": "Purple Halloween 12 Pack Solar Panel Lights Unboxing!",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/6cb1eea1-dc39-4441-9a8e-c66abf14cd32/default.jobtemplate.hls.m3u8",
+        "thumbnail": "https://m.media-amazon.com/images/I/91lcIODScHL.jpg",
+        "duration": "2:21",
+        "vendor": "Anthony Bailey",
+        "vendor_thumbnail": "https://m.media-amazon.com/images/I/91SWMOYpy8L._CR0,0,1024,1024_._FMjpg_._SL34_.jpg",
+        "date": "Sep 4, 2023"
+      },
+      {
+        "position": 3,
+        "title": "Outdoor Halloween Decor with Solar Torch Lights",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/49220c66-f3e0-404c-8db4-0a67ce7b43c4/default.jobtemplate.hls.m3u8",
+        "thumbnail": "https://m.media-amazon.com/images/I/51lsqvuVZ0L.jpg",
+        "duration": "1:22",
+        "vendor": "House of Grabois",
+        "vendor_thumbnail": "https://m.media-amazon.com/images/I/61wuFfLFhZL._CR0,0,798,798_._FMjpg_._SL34_.jpg",
+        "date": "Oct 14, 2026"
+      },
+      {
+        "position": 4,
+        "title": "Great halloween lights",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/a022b117-7d7a-416e-988e-885e0485d3b6/default.jobtemplate.hls.m3u8",
+        "thumbnail": "https://m.media-amazon.com/images/I/61xe2gvT5yL.jpg",
+        "duration": "1:01",
+        "vendor": "Life and Lifestyle",
+        "vendor_thumbnail": "https://m.media-amazon.com/images/I/A1OpL6f8xTL._CR0,0,3125,3125_._FMjpg_._SL34_.jpg",
+        "date": "Oct 5, 2026"
+      },
+      {
+        "position": 5,
+        "title": "Spooky Vibe!!",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/0045b77f-1b7f-43d8-9f91-d30a06c9088c/default.vertical.jobtemplate.hls.m3u8",
+        "thumbnail": "https://m.media-amazon.com/images/I/51YCnYQydgL.jpg",
+        "duration": "0:45",
+        "vendor": "Jen",
+        "vendor_thumbnail": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SL34_.png",
+        "date": "Oct 31, 2025"
+      },
+      {
+        "position": 6,
+        "title": "My Top 2 Favorite Halloween Lights",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/63fcfab0-e2b4-46e2-9906-60beb1187fc3/default.jobtemplate.hls.m3u8",
+        "thumbnail": "https://m.media-amazon.com/images/I/91KFaz7JmgL.jpg",
+        "duration": "1:11",
+        "vendor": "Anthony Bailey",
+        "vendor_thumbnail": "https://m.media-amazon.com/images/I/91SWMOYpy8L._CR0,0,1024,1024_._FMjpg_._SL34_.jpg",
+        "date": "Sep 12, 2023"
+      },
+      {
+        "position": 7,
+        "title": "Halloween Lights Outdoor for Halloween Decor",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/cdea1df7-34c5-4bbe-b5cb-f9d536beaf6a/default.jobtemplate.hls.m3u8",
+        "thumbnail": "https://m.media-amazon.com/images/I/511dnYDLsAL.jpg",
+        "duration": "0:21",
+        "vendor": "IkeeRuic Direct-US",
+        "date": "Jul 27, 2023"
+      },
+      {
+        "position": 8,
+        "title": "My Top 3 Halloween Lights I Recommend #thisorthat",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/f621a9f6-0505-4f0e-8915-3de5f7b13295/default.jobtemplate.hls.m3u8",
+        "thumbnail": "https://m.media-amazon.com/images/I/916lXqWJVBL.jpg",
+        "duration": "0:47",
+        "vendor": "Anthony Bailey",
+        "vendor_thumbnail": "https://m.media-amazon.com/images/I/91SWMOYpy8L._CR0,0,1024,1024_._FMjpg_._SL34_.jpg",
+        "date": "Sep 12, 2023"
+      }
+    ],
+    "product_description": [
+      {
+        "position": 1,
+        "title": "Halloween Lights Outdoor",
+        "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/b67de99c-92a6-4a87-8c01-33783ad1b8be.__CR0,0,970,600_PT0_SX970_V1___.jpg"
+      },
+      {
+        "position": 2,
+        "title": "Outdoor Decorations",
+        "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/54bdf63a-0b6b-489c-b69e-1544bb6b3fdd.__CR0,0,970,300_PT0_SX970_V1___.jpg"
+      },
+      {
+        "position": 3,
+        "features": [
+          {
+            "position": 1,
+            "title": "Outside Halloween Decorations",
+            "text": "Halloween solar lights are perfect halloween decor for yard, pathway, lawn, garden, patio, porch, fence.",
+            "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/d6ce5b15-2c79-4637-87d6-163d8ef33284.__CR0,0,300,300_PT0_SX300_V1___.jpg"
+          },
+          {
+            "position": 2,
+            "title": "Halloween Yard Decorations",
+            "text": "Solar halloween lights provide a scary atmosphere for halloween yard decorations.",
+            "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/84e1fa52-f2ee-4282-a9fd-3cd4e39264ca.__CR0,0,300,300_PT0_SX300_V1___.jpg"
+          },
+          {
+            "position": 3,
+            "title": "Waterproof Halloween Decor",
+            "text": "Outdoor halloween lights can withstand most weather condition like rain, snow, frost or low temperature.",
+            "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/debeaa22-faf8-4901-9f0e-176962e32d17.__CR0,0,300,300_PT0_SX300_V1___.jpg"
+          }
+        ]
+      },
+      {
+        "position": 4
+      },
+      {
+        "position": 5,
+        "compare_with_similar": [
+          {
+            "position": 1,
+            "asin": "B09VFMXVMX",
+            "title": "Solar Torches with Flickering Flame",
+            "thumbnail": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/908699ea-7afd-4053-abd8-f49a91c91d6c.__CR0,0,150,300_PT0_SX150_V1___.jpg",
+            "link": "https://www.amazon.com/dp/B09VFMXVMX?ref=emc_s_m_5_i_atc",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B09VFMXVMX&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "rating": 4.3,
+            "reviews": 10295,
+            "price": "$24.99",
+            "extracted_price": 24.99,
+            "product_application": "Decorative for Garden",
+            "light_source": "12LED",
+            "product_feature": "Outdoor Decor"
+          },
+          {
+            "position": 2,
+            "asin": "B0B252D53Y",
+            "title": "Solar Torch Lights with Flickering Flame",
+            "thumbnail": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/71e13d2d-8ae5-4b00-9bac-beaea1544bac.__CR0,0,150,300_PT0_SX150_V1___.jpg",
+            "link": "https://www.amazon.com/dp/B0B252D53Y?ref=emc_s_m_5_i_atc",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0B252D53Y&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "rating": 4.3,
+            "reviews": 10295,
+            "price": "$41.99",
+            "extracted_price": 41.99,
+            "product_application": "Garden Decor",
+            "light_source": "12LED",
+            "product_feature": "Outdoor Decorations"
+          },
+          {
+            "position": 3,
+            "asin": "B0FFGFWB39",
+            "title": "IkeeRuic Halloween Decorations Outdoor, Purple Halloween Solar Lights with Fl...",
+            "thumbnail": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/d5c33ccf-e670-4fc7-a2b4-233768a0e97e.__AC_SR150,300___.jpg",
+            "link": "https://www.amazon.com/dp/B0FFGFWB39?ref=emc_s_m_5_i_atc",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0FFGFWB39&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "rating": 4.2,
+            "reviews": 529,
+            "price": "$24.99",
+            "extracted_price": 24.99,
+            "product_application": "Halloween Decor",
+            "light_source": "12LED",
+            "product_feature": "Halloween Decorations"
+          },
+          {
+            "position": 4,
+            "asin": "B0FFGJH8PT",
+            "title": "12Pack Halloween Yard Decorations, Purple Solar Halloween Lights for Outside ...",
+            "thumbnail": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/54a3d986-80d9-48b6-9e8c-f082dbd5a1dc.__AC_SR150,300___.jpg",
+            "link": "https://www.amazon.com/dp/B0FFGJH8PT?ref=emc_s_m_5_i_atc",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0FFGJH8PT&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "rating": 4.2,
+            "reviews": 529,
+            "price": "$42.99",
+            "extracted_price": 42.99,
+            "product_application": "Halloween Outdoor Decor",
+            "light_source": "12LED",
+            "product_feature": "Outdoor Halloween Decorations"
+          }
+        ]
+      }
+    ],
+    "product_details": {
+      "switch_type": "Touch",
+      "light_source_type": "Solar",
+      "power_source": "Solar Powered",
+      "number_of_light_sources": "6",
+      "is_waterproof": "true",
+      "mounting_type": "Floor Mount",
+      "lighting_method": "Uplight",
+      "control_method": "Touch",
+      "shade_color": "Purple",
+      "color": "Purple",
+      "item_weight": "1.6 pounds",
+      "shade_height": "20.5 inches",
+      "brand_name": "IkeeRuic",
+      "recommended_uses_for_product": "Yard Decorations",
+      "included_components": "6 Solar Torch Lights, 6 Poles, 6 Spikes",
+      "number_of_items": "6",
+      "indoor_outdoor_usage": "Outdoor",
+      "model_number": "Halloween Solar Lights G1-6P",
+      "number_of_pieces": "6",
+      "manufacturer": "IkeeRuic",
+      "unit_count": "6 Count",
+      "best_sellers_rank": [
+        {
+          "text": "#487 in Tools & Home Improvement (See Top 100 in Tools & Home Improvement)",
+          "extracted_rank": 487,
+          "link": "https://www.amazon.com/gp/bestsellers/hi/ref=pd_zg_ts_hi",
+          "link_text": "See Top 100 in Tools & Home Improvement"
+        },
+        {
+          "text": "#6 in Landscape Path Lights",
+          "extracted_rank": 6,
+          "link": "https://www.amazon.com/gp/bestsellers/hi/14193171/ref=pd_zg_hrsr_hi",
+          "link_text": "Landscape Path Lights"
+        }
+      ],
+      "asin": "B0FFGFWB39",
+      "customer_reviews": "4.2 out of 5 stars",
+      "rating": 4.2,
+      "reviews": 529,
+      "base_material": "Plastic",
+      "shade_material": "Plastic",
+      "material_type": "Plastic"
+    },
+    "sponsored_brands": [
+      {
+        "position": 1,
+        "asin": "B0FFGH36V7",
+        "title": "LNRYY Purple Flame Solar Halloween Lights for Halloween Decorations Outdoor | Flickering Halloween Lights Outdoor for Halloween Yard Decorations, Waterproof LED Torch Lights for Garden Halloween Decor",
+        "link": "https://aax-us-east-retail-direct.amazon.com/x/c/JENSfOIxxnPzs3Pcf9D99kUAAAGhYsUwswEAAAH2AQBvbm9fdHhuX2JpZDMgICBvbm9fdHhuX2ltcDIgICCjzblC/clv1c_ek-wxfHXEsTWDfXjdKdpIxLcOalTe_7VOOG04M3Tjclg0SaqpkrT_heoehV5GqGOCi7faRGDiho02CtQHI-TraJsP8QlreCz8LtJ2YZq2s3zkzcBMBCbTOr50mGkBuEJMrkr48NN91e_mdv0jhlW4vBao8nUnkUy2iSQzrag9O4v-KxolAR73zntgwPVYkmlkKqeI3uL3oXOTuXop9Bm3nmP_Q9vDL5yXdtw4YyaBvEdbCAfp0r0ZnuTJpwaHdqYPIs1jM0wcdZXHtJR7b_IWe_oP14xgVsrxjUv5kLzWXbxyPoCeJr5yTobsTlFHy7Bh6pKeTjguV9WMwVYsr--BB5tqbJxxUkXSGKT_67sQSRN6RGrWtENqfdNbjW_TJj6kizYF-dRrTASoyQdBw1EMqq0roLDJhDjN2-25gh0wujfvOa_TGmzWFhBEuWyOGoCRf8wkFI86NSab-ExCNp5j6dHl9YzA78T7v8BGBHbUgmsCLvFtVBOZYmhnfSPbsU3M1ECrXyKQLwBIyS5EALEZss2CZMkhqhWi4yP2JBoJ9pnGSLIXP7DheShTdi7Zgszrg9DAGdJcFt7uGck1GpXefcgHeHQVDwdts-UDrTZW0kMeyz-uWLKA0wmd3gOYUPhCeCGmR3cZPKW5jPuItCBdgQ33Wa70ltsVEiL-Djx5qFNcXf5hg3dpAJ_6dSVn8XHSe4dwvBjNM8qCNdZkEyqtC7cuG0_RbnnObXtBY2wuYv_KBEvG9nJelsvW83NCQTUq6dLdfO9BmyctjYN_8Qt-9ad5YrtFfO1ThlpFHwTbBWC8WV5e3J13Pxr0wuqTgXAFhdCR_QLOz8-PoVBB5eWRH6VGfvGh0U0OxCZdFrNpbCaHYxPLkRvCVbSquesFcHnaEKFOL5QdDm1XNDJGVGxWlNNqzcITDTCbsBqI6hOXmOUh70eQ8dOCHXGvo4c4nKrbEd233vZBefVSpvEoKut2mMuAxOu7i--Oa5ZOZ90Lxd-SFaQVZwMS1jNift06Elou0z5Rxrr-tLqenOVEUi6StshLSSk43g3WtjytWnJUVHOdtJ1SFbOa3EMKs9KyzZhxxK6Zd65pxtqjaBUwi3geG_m4lpi-A-bzmTJP3wkeRFBErsPfvJiSeeFfwBtpXl1DS3xhKni_Zd3D-vqwm6OI1RzxADP2ZmW7QJWZh06WJnXK1CRupVtGXAJskqfyo-v3L8YPOMhaUIknI1WRIXXkCHAwkHk5E757gEVzuihh7KMRqrmTinatYAVvR-aZLp97uS2GTn3wUh0fNOA0ApZdnXmsNm9hIE9Cqd3Sm3oU2AZfKg6PV3qaVH0xnxY1KNlIiGmYV6Ld47TG0yej1M3yWrTCiUYc2bjHrjztL1lwZyZbcRolHp1ZztUv9wtL9AZyNe2l2Kf3PoHkM-Kf3I394Nn3IU02RQ0FNhzxiZ6mEeRmXd4NvU1NOueq5H5qYsiTunVnNkA9JoEePvG7OLVYx7x2iELj7MPZKs-O53IvXlwZDZ13PKAbNdK4nQG3PBtvFwLlNC1THTPuWjDCuuXVKwg-OrhrswzHp_OoqMsp96BYhWaJnOtmXlNE5ubBUZdL3voAWd6Sxd8MNN5T3guJPB-64k2MmTU8JJbL0WNZNPW/https://www.amazon.com/dp/B0FFGH36V7/?_encoding=UTF8&pd_rd_i=B0FFGH36V7&pd_rd_i=B0FFGH36V7&ref_=sbx_be_s_sparkle_ssd_cta&pd_rd_w=ir4W2&content-id=amzn1.sym.fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=DFGFXJ3YXR1PTF0NT81K&pd_rd_wg=eLMU4&pd_rd_r=e24d1d47-7a28-41e1-a771-e5c43d5d8143",
+        "link_clean": "https://www.amazon.com/dp/B0FFGH36V7/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0FFGH36V7&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "thumbnail": "https://m.media-amazon.com/images/I/51BxnBzJXtL._AC_SR100,100_QL65_.jpg",
+        "video": {
+          "link": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/9489c5f2-fac1-4a65-8380-5eff9eb5d4dd.mp4/productVideoOptimized.mp4",
+          "thumbnail": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/9489c5f2-fac1-4a65-8380-5eff9eb5d4dd.mp4/r/THUMBNAIL_360P_FRAME_3_CAPTURE_2.JPG"
+        },
+        "rating": 4.4,
+        "reviews": 693,
+        "price": "$19.99",
+        "extracted_price": 19.99,
+        "old_price": "$27.99",
+        "extracted_old_price": 27.99
+      },
+      {
+        "position": 2,
+        "asin": "B0C7VLS5WR",
+        "title": "PASUTO Orange and Purple Halloween Lights - Flickering Flame String Lights, 12.8Ft Indoor Outdoor Halloween Lights C7 Retro Flame String Lights, Ideal for Fall Halloweens Decorations for Home Party",
+        "link": "https://aax-us-east-retail-direct.amazon.com/x/c/JFdMGna9VZM5M_BwQLdj30cAAAGhYsUwtAEAAAH2AQBvbm9fdHhuX2JpZDMgICBvbm9fdHhuX2ltcDIgICDp4Pib/clv1c_ek-YBffzFcbaLkl-pvuUew-uiZOB6JdeLmoLVuXoOlOL5ggEZsDNGqhOV1AVDsBN8ovlmAkAuQkAFJucVkVv5Y6AI2bcahiDaxri_TSE0E4Wp_XWG0XnB0rYgrnz5xZkUFQo2wmzAKMMtUVAcgHGetjFvM2Mt2cDcqXzQTuyZDZ_IfZ1MZxGZ3bidRnXkpL_tKKpqrv7voSBVuLzIWmJinPDOXsDiv5uJssSxGgpOEGqyyos2FaJ8NSirREHEQoFfy88n2ZK5jji3WaEq3p0lEq_T8L2bA1p-tbd1hJxLBx4vIXxM0p54wLN2aPCw-SZs8Z-DLpGL8reBLcArckGCyN7qtQPcZtjap_qEr_CQln48liUg0vWwQK3EgP05F9q8oaxZ7LVxbgjt-6tWXNe-iaFlyNJpIhOU5qQMXCkwRARBZW56vxx5xGVt2lWH5OM9z2IDC6mtiv-UV17_u6P3W_KBQcpjBLcJrfNrFr5wZ5zcdaWXxRy1kwNhRFTAQeFWWuKro5Irsn0RVXeIr1yCo3Fo-tbilStu2RBv0aBxJahZNqEn7VXZWAM0AsMcvM95xaImZSC9I08xNCb8RwXo6Jqju8WyyWTDqBUD4-hnnx1p7YSKfuh9JT-LY73HXzAbkznGFrgJoT-lLl3x_V5iB4aPm-LfWhRxXEkkE_3-D1k0A_4TlaJ6yTahK9GsOhFew8f0GlVv77YF7cOY3DEw-BMBWaNP-XQ9ER8WW5ZJ7lhdNsuOri6U5HnV47IypEfSro82sfo_fTTjjYXtPs3D25qQFKSIJOtTfzpCY9IzVIOX8bCyCtFbC1bKfy_KsE7ykdj2mY3PZvMmEbwxZhQbbvb3pk_jekuCYsv3_HVJnNRtNFlkQ2_gMoYMzhC7ZFR-HbMs2sN50i5MYboJrElMnwavCmLeMB75_Ki-HcAB9JfQF80FCH8v1XvG3H1Q1W4Ba0FAiPtxuqvBj0oLw_7tJuI5u_JqIjVdviJ_wmP8c4KhK_NSHIoxjsLQ-QybShVYrvwbsKzTsLri4LUAIc_NOmnbMoLx2B24suaR7ERxPWxMdMBjzDgIZ_KeTa2HiLlrQ6Hju8wrX1avCcaYL39sXTGPv5s6d0Nwb1VAfo4rbx-uA3-KbHWBzp3joeY5GTAcshvAAdr2-ifr3yH57-ZoVU8vsPVE8EQ5hHxCF7F9A6NGfC0CV38NcUKd_k2mox8SMXh_kElmryfeIpC4vKomH0ldKjW7sQmDMSjECbxOW0Xp08Zx8_aea1JRB_zYONNuVgPjNG3cKt0cByOFoNCmQXDdzKXghYGsqILB8ydm53VjP2DtRxBVDPnPdVxsuaUR3FNCek1oMqcfLhuqvdxQQ3E-ZSeedy_02zqT4cYuqhkK_pBNtZPcAAlNgc__7sntZDhHzxCqAXEU0Q_WoLzlW5tIqWWAcovj4iqVA94dPecPG-DsgzfetxTYgkMOy5WjTPxSMUWaynQvHHhCHz_Y1b7cl1MGpqQZEzTKepM402byOtsbb6CvG9XA6F-igxrQTHVVapHdvmwAaTLac0rsY3ZpIJnAWLiebQX3opI7dAh4VQHbwVwlBcKPK9B3Bhmk_iDzapzapUBxdDAL-E/https://www.amazon.com/dp/B0C7VLS5WR/?_encoding=UTF8&pd_rd_i=B0C7VLS5WR&pd_rd_i=B0C7VLS5WR&ref_=sbx_be_s_sparkle_ssd_cta&pd_rd_w=ir4W2&content-id=amzn1.sym.fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=DFGFXJ3YXR1PTF0NT81K&pd_rd_wg=eLMU4&pd_rd_r=e24d1d47-7a28-41e1-a771-e5c43d5d8143",
+        "link_clean": "https://www.amazon.com/dp/B0C7VLS5WR/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0C7VLS5WR&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "thumbnail": "https://m.media-amazon.com/images/I/51FAdunsepL._AC_SR100,100_QL65_.jpg",
+        "video": {
+          "link": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/5821eaf8-f41d-4b17-8be6-a3049b1e1a06.mov/productVideoOptimized.mp4",
+          "thumbnail": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/5821eaf8-f41d-4b17-8be6-a3049b1e1a06.mov/r/THUMBNAIL_360P_FRAME_3_CAPTURE_2.JPG"
+        },
+        "rating": 4.3,
+        "reviews": 356,
+        "price": "$16.49",
+        "extracted_price": 16.49,
+        "old_price": "$19.99",
+        "extracted_old_price": 19.99
+      },
+      {
+        "position": 3,
+        "asin": "B0H2H83ZCB",
+        "title": "4 Pack Solar Lanterns Outdoor Waterproof Hanging Flame Halloween Lights | USB-C & Solar Dual Charging, Steady on or Flicker, IP65 Waterproof, Auto On/Off, up to 10Hr Runtime, for Patio Tree Table",
+        "link": "https://aax-us-east-retail-direct.amazon.com/x/c/JLU2TdsrnAe7g2biUVZwHZcAAAGhYsUwtQEAAAH2AQBvbm9fdHhuX2JpZDMgICBvbm9fdHhuX2ltcDIgICB04mSh/clv1c_ek-wxXfWVcbaTPWXb9qsChu3EVwubnsntNvTHdmVNt9IeG_qqBOngv0tZMO1RZoX47ZfgjrI6UKen8TwXJBUhoGU_q7zkYgxCTFsA1YkDIw2SCGn_p2R-G7y5LkU5PF_MQycMZvRZvGR9FmJnE6yfUVYpMOMtnWo9udxSDKS5ua_mO8zpyf4zLQZN_mnZ3wANwD4bnuL3IXO7mP3hwSDYOKpbXcXQEzf5msL_nXu1cPxsmf9b8ywB007Fn3peo0SRyez51xUIRiSFcNjiib0t7EGI07tdgSAI9cuIxb9myyZGMMSf5n5KTobsTNHHn7Rh7JKeTngua9-K3gZgAR105lieKKkFBSAVhLNfy4cv-SbHHVLVjGo14WymTpVCe7CjZZbsjL0iRxQYCqGJ1vIdnGCHkNedettdCsUKRl-eFCIQ6l5dKLmLq_0orDAzPkyKTp4VP5cAhCMcgmukQBtDZ1OR-y4-9yTi1eG2zOMvLGTApji_wWXjodYE9Otu1uida9_4w7Ep_YS8kstlkCWBH4hPavIFMtoW6HmEstdJVhoXsPNudMsQ4azqA3do4JzMUsA31qH-sqw6xpXXKE4y0OGZKrjX0g91ynneubLOoXYgGYaHF-zPKXBzXwM13BmlURAbrq3DDypONgJL19qNbPpTneAdtDVdezxAyZby1MwQ6lmdQHXvplXpsLvxYyYRe6rEmjwAQBwBS2oxhEKRuxexHjBdHK_HG3qJLJzctzfBjQIlqW3TLENLGC6LgHn-2v1dPTcYzuCTZXKvrMeNngxHb-ER-GiHlWGAUSnC-cow1AlzBH-wl9PRaJfK-zRhWrKTeriBd_ByZhSSBpyqTkY2-WBkJCibpbqkIIh7oPfAdZxIm1er5OujAW2DxMYroIKD_4KHRppPRSKZwfUbmG_Hc3sf0XnnXqRYnKn-8E0aAgc_Y1CB5s5gZ2vxrvlfVQ10LWRy2eQqt_oLiyBNRtnItkn-hJQbuG4Omqim6P3sTfRcq7eWKVvmaFIuq_UBBgTHX8CTxPN3AzRNeTuM-4zBe_4966DPdPb1TCdCQn8UlTywyl7lV1HAajFxNrPUj2aF-Ad-1QA3lMVFzTTm0NJdnlcJPcC9HgMOjpo3cJn90ZOPW8GIaiGGcfBpqgCJ0SS5lBZ6-9oEYwevSbACilkaZJczfEVNXLnOtRvLw-HziGeDhoIE6H7dC3SZdRyFpdlW931aWf4kpZmPR1X4hSiT8aLiJp6TkQLDd32ZiwMZ9_0PCGxsvSC9v4kwzJawjeKmUM5BYqV9r_k0N9OS2Sg7owSq4CxznNwJ4WuHrObjgtmAVCuMA_CGdbvqx9uQkph0iSiGmEUW3W7sh90DH-nDVFZKRu8XNSrtrAno3rR_JqjEJbQeJPpbAXBU8nuULPkVZg6LN8df9CckZyCYpLBvh82kosx_oj7y_fO-JdmobwKqFJYKtDUyzP6C1i15rOxgvGG7Zh_0KrqLDXR9YJ1B_J9idKNXc6jgwakNVf7HCZwCUGSNxesUo0xVtrFrZHedCZsMIKv4M44OArcw_8POU77LE-kKBlGnmCQZ6ktcV-HNqlItCC78vlg_mzqjumta2XZ1wNrzXWQBdVkChAOxxE1Yb6mw2Ga1LJG6pFaa74/https://www.amazon.com/dp/B0H2H83ZCB/?_encoding=UTF8&pd_rd_i=B0H2H83ZCB&pd_rd_i=B0H2H83ZCB&ref_=sbx_be_s_sparkle_ssd_cta&pd_rd_w=ir4W2&content-id=amzn1.sym.fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=DFGFXJ3YXR1PTF0NT81K&pd_rd_wg=eLMU4&pd_rd_r=e24d1d47-7a28-41e1-a771-e5c43d5d8143",
+        "link_clean": "https://www.amazon.com/dp/B0H2H83ZCB/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0H2H83ZCB&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "thumbnail": "https://m.media-amazon.com/images/I/51I9cGrYtcL._AC_SR100,100_QL65_.jpg",
+        "video": {
+          "link": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/7c5855ce-443d-42f0-a8c6-fe219f3568b7.mp4/productVideoOptimized.mp4",
+          "thumbnail": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/7c5855ce-443d-42f0-a8c6-fe219f3568b7.mp4/r/THUMBNAIL_360P_FRAME_3_CAPTURE_2.JPG"
+        },
+        "rating": 4.9,
+        "reviews": 36,
+        "price": "$44.99",
+        "extracted_price": 44.99
+      },
+      {
+        "position": 4,
+        "asin": "B0H3JLM1YP",
+        "title": "Solar Halloween Decorations Outdoor, Ghost Halloween Decor | 10 Ghost Solar Powered Halloween Lights, Auto On/Off, Waterproof 8 Modes for Outside Yard Porch Garden Tree Home Party",
+        "link": "https://aax-us-east-retail-direct.amazon.com/x/c/JH2m2r6SSQoBUdr_MUbpukkAAAGhYsUwtgEAAAH2AQBvbm9fdHhuX2JpZDMgICBvbm9fdHhuX2ltcDIgICBhqHUf/clv1c_ek-wxfHXFbbWDfHXL5usCQuvcRxOLvvntP-i1abHfIlYQdRu7f_5NkVYedJs0LzNypIlmCWnL8CILUuUbzji6vJOwOgSPLwsU5tFLqEm7dYyDSCn_n2Q6O784elEBzMWJMGcabLsYHGR9F-NHE_ycRPZqcH81hRqUofyyDzimKZf2mKAcq-2iYY6oPRxrCcsgASQIUQqn4TN2NL2nejwvy-6t58eJ12_MAfkxovZiDLSionDAvEqVQfr1N6Gl6bxiY-isW6KH6PwhvU9gNg0aP7mv0JLrbDQ2m9xZ6QQUYPa57cebBW-jKa_8MM8nzyTiksSTGewMTvClB81EnU40BtFxRPdLU-ZFlflEPLRNpJ3lFGug3nOmE8EkT4ClHzIHxA4qK9GZBjjJ502TNJoMnVPp8Ud7RNbK_KkhE2u7sXllr4x0DCQMSM3UNPDNyeO42HuPSNjPBDMi8u-DgcerU_j64TlEA5Pq4eAIJHxxtN6U60pDgQSkj_7y0rhiA73fbh3owJC5u7SUkyvhkiSBLSctn9e_bNIq6Aec9tBBdy7mks1h41gfdjSzI2cxCRNUfxMVdy8LXgG1oiTxxrbCk2LtlWtci6svslKcwECEOfAvITB3QXOiJTk0MP9P7WfAhzKiVweae_2cfA1FcyU-WnH2QkA_HwLKQoMRx87D4k14_R3Ni4sxXU0RLeKBS8wb6tJ-z1dJiYBii0cUNn-0gTFZcTfEJzP_Mf_7IBN-x38gBYW_mKWfvvTmucPmLRI91qkg_-I-4-Ghm0i5PgUR0ZgHKx9RiWfSTDolgIP69Kv_4QPryYjfup6tCfkWIcn0YdJSmxKpAR9HeZ2aUBB82-ZThBQEUFMqXgp5W4H7LawE-F77oId4tE8njW_-RZkwRUhdxc12Ztf3rxxRG5a1DcUT9F7O4JysYhwYBtAL0uwzt8iBTd3O0Nn_vKguKqqNtbfJr_RAn7_Ad-ZLqg8yRKMSUhO9y98EACSVcUKjOpXGQ7Cym4FR5_AK0B4aqv_nK1veF7LXGvEy8SGQFhV15ygysQDtSQCK_KjU0iBo45-Tw407lMQXXSTueM50TykTdwYBjVoBSds2x5HPRpY7pkZW52mcDrInPekk8slM0tvA29mr0bf_EL5Qm1ehGsfQsFfWQ7cXWZfxGQTSPO0D5ibxD2zc-ro9p3m3gfPmCvJkahfsqdnfRC91FRo1kwjKE4Ipgf4KQe40uj1iSwgdAPoso1rraNTWQWlcpcwp_-Vqku5F0L26mvC4vFONkqhqeeGh4m-f3oyU7zN5mfQeWw5sapH5DEbKa_3e_6OVUmdssjyJZHTsQFDEDAi5paBF01Qtr7VKc1-B5E0wr5ev4kSnvf2UseecLnztA1iwFSebaRolHq1ZCfQPg7gVHMoyCq7qe5h2Hreqc6Kf7AHxx4NIRSOitdFDKva_hLNCJrxdS2Eu99_tg0ocsoHUD135btnigcIfDmB4SIOFtNJUX1R9gYIwgIWYj-vPh3CVfl5HxJ8AIMZDDpD4yvaX6fAw1sydJB_ZpSd_BmYpsfzXebX_OP8kR2XCSO2-TmzAWIB426n9lnDpqgxMnmcec8JwLDAwGU80AdQtOOHlNFJI1Mu0vFliUpj9mJHkqSaE6w/https://www.amazon.com/dp/B0H3JLM1YP/?_encoding=UTF8&pd_rd_i=B0H3JLM1YP&pd_rd_i=B0H3JLM1YP&ref_=sbx_be_s_sparkle_ssd_cta&pd_rd_w=ir4W2&content-id=amzn1.sym.fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=DFGFXJ3YXR1PTF0NT81K&pd_rd_wg=eLMU4&pd_rd_r=e24d1d47-7a28-41e1-a771-e5c43d5d8143",
+        "link_clean": "https://www.amazon.com/dp/B0H3JLM1YP/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0H3JLM1YP&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "thumbnail": "https://m.media-amazon.com/images/I/51X8OCTMVQL._AC_SR100,100_QL65_.jpg",
+        "video": {
+          "link": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/9e305310-b961-44c4-afcc-cd7a5bfa5b98.mp4/productVideoOptimized.mp4",
+          "thumbnail": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/9e305310-b961-44c4-afcc-cd7a5bfa5b98.mp4/r/THUMBNAIL_360P_FRAME_3_CAPTURE_2.JPG"
+        },
+        "rating": 3.9,
+        "reviews": 246,
+        "price": "$12.99",
+        "extracted_price": 12.99,
+        "old_price": "$19.99",
+        "extracted_old_price": 19.99
+      },
+      {
+        "position": 5,
+        "asin": "B0FBG4J742",
+        "title": "Halloween Solar Lights Outdoor, 6 Pack Firefly Lights Halloween Decorations | Orange Green and Purple, 2 Lighting Modes, Sway by Wind, Waterproof Solar Pathway Lights for Garden Yard Lawn Horror",
+        "link": "https://aax-us-east-retail-direct.amazon.com/x/c/JMVG1ifUb6k5nq1Q6IBmZCwAAAGhYsUwtwEAAAH2AQBvbm9fdHhuX2JpZDMgICBvbm9fdHhuX2ltcDIgICCk_TLm/clv1c_ek-wBfHXEsTW3uLbkz9lydv97BoWi_LPpwMHUthzj_kiajytkBFvwLhw0R71ySeIVl3lDxEDTJZS3md6aawZatEa89iCeLK3MQMwE7Rqye-SgzcRsBCXTO75-iGkBuHbJTgNKa75eJe_adv01S028IAbodyQkl3m9rRAT3GtxoqHiRJywXShv9rVxxpgM7Mui_E6ZkpFCTMQ0LA91lJi2iG7vf72AOxzALgPGTz2qT3F8xsZ3C6J8L-E9MKIM4R1_LE2brhpUigkMxfItDthkAjF3cuMLMaB-_e_Dc5cAAhOjuEW89K0FZ1YS1Z-Fu9vt5Z9cgXR5wUC_FlrA72xNwN7qvQPFaQSrRBU43_x4qdSOSwiZirkaLhoU_hYMW_NeWY9WWtXRlW7oBCSSsRb96mHScWY-caqvtaa23LaIHcVI2-sHD2WsJnFuUvlxoDzs25d-8_FBuubeB8ScS9DqK4cIlrNCYwYtThkOhw1Xu1FHjXJ1O0_T7LunPxz322Ps9XYDDBZpz8LcnL2s-znv9vETaecIQnQhFCf1NuUhNCi7-OWZZM7XNMr4EKP-Su39S01XCVPYuYypvrb1iRWQ409hkKNrKTDBn_aRy2eoFSulY_TSb5pIpVZjIhltpAx8EJjJmZYhWEouw-7OuMOfsxoDCW_4b9GwrqAgTANEqhFiRL4TkbW60AnUfdXNUbfOQ8X0Ghd_64XWZ0DY3DFw-Bs3qE5Bd2g8m8dii0XpwHStj3QJDj6i377zLkLOXK7AblSyBOaYW-OuO1mlvFKZCUSlRyxWI9qa5PVF2m-Jmc_iMX4Ymy_6hwP28icpm8g3txNirz1GJdGX9Tja_bg4YYPGSwbjjYeE1_x85gGXb0zNHA4TsBZmYTLFyUyY3Qguhb7qaWFLem04gGJlAk57mMP6l7FiVsGqWwfL_80Z0UYWFEvN34zF1rs3gm3bitCpJGl1tK5sxKLQR6gjFa1hlo-MU3-Y84A8MqfoAlZ-OjCi4r36PqpIp0bwqlEnZHXF-sTfHVwrf-KBxWHV8zEw79ghlbCU564tAp7twV_-_UKzDD0lOc18NnJUZGXYL_4gBXw35gvWzTzRnJOvf6huRRJ-wJdhDqACZmBdB2JkceozFKXnIAZv30_gYRSh5vHguM_xEoVAWcMHOzoqjlFvs8P2Uwy9O4-YkSNmmp_wQML79gJiwL9_WSeekax4Zq3B3NfV7wbR7V_H_18lYYDYOORmu3oRhPOTSsBNuBrPa75sA87m5nkuS9pedmSF3OZ1DonkQw22jyYUJHPJx_YuODsGXe8y-YPrnf2rLToU0TjuPyyjIU9ZpcH7Oa02ByuWntrABvJoJyi7fENGL3JqoHJieRdk6ymCJB72GbwCn2yw1DBlsl9KGjSBlg51x0ZrwlYEOnoeCu7WymDy5RALsHORi1RMqB5b7TCYRFe37M7sAsvjWrY21XdqhosEaJPEtnUqYT60pj6ETTtqETRd1C9CD-b9tmhnJVvE_D9Jsm-BVWInsJUGAHQ8Ij_VQmajpO0R3pgYV6t8L5KBcK9hZYx91jbllx-DdLPQLeb3SQ3ql6kczZsL_MNMxloA0Cw1w5qsvhXperaGOd1XeB_JF5oXmkiOw6BUWhkbx8Bu7vB/https://www.amazon.com/dp/B0FBG4J742/?_encoding=UTF8&pd_rd_i=B0FBG4J742&pd_rd_i=B0FBG4J742&ref_=sbx_be_s_sparkle_ssd_cta&pd_rd_w=ir4W2&content-id=amzn1.sym.fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=DFGFXJ3YXR1PTF0NT81K&pd_rd_wg=eLMU4&pd_rd_r=e24d1d47-7a28-41e1-a771-e5c43d5d8143",
+        "link_clean": "https://www.amazon.com/dp/B0FBG4J742/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0FBG4J742&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "thumbnail": "https://m.media-amazon.com/images/I/51R31HMYnYL._AC_SR100,100_QL65_.jpg",
+        "video": {
+          "link": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/3270c309-bcaa-4ddb-a4a2-33b73effc569.mp4/productVideoOptimized.mp4",
+          "thumbnail": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/3270c309-bcaa-4ddb-a4a2-33b73effc569.mp4/r/THUMBNAIL_360P_FRAME_3_CAPTURE_2.JPG"
+        },
+        "rating": 4.2,
+        "reviews": 187,
+        "price": "$19.99",
+        "extracted_price": 19.99,
+        "old_price": "$33.99",
+        "extracted_old_price": 33.99
+      }
+    ],
+    "reviews_information": {
+      "summary": {
+        "text": "Customers find these solar lights an excellent addition to Halloween decorations, appreciating their purple color and flickering flame-like appearance. The lighting quality and reliability receive mixed feedback - while some find them bright and working well throughout October, others report they dim quickly and stop working after a week. Moreover, the value for money is debated, with some considering them a great buy for the price while others say they're not worth the cost. Additionally, the product's lifespan is negative, with customers reporting they only last two days.",
+        "insights": [
+          {
+            "title": "Appearance",
+            "sentiment": "positive",
+            "mentions": {
+              "total": 41,
+              "positive": 41,
+              "negative": 0
+            },
+            "summary": "Customers love the appearance of these solar lights, particularly appreciating their purple color, with one customer noting they received many compliments.",
+            "examples": [
+              {
+                "position": 1,
+                "snippet": "Not bright but very pretty. Smaller than others I've bought but the color is gorgeous",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R27Q8XEUFFCISJ"
+              },
+              {
+                "position": 2,
+                "snippet": "After I figured out how to turn the switch on..theyre beautiful!",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R1MDWISXHSSPAN"
+              },
+              {
+                "position": 3,
+                "snippet": "Pretty but 2 didn’t work",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/RTGOXCA5C0C93"
+              },
+              {
+                "position": 4,
+                "snippet": "They look great pulling into my driveway with the cemetery scene, I thought they weren’t working until I realized you need to switch the small...",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R357NY2460LSM3"
+              }
+            ]
+          },
+          {
+            "title": "Flickering",
+            "sentiment": "positive",
+            "mentions": {
+              "total": 17,
+              "positive": 13,
+              "negative": 4
+            },
+            "summary": "Customers like the flickering effect of these solar lights, which creates a flame-like appearance.",
+            "examples": [
+              {
+                "position": 1,
+                "snippet": "...They have a soft flicker and are really pretty. The light is bright but not too bright.",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R1IDK5BSR0U2OX"
+              },
+              {
+                "position": 2,
+                "snippet": "...BUT they’re bright. They flicker and honestly look really cool. I’d use these year round.",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R22PJMFM5VUP4P"
+              },
+              {
+                "position": 3,
+                "snippet": "The purple color, the flicker, the cool design are all very nice but they do not stay lit for very long. I bought the 12 pk....",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/RCWZRZ658DGY5"
+              },
+              {
+                "position": 4,
+                "snippet": "These solar lights are much smaller than I expected and do not look like a flickering fire as the many solar lights I've had over the years....",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R12XRQSB03EIL2"
+              }
+            ]
+          },
+          {
+            "title": "Halloween decor",
+            "sentiment": "positive",
+            "mentions": {
+              "total": 16,
+              "positive": 16,
+              "negative": 0
+            },
+            "summary": "Customers love these solar lights as Halloween decorations, describing them as excellent and perfect for the holiday, with one customer noting how they add to the spookyness of their decorations.",
+            "examples": [
+              {
+                "position": 1,
+                "snippet": "...purple glow to your outdoor decorations, these solar torch lights are a fun and festive choice!",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R2YJSG4UE3M2G0"
+              },
+              {
+                "position": 2,
+                "snippet": "Great for fall decor",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R1OO9NCQ04N4IQ"
+              },
+              {
+                "position": 3,
+                "snippet": "...Great addition for Halloween or general outdoor mood lighting.",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R32WN03YZIJ4X3"
+              },
+              {
+                "position": 4,
+                "snippet": "...These lights do look great at night and are a perfect addition to your halloween decor.",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R3OJH0SCAMMZTG"
+              }
+            ]
+          },
+          {
+            "title": "Reliability",
+            "sentiment": "mixed",
+            "mentions": {
+              "total": 55,
+              "positive": 21,
+              "negative": 34
+            },
+            "summary": "Customers have mixed experiences with the solar lights' reliability: while some report they worked great throughout October, others mention they only worked for a week or didn't light up at all.",
+            "examples": [
+              {
+                "position": 1,
+                "snippet": "I bought these solar lights and not a single one works. They’ve been sitting outside in the sun for 2 full days.",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R3VPY6Q8WABEK9"
+              },
+              {
+                "position": 2,
+                "snippet": "Works great",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R3QTOSCG62GPVV"
+              },
+              {
+                "position": 3,
+                "snippet": "These did not light up for us. Unfortunately I didn't return within the 30 days so never got a refund or replacement.",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R2JIOCCF4XFJ8E"
+              },
+              {
+                "position": 4,
+                "snippet": "Don’t work. I’ve had them out for a couple weeks in the sun and there is no light.",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R3AFHQ1K06568Y"
+              }
+            ]
+          },
+          {
+            "title": "Lighting quality",
+            "sentiment": "mixed",
+            "mentions": {
+              "total": 42,
+              "positive": 28,
+              "negative": 14
+            },
+            "summary": "Customers have mixed opinions about the lighting quality of these solar lights, with some finding them great and absolutely loving them, while others describe them as horrible.",
+            "examples": [
+              {
+                "position": 1,
+                "snippet": "Love these! They have a strong color and last all night. Very impressed with the battery performance....",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R16GALHSD2OT96"
+              },
+              {
+                "position": 2,
+                "snippet": "Disappointed",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R3I1N70LFY4ATN"
+              },
+              {
+                "position": 3,
+                "snippet": "great",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R2B4PNWNVORKDR"
+              },
+              {
+                "position": 4,
+                "snippet": "These are excellent! Easy to put together and turn on. The light up as soon as the sun goes down and look so good along our driveway....",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R18YWGE3OX42AI"
+              }
+            ]
+          },
+          {
+            "title": "Brightness",
+            "sentiment": "mixed",
+            "mentions": {
+              "total": 29,
+              "positive": 18,
+              "negative": 11
+            },
+            "summary": "Customers have mixed opinions about the brightness of these solar lights, with some finding them bright and well-lit, while others report that they are not bright, inconsistent, and dim after a short time.",
+            "examples": [
+              {
+                "position": 1,
+                "snippet": "Easy set up and they're bright & sturdy. We're leaving them up year-round!",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R32D0AV7GSVQSK"
+              },
+              {
+                "position": 2,
+                "snippet": "Inconsistent lighting. Some nights all are working. Some nights two of 6 are working. Tough to get them all working at same time.",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R1WIFGJN9EGPDX"
+              },
+              {
+                "position": 3,
+                "snippet": "Very cute Halloween decor! They are pretty bright and I love the flickering look.",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R1QSYVWXG409C5"
+              },
+              {
+                "position": 4,
+                "snippet": "...Very easy to assemble, they are bright enough to see while passing by my house, and they’re the perfect size!",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R2SWJL6JLFXCP"
+              }
+            ]
+          },
+          {
+            "title": "Value for money",
+            "sentiment": "mixed",
+            "mentions": {
+              "total": 27,
+              "positive": 15,
+              "negative": 12
+            },
+            "summary": "Customers have mixed opinions about the solar light's value for money, with some finding it a great buy while others say it's not worth the price.",
+            "examples": [
+              {
+                "position": 1,
+                "snippet": "...I think they add the right touch to my driveway and are a great value.",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R16GALHSD2OT96"
+              },
+              {
+                "position": 2,
+                "snippet": "...Not even one single light turns on. What a waste of money. I’d ask for a return, but I’m sure that that’s not possible....",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R2XXTOOTRM2QXQ"
+              },
+              {
+                "position": 3,
+                "snippet": "Very bright! Easy to set up! Worth the money! Better than spirit Halloween tbh",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R2Q2XSYKCVZPJA"
+              },
+              {
+                "position": 4,
+                "snippet": "...didn’t put them out until right before my return day expired, don’t waste your money or time with these.",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R1RD3ZJD8UBGM7"
+              }
+            ]
+          },
+          {
+            "title": "Lighting lifespan",
+            "sentiment": "negative",
+            "mentions": {
+              "total": 19,
+              "positive": 3,
+              "negative": 16
+            },
+            "summary": "Customers report that the solar lights don't last long, with multiple reviews mentioning they only worked for two days and arrived already dead.",
+            "examples": [
+              {
+                "position": 1,
+                "snippet": "lights only stay lit for about 3 hours after sunset",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/RNCAS5CF849KZ"
+              },
+              {
+                "position": 2,
+                "snippet": "...They also don't stay lit for long, maybe 2 to 3 hours if that, even when the day has been bright and sunny....",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R16S3F0JN818UP"
+              },
+              {
+                "position": 3,
+                "snippet": "Doesn't stay lit long. It was a sunny day, and as soon as the sun went down. They lit up beautifully for just an hr. Each day after is less and less",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R3QU7ZHJO471DA"
+              },
+              {
+                "position": 4,
+                "snippet": "...the flicker, the cool design are all very nice but they do not stay lit for very long. I bought the 12 pk....",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/RCWZRZ658DGY5"
+              }
+            ]
+          }
+        ],
+        "customer_reviews": {
+          "5 star": 67,
+          "4 star": 12,
+          "3 star": 8,
+          "2 star": 1,
+          "1 star": 12
+        }
+      }
+    }
+  }
+}

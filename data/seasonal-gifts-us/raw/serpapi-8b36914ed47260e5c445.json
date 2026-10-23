@@ -1,0 +1,872 @@
+{
+  "provider": "serpapi",
+  "endpoint": "https://serpapi.com/search.json",
+  "parameters": {
+    "engine": "amazon_product",
+    "asin": "B0B3JF6BMR",
+    "amazon_domain": "amazon.com",
+    "language": "en_US",
+    "shipping_location": "US",
+    "output": "json"
+  },
+  "fetched_at_utc": "2026-10-22T08:43:07.065150+00:00",
+  "raw_file": "raw/serpapi-8b36914ed47260e5c445.json",
+  "response": {
+    "search_metadata": {
+      "id": "6ad9cc9cdf79cf4e6787773c",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/NimrXeddQdku25jTAvWbQMDRT-JRiemrXBGYXhmigJk/6ad9cc9cdf79cf4e6787773c.json",
+      "markdown_endpoint": "https://serpapi.com/searches/NimrXeddQdku25jTAvWbQMDRT-JRiemrXBGYXhmigJk/6ad9cc9cdf79cf4e6787773c.md",
+      "created_at": "2026-10-22 08:43:08 UTC",
+      "processed_at": "2026-10-22 08:43:08 UTC",
+      "amazon_product_url": "https://www.amazon.com/dp/B0B3JF6BMR/?language=en_US",
+      "raw_html_file": "https://serpapi.com/searches/NimrXeddQdku25jTAvWbQMDRT-JRiemrXBGYXhmigJk/6ad9cc9cdf79cf4e6787773c.html",
+      "total_time_taken": 5.93
+    },
+    "search_parameters": {
+      "engine": "amazon_product",
+      "asin": "B0B3JF6BMR",
+      "amazon_domain": "amazon.com",
+      "language": "en_US",
+      "device": "desktop",
+      "shipping_location": "US"
+    },
+    "product_results": {
+      "categories": [
+        {
+          "position": 1,
+          "name": "Home & Kitchen",
+          "link": "https://www.amazon.com/home-garden-kitchen-furniture-bedding/b/ref=dp_bc_1?ie=UTF8&node=1055398",
+          "node": "1055398",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&language=en_US&node=1055398&shipping_location=US"
+        },
+        {
+          "position": 2,
+          "name": "Seasonal Décor",
+          "link": "https://www.amazon.com/seasonal-d%C3%A9cor/b/ref=dp_bc_2?ie=UTF8&node=13679381",
+          "node": "13679381",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&language=en_US&node=13679381&shipping_location=US"
+        },
+        {
+          "position": 3,
+          "name": "Wreaths, Garlands & Swags",
+          "link": "https://www.amazon.com/wreaths-garlands/b/ref=dp_bc_3?ie=UTF8&node=13679411",
+          "node": "13679411",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&language=en_US&node=13679411&shipping_location=US"
+        },
+        {
+          "position": 4,
+          "name": "Garlands",
+          "link": "https://www.amazon.com/Christmas-Garlands/b/ref=dp_bc_4?ie=UTF8&node=16175660011",
+          "node": "16175660011",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&language=en_US&node=16175660011&shipping_location=US"
+        }
+      ],
+      "asin": "B0B3JF6BMR",
+      "title": "6PCS Fall Maple Leaves Garland, Party Joy 5.6Ft Artificial Maple Leaf Autumn Garland Hanging Fall Vines Table Decorations Front Door Fall Decor Thanksgiving Decorations Decor Outside Indoor Decor",
+      "link": "https://www.amazon.com/hp/wlp/pipeline/membersignup?ref=primedp_ventures_desktopBelowThreshold&primeCampaignId=primedp_ventures_desktopBelowThreshold",
+      "link_clean": "https://www.amazon.com/dp/B0B3JF6BMR/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0B3JF6BMR&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+      "badges": [
+        "Amazon's Choice",
+        "Limited time deal"
+      ],
+      "variants": [
+        {
+          "title": "Model",
+          "items": [
+            {
+              "position": 1,
+              "asin": "B0B3JF6BMR",
+              "name": "Maple Leaves Garland",
+              "image": "https://m.media-amazon.com/images/I/61Vy1US74cL._SS64_.jpg",
+              "selected": true,
+              "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0B3JF6BMR&device=desktop&engine=amazon_product&language=en_US&shipping_location=US"
+            },
+            {
+              "position": 2,
+              "asin": "B0F83W82K7",
+              "name": "25-QCFYTT-Early Autumn Green",
+              "image": "https://m.media-amazon.com/images/I/61ZpVIjnBWL._SS64_.jpg",
+              "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0F83W82K7&device=desktop&engine=amazon_product&language=en_US&shipping_location=US"
+            },
+            {
+              "position": 3,
+              "asin": "B0C73HC2HW",
+              "name": "00-QCFYTT-HS",
+              "image": "https://m.media-amazon.com/images/I/61RuheVIMRL._SS64_.jpg",
+              "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0C73HC2HW&device=desktop&engine=amazon_product&language=en_US&shipping_location=US"
+            },
+            {
+              "position": 4,
+              "asin": "B0D5CFXJ1Q",
+              "name": "24-QCFYTT-LBeige",
+              "image": "https://m.media-amazon.com/images/I/51y4M7hk0GL._SS64_.jpg",
+              "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0D5CFXJ1Q&device=desktop&engine=amazon_product&language=en_US&shipping_location=US"
+            },
+            {
+              "position": 5,
+              "asin": "B0D5CD6RFW",
+              "name": "24-QCFYTT-ORed",
+              "image": "https://m.media-amazon.com/images/I/61ZymDhrCML._SS64_.jpg",
+              "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0D5CD6RFW&device=desktop&engine=amazon_product&language=en_US&shipping_location=US"
+            },
+            {
+              "position": 6,
+              "asin": "B0F841R65Z",
+              "name": "25-QCFYTT-Deep Autumn Green",
+              "image": "https://m.media-amazon.com/images/I/51dosDfRfhL._SS64_.jpg",
+              "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0F841R65Z&device=desktop&engine=amazon_product&language=en_US&shipping_location=US"
+            },
+            {
+              "position": 7,
+              "asin": "B0C73J6F6S",
+              "name": "00-QCFYTT-HJS",
+              "image": "https://m.media-amazon.com/images/I/61OdI3dl4jL._SS64_.jpg",
+              "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0C73J6F6S&device=desktop&engine=amazon_product&language=en_US&shipping_location=US"
+            },
+            {
+              "position": 8,
+              "asin": "B0C73GN77H",
+              "name": "00-QCFYTT-JS",
+              "image": "https://m.media-amazon.com/images/I/61CTCTqH4gL._SS64_.jpg",
+              "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0C73GN77H&device=desktop&engine=amazon_product&language=en_US&shipping_location=US"
+            }
+          ]
+        }
+      ],
+      "brand": "Visit the PARTY JOY Store",
+      "thumbnail": "https://m.media-amazon.com/images/I/91DFuyckX2L._AC_SY300_SX300_QL70_FMwebp_.jpg",
+      "thumbnails": [
+        "https://m.media-amazon.com/images/I/91DFuyckX2L._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/716o38bXpjL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81R-O8Hc8cL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81mRZujgc1L._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/819yNCvLjoL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81ebkuyM9vL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/813k+8+fdfL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81DXM2Dk0CL._AC_SL1500_.jpg"
+      ],
+      "rating": 4.4,
+      "reviews": 1119,
+      "bought_last_month": "3K+ bought in past month",
+      "discount": "-10%",
+      "price": "$22.40",
+      "extracted_price": 22.4,
+      "old_price": "$24.89",
+      "extracted_old_price": 24.89,
+      "delivery": [
+        "FREE delivery Tuesday, October 27 on orders shipped by Amazon over $35"
+      ],
+      "stock": "In Stock"
+    },
+    "purchase_options": {
+      "buy_new": {
+        "caption": "Buy New",
+        "price": "$22.40",
+        "extracted_price": 22.4,
+        "delivery": [
+          "FREE delivery Tuesday, October 27 on orders shipped by Amazon over $35"
+        ],
+        "stock": "In Stock",
+        "features": {
+          "ships_from": {
+            "text": "Amazon",
+            "details": {
+              "heading": "Ships from",
+              "content": "Amazon"
+            }
+          },
+          "sold_by": {
+            "text": "PARTY JOY",
+            "details": {
+              "heading": "Sold by",
+              "content": "PARTY JOY"
+            },
+            "link": {
+              "text": "PARTY JOY",
+              "link": "https://www.amazon.com/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A1EHZ9V0XTWVXR&asin=B0B3JF6BMR&ref_=dp_merchant_link&isAmazonFulfilled=1"
+            }
+          },
+          "returns": {
+            "text": "FREE 30-day refund/replacement",
+            "details": {
+              "heading": "FREE 30-day refund/replacement"
+            },
+            "link": {
+              "text": "See exceptions",
+              "link": "https://www.amazon.com/gp/help/customer/display.html/?nodeId=GKQNFKFK5CF3C54B"
+            }
+          },
+          "packaging": {
+            "text": "Ships in product packaging",
+            "details": {
+              "heading": "Ships in product packaging",
+              "content": "This item has been tested to certify it can ship safely in its original box or bag to avoid unnecessary packaging. Since 2015, we have reduced the weight of outbound packaging per shipment by 41% on average, that’s over 2 million tons of packaging material.If you still require Amazon packaging for this item, choose \"Ship in Amazon packaging\" at checkout. Learn more"
+            },
+            "link": {
+              "text": "Learn more",
+              "link": "https://www.amazon.com/sipp_home"
+            }
+          }
+        }
+      },
+      "buy_used": {
+        "caption": "Used - Like New",
+        "price": "$20.38",
+        "extracted_price": 20.38,
+        "delivery": [
+          "FREE delivery Tuesday, October 27 on orders shipped by Amazon over $35",
+          "Or fastest delivery Monday, October 26. Order within 5 hrs 46 mins"
+        ],
+        "stock": "Only 1 left in stock - order soon.",
+        "features": {
+          "ships_from": "Amazon",
+          "sold_by": "Amazon Resale"
+        }
+      }
+    },
+    "item_specifications": {
+      "brand": "PARTY JOY",
+      "color": "Maple Leaves Garland",
+      "material": "Silk",
+      "item_length": "67.2 inches",
+      "item_weight": "1.4 pounds"
+    },
+    "about_item": [
+      "【REALISTIC MAPLE LEAF WREATH】 The 7 different colors of maple leaves make this fall garland look even more natural. From deep green to vibrant orange, it resembles real fallen leaves, creating a harmonious blend of colors that warms any room. Flower garland is the perfect festive decoration for both indoor and outdoor use.",
+      "【PACKAGE CONTENTS】 You will receive 6 individual artificial maple leaf garlands, each 5.6ft. You can weave two garlands together to make them look fuller, or connect two garlands end-to-end to extend the length. These versatile garlands can be used to create a stunning wreath or to decorate various spaces, adding a touch of autumnal charm to your home.",
+      "【HIGH QUALITY】 The multi-coloured maple leaves are made of high quality silk fabric, while the stems are made of high quality plastic. Easy to clean and maintain, these leaves feature beautiful vein details. The floral garland can be reused, so you don't have to worry about the leaves being damaged by wind, rain, or sun.",
+      "【VERSATILE USE】 This fall garland is perfect for Thanksgiving, fireplaces, door decorations, holidays, and dinners. It can also be used as hanging plants to adorn wedding arches, dining tables, balconies, swings, stair railings, and more. Whether indoors or outdoors, this artificial garland adds a touch of autumn charm to any setting, making it an ideal choice for a variety of festive and decorative purposes.",
+      "【WARM REMINDER】 If you encounter any issues during the purchase of our faux garland, please feel free to contact us. We are here to provide you with a satisfactory solution. Party Joy is dedicated to offering our customers a great shopping experience. Your satisfaction is our top priority, and we will do our utmost to ensure that you are completely happy with our products and services."
+    ],
+    "related_products": [
+      {
+        "position": 1,
+        "title": "CQURE 9 Pack Fall Leaf Garland, Total 53.1Ft Artificial Fall Vines Autumn Garland Fall Maple Leaves Thanksgiving Decor for Ho",
+        "link": "https://www.amazon.com/CQURE-Garland-Artificial-Thanksgiving-Fireplace/dp/B0D3PP8F9C/ref=pd_sbs_d_sccl_1_1/138-3013055-4545446?pd_rd_w=hgZc6&content-id=amzn1.sym.0cb10f30-7cd4-4985-9826-58b2c1174c19&pf_rd_p=0cb10f30-7cd4-4985-9826-58b2c1174c19&pf_rd_r=SAPBDDT2ZR9C2K5VWBAV&pd_rd_wg=XxDnJ&pd_rd_r=a618414e-3ed1-44ce-b3ad-b62dbb389de8&pd_rd_i=B0D3PP8F9C&psc=1",
+        "asin": "B0D3PP8F9C",
+        "link_clean": "https://www.amazon.com/CQURE-Garland-Artificial-Thanksgiving-Fireplace/dp/B0D3PP8F9C/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0D3PP8F9C&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/91UCEJ8Nh-L._AC_UL165_SR165,165_.jpg",
+        "rating": 4.4,
+        "reviews": 183,
+        "price": "$35.99",
+        "extracted_price": 35.99,
+        "price_unit": "$0.68/feet",
+        "extracted_price_unit": 0.68,
+        "delivery": [
+          "Get it as soon as Tuesday, Oct 27"
+        ]
+      },
+      {
+        "position": 2,
+        "title": "CQURE 6 Pack Fall Leaf Garland, Total 35Ft Artificial Maple Leaf Autumn Garland Fall Leaves Hanging Vines Fall Maple Leaves T",
+        "link": "https://www.amazon.com/CQURE-Garland-Artificial-Thanksgiving-Fireplace/dp/B0D3PQ9QF2/ref=pd_sbs_d_sccl_1_2/138-3013055-4545446?pd_rd_w=hgZc6&content-id=amzn1.sym.0cb10f30-7cd4-4985-9826-58b2c1174c19&pf_rd_p=0cb10f30-7cd4-4985-9826-58b2c1174c19&pf_rd_r=SAPBDDT2ZR9C2K5VWBAV&pd_rd_wg=XxDnJ&pd_rd_r=a618414e-3ed1-44ce-b3ad-b62dbb389de8&pd_rd_i=B0D3PQ9QF2&psc=1",
+        "asin": "B0D3PQ9QF2",
+        "link_clean": "https://www.amazon.com/CQURE-Garland-Artificial-Thanksgiving-Fireplace/dp/B0D3PQ9QF2/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0D3PQ9QF2&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/91tg8wPUAiL._AC_UL165_SR165,165_.jpg",
+        "rating": 4.3,
+        "reviews": 235,
+        "price": "$25.99",
+        "extracted_price": 25.99,
+        "price_unit": "$4.33/count",
+        "extracted_price_unit": 4.33,
+        "old_price": "$32.99",
+        "extracted_old_price": 32.99,
+        "delivery": [
+          "Get it as soon as Tuesday, Oct 27"
+        ]
+      },
+      {
+        "position": 3,
+        "title": "CQURE 10 Pack Fall Leaf Garland, Hanging Vines Garland Artificial Fall Maple LeavesThanksgiving Decor for Home Wedding Firepl",
+        "link": "https://www.amazon.com/CQURE-Garland-Artificial-Thanksgiving-Fireplace/dp/B0D3PP93CN/ref=pd_sbs_d_sccl_1_3/138-3013055-4545446?pd_rd_w=hgZc6&content-id=amzn1.sym.0cb10f30-7cd4-4985-9826-58b2c1174c19&pf_rd_p=0cb10f30-7cd4-4985-9826-58b2c1174c19&pf_rd_r=SAPBDDT2ZR9C2K5VWBAV&pd_rd_wg=XxDnJ&pd_rd_r=a618414e-3ed1-44ce-b3ad-b62dbb389de8&pd_rd_i=B0D3PP93CN&psc=1",
+        "asin": "B0D3PP93CN",
+        "link_clean": "https://www.amazon.com/CQURE-Garland-Artificial-Thanksgiving-Fireplace/dp/B0D3PP93CN/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0D3PP93CN&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/91GqU3XM2FL._AC_UL165_SR165,165_.jpg",
+        "rating": 4.3,
+        "reviews": 90,
+        "price": "$34.19",
+        "extracted_price": 34.19,
+        "price_unit": "$0.58/feet",
+        "extracted_price_unit": 0.58,
+        "old_price": "$39.99",
+        "extracted_old_price": 39.99,
+        "delivery": [
+          "Get it as soon as Tuesday, Oct 27"
+        ]
+      },
+      {
+        "position": 4,
+        "title": "joyhalo 5 Pack Fall Leaves Garland Decorations for Home | Autumn Leaf Garland Maple Leaf Vine Outdoor Fall Decor for Porch Ma",
+        "link": "https://www.amazon.com/joyhalo-Pack-Fall-Garland-Fireplace/dp/B0C8THFRG6/ref=pd_sbs_d_sccl_1_4/138-3013055-4545446?pd_rd_w=hgZc6&content-id=amzn1.sym.0cb10f30-7cd4-4985-9826-58b2c1174c19&pf_rd_p=0cb10f30-7cd4-4985-9826-58b2c1174c19&pf_rd_r=SAPBDDT2ZR9C2K5VWBAV&pd_rd_wg=XxDnJ&pd_rd_r=a618414e-3ed1-44ce-b3ad-b62dbb389de8&pd_rd_i=B0C8THFRG6&psc=1",
+        "asin": "B0C8THFRG6",
+        "link_clean": "https://www.amazon.com/joyhalo-Pack-Fall-Garland-Fireplace/dp/B0C8THFRG6/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0C8THFRG6&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/81PN+-TDT7L._AC_UL165_SR165,165_.jpg",
+        "rating": 4.2,
+        "reviews": 508,
+        "price": "$21.59",
+        "extracted_price": 21.59,
+        "price_unit": "$4.32/count",
+        "extracted_price_unit": 4.32,
+        "old_price": "$23.99",
+        "extracted_old_price": 23.99,
+        "delivery": [
+          "Get it as soon as Tuesday, Oct 27"
+        ]
+      },
+      {
+        "position": 5,
+        "title": "WOHOHOHO 6 Pack Fall Garland Maple Leaf Decorations, 5.9 Ft 72 Leaves Each | Artificial Fall Leaves Garland with Hooks, Autum",
+        "link": "https://www.amazon.com/wohohoho-Halloween-Thanksgiving-Christmas-Decorations/dp/B0D8K9BV8T/ref=pd_sbs_d_sccl_1_5/138-3013055-4545446?pd_rd_w=hgZc6&content-id=amzn1.sym.0cb10f30-7cd4-4985-9826-58b2c1174c19&pf_rd_p=0cb10f30-7cd4-4985-9826-58b2c1174c19&pf_rd_r=SAPBDDT2ZR9C2K5VWBAV&pd_rd_wg=XxDnJ&pd_rd_r=a618414e-3ed1-44ce-b3ad-b62dbb389de8&pd_rd_i=B0D8K9BV8T&psc=1",
+        "asin": "B0D8K9BV8T",
+        "link_clean": "https://www.amazon.com/wohohoho-Halloween-Thanksgiving-Christmas-Decorations/dp/B0D8K9BV8T/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0D8K9BV8T&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/713+ejCL5yL._AC_UL165_SR165,165_.jpg",
+        "rating": 4.4,
+        "reviews": 1085,
+        "price": "$22.49",
+        "extracted_price": 22.49,
+        "price_unit": "Typical: $24.99",
+        "extracted_price_unit": 24.99,
+        "old_price": "$24.99",
+        "extracted_old_price": 24.99,
+        "delivery": [
+          "Get it as soon as Tuesday, Oct 27"
+        ]
+      },
+      {
+        "position": 6,
+        "title": "DearHouse 2 Pack Fall Garland Maple Leaf, 5.9Ft/Piece 7 Colors Hanging Vine Garland Artificial Autumn Foliage Garland Thanksg",
+        "link": "https://www.amazon.com/DearHouse-Artificial-Thanksgiving-Fireplace-Christmas/dp/B08GKBFV2Q/ref=pd_sbs_d_sccl_1_6/138-3013055-4545446?pd_rd_w=hgZc6&content-id=amzn1.sym.0cb10f30-7cd4-4985-9826-58b2c1174c19&pf_rd_p=0cb10f30-7cd4-4985-9826-58b2c1174c19&pf_rd_r=SAPBDDT2ZR9C2K5VWBAV&pd_rd_wg=XxDnJ&pd_rd_r=a618414e-3ed1-44ce-b3ad-b62dbb389de8&pd_rd_i=B08GKBFV2Q&psc=1",
+        "asin": "B08GKBFV2Q",
+        "link_clean": "https://www.amazon.com/DearHouse-Artificial-Thanksgiving-Fireplace-Christmas/dp/B08GKBFV2Q/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B08GKBFV2Q&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "badges": [
+          "#1 Best Seller"
+        ],
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/81usN+MG3nL._AC_UL165_SR165,165_.jpg",
+        "rating": 4.4,
+        "reviews": 9016,
+        "price": "$14.38",
+        "extracted_price": 14.38,
+        "price_unit": "$1.22/feet",
+        "extracted_price_unit": 1.22,
+        "old_price": "$16.99",
+        "extracted_old_price": 16.99,
+        "delivery": [
+          "Get it as soon as Tuesday, Oct 27"
+        ]
+      }
+    ],
+    "related_product_sections": [
+      {
+        "title": "Customers who viewed this item also viewed",
+        "items": [
+          {
+            "position": 1,
+            "title": "CQURE 9 Pack Fall Leaf Garland, Total 53.1Ft Artificial Fall Vines Autumn Garland Fall Maple Leaves Thanksgiving Decor for Ho",
+            "link": "https://www.amazon.com/CQURE-Garland-Artificial-Thanksgiving-Fireplace/dp/B0D3PP8F9C/ref=pd_sbs_d_sccl_1_1/138-3013055-4545446?pd_rd_w=hgZc6&content-id=amzn1.sym.0cb10f30-7cd4-4985-9826-58b2c1174c19&pf_rd_p=0cb10f30-7cd4-4985-9826-58b2c1174c19&pf_rd_r=SAPBDDT2ZR9C2K5VWBAV&pd_rd_wg=XxDnJ&pd_rd_r=a618414e-3ed1-44ce-b3ad-b62dbb389de8&pd_rd_i=B0D3PP8F9C&psc=1",
+            "asin": "B0D3PP8F9C",
+            "link_clean": "https://www.amazon.com/CQURE-Garland-Artificial-Thanksgiving-Fireplace/dp/B0D3PP8F9C/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0D3PP8F9C&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/91UCEJ8Nh-L._AC_UL165_SR165,165_.jpg",
+            "rating": 4.4,
+            "reviews": 183,
+            "price": "$35.99",
+            "extracted_price": 35.99,
+            "price_unit": "$0.68/feet",
+            "extracted_price_unit": 0.68,
+            "delivery": [
+              "Get it as soon as Tuesday, Oct 27"
+            ]
+          },
+          {
+            "position": 2,
+            "title": "CQURE 6 Pack Fall Leaf Garland, Total 35Ft Artificial Maple Leaf Autumn Garland Fall Leaves Hanging Vines Fall Maple Leaves T",
+            "link": "https://www.amazon.com/CQURE-Garland-Artificial-Thanksgiving-Fireplace/dp/B0D3PQ9QF2/ref=pd_sbs_d_sccl_1_2/138-3013055-4545446?pd_rd_w=hgZc6&content-id=amzn1.sym.0cb10f30-7cd4-4985-9826-58b2c1174c19&pf_rd_p=0cb10f30-7cd4-4985-9826-58b2c1174c19&pf_rd_r=SAPBDDT2ZR9C2K5VWBAV&pd_rd_wg=XxDnJ&pd_rd_r=a618414e-3ed1-44ce-b3ad-b62dbb389de8&pd_rd_i=B0D3PQ9QF2&psc=1",
+            "asin": "B0D3PQ9QF2",
+            "link_clean": "https://www.amazon.com/CQURE-Garland-Artificial-Thanksgiving-Fireplace/dp/B0D3PQ9QF2/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0D3PQ9QF2&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/91tg8wPUAiL._AC_UL165_SR165,165_.jpg",
+            "rating": 4.3,
+            "reviews": 235,
+            "price": "$25.99",
+            "extracted_price": 25.99,
+            "price_unit": "$4.33/count",
+            "extracted_price_unit": 4.33,
+            "old_price": "$32.99",
+            "extracted_old_price": 32.99,
+            "delivery": [
+              "Get it as soon as Tuesday, Oct 27"
+            ]
+          },
+          {
+            "position": 3,
+            "title": "CQURE 10 Pack Fall Leaf Garland, Hanging Vines Garland Artificial Fall Maple LeavesThanksgiving Decor for Home Wedding Firepl",
+            "link": "https://www.amazon.com/CQURE-Garland-Artificial-Thanksgiving-Fireplace/dp/B0D3PP93CN/ref=pd_sbs_d_sccl_1_3/138-3013055-4545446?pd_rd_w=hgZc6&content-id=amzn1.sym.0cb10f30-7cd4-4985-9826-58b2c1174c19&pf_rd_p=0cb10f30-7cd4-4985-9826-58b2c1174c19&pf_rd_r=SAPBDDT2ZR9C2K5VWBAV&pd_rd_wg=XxDnJ&pd_rd_r=a618414e-3ed1-44ce-b3ad-b62dbb389de8&pd_rd_i=B0D3PP93CN&psc=1",
+            "asin": "B0D3PP93CN",
+            "link_clean": "https://www.amazon.com/CQURE-Garland-Artificial-Thanksgiving-Fireplace/dp/B0D3PP93CN/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0D3PP93CN&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/91GqU3XM2FL._AC_UL165_SR165,165_.jpg",
+            "rating": 4.3,
+            "reviews": 90,
+            "price": "$34.19",
+            "extracted_price": 34.19,
+            "price_unit": "$0.58/feet",
+            "extracted_price_unit": 0.58,
+            "old_price": "$39.99",
+            "extracted_old_price": 39.99,
+            "delivery": [
+              "Get it as soon as Tuesday, Oct 27"
+            ]
+          },
+          {
+            "position": 4,
+            "title": "joyhalo 5 Pack Fall Leaves Garland Decorations for Home | Autumn Leaf Garland Maple Leaf Vine Outdoor Fall Decor for Porch Ma",
+            "link": "https://www.amazon.com/joyhalo-Pack-Fall-Garland-Fireplace/dp/B0C8THFRG6/ref=pd_sbs_d_sccl_1_4/138-3013055-4545446?pd_rd_w=hgZc6&content-id=amzn1.sym.0cb10f30-7cd4-4985-9826-58b2c1174c19&pf_rd_p=0cb10f30-7cd4-4985-9826-58b2c1174c19&pf_rd_r=SAPBDDT2ZR9C2K5VWBAV&pd_rd_wg=XxDnJ&pd_rd_r=a618414e-3ed1-44ce-b3ad-b62dbb389de8&pd_rd_i=B0C8THFRG6&psc=1",
+            "asin": "B0C8THFRG6",
+            "link_clean": "https://www.amazon.com/joyhalo-Pack-Fall-Garland-Fireplace/dp/B0C8THFRG6/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0C8THFRG6&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/81PN+-TDT7L._AC_UL165_SR165,165_.jpg",
+            "rating": 4.2,
+            "reviews": 508,
+            "price": "$21.59",
+            "extracted_price": 21.59,
+            "price_unit": "$4.32/count",
+            "extracted_price_unit": 4.32,
+            "old_price": "$23.99",
+            "extracted_old_price": 23.99,
+            "delivery": [
+              "Get it as soon as Tuesday, Oct 27"
+            ]
+          },
+          {
+            "position": 5,
+            "title": "WOHOHOHO 6 Pack Fall Garland Maple Leaf Decorations, 5.9 Ft 72 Leaves Each | Artificial Fall Leaves Garland with Hooks, Autum",
+            "link": "https://www.amazon.com/wohohoho-Halloween-Thanksgiving-Christmas-Decorations/dp/B0D8K9BV8T/ref=pd_sbs_d_sccl_1_5/138-3013055-4545446?pd_rd_w=hgZc6&content-id=amzn1.sym.0cb10f30-7cd4-4985-9826-58b2c1174c19&pf_rd_p=0cb10f30-7cd4-4985-9826-58b2c1174c19&pf_rd_r=SAPBDDT2ZR9C2K5VWBAV&pd_rd_wg=XxDnJ&pd_rd_r=a618414e-3ed1-44ce-b3ad-b62dbb389de8&pd_rd_i=B0D8K9BV8T&psc=1",
+            "asin": "B0D8K9BV8T",
+            "link_clean": "https://www.amazon.com/wohohoho-Halloween-Thanksgiving-Christmas-Decorations/dp/B0D8K9BV8T/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0D8K9BV8T&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/713+ejCL5yL._AC_UL165_SR165,165_.jpg",
+            "rating": 4.4,
+            "reviews": 1085,
+            "price": "$22.49",
+            "extracted_price": 22.49,
+            "price_unit": "Typical: $24.99",
+            "extracted_price_unit": 24.99,
+            "old_price": "$24.99",
+            "extracted_old_price": 24.99,
+            "delivery": [
+              "Get it as soon as Tuesday, Oct 27"
+            ]
+          },
+          {
+            "position": 6,
+            "title": "DearHouse 2 Pack Fall Garland Maple Leaf, 5.9Ft/Piece 7 Colors Hanging Vine Garland Artificial Autumn Foliage Garland Thanksg",
+            "link": "https://www.amazon.com/DearHouse-Artificial-Thanksgiving-Fireplace-Christmas/dp/B08GKBFV2Q/ref=pd_sbs_d_sccl_1_6/138-3013055-4545446?pd_rd_w=hgZc6&content-id=amzn1.sym.0cb10f30-7cd4-4985-9826-58b2c1174c19&pf_rd_p=0cb10f30-7cd4-4985-9826-58b2c1174c19&pf_rd_r=SAPBDDT2ZR9C2K5VWBAV&pd_rd_wg=XxDnJ&pd_rd_r=a618414e-3ed1-44ce-b3ad-b62dbb389de8&pd_rd_i=B08GKBFV2Q&psc=1",
+            "asin": "B08GKBFV2Q",
+            "link_clean": "https://www.amazon.com/DearHouse-Artificial-Thanksgiving-Fireplace-Christmas/dp/B08GKBFV2Q/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B08GKBFV2Q&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "badges": [
+              "#1 Best Seller"
+            ],
+            "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/81usN+MG3nL._AC_UL165_SR165,165_.jpg",
+            "rating": 4.4,
+            "reviews": 9016,
+            "price": "$14.38",
+            "extracted_price": 14.38,
+            "price_unit": "$1.22/feet",
+            "extracted_price_unit": 1.22,
+            "old_price": "$16.99",
+            "extracted_old_price": 16.99,
+            "delivery": [
+              "Get it as soon as Tuesday, Oct 27"
+            ]
+          }
+        ]
+      }
+    ],
+    "videos": [
+      {
+        "position": 1,
+        "title": "Fall Colorful Maple Leaves Garland",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/d79f106e-66a6-4844-ad54-0137a60784f2/default.jobtemplate.hls.m3u8",
+        "thumbnail": "https://m.media-amazon.com/images/I/71Tq-It95nL.jpg",
+        "duration": "0:40",
+        "vendor": "PARTY JOY",
+        "date": "Aug 9, 2023"
+      },
+      {
+        "position": 2,
+        "title": "6PCS Fall Maple Leaves Garland",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/e7760095-144f-42a0-b8ca-39c0e1e062c7/default.jobtemplate.hls.m3u8",
+        "thumbnail": "https://m.media-amazon.com/images/I/91bgmTZJm4L.jpg",
+        "duration": "0:45",
+        "vendor": "Natasha Hoffman",
+        "vendor_thumbnail": "https://m.media-amazon.com/images/I/51JCnKWqteL._CR0,0,499,499_._FMjpg_._SL34_.jpg",
+        "date": "Sep 5, 2023"
+      },
+      {
+        "position": 3,
+        "title": "I love how FULL this fall garland is!",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/a1f0decb-f0bc-4f07-9cfc-73744e181f3f/default.jobtemplate.hls.m3u8",
+        "thumbnail": "https://m.media-amazon.com/images/I/51EHmyMkW4L.jpg",
+        "duration": "1:53",
+        "vendor": "Dawn Does Reviews",
+        "vendor_thumbnail": "https://m.media-amazon.com/images/I/91LBOeIgtzL._CR0,0,2275,2275_._FMjpg_._SL34_.jpg",
+        "date": "Oct 8, 2026"
+      },
+      {
+        "position": 4,
+        "title": "What I Love About This Fall Garland",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/4d249630-009a-4215-b49c-0697b6ab260a/default.vertical.jobtemplate.hls.m3u8",
+        "thumbnail": "https://m.media-amazon.com/images/I/A1--LnpE2wL.jpg",
+        "duration": "0:24",
+        "vendor": "Sarah Ashley",
+        "vendor_thumbnail": "https://m.media-amazon.com/images/I/718R1RFq3nL._CR0,0,708,708_._FMjpg_._SL34_.jpg",
+        "date": "Sep 24, 2024"
+      },
+      {
+        "position": 5,
+        "title": "Autumn decor with fall maple leaves",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/11259a60-a29e-41c8-94d6-3d985b390350/default.vertical.jobtemplate.hls.m3u8",
+        "thumbnail": "https://m.media-amazon.com/images/I/71Uamtqsw+L.jpg",
+        "duration": "0:53",
+        "vendor": "Jude Tallent",
+        "vendor_thumbnail": "https://m.media-amazon.com/images/I/71bte1880wL._CR0,0,1024,1024_._FMjpg_._SL34_.jpg",
+        "date": "Oct 13, 2026"
+      },
+      {
+        "position": 6,
+        "title": "Maple Fall Leaf Garland Review",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/7ef75fbc-c571-4a22-a19f-d5ac833e6950/default.vertical.jobtemplate.hls.m3u8",
+        "thumbnail": "https://m.media-amazon.com/images/I/617l0HvB4zL.jpg",
+        "duration": "0:33",
+        "vendor": "breanne",
+        "vendor_thumbnail": "https://m.media-amazon.com/images/I/C1V5AcUoIoL._CR0,88,2268,2268_._FMjpg_._SL34_.jpg",
+        "date": "Nov 11, 2024"
+      },
+      {
+        "position": 7,
+        "title": "Fall Garland Review",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/e72c2fbb-2a6a-46af-9dae-851505f99d2d/default.vertical.jobtemplate.hls.m3u8",
+        "thumbnail": "https://m.media-amazon.com/images/I/61qaaYEOKFL.jpg",
+        "duration": "0:27",
+        "vendor": "breanne",
+        "vendor_thumbnail": "https://m.media-amazon.com/images/I/C1V5AcUoIoL._CR0,88,2268,2268_._FMjpg_._SL34_.jpg",
+        "date": "Nov 11, 2024"
+      },
+      {
+        "position": 8,
+        "title": "Welcome Fall into your home!",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/4b7a9ea5-8086-4cc3-8e78-b3ccc8365f75/default.vertical.jobtemplate.hls.m3u8",
+        "thumbnail": "https://m.media-amazon.com/images/I/31qqM2qAiGL.jpg",
+        "duration": "0:51",
+        "vendor": "Jack Albrecht",
+        "vendor_thumbnail": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SL34_.png",
+        "date": "Sep 5, 2026"
+      },
+      {
+        "position": 9,
+        "title": "Versatile string of fake leaves, style them on tables or hanging them up. Fall decor must have!",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/cbb44901-dd98-4422-8bd1-990f2db3fbae/default.jobtemplate.hls.m3u8",
+        "thumbnail": "https://m.media-amazon.com/images/I/C1UmVcXHQ1L.jpg",
+        "duration": "0:50",
+        "vendor": "Shannon Wadsworth",
+        "vendor_thumbnail": "https://m.media-amazon.com/images/I/91AiMNJg5mL._CR0,1,1051,1051_._FMjpg_._SL34_.jpg",
+        "date": "Dec 2, 2024"
+      },
+      {
+        "position": 10,
+        "title": "Honest review SECOND YEAR USING THEM OUTSIDE! Close look!",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/1a1232b8-1064-4b50-9b4e-83a4bb4450f8/default.vertical.jobtemplate.hls.m3u8",
+        "thumbnail": "https://m.media-amazon.com/images/I/91k8ffyb-xL.jpg",
+        "duration": "0:47",
+        "vendor": "Ashley John",
+        "vendor_thumbnail": "https://m.media-amazon.com/images/I/B1S7uJxEaTL._CR61,352,782,782_._FMjpg_._SL34_.jpg",
+        "date": "Sep 24, 2024"
+      }
+    ],
+    "product_description": [
+      {
+        "position": 1
+      },
+      {
+        "position": 2,
+        "title": "Scene presentation",
+        "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/68c088ed-7208-45e9-ac68-605d18a2df25.__CR0,0,1464,600_PT0_SX1464_V1___.jpg"
+      },
+      {
+        "position": 3
+      },
+      {
+        "position": 4
+      },
+      {
+        "position": 5
+      },
+      {
+        "position": 6
+      },
+      {
+        "position": 7,
+        "compare_with_similar": [
+          {
+            "position": 1,
+            "asin": "B0C73HC2HW",
+            "title": "Black Maple Leaf Garland",
+            "thumbnail": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/7ad60149-cfe9-434a-9fd3-59ce636f190f.__AC_SR200,225___.jpg",
+            "link": "https://www.amazon.com/dp/B0C73HC2HW?ref=emc_p_m_5_i_atc",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0C73HC2HW&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "rating": 4.4,
+            "reviews": 1119,
+            "price": "$22.99",
+            "extracted_price": 22.99,
+            "quantity_size": "6pcs/5.6ft",
+            "color": "Black",
+            "seasons": "Autumn, Winter",
+            "materials": "Soie & plastique",
+            "high_quality": "✔"
+          },
+          {
+            "position": 2,
+            "asin": "B0BNJ3VS55",
+            "title": "Faux Fake Orchid Outdoor",
+            "thumbnail": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/611b64d5-6d69-455f-9e17-bc49f9737159.__AC_SR200,225___.jpg",
+            "link": "https://www.amazon.com/dp/B0BNJ3VS55?ref=emc_p_m_5_i_atc",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0BNJ3VS55&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "rating": 4.3,
+            "reviews": 574,
+            "price": "$19.99",
+            "extracted_price": 19.99,
+            "quantity_size": "15pcs",
+            "color": "Orange",
+            "seasons": "Autumn",
+            "materials": "Soie & plastique",
+            "high_quality": "✔"
+          },
+          {
+            "position": 3,
+            "asin": "B0D5L98NL8",
+            "title": "Greenery Shrubs Outdoor",
+            "thumbnail": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/86adf66d-5b4b-402c-bd46-9cdb9ba1602e.__AC_SR200,225___.jpg",
+            "link": "https://www.amazon.com/dp/B0D5L98NL8?ref=emc_p_m_5_i_atc",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0D5L98NL8&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "rating": 4.3,
+            "reviews": 574,
+            "price": "$33.99",
+            "extracted_price": 33.99,
+            "quantity_size": "12pcs",
+            "color": "green",
+            "seasons": "Autumn, Spring",
+            "materials": "Soie & plastique",
+            "high_quality": "✔"
+          },
+          {
+            "position": 4,
+            "asin": "B0B4WCZ2M4",
+            "title": "Maple Leaf Pumpkin Branch",
+            "thumbnail": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/a70ecfa5-d304-48c3-81be-c1650f20f9a9.__AC_SR200,225___.jpg",
+            "link": "https://www.amazon.com/dp/B0B4WCZ2M4?ref=emc_p_m_5_i_atc",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0B4WCZ2M4&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "rating": 4.6,
+            "reviews": 321,
+            "price": "$15.99",
+            "extracted_price": 15.99,
+            "quantity_size": "4pcs",
+            "color": "Orange",
+            "seasons": "Autumn",
+            "materials": "Soie & plastique",
+            "high_quality": "✔"
+          },
+          {
+            "position": 5,
+            "asin": "B0B4NX4YQY",
+            "title": "Fall Silk Maple Leaves",
+            "thumbnail": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/d523052b-faa4-4608-a0a8-6aad3fbe4ff2.__AC_SR200,225___.jpg",
+            "link": "https://www.amazon.com/dp/B0B4NX4YQY?ref=emc_p_m_5_i_atc",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0B4NX4YQY&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "rating": 4.6,
+            "reviews": 321,
+            "price": "$17.99",
+            "extracted_price": 17.99,
+            "quantity_size": "4pcs",
+            "color": "Orange",
+            "seasons": "Autumn",
+            "materials": "Soie & plastique",
+            "high_quality": "✔"
+          },
+          {
+            "position": 6,
+            "asin": "B07DCQM2S4",
+            "title": "Hydrangea Silk Flowers",
+            "thumbnail": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/7d9f4a54-8f73-47bf-b8a5-9aa411c24dc1.__AC_SR200,225___.jpg",
+            "link": "https://www.amazon.com/dp/B07DCQM2S4?ref=emc_p_m_5_i_atc",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B07DCQM2S4&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "rating": 4.5,
+            "reviews": 1205,
+            "price": "$15.99",
+            "extracted_price": 15.99,
+            "quantity_size": "5pcs",
+            "color": "White",
+            "seasons": "Autumn, Spring",
+            "materials": "Soie & plastique",
+            "high_quality": "✔"
+          },
+          {
+            "position": 7,
+            "asin": "B0CCP6LWDN",
+            "title": "Black Roses Garland Decor",
+            "thumbnail": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/054d513a-28cc-41b3-8f54-babe4f4a80ad.__AC_SR200,225___.jpg",
+            "link": "https://www.amazon.com/dp/B0CCP6LWDN?ref=emc_p_m_5_i_atc",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0CCP6LWDN&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "rating": 4.6,
+            "reviews": 4662,
+            "price": "$42.99",
+            "extracted_price": 42.99,
+            "quantity_size": "1pcs/6.56ft",
+            "color": "Black",
+            "seasons": "Autumn, Winter",
+            "materials": "Soie & plastique",
+            "high_quality": "✔"
+          }
+        ]
+      }
+    ],
+    "product_details": {
+      "brand_name": "PARTY JOY",
+      "manufacturer": "PARTY JOY",
+      "included_components": "6pcs maple garlands",
+      "item_type_name": "Maple Garland",
+      "model_number": "Maple Leaves Garland",
+      "manufacturer_part_number": "06",
+      "best_sellers_rank": [
+        {
+          "text": "#12,094 in Home & Kitchen (See Top 100 in Home & Kitchen)",
+          "extracted_rank": 12094,
+          "link": "https://www.amazon.com/gp/bestsellers/home-garden/ref=pd_zg_ts_home-garden",
+          "link_text": "See Top 100 in Home & Kitchen"
+        },
+        {
+          "text": "#17 in Christmas Garlands",
+          "extracted_rank": 17,
+          "link": "https://www.amazon.com/gp/bestsellers/home-garden/16175660011/ref=pd_zg_hrsr_home-garden",
+          "link_text": "Christmas Garlands"
+        }
+      ],
+      "asin": "B0B3JF6BMR",
+      "customer_reviews": "4.4 out of 5 stars",
+      "rating": 4.4,
+      "reviews": 1119,
+      "color": "Maple Leaves Garland",
+      "shape": "Semicircular",
+      "item_length": "67.2 inches",
+      "item_weight": "1.4 pounds",
+      "size": "Colorful",
+      "material_type": "Silk",
+      "plant_or_animal_product_type": "Maple"
+    },
+    "sponsored_brands": [
+      {
+        "position": 1,
+        "asin": "B0D3PP93CN",
+        "title": "CQURE 10 Pack Fall Leaf Garland, Hanging Vines Garland Artificial Fall Maple LeavesThanksgiving Decor for Home Wedding Fireplace Party",
+        "link": "https://aax-us-east-retail-direct.amazon.com/x/c/JDLs1ApnbYSMN5e7b1NsaOEAAAGhYsdUPQEAAAH2AQBvbm9fdHhuX2JpZDYgICBvbm9fdHhuX2ltcDEgICBIIphM/clv1c_ek-YBXfyFcbWrkm-pvuUew-uiZOB6JdeLmwLVpvMC2kSack0SOHKCR9xeS9qen0TJwbBGXPLfPsaNu3Zs4cJJZf2XBTuhzuJU3RphrDaGmQuqJWLCAdgpHtI0vl1vWjFE3yKj8PdwioPxiQHxDp8UGzRiF2en2GuGpjGt2_q7YUeXyf1F5ZZJ7eC8K6OoJk0Zc8SJsYqn4DN2NLunSjw3z9edn8fJa_HEEeRnnDIV9XjlF_Ne9ECoHAaWtmUlSfBGYVAMeQncTg1NPEcF1v90dc-PPCToqvCOEikoMNlsw4ioWse-LBGi2jq6gxP99l4nw94oo4sHR4pxkXMzEilxcGJPO95Q0cbKop77HnpuEP692GuqV3YCK_YwYOB-xSQHMdg1s2qbqRCvr0FxfJurwiuXm1LS1AJOW3YVxVD1vlvlRM8zgCe8Dtfvpaxkiof1rMmoowj5-ZzQ27_eu4ybhIBUVbQm5X0h0t68z9JH62TghOcBgcABBnVUaYK0FSJ8vG8LY_2X_EN_KpvS4yT4sjaOwLlAMkW4KTw55CVIu8Ag3cnAXQo-SHqVMjOyo6JeQCZ6wsgnz84F5fo29CW2WQWwxpjEnUiad9yUTIR08MfJnvGJKrO_0qt1PLKyV9i5J0TESrntiQlJRWO2aGBVojhQ5lq9MvUFK8DHiqMjyVSjr9rL43qHRbDOgO5e9XWnnKeZbbVtrXz34GvFgA_7wH7N47yzYfustnyF7lo08g-0T6QBLJ8X8B7zmtZkLPrrCIMzygAtUHLDAoXtLsX41Ykiui_QsPVSUYkfY7P5YJWfFXlifjIDqyYGOhP6mAuy9pjG4DjgbDc7JFGzQQ2vL4MJxE0TGzufOjCqgHCesnYABym8oa96R-TT0xmXKCyojoNeFjPvQpupp3QEsK44st4vglLeZDNIjipVDG57cUapw9a66SPQsI-Am841fwQNZRZZ_OZp1ztyNdfHDjb1pzptoYxgVuE-rl1PTnVOHc7XvkBdGllsEA1Q-QwcyhVbrtA5GbHyy6_tr2SUlD2QpTjKaE1p1T7Lv0Hg-Id5ROx-dbdrzXjIZ8n8ZSZrZB-Xj_SKYwCNhDddCbbYlMEx4bJhdFhWv2OSRi-VPWg2iFoXegPOTMdnNkuwC3uoFR7kyEeOLEdEXrYB1zdcJya_334MOCM0a5cMKsiHDzqmRKCvLsLAMC8vQWbVVbBlWNjGLq23mcoKm5xiYJI2tNIdsWlZ9C3Nvwjou6lPWm5fH8zlkFnciKVDrSDLKpulqsG_jTF3Whref4d3LxsA-dmVoIk94CvNovl6_4BZtw7ceobnlIhYXNwFcCrcI_rJ8556-A_gH9TExpii76ndJK5915JU07B1HFBLBv7gbU18Fr5kRnw0KayRYyimojY3RxIOR-Eca9qptC-fmhlR8-f6M1MSDwgFjp8dvpWNSoYM_fhq9WSPgziBaJvJRUAmOlMM8XG_bzxxyJ5KpvdLWZfV0Uwa52AibW9FN61l-BVElZaVawDztK_bnHIsaVslWtR6yqlAOp6LALi0gZQ5kWP6r0QRluMyjFgN0gIvnvVrIUDJVwNdAE0xHT1Yk6E8xWgG47GBN-BgBinSh2Dqb84/https://www.amazon.com/dp/B0D3PP93CN/?_encoding=UTF8&pd_rd_i=B0D3PP93CN&pd_rd_i=B0D3PP93CN&ref_=sbx_be_s_sparkle_ssd_cta&pd_rd_w=6xujc&content-id=amzn1.sym.fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=SAPBDDT2ZR9C2K5VWBAV&pd_rd_wg=XxDnJ&pd_rd_r=a618414e-3ed1-44ce-b3ad-b62dbb389de8",
+        "link_clean": "https://www.amazon.com/dp/B0D3PP93CN/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0D3PP93CN&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "thumbnail": "https://m.media-amazon.com/images/I/6172J1EoYwL._AC_SR100,100_QL65_.jpg",
+        "video": {
+          "link": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/73046993-b174-4209-ba3c-02daec679023.mp4/productVideoOptimized.mp4",
+          "thumbnail": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/73046993-b174-4209-ba3c-02daec679023.mp4/r/THUMBNAIL_360P_FRAME_3_CAPTURE_2.JPG"
+        },
+        "rating": 4.3,
+        "reviews": 90,
+        "price": "$34.19",
+        "extracted_price": 34.19,
+        "old_price": "$39.99",
+        "extracted_old_price": 39.99
+      },
+      {
+        "position": 2,
+        "asin": "B0F93LRWHN",
+        "title": "6 FT Lighted Fall Garland with Lights Autumn Automatic ON/Off Timer | Full Fall Leaves Garland with Berries Pine Cones Realistic Decorations for Home Mantle Fireplace Porch Thanksgiving Outdoor",
+        "link": "https://aax-us-east-retail-direct.amazon.com/x/c/JIAUKSiT02RVY4rGlEOf4wUAAAGhYsdUPwEAAAH2AQBvbm9fdHhuX2JpZDYgICBvbm9fdHhuX2ltcDEgICArUa9B/clv1c_ek-IxQfWLcTaTBVEai7mSw7J7ZERJ3C9-JgCupqMD5vXK3itE6Nprnh6z0TeOGG31PMdPGHt_chD5VHTrcYGMMgRRff5S9CtOSHvn4XofPwCm9HbJrWUezDBY35yjsphd949OALrQp5rlNhhU56oKGgi8Z2fmn2KsoYU7LYtzbI1yQtcmcpqQEIgr3TOGVwmDgfMX5srWNcIFmT_JEvZgoINt00KlB7mHIqUuFM04aMCh8clqL8wqkQ7yoaKWWYXe_gtylEao-ej9ff5ov-QapkpvJtxv0HBaZcwNgX7mmoa5qU11YKH_uf1fkpgoSi8mM1xIIE1Hps1n2qEEu26WdS7kO6f1zUv0eeS-rdQvYoTCC4mMJ8BDgajWVeCFskRuVU7IjZNlGAOx-QHZvBJhivrnm4L086pevkn1Byziar0-BxXPkMUM6mPfq9w5xrMugDbWtRhfWtZwYrvoB6xomRSQ5S4pcGIh3zgXreGXoG03Wjx0krO4_5gccWatHA6fUTncGM34W2xJl7AhnWBrrJWts8WQXP_kWDHJvd2kS2Vm-zX3kk8TSNevg-3AjlP76T21O2KV23DUiVNBlgnWHrPrqFJII4fCaByWttSdM_-jPW9M76NSlug3pVNHS-8_uwJG2gYamaOX_8Z_JfEqzfl7qcDvAGzkoLY8buoXvWyhDwsEboDTJri2NG-7_RfP2nqNzMLRMx7eQiBCn2IcgQ17lUgGtghlumi9aR6WAX6zUxr-6T6AUwqKEdVdT4g8joZ5PvUYv8j10r5PZ4QhtgAyrXKojmjf6VRLIRFiiFh5ZyzFov-SLjFZENPfr8myaeyZZQKPnMZ42SM_AtGGUc6C8P_k3cvHPmdkLc6wj5Vg1fW7K6Njhu-keubt_iWOxREyogPDQENkZphaJ_kZNueWVxqQi3JGUF7_212NzWg5cw8anVUFRuwYUCBrjULl5knAAeo9MhCRROqx4wRSQTePt-73uxcbACMb_YugryBs68pduMKcU2LXFw8GfrIfUUrHDJtULFTjgtySLWDa0t_I_XhZu1Ttsr2fLlR1mfXTVty3SH7glvHDiiPUPPvRj3rF9wZ-xQA3lUJN2b1bgNJNtUD-RqetU81-FEtvOM8r6_5As0yE8LSxpLlTbBpSbAXDKoUpPxSh_rlqrY4iT4xmW2WEL5az_CR3QwbTEtRV6iaY4iCRyKRKapRMYmEkje6EuxHjmYBHhjZuwI6SpnJ6_gIyHDrC5etAdjubsDqhNJeR844uAD-0foieIQZq-kO91ojAxbST8eY4L1G32aKeMTK6nLhKrrKYWwKSjz7ARQMcChQps5qvPR9mnStkKM0X70JkOtmNjc_rIaUu2ohvOBu9IEWpx0McOXux9rTiFGtm2jAnPLhlgWVaoyBewajp7m44pj6v8el5YzmUwYKOpuDw66bDKkM3z-rpEmwFrRKx918ee47e0SPaCw0Z6zNmpFaoFtI36Uh3E2NeSpSj_4pmR4QULFs8sZ6QEnRLrZuLPHfA7cz9nndIVaPA0ayZx13kV3mtQiss3j2BmbIUE7OIeyMJunPEFD5x5OD71hJVj5QlC94wm3m8__8TYUQre0vJSLKGmNjk_Ra92yKEKGynEnuIfsY4V5oG0uSBg/https://www.amazon.com/dp/B0F93LRWHN/?_encoding=UTF8&pd_rd_i=B0F93LRWHN&pd_rd_i=B0F93LRWHN&ref_=sbx_be_s_sparkle_ssd_cta&pd_rd_w=6xujc&content-id=amzn1.sym.fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=SAPBDDT2ZR9C2K5VWBAV&pd_rd_wg=XxDnJ&pd_rd_r=a618414e-3ed1-44ce-b3ad-b62dbb389de8",
+        "link_clean": "https://www.amazon.com/dp/B0F93LRWHN/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0F93LRWHN&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "thumbnail": "https://m.media-amazon.com/images/I/51CM+jlwqLL._AC_SR100,100_QL65_.jpg",
+        "video": {
+          "link": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/6094e99f-f463-4ece-ad45-c829a97cefe5.mp4/productVideoOptimized.mp4",
+          "thumbnail": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/6094e99f-f463-4ece-ad45-c829a97cefe5.mp4/r/THUMBNAIL_360P_FRAME_3_CAPTURE_2.JPG"
+        },
+        "rating": 4.3,
+        "reviews": 277,
+        "price": "$27.42",
+        "extracted_price": 27.42,
+        "old_price": "$28.87",
+        "extracted_old_price": 28.87
+      },
+      {
+        "position": 3,
+        "asin": "B09NN5D37J",
+        "title": "Timer&3 Pack Thanksgiving Decorations 30Ft Fall Garland with Lights 60LED | Thanksgiving Decor, Patented Enlarged Maple Leaves Garland Battery Operated Waterproof Halloween Fall Decorations for Home",
+        "link": "https://aax-us-east-retail-direct.amazon.com/x/c/JFG4RO648lImX8H1HJbkpAIAAAGhYsdUQAEAAAH2AQBvbm9fdHhuX2JpZDYgICBvbm9fdHhuX2ltcDEgICBGRnaS/clv1c_ek-IxXXWVcbaTfWXb9qsChu3EVwubnsntNvTXiyTSR63qjwAGi3QkFUEawIo9wci4xhhbHzOzmVLetyDsDn8eOqq-Dd44IlTFbzTibhf4JCuDJHbLpmN-b1JL3l4rSKBttjXg5ZiKEubww7kViIHUYS-dXyQnDWqk8f53R2gyL5f-mgUGKw1X60_9vnYvmItsHcpNzpfvEVM0OXzu_DVhqr6xtV9VA_2162mIRfottASDrmVoV0Q2jLHBmqaRj5wprI3xhp09GsLDgAcEK0jiIRyrk0Nungv6COHSg7D2wJ_v-ziKrVkqsIYAoEZEMXodCRC3q37kWQDvfsvfIKvorgsTmzL6gSWc48MGCDDKia1NxBccZhdaz6aZDW1UXSELWeUmT-qs3S8BnMwB3fRGKxzy2RKF5c9F_Yem4S9ffzrP-ilrb5J8B13ituVO-aFydTOxCcROqcwmHo7gcp_J7koqf4_gdTHc8_ZAU9xoNeiEVAt5mrc0ZahZTl3f-didw0GwDqLe-AElODf1zaBgl7FsRy_tDP7xxCk7PcjSLlfIaDTg65m5A8bBUXyeWTq7eWT8mvc0jnYvsdeq7UKUbXzKwfcpl4x2IORV00E2nW76BUeQPsX4gy_esQ-QcHs1c95qrDliftpxkAbK3KWEsTXj1g7tQ6vpJBchfHznwYJLEjuKX2BFhMI8DhyJjO0Ci5v-zbHPjF0zg1uvx3bxjpWvYzAsgVz4aPUZe9QxA3limmNuVxxbpX_ssHA0XFNcr0F_K3BRg0gj8jGvGXJXZHlgJOpOV73PDWokOezStBjFgGqCOM-abR-oRZwZ_lZ1ozgpw-Q8xmgRrh3UWnwMS9SAkHScjBmpded24MW1zcNVpW-h_fh1tBEWZiHzMYcABbee35cw9W2bzI9GzjwAXsKq5sphlHqljiVLslem-x_rfWPFrFdvsw5sJeKs6bNRx-2fCcFyrXE_mH2hVdVVHlrcJyFYlxXuGrm0UX90hMyfd6dYZfG30pfLOq3ZuISyCkfZ0KjU0ADHSyDA6hBDvVU9zK2497teB3VzEFVAh_FZ7JglADu7TkiTwZj51JYw2EHLYLOrApODJN_Xkss0DKqau9-9OXxl_EImdWm2z9AZv-TwvOK9Ycf6eDDS-svgea_4AOThC8djFNNNA4qA2uLmmsroiX2p8bYudcXkRvaXom-sJli4w2A_DFsI350Z9g-R7rkPp9t8sRRUnFhNOLYH5kvtl7CC19IBrZm8TXrMJsS2pXinm-eZx7sVNyzZ-ySTaf9w3qlBQMlZzjCoJT3E5q5gH_8mlEau9yHipsNwpQ4-rV9QkktuReEftaj4wd4T6bhVRWKspz46ZmomOdui0tKWIMxK8teMiITofGxfkAGmkxSc-XQ2-m0EL81-daq9LhyhynTu9df9qD75jCWhYvo3fcro0KJqygcMufhq7Wsvsd5wReiz1hUO367oQyhbxAGV6kQuE8YKzyg4TDNyrb6NbdbBiB_Z2veFeboaBxet59jsp8RZXTCIU5PXcAbhP9V-ZFIm-LTLw3oULIsbPqqBQFsOiBjmJFVxQQjspuE_j0fuK12YmbS8gopYH4-iszb29_JUKIEQBlt/https://www.amazon.com/dp/B09NN5D37J/?_encoding=UTF8&pd_rd_i=B09NN5D37J&pd_rd_i=B09NN5D37J&ref_=sbx_be_s_sparkle_ssd_cta&pd_rd_w=6xujc&content-id=amzn1.sym.fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=SAPBDDT2ZR9C2K5VWBAV&pd_rd_wg=XxDnJ&pd_rd_r=a618414e-3ed1-44ce-b3ad-b62dbb389de8",
+        "link_clean": "https://www.amazon.com/dp/B09NN5D37J/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B09NN5D37J&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "thumbnail": "https://m.media-amazon.com/images/I/51MIQqSt3AL._AC_SR100,100_QL65_.jpg",
+        "video": {
+          "link": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/a85c4aa8-c757-45c5-b79d-15caab09bca7.mp4/productVideoOptimized.mp4",
+          "thumbnail": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/a85c4aa8-c757-45c5-b79d-15caab09bca7.mp4/r/THUMBNAIL_360P_FRAME_3_CAPTURE_2.JPG"
+        },
+        "rating": 4.0,
+        "reviews": 1336,
+        "price": "$9.99",
+        "extracted_price": 9.99,
+        "old_price": "$11.79",
+        "extracted_old_price": 11.79
+      },
+      {
+        "position": 4,
+        "asin": "B0F29JR11L",
+        "title": "Fall Decor Maple Leaf Lights, 8.5Ft Fall String Lights Plug In with 10 LED Orange & Yellow Maple Leaf Light, Fall Leaves Light Indoor Outdoor for Home Fireplace Party Harvest Thanksgiving Decorations",
+        "link": "https://aax-us-east-retail-direct.amazon.com/x/c/JMr0Mvw4cjthjVeyVcgPXwwAAAGhYsdUQQEAAAH2AQBvbm9fdHhuX2JpZDYgICBvbm9fdHhuX2ltcDEgICBJ44ZG/clv1c_ek-IxQXWUsbaTQWEC8oLumE9IzNW3voY8E5YUUqZudkJEXMqTqHQ9a8bVfhMlNbj7HtpbPkDLNT9RX9Y1SnceFKadRbZC6aiPNA2gmnpy6qwCyHvG8QVNNwlZvV_1gJQF9SXKYhuqNYkFlGsNF5cbksNt5yflE0KsoWySj2rwjb3GegYBeYiQ7MOc-zt4XKxXtn3O1viKivApYQ9GunD-7EPOeMzFlSsig8mm1w46yAqDeVNSRMk_Rr_-JmmrJ_oPihN7qjssuIq998rU2MssdPyoXwOXVnJSszay4P5WmlH6adeTRntfGcvQzx447PXARYqg8rSOtF1xjg843jtqIFdbNfnpMgtvo7V4eDyTvg6HG2sUquxGGoM2Ez-A0Qsiiwi0gB5IrCCh8bMrQL4v17a12ioR-CWkTzK0snsMuHiWJTlPHQhC4EijZPIcx2Fxno7y2P_6AIoAZbaF36FneMxT4BDmjhj1-r1g4maTh22Ah9O7trp5iltWkF9nsgCXfd1PUMw_142QbhCGCVfVWxmhJCCci8CbyVMv6IlSNMwbg8rsNGvZTp7rRYIw1LoscWvW-I-a-XHAwkX6enHmodCNsk3SOUSLgOegrc5V1AEqd66XV5Jo_2_XbyrD1vrTJqfjepAW212dM6fYKwneYx0vPdbP2R7tUa78PjNaZM4kBXpsgSCfQ375UWwnAUHxcrYoxns3Tslqi94Og09M49DmILwFVSkkXEmBG4ERovKjTEaRZIavTAzOs-4dELqey8UJiFDk5vvFwnB0TLL1ehQAdPOrsWgVaMF2wn9YczqjGlUHTQlqrYoHNa5vZK0oeq40iWPR8K_oOqa3yK3ws2dmLZEKs9-e1oUwBgrB-5l54N0WQaTk6AXLm7dtuH8EYOGuBxhesHwqgUZDEOpEZXr0rQpeN1moOOPp0N1MHrtF28QOUt4BwqRsiFn4W6Z2BiFgYtCTuaubKARGgTvFBS8Nb9zEcqBc_xJUR3-Vy6PUoDe0uTXjk24biyZKOnH1IvBKl1CXSl_xEpYJITrSUJ2Jxdi6gk7kzxx-_1xvHKMmtMWZRLaI5cIjxUYk1UWZRFFJXDeMZLE6LgAvJuYZizsIogJDCmwoc7ronZrFOOnug4hbFOanCc4obARn-JkxS5kmoo0D4sAlL8Gom7JNhbq-B4FgEHtK3AmshnHvRtqQlw2G6JFpicro30mnrrqCAEQ1M_1BNjrTkdbvQ7yU58bSWtePsVOSmiXqvvsBNxubvefZJ6yKMiBhRvW4yVoRj_fndbbUWHEmK3KgplYUVV-BJhNB08zUp2aRTEJ6pUjopouPndZ3THATj3WI7UJih-ItQSdTW5KuS3SdIo-dPKcRONjQGMI7GQQl6I_9ZlxbGJIJuTaNFvoRRUJT_vOdzMzZZnwq184oCZgHNpoEEXY7N4nCA-eHDmOTRNodcYlhm8V4un4dITEg3DwL_wf9Dw1EtJrgYA6wrZRV_2P0sL6_XE5K7a5E9hct5jiHVJYnUUKWum_Sm9Mvgg5CeDHjMzTGSyChxRx4xxR8UtqFKfX71Ds2A3rjNvfh32JLU0f6rJ2trUTLB75RsRGjZbSpOpNc528rPZe9xeV/https://www.amazon.com/dp/B0F29JR11L/?_encoding=UTF8&pd_rd_i=B0F29JR11L&pd_rd_i=B0F29JR11L&ref_=sbx_be_s_sparkle_ssd_cta&pd_rd_w=6xujc&content-id=amzn1.sym.fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=SAPBDDT2ZR9C2K5VWBAV&pd_rd_wg=XxDnJ&pd_rd_r=a618414e-3ed1-44ce-b3ad-b62dbb389de8",
+        "link_clean": "https://www.amazon.com/dp/B0F29JR11L/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0F29JR11L&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "thumbnail": "https://m.media-amazon.com/images/I/51f59QzO0CL._AC_SR100,100_QL65_.jpg",
+        "video": {
+          "link": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/8cee03b9-85f0-46fa-8888-490080c49ec9.mp4/productVideoOptimized.mp4",
+          "thumbnail": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/8cee03b9-85f0-46fa-8888-490080c49ec9.mp4/r/THUMBNAIL_360P_FRAME_3_CAPTURE_2.JPG"
+        },
+        "rating": 4.4,
+        "reviews": 50,
+        "price": "$13.99",
+        "extracted_price": 13.99,
+        "old_price": "$17.99",
+        "extracted_old_price": 17.99
+      },
+      {
+        "position": 5,
+        "asin": "B0D3Q33JYZ",
+        "title": "Ghrdopy 6 FT Fall Garland with Lights & Timer with Berries Pine Cones | Autumn Automatic Fall Decorations for Home Mantle Fireplace Porch Table Decor",
+        "link": "https://aax-us-east-retail-direct.amazon.com/x/c/JHLvJTpJwJRxAertdgFfABUAAAGhYsdUQgEAAAH2AQBvbm9fdHhuX2JpZDYgICBvbm9fdHhuX2ltcDEgICBAYEbc/clv1c_ek-IxXH2FcTaDbXhvN8c-_tQinqSsIoNFcbZjnMl14P4QpZ3Z9C-iBUubQTJBWEbeNl0Pm_NMehIUUbSrcMGEIgQabX4qGry_zlJSJvfjI0ChyDj6OyXC8qOwjh0sh5ZBwuoj8HtTp7rtNCRVOSNUpWitI2clV_yGtRJR9fLzQsTfXMtv_v1Cov5k94-bqKi-Lk6mg-dkGZIUuHwgUPqElq2AdGfhs4y0E5Vj2biZ1XddaeqHe7wChZ7p8JhOd-4Hsxv3rjEV_oq8b4z89qcf1uyIdYyY5UA-i-AozpCqhrpspNEX1tYR1CtkyWsSXky0fnm1IBRlp4yDMuCoSfLCtsBl2KbmYgDWkM5iW-TZ9GIZ8Pw47gjNBwwGlPNCkHVjfgVKE8Cwn5lHIecK6SBZKkz9_ipJ4e5Z_6BaZu5PmxEHOhPkrD10gG2GuXd5Y4IDeVNwWOVChrvo5KY91TWVjyw5poyRcqNHCCWbuULAnLcoO4NxNHAEUxW_f5QF4dRnV_QNB2tR5o8hRh8J-TkGF4hfotsh5RoCrLS1HxNoT3mGYjhEb1-Ks6trckthEGaWPE-iE8_1DjovEV-eMsWx3sl5QFnXqLwv85zms_NcIa6iTpMkuW157ecwQQkl4UHeJrJKOEOIPpaAviiRgyPz5K9nAIx2lNiRZHdUmPhICLzg4rDyVhV5LED2huoVqa8NY4M6E4g7j3_6hmNeIi5uxNnN2Zzl9MuYexKagjAYf6tT3rxV9CWWY0m_klbdViXbhOaewuZRTCVzb-HMEQi-6YtCZDQalMM1h1m26jgJccOPcKGS2DWse8BgQv-iTUffMUiA-g-CFB9pklYaGRLVV7dqibMnvXwujEv2sQmaAiFFmht9k7X3ttPXHCwQFkkrrImwzSuZEN__62Hk8KuQth3Q0OIzYYpY0IpaY0Be-S8LF2l5Yytz6OVgBv-TD1wwNFAvJZk-A7NIoujFso9cTN7cfWm8SlM5q56XPsTIQ82IESTUFD-y1mYGqFImKmvzXHQjFvLySuuzHv_l4ezbcuHonac15SKnnTcGYehqRuE2k0cAJInRD9hA1BmyaSX6V5AM75RiLh0VrRm95GnYUX3tiya-LAPAZqkObos79MCK7KHRoaEyIf_hdlHvK5cutOBgXfjBIF8LHUevYafVdlkQXVf5ZXbYYPwSsQvPY7ffEick9-uSPGS6luO0jP2hkgKks7lrHwfPYWzeKryaSH9tINtPahQ8yNXGj8OSXMbrUSfQbBdY8ETF1uaYZ1yBF63iCQlbNVIw_Jim2eeqLePmDE-J8jmMdczJk-HCcoW2G0TOOG8q6MZhZU1WgAueKgkJ5Mpmv1GLH_Yi83Ba48Jh40JxlOwYrJcxAp5bkkTMChqwc9eEN7scKQ8Jef-asQYPNPHXYMgaqMrQUQa9JttBIq0fc2vuU5HJqAt7LxeM_0h81b8WdHVMyHZeIWn57yY_kK9_2NKu3vJUulqXKdgd3j1pHX7KgyLwxvHLpaL-wDvyVrunTvxBvuSiOLQs0SKewZoYl7tKnODC2d58fxDVhqf5sCRuCItbS8fhcCKZtUhOBu4T7sqsDEjpGpfXAh9qIHLdSKp2nBOlZrqJIctMPGhFcaMVHPlteKcCTbV/https://www.amazon.com/dp/B0D3Q33JYZ/?_encoding=UTF8&pd_rd_i=B0D3Q33JYZ&pd_rd_i=B0D3Q33JYZ&ref_=sbx_be_s_sparkle_ssd_cta&pd_rd_w=6xujc&content-id=amzn1.sym.fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=SAPBDDT2ZR9C2K5VWBAV&pd_rd_wg=XxDnJ&pd_rd_r=a618414e-3ed1-44ce-b3ad-b62dbb389de8",
+        "link_clean": "https://www.amazon.com/dp/B0D3Q33JYZ/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0D3Q33JYZ&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "thumbnail": "https://m.media-amazon.com/images/I/51qPjgIepkL._AC_SR100,100_QL65_.jpg",
+        "video": {
+          "link": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/3daba1e2-f24a-449a-ab2c-d9f7d85fa5ea.mp4/productVideoOptimized.mp4",
+          "thumbnail": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/3daba1e2-f24a-449a-ab2c-d9f7d85fa5ea.mp4/r/THUMBNAIL_360P_FRAME_3_CAPTURE_2.JPG"
+        },
+        "rating": 4.6,
+        "reviews": 173,
+        "price": "$23.99",
+        "extracted_price": 23.99,
+        "old_price": "$34.99",
+        "extracted_old_price": 34.99
+      }
+    ]
+  }
+}

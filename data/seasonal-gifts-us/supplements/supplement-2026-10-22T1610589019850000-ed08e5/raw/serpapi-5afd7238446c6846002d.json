@@ -1,0 +1,1146 @@
+{
+  "provider": "serpapi",
+  "endpoint": "https://serpapi.com/search.json",
+  "parameters": {
+    "engine": "amazon_product",
+    "asin": "B07VKYG68N",
+    "amazon_domain": "amazon.com",
+    "language": "en_US",
+    "shipping_location": "US",
+    "device": "desktop",
+    "output": "json"
+  },
+  "fetched_at_utc": "2026-10-22T16:15:47.272187+00:00",
+  "raw_file": "supplements/supplement-2026-10-22T1610589019850000-ed08e5/raw/serpapi-5afd7238446c6846002d.json",
+  "response": {
+    "search_metadata": {
+      "id": "6ada36b47f8321cb32f25b23",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/c58Gdw6v89uVbroRlQrPCw6MoxKWhCmDV2ZxDqiLOu8/6ada36b47f8321cb32f25b23.json",
+      "markdown_endpoint": "https://serpapi.com/searches/c58Gdw6v89uVbroRlQrPCw6MoxKWhCmDV2ZxDqiLOu8/6ada36b47f8321cb32f25b23.md",
+      "created_at": "2026-10-22 16:15:48 UTC",
+      "processed_at": "2026-10-22 16:15:48 UTC",
+      "amazon_product_url": "https://www.amazon.com/dp/B07VKYG68N/?language=en_US",
+      "raw_html_file": "https://serpapi.com/searches/c58Gdw6v89uVbroRlQrPCw6MoxKWhCmDV2ZxDqiLOu8/6ada36b47f8321cb32f25b23.html",
+      "total_time_taken": 9.56
+    },
+    "search_parameters": {
+      "engine": "amazon_product",
+      "asin": "B07VKYG68N",
+      "amazon_domain": "amazon.com",
+      "language": "en_US",
+      "device": "desktop",
+      "shipping_location": "US"
+    },
+    "product_results": {
+      "categories": [
+        {
+          "position": 1,
+          "name": "Home & Kitchen",
+          "link": "https://www.amazon.com/home-garden-kitchen-furniture-bedding/b/ref=dp_bc_1?ie=UTF8&node=1055398",
+          "node": "1055398",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&language=en_US&node=1055398&shipping_location=US"
+        },
+        {
+          "position": 2,
+          "name": "Home Décor Products",
+          "link": "https://www.amazon.com/home-d%C3%A9cor/b/ref=dp_bc_2?ie=UTF8&node=1063278",
+          "node": "1063278",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&language=en_US&node=1063278&shipping_location=US"
+        },
+        {
+          "position": 3,
+          "name": "Window Treatments",
+          "link": "https://www.amazon.com/window-treatments/b/ref=dp_bc_3?ie=UTF8&node=1063302",
+          "node": "1063302",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&language=en_US&node=1063302&shipping_location=US"
+        },
+        {
+          "position": 4,
+          "name": "Window Stickers & Films",
+          "link": "https://www.amazon.com/Window-Stickers-Films/b/ref=dp_bc_4?ie=UTF8&node=16136294011",
+          "node": "16136294011",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&language=en_US&node=16136294011&shipping_location=US"
+        },
+        {
+          "position": 5,
+          "name": "Window Stickers",
+          "link": "https://www.amazon.com/Window-Stickers/b/ref=dp_bc_5?ie=UTF8&node=16136295011",
+          "node": "16136295011",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&language=en_US&node=16136295011&shipping_location=US"
+        }
+      ],
+      "asin": "B07VKYG68N",
+      "title": "CCINEE Halloween Window Stickers - 10 Sheets Window Clings Decals for Party Decoration, Indoor & Outdoor Home Decor",
+      "link": "https://www.amazon.com/Halloween-Window-Clings-Decals-Decorations/dp/B07VKYG68N/",
+      "link_clean": "https://www.amazon.com/dp/B07VKYG68N/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B07VKYG68N&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+      "badges": [
+        "Amazon's Choice"
+      ],
+      "variants": [
+        {
+          "title": "Color",
+          "items": [
+            {
+              "position": 1,
+              "asin": "B07VKYG68N",
+              "name": "Multicolor",
+              "image": "https://m.media-amazon.com/images/I/61JUsB3AR3L._SS64_.jpg",
+              "selected": true,
+              "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B07VKYG68N&device=desktop&engine=amazon_product&language=en_US&shipping_location=US"
+            },
+            {
+              "position": 2,
+              "asin": "B0GGL3NTV9",
+              "name": "Halloween",
+              "image": "https://m.media-amazon.com/images/I/51ueLR2SjlL._SS64_.jpg",
+              "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0GGL3NTV9&device=desktop&engine=amazon_product&language=en_US&shipping_location=US"
+            },
+            {
+              "position": 3,
+              "asin": "B088D5KC3S",
+              "name": "Maple",
+              "image": "https://m.media-amazon.com/images/I/6160RQmAuLL._SS64_.jpg",
+              "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B088D5KC3S&device=desktop&engine=amazon_product&language=en_US&shipping_location=US"
+            }
+          ]
+        },
+        {
+          "title": "Size",
+          "items": [
+            {
+              "position": 1,
+              "asin": "B0GGL3NTV9",
+              "name": "11 x 8.7 Inch (Pack of 2)",
+              "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0GGL3NTV9&device=desktop&engine=amazon_product&language=en_US&shipping_location=US"
+            },
+            {
+              "position": 2,
+              "asin": "B088D5KC3S",
+              "name": "11.61 x 14.76 Inch (216 Pieces)",
+              "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B088D5KC3S&device=desktop&engine=amazon_product&language=en_US&shipping_location=US"
+            },
+            {
+              "position": 3,
+              "asin": "B07VKYG68N",
+              "name": "11 x 8.7 Inch",
+              "selected": true,
+              "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B07VKYG68N&device=desktop&engine=amazon_product&language=en_US&shipping_location=US"
+            }
+          ]
+        }
+      ],
+      "variant_combinations": [
+        {
+          "dimensions": {
+            "color": "Halloween",
+            "size": "11 x 8.7 Inch (Pack of 2)"
+          },
+          "asin": "B0GGL3NTV9",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0GGL3NTV9&device=desktop&engine=amazon_product&language=en_US&shipping_location=US"
+        },
+        {
+          "dimensions": {
+            "color": "Halloween",
+            "size": "11.61 x 14.76 Inch (216 Pieces)"
+          },
+          "unavailable": true
+        },
+        {
+          "dimensions": {
+            "color": "Halloween",
+            "size": "11 x 8.7 Inch"
+          },
+          "unavailable": true
+        },
+        {
+          "dimensions": {
+            "color": "Maple",
+            "size": "11 x 8.7 Inch (Pack of 2)"
+          },
+          "unavailable": true
+        },
+        {
+          "dimensions": {
+            "color": "Maple",
+            "size": "11.61 x 14.76 Inch (216 Pieces)"
+          },
+          "asin": "B088D5KC3S",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B088D5KC3S&device=desktop&engine=amazon_product&language=en_US&shipping_location=US"
+        },
+        {
+          "dimensions": {
+            "color": "Maple",
+            "size": "11 x 8.7 Inch"
+          },
+          "unavailable": true
+        },
+        {
+          "dimensions": {
+            "color": "Multicolor",
+            "size": "11 x 8.7 Inch (Pack of 2)"
+          },
+          "unavailable": true
+        },
+        {
+          "dimensions": {
+            "color": "Multicolor",
+            "size": "11.61 x 14.76 Inch (216 Pieces)"
+          },
+          "unavailable": true
+        },
+        {
+          "dimensions": {
+            "color": "Multicolor",
+            "size": "11 x 8.7 Inch"
+          },
+          "asin": "B07VKYG68N",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B07VKYG68N&device=desktop&engine=amazon_product&language=en_US&shipping_location=US"
+        }
+      ],
+      "brand": "Visit the CCINEE Store",
+      "thumbnail": "https://m.media-amazon.com/images/I/71bpzCcNsWL._AC_SY300_SX300_QL70_FMwebp_.jpg",
+      "thumbnails": [
+        "https://m.media-amazon.com/images/I/71bpzCcNsWL._AC_SL1000_.jpg",
+        "https://m.media-amazon.com/images/I/71GmWrKGQXL._AC_SL1000_.jpg",
+        "https://m.media-amazon.com/images/I/71+n7MmbQ1L._AC_SL1200_.jpg",
+        "https://m.media-amazon.com/images/I/61aVw8mhCDL._AC_SL1200_.jpg",
+        "https://m.media-amazon.com/images/I/71+CG7dlzIL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/61JkQOZxq5L._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/41JBI3mo79L._AC_.jpg"
+      ],
+      "rating": 4.6,
+      "reviews": 4541,
+      "bought_last_month": "10K+ bought in past month",
+      "discount": "-14%",
+      "price": "$5.99",
+      "extracted_price": 5.99,
+      "price_unit": "$0.04 / count",
+      "extracted_price_unit": 0.04,
+      "old_price": "$6.99",
+      "extracted_old_price": 6.99,
+      "prime": true,
+      "delivery": [
+        "FREE delivery Tuesday, October 27 on orders shipped by Amazon over $35. Order within 12 hrs 44 mins",
+        "Arrives 4 days before Halloween"
+      ],
+      "stock": "In Stock"
+    },
+    "purchase_options": {
+      "single_offer": {
+        "price": "$5.99",
+        "extracted_price": 5.99,
+        "price_unit": "$0.04 / count",
+        "extracted_price_unit": 0.04,
+        "delivery": [
+          "FREE delivery Tuesday, October 27 on orders shipped by Amazon over $35. Order within 12 hrs 44 mins",
+          "Arrives 4 days before Halloween"
+        ],
+        "stock": "In Stock",
+        "features": {
+          "ships_from": {
+            "text": "Amazon",
+            "details": {
+              "heading": "Ships from",
+              "content": "Amazon"
+            }
+          },
+          "sold_by": {
+            "text": "CCINEE-US",
+            "details": {
+              "heading": "Sold by",
+              "content": "CCINEE-US"
+            },
+            "link": {
+              "text": "CCINEE-US",
+              "link": "https://www.amazon.com/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A23VPVTJ4GZZCW&asin=B07VKYG68N&ref_=dp_merchant_link&isAmazonFulfilled=1"
+            }
+          },
+          "returns": {
+            "text": "FREE 30-day refund/replacement",
+            "details": {
+              "heading": "FREE 30-day refund/replacement"
+            },
+            "link": {
+              "text": "See exceptions",
+              "link": "https://www.amazon.com/gp/help/customer/display.html/?nodeId=GKQNFKFK5CF3C54B"
+            }
+          },
+          "payment": {
+            "text": "Secure transaction",
+            "details": {
+              "heading": "Your transaction is secure",
+              "content": "We work hard to protect your security and privacy. Our payment security system encrypts your information during transmission. We don’t share your credit card details with third-party sellers, and we don’t sell your information to others. Learn more"
+            },
+            "link": {
+              "text": "Learn more",
+              "link": "https://www.amazon.com/gp/help/customer/display.html?nodeId=201909010"
+            }
+          }
+        }
+      }
+    },
+    "item_specifications": {
+      "brand": "CCINEE",
+      "color": "Multicolor",
+      "item_dimensions_l_x_w_x_h": "11.02 x 8.26 x 0.04 inches",
+      "surface_recommendation": "Door, Window",
+      "recommended_uses_for_product": "Window",
+      "material": "Vinyl",
+      "theme": "Halloween",
+      "cartoon_character": "Halloween",
+      "special_feature": "Self Adhesive",
+      "number_of_pieces": "146"
+    },
+    "about_item": [
+      "Halloween Window Clings：one set contains 10 sheets Halloween themed window stickers, measures 11x8.7 in each sheet, 146pcs decals in total.",
+      "Material: this holiday window clings are made with premium PVC with vibrant color paintings, double-sided design, water resistant, easy to stick on and peel off with no residue left.",
+      "Cute Design: this set of window gel decals stickers are specially designed for Halloween party decoration with bats, wolf, devil trees, pumpkins, witch, zombies, ghost and other Halloween elements, looks festive and lovely.",
+      "Use Instruction: these window gel stickers can easily stick on smooth surface,like glass, just clean the target surface with wet towels and then peel off the stickers from the sheet, stick on the wet clean smooth surface, press a while and then it will hold tightly.",
+      "Wide Application: this set of window clings decal stickers are perfect for Halloween home decorations, which can be put on glass windows, doors, refrigerators and more, make your Halloween a big event!"
+    ],
+    "bought_together": [
+      {
+        "position": 1,
+        "title": "CCINEE Halloween Window Stickers - 10 Sheets Window Clings Decals for Party Decoration, Indoor & Outdoor Home Decor",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/71bpzCcNsWL._AC_UL116_SR116,116_.jpg",
+        "price": "$5.99",
+        "extracted_price": 5.99,
+        "price_unit": "$0.04/count",
+        "extracted_price_unit": 0.04,
+        "delivery": [
+          "Get it as soon as Tuesday, Oct 27"
+        ],
+        "stock": "In Stock"
+      },
+      {
+        "position": 2,
+        "title": "Coogam 60PCS Halloween Bats Decoration, 4 Different Sizes Realistic PVC Black 3D Scary Bat Sticker for Home Decor DIY Wall Decal Bathroom Indoor Hallowmas Party Supplies",
+        "link": "https://www.amazon.com/Coogam-Halloween-Decoration-Different-Realistic/dp/B07TRCJJS3/ref=pd_bxgy_thbs_d_sccl_1/136-4832209-6912515?pd_rd_w=UGHGh&content-id=amzn1.sym.1fbb380b-ee1d-4eeb-a44a-61f4d3013ea6&pf_rd_p=1fbb380b-ee1d-4eeb-a44a-61f4d3013ea6&pf_rd_r=7P763XZTNG6ZARSG9G5H&pd_rd_wg=3eU0c&pd_rd_r=d5dcf244-378f-4cf1-b7c5-b62acdf5f24e&pd_rd_i=B07TRCJJS3&psc=1",
+        "asin": "B07TRCJJS3",
+        "link_clean": "https://www.amazon.com/Coogam-Halloween-Decoration-Different-Realistic/dp/B07TRCJJS3/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B07TRCJJS3&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/61QODKFNKOL._AC_UL116_SR116,116_.jpg",
+        "price": "$9.99",
+        "extracted_price": 9.99,
+        "stock": "In Stock"
+      },
+      {
+        "position": 3,
+        "title": "Skeleton Halloween Window Clings, Halloween Stickers for Halloween Decorations Indoor, Halloween Window Decorations for Office Party Decor, Halloween Decorations Outdoor",
+        "link": "https://www.amazon.com/Skeleton-Halloween-Stickers-Decorations-Outdoor/dp/B0H8BQXWRR/ref=pd_bxgy_thbs_d_sccl_2/136-4832209-6912515?pd_rd_w=UGHGh&content-id=amzn1.sym.1fbb380b-ee1d-4eeb-a44a-61f4d3013ea6&pf_rd_p=1fbb380b-ee1d-4eeb-a44a-61f4d3013ea6&pf_rd_r=7P763XZTNG6ZARSG9G5H&pd_rd_wg=3eU0c&pd_rd_r=d5dcf244-378f-4cf1-b7c5-b62acdf5f24e&pd_rd_i=B0H8BQXWRR&psc=1",
+        "asin": "B0H8BQXWRR",
+        "link_clean": "https://www.amazon.com/Skeleton-Halloween-Stickers-Decorations-Outdoor/dp/B0H8BQXWRR/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0H8BQXWRR&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/81Digg5QKeL._AC_UL116_SR116,116_.jpg",
+        "price": "$9.98",
+        "extracted_price": 9.98,
+        "delivery": [
+          "Get it as soon as Tuesday, Oct 27"
+        ],
+        "stock": "In Stock"
+      }
+    ],
+    "related_products": [
+      {
+        "position": 1,
+        "asin": "B0H8BTRDGM",
+        "title": "Halloween Window Clings, Halloween Stickers for Halloween Decorations Indoor, Hallo...",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo1OTQ5MDc3NzU1MTcyODM5OjE3OTI2ODU3NTU6c3BfZGV0YWlsX3RoZW1hdGljOjMwMTQ0NDc1MzUzODAwMjo6Ojo&url=%2Fdp%2FB0H8BTRDGM%2Fref%3Dsspa_dk_detail_0%3Fpsc%3D1%26pd_rd_i%3DB0H8BTRDGM%26pd_rd_w%3DDlwds%26content-id%3Damzn1.sym.3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_p%3D3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_r%3D7P763XZTNG6ZARSG9G5H%26pd_rd_wg%3D3eU0c%26pd_rd_r%3Dd5dcf244-378f-4cf1-b7c5-b62acdf5f24e%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM",
+        "link_clean": "https://www.amazon.com/dp/B0H8BTRDGM/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0H8BTRDGM&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "badges": [
+          "Limited time deal"
+        ],
+        "thumbnail": "https://m.media-amazon.com/images/I/81ZqqJCVrWL._AC_UF480,480_SR480,480_.jpg",
+        "rating": 4.2,
+        "reviews": 116,
+        "discount": "-20%",
+        "price": "$7.98",
+        "extracted_price": 7.98,
+        "old_price": "null",
+        "climate_pledge_friendly": true
+      },
+      {
+        "position": 2,
+        "asin": "B0F9KS1XV5",
+        "title": "Halloween Window Clings Stickers Decor Fall Halloween Decorations Indoor | 8 Sheets Large Ghost Pumpkin Window Clings for Glass Windows & Doors, Holiday Window Decals for Home Office Classroom Parties",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo1OTQ5MDc3NzU1MTcyODM5OjE3OTI2ODU3NTU6c3BfZGV0YWlsX3RoZW1hdGljOjMwMTUzNDk4NjA1NzAwMjo6Ojo&url=%2Fdp%2FB0F9KS1XV5%2Fref%3Dsspa_dk_detail_1%3Fpsc%3D1%26pd_rd_i%3DB0F9KS1XV5%26pd_rd_w%3DDlwds%26content-id%3Damzn1.sym.3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_p%3D3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_r%3D7P763XZTNG6ZARSG9G5H%26pd_rd_wg%3D3eU0c%26pd_rd_r%3Dd5dcf244-378f-4cf1-b7c5-b62acdf5f24e%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM",
+        "link_clean": "https://www.amazon.com/dp/B0F9KS1XV5/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0F9KS1XV5&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "badges": [
+          "Amazon's Choice",
+          "Limited time deal"
+        ],
+        "thumbnail": "https://m.media-amazon.com/images/I/816rX0jJjmL._AC_UF480,480_SR480,480_.jpg",
+        "rating": 4.6,
+        "reviews": 1435,
+        "discount": "-13%",
+        "price": "$6.99",
+        "extracted_price": 6.99,
+        "price_unit": "$0.87 / count",
+        "extracted_price_unit": 0.87,
+        "old_price": "null"
+      },
+      {
+        "position": 3,
+        "asin": "B0FBWF3KGN",
+        "title": "Halloween Window Clings, 7 Sheet Cute Themed Pumpkin Spider Halloween Party | Eco P...",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo1OTQ5MDc3NzU1MTcyODM5OjE3OTI2ODU3NTU6c3BfZGV0YWlsX3RoZW1hdGljOjMwMDg4ODU1MzM5MjUwMjo6Ojo&url=%2Fdp%2FB0FBWF3KGN%2Fref%3Dsspa_dk_detail_2%3Fpsc%3D1%26pd_rd_i%3DB0FBWF3KGN%26pd_rd_w%3DDlwds%26content-id%3Damzn1.sym.3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_p%3D3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_r%3D7P763XZTNG6ZARSG9G5H%26pd_rd_wg%3D3eU0c%26pd_rd_r%3Dd5dcf244-378f-4cf1-b7c5-b62acdf5f24e%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM",
+        "link_clean": "https://www.amazon.com/dp/B0FBWF3KGN/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0FBWF3KGN&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "badges": [
+          "Limited time deal"
+        ],
+        "thumbnail": "https://m.media-amazon.com/images/I/81lpSpFzKrL._AC_UF480,480_SR480,480_.jpg",
+        "rating": 4.7,
+        "reviews": 157,
+        "discount": "-15%",
+        "price": "$8.53",
+        "extracted_price": 8.53,
+        "old_price": "null"
+      },
+      {
+        "position": 4,
+        "asin": "B098QNG7Y8",
+        "title": "84Pcs Halloween Handprint Footprint Stickers Window Bathroom Floor Decor | Hallowee...",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo1OTQ5MDc3NzU1MTcyODM5OjE3OTI2ODU3NTU6c3BfZGV0YWlsX3RoZW1hdGljOjMwMTUwMTYwNzk4MzAwMjo6Ojo&url=%2Fdp%2FB098QNG7Y8%2Fref%3Dsspa_dk_detail_3%3Fpsc%3D1%26pd_rd_i%3DB098QNG7Y8%26pd_rd_w%3DDlwds%26content-id%3Damzn1.sym.3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_p%3D3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_r%3D7P763XZTNG6ZARSG9G5H%26pd_rd_wg%3D3eU0c%26pd_rd_r%3Dd5dcf244-378f-4cf1-b7c5-b62acdf5f24e%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM",
+        "link_clean": "https://www.amazon.com/dp/B098QNG7Y8/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B098QNG7Y8&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "badges": [
+          "Limited time deal"
+        ],
+        "thumbnail": "https://m.media-amazon.com/images/I/71HD4JlX1yL._AC_UF480,480_SR480,480_.jpg",
+        "rating": 4.3,
+        "reviews": 630,
+        "discount": "-28%",
+        "price": "$5.00",
+        "extracted_price": 5.0,
+        "price_unit": "$0.06 / count",
+        "extracted_price_unit": 0.06,
+        "old_price": "null"
+      },
+      {
+        "position": 5,
+        "asin": "B0H4YY795H",
+        "title": "Vintage Halloween Window Clings 6 Sheets, Large Retro Spooky Skull J-O-Lantern Pump...",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo1OTQ5MDc3NzU1MTcyODM5OjE3OTI2ODU3NTU6c3BfZGV0YWlsX3RoZW1hdGljOjMwMTQxMTU5ODAyNjkwMjo6Ojo&url=%2Fdp%2FB0H4YY795H%2Fref%3Dsspa_dk_detail_4%3Fpsc%3D1%26pd_rd_i%3DB0H4YY795H%26pd_rd_w%3DDlwds%26content-id%3Damzn1.sym.3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_p%3D3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_r%3D7P763XZTNG6ZARSG9G5H%26pd_rd_wg%3D3eU0c%26pd_rd_r%3Dd5dcf244-378f-4cf1-b7c5-b62acdf5f24e%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM",
+        "link_clean": "https://www.amazon.com/dp/B0H4YY795H/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0H4YY795H&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "badges": [
+          "Limited time deal"
+        ],
+        "thumbnail": "https://m.media-amazon.com/images/I/71XWLyK8NeL._AC_UF480,480_SR480,480_.jpg",
+        "rating": 4.6,
+        "reviews": 153,
+        "discount": "-50%",
+        "price": "$3.99",
+        "extracted_price": 3.99,
+        "price_unit": "$0.67 / count",
+        "extracted_price_unit": 0.67,
+        "old_price": "null"
+      },
+      {
+        "position": 6,
+        "asin": "B0H2HQR1D2",
+        "title": "48Pcs Halloween Spooky Handsprint Silhouette Window Clings Stickers | Waterproof, ...",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo1OTQ5MDc3NzU1MTcyODM5OjE3OTI2ODU3NTU6c3BfZGV0YWlsX3RoZW1hdGljOjMwMTM4NjY1MzAxMTIwMjo6Ojo&url=%2Fdp%2FB0H2HQR1D2%2Fref%3Dsspa_dk_detail_5%3Fpsc%3D1%26pd_rd_i%3DB0H2HQR1D2%26pd_rd_w%3DDlwds%26content-id%3Damzn1.sym.3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_p%3D3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_r%3D7P763XZTNG6ZARSG9G5H%26pd_rd_wg%3D3eU0c%26pd_rd_r%3Dd5dcf244-378f-4cf1-b7c5-b62acdf5f24e%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM",
+        "link_clean": "https://www.amazon.com/dp/B0H2HQR1D2/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0H2HQR1D2&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "badges": [
+          "Limited time deal"
+        ],
+        "thumbnail": "https://m.media-amazon.com/images/I/710FfDlWs6L._AC_UF480,480_SR480,480_.jpg",
+        "discount": "-50%",
+        "price": "$4.49",
+        "extracted_price": 4.49,
+        "price_unit": "$0.09 / count",
+        "extracted_price_unit": 0.09,
+        "old_price": "null"
+      },
+      {
+        "position": 7,
+        "asin": "B0FLXG1ZC4",
+        "title": "Halloween Static Cling Stickers - 95 Pcs Cute Spooky Decorations - 9 Sheets Window ...",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo1OTQ5MDc3NzU1MTcyODM5OjE3OTI2ODU3NTU6c3BfZGV0YWlsX3RoZW1hdGljOjMwMTM0MjYxMTkwMTgwMjo6Ojo&url=%2Fdp%2FB0FLXG1ZC4%2Fref%3Dsspa_dk_detail_6%3Fpsc%3D1%26pd_rd_i%3DB0FLXG1ZC4%26pd_rd_w%3DDlwds%26content-id%3Damzn1.sym.3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_p%3D3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_r%3D7P763XZTNG6ZARSG9G5H%26pd_rd_wg%3D3eU0c%26pd_rd_r%3Dd5dcf244-378f-4cf1-b7c5-b62acdf5f24e%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM",
+        "link_clean": "https://www.amazon.com/dp/B0FLXG1ZC4/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0FLXG1ZC4&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "badges": [
+          "Limited time deal"
+        ],
+        "thumbnail": "https://m.media-amazon.com/images/I/71a1yaH-yUL._AC_UF480,480_SR480,480_.jpg",
+        "rating": 4.7,
+        "reviews": 83,
+        "discount": "-50%",
+        "price": "$3.99",
+        "extracted_price": 3.99,
+        "price_unit": "$0.44 / count",
+        "extracted_price_unit": 0.44,
+        "old_price": "null"
+      },
+      {
+        "position": 8,
+        "asin": "B0HCN7MNZQ",
+        "title": "Halloween Window Clings Window Removable Decals for Home Party Decor | Halloween Wi...",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo3NjYzMjIwNjk5NjIzNTExOjE3OTI2ODU3NTU6c3BfZGV0YWlsMjozMDE1MTE5MTU2NjM2MDI6Ojo6&url=%2Fdp%2FB0HCN7MNZQ%2Fref%3Dsspa_dk_detail_0%3Fpsc%3D1%26pd_rd_i%3DB0HCN7MNZQ%26pd_rd_w%3DplEz0%26content-id%3Damzn1.sym.4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_p%3D4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_r%3D7P763XZTNG6ZARSG9G5H%26pd_rd_wg%3D3eU0c%26pd_rd_r%3Dd5dcf244-378f-4cf1-b7c5-b62acdf5f24e%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+        "link_clean": "https://www.amazon.com/dp/B0HCN7MNZQ/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0HCN7MNZQ&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "badges": [
+          "#1 New Release"
+        ],
+        "thumbnail": "https://m.media-amazon.com/images/I/71JMjKGPruL._AC_UF480,480_SR480,480_.jpg",
+        "rating": 3.7,
+        "reviews": 7,
+        "price": "$6.99",
+        "extracted_price": 6.99,
+        "price_unit": "$3.50 / count",
+        "extracted_price_unit": 3.5
+      },
+      {
+        "position": 9,
+        "asin": "B0H8BTRDGM",
+        "title": "Halloween Window Clings, Halloween Stickers for Halloween Decorations Indoor, Hallo...",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo3NjYzMjIwNjk5NjIzNTExOjE3OTI2ODU3NTU6c3BfZGV0YWlsMjozMDE0NDQ3NTM1MzgwMDI6Ojo6&url=%2Fdp%2FB0H8BTRDGM%2Fref%3Dsspa_dk_detail_1%3Fpsc%3D1%26pd_rd_i%3DB0H8BTRDGM%26pd_rd_w%3DplEz0%26content-id%3Damzn1.sym.4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_p%3D4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_r%3D7P763XZTNG6ZARSG9G5H%26pd_rd_wg%3D3eU0c%26pd_rd_r%3Dd5dcf244-378f-4cf1-b7c5-b62acdf5f24e%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+        "link_clean": "https://www.amazon.com/dp/B0H8BTRDGM/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0H8BTRDGM&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "badges": [
+          "Amazon's Choice",
+          "Limited time deal"
+        ],
+        "thumbnail": "https://m.media-amazon.com/images/I/81ZqqJCVrWL._AC_UF480,480_SR480,480_.jpg",
+        "rating": 4.2,
+        "reviews": 116,
+        "discount": "-20%",
+        "price": "$7.98",
+        "extracted_price": 7.98,
+        "old_price": "null",
+        "climate_pledge_friendly": true
+      },
+      {
+        "position": 10,
+        "asin": "B0FJFCW536",
+        "title": "6 Sheets Vintage Halloween Window Clings Spooky Ghost Decorations Set | Large Reusa...",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo3NjYzMjIwNjk5NjIzNTExOjE3OTI2ODU3NTU6c3BfZGV0YWlsMjozMDA5MDczMDc0ODM0MDI6Ojo6&url=%2Fdp%2FB0FJFCW536%2Fref%3Dsspa_dk_detail_2%3Fpsc%3D1%26pd_rd_i%3DB0FJFCW536%26pd_rd_w%3DplEz0%26content-id%3Damzn1.sym.4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_p%3D4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_r%3D7P763XZTNG6ZARSG9G5H%26pd_rd_wg%3D3eU0c%26pd_rd_r%3Dd5dcf244-378f-4cf1-b7c5-b62acdf5f24e%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+        "link_clean": "https://www.amazon.com/dp/B0FJFCW536/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0FJFCW536&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "thumbnail": "https://m.media-amazon.com/images/I/81xPfUa6qOL._AC_UF480,480_SR480,480_.jpg",
+        "rating": 4.6,
+        "reviews": 153,
+        "price": "$7.99",
+        "extracted_price": 7.99,
+        "price_unit": "$1.33 / count",
+        "extracted_price_unit": 1.33
+      },
+      {
+        "position": 11,
+        "asin": "B0F7169VWW",
+        "title": "Halloween Window Clings 10 Sheets Halloween Window Decal Stickers | Removable Hallowmas Skeleton Stickers for Glass Party Decorations Indoor and Outdoor Home Decor Party Supplies",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo3NjYzMjIwNjk5NjIzNTExOjE3OTI2ODU3NTU6c3BfZGV0YWlsMjozMDA4ODcyNTMzOTYxMDI6Ojo6&url=%2Fdp%2FB0F7169VWW%2Fref%3Dsspa_dk_detail_3%3Fpsc%3D1%26pd_rd_i%3DB0F7169VWW%26pd_rd_w%3DplEz0%26content-id%3Damzn1.sym.4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_p%3D4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_r%3D7P763XZTNG6ZARSG9G5H%26pd_rd_wg%3D3eU0c%26pd_rd_r%3Dd5dcf244-378f-4cf1-b7c5-b62acdf5f24e%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+        "link_clean": "https://www.amazon.com/dp/B0F7169VWW/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0F7169VWW&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "thumbnail": "https://m.media-amazon.com/images/I/810F5rEz9pL._AC_UF480,480_SR480,480_.jpg",
+        "rating": 4.4,
+        "reviews": 930,
+        "price": "$5.99",
+        "extracted_price": 5.99
+      },
+      {
+        "position": 12,
+        "asin": "B0H51FKJY9",
+        "title": "Halloween Window Clings for Glass Windows Reusable-Pink | 9 Sheets 105pcs pink hall...",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo3NjYzMjIwNjk5NjIzNTExOjE3OTI2ODU3NTU6c3BfZGV0YWlsMjozMDE1OTMwODAwMDQzMDI6Ojo6&url=%2Fdp%2FB0H51FKJY9%2Fref%3Dsspa_dk_detail_4%3Fpsc%3D1%26pd_rd_i%3DB0H51FKJY9%26pd_rd_w%3DplEz0%26content-id%3Damzn1.sym.4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_p%3D4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_r%3D7P763XZTNG6ZARSG9G5H%26pd_rd_wg%3D3eU0c%26pd_rd_r%3Dd5dcf244-378f-4cf1-b7c5-b62acdf5f24e%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+        "link_clean": "https://www.amazon.com/dp/B0H51FKJY9/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0H51FKJY9&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "thumbnail": "https://m.media-amazon.com/images/I/71R9JIsFoiL._AC_UF480,480_SR480,480_.jpg",
+        "rating": 4.3,
+        "reviews": 16,
+        "discount": "-20%",
+        "price": "$7.99",
+        "extracted_price": 7.99,
+        "old_price": "null"
+      },
+      {
+        "position": 13,
+        "asin": "B0H2YZ2K2V",
+        "title": "3 Pack Halloween Decorations Caution Tape, 3 In x 30 Ft (Total 90 Ft) | Halloween P...",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo3NjYzMjIwNjk5NjIzNTExOjE3OTI2ODU3NTU6c3BfZGV0YWlsMjozMDE1MzQxOTI2NDA5MDI6Ojo6&url=%2Fdp%2FB0H2YZ2K2V%2Fref%3Dsspa_dk_detail_5%3Fpsc%3D1%26pd_rd_i%3DB0H2YZ2K2V%26pd_rd_w%3DplEz0%26content-id%3Damzn1.sym.4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_p%3D4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_r%3D7P763XZTNG6ZARSG9G5H%26pd_rd_wg%3D3eU0c%26pd_rd_r%3Dd5dcf244-378f-4cf1-b7c5-b62acdf5f24e%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+        "link_clean": "https://www.amazon.com/dp/B0H2YZ2K2V/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0H2YZ2K2V&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "thumbnail": "https://m.media-amazon.com/images/I/717tJhyxHyL._AC_UF480,480_SR480,480_.jpg",
+        "rating": 4.4,
+        "reviews": 372,
+        "price": "$7.99",
+        "extracted_price": 7.99
+      },
+      {
+        "position": 14,
+        "asin": "B0H2YQD913",
+        "title": "Halloween Decorations - 116 PcsWindow Cling Stickers | 9 Sheets Window Clings Decal...",
+        "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo3NjYzMjIwNjk5NjIzNTExOjE3OTI2ODU3NTU6c3BfZGV0YWlsMjozMDE1NzExOTY5MzU2MDI6Ojo6&url=%2Fdp%2FB0H2YQD913%2Fref%3Dsspa_dk_detail_6%3Fpsc%3D1%26pd_rd_i%3DB0H2YQD913%26pd_rd_w%3DplEz0%26content-id%3Damzn1.sym.4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_p%3D4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_r%3D7P763XZTNG6ZARSG9G5H%26pd_rd_wg%3D3eU0c%26pd_rd_r%3Dd5dcf244-378f-4cf1-b7c5-b62acdf5f24e%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+        "link_clean": "https://www.amazon.com/dp/B0H2YQD913/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0H2YQD913&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "thumbnail": "https://m.media-amazon.com/images/I/71iLHzoI55L._AC_UF480,480_SR480,480_.jpg",
+        "rating": 3.8,
+        "reviews": 19,
+        "discount": "-31%",
+        "price": "$5.49",
+        "extracted_price": 5.49,
+        "price_unit": "$0.61 / count",
+        "extracted_price_unit": 0.61,
+        "old_price": "null"
+      }
+    ],
+    "related_product_sections": [
+      {
+        "title": "Deals on related products",
+        "items": [
+          {
+            "position": 1,
+            "asin": "B0H8BTRDGM",
+            "title": "Halloween Window Clings, Halloween Stickers for Halloween Decorations Indoor, Hallo...",
+            "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo1OTQ5MDc3NzU1MTcyODM5OjE3OTI2ODU3NTU6c3BfZGV0YWlsX3RoZW1hdGljOjMwMTQ0NDc1MzUzODAwMjo6Ojo&url=%2Fdp%2FB0H8BTRDGM%2Fref%3Dsspa_dk_detail_0%3Fpsc%3D1%26pd_rd_i%3DB0H8BTRDGM%26pd_rd_w%3DDlwds%26content-id%3Damzn1.sym.3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_p%3D3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_r%3D7P763XZTNG6ZARSG9G5H%26pd_rd_wg%3D3eU0c%26pd_rd_r%3Dd5dcf244-378f-4cf1-b7c5-b62acdf5f24e%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM",
+            "link_clean": "https://www.amazon.com/dp/B0H8BTRDGM/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0H8BTRDGM&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "badges": [
+              "Limited time deal"
+            ],
+            "thumbnail": "https://m.media-amazon.com/images/I/81ZqqJCVrWL._AC_UF480,480_SR480,480_.jpg",
+            "rating": 4.2,
+            "reviews": 116,
+            "discount": "-20%",
+            "price": "$7.98",
+            "extracted_price": 7.98,
+            "old_price": "null",
+            "climate_pledge_friendly": true
+          },
+          {
+            "position": 2,
+            "asin": "B0F9KS1XV5",
+            "title": "Halloween Window Clings Stickers Decor Fall Halloween Decorations Indoor | 8 Sheets Large Ghost Pumpkin Window Clings for Glass Windows & Doors, Holiday Window Decals for Home Office Classroom Parties",
+            "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo1OTQ5MDc3NzU1MTcyODM5OjE3OTI2ODU3NTU6c3BfZGV0YWlsX3RoZW1hdGljOjMwMTUzNDk4NjA1NzAwMjo6Ojo&url=%2Fdp%2FB0F9KS1XV5%2Fref%3Dsspa_dk_detail_1%3Fpsc%3D1%26pd_rd_i%3DB0F9KS1XV5%26pd_rd_w%3DDlwds%26content-id%3Damzn1.sym.3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_p%3D3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_r%3D7P763XZTNG6ZARSG9G5H%26pd_rd_wg%3D3eU0c%26pd_rd_r%3Dd5dcf244-378f-4cf1-b7c5-b62acdf5f24e%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM",
+            "link_clean": "https://www.amazon.com/dp/B0F9KS1XV5/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0F9KS1XV5&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "badges": [
+              "Amazon's Choice",
+              "Limited time deal"
+            ],
+            "thumbnail": "https://m.media-amazon.com/images/I/816rX0jJjmL._AC_UF480,480_SR480,480_.jpg",
+            "rating": 4.6,
+            "reviews": 1435,
+            "discount": "-13%",
+            "price": "$6.99",
+            "extracted_price": 6.99,
+            "price_unit": "$0.87 / count",
+            "extracted_price_unit": 0.87,
+            "old_price": "null"
+          },
+          {
+            "position": 3,
+            "asin": "B0FBWF3KGN",
+            "title": "Halloween Window Clings, 7 Sheet Cute Themed Pumpkin Spider Halloween Party | Eco P...",
+            "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo1OTQ5MDc3NzU1MTcyODM5OjE3OTI2ODU3NTU6c3BfZGV0YWlsX3RoZW1hdGljOjMwMDg4ODU1MzM5MjUwMjo6Ojo&url=%2Fdp%2FB0FBWF3KGN%2Fref%3Dsspa_dk_detail_2%3Fpsc%3D1%26pd_rd_i%3DB0FBWF3KGN%26pd_rd_w%3DDlwds%26content-id%3Damzn1.sym.3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_p%3D3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_r%3D7P763XZTNG6ZARSG9G5H%26pd_rd_wg%3D3eU0c%26pd_rd_r%3Dd5dcf244-378f-4cf1-b7c5-b62acdf5f24e%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM",
+            "link_clean": "https://www.amazon.com/dp/B0FBWF3KGN/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0FBWF3KGN&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "badges": [
+              "Limited time deal"
+            ],
+            "thumbnail": "https://m.media-amazon.com/images/I/81lpSpFzKrL._AC_UF480,480_SR480,480_.jpg",
+            "rating": 4.7,
+            "reviews": 157,
+            "discount": "-15%",
+            "price": "$8.53",
+            "extracted_price": 8.53,
+            "old_price": "null"
+          },
+          {
+            "position": 4,
+            "asin": "B098QNG7Y8",
+            "title": "84Pcs Halloween Handprint Footprint Stickers Window Bathroom Floor Decor | Hallowee...",
+            "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo1OTQ5MDc3NzU1MTcyODM5OjE3OTI2ODU3NTU6c3BfZGV0YWlsX3RoZW1hdGljOjMwMTUwMTYwNzk4MzAwMjo6Ojo&url=%2Fdp%2FB098QNG7Y8%2Fref%3Dsspa_dk_detail_3%3Fpsc%3D1%26pd_rd_i%3DB098QNG7Y8%26pd_rd_w%3DDlwds%26content-id%3Damzn1.sym.3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_p%3D3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_r%3D7P763XZTNG6ZARSG9G5H%26pd_rd_wg%3D3eU0c%26pd_rd_r%3Dd5dcf244-378f-4cf1-b7c5-b62acdf5f24e%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM",
+            "link_clean": "https://www.amazon.com/dp/B098QNG7Y8/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B098QNG7Y8&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "badges": [
+              "Limited time deal"
+            ],
+            "thumbnail": "https://m.media-amazon.com/images/I/71HD4JlX1yL._AC_UF480,480_SR480,480_.jpg",
+            "rating": 4.3,
+            "reviews": 630,
+            "discount": "-28%",
+            "price": "$5.00",
+            "extracted_price": 5.0,
+            "price_unit": "$0.06 / count",
+            "extracted_price_unit": 0.06,
+            "old_price": "null"
+          },
+          {
+            "position": 5,
+            "asin": "B0H4YY795H",
+            "title": "Vintage Halloween Window Clings 6 Sheets, Large Retro Spooky Skull J-O-Lantern Pump...",
+            "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo1OTQ5MDc3NzU1MTcyODM5OjE3OTI2ODU3NTU6c3BfZGV0YWlsX3RoZW1hdGljOjMwMTQxMTU5ODAyNjkwMjo6Ojo&url=%2Fdp%2FB0H4YY795H%2Fref%3Dsspa_dk_detail_4%3Fpsc%3D1%26pd_rd_i%3DB0H4YY795H%26pd_rd_w%3DDlwds%26content-id%3Damzn1.sym.3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_p%3D3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_r%3D7P763XZTNG6ZARSG9G5H%26pd_rd_wg%3D3eU0c%26pd_rd_r%3Dd5dcf244-378f-4cf1-b7c5-b62acdf5f24e%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM",
+            "link_clean": "https://www.amazon.com/dp/B0H4YY795H/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0H4YY795H&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "badges": [
+              "Limited time deal"
+            ],
+            "thumbnail": "https://m.media-amazon.com/images/I/71XWLyK8NeL._AC_UF480,480_SR480,480_.jpg",
+            "rating": 4.6,
+            "reviews": 153,
+            "discount": "-50%",
+            "price": "$3.99",
+            "extracted_price": 3.99,
+            "price_unit": "$0.67 / count",
+            "extracted_price_unit": 0.67,
+            "old_price": "null"
+          },
+          {
+            "position": 6,
+            "asin": "B0H2HQR1D2",
+            "title": "48Pcs Halloween Spooky Handsprint Silhouette Window Clings Stickers | Waterproof, ...",
+            "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo1OTQ5MDc3NzU1MTcyODM5OjE3OTI2ODU3NTU6c3BfZGV0YWlsX3RoZW1hdGljOjMwMTM4NjY1MzAxMTIwMjo6Ojo&url=%2Fdp%2FB0H2HQR1D2%2Fref%3Dsspa_dk_detail_5%3Fpsc%3D1%26pd_rd_i%3DB0H2HQR1D2%26pd_rd_w%3DDlwds%26content-id%3Damzn1.sym.3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_p%3D3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_r%3D7P763XZTNG6ZARSG9G5H%26pd_rd_wg%3D3eU0c%26pd_rd_r%3Dd5dcf244-378f-4cf1-b7c5-b62acdf5f24e%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM",
+            "link_clean": "https://www.amazon.com/dp/B0H2HQR1D2/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0H2HQR1D2&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "badges": [
+              "Limited time deal"
+            ],
+            "thumbnail": "https://m.media-amazon.com/images/I/710FfDlWs6L._AC_UF480,480_SR480,480_.jpg",
+            "discount": "-50%",
+            "price": "$4.49",
+            "extracted_price": 4.49,
+            "price_unit": "$0.09 / count",
+            "extracted_price_unit": 0.09,
+            "old_price": "null"
+          },
+          {
+            "position": 7,
+            "asin": "B0FLXG1ZC4",
+            "title": "Halloween Static Cling Stickers - 95 Pcs Cute Spooky Decorations - 9 Sheets Window ...",
+            "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo1OTQ5MDc3NzU1MTcyODM5OjE3OTI2ODU3NTU6c3BfZGV0YWlsX3RoZW1hdGljOjMwMTM0MjYxMTkwMTgwMjo6Ojo&url=%2Fdp%2FB0FLXG1ZC4%2Fref%3Dsspa_dk_detail_6%3Fpsc%3D1%26pd_rd_i%3DB0FLXG1ZC4%26pd_rd_w%3DDlwds%26content-id%3Damzn1.sym.3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_p%3D3bc66c0a-cc61-4816-aa2d-e53327eaddb6%26pf_rd_r%3D7P763XZTNG6ZARSG9G5H%26pd_rd_wg%3D3eU0c%26pd_rd_r%3Dd5dcf244-378f-4cf1-b7c5-b62acdf5f24e%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM",
+            "link_clean": "https://www.amazon.com/dp/B0FLXG1ZC4/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0FLXG1ZC4&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "badges": [
+              "Limited time deal"
+            ],
+            "thumbnail": "https://m.media-amazon.com/images/I/71a1yaH-yUL._AC_UF480,480_SR480,480_.jpg",
+            "rating": 4.7,
+            "reviews": 83,
+            "discount": "-50%",
+            "price": "$3.99",
+            "extracted_price": 3.99,
+            "price_unit": "$0.44 / count",
+            "extracted_price_unit": 0.44,
+            "old_price": "null"
+          }
+        ]
+      },
+      {
+        "title": "Products related to this item",
+        "items": [
+          {
+            "position": 1,
+            "asin": "B0HCN7MNZQ",
+            "title": "Halloween Window Clings Window Removable Decals for Home Party Decor | Halloween Wi...",
+            "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo3NjYzMjIwNjk5NjIzNTExOjE3OTI2ODU3NTU6c3BfZGV0YWlsMjozMDE1MTE5MTU2NjM2MDI6Ojo6&url=%2Fdp%2FB0HCN7MNZQ%2Fref%3Dsspa_dk_detail_0%3Fpsc%3D1%26pd_rd_i%3DB0HCN7MNZQ%26pd_rd_w%3DplEz0%26content-id%3Damzn1.sym.4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_p%3D4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_r%3D7P763XZTNG6ZARSG9G5H%26pd_rd_wg%3D3eU0c%26pd_rd_r%3Dd5dcf244-378f-4cf1-b7c5-b62acdf5f24e%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+            "link_clean": "https://www.amazon.com/dp/B0HCN7MNZQ/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0HCN7MNZQ&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "badges": [
+              "#1 New Release"
+            ],
+            "thumbnail": "https://m.media-amazon.com/images/I/71JMjKGPruL._AC_UF480,480_SR480,480_.jpg",
+            "rating": 3.7,
+            "reviews": 7,
+            "price": "$6.99",
+            "extracted_price": 6.99,
+            "price_unit": "$3.50 / count",
+            "extracted_price_unit": 3.5
+          },
+          {
+            "position": 2,
+            "asin": "B0H8BTRDGM",
+            "title": "Halloween Window Clings, Halloween Stickers for Halloween Decorations Indoor, Hallo...",
+            "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo3NjYzMjIwNjk5NjIzNTExOjE3OTI2ODU3NTU6c3BfZGV0YWlsMjozMDE0NDQ3NTM1MzgwMDI6Ojo6&url=%2Fdp%2FB0H8BTRDGM%2Fref%3Dsspa_dk_detail_1%3Fpsc%3D1%26pd_rd_i%3DB0H8BTRDGM%26pd_rd_w%3DplEz0%26content-id%3Damzn1.sym.4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_p%3D4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_r%3D7P763XZTNG6ZARSG9G5H%26pd_rd_wg%3D3eU0c%26pd_rd_r%3Dd5dcf244-378f-4cf1-b7c5-b62acdf5f24e%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+            "link_clean": "https://www.amazon.com/dp/B0H8BTRDGM/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0H8BTRDGM&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "badges": [
+              "Amazon's Choice",
+              "Limited time deal"
+            ],
+            "thumbnail": "https://m.media-amazon.com/images/I/81ZqqJCVrWL._AC_UF480,480_SR480,480_.jpg",
+            "rating": 4.2,
+            "reviews": 116,
+            "discount": "-20%",
+            "price": "$7.98",
+            "extracted_price": 7.98,
+            "old_price": "null",
+            "climate_pledge_friendly": true
+          },
+          {
+            "position": 3,
+            "asin": "B0FJFCW536",
+            "title": "6 Sheets Vintage Halloween Window Clings Spooky Ghost Decorations Set | Large Reusa...",
+            "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo3NjYzMjIwNjk5NjIzNTExOjE3OTI2ODU3NTU6c3BfZGV0YWlsMjozMDA5MDczMDc0ODM0MDI6Ojo6&url=%2Fdp%2FB0FJFCW536%2Fref%3Dsspa_dk_detail_2%3Fpsc%3D1%26pd_rd_i%3DB0FJFCW536%26pd_rd_w%3DplEz0%26content-id%3Damzn1.sym.4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_p%3D4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_r%3D7P763XZTNG6ZARSG9G5H%26pd_rd_wg%3D3eU0c%26pd_rd_r%3Dd5dcf244-378f-4cf1-b7c5-b62acdf5f24e%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+            "link_clean": "https://www.amazon.com/dp/B0FJFCW536/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0FJFCW536&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "thumbnail": "https://m.media-amazon.com/images/I/81xPfUa6qOL._AC_UF480,480_SR480,480_.jpg",
+            "rating": 4.6,
+            "reviews": 153,
+            "price": "$7.99",
+            "extracted_price": 7.99,
+            "price_unit": "$1.33 / count",
+            "extracted_price_unit": 1.33
+          },
+          {
+            "position": 4,
+            "asin": "B0F7169VWW",
+            "title": "Halloween Window Clings 10 Sheets Halloween Window Decal Stickers | Removable Hallowmas Skeleton Stickers for Glass Party Decorations Indoor and Outdoor Home Decor Party Supplies",
+            "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo3NjYzMjIwNjk5NjIzNTExOjE3OTI2ODU3NTU6c3BfZGV0YWlsMjozMDA4ODcyNTMzOTYxMDI6Ojo6&url=%2Fdp%2FB0F7169VWW%2Fref%3Dsspa_dk_detail_3%3Fpsc%3D1%26pd_rd_i%3DB0F7169VWW%26pd_rd_w%3DplEz0%26content-id%3Damzn1.sym.4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_p%3D4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_r%3D7P763XZTNG6ZARSG9G5H%26pd_rd_wg%3D3eU0c%26pd_rd_r%3Dd5dcf244-378f-4cf1-b7c5-b62acdf5f24e%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+            "link_clean": "https://www.amazon.com/dp/B0F7169VWW/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0F7169VWW&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "thumbnail": "https://m.media-amazon.com/images/I/810F5rEz9pL._AC_UF480,480_SR480,480_.jpg",
+            "rating": 4.4,
+            "reviews": 930,
+            "price": "$5.99",
+            "extracted_price": 5.99
+          },
+          {
+            "position": 5,
+            "asin": "B0H51FKJY9",
+            "title": "Halloween Window Clings for Glass Windows Reusable-Pink | 9 Sheets 105pcs pink hall...",
+            "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo3NjYzMjIwNjk5NjIzNTExOjE3OTI2ODU3NTU6c3BfZGV0YWlsMjozMDE1OTMwODAwMDQzMDI6Ojo6&url=%2Fdp%2FB0H51FKJY9%2Fref%3Dsspa_dk_detail_4%3Fpsc%3D1%26pd_rd_i%3DB0H51FKJY9%26pd_rd_w%3DplEz0%26content-id%3Damzn1.sym.4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_p%3D4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_r%3D7P763XZTNG6ZARSG9G5H%26pd_rd_wg%3D3eU0c%26pd_rd_r%3Dd5dcf244-378f-4cf1-b7c5-b62acdf5f24e%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+            "link_clean": "https://www.amazon.com/dp/B0H51FKJY9/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0H51FKJY9&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "thumbnail": "https://m.media-amazon.com/images/I/71R9JIsFoiL._AC_UF480,480_SR480,480_.jpg",
+            "rating": 4.3,
+            "reviews": 16,
+            "discount": "-20%",
+            "price": "$7.99",
+            "extracted_price": 7.99,
+            "old_price": "null"
+          },
+          {
+            "position": 6,
+            "asin": "B0H2YZ2K2V",
+            "title": "3 Pack Halloween Decorations Caution Tape, 3 In x 30 Ft (Total 90 Ft) | Halloween P...",
+            "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo3NjYzMjIwNjk5NjIzNTExOjE3OTI2ODU3NTU6c3BfZGV0YWlsMjozMDE1MzQxOTI2NDA5MDI6Ojo6&url=%2Fdp%2FB0H2YZ2K2V%2Fref%3Dsspa_dk_detail_5%3Fpsc%3D1%26pd_rd_i%3DB0H2YZ2K2V%26pd_rd_w%3DplEz0%26content-id%3Damzn1.sym.4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_p%3D4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_r%3D7P763XZTNG6ZARSG9G5H%26pd_rd_wg%3D3eU0c%26pd_rd_r%3Dd5dcf244-378f-4cf1-b7c5-b62acdf5f24e%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+            "link_clean": "https://www.amazon.com/dp/B0H2YZ2K2V/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0H2YZ2K2V&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "thumbnail": "https://m.media-amazon.com/images/I/717tJhyxHyL._AC_UF480,480_SR480,480_.jpg",
+            "rating": 4.4,
+            "reviews": 372,
+            "price": "$7.99",
+            "extracted_price": 7.99
+          },
+          {
+            "position": 7,
+            "asin": "B0H2YQD913",
+            "title": "Halloween Decorations - 116 PcsWindow Cling Stickers | 9 Sheets Window Clings Decal...",
+            "link": "https://www.amazon.com/sspa/click?ie=UTF8&spc=MTo3NjYzMjIwNjk5NjIzNTExOjE3OTI2ODU3NTU6c3BfZGV0YWlsMjozMDE1NzExOTY5MzU2MDI6Ojo6&url=%2Fdp%2FB0H2YQD913%2Fref%3Dsspa_dk_detail_6%3Fpsc%3D1%26pd_rd_i%3DB0H2YQD913%26pd_rd_w%3DplEz0%26content-id%3Damzn1.sym.4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_p%3D4a7f44df-467c-45a1-af5f-91661a6df2f9%26pf_rd_r%3D7P763XZTNG6ZARSG9G5H%26pd_rd_wg%3D3eU0c%26pd_rd_r%3Dd5dcf244-378f-4cf1-b7c5-b62acdf5f24e%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9kZXRhaWwy",
+            "link_clean": "https://www.amazon.com/dp/B0H2YQD913/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0H2YQD913&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "thumbnail": "https://m.media-amazon.com/images/I/71iLHzoI55L._AC_UF480,480_SR480,480_.jpg",
+            "rating": 3.8,
+            "reviews": 19,
+            "discount": "-31%",
+            "price": "$5.49",
+            "extracted_price": 5.49,
+            "price_unit": "$0.61 / count",
+            "extracted_price_unit": 0.61,
+            "old_price": "null"
+          }
+        ]
+      }
+    ],
+    "videos": [
+      {
+        "position": 1,
+        "title": "such a great idea for any age!",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/3154f9f6-08fa-4fb6-acd2-251ac263c9e5/default.vertical.jobtemplate.hls.m3u8",
+        "thumbnail": "https://m.media-amazon.com/images/I/B1PtAciC4ML.png",
+        "duration": "0:29",
+        "vendor": "taylors version",
+        "vendor_thumbnail": "https://m.media-amazon.com/images/I/61wLsDqMq1L._CR0,0,1274,1274_._FMjpg_._SL34_.jpg",
+        "date": "Oct 7, 2024"
+      },
+      {
+        "position": 2,
+        "title": "Easy way to decorate for fall",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/dc718099-4e6d-47b0-88ec-22837480d5b2/default.vertical.jobtemplate.hls.m3u8",
+        "thumbnail": "https://m.media-amazon.com/images/I/A1zV7Wd1KmL.jpg",
+        "duration": "0:27",
+        "vendor": "adKenture",
+        "vendor_thumbnail": "https://m.media-amazon.com/images/I/B1IZOYKZ99L._CR0,179,2316,2316_._FMjpg_._SL34_.jpg",
+        "date": "Sep 12, 2024"
+      },
+      {
+        "position": 3,
+        "title": "Up close look and feel!",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/04432940-aaa1-44c3-a8ff-1a7ed5581f38/default.vertical.jobtemplate.hls.m3u8",
+        "thumbnail": "https://m.media-amazon.com/images/I/61oOtIZzJgL.jpg",
+        "duration": "0:26",
+        "vendor": "Athena Wilson",
+        "vendor_thumbnail": "https://m.media-amazon.com/images/I/A1vwBqzRR0L._CR0,0,2316,2316_._FMjpg_._SL34_.jpg",
+        "date": "Sep 30, 2024"
+      },
+      {
+        "position": 4,
+        "title": "Cute, festive, and practical!",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/8261de62-4865-4f7d-9111-d3bbf1445a44/default.vertical.jobtemplate.hls.m3u8",
+        "thumbnail": "https://m.media-amazon.com/images/I/61Z8E7Mpt0L.jpg",
+        "duration": "0:32",
+        "vendor": "Allie",
+        "vendor_thumbnail": "https://m.media-amazon.com/images/I/71EvK3HQgWL._CR0,0,1080,1080_._FMjpg_._SL34_.jpg",
+        "date": "Sep 20, 2024"
+      },
+      {
+        "position": 5,
+        "title": "CCINEE Halloween Window Stickers",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/09a41ee6-3cff-4df4-bb2a-db91f09a0019/default.jobtemplate.hls.m3u8",
+        "thumbnail": "https://m.media-amazon.com/images/I/61EmUnNZ+4L.jpg",
+        "duration": "0:40",
+        "vendor": "CCINEE-US",
+        "date": "Mar 27, 2024"
+      },
+      {
+        "position": 6,
+        "title": "Decorate your windows for Halloween with these stickers!",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/1cd2b566-5605-48f2-ae26-8344538d42c8/default.vertical.jobtemplate.hls.m3u8",
+        "thumbnail": "https://m.media-amazon.com/images/I/B1Zc0XKOmgL.jpg",
+        "duration": "0:20",
+        "vendor": "Danielle Goldfarb",
+        "vendor_thumbnail": "https://m.media-amazon.com/images/I/71SlB+xRNlL._CR0,0,1174,1174_._FMjpg_._SL34_.jpg",
+        "date": "Sep 30, 2026"
+      },
+      {
+        "position": 7,
+        "title": "A Closer Look at the CCINEE Halloween Window Clings",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/5b2ae00e-10a1-4d9a-9646-0fcdd1bd7011/default.vertical.jobtemplate.hls.m3u8",
+        "thumbnail": "https://m.media-amazon.com/images/I/91hHA3foSOL.jpg",
+        "duration": "0:26",
+        "vendor": "One Minute Review",
+        "vendor_thumbnail": "https://m.media-amazon.com/images/I/71wenlQ9wVL._CR0,0,500,500_._FMjpg_._SL34_.jpg",
+        "date": "Sep 28, 2024"
+      },
+      {
+        "position": 8,
+        "title": "Honest review- up close look at the window",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/47691928-9e16-4cda-8997-01f505bb0b48/default.jobtemplate.hls.m3u8",
+        "thumbnail": "https://m.media-amazon.com/images/I/A1AXju-1hvL.png",
+        "duration": "0:32",
+        "vendor": "Honest Reviews with Jenny Staden 🤍✨",
+        "vendor_thumbnail": "https://m.media-amazon.com/images/I/41QUOY-r7qL._CR0,0,361,361_._FMjpg_._SL34_.jpg",
+        "date": "Oct 24, 2024"
+      },
+      {
+        "position": 9,
+        "title": "Missing a page!!!",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/2001dd8c-252a-4566-a207-90a6366efc59/default.vertical.jobtemplate.hls.m3u8",
+        "thumbnail": "https://m.media-amazon.com/images/I/51px1OQc64L.jpg",
+        "duration": "0:07",
+        "vendor": "Deirdre A.",
+        "vendor_thumbnail": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SL34_.png",
+        "date": "Oct 14, 2023"
+      },
+      {
+        "position": 10,
+        "title": "Your Kids Will Love These Halloween Window Clings!",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/ee979f9f-1719-4444-88ee-2a202a42e36e/default.vertical.jobtemplate.hls.m3u8",
+        "thumbnail": "https://m.media-amazon.com/images/I/91ZxxOKIkaL.jpg",
+        "duration": "0:17",
+        "vendor": "House of KJB",
+        "vendor_thumbnail": "https://m.media-amazon.com/images/I/A1k5ZtsVNdL._CR0,0,2308,2308_._FMjpg_._SL34_.jpg",
+        "date": "Sep 7, 2024"
+      }
+    ],
+    "product_description": [
+      {
+        "position": 1
+      },
+      {
+        "position": 2,
+        "title": "Scene presentation",
+        "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/2b64dd0f-4055-4119-8b4c-0b548d52f810.__CR0,0,1464,600_PT0_SX1464_V1___.jpg"
+      },
+      {
+        "position": 3
+      },
+      {
+        "position": 4,
+        "title": "Scene presentation",
+        "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/868273e5-8552-4a6f-9abc-acc687716d49.__CR0,443,1500,615_PT0_SX1464_V1___.jpg"
+      },
+      {
+        "position": 5,
+        "title": "Happy Halloween",
+        "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/67fc2d3c-66d6-4c43-a095-ce09ea41e727.__CR0,0,1464,600_PT0_SX1464_V1___.jpg"
+      }
+    ],
+    "product_details": {
+      "color": "Multicolor",
+      "theme": "Halloween",
+      "subject_character": "Halloween",
+      "product_style": "Cartoon",
+      "item_form": "Sheet",
+      "pattern": "Variety Pack",
+      "shape": "Rectangular",
+      "animal_theme": "Wolf",
+      "seasons": "Fall",
+      "item_dimensions": "11.02 x 8.26 x 0.04 inches",
+      "number_of_pieces": "146",
+      "unit_count": "146 Count",
+      "number_of_items": "10",
+      "size": "11 x 8.7 Inch",
+      "additional_features": "Self Adhesive",
+      "reusability": "Single Use",
+      "brand_name": "CCINEE",
+      "target_audience": "Children celebrating Halloween",
+      "set_name": "Halloween Window Sticker Set",
+      "age_range_description": "Kid",
+      "manufacturer": "CCINEE",
+      "model_number": "DM079M1P1",
+      "manufacturer_part_number": "DM079M1P1Q",
+      "best_sellers_rank": [
+        {
+          "text": "#2,472 in Home & Kitchen (See Top 100 in Home & Kitchen)",
+          "extracted_rank": 2472,
+          "link": "https://www.amazon.com/gp/bestsellers/home-garden/ref=pd_zg_ts_home-garden",
+          "link_text": "See Top 100 in Home & Kitchen"
+        },
+        {
+          "text": "#10 in Window Stickers",
+          "extracted_rank": 10,
+          "link": "https://www.amazon.com/gp/bestsellers/home-garden/16136295011/ref=pd_zg_hrsr_home-garden",
+          "link_text": "Window Stickers"
+        }
+      ],
+      "asin": "B07VKYG68N",
+      "customer_reviews": "4.6 out of 5 stars",
+      "rating": 4.6,
+      "reviews": 4541,
+      "surface_recommendation": "Door, Window",
+      "recommended_uses_for_product": "Window",
+      "indoor_outdoor_usage": "Outdoor",
+      "material_type": "Vinyl",
+      "finish_type": "Powder Coated",
+      "water_resistance_level": "Water Resistant"
+    },
+    "sponsored_brands": [
+      {
+        "position": 1,
+        "asin": "B0C77N87TN",
+        "title": "3 Sheets Glow in the Dark Halloween Window Clings Luminous Halloween Window Stickers Pumpkin Ghost Wall Decor Glowing Window Clings for Scary Halloween Theme Party Decorations",
+        "link": "https://aax-us-east-retail-direct.amazon.com/x/c/JOkklACQQGCP-M8M4_iQWvsAAAGhZGXOKAEAAAH2AQBvbm9fdHhuX2JpZDUgICBvbm9fdHhuX2ltcDEgICAgFdb6/clv1c_ek-wxfHXLcTWDVVAWi4kasJ9BF4_6vJLUBvbsiVYHA9NsvgailulZOuzgSR8TZNRwKV03sfEduAg2nARxGfnU2i4vlChXQW4_080nMzjVh0WKwkobjX8ViMYg_l4iEbZH7Fq-WoJ3wgSkeDWW_KvcfQLoNiW_nVq8-WxTzKO5mZ_mO_TEsKP82v5e5yzRB5g_PdRjG5TD2eJVql6vUCMufxqFxcXLDbOVu5tprsFZ93hNBU-jpApwmMKdHVu-X55UorhydtoZkXvmnBvccBAWYfRewNLL5DG0d5xZyPHXlDmq5NoFTyglAingPM8b4xnpbNhfoekMTvVKT-4_n84sLkZ8QhgrRQS-APk2pQ_cEAiBZL_VQmsloIYjkxs0d5zVSf1_eN_wmbdoiXztY3rOBCK68jnpHomNu0ogoK1P4XyOKhTZ3Wz6KOjRzM7meiRaPuW70fkF1U77JAEIfumRTmiXpBT7qbmGtWhNFkiuOKtvUhmt857Zq2JsvgDpctkTsghcAzyKOjMnOy_ah3EZ9Q0CZe6PrSC44NvgUiydsaSCYZAbbWPPA3t9BGm2g5YNRV0iqrLWeTwAxSvJEBhdVq9-hErOQsxunzr-n3hh1IF1MPEc0zimNmMA3kOQs1fw3tXSm4_kvIxwMOJJJ32qzh_J_QLKdkAOLX-TMhz3-zNZF6o3ISC9UL1JccY965ifP_M0YYXwmaYw-LtSqTejw8iif0Q0AAiV8-C45clLyumR9SCcWf55qcyYSayvJKEYoBUyv6Im4MHp6NuCNEh7nP690hZpciMIA8SGiUPOv4wzDVP34gbntfPfIgaP0Ft2vdKfaEBf5QlsJPgY0DBqfQ5p1j9lHHs20e7MO5mIP8QwdLM8k5hFTcGLjMjFFjn4dK86yHQNgM55bWhOYmRgxaF2U3V7GPXSn6VWKuoCEfNZM799AZ27kV4-8-2sqrrGFYkwGuotKdVTqRlZ4TMGalVu3QoZ3AhF5cYfxPK0ph0rAm1H0vDU_4veRzX5QczGYGoIpTMfcg9BXempDNI_RdwKy0YO7rLRCXXMVdnjtRQz8KLj-6bUh9PDH_26ZYMBx93kFbJ2Nm2eEbTBDY78at1a74j5Z6xVT202HbhsodpMg7HcDY7oAYjyGAxU09ZXzfXFvoFLkcWuxKdOnLOvOCFu8rycXP6aqw7pbgPumyiOpHRWPklMUzfVG__efvKCCwRhoUpdXicFIAJ12OpDZzGZtdEsbS5__n6PIS8zXlLD4a4_6kJfCAla-76iLVuxseuxyEomSTlX_HuTmIS8nqsojJ3jIi_u9x90c9SMPekXY6RCmny4Q9FouCw7PNN02zfs-i5_HQZdeUx4QHtA7mrw3zj2a7eEo9U8oUZhq5XVnFWYR60akrPeJdPBuTNFs--6MKA3KMnAA2Js8EZ3A_LpRaW5JM411K85MdKXEfZnVWEzmKZjJ6MUvZkKD335LgvI76Gj4OB0QI7ah0FAHs5-Q1NF-gOGgjKfhchmUqBQY0IhDqC3KJD3Q2sIQp89EyvvLPL8G4CpZ5lKep0kiRpVMxzGFGgEDcbxttcd3DCcVwSRuQKr9Lq82WVgNbA72A80MXZlwBx7iOilACInc0LXfqsidrZQwKJVS41Ow/https://www.amazon.com/dp/B0C77N87TN/?_encoding=UTF8&pd_rd_i=B0C77N87TN&pd_rd_i=B0C77N87TN&ref_=sbx_be_s_sparkle_ssd_cta&pd_rd_w=rswnS&content-id=amzn1.sym.fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=7P763XZTNG6ZARSG9G5H&pd_rd_wg=3eU0c&pd_rd_r=d5dcf244-378f-4cf1-b7c5-b62acdf5f24e",
+        "link_clean": "https://www.amazon.com/dp/B0C77N87TN/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0C77N87TN&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "thumbnail": "https://m.media-amazon.com/images/I/512d1QNxDoL._AC_SR100,100_QL65_.jpg",
+        "video": {
+          "link": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/ee25991b-d9ae-4f7c-b396-3e66408bf8b3.mp4/productVideoOptimized.mp4",
+          "thumbnail": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/ee25991b-d9ae-4f7c-b396-3e66408bf8b3.mp4/r/THUMBNAIL_360P_FRAME_3_CAPTURE_2.JPG"
+        },
+        "rating": 2.5,
+        "reviews": 277,
+        "price": "$8.99",
+        "extracted_price": 8.99
+      },
+      {
+        "position": 2,
+        "asin": "B0D7PS6QLJ",
+        "title": "12 Sheets Big Size Window Clings Halloween Window Clings Halloween Bat Spider Vampire Witch Decorations Halloween Window Sticker Window Decals Window Stickers Home School Office Party Supplies",
+        "link": "https://aax-us-east-retail-direct.amazon.com/x/c/JBmXYaqOyHRqh3n1HpBGzfMAAAGhZGXOKQEAAAH2AQBvbm9fdHhuX2JpZDUgICBvbm9fdHhuX2ltcDEgICCAvbB4/clv1c_ek-YBfH3LcTSXmwhOIJO7WbeGXqSPGM9-BjZAGzV3sk1DymquQLBtiBrnNnxGSIhh_vKbHUqDxCMB4qnzef5Ljq13XyLECbdMwU_ZFwEvpn300SKCGdvZEoI0vl1sWhFE9rB0ZELgJSj9ehT28qjssULoN6GjnVrd3bRDzWg1Y6vOSkyybCN39qj90rcHjP6Q0DxceaLnwfDz4jb4wihyMARyh99RoxVnA3p0TEF7PDSimv3POnBvYFUuAZIZNeO8BsX3ZuIZElsuqWgWnQhuAl2tpuer_MXSdBbcybE9Ws8l5dH-KgjhRZ_K11CmQOFgDucd29AVpjoXXz88Ti6iyKPdu364tjVErUpOpYhf7NjotTDG0MHAUCAVshuN5pTd9Kcnjq8Jcci74N2xUUh_s5lgLNdJOEwgNUXh0f9B_yvOxRxSekqwIjgilkgpZM5SI0VamwgwifhT_ks2EgUYZkVBbhkOCkfHS8PPg3_qMeRXEEmvq7TabkFyWgUkaSnkF8wz5qephwdp0XX96FX3UgwSv7hcyXD0oMvzmgrHdd2H3fyap9x02gVGwT30SvNlUhFZtUQC7DLcRFOWgV1272BUIIWoqtCUSWgN5NARfz4ySpZxPcu3bhytHQRbpBxBN7Nj2S1zymx_FuI1DFh_JSyfo_xXmG7WoatBx-FU7i9uiTXPXuZFyaQ23i7YlO6k4wMAQrbJZozKoMQdBwVG1OR3aGZiq6c8FWJ1jDmexofev2lCbXbc1DXE4felLEcbfuD1M4rC-VpBhKerQ7-eUNZ4WrpbRMs4_EsoK3k1EuaKzzh3zP-KwDywQTCFGzCt0L2RPRFGgRs0_Vd-CLKgAHOty7l5LrAT6ElHpouUu-qJt-_7WT07ItnUJlCNKmSb-9evID68mgu9spT6FFPI_EK6FNKCJXdE3Tji3TIcOZsUhsRwxGGKQ_sBUJ525pGHP0zm44MTWy2Ns-f_0XdIxzy_zO3DmnnJbijQGBZbjKqdaOGp3G3Klh97qupgmebDysgIABNWZtXG-qxB-xORqM_mGK3UcK5AqDRj-7i7FpOszQrELhyfKvMNAeqak4ZV3YRDIMz1xekLiYCPqLKkBAuEJwRWOuJhUUV3k70rY7v3dlV11jp_vTloEpriaU9qsoYlK4790Zl9HXfVpyK9gQZuD-_-kzXUdgBoMBovboB9EgHfKAgo_7UCRky4KjL5om0lg0u2jujnQvzNvH-g6iRqHZAoRWT5Fr6fGx-m2hxnNY4zzIXFz5bvFmkKVn8A7ssnc0TWsV2nbZ1qepy4vEznHKFworH0QAq_BtrJ3ijXdXTgBNqvcspm78wKbMVatFY7Z_nDRzP4cggQBjZKxp03bjjZdda_k4LsBGBwov-Royp3kI8VlpBr8YtyRcJd3ArTNlV-ym6f1RerqXDUU-N0M5RfUMDouaBy7akP9Pni_huC9hUZs2M2_g_zcbiGs5D1oo6dLL_fcjzewHLYvDX6cwo7uI4N-QAPUPyq5kC6zNtOLqWJQ-NpTZlSf7ZCsp2shRxTRx2Cvw95Hciiunhdd5QvpnJO6DapF6o5zsuNFkaby-QPKU2GE9lCWIuNnveO_pDtAgiVzniiHCTN9w/https://www.amazon.com/dp/B0D7PS6QLJ/?_encoding=UTF8&pd_rd_i=B0D7PS6QLJ&pd_rd_i=B0D7PS6QLJ&ref_=sbx_be_s_sparkle_ssd_cta&pd_rd_w=rswnS&content-id=amzn1.sym.fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=7P763XZTNG6ZARSG9G5H&pd_rd_wg=3eU0c&pd_rd_r=d5dcf244-378f-4cf1-b7c5-b62acdf5f24e",
+        "link_clean": "https://www.amazon.com/dp/B0D7PS6QLJ/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0D7PS6QLJ&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "thumbnail": "https://m.media-amazon.com/images/I/51p4FjJ4rpL._AC_SR100,100_QL65_.jpg",
+        "video": {
+          "link": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/1e5d138b-1e34-4cfe-a5e4-e353b7722b21.mp4/productVideoOptimized.mp4",
+          "thumbnail": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/1e5d138b-1e34-4cfe-a5e4-e353b7722b21.mp4/r/THUMBNAIL_360P_FRAME_3_CAPTURE_2.JPG"
+        },
+        "rating": 4.7,
+        "reviews": 1030,
+        "price": "$5.99",
+        "extracted_price": 5.99,
+        "old_price": "$9.00",
+        "extracted_old_price": 9.0
+      },
+      {
+        "position": 3,
+        "asin": "B0F831L31B",
+        "title": "Piteno® 140Pcs Bats Halloween Decorations Party Supplies, Realistic PVC 3D Black Scary Bat Stickers for Creepy Home Decor Halloween Party Decorations DIY Wall Window Decal Bathroom Indoor",
+        "link": "https://aax-us-east-retail-direct.amazon.com/x/c/JNnRCkdgnAXjRH3Ze7gfRRsAAAGhZGXOKgEAAAH2AQBvbm9fdHhuX2JpZDUgICBvbm9fdHhuX2ltcDEgICD6we4Y/clv1c_ek-wBfHXLcTWXmxhtwlAiFwLMKlTuYptTiyK74g_2ck10T0B2nK8CqvKlS17zbSbNnExk4LF7KfA2PCQuY1t_2bpfBHaWa_TyAHMWt7xv0gGyZuLiEZoEFrc-nn0rX8LhXHjwWkKgfPHcr9-cPK3sZULoN6GjnVr9-SyTzK-5pZ_mO_jCMVVKv-zwG9qRKH2rL7QsWlHF7doFEK-slxm1yMREU01jsyRuCiquGzo133ZV5rZ1FF4LbX27JMz4-UMoKcNk1oW4JhhrTgVM_NBPBEIMD2zYaCGwNAi4sCKSf6QuLqNfdhEeQ9yXTr3r4hebRzYO_jJPXAE5DCUxABbEn46AWBqb9melJrAhLZr_iWYUPVtALV6ZJwC9bo_07d8x6dqqO98Qha6HBz31InLLmtW6SJ4cmgNYwl1ZfODFjhb_x5NjeGmV4s8q5WKkuyW_3wgEfEewFlKwB0yWLyeKCiV30acZS5AsuTTd6Cs-lDu2I0ivwEPJmEJNnjAqQudsoYaD5iOrrMyvcB4bYIaKwFejSGlyUEO8SCKmpDrJ74SDNlBXfWeP8UxqikhrFwzDmIP0LpyODDFFrq0M94AwV3A-gnP1ArSlY766uvmRy8BgKwbGrjWZL0lrOvbKPyhNPzTivduKJn0-TtPNdhInn2b9WHWlDx1vZGdgdAy4Cdt4xQFMJq4EZxdxK-KbnZ0tbdZR220yv0U2ZvYyCmAUOdXwMKX45ubHi9qq2zFwNGPLThNQbxBX2xM3cgKSzjqRyhWGPcy0jF50GUCOfSUuj3wJHtn4A2eB82uclZbnlea6t7YUDH2u2rqZi_OcKPECPrv1hzAWGA8cL6240eoLhkGRr0jU2yFEewhyRi1Kz0fGjEfMzotUQVoILSGzRMjEKU24vQR2Ow6JT3VeLuFfBcIs9jFvwgNbg_cm_sKviKzfJyJiIHMxj1r29iSiECeoqVTayoFm8XOfo3sLo64nha3uuhf6sGYwjCeJUDcbu-oQz9-hqocsuHY2oNoEB48MrbMDrz-wD_yWqjfZ2evhJkkifXvltvEoPyQ-o9vvCjlDz75wsU6-ARUr-0CgEsAO0biKtdKCbnzGPccTe3JbEGN7Nrlh8UY3J1RJt7d5o9o2PjmOXMz3d04_zX52XYC2EGuvG22kXAUheDF3l4Dc-vyB5ZJYSIXmIShLljpab898ZBGn4L8MsdrHH8EYbXuN59igsX7ykNBa-0_9PY3pzFw_IgjLLp9Bljf-YuIcilEOXTwQH9QZTCSeMQ-rk18Tg4QSgxoYcTKRCp85U3PFvuTpmS9BOoRsyZY-mmjbw-0bg1tMjFkwp9l6x89a5wHNvrcPNuajLzbq6zOBXZzxZ2mD-GSsjOxGpt4Xcap_5pToP9M7U68rcCaJ7qZSXYVrClaLFGa1wat2YdDAuMQiiWe7XKjmCN52gathpF71w4dGOvp3lCWnYuGm-c-QFU3u-1TS15iQMKre0hNUmHosmLJ7_D83U7xjh7bSMklidj2GEqDEySJNujcaGCGYROD3-hN-cpk-zdBiR-2JWHK3tAUDX_gngKKPGmdPDGWaAhToi5bF0fUwVv0In53Q6KpK9Hgqu4XjQKVI2KvckvjKVmWo07IQeMMC-jP3Hw/https://www.amazon.com/dp/B0F831L31B/?_encoding=UTF8&pd_rd_i=B0F831L31B&pd_rd_i=B0F831L31B&ref_=sbx_be_s_sparkle_ssd_cta&pd_rd_w=rswnS&content-id=amzn1.sym.fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=7P763XZTNG6ZARSG9G5H&pd_rd_wg=3eU0c&pd_rd_r=d5dcf244-378f-4cf1-b7c5-b62acdf5f24e",
+        "link_clean": "https://www.amazon.com/dp/B0F831L31B/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0F831L31B&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "thumbnail": "https://m.media-amazon.com/images/I/419uQuucMKL._AC_SR100,100_QL65_.jpg",
+        "video": {
+          "link": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/de46c326-003f-47ce-8f44-41d4cd412f97.mp4/productVideoOptimized.mp4",
+          "thumbnail": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/de46c326-003f-47ce-8f44-41d4cd412f97.mp4/r/THUMBNAIL_360P_FRAME_3_CAPTURE_2.JPG"
+        },
+        "rating": 4.6,
+        "reviews": 1302,
+        "price": "$9.99",
+        "extracted_price": 9.99
+      },
+      {
+        "position": 4,
+        "asin": "B0D2KCY7V9",
+        "title": "DR.DUDU 36 Pack Halloween Bats Wall Decor Halloween Decorations Indoor | Light Up Flashing Modes, Assorted Size, 3D Bat Stickers, for Bedroom Party Walls Bathroom Mirrors Garages Door",
+        "link": "https://aax-us-east-retail-direct.amazon.com/x/c/JJWIClmQqJIgvf3GHBuYT3wAAAGhZGXOKgEAAAH2AQBvbm9fdHhuX2JpZDUgICBvbm9fdHhuX2ltcDEgICC4vuZD/clv1c_ek-YBXfWLcTSXk6hthlGgETDcGlTsertTszZjpuuD5tXPOsBWnG8qnXAZByXLwCjW117wh7tDxiYr8gSg36paEnyStVoTbPBWlgNp_zs15kzyURuo5Lao_Jog_l2iEbZn4Fq-WaJoJghvL9yod707pt7oduophXoWYJ0zzyCmKbf22KgpVAtcXEIT26_RHXJckGOqS2JnwfDz4jb4wihqNjXSR99RW-k3A3tkF3KChJaCxwmLv-6mLWSSbg_OFP5IFKcuDeV-DxIn46EdBoyqMFaIJiSER-SkzP7IQJWa41oqAYlDua_EGts9ghPy7l4rdH02rJSL3iCDDVH__c7sKnl8QhArRQS_ADk2pTfcUAgBZ5_1TlETD_g4C-Fiy9ikV8lbUpNpThL0ZIwrcn2LH2BR5AnCH8w1Q7S1JE9VhrjuNajEWVGIgRn7WPHXDFs7EvKv2jvnbzI0RU1WEyfGChGnVdKTvTOdUgb934gfWqmJwgy9rgWRmEB10QwKBpmaOF2sorgz-rMcO1PCH_TSGzfjDllyMFzyU73zrRnUh0Cv6IOEGkkWg9GkudVQ47trtJHcQF-u_92HGMZOVlreOCiCa2YuuUHJOIAxCbQzLS_V_QyYUti6OfKkozDKJxqSUbjTrTuuKjBXvoMDlS45ovdqPs65vqjvvKdQpAnicpP_aQNiudXeVc1EJFfBrEj7HIAZFZpfsb-n-EeUNmRKnXMZdScMBTOoNr4LrBFkXvRsE_0n9CdKb0ScCaSrJJEYYBUSv6I24OHpqNvWFFmW6SsSTQTRFAwwoJOYx2HfkMBJrr8YePD1tTT-TWr5P5GytH_Gh5PGBRohwSlm8CbADqJfg1ikID9DH3pdEFwkDeOPZGmJJJoOGONy0JN0J-VmIut6wb_RsK55qE6G6K3UZ6Yfi1CD4KAA6vr0NF0wF71SkoHRSIFGlLlDI68bVTkeuxAA0Ush_y5RpLbPxnvtJ5cclfk9kHotfmWKEL1Gme1y6s69I0LdrOkOhZEyU3yTONrYz-zVIYRTGh-qhD4sv22FiywEYeu8doO-LBwWejSydoHwOKmdhP6xeCZYIHAYc-dsWh1PLHb8FjgCoaNvcW-7zjUd0M6UfmKn0Q7GsAFURkn7pWB0WLPa-I1QLSbIMUTlBs62ZM3L-fKNk4X_gIbmTHP9o3WMcQCvMZoOljpaw9VO3MlRazb_xiyG4nLMzjo42bmZOjEcBkf2NSFZ8NxItjh3EXFlkK4PGAch3BxKqGiYOuTYSY8Su6hFHlevH0aeLiBHnpL1jOthr1zQvJghmIL5pC6MdfufZrPrWD6VK9gbKYCCoXf_blCZs7LZ0QlketVINgugBgFXIHHX2lM1k0fj16kR0cfiHdx8eu90rX7u7nws6VzK0qFtRf7A7NgGwCT5xssYSdec1eqLDYMN2srcafvcOz7f73oFFPX_J4GQ4oiG8z702jYDV69DXYfwXvfZH5Gjaa52-ei_Sg3IOxzna4RImQVxWGmVaXe0GOQ4Nojs-saz7a3xifLCSxouPVPtXak_2DM_0ynhtlzbRpQyPh6R2O2VxfHbdtUYh0DcREy2KWXnb5_RLXqgGotRoSlUkHZJCvrlBdcGg/https://www.amazon.com/dp/B0D2KCY7V9/?_encoding=UTF8&pd_rd_i=B0D2KCY7V9&pd_rd_i=B0D2KCY7V9&ref_=sbx_be_s_sparkle_ssd_cta&pd_rd_w=rswnS&content-id=amzn1.sym.fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=7P763XZTNG6ZARSG9G5H&pd_rd_wg=3eU0c&pd_rd_r=d5dcf244-378f-4cf1-b7c5-b62acdf5f24e",
+        "link_clean": "https://www.amazon.com/dp/B0D2KCY7V9/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0D2KCY7V9&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "thumbnail": "https://m.media-amazon.com/images/I/51Voc1LthHL._AC_SR100,100_QL65_.jpg",
+        "video": {
+          "link": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/56200f19-0e5f-4cdb-bd1e-5a3adfd54e16.mp4/productVideoOptimized.mp4",
+          "thumbnail": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/56200f19-0e5f-4cdb-bd1e-5a3adfd54e16.mp4/r/THUMBNAIL_360P_FRAME_3_CAPTURE_2.JPG"
+        },
+        "rating": 3.6,
+        "reviews": 702,
+        "price": "$19.99",
+        "extracted_price": 19.99,
+        "old_price": "$24.99",
+        "extracted_old_price": 24.99
+      },
+      {
+        "position": 5,
+        "asin": "B0C9PMXVXK",
+        "title": "64 Sheets Halloween Stickers for Kids, Halloween Crafts DIY Stickers | 16 Designs Halloween Make Your Own Stickers for Games Gifts Activities Party Favors Supplies，Halloween Goodie Bag Stuffers",
+        "link": "https://aax-us-east-retail-direct.amazon.com/x/c/JHnhKPjHSRqMvL8_yVrtpDgAAAGhZGXOKwEAAAH2AQBvbm9fdHhuX2JpZDUgICBvbm9fdHhuX2ltcDEgICB99D-j/clv1c_ek-wBXf2asTWBgO_A2yHIkGvOw91ttl6feB7UM8kWxNzGr6HYmvAzItw_xzc8vFeyc2OyAQKh_buqPi56IIn9uQUvpMpkQtKPgzwtA7-_0gn2RXgX6Wttix86-FwlrKzTXHMYZznPWgIF0dgM59W2dHXgF2ZmD0K-5B4f7bryYxDAQuEONFy6ZyyRTFUIJ4Zmx-sZ0lYPWvQxbZdtEYL4i_CH1o6QYhXuTTyuS3k0zzW-xrFxPsOf-r7vneZS0p4elAXc7oW6GoQtbxko_xC_CEOcy2xIJC-ORWuRPmkGsWoYPGkv-M8vCwaoTmf3y6ROPlIoDHiua9Wcu7ho78_xL5PdHjlFNeQXhLN-ezCiXwHMzsEfmf2n0nfemE3N5qxfWpK2mHOTuI6d-NF-k4sTuclySx-E31b-gRLvKzxY2tqDZhFlc0MUCkQIs7xJbRt4knKv2CexY0yXOCaP94-TYD4C-57-8gqq5M6-XwgfWLXUv07JLMTfns-r3tsrRYNN-aWzQ0aHBfdVRIvR_R4AgFYtDGpaUuGs2CSnpCWZqw6GeHoTD3DhQkf99Vdw-REPdZq3gF62y-DL5K4C3aPAyJImAHJJBXXuoqb8vndHaeUcLGGT8yiPlrvTYtTY3thBItIuYkYl3UPQO9U0syQlsdFh46JKdUnsOAunQyPf7GzlB_tzGC6GfdpkT4Ev8MrSX3GRlLNVCIEAsxjlMuQFTXNXcT_IJzz-FWLnv-C1xuvTOGsZw26-C3IL2Rwo9m5wHZxWpX877rIN_m4l-AbuuIZzF3oLZP_7krmAJi6uEMkvccaClp3DrEMwQlSP3B2ne0y9qr8X49LPzIXCOYJxajsNNUxMVe1iMEPfppVypRPXJ6RTvaEOH5z3dDqUfi2oPKtUmOK3XvA0z_h20LwnSUlJw0vgWR2I6d5JCMAVOTyIGWYXKxwNGUeTdIrHn9p0JC_CQJc7EDlypq7Gm10hzlEfhfqv7Kb3fZqmNQE7mRPs-BLgm6YzvtKJ1z26SS-DhXSYWtllPWkksk9hBcoBvs8ZHSuIScm3ogkNW1zC8Oj6Tp2AxxXUMQMeGk9oRM4Pvq4tk6-AYijRxqUab3IdpqpkJ9k54gDaWRYgfOOZC-o_qddcrig5qCWXRlh58SWd0XV1Ie13YO17H6aRiqxcZi3w-9hl5mt3CukVfqWILZA25XzJHyuQ-JKoKgSNA1i-089tYprBZiA_SwBGCNyCmE3SZHlTTqZvXidPRMbhJ6xVsZ5dNMwmd_5hxIvE8jyYX8QxAavh2xzM_uBzIoguToqVzgMJB2VYCdLuLLiDYnWLn_P04F6Nz7h3WcQZJNVyIlSgqxNb98nmc8ksrYPw4KOOZQLdMS4uLEH3IfuCX4cVTAbiZsjArN8_Z95k_y0jXTXvj6RJybfjwUrQMZbpFddHlqflS1YrYExKnH1hIsOTUMQNvZSGi7TbIG6gDS1Zo8NEA3adNGw_NWONkrAQCOIF-IVpcmYOYvRiPr0msuRkwFzdamvxLlWLGbVg9Fvyn-jbzvQ_tGNovJcxu8XkmR6jOx1GVGwxBAWfuOohBDCg3dulusuK3ordEWLlbabz3A5YWL_XxlW0GKFSa5OFKIK-sDTLREHF_b032yNq_8/https://www.amazon.com/dp/B0C9PMXVXK/?_encoding=UTF8&pd_rd_i=B0C9PMXVXK&pd_rd_i=B0C9PMXVXK&ref_=sbx_be_s_sparkle_ssd_cta&pd_rd_w=rswnS&content-id=amzn1.sym.fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_p=fa4d7e30-5733-44d5-9cba-72415812908c&pf_rd_r=7P763XZTNG6ZARSG9G5H&pd_rd_wg=3eU0c&pd_rd_r=d5dcf244-378f-4cf1-b7c5-b62acdf5f24e",
+        "link_clean": "https://www.amazon.com/dp/B0C9PMXVXK/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0C9PMXVXK&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "thumbnail": "https://m.media-amazon.com/images/I/519iJ20mJKL._AC_SR100,100_QL65_.jpg",
+        "video": {
+          "link": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/64fb9ee3-f0bd-4c65-ad44-03098252d508.mp4/productVideoOptimized.mp4",
+          "thumbnail": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/64fb9ee3-f0bd-4c65-ad44-03098252d508.mp4/r/THUMBNAIL_360P_FRAME_3_CAPTURE_2.JPG"
+        },
+        "rating": 4.7,
+        "reviews": 3344,
+        "price": "$15.25",
+        "extracted_price": 15.25
+      }
+    ]
+  }
+}

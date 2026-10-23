@@ -1,0 +1,33 @@
+{
+  "status": "passed",
+  "checks": 3902,
+  "verified_at_utc": "2026-10-23T06:59:04.757197+00:00",
+  "row_counts": {
+    "products": 33,
+    "reviews": 1038,
+    "keywords": 12,
+    "trends": 144,
+    "trends_weekly": 552,
+    "product_components": 33,
+    "keyword_sources": 54,
+    "web_sources": 23,
+    "excluded_products": 1,
+    "amazon_purchase_evidence": 120,
+    "keyword_product_evidence": 33,
+    "keyword_market_summary": 12,
+    "monthly_keyword_analysis": 36,
+    "product_month_opportunities": 99,
+    "listing_evidence": 33,
+    "review_month_summary": 12,
+    "review_themes": 11,
+    "monthly_actions": 3,
+    "monthly_top5": 15
+  },
+  "source_errors": [
+    {
+      "source": "supplement-2026-10-22T1610589019850000-ed08e5_B0B3JF6BMR_tablet",
+      "error": "Provider returned error; inspect sanitized raw response"
+    }
+  ],
+  "scope": "Source/calculation checks, not proof of representative demand or historical ASIN sales"
+}

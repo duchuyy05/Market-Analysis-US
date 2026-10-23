@@ -1,0 +1,913 @@
+{
+  "provider": "serpapi",
+  "endpoint": "https://serpapi.com/search.json",
+  "parameters": {
+    "engine": "amazon_product",
+    "asin": "B09ZNPN1KN",
+    "amazon_domain": "amazon.com",
+    "language": "en_US",
+    "shipping_location": "US",
+    "device": "desktop",
+    "output": "json"
+  },
+  "fetched_at_utc": "2026-10-22T16:16:49.096938+00:00",
+  "raw_file": "supplements/supplement-2026-10-22T1610589019850000-ed08e5/raw/serpapi-96f5a40adc281362b9b7.json",
+  "response": {
+    "search_metadata": {
+      "id": "6ada36f292b32988c73fbe77",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/0xh3L-RSk6O_wqqG5jswrZcrOwrtSPByuouV2T5-Swo/6ada36f292b32988c73fbe77.json",
+      "markdown_endpoint": "https://serpapi.com/searches/0xh3L-RSk6O_wqqG5jswrZcrOwrtSPByuouV2T5-Swo/6ada36f292b32988c73fbe77.md",
+      "created_at": "2026-10-22 16:16:50 UTC",
+      "processed_at": "2026-10-22 16:16:50 UTC",
+      "amazon_product_url": "https://www.amazon.com/dp/B09ZNPN1KN/?language=en_US",
+      "raw_html_file": "https://serpapi.com/searches/0xh3L-RSk6O_wqqG5jswrZcrOwrtSPByuouV2T5-Swo/6ada36f292b32988c73fbe77.html",
+      "total_time_taken": 12.19
+    },
+    "search_parameters": {
+      "engine": "amazon_product",
+      "asin": "B09ZNPN1KN",
+      "amazon_domain": "amazon.com",
+      "language": "en_US",
+      "device": "desktop",
+      "shipping_location": "US"
+    },
+    "product_results": {
+      "categories": [
+        {
+          "position": 1,
+          "name": "Home & Kitchen",
+          "link": "https://www.amazon.com/home-garden-kitchen-furniture-bedding/b/ref=dp_bc_1?ie=UTF8&node=1055398",
+          "node": "1055398",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&language=en_US&node=1055398&shipping_location=US"
+        },
+        {
+          "position": 2,
+          "name": "Home Décor Products",
+          "link": "https://www.amazon.com/home-d%C3%A9cor/b/ref=dp_bc_2?ie=UTF8&node=1063278",
+          "node": "1063278",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&language=en_US&node=1063278&shipping_location=US"
+        },
+        {
+          "position": 3,
+          "name": "Home Décor Accents",
+          "link": "https://www.amazon.com/home-d%C3%A9cor-accents/b/ref=dp_bc_3?ie=UTF8&node=3735061",
+          "node": "3735061",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&language=en_US&node=3735061&shipping_location=US"
+        },
+        {
+          "position": 4,
+          "name": "Hanging Ornaments",
+          "link": "https://www.amazon.com/ornaments/b/ref=dp_bc_4?ie=UTF8&node=3735081",
+          "node": "3735081",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=desktop&engine=amazon&language=en_US&node=3735081&shipping_location=US"
+        }
+      ],
+      "asin": "B09ZNPN1KN",
+      "title": "25 Set 50PCS Clear Plastic Fillable Ornaments,Transparent DIY Craft Ball,Clear DIY Christmas Ornament 5 Different Sizes for Wedding,Party,Home Decor",
+      "link": "https://www.amazon.com/Fillable-Ornaments-Transparent-Christmas-Different/dp/B09ZNPN1KN/",
+      "link_clean": "https://www.amazon.com/dp/B09ZNPN1KN/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B09ZNPN1KN&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+      "badges": [
+        "Amazon's Choice"
+      ],
+      "variants": [
+        {
+          "title": "Size",
+          "items": [
+            {
+              "position": 1,
+              "asin": "B0HC1KHR2J",
+              "name": "4 Set 160mm",
+              "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0HC1KHR2J&device=desktop&engine=amazon_product&language=en_US&shipping_location=US"
+            },
+            {
+              "position": 2,
+              "asin": "B0HCHC1QGN",
+              "name": "20 Set 80mm",
+              "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0HCHC1QGN&device=desktop&engine=amazon_product&language=en_US&shipping_location=US"
+            },
+            {
+              "position": 3,
+              "asin": "B09ZNPN1KN",
+              "name": "25 Set 30-70mm",
+              "selected": true,
+              "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B09ZNPN1KN&device=desktop&engine=amazon_product&language=en_US&shipping_location=US"
+            },
+            {
+              "position": 4,
+              "asin": "B0D5Y338PD",
+              "name": "50 Set 30-70mm",
+              "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0D5Y338PD&device=desktop&engine=amazon_product&language=en_US&shipping_location=US"
+            }
+          ]
+        }
+      ],
+      "brand": "Visit the OJYUDD Store",
+      "thumbnail": "https://m.media-amazon.com/images/I/71Y3AeOWFHL._AC_SY300_SX300_QL70_FMwebp_.jpg",
+      "thumbnails": [
+        "https://m.media-amazon.com/images/I/71Y3AeOWFHL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71wS5az0bxL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71SL+7jcr0L._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81ypVdO9KfL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/71oH9GTrLnL._AC_SL1500_.jpg",
+        "https://m.media-amazon.com/images/I/81txpow+NzL._AC_SL1500_.jpg"
+      ],
+      "rating": 4.4,
+      "reviews": 985,
+      "bought_last_month": "2K+ bought in past month",
+      "price": "$7.99",
+      "extracted_price": 7.99,
+      "price_unit": "$0.32 / count",
+      "extracted_price_unit": 0.32,
+      "prime": true,
+      "delivery": [
+        "FREE delivery Tuesday, October 27 on orders shipped by Amazon over $35. Order within 12 hrs 43 mins"
+      ],
+      "stock": "In Stock"
+    },
+    "purchase_options": {
+      "single_offer": {
+        "price": "$7.99",
+        "extracted_price": 7.99,
+        "price_unit": "$0.32 / count",
+        "extracted_price_unit": 0.32,
+        "delivery": [
+          "FREE delivery Tuesday, October 27 on orders shipped by Amazon over $35. Order within 12 hrs 43 mins"
+        ],
+        "stock": "In Stock",
+        "features": {
+          "ships_from": {
+            "text": "Amazon",
+            "details": {
+              "heading": "Ships from",
+              "content": "Amazon"
+            }
+          },
+          "sold_by": {
+            "text": "MVIPI",
+            "details": {
+              "heading": "Sold by",
+              "content": "MVIPI"
+            },
+            "link": {
+              "text": "MVIPI",
+              "link": "https://www.amazon.com/gp/help/seller/at-a-glance.html/ref=dp_merchant_link?ie=UTF8&seller=A235YLNO2EFTOT&asin=B09ZNPN1KN&ref_=dp_merchant_link&isAmazonFulfilled=1"
+            }
+          },
+          "returns": {
+            "text": "FREE 30-day refund/replacement",
+            "details": {
+              "heading": "FREE 30-day refund/replacement"
+            },
+            "link": {
+              "text": "See exceptions",
+              "link": "https://www.amazon.com/gp/help/customer/display.html/?nodeId=GKQNFKFK5CF3C54B"
+            }
+          },
+          "payment": {
+            "text": "Secure transaction",
+            "details": {
+              "heading": "Your transaction is secure",
+              "content": "We work hard to protect your security and privacy. Our payment security system encrypts your information during transmission. We don’t share your credit card details with third-party sellers, and we don’t sell your information to others. Learn more"
+            },
+            "link": {
+              "text": "Learn more",
+              "link": "https://www.amazon.com/gp/help/customer/display.html?nodeId=201909010"
+            }
+          }
+        }
+      }
+    },
+    "about_item": [
+      "Package Content:You will receive 25 clear plastic balls,including 5 different sizes,there are five balls of each size,and the quantity is sufficient,and different sizes of ornamental balls can meet your different needs.",
+      "Different Size:The 5 different sizes are:diameter 1.18\" (3cm),diameter 1.57\" (4cm),diameter 1.97\" (5cm),diameter 2.36\" (6cm),diameter 2.76\" (7cm),you can use different sized balls according to your needs.",
+      "Premium Material:Our fillable balls are made of sturdy and durable plastic,non-toxic and odorless,not easy to chip or break,reusable,you can use it to DIY soap,bath ball or fill it with any small decoration.",
+      "Easy to Use:Our product is composed of 50 hemispheres. In order to increase the fun of life, you need to try to assemble it yourself to enhance the DIY experience.Each sphere can be divided into two parts,allowing you to open and close them freely.There is a plastic loop on top of the sphere that can be easily hung with ribbon,rope or wire.",
+      "Wide Application:You can fill the clear balls with your favorite things like ribbons,trinkets or beads for Christmas tree decorations,shopping malls,hotels,home,window displays,or you can use it to DIY soap,bath balls,and other gifts."
+    ],
+    "bought_together": [
+      {
+        "position": 1,
+        "title": "25 Set 50PCS Clear Plastic Fillable Ornaments,Transparent DIY Craft Ball,Clear DIY Christmas Ornament 5 Different Sizes for Wedding,Party,Home Decor",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/71Y3AeOWFHL._AC_UL116_SR116,116_.jpg",
+        "price": "$7.99",
+        "extracted_price": 7.99,
+        "price_unit": "$0.32/count",
+        "extracted_price_unit": 0.32,
+        "delivery": [
+          "Get it as soon as Tuesday, Oct 27"
+        ],
+        "stock": "In Stock"
+      },
+      {
+        "position": 2,
+        "title": "YAOZHOU Halloween Christmas Green Fairy String Lights Battery Operated | 2 Pack Each 16.5Ft 50Led Timer Mini Copper Wire Firefly Lights Indoor, Outdoor Battery Powered DIY Garland Party Decorations",
+        "link": "https://www.amazon.com/Halloween-Battery-Operated-Powered-Waterproof/dp/B0CX4Z4PG2/ref=pd_bxgy_thbs_d_sccl_1/145-3958758-7065911?pd_rd_w=D6l6q&content-id=amzn1.sym.1fbb380b-ee1d-4eeb-a44a-61f4d3013ea6&pf_rd_p=1fbb380b-ee1d-4eeb-a44a-61f4d3013ea6&pf_rd_r=PHSMRTW6ZSYHVK5279HA&pd_rd_wg=FJQI3&pd_rd_r=e41ae694-519c-4e3f-bc7a-56e1fd78290f&pd_rd_i=B0CX4Z4PG2&psc=1",
+        "asin": "B0CX4Z4PG2",
+        "link_clean": "https://www.amazon.com/Halloween-Battery-Operated-Powered-Waterproof/dp/B0CX4Z4PG2/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0CX4Z4PG2&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/71S28iwDO3L._AC_UL116_SR116,116_.jpg",
+        "price": "$9.99",
+        "extracted_price": 9.99,
+        "price_unit": "$0.30/feet",
+        "extracted_price_unit": 0.3,
+        "delivery": [
+          "Get it as soon as Tuesday, Oct 27"
+        ],
+        "stock": "In Stock"
+      }
+    ],
+    "related_products": [
+      {
+        "position": 1,
+        "title": "12 Pack Clear Plastic Fillable Ornament Ball 3.15''/80mm | for Christmas,Holiday, Wedding,Party,Home Decor",
+        "link": "https://www.amazon.com/Plastic-Fillable-Ornament-Christmas-Holiday/dp/B0B62VSNQB/ref=pd_sbs_d_sccl_1_1/145-3958758-7065911?pd_rd_w=a5ONy&content-id=amzn1.sym.0cb10f30-7cd4-4985-9826-58b2c1174c19&pf_rd_p=0cb10f30-7cd4-4985-9826-58b2c1174c19&pf_rd_r=PHSMRTW6ZSYHVK5279HA&pd_rd_wg=FJQI3&pd_rd_r=e41ae694-519c-4e3f-bc7a-56e1fd78290f&pd_rd_i=B0B62VSNQB&psc=1",
+        "asin": "B0B62VSNQB",
+        "link_clean": "https://www.amazon.com/Plastic-Fillable-Ornament-Christmas-Holiday/dp/B0B62VSNQB/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0B62VSNQB&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/61m6CIyqfqL._AC_UL165_SR165,165_.jpg",
+        "rating": 4.3,
+        "reviews": 479,
+        "price": "$9.99",
+        "extracted_price": 9.99,
+        "price_unit": "List: $11.99",
+        "extracted_price_unit": 11.99,
+        "old_price": "$11.99",
+        "extracted_old_price": 11.99,
+        "delivery": [
+          "Get it as soon as Tuesday, Oct 27"
+        ]
+      },
+      {
+        "position": 2,
+        "title": "25 Sets Clear Fillable Ornaments Ball in 5 Different Size,Transparent DIY Craft Ball,Plastic Acrylic Fillable Ball for Hallow",
+        "link": "https://www.amazon.com/Haawooky-Fillable-Ornaments-Different-Plastic/dp/B07QH5QVCW/ref=pd_sbs_d_sccl_1_2/145-3958758-7065911?pd_rd_w=a5ONy&content-id=amzn1.sym.0cb10f30-7cd4-4985-9826-58b2c1174c19&pf_rd_p=0cb10f30-7cd4-4985-9826-58b2c1174c19&pf_rd_r=PHSMRTW6ZSYHVK5279HA&pd_rd_wg=FJQI3&pd_rd_r=e41ae694-519c-4e3f-bc7a-56e1fd78290f&pd_rd_i=B07QH5QVCW&psc=1",
+        "asin": "B07QH5QVCW",
+        "link_clean": "https://www.amazon.com/Haawooky-Fillable-Ornaments-Different-Plastic/dp/B07QH5QVCW/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B07QH5QVCW&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/71K6AJLJ+PL._AC_UL165_SR165,165_.jpg",
+        "rating": 4.4,
+        "reviews": 953,
+        "price": "$6.99",
+        "extracted_price": 6.99,
+        "price_unit": "$0.28/count",
+        "extracted_price_unit": 0.28,
+        "old_price": "$7.99",
+        "extracted_old_price": 7.99,
+        "delivery": [
+          "Get it as soon as Tuesday, Oct 27"
+        ]
+      },
+      {
+        "position": 3,
+        "title": "16pcs Clear Fillable Ornaments Balls,2.36in Christmas Balls Craft Ornaments | DIY Hanging Clear Plastic Balls for Christmas T",
+        "link": "https://www.amazon.com/Fillable-Ornaments-Christmas-Halloween-Decorations/dp/B0B6GJR6DP/ref=pd_sbs_d_sccl_1_3/145-3958758-7065911?pd_rd_w=a5ONy&content-id=amzn1.sym.0cb10f30-7cd4-4985-9826-58b2c1174c19&pf_rd_p=0cb10f30-7cd4-4985-9826-58b2c1174c19&pf_rd_r=PHSMRTW6ZSYHVK5279HA&pd_rd_wg=FJQI3&pd_rd_r=e41ae694-519c-4e3f-bc7a-56e1fd78290f&pd_rd_i=B0B6GJR6DP&psc=1",
+        "asin": "B0B6GJR6DP",
+        "link_clean": "https://www.amazon.com/Fillable-Ornaments-Christmas-Halloween-Decorations/dp/B0B6GJR6DP/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0B6GJR6DP&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/512mf-mcmzL._AC_UL165_SR165,165_.jpg",
+        "rating": 4.6,
+        "reviews": 371,
+        "price": "$11.99",
+        "extracted_price": 11.99,
+        "delivery": [
+          "Get it as soon as Tuesday, Oct 27"
+        ]
+      },
+      {
+        "position": 4,
+        "title": "Jishi 10pk Clear Plastic Christmas Ornaments for Crafts Fillable DIY Christmas Ornaments Balls 60mm Acrylic Ornaments for Chr",
+        "link": "https://www.amazon.com/Jishi-Ornaments-Christmas-Decorations-Decorative/dp/B0C9GN4Y8X/ref=pd_sbs_d_sccl_1_4/145-3958758-7065911?pd_rd_w=a5ONy&content-id=amzn1.sym.0cb10f30-7cd4-4985-9826-58b2c1174c19&pf_rd_p=0cb10f30-7cd4-4985-9826-58b2c1174c19&pf_rd_r=PHSMRTW6ZSYHVK5279HA&pd_rd_wg=FJQI3&pd_rd_r=e41ae694-519c-4e3f-bc7a-56e1fd78290f&pd_rd_i=B0C9GN4Y8X&psc=1",
+        "asin": "B0C9GN4Y8X",
+        "link_clean": "https://www.amazon.com/Jishi-Ornaments-Christmas-Decorations-Decorative/dp/B0C9GN4Y8X/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0C9GN4Y8X&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/61iyLPJaYYL._AC_UL165_SR165,165_.jpg",
+        "rating": 4.4,
+        "reviews": 1208,
+        "price": "$7.99",
+        "extracted_price": 7.99,
+        "price_unit": "$0.80/count",
+        "extracted_price_unit": 0.8,
+        "delivery": [
+          "Get it as soon as Tuesday, Oct 27"
+        ]
+      },
+      {
+        "position": 5,
+        "title": "Clear Plastic Fillable Ornaments, 20PCS 5cm DIY Christmas Balls | Small Clear Craft Balls For Ribbons, Beads, Candy, Mini Gif",
+        "link": "https://www.amazon.com/Christmas-Ornaments-Fillable-Ornament-Decoration/dp/B0D69C1FJW/ref=pd_sbs_d_sccl_1_5/145-3958758-7065911?pd_rd_w=a5ONy&content-id=amzn1.sym.0cb10f30-7cd4-4985-9826-58b2c1174c19&pf_rd_p=0cb10f30-7cd4-4985-9826-58b2c1174c19&pf_rd_r=PHSMRTW6ZSYHVK5279HA&pd_rd_wg=FJQI3&pd_rd_r=e41ae694-519c-4e3f-bc7a-56e1fd78290f&pd_rd_i=B0D69C1FJW&psc=1",
+        "asin": "B0D69C1FJW",
+        "link_clean": "https://www.amazon.com/Christmas-Ornaments-Fillable-Ornament-Decoration/dp/B0D69C1FJW/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0D69C1FJW&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/71ON9ZMzGEL._AC_UL165_SR165,165_.jpg",
+        "rating": 4.4,
+        "reviews": 429,
+        "price": "$6.88",
+        "extracted_price": 6.88,
+        "delivery": [
+          "Get it as soon as Tuesday, Oct 27"
+        ]
+      },
+      {
+        "position": 6,
+        "title": "30 PCS Clear Christmas Ornaments Balls, 8cm, 6cm, 5cm Clear Fillable Plastic Ornaments Ball, DIY Christmas Decorations, Hangi",
+        "link": "https://www.amazon.com/Christmas-Ornaments-Fillable-Plastic-Decorations/dp/B0FF4XWPKC/ref=pd_sbs_d_sccl_1_6/145-3958758-7065911?pd_rd_w=a5ONy&content-id=amzn1.sym.0cb10f30-7cd4-4985-9826-58b2c1174c19&pf_rd_p=0cb10f30-7cd4-4985-9826-58b2c1174c19&pf_rd_r=PHSMRTW6ZSYHVK5279HA&pd_rd_wg=FJQI3&pd_rd_r=e41ae694-519c-4e3f-bc7a-56e1fd78290f&pd_rd_i=B0FF4XWPKC&psc=1",
+        "asin": "B0FF4XWPKC",
+        "link_clean": "https://www.amazon.com/Christmas-Ornaments-Fillable-Plastic-Decorations/dp/B0FF4XWPKC/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0FF4XWPKC&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/71jWXEq9tFL._AC_UL165_SR165,165_.jpg",
+        "rating": 4.6,
+        "reviews": 96,
+        "price": "$9.99",
+        "extracted_price": 9.99,
+        "price_unit": "$0.33/count",
+        "extracted_price_unit": 0.33,
+        "old_price": "$13.99",
+        "extracted_old_price": 13.99,
+        "delivery": [
+          "Get it as soon as Tuesday, Oct 27"
+        ]
+      }
+    ],
+    "related_product_sections": [
+      {
+        "title": "Customers who viewed this item also viewed",
+        "items": [
+          {
+            "position": 1,
+            "title": "12 Pack Clear Plastic Fillable Ornament Ball 3.15''/80mm | for Christmas,Holiday, Wedding,Party,Home Decor",
+            "link": "https://www.amazon.com/Plastic-Fillable-Ornament-Christmas-Holiday/dp/B0B62VSNQB/ref=pd_sbs_d_sccl_1_1/145-3958758-7065911?pd_rd_w=a5ONy&content-id=amzn1.sym.0cb10f30-7cd4-4985-9826-58b2c1174c19&pf_rd_p=0cb10f30-7cd4-4985-9826-58b2c1174c19&pf_rd_r=PHSMRTW6ZSYHVK5279HA&pd_rd_wg=FJQI3&pd_rd_r=e41ae694-519c-4e3f-bc7a-56e1fd78290f&pd_rd_i=B0B62VSNQB&psc=1",
+            "asin": "B0B62VSNQB",
+            "link_clean": "https://www.amazon.com/Plastic-Fillable-Ornament-Christmas-Holiday/dp/B0B62VSNQB/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0B62VSNQB&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/61m6CIyqfqL._AC_UL165_SR165,165_.jpg",
+            "rating": 4.3,
+            "reviews": 479,
+            "price": "$9.99",
+            "extracted_price": 9.99,
+            "price_unit": "List: $11.99",
+            "extracted_price_unit": 11.99,
+            "old_price": "$11.99",
+            "extracted_old_price": 11.99,
+            "delivery": [
+              "Get it as soon as Tuesday, Oct 27"
+            ]
+          },
+          {
+            "position": 2,
+            "title": "25 Sets Clear Fillable Ornaments Ball in 5 Different Size,Transparent DIY Craft Ball,Plastic Acrylic Fillable Ball for Hallow",
+            "link": "https://www.amazon.com/Haawooky-Fillable-Ornaments-Different-Plastic/dp/B07QH5QVCW/ref=pd_sbs_d_sccl_1_2/145-3958758-7065911?pd_rd_w=a5ONy&content-id=amzn1.sym.0cb10f30-7cd4-4985-9826-58b2c1174c19&pf_rd_p=0cb10f30-7cd4-4985-9826-58b2c1174c19&pf_rd_r=PHSMRTW6ZSYHVK5279HA&pd_rd_wg=FJQI3&pd_rd_r=e41ae694-519c-4e3f-bc7a-56e1fd78290f&pd_rd_i=B07QH5QVCW&psc=1",
+            "asin": "B07QH5QVCW",
+            "link_clean": "https://www.amazon.com/Haawooky-Fillable-Ornaments-Different-Plastic/dp/B07QH5QVCW/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B07QH5QVCW&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/71K6AJLJ+PL._AC_UL165_SR165,165_.jpg",
+            "rating": 4.4,
+            "reviews": 953,
+            "price": "$6.99",
+            "extracted_price": 6.99,
+            "price_unit": "$0.28/count",
+            "extracted_price_unit": 0.28,
+            "old_price": "$7.99",
+            "extracted_old_price": 7.99,
+            "delivery": [
+              "Get it as soon as Tuesday, Oct 27"
+            ]
+          },
+          {
+            "position": 3,
+            "title": "16pcs Clear Fillable Ornaments Balls,2.36in Christmas Balls Craft Ornaments | DIY Hanging Clear Plastic Balls for Christmas T",
+            "link": "https://www.amazon.com/Fillable-Ornaments-Christmas-Halloween-Decorations/dp/B0B6GJR6DP/ref=pd_sbs_d_sccl_1_3/145-3958758-7065911?pd_rd_w=a5ONy&content-id=amzn1.sym.0cb10f30-7cd4-4985-9826-58b2c1174c19&pf_rd_p=0cb10f30-7cd4-4985-9826-58b2c1174c19&pf_rd_r=PHSMRTW6ZSYHVK5279HA&pd_rd_wg=FJQI3&pd_rd_r=e41ae694-519c-4e3f-bc7a-56e1fd78290f&pd_rd_i=B0B6GJR6DP&psc=1",
+            "asin": "B0B6GJR6DP",
+            "link_clean": "https://www.amazon.com/Fillable-Ornaments-Christmas-Halloween-Decorations/dp/B0B6GJR6DP/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0B6GJR6DP&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/512mf-mcmzL._AC_UL165_SR165,165_.jpg",
+            "rating": 4.6,
+            "reviews": 371,
+            "price": "$11.99",
+            "extracted_price": 11.99,
+            "delivery": [
+              "Get it as soon as Tuesday, Oct 27"
+            ]
+          },
+          {
+            "position": 4,
+            "title": "Jishi 10pk Clear Plastic Christmas Ornaments for Crafts Fillable DIY Christmas Ornaments Balls 60mm Acrylic Ornaments for Chr",
+            "link": "https://www.amazon.com/Jishi-Ornaments-Christmas-Decorations-Decorative/dp/B0C9GN4Y8X/ref=pd_sbs_d_sccl_1_4/145-3958758-7065911?pd_rd_w=a5ONy&content-id=amzn1.sym.0cb10f30-7cd4-4985-9826-58b2c1174c19&pf_rd_p=0cb10f30-7cd4-4985-9826-58b2c1174c19&pf_rd_r=PHSMRTW6ZSYHVK5279HA&pd_rd_wg=FJQI3&pd_rd_r=e41ae694-519c-4e3f-bc7a-56e1fd78290f&pd_rd_i=B0C9GN4Y8X&psc=1",
+            "asin": "B0C9GN4Y8X",
+            "link_clean": "https://www.amazon.com/Jishi-Ornaments-Christmas-Decorations-Decorative/dp/B0C9GN4Y8X/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0C9GN4Y8X&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/61iyLPJaYYL._AC_UL165_SR165,165_.jpg",
+            "rating": 4.4,
+            "reviews": 1208,
+            "price": "$7.99",
+            "extracted_price": 7.99,
+            "price_unit": "$0.80/count",
+            "extracted_price_unit": 0.8,
+            "delivery": [
+              "Get it as soon as Tuesday, Oct 27"
+            ]
+          },
+          {
+            "position": 5,
+            "title": "Clear Plastic Fillable Ornaments, 20PCS 5cm DIY Christmas Balls | Small Clear Craft Balls For Ribbons, Beads, Candy, Mini Gif",
+            "link": "https://www.amazon.com/Christmas-Ornaments-Fillable-Ornament-Decoration/dp/B0D69C1FJW/ref=pd_sbs_d_sccl_1_5/145-3958758-7065911?pd_rd_w=a5ONy&content-id=amzn1.sym.0cb10f30-7cd4-4985-9826-58b2c1174c19&pf_rd_p=0cb10f30-7cd4-4985-9826-58b2c1174c19&pf_rd_r=PHSMRTW6ZSYHVK5279HA&pd_rd_wg=FJQI3&pd_rd_r=e41ae694-519c-4e3f-bc7a-56e1fd78290f&pd_rd_i=B0D69C1FJW&psc=1",
+            "asin": "B0D69C1FJW",
+            "link_clean": "https://www.amazon.com/Christmas-Ornaments-Fillable-Ornament-Decoration/dp/B0D69C1FJW/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0D69C1FJW&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/71ON9ZMzGEL._AC_UL165_SR165,165_.jpg",
+            "rating": 4.4,
+            "reviews": 429,
+            "price": "$6.88",
+            "extracted_price": 6.88,
+            "delivery": [
+              "Get it as soon as Tuesday, Oct 27"
+            ]
+          },
+          {
+            "position": 6,
+            "title": "30 PCS Clear Christmas Ornaments Balls, 8cm, 6cm, 5cm Clear Fillable Plastic Ornaments Ball, DIY Christmas Decorations, Hangi",
+            "link": "https://www.amazon.com/Christmas-Ornaments-Fillable-Plastic-Decorations/dp/B0FF4XWPKC/ref=pd_sbs_d_sccl_1_6/145-3958758-7065911?pd_rd_w=a5ONy&content-id=amzn1.sym.0cb10f30-7cd4-4985-9826-58b2c1174c19&pf_rd_p=0cb10f30-7cd4-4985-9826-58b2c1174c19&pf_rd_r=PHSMRTW6ZSYHVK5279HA&pd_rd_wg=FJQI3&pd_rd_r=e41ae694-519c-4e3f-bc7a-56e1fd78290f&pd_rd_i=B0FF4XWPKC&psc=1",
+            "asin": "B0FF4XWPKC",
+            "link_clean": "https://www.amazon.com/Christmas-Ornaments-Fillable-Plastic-Decorations/dp/B0FF4XWPKC/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0FF4XWPKC&device=desktop&engine=amazon_product&language=en_US&shipping_location=US",
+            "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/71jWXEq9tFL._AC_UL165_SR165,165_.jpg",
+            "rating": 4.6,
+            "reviews": 96,
+            "price": "$9.99",
+            "extracted_price": 9.99,
+            "price_unit": "$0.33/count",
+            "extracted_price_unit": 0.33,
+            "old_price": "$13.99",
+            "extracted_old_price": 13.99,
+            "delivery": [
+              "Get it as soon as Tuesday, Oct 27"
+            ]
+          }
+        ]
+      }
+    ],
+    "videos": [
+      {
+        "position": 1,
+        "title": "25 PCS Clear Plastic Fillable Ornaments",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/43fb48e4-925a-432c-8546-e256685b1f22/default.jobtemplate.hls.m3u8",
+        "thumbnail": "https://m.media-amazon.com/images/I/31IFiHNADnL.jpg",
+        "duration": "1:40",
+        "vendor": "OJYUDD",
+        "date": "Nov 5, 2022"
+      },
+      {
+        "position": 2,
+        "title": "Great product",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/176fa811-37d5-4f0f-a640-809ffdd3b146/embedded.cc.default.vertical.jobtemplate.hls.m3u8",
+        "thumbnail": "https://m.media-amazon.com/images/I/617Ao8zHW9L.jpg",
+        "duration": "0:54",
+        "vendor": "LaTisha Knight",
+        "vendor_thumbnail": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SL34_.png",
+        "date": "Oct 24, 2025"
+      },
+      {
+        "position": 3,
+        "title": "Great Memories Can Be Stored Here! #ChristmasCrafts #Holiday2024",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/4e69a597-84a5-4720-b300-2936f102ad0f/default.jobtemplate.hls.m3u8",
+        "thumbnail": "https://m.media-amazon.com/images/I/A1AUvwIJDEL.png",
+        "duration": "2:11",
+        "vendor": "🤩The Real Lori 🌻",
+        "vendor_thumbnail": "https://m.media-amazon.com/images/I/51PEfEeFVRL._CR0,0,512,512_._FMjpg_._SL34_.jpg",
+        "date": "Nov 14, 2024"
+      },
+      {
+        "position": 4,
+        "title": "Perfect for bubbles!",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/3497147a-b8b9-4256-bbbf-0796e564d42c/default.vertical.jobtemplate.hls.m3u8",
+        "thumbnail": "https://m.media-amazon.com/images/I/519MkTSL8GL.jpg",
+        "duration": "0:09",
+        "vendor": "nicole",
+        "vendor_thumbnail": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SL34_.png",
+        "date": "Mar 11, 2026"
+      },
+      {
+        "position": 5,
+        "title": "Exactly as described, exactly what I wanted",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/8fce9758-edbb-42b1-be2e-89114823e35e/default.vertical.jobtemplate.hls.m3u8",
+        "thumbnail": "https://m.media-amazon.com/images/I/41bY0MHGhbL.jpg",
+        "duration": "0:05",
+        "vendor": "HonestButFair",
+        "vendor_thumbnail": "https://m.media-amazon.com/images/S/amazon-avatars-global/0370577a-09ee-42a0-9db0-6fab32292440._CR4%2C0%2C492%2C492_SX460_._SL34_.jpg",
+        "date": "Aug 29, 2024"
+      }
+    ],
+    "product_description": [
+      {
+        "position": 1
+      },
+      {
+        "position": 2,
+        "title": "2.Clear Plastic Fillable Ornaments",
+        "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/3844596d-3fee-4cc4-ab92-8f21bf73ab1b.__CR0,0,970,600_PT0_SX970_V1___.jpg"
+      },
+      {
+        "position": 3,
+        "title": "3",
+        "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/dcd68c22-7008-4712-93ba-0cd86b4c6364.__CR0,0,970,300_PT0_SX970_V1___.jpg"
+      },
+      {
+        "position": 4,
+        "features": [
+          {
+            "position": 1,
+            "title": "Different Size",
+            "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/898ff237-d252-4078-a018-e34ad9b9c242.__CR0,0,220,220_PT0_SX220_V1___.jpg"
+          },
+          {
+            "position": 2,
+            "title": "Easy Hanging",
+            "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/a0e3ae02-5a40-4591-92de-fedc1da62995.__CR0,0,220,220_PT0_SX220_V1___.jpg"
+          },
+          {
+            "position": 3,
+            "title": "Pretty decorations",
+            "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/6fb0f614-9905-4300-8436-2b3b787c24cf.__CR0,0,220,220_PT0_SX220_V1___.jpg"
+          },
+          {
+            "position": 4,
+            "title": "Wide Application",
+            "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/3221e46e-d87b-44a4-ab84-20dd77c983de.__CR0,0,220,220_PT0_SX220_V1___.jpg"
+          }
+        ]
+      },
+      {
+        "position": 5,
+        "title": "5.Plastic Fillable Ornaments",
+        "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/9c16118e-3147-42b6-95e2-8ac6dbde3b68.__CR0,0,970,600_PT0_SX970_V1___.jpg"
+      },
+      {
+        "position": 6,
+        "title": "6",
+        "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/363ebf1b-320f-4b08-bf59-a9c9a5b48432.__CR0,0,970,300_PT0_SX970_V1___.jpg"
+      },
+      {
+        "position": 7,
+        "title": "7.Christmas Ornament",
+        "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/f5c168b4-0b35-456a-a0da-d279ada7b094.__CR0,0,970,600_PT0_SX970_V1___.jpg"
+      }
+    ],
+    "product_details": {
+      "color": "Clear",
+      "occasion": "Christmas, Wedding",
+      "theme": "Horror",
+      "subject_character": "Halloween",
+      "product_style": "Classic",
+      "shape": "Spherical",
+      "item_dimensions_d_x_w_x_h": "1.18\"D x 1.18\"W x 1.18\"H",
+      "package_quantity": "1",
+      "unit_count": "25 Count",
+      "item_weight": "0.33 kg",
+      "number_of_pieces": "25",
+      "brand_name": "OJYUDD",
+      "target_audience": "Adult",
+      "included_components": "Cord And String",
+      "upc": "735133313726",
+      "best_sellers_rank": [
+        {
+          "text": "#6,145 in Home & Kitchen (See Top 100 in Home & Kitchen)",
+          "extracted_rank": 6145,
+          "link": "https://www.amazon.com/gp/bestsellers/home-garden/ref=pd_zg_ts_home-garden",
+          "link_text": "See Top 100 in Home & Kitchen"
+        },
+        {
+          "text": "#1 in Christmas Ball Ornaments",
+          "extracted_rank": 1,
+          "link": "https://www.amazon.com/gp/bestsellers/home-garden/16175654011/ref=pd_zg_hrsr_home-garden",
+          "link_text": "Christmas Ball Ornaments"
+        },
+        {
+          "text": "#11 in Decorative Hanging Ornaments",
+          "extracted_rank": 11,
+          "link": "https://www.amazon.com/gp/bestsellers/home-garden/3735081/ref=pd_zg_hrsr_home-garden",
+          "link_text": "Decorative Hanging Ornaments"
+        }
+      ],
+      "asin": "B09ZNPN1KN",
+      "customer_reviews": "4.4 out of 5 stars",
+      "rating": 4.4,
+      "reviews": 985,
+      "mounting_type": "Hanging",
+      "scent_name": "Unscented",
+      "material_type": "Plastic"
+    },
+    "sponsored_brands": [
+      {
+        "position": 1,
+        "image": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/d2786ab7-8aa7-4979-9f5d-c104d20d6150._CR0,0,1200,628_SX460_CB1169409_QL70_.jpg",
+        "name": "TRENDPLAY",
+        "brand_logo": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/cf520800-f802-4339-b1fe-eccc1fd0c0e2._CR0,0,400,400_AC_SX96_SY48_CB1169409_QL70_.jpg",
+        "headline": "Ball Pit Balls for Babies Toddlers",
+        "link": "https://aax-us-east-retail-direct.amazon.com/x/c/JI53uyYiL528nt7ngeSn_F4AAAGhZGbJ-gEAAAH2AQBvbm9fdHhuX2JpZDMgICBvbm9fdHhuX2ltcDEgICCEv3SC/clv1c_ek-YBQHWFcbSDX0nIrcAJ16RtD5jqvBbdNz4f732v4Pp-tUKDfoOAhLbE2dVM57yqkjBnA5a918z8aKVrZ0JJbeUz3NZCtSbeABj1nTV78QEQ13nOd3vUVHZIflsypqRBaD6gknu5iGMfBTCRCL0OcbJMNyfjB0qEybQzj2hxNKXOasZS5eAuKzMnn338L4JjMG77gNVIwuItKV6eszG-iYIXQ9b5B_mgKyPTvO0Au2seHwaj0ckfLivS0cPZYfm3P8j_qjokhaxkBn_NXyQ3yqAreqiZJcQOe9g7xxMugv5tPP0W_oBXVP4wsQrbG9pMYNlwKt8jzBQYxZ363TtrIe9jHsADDqLIdenPAjjg8qYuV7htAl6_0DsGx_WY2qmr1_KyRsLgxm4XX8XKLzWtI-WuRPsreWjuakrtXbpEe9ohrKMgrPUYsosjX7Z4G9XzxDZAlxPo1pJqZRPYjHiNorBGXU8NO436JHgi2dsKa73eIIzV2lv2ahu5JQQb9FCdGwL9Jp6GihfskrjcSDeKE6VX4-sxb1mcHj_QfE_zNxROfsCZPvaBPff1I45P8HTqvfiyUcHmtIvzxVMJGZbxEaqIT-AhWIxft1TGb3sKENP6TRkyvv0BOk2mAl6kFNJRCEcoIKnJasMk7PfT8sJBw2lp2TsLIcJL6SQze9mnHMtzKV0hQSNaQxu6tn1KOvE7fYiBgTZC29SEtTHW_z0BaZ3xFm8me2a0YEI4qbVWa-h95KWONhf6van87BjXgqK-oGSmTPrd1Tc3d_ZjBoOfS5HvL9XNppXwKGMGfCyocRKQ3bZBjJc0_lFiPgOO3nyomPvyflYgizM-d9ZOfn_p8rstxAakrAZSv2vmh5NoC6FFf48BP89X8Z2dfDsuDmeFoJS0LFSVtYdoDq9AeJy_jxhls_UkMaUoYu55CuvesI_69ueZ6i53EUdsz7pgxpEPtBCq0oKFeun8yKWRNhF43m2-CZ3X6QdHkx_rBIXUns4dD7uju30n13LfXRGiUDzTo7lOm_Pzc7VGY_JYNAATGj53CAAkMp1_DrINmpdI-jBGz2Z6KbXpKPMxXwbNI1zmxfNO3rcSIf2X1eTnfE2lKvKt1r4e2Uz2Ba8RaH0YRNLLG5p1lZ7Q_jRRvg-bpJlo74G8mAVyR7O4kqBh9tmTtY2ojCGhjGFvtpP0yiNznkB3eI2FuPEHcT4OmaW3itfSUA3WWJRTdHzKWQ7qemtXR-NHmXLxes_bTNMyofamJF44bqWw5x7_arzabjiULkWo-quTocNUUb4yJpQhuPhD4fSTY9-3ea0jOS9kNgsMhT2iMA1pjvvbnURdlFnPbQAbd6xQUijghMo0lgvDy2p6lSvqkjRoE3pRfkMr-io0L_XGMG2QXVSnicBvLpEQbtQZibhpL3qR-iNQtE83RskUGFIGDbABTRUflVGxa7esdtV_RJP0U5c_gxy2BTGOv76qYzBKJQ5tC8MLmeSS6l2vNkA8O1Lc3bjqlAhnfLowU6rpBaOXZdSlXDhWKXqlWNXEMvN8q2Oht8fuQU5_3v7MrE4Mg6BptLNgjh7vTrRSaExJg62VpLa9gbA3kIA87GS7T4FNDYtlJymnLV2KrGZ/https://www.amazon.com/stores/page/6490CF9A-1311-4EE8-BF02-6C2C7884DDCE/?_encoding=UTF8&store_ref=SB_A0198451W0HB69QJ48I9-A05378545914HBG2L502&pd_rd_plhdr=t&aaxitk=82fe5107deffb024aa000e0861c55fbf&hsa_cr_id=0&lp_slot=desktop-arbies&lp_page_asin=B09ZNPN1KN&pd_rd_i=ad1&ref_=sbx_be_dp_arbies_mblsd_mb0_bkgd&pd_rd_w=t0TdJ&content-id=amzn1.sym.d4d91f0b-2ea5-4099-b125-c8f96930ac21&pf_rd_p=d4d91f0b-2ea5-4099-b125-c8f96930ac21&pf_rd_r=PHSMRTW6ZSYHVK5279HA&pd_rd_wg=FJQI3&pd_rd_r=e41ae694-519c-4e3f-bc7a-56e1fd78290f"
+      },
+      {
+        "position": 2,
+        "image": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/fc61bb19-9403-4153-bcdd-fd6309b8e7f8._CR0,297,1224,641_SX460_CB1169409_QL70_.jpg",
+        "name": "Sleetly Christmas Ornaments",
+        "brand_logo": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/a52f43d4-1ccb-42d3-abbf-d826915890bd._CR0,0,1767,1767_AC_SX96_SY48_CB1169409_QL70_.jpg",
+        "headline": "White Ornaments for Tree",
+        "link": "https://aax-us-east-retail-direct.amazon.com/x/c/JPN3Lf3J9sccUgEFu6UuJusAAAGhZGbJ_AEAAAH2AQBvbm9fdHhuX2JpZDMgICBvbm9fdHhuX2ltcDEgICCrthm4/clv1c_ek-YBYHXFcbWDn2nI7cAJ16WtD5jqvBb9G4s7OHoj49nrRqkRa2v1oAOg8_wETpa_YT-TAS4835y-tZCHZM3GNmPi0hcy7GfMxhlN5HuvUAGSZ2LiGZgoEtI0vlxvWhF_S-niin7e9BOsMcrROyv1_Hapa38Flfo-vLCy2_qbsQbWk1p-qpPdpnVNCw7Kt8OnPUwRYN7P8dK03_8onhY1GTcTR_fdEbONkMTvptVixJaCxkuynz_EWqZXri_OGP5oFP8wRhotSjcMkai2HRRi6G_al2jobJXKTE3elJ8nQL6b9HtTwfxkq5fkPwlEt3-hTM0LFQT5IB7cph6BQuJJb77YP7IhJh5a1sZdzNwwBVQTUyzvsQXk0ZKMK2817VwvLm35zbJgOlFkVvVBw9ksqq434LLpjC7loa74vupwFH6ObhuCokmtScECjPhIrcBLkJYeNIwnE-VUw2oYR5KbJv0RVRa3dfjf_km9XavDUEAXByLg9t_pognT2zrKoQ5vtSFpTy0T9X2uTbOZ3cTPl3vDKz7--uhSx9zmT_S17iOxa-UjaPBw88tuWwNeqdFEApeIL3TXjDkAPvPJjG6fOCU-zi2bNZ0FoUX8nmuwL98vTBiM4Z_ZW-bNacgzStY9awVvcLgJWeigvnm0PL2hyg8vNECKr0bpu5_5roG-2qe7mnql1suP4D5KHq4h7aUO4XojAu1Y7SZ0La59lvWZdm02723LI-OrN7AqEXN-dh9bwZYimeJeLhOnjBJlaf0qAIWbLaosUnSVyQhw1M9qUwH4uZdW3DRx2h6e59YHV2sCziy2xBQuMfAb70GRuc1ixIUtdYAdas42efhsDATqb3DOeXrp1aWHzbN7TpYbIqTw9MxUKUQ8rjJTYdjkg9Z21ypoM7y4TkECJYwXTvIKxbEEvgXindMG7HToHCy_auyymcUbw_52fyYyXaKux99uCuovg9lOiOjLuDFodvgk4lQ8Ok-KjiwDBFb76ZzR63eHqcAch5aU1tRxnjcVS9Cni6uLThVUtpH6rPVCjPx5UCyrpvMdkbRGtqMpK1QiGxN6tOEtE_b-tTw_6jSx7BAM0ZSJtyO2yFfguaTMfpJ5fwBgFum69HzPcZ30hG8aSSZkKWHHyy7F0jnpzbt4XlbxEPHO-ZbAsVUMiK3AJEg4TELK8U6_ThdWdGD4s2aCuf-HJMVKeE2eZj0_-tfDDeM9AsLFNMI6s8V8ldo5GTSJK7UK9ap-DkwPE4_yXZZMfNNycyEteA1H526TUDNj2-JZl76zqpstsHzcpzmZqjN0bemN2HSuoPqtQa68toep2blluyIZRuLOFJamO7BgNyna-gdt4RTTqpt5o1SeapC7EuMon2_Utk7iCTQUZmpi3p9T3_CCXulrdiLrfk0aCKUWbxSFVDpgSIiZui-969INvG22_pkFVW7fQhVIhVrWLl9-fBOf7857qB203rGNsxEy0AsLFve2YQiqiG_uS0FOnlN3IKLEDX_Oj8Atq_cc1QDq2W4V80c78FvXE_kNdNkO6d3gKLbI93SPWVHg6o7XCD9I4AB-6IKBaaTZz2tpYLBSUpXt7Gc_h66RsJpkwYtUeNW2VaMUOfYKa-HC6o4S6o/https://www.amazon.com/stores/page/C0E8AEA1-28C6-404F-BE4C-1B79ECA7EFD8/?_encoding=UTF8&store_ref=SB_A09983312KOWS2P8502YR-A03647562NCQM0319E078&pd_rd_plhdr=t&aaxitk=3cc8d76e84ea89cb99d19730eec67d9c&hsa_cr_id=0&lp_slot=desktop-arbies&lp_page_asin=B09ZNPN1KN&pd_rd_i=ad2&ref_=sbx_be_dp_arbies_mblsd_mb1_bkgd&pd_rd_w=t0TdJ&content-id=amzn1.sym.d4d91f0b-2ea5-4099-b125-c8f96930ac21&pf_rd_p=d4d91f0b-2ea5-4099-b125-c8f96930ac21&pf_rd_r=PHSMRTW6ZSYHVK5279HA&pd_rd_wg=FJQI3&pd_rd_r=e41ae694-519c-4e3f-bc7a-56e1fd78290f"
+      },
+      {
+        "position": 3,
+        "image": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/564c246f-6315-4cc7-8d8d-40196a779f1f._CR0,357,1500,785_SX460_CB1169409_QL70_.jpg",
+        "name": "OuMuaMua",
+        "brand_logo": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/4a0c7aae-1086-474f-b5fd-43abf858621f._CR0,0,1200,628_AC_SX96_SY48_CB1169409_QL70_.jpg",
+        "headline": "Christmas Tree Ornaments Set",
+        "link": "https://aax-us-east-retail-direct.amazon.com/x/c/JHeKMQ3BOcPndPF3Pu5EC6gAAAGhZGbJ_QEAAAH2AQBvbm9fdHhuX2JpZDMgICBvbm9fdHhuX2ltcDEgICCX2Gwg/clv1c_ek-wBXf2VcbW3jI2m8VSJvBwCsVHk2g1-AMPrZtt1d74D57mT-FQ9a4r4nrMBGi8haygRcsfhsT9ZIBrgpG3g9oY5edJIfAy8LgjrVr2HtQVTxnN2LR5ey5-48nsdtLibum2ZiWnXBN2G-20fosD8PmTIN-ZkjWq4NQwDDW21YR3acqmAkLpUX5ySNVwh6ODT6yipvgrn4DN2NL2nWjwn3bVSN98RhxHkBnthJtZihJaCpmX67pRMKakN6InfonAuUSfGzet-Pjd7SyIRncIsKe_bp2jp7J3-bY0ZhLS_RA8T9XY1Q1ykBYrkPxc3Hgjig9ySN-kxSUVBW5YVlQQ45xtY__4ihhZa1oYezOgJ4OGZL6Oi3J-NqMpRzUA0roD_x8y1Oc9u3wUEesp1qFPJT_sUNVNmtttIimBl04OpajkPsMj5wBg_GgVibBxTqdFjuM1VQC6ZswfaDzwrRK5Qm8RgkZWdzem45rdPAeGp0F7-lIz37Vvvijk2RQAl_FK6IQLdLp2GQm3sVobcdQ_UW7l_9Ytrc-KBRnP0hvbQ9sWXCtcPT-EM5kQAlzPW4CoMNc52ldYHLRMfDreADJFCS6ivJEGFaiC39zvz0mkn08BvmeqgTALno6Sc1_im-INTUAbE37fKvtA3Riz6rQMghAVTW0ZmZ6YCWv6fuKGCDMVbcq_Ff7Y31qIWJmNsfOBmsDiZ2KgNuvqUS2SwgLgv_QXi4yQC7Bkt-LJSv-7K0D4RIjagIEvkrP33zh8MlAMIGqU4xPjvKV2qoAyFVOuvxey7aAWx8axwGK_DSJKqbLWmEE14-K3utd-zJkS0aaXJnjPNDsX47sO21-dMhDW7yj5ZX74aqsMy_JTOPK5ND24rB19kFpn3fJRmdd_xfzT64TsIVwDGps_WmgaCe0qgN5Cbe_J5dr9-C3uq_ZW2yS-yqAW-14VMWRYi4pYHYP2xDBPQkP_KZ_C6-9niHNwciX5yNzS0AP7kL2w3CDdwdnPZvkuikhYU4SWrDjgGKiAsQcMWjqLjj8kkLES6d_h-s6xDZxQ5Jszf34nPNE5rBLoMXvnRyszVvGsCLU3NVwn44uho_vmIQt290qsixMKBk5gMdwo5Uwkg-6f0D5U1c1aGUlEZGHmhK_IoTlEvpPgEAVlOexnxdi5ZY7R5yByIWJxzP6d01pPutadbGpC8mKqsYku8Iz27S7NdUSBxsEqqIVLGyQUk9SsqiF2RlqCb-gfNJXQnZfXwP41ZRRgtOhL7fDz9NYLHgKfp92dpPa6TU-GJKH0YOZDPXHN2jJuEvSdVAPdrd21JGR_KS_nktmAKsOdSHIfhOX29Df698NWOHAKe5_DgD4mnuz6z88IOkLLNIxZPAps1KwmPNgum7vdPpmV8P_V2rxTcx5S1cOF2I4tovTnOYZjeFTCOBKyv54R9ZmHCik42KbdUdW1j3eelycpm2Vaz91EhATHmOhyOrEoXQzLWBaE6bAOCXdl8-gACHhXKSRSRX3g5hr3BlUS3Nrka9peh7d37xbggMf6EPPGTnDGObuGm9Uodpdahv2uRl_Qft9eRNTH3y6ddRShG1AIX0JoaiDWuXOGLny3mvHoSpwp6i7dx2cw_1vN0Jhfe2JdUv4PSPD-RRG8tnmK-pzs6M9Pl-oYbQVECg/https://www.amazon.com/stores/page/B4F1D64F-5FDA-44B4-AD8A-0BBAB51AAE2D/?_encoding=UTF8&store_ref=SB_A03335772OC3XNPVDRLWZ-A01600191X1NQ9FEGCFWU&pd_rd_plhdr=t&aaxitk=fd1bd5f1f623be89ac766206713b2f4f&hsa_cr_id=0&lp_slot=desktop-arbies&lp_page_asin=B09ZNPN1KN&pd_rd_i=ad3&ref_=sbx_be_dp_arbies_mblsd_mb2_bkgd&pd_rd_w=t0TdJ&content-id=amzn1.sym.d4d91f0b-2ea5-4099-b125-c8f96930ac21&pf_rd_p=d4d91f0b-2ea5-4099-b125-c8f96930ac21&pf_rd_r=PHSMRTW6ZSYHVK5279HA&pd_rd_wg=FJQI3&pd_rd_r=e41ae694-519c-4e3f-bc7a-56e1fd78290f"
+      },
+      {
+        "position": 4,
+        "image": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/fc6c7753-45b2-4256-b9e1-04853ad9378f._CR0,357,1500,785_SX460_CB1169409_QL70_.jpg",
+        "name": "Jetec",
+        "brand_logo": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/0bca1992-2604-4d00-87b0-f4597f097545._CR0,0,800,800_AC_SX96_SY48_CB1169409_QL70_.png",
+        "headline": "Clear Round Acrylic Ornaments",
+        "link": "https://aax-us-east-retail-direct.amazon.com/x/c/JIQ1Bseo0NRsCuK8QDhp1k4AAAGhZGbJ_gEAAAH2AQBvbm9fdHhuX2JpZDMgICBvbm9fdHhuX2ltcDEgICCmS5xo/clv1c_ek-wBYHXFcbWDlcLEP_Ps2PkEFXzGpdRjDTotc3jHcuyMZfqO7l15wZ0f6i85kYf6IQZyABzcyNJTYWMg4mVM8YEDU5tCK9Yvilh6eXFUPzwA3DKhyEIGkhg4nt9u3S8TKad6xEyvZ46mJKXOaLwa1PfiI3cllPOlc70q_c7zIAST2eKiJCJeFffshEWqHXcBsxNq7p7PieLUil5sVjspTuvCGd7QEMRb9JziCHkFU3ZLBrxxCwoDTWV8tSKlNexX5_MbS5mdsEbrZVtho6k3Kl4GEiCrtY96-k6UPhufaDDyOqCiWPkpUE4dVWA14jFq5TFsUcYhgiKLt6bjRjr53u-bp5T2nCjKyHdlNLIiHiR6lXUAkT2IBjInKDZsz0I5Pgy0kKOFrukCsDGycKqRce7hXdOFnaXuDBMAHAak7yZ75EPZeJyMU2FLBQj5ngGjduIq1ATSQs4ER-3qtcXi2_TithkPz8MbxcHf1tE7LdfO3keseYRWunDEUEehIstJcgvHis9YMy9LvFWW2zXnFaiKqHmR1F8Rcu-OcEjfrWEKbpZZvap9SdPsxv09Bw391ZFtbYxrYhikTNk8_KAHmeF7fi25qZynnY6zBt1K8EJmzBfRhoxZjzvlha9k6hFWc1cRWJkMU_nzw129h6TIXgjZf4P0fIiuTTX185ZiVZz3vVNxMZ7jeLy-7zy6OVcYQ4D60UZFexgaT2g4tYLGSWT05kVRPQ8XYmczKDpl_WbcXVmlbW1a__1k1TJPNpV9vkle40QB-8nWF8YJX_G1UxlfA0OCDPRSsiRHct68aLGsxh5SBTLCJ4wv-9_T1inibZFJssyzyuNYnd0LM0y-2q58ALzYwaLNQUGyNcxRRXXLi_UtYfAPLU2QDTHDmoaGuGZkBsN_t4bmCpbW8Cj8l1BCvxhRTtdeCPPN7lbmUCzyWqxoS4d8LFzOHijEtWEv9MXx2FjwKDs_32L7sJ7rty8KomWdjb5dUce376CQcU-qRoJmfrxPajQoY0a3hT72kZt8UJnPOTr49AYWPxrPeHSOKvWf09O7FpU123RyhSrR4I7zoYgpc7yo9puYG6g7eDwvFq4OwWSy0eonYgceH3CQqcwIQ0mOXhWkuRxqL4Y1RH9ePB7p24eG9tSbGzo81IuD9T-IpK6nIPr1HQURQpqRbRGHuRZH7nH-_lqjEm45oRrV0JHa-qImLYSHaY6cGmAl9-JIDlVeGkLaXC0qlacLYeH1_HhQ7TGWFx_ghQNnxQ1bLQvWftH5_tsmUYKitOKfjBDqiRKJK3vllaRpOTHn9178PwUMNKgfdp7Ohjw4LbW7dQYYaH2NfHC2q5Mx6WzcGp8k3G5hqpKUkhR-NjtCJ9yTg-pB6ll1HY06c-frNO_OkNsBypirKoAVz9wEjNdbRNJBj1t2zaS-B9G4SOF0JFWtmK34cIlXvFdJLjV_vypfsDubCKaPpa8nUJse26kvt4KxScMzh12VHwG5xTzeV2ZaHoiN-8eylc79iXhqHffi9Wlvtw4FOpfsADRnaG6ezxGnZ6Jh6JnhmnpVEhPUAqmLRPWXTy8WeaejFKBZlxCUlfIlRYGBt1Bv998M14vOeDvjOyQ6DGftG8/https://www.amazon.com/stores/page/9303FE92-8E86-4B4E-8D17-4B6FA35B7D4C/?_encoding=UTF8&store_ref=SB_A0934844320O0T2OSWGXP-A1032854272YPRZK3LD56&pd_rd_plhdr=t&aaxitk=a6ddc4294ba805a38b9260437c718859&hsa_cr_id=0&lp_slot=desktop-arbies&lp_page_asin=B09ZNPN1KN&pd_rd_i=ad4&ref_=sbx_be_dp_arbies_mblsd_mb3_bkgd&pd_rd_w=t0TdJ&content-id=amzn1.sym.d4d91f0b-2ea5-4099-b125-c8f96930ac21&pf_rd_p=d4d91f0b-2ea5-4099-b125-c8f96930ac21&pf_rd_r=PHSMRTW6ZSYHVK5279HA&pd_rd_wg=FJQI3&pd_rd_r=e41ae694-519c-4e3f-bc7a-56e1fd78290f"
+      },
+      {
+        "position": 5,
+        "image": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/e9703740-e569-4ca6-ae70-19a1d8337d85._CR0,381,1600,837_SX460_CB1169409_QL70_.jpg",
+        "name": "Jenaai",
+        "brand_logo": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/fcd72549-d29b-4ac3-ba05-23c05cc9b496._CR0,0,559,172_AC_SX96_SY48_CB1169409_QL70_.png",
+        "headline": "12 Pcs 2.36 Inch Christmas Glass Ball Ornaments",
+        "link": "https://aax-us-east-retail-direct.amazon.com/x/c/JMgUCpjElsCYHIwvHCePg3cAAAGhZGbKAAEAAAH2AQBvbm9fdHhuX2JpZDMgICBvbm9fdHhuX2ltcDEgICCJySU_/clv1c_ek-wBfHXFbbWzjK3YivOrRfcuXaZLo9pXMMVU9jpiw5w-UHv2qNKByy7UwFVAPn4jOQIJoOWsyB9avDlg88p-220_qK7YIWWwQklnq6lxK2ympNilK5fUKw64uEYzqI6oYiPyyrjsGzQFIWZ6NRv_sdYouWs1lTr5kH83iE6JAaeWHgn0UiMpfVUxILOqgFM3k81fmlHl7doFIK_skxm1yPfBFsLMGwKplf062sIa1M1zYKzcvwFMKb08u_LRWAhvlzDhXCin-J4_sCR03r6oqtOIPCTKKnCOEhYgKrjxdQgaAxP95g1IZzpDazVB4-dKY-x6g5L69DWofIuDLFTNXagokm8_XPy2iT7BbjsQKzGQsv7SijgUf_9rmv097z4AHBUx5_9Iok_fJzwrAnKDudXqeLkvspKrMKNFyAwd7tFQmSKzHcx50qTJQUhhn9KYRzW6cqQRHrWcy0XN9uXYNv4xeHb-8iptHVb-X5A6KvmiB_8BgMOVb2sjnC48A2oVyh6c1usn9tErTDhEzZn4hZSnw0nMfzrjvKN3zXE5W5NeFARNgdI3xJ3pMgdn3MyqHQWGmcumuOhxqCbQYhBAr5EtNqQHjm_W4U-u-r6RaNWdPGiOxG0MCX9YsguQQHXr2XbXP1ScNRATdOe7mN7ovDI4rTu2hQMYaRfag-D2z4eNkLMnygibAhfC2b33VseAX1UTStVhkRlgZRLQzP6RpXnMM6YMI5C1Ifj9FPBJXgTGUnEmw4eJI2tQuDPQk8yS19Wx-nLy_qu2S0CTJ2FJziJD7k7b7TSW2k3cX5WTr9u0YY2xfa4vOqG0rMRWU24AnU9th6C61mKIMI-yaKkEc9MvALfoPc5DTguO8F1ixt_IrYB8iEAXBCFPMlUDLgxfh1IC6Vgcul8Mzgfa0z_Y56-KNWSod67AMJCfC6eUwQJRssLa5FDB0mn6PwLu4Aq9DX0WmVkSCEP-EsvYYxB1dTkHom6gRBKb_oXneBxk1owPnBmSxQPFIapKJIJb3WVaYMMVw8eU_jqFPLpLz_B_W4THEGCUQmTcVzZDUyE6FjKttEeXPclP0Ak4-4f0ULYVANi_w_sRfP6j40_n1COLpus6iNpeu9pcLvln9YRLTPh8ZATcyYlABnFXj4G331gtdQbhCSI386iQcF0j1IWVJo9e2icMTE-PTPEtodJ7f1FcqYyG4pMNjuBEE-sZN__UANsqOMb11Lb8-kG-ygn-FqA-DlbfeOpwspPxDS12-mO3NhbpsgPu3ZfA46MVjSvRAGLRPfcJ3TGs6c5XRprR0_WbKjsi1T9FfzjHZdsOY-ULgZn5IqqtM2vOVutkEA59MM-HqBzY4y5IVFbulJLJ84EdzVtDFA47MpEos0QThBgNp8yM_JRKiwsZycxSMXc5ljeZj2NTTKxu9BGX7gUQrLcbtIe94S3cJ1p_BG2K4jsVxJqX_BitOppyAPryofM0FKOPm8vwHc80f5eWutCwJaGYb3pr0gXVIQIsj3VLQHSshdtsBBf3U81kHUO9lI_UaWB3A-BUNAG4zJ0RyTy0CodbcFSY_12DNrXkSCFzysI3znICBsQhlpmnweSLHDCxmAJoxGefdb-Qy_T5wofhsvVjfmECD3sPQ/https://www.amazon.com/stores/page/62AFC084-22EA-4316-8A63-B073FEC595D5/?_encoding=UTF8&store_ref=SB_A10468582HHVNG1RT738Z-A036568928HEM1DHJ3N96&pd_rd_plhdr=t&aaxitk=e92892daf2d48ab809f8b15ea8427db0&hsa_cr_id=0&lp_slot=desktop-arbies&lp_page_asin=B09ZNPN1KN&pd_rd_i=ad5&ref_=sbx_be_dp_arbies_mblsd_mb4_bkgd&pd_rd_w=t0TdJ&content-id=amzn1.sym.d4d91f0b-2ea5-4099-b125-c8f96930ac21&pf_rd_p=d4d91f0b-2ea5-4099-b125-c8f96930ac21&pf_rd_r=PHSMRTW6ZSYHVK5279HA&pd_rd_wg=FJQI3&pd_rd_r=e41ae694-519c-4e3f-bc7a-56e1fd78290f"
+      }
+    ],
+    "reviews_information": {
+      "summary": {
+        "text": "Customers find these fillable ornaments to be of good quality, versatile for crafts and projects, and appreciate their appearance and value for money. The size variety receives mixed feedback - while customers like the variety of sizes, some find them too small. Assembly experiences are mixed, with some finding them very easy to snap together while others say they don't snap together easily. Durability is also mixed, with some saying they're durable enough while others report they come apart too easily.",
+        "insights": [
+          {
+            "title": "Quality",
+            "sentiment": "positive",
+            "mentions": {
+              "total": 49,
+              "positive": 39,
+              "negative": 10
+            },
+            "summary": "Customers find these ornaments to be of good quality and highly recommend them.",
+            "examples": [
+              {
+                "position": 1,
+                "snippet": "...They fit together easily and were of good quality. I could envision other crafts to make with them.",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R37X2TDBJVJ94E"
+              },
+              {
+                "position": 2,
+                "snippet": "...They did come apart if you didn’t put them together well. But great otherwise!",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R3PFFZDCJSXTNC"
+              },
+              {
+                "position": 3,
+                "snippet": "good product",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R2RM8DJ3DOS32S"
+              },
+              {
+                "position": 4,
+                "snippet": "...We were disappointed because some of the pieces don't match up: There were more tops than bottoms....",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/ROX3ANIK13HRR"
+              }
+            ]
+          },
+          {
+            "title": "Versatility",
+            "sentiment": "positive",
+            "mentions": {
+              "total": 23,
+              "positive": 23,
+              "negative": 0
+            },
+            "summary": "Customers find these ornaments versatile and great for crafts, with one mentioning they work well for treasure hunts and another noting the endless possibilities for creativity.",
+            "examples": [
+              {
+                "position": 1,
+                "snippet": "Great for crafting.",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R4ZP441OT3G0A"
+              },
+              {
+                "position": 2,
+                "snippet": "Just what I needed for my Halloween decorating. Can't wait til I get finished, so I can see how it all worked out.",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/RR3FD9BNYXGWZ"
+              },
+              {
+                "position": 3,
+                "snippet": "Great for projects",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R2P3ZT5ID4AVI9"
+              },
+              {
+                "position": 4,
+                "snippet": "These were exactly what I needed. I used these for my pumpkin decorating for work. Very easy to put to get her and hold up well....",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/RDIS3IRJX4F96"
+              }
+            ]
+          },
+          {
+            "title": "Functionality",
+            "sentiment": "positive",
+            "mentions": {
+              "total": 21,
+              "positive": 18,
+              "negative": 3
+            },
+            "summary": "Customers find that the ornaments work great, with one mentioning they function well as rain or dew drops.",
+            "examples": [
+              {
+                "position": 1,
+                "snippet": "Used them in my classroom for Christmas activities! Worked great",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R13C63Z7DC2N0F"
+              },
+              {
+                "position": 2,
+                "snippet": "They did the job! Pay attention to that it is a variety of sizes! Easy to use/assemble. Not fragile - durable!",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R3O1HH8UNQTQMW"
+              },
+              {
+                "position": 3,
+                "snippet": "These worked perfectly for my DIY! No problems.",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R1B0KZ6E9E6ZZ5"
+              },
+              {
+                "position": 4,
+                "snippet": "Worked for what I wanted them for",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R29NPRMQJGUDAP"
+              }
+            ]
+          },
+          {
+            "title": "Value for money",
+            "sentiment": "positive",
+            "mentions": {
+              "total": 15,
+              "positive": 11,
+              "negative": 4
+            },
+            "summary": "Customers find these ornaments to be good value for money.",
+            "examples": [
+              {
+                "position": 1,
+                "snippet": "...They are a great value because you get so many for the price too.",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R3FITH690A5VMO"
+              },
+              {
+                "position": 2,
+                "snippet": "This is what we needed for our Halloween bubble cauldron craft. Very affordable....",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/ROX3ANIK13HRR"
+              },
+              {
+                "position": 3,
+                "snippet": "...The problem is they do not stay together. Waste of money.",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R1ZS4FGB3FY2VM"
+              },
+              {
+                "position": 4,
+                "snippet": "Just the right amount of baubles for the price. We created all kinds and still have more to create antique ones",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R3C777EXHG9D82"
+              }
+            ]
+          },
+          {
+            "title": "Appearance",
+            "sentiment": "positive",
+            "mentions": {
+              "total": 12,
+              "positive": 10,
+              "negative": 2
+            },
+            "summary": "Customers find that the ornaments turn out cute.",
+            "examples": [
+              {
+                "position": 1,
+                "snippet": "...these to make \"bubbles\" at the bottom of a fake waterfall and they look great!",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R3FF5DECZG0C3H"
+              },
+              {
+                "position": 2,
+                "snippet": "...It turned out SO cute!!!",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/REKMUNYVRGVNY"
+              },
+              {
+                "position": 3,
+                "snippet": "These are really cute and a great DIY! I am making different wicked theme ornaments. I ended up using some modge podge, glitter and stickers....",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R1TJ0A7U0IVS6Y"
+              },
+              {
+                "position": 4,
+                "snippet": "...We spray painted them and put lights in and they looked great.",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R2FGA0BM6OHZ62"
+              }
+            ]
+          },
+          {
+            "title": "Size variety",
+            "sentiment": "mixed",
+            "mentions": {
+              "total": 34,
+              "positive": 18,
+              "negative": 16
+            },
+            "summary": "Customers have mixed opinions about the ornament sizes, with some appreciating the variety while others find them too small.",
+            "examples": [
+              {
+                "position": 1,
+                "snippet": "i like the variety of sizes",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R2C54KWIM5I5JN"
+              },
+              {
+                "position": 2,
+                "snippet": "Very small, read description (as I didn’t)",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R1JHID254UGH3Q"
+              },
+              {
+                "position": 3,
+                "snippet": "...They really made the cookies look great. They come in different sizes so I was only able to use the (5) largest ones which gave me about 10 snow...",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R1MMUM7T05W6GY"
+              },
+              {
+                "position": 4,
+                "snippet": "...They are tiny and will be returning!!",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R1YDUSL852X7VE"
+              }
+            ]
+          },
+          {
+            "title": "Assembly",
+            "sentiment": "mixed",
+            "mentions": {
+              "total": 21,
+              "positive": 9,
+              "negative": 12
+            },
+            "summary": "Customers have mixed experiences with assembling the ornaments, with some finding them very easy to snap together while others report difficulty putting them together.",
+            "examples": [
+              {
+                "position": 1,
+                "snippet": "...Assembly required. We also interspersed some of the clear iridescent balls for a little variety....",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R3IKN3KWMOZQA2"
+              },
+              {
+                "position": 2,
+                "snippet": "...They are so easy to assemble and the variety of different sizes is exactly what I needed!",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/RBD72E9AW8PMS"
+              },
+              {
+                "position": 3,
+                "snippet": "Hard to fit together and don’t stay snapped together.",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R1GVYF5CKSLOT4"
+              },
+              {
+                "position": 4,
+                "snippet": "...They were very easy to snap together, and none of them broke or popped open....",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R3FITH690A5VMO"
+              }
+            ]
+          },
+          {
+            "title": "Durability",
+            "sentiment": "mixed",
+            "mentions": {
+              "total": 17,
+              "positive": 8,
+              "negative": 9
+            },
+            "summary": "Customers have mixed experiences with the ornaments' durability, with some finding them durable enough and noting that none of them broke or popped open, while others report that they come apart too easily and dent easily.",
+            "examples": [
+              {
+                "position": 1,
+                "snippet": "I like the sizing. I used them for a Halloween craft. However, a few were cracked....",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R37WJ1EZX45ENR"
+              },
+              {
+                "position": 2,
+                "snippet": "...A few have fallen a few times as I was working with them but they didn't break.",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R2LRW16XTNC0IJ"
+              },
+              {
+                "position": 3,
+                "snippet": "They are very difficult to put together, and Crack easily",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R2O3GE6106CNL9"
+              },
+              {
+                "position": 4,
+                "snippet": "...Easy to use/assemble. Not fragile - durable!",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R3O1HH8UNQTQMW"
+              }
+            ]
+          }
+        ],
+        "customer_reviews": {
+          "5 star": 73,
+          "4 star": 11,
+          "3 star": 8,
+          "2 star": 4,
+          "1 star": 4
+        }
+      }
+    }
+  }
+}

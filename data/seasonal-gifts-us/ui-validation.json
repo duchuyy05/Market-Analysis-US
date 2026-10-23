@@ -1,0 +1,20 @@
+{
+  "status": "logic_passed",
+  "checked_at_utc": "2026-10-23T06:59:12.104Z",
+  "months": [
+    10,
+    11,
+    12
+  ],
+  "checks": [
+    "dynamic month/year controls",
+    "chart columns and missing future months",
+    "catalog/search/niche/review filters",
+    "embedded content height message",
+    "embedded product message to parent viewport",
+    "standalone product dialog",
+    "real production JavaScript"
+  ],
+  "browser_visual_qa": "not_run: browser inventory empty; in-app browser unavailable",
+  "scope": "Executed production JavaScript with a minimal DOM adapter; does not verify browser layout"
+}

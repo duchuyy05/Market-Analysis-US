@@ -1,0 +1,1900 @@
+{
+  "provider": "serpapi",
+  "endpoint": "https://serpapi.com/search.json",
+  "parameters": {
+    "engine": "amazon_product",
+    "asin": "B07WG18RLT",
+    "amazon_domain": "amazon.com",
+    "language": "en_US",
+    "shipping_location": "US",
+    "device": "mobile",
+    "output": "json"
+  },
+  "fetched_at_utc": "2026-10-22T16:14:15.233051+00:00",
+  "raw_file": "supplements/supplement-2026-10-22T1610589019850000-ed08e5/raw/serpapi-28174496cc1af2d9acc3.json",
+  "response": {
+    "search_metadata": {
+      "id": "6ada36582f08571a04c848ba",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/7ikDG8RcBgqh5_LQ0iVTgDPHngDn8T8qtiABVXvec3k/6ada36582f08571a04c848ba.json",
+      "markdown_endpoint": "https://serpapi.com/searches/7ikDG8RcBgqh5_LQ0iVTgDPHngDn8T8qtiABVXvec3k/6ada36582f08571a04c848ba.md",
+      "created_at": "2026-10-22 16:14:16 UTC",
+      "processed_at": "2026-10-22 16:14:16 UTC",
+      "amazon_product_url": "https://www.amazon.com/dp/B07WG18RLT/?language=en_US",
+      "raw_html_file": "https://serpapi.com/searches/7ikDG8RcBgqh5_LQ0iVTgDPHngDn8T8qtiABVXvec3k/6ada36582f08571a04c848ba.html",
+      "total_time_taken": 15.39
+    },
+    "search_parameters": {
+      "engine": "amazon_product",
+      "asin": "B07WG18RLT",
+      "amazon_domain": "amazon.com",
+      "language": "en_US",
+      "device": "mobile",
+      "shipping_location": "US"
+    },
+    "product_results": {
+      "categories": [
+        {
+          "position": 1,
+          "name": "Home & Kitchen",
+          "link": "https://www.amazon.com/home-garden-kitchen-furniture-bedding/b/ref=m_dp_bc_1?ie=UTF8&node=1055398",
+          "node": "1055398",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=mobile&engine=amazon&language=en_US&node=1055398&shipping_location=US"
+        },
+        {
+          "position": 2,
+          "name": "Seasonal Décor",
+          "link": "https://www.amazon.com/seasonal-d%C3%A9cor/b/ref=m_dp_bc_2?ie=UTF8&node=13679381",
+          "node": "13679381",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=mobile&engine=amazon&language=en_US&node=13679381&shipping_location=US"
+        },
+        {
+          "position": 3,
+          "name": "Seasonal Lighting",
+          "link": "https://www.amazon.com/seasonal-lighting/b/ref=m_dp_bc_3?ie=UTF8&node=3736751",
+          "node": "3736751",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=mobile&engine=amazon&language=en_US&node=3736751&shipping_location=US"
+        },
+        {
+          "position": 4,
+          "name": "Indoor String Lights",
+          "link": "https://www.amazon.com/indoor-string-lights/b/ref=m_dp_bc_4?ie=UTF8&node=15704871",
+          "node": "15704871",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=mobile&engine=amazon&language=en_US&node=15704871&shipping_location=US"
+        }
+      ],
+      "asin": "B07WG18RLT",
+      "title": "Brightown 12 Pack 7ft Battery Operated LED Fairy Lights for Xmas Decoration 20 LED Bulbs, Warm White, Waterproof, Flexible Silver Wire, Lovely for DIY Crafts Wedding Table Centerpieces Decoration",
+      "link": "https://www.amazon.com/stores/Brightown/page/2C7A50B8-E617-4BA2-A941-4284B5995300?lp_asin=B07WG18RLT&ref_=ast_bln&store_ref=bl_ast_dp_brandlogo_sto",
+      "link_clean": "https://www.amazon.com/dp/B07WG18RLT/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B07WG18RLT&device=mobile&engine=amazon_product&language=en_US&shipping_location=US",
+      "badges": [
+        "Amazon's Choice"
+      ],
+      "variants": [
+        {
+          "title": "size_name",
+          "items": [
+            {
+              "position": 1,
+              "asin": "B07WG18RLT",
+              "name": "12 PC",
+              "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B07WG18RLT&device=mobile&engine=amazon_product&language=en_US&shipping_location=US"
+            },
+            {
+              "position": 2,
+              "asin": "B0BX9PXKTG",
+              "name": "24 PC",
+              "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0BX9PXKTG&device=mobile&engine=amazon_product&language=en_US&shipping_location=US"
+            }
+          ]
+        },
+        {
+          "title": "color_name",
+          "items": [
+            {
+              "position": 1,
+              "asin": "B07WG18RLT",
+              "name": "6 Colors",
+              "image": "https://m.media-amazon.com/images/I/41Ae1MDJLtL._QL92_SH45_SS100_.jpg",
+              "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B07WG18RLT&device=mobile&engine=amazon_product&language=en_US&shipping_location=US"
+            },
+            {
+              "position": 2,
+              "asin": "B0BX9PXKTG",
+              "name": "Purple & Orange",
+              "image": "https://m.media-amazon.com/images/I/51hK81hAp8L._QL92_SH45_SS100_.jpg",
+              "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0BX9PXKTG&device=mobile&engine=amazon_product&language=en_US&shipping_location=US"
+            },
+            {
+              "position": 3,
+              "asin": "B085Y5VNKR",
+              "name": "White",
+              "image": "https://m.media-amazon.com/images/I/51zg-i2HI0L._QL92_SH45_SS100_.jpg",
+              "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B085Y5VNKR&device=mobile&engine=amazon_product&language=en_US&shipping_location=US"
+            },
+            {
+              "position": 4,
+              "asin": "B0B99QG55R",
+              "name": "Pink",
+              "image": "https://m.media-amazon.com/images/I/51bjPKZIxiL._QL92_SH45_SS100_.jpg",
+              "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0B99QG55R&device=mobile&engine=amazon_product&language=en_US&shipping_location=US"
+            },
+            {
+              "position": 5,
+              "asin": "B0B99L3Z1J",
+              "name": "Red & Green",
+              "image": "https://m.media-amazon.com/images/I/51z7aT3YLnL._QL92_SH45_SS100_.jpg",
+              "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0B99L3Z1J&device=mobile&engine=amazon_product&language=en_US&shipping_location=US"
+            },
+            {
+              "position": 6,
+              "asin": "B0B99V8KMB",
+              "name": "Red",
+              "image": "https://m.media-amazon.com/images/I/51FU3Nn0ZxL._QL92_SH45_SS100_.jpg",
+              "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0B99V8KMB&device=mobile&engine=amazon_product&language=en_US&shipping_location=US"
+            },
+            {
+              "position": 7,
+              "asin": "B0B99WM9FV",
+              "name": "Blue & White",
+              "image": "https://m.media-amazon.com/images/I/51gf+8RWSuL._QL92_SH45_SS100_.jpg",
+              "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0B99WM9FV&device=mobile&engine=amazon_product&language=en_US&shipping_location=US"
+            },
+            {
+              "position": 8,
+              "asin": "B0B99PHFNQ",
+              "name": "Blue",
+              "image": "https://m.media-amazon.com/images/I/51Z-gvXuE8L._QL92_SH45_SS100_.jpg",
+              "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0B99PHFNQ&device=mobile&engine=amazon_product&language=en_US&shipping_location=US"
+            },
+            {
+              "position": 9,
+              "asin": "B0BNQ334MH",
+              "name": "Pastel",
+              "image": "https://m.media-amazon.com/images/I/517tohNkU8L._QL92_SH45_SS100_.jpg",
+              "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0BNQ334MH&device=mobile&engine=amazon_product&language=en_US&shipping_location=US"
+            },
+            {
+              "position": 10,
+              "asin": "B0C1MYZTN1",
+              "name": "Red White & Blue",
+              "image": "https://m.media-amazon.com/images/I/61IGzy8DsWL._QL92_SH45_SS100_.jpg",
+              "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0C1MYZTN1&device=mobile&engine=amazon_product&language=en_US&shipping_location=US"
+            },
+            {
+              "position": 11,
+              "asin": "B08B8B8CKG",
+              "name": "Orange",
+              "image": "https://m.media-amazon.com/images/I/51PMRqWZvIL._QL92_SH45_SS100_.jpg",
+              "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B08B8B8CKG&device=mobile&engine=amazon_product&language=en_US&shipping_location=US"
+            },
+            {
+              "position": 12,
+              "asin": "B08BF79TX5",
+              "name": "Purple",
+              "image": "https://m.media-amazon.com/images/I/51c59atD8QL._QL92_SH45_SS100_.jpg",
+              "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B08BF79TX5&device=mobile&engine=amazon_product&language=en_US&shipping_location=US"
+            },
+            {
+              "position": 13,
+              "asin": "B0DG5HDXRP",
+              "name": "Multicolor",
+              "image": "https://m.media-amazon.com/images/I/51VT20hcPTL._QL92_SH45_SS100_.jpg",
+              "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0DG5HDXRP&device=mobile&engine=amazon_product&language=en_US&shipping_location=US"
+            },
+            {
+              "position": 14,
+              "asin": "B0C6SWSFR2",
+              "name": "Warm White & White",
+              "image": "https://m.media-amazon.com/images/I/51M0Cop91aL._QL92_SH45_SS100_.jpg",
+              "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0C6SWSFR2&device=mobile&engine=amazon_product&language=en_US&shipping_location=US"
+            },
+            {
+              "position": 15,
+              "asin": "B07WG18RLT",
+              "name": "Warm White",
+              "image": "https://m.media-amazon.com/images/I/51NUU9NxDvL._QL92_SH45_SS100_.jpg",
+              "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B07WG18RLT&device=mobile&engine=amazon_product&language=en_US&shipping_location=US"
+            }
+          ]
+        }
+      ],
+      "variant_combinations": [
+        {
+          "dimensions": {
+            "color": "6 Colors",
+            "size": "12 PC"
+          },
+          "asin": "B08BF3S2PW",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B08BF3S2PW&device=mobile&engine=amazon_product&language=en_US&shipping_location=US"
+        },
+        {
+          "dimensions": {
+            "color": "6 Colors",
+            "size": "24 PC"
+          },
+          "unavailable": true
+        },
+        {
+          "dimensions": {
+            "color": "Purple & Orange",
+            "size": "12 PC"
+          },
+          "asin": "B0D7ZZB4QS",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0D7ZZB4QS&device=mobile&engine=amazon_product&language=en_US&shipping_location=US"
+        },
+        {
+          "dimensions": {
+            "color": "Purple & Orange",
+            "size": "24 PC"
+          },
+          "unavailable": true
+        },
+        {
+          "dimensions": {
+            "color": "White",
+            "size": "12 PC"
+          },
+          "asin": "B085Y5VNKR",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B085Y5VNKR&device=mobile&engine=amazon_product&language=en_US&shipping_location=US"
+        },
+        {
+          "dimensions": {
+            "color": "White",
+            "size": "24 PC"
+          },
+          "asin": "B0C1MW637Y",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0C1MW637Y&device=mobile&engine=amazon_product&language=en_US&shipping_location=US"
+        },
+        {
+          "dimensions": {
+            "color": "Pink",
+            "size": "12 PC"
+          },
+          "asin": "B0B99QG55R",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0B99QG55R&device=mobile&engine=amazon_product&language=en_US&shipping_location=US"
+        },
+        {
+          "dimensions": {
+            "color": "Pink",
+            "size": "24 PC"
+          },
+          "unavailable": true
+        },
+        {
+          "dimensions": {
+            "color": "Red & Green",
+            "size": "12 PC"
+          },
+          "asin": "B0B99L3Z1J",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0B99L3Z1J&device=mobile&engine=amazon_product&language=en_US&shipping_location=US"
+        },
+        {
+          "dimensions": {
+            "color": "Red & Green",
+            "size": "24 PC"
+          },
+          "unavailable": true
+        },
+        {
+          "dimensions": {
+            "color": "Red",
+            "size": "12 PC"
+          },
+          "asin": "B0B99V8KMB",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0B99V8KMB&device=mobile&engine=amazon_product&language=en_US&shipping_location=US"
+        },
+        {
+          "dimensions": {
+            "color": "Red",
+            "size": "24 PC"
+          },
+          "unavailable": true
+        },
+        {
+          "dimensions": {
+            "color": "Blue & White",
+            "size": "12 PC"
+          },
+          "asin": "B0B99WM9FV",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0B99WM9FV&device=mobile&engine=amazon_product&language=en_US&shipping_location=US"
+        },
+        {
+          "dimensions": {
+            "color": "Blue & White",
+            "size": "24 PC"
+          },
+          "unavailable": true
+        },
+        {
+          "dimensions": {
+            "color": "Blue",
+            "size": "12 PC"
+          },
+          "asin": "B0B99PHFNQ",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0B99PHFNQ&device=mobile&engine=amazon_product&language=en_US&shipping_location=US"
+        },
+        {
+          "dimensions": {
+            "color": "Blue",
+            "size": "24 PC"
+          },
+          "unavailable": true
+        },
+        {
+          "dimensions": {
+            "color": "Pastel",
+            "size": "12 PC"
+          },
+          "asin": "B0BNQ334MH",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0BNQ334MH&device=mobile&engine=amazon_product&language=en_US&shipping_location=US"
+        },
+        {
+          "dimensions": {
+            "color": "Pastel",
+            "size": "24 PC"
+          },
+          "unavailable": true
+        },
+        {
+          "dimensions": {
+            "color": "Red White & Blue",
+            "size": "12 PC"
+          },
+          "asin": "B0C1MYZTN1",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0C1MYZTN1&device=mobile&engine=amazon_product&language=en_US&shipping_location=US"
+        },
+        {
+          "dimensions": {
+            "color": "Red White & Blue",
+            "size": "24 PC"
+          },
+          "unavailable": true
+        },
+        {
+          "dimensions": {
+            "color": "Orange",
+            "size": "12 PC"
+          },
+          "asin": "B08B8B8CKG",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B08B8B8CKG&device=mobile&engine=amazon_product&language=en_US&shipping_location=US"
+        },
+        {
+          "dimensions": {
+            "color": "Orange",
+            "size": "24 PC"
+          },
+          "unavailable": true
+        },
+        {
+          "dimensions": {
+            "color": "Purple",
+            "size": "12 PC"
+          },
+          "asin": "B08BF79TX5",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B08BF79TX5&device=mobile&engine=amazon_product&language=en_US&shipping_location=US"
+        },
+        {
+          "dimensions": {
+            "color": "Purple",
+            "size": "24 PC"
+          },
+          "unavailable": true
+        },
+        {
+          "dimensions": {
+            "color": "Multicolor",
+            "size": "12 PC"
+          },
+          "asin": "B0DG5HDXRP",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0DG5HDXRP&device=mobile&engine=amazon_product&language=en_US&shipping_location=US"
+        },
+        {
+          "dimensions": {
+            "color": "Multicolor",
+            "size": "24 PC"
+          },
+          "unavailable": true
+        },
+        {
+          "dimensions": {
+            "color": "Warm White & White",
+            "size": "12 PC"
+          },
+          "asin": "B0C6SWSFR2",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0C6SWSFR2&device=mobile&engine=amazon_product&language=en_US&shipping_location=US"
+        },
+        {
+          "dimensions": {
+            "color": "Warm White & White",
+            "size": "24 PC"
+          },
+          "unavailable": true
+        },
+        {
+          "dimensions": {
+            "color": "Warm White",
+            "size": "12 PC"
+          },
+          "asin": "B07WG18RLT",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B07WG18RLT&device=mobile&engine=amazon_product&language=en_US&shipping_location=US"
+        },
+        {
+          "dimensions": {
+            "color": "Warm White",
+            "size": "24 PC"
+          },
+          "asin": "B0BX9PXKTG",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0BX9PXKTG&device=mobile&engine=amazon_product&language=en_US&shipping_location=US"
+        }
+      ],
+      "brand": ".premium-logoByLine-brand-logo { max-height: 36px; height: auto; max-width: min(154px, 100%); min-width: 4px; width: auto; object-fit: contain; } Visit the Store, Brightown Brightown Visit the Store",
+      "thumbnail": "https://m.media-amazon.com/images/I/81hC1pcYxUL._AC_UF894,1000_QL80_FMwebp_.jpg",
+      "thumbnails": [
+        "https://m.media-amazon.com/images/I/81hC1pcYxUL._AC_UF894,1000_QL80_FMwebp_.jpg",
+        "https://m.media-amazon.com/images/I/51g6PLfwaKL._AC_UF894,1000_QL80_FMwebp_.jpg",
+        "https://m.media-amazon.com/images/I/711tht1QarL._AC_UF894,1000_QL80_FMwebp_.jpg",
+        "https://m.media-amazon.com/images/I/51Fiw8taUeL._AC_UF894,1000_QL80_FMwebp_.jpg",
+        "https://m.media-amazon.com/images/I/51-rLi7ZAzL._AC_UF894,1000_QL80_FMwebp_.jpg",
+        "https://m.media-amazon.com/images/I/618ybeZYYqL._AC_UF894,1000_QL80_FMwebp_.jpg",
+        "https://m.media-amazon.com/images/I/51zqn4ckEsL._AC_UF894,1000_QL80_FMwebp_.jpg",
+        "https://m.media-amazon.com/images/I/516LjDAXxPL._AC_UF894,1000_QL80_FMwebp_.jpg",
+        "https://m.media-amazon.com/images/I/51Zx-oy7XFL._AC_UF894,1000_QL80_FMwebp_.jpg"
+      ],
+      "rating": 4.6,
+      "reviews": 50857,
+      "bought_last_month": "10K+ bought in past month",
+      "discount": "-10%",
+      "price": "$8.99",
+      "extracted_price": 8.99,
+      "price_unit": "$0.75 / count",
+      "extracted_price_unit": 0.75,
+      "old_price": "$9.99",
+      "extracted_old_price": 9.99,
+      "promotions": [
+        {
+          "type": "offer",
+          "text": "Up to 10% off",
+          "discount_percent": 10,
+          "link": "https://www.amazon.com/promotion/psp/A1NS0BCERLK5DV?ref=psp_external&redirectAsin=B07WG18RLT&redirectMerchantId=A4R7JCZAIZRSD&ref=cxcw_psp_A1NS0BCERLK5DV&source=dp_cxcw"
+        }
+      ],
+      "offers": [
+        "Up to 10% off if you qualify"
+      ],
+      "delivery": [
+        "FREE delivery Tuesday, October 27 on orders shipped by Amazon over $35. Order within 12 hrs 45 mins"
+      ],
+      "stock": "In Stock"
+    },
+    "purchase_options": {
+      "buy_new": {
+        "caption": "Regular Price",
+        "price": "$9.99",
+        "extracted_price": 9.99,
+        "price_unit": "$0.83 / count",
+        "extracted_price_unit": 0.83,
+        "delivery": [
+          "FREE delivery Tuesday, October 27 on orders shipped by Amazon over $35. Order within 12 hrs 45 mins"
+        ],
+        "stock": "In Stock",
+        "features": {
+          "ships_from": {
+            "text": "Amazon",
+            "details": {
+              "heading": "Ships from",
+              "content": "Amazon"
+            }
+          },
+          "sold_by": {
+            "text": "eLightBulb",
+            "details": {
+              "heading": "Sold by",
+              "content": "eLightBulb"
+            },
+            "link": {
+              "text": "eLightBulb",
+              "link": "https://www.amazon.com/gp/aw/sp.html/ref=dp_merchant_link?ie=UTF8&seller=A4R7JCZAIZRSD&asin=B07WG18RLT&ref_=dp_merchant_link&isAmazonFulfilled=1"
+            }
+          },
+          "returns": {
+            "text": "FREE 30-day refund/replacement",
+            "details": {
+              "heading": "FREE 30-day refund/replacement"
+            },
+            "link": {
+              "text": "See exceptions",
+              "link": "https://www.amazon.com/gp/help/customer/display.html/?nodeId=GKQNFKFK5CF3C54B"
+            }
+          },
+          "payment": {
+            "text": "Secure transaction",
+            "details": {
+              "heading": "Your transaction is secure",
+              "content": "We work hard to protect your security and privacy. Our payment security system encrypts your information during transmission. We don’t share your credit card details with third-party sellers, and we don’t sell your information to others. Learn more"
+            },
+            "link": {
+              "text": "Learn more",
+              "link": "https://www.amazon.com/gp/help/customer/display.html?nodeId=201909010"
+            }
+          }
+        }
+      }
+    },
+    "item_specifications": {
+      "color": "Warm White",
+      "brand": "Brightown",
+      "indoor_outdoor_usage": "Indoor",
+      "special_feature": "7ft Flexible Silver Wire, Energy Efficient, Long-lasting Brightness, Safe to Touch, Waterproof",
+      "light_source_type": "LED",
+      "power_source": "Battery Powered"
+    },
+    "about_item": [
+      "【 12 Pack Battery Operated LED Fairy Lights 】- Powered by 2 CR2032 batteries (included), the 7 feet micro fairy light with 20 upgraded energy-efficient LEDs is perfect for both everyday decorations as well as holiday decor. The thin copper wiring and small-sized LED bulbs will add a delicate and cozy touch to your personal space",
+      "【 7ft Flexible Silver Wire 】- The starry moon fairy lights are made of a soft bendable silver wire. Easy to bend it to any shape or wrapped it on anything you want like photos, shelves, walls, mirrors, crafts, furnitures, wreaths, trees, branches, plants, flowers, or wedding déco",
+      "【 Long-Lasting Battery Life 】- Crafted with high-quality strong silver wire and energy-efficient LED bulbs lasting up to 2 years, these mini fairy lights are easy to use and safe to touch due to their low voltage. The included CR2032 watch batteries allow the lights to stay lit for more than 72 hours and can be quickly turned on or off via a simple button",
+      "【 Safe to Touch and Waterproof 】- The silver wire starry moon lights are low power and insulate heat, remaining safe to the touch. They run very cool, no need to worry about them overheating and damaging your home’s décor. Also, they are IP44 waterproof and can be taken outdoors as well. Enjoy these beautiful glowing mini fairy lights inside your bedroom or outdoors on your patios, or balconies",
+      "【 Wide Decorative Uses 】 Perfect fairy lights for weddings, parties, mason jars, crafts, arts, trees, branches, plants, flowers, kids’ rooms, tents, bedrooms, living rooms, nurseries, cubicles, loft beds, windows, ceilings, walls, shelves, patios, porches, balconies, corridors, fences, staircases, awnings, bulletin boards, holiday, Christmas, Ramadan decorations. A lovely gift for your family or friend who wants to spruce up their surroundings"
+    ],
+    "related_products": [
+      {
+        "position": 1,
+        "asin": "B0CX4Z4PG2",
+        "title": "Halloween Christmas Green Fairy String Lights Battery Operated | 2 Pack Each 16.5Ft 50Led Timer Mini Copper Wire Firefly Lights Indoor, Outdoor Battery Powered DIY Garland Party Decorations",
+        "link": "https://www.amazon.com/dp/B0CX4Z4PG2/ref=sspa_mw_detail_0?ie=UTF8&psc=1&spc=MTo4MjMzMTA3ODc5NzUwMDM5OjE3OTI2ODU2Njk6c3BfcGhvbmVfZGV0YWlsOjMwMTA2NTY4ODI1MzEwMjo6Ojo&sp_csd=d2lkZ2V0TmFtZT1zcF9waG9uZV9kZXRhaWw",
+        "link_clean": "https://www.amazon.com/dp/B0CX4Z4PG2/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0CX4Z4PG2&device=mobile&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "badges": [
+          "Amazon's Choice"
+        ],
+        "thumbnail": "https://m.media-amazon.com/images/I/71S28iwDO3L._AC_UX450_UY450_SR450,450_.jpg",
+        "rating": 4.5,
+        "reviews": 788,
+        "price": "$9.99",
+        "extracted_price": 9.99,
+        "price_unit": "$0.30 / feet",
+        "extracted_price_unit": 0.3
+      },
+      {
+        "position": 2,
+        "asin": "B0BVYY4HRP",
+        "title": "4 Pack 60 LED Fairy Lights Battery Operated with Timer, 20 FT String Lights | Cuttable Copper Wire, Waterproof Battery Lights for Indoor Outdoor, Wedding, Centerpiece, Bedroom, DIY, Christmas Decorations",
+        "link": "https://www.amazon.com/dp/B0BVYY4HRP/ref=sspa_mw_detail_1?ie=UTF8&psc=1&spc=MTo4MjMzMTA3ODc5NzUwMDM5OjE3OTI2ODU2Njk6c3BfcGhvbmVfZGV0YWlsOjMwMTYwMjA5MjA5NDgwMjo6Ojo&sp_csd=d2lkZ2V0TmFtZT1zcF9waG9uZV9kZXRhaWw",
+        "link_clean": "https://www.amazon.com/dp/B0BVYY4HRP/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0BVYY4HRP&device=mobile&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "badges": [
+          "Limited time deal"
+        ],
+        "thumbnail": "https://m.media-amazon.com/images/I/810-poEP69L._AC_UX450_UY450_SR450,450_.jpg",
+        "rating": 4.3,
+        "reviews": 1492,
+        "discount": "-11%",
+        "price": "$15.99",
+        "extracted_price": 15.99,
+        "price_unit": "$4.00 / count",
+        "extracted_price_unit": 4.0,
+        "old_price": "null"
+      },
+      {
+        "position": 3,
+        "asin": "B0CHMDM85R",
+        "title": "Brightown Battery Operated Fairy Lights,10 Feet 120 LEDs Warm White | Firecracker String Lights,Waterproof Cluster Lights for DIY Indoor Wreath Wedding Bedroom Christmas Decoration",
+        "link": "https://www.amazon.com/dp/B0CHMDM85R/ref=sspa_mw_detail_2?ie=UTF8&psc=1&spc=MTo4MjMzMTA3ODc5NzUwMDM5OjE3OTI2ODU2Njk6c3BfcGhvbmVfZGV0YWlsOjMwMDg0MjI2MjA5OTcwMjo6Ojo&sp_csd=d2lkZ2V0TmFtZT1zcF9waG9uZV9kZXRhaWw",
+        "link_clean": "https://www.amazon.com/dp/B0CHMDM85R/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0CHMDM85R&device=mobile&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "thumbnail": "https://m.media-amazon.com/images/I/81rdNuvBmOL._AC_UX450_UY450_SR450,450_.jpg",
+        "rating": 4.4,
+        "reviews": 3398,
+        "discount": "-11%",
+        "price": "$7.99",
+        "extracted_price": 7.99,
+        "old_price": "null",
+        "climate_pledge_friendly": true
+      },
+      {
+        "position": 4,
+        "asin": "B07S3TCC4P",
+        "title": "Led Fairy Lights Battery Operated, 2 Packs Mini Battery Powered Copper Wire Starry Fairy Lights for Bedroom, Christmas, Parties, Wedding, Centerpiece, Decoration (5m/16ft Warm White)",
+        "link": "https://www.amazon.com/dp/B07S3TCC4P/ref=sspa_mw_detail_3?ie=UTF8&psc=1&spc=MTo4MjMzMTA3ODc5NzUwMDM5OjE3OTI2ODU2Njk6c3BfcGhvbmVfZGV0YWlsOjMwMDUyOTEzNzY3MzgwMjo6Ojo&sp_csd=d2lkZ2V0TmFtZT1zcF9waG9uZV9kZXRhaWw",
+        "link_clean": "https://www.amazon.com/dp/B07S3TCC4P/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B07S3TCC4P&device=mobile&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "thumbnail": "https://m.media-amazon.com/images/I/71-Rq-r9s5L._AC_UX450_UY450_SR450,450_.jpg",
+        "rating": 4.4,
+        "reviews": 40611,
+        "price": "$9.99",
+        "extracted_price": 9.99,
+        "price_unit": "$0.31 / feet",
+        "extracted_price_unit": 0.31
+      },
+      {
+        "position": 5,
+        "asin": "B0D93F24Z7",
+        "title": "Brightown Clear Christmas String Lights 50 Count 10 Feet Incandescent Bulb | Mini Lights for Indoor Outdoor Xmas Tree Garland Birthday Wedding Party Festival Decoration, Green Wire",
+        "link": "https://www.amazon.com/dp/B0D93F24Z7/ref=sspa_mw_detail_4?ie=UTF8&psc=1&spc=MTo4MjMzMTA3ODc5NzUwMDM5OjE3OTI2ODU2Njk6c3BfcGhvbmVfZGV0YWlsOjMwMTM4OTI2ODE4NzQwMjo6Ojo&sp_csd=d2lkZ2V0TmFtZT1zcF9waG9uZV9kZXRhaWw",
+        "link_clean": "https://www.amazon.com/dp/B0D93F24Z7/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0D93F24Z7&device=mobile&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "badges": [
+          "Limited time deal"
+        ],
+        "thumbnail": "https://m.media-amazon.com/images/I/71zKqR793lL._AC_UX450_UY450_SR450,450_.jpg",
+        "rating": 4.5,
+        "reviews": 3063,
+        "discount": "-46%",
+        "price": "$6.99",
+        "extracted_price": 6.99,
+        "old_price": "null",
+        "climate_pledge_friendly": true
+      },
+      {
+        "position": 6,
+        "asin": "B0CRK8537L",
+        "title": "Minetom Battery Operated String Lights, 21FT 60 LED Globe Classroom Lights | 8 Modes &amp; Waterproof Christmas Lights for Indoor Outdoor Bedroom Classroom Camping Wreath Porch Christmas Decor, Warm White",
+        "link": "https://www.amazon.com/dp/B0CRK8537L/ref=sspa_mw_detail_5?ie=UTF8&psc=1&spc=MTo4MjMzMTA3ODc5NzUwMDM5OjE3OTI2ODU2Njk6c3BfcGhvbmVfZGV0YWlsOjMwMTU4MTk1NDAyMjkwMjo6Ojo&sp_csd=d2lkZ2V0TmFtZT1zcF9waG9uZV9kZXRhaWw",
+        "link_clean": "https://www.amazon.com/dp/B0CRK8537L/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0CRK8537L&device=mobile&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "badges": [
+          "Limited time deal"
+        ],
+        "thumbnail": "https://m.media-amazon.com/images/I/711s69VESEL._AC_UX450_UY450_SR450,450_.jpg",
+        "rating": 4.3,
+        "reviews": 2945,
+        "discount": "-31%",
+        "price": "$8.99",
+        "extracted_price": 8.99,
+        "price_unit": "$0.15 / count",
+        "extracted_price_unit": 0.15,
+        "old_price": "null",
+        "climate_pledge_friendly": true
+      },
+      {
+        "position": 7,
+        "asin": "B0D1TNWJSG",
+        "title": "AIKEI 12 Pack LED Fairy Lights Battery Operated, Mini String Lights Waterproof 7ft 20 Led Firefly Starry Lights for Wedding Party Bedroom Garden Christmas Decoration Purple",
+        "link": "https://www.amazon.com/dp/B0D1TNWJSG/ref=sspa_mw_detail_6?ie=UTF8&psc=1&spc=MTo4MjMzMTA3ODc5NzUwMDM5OjE3OTI2ODU2Njk6c3BfcGhvbmVfZGV0YWlsOjMwMDg3ODc5ODQ0ODcwMjo6Ojo&sp_csd=d2lkZ2V0TmFtZT1zcF9waG9uZV9kZXRhaWw",
+        "link_clean": "https://www.amazon.com/dp/B0D1TNWJSG/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0D1TNWJSG&device=mobile&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "thumbnail": "https://m.media-amazon.com/images/I/71kVhGK+2QL._AC_UX450_UY450_SR450,450_.jpg",
+        "rating": 4.4,
+        "reviews": 574,
+        "discount": "-5%",
+        "price": "$9.49",
+        "extracted_price": 9.49,
+        "price_unit": "$0.79 / count",
+        "extracted_price_unit": 0.79,
+        "old_price": "null"
+      }
+    ],
+    "related_product_sections": [
+      {
+        "title": "You might also like",
+        "items": [
+          {
+            "position": 1,
+            "asin": "B0CX4Z4PG2",
+            "title": "Halloween Christmas Green Fairy String Lights Battery Operated | 2 Pack Each 16.5Ft 50Led Timer Mini Copper Wire Firefly Lights Indoor, Outdoor Battery Powered DIY Garland Party Decorations",
+            "link": "https://www.amazon.com/dp/B0CX4Z4PG2/ref=sspa_mw_detail_0?ie=UTF8&psc=1&spc=MTo4MjMzMTA3ODc5NzUwMDM5OjE3OTI2ODU2Njk6c3BfcGhvbmVfZGV0YWlsOjMwMTA2NTY4ODI1MzEwMjo6Ojo&sp_csd=d2lkZ2V0TmFtZT1zcF9waG9uZV9kZXRhaWw",
+            "link_clean": "https://www.amazon.com/dp/B0CX4Z4PG2/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0CX4Z4PG2&device=mobile&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "badges": [
+              "Amazon's Choice"
+            ],
+            "thumbnail": "https://m.media-amazon.com/images/I/71S28iwDO3L._AC_UX450_UY450_SR450,450_.jpg",
+            "rating": 4.5,
+            "reviews": 788,
+            "price": "$9.99",
+            "extracted_price": 9.99,
+            "price_unit": "$0.30 / feet",
+            "extracted_price_unit": 0.3
+          },
+          {
+            "position": 2,
+            "asin": "B0BVYY4HRP",
+            "title": "4 Pack 60 LED Fairy Lights Battery Operated with Timer, 20 FT String Lights | Cuttable Copper Wire, Waterproof Battery Lights for Indoor Outdoor, Wedding, Centerpiece, Bedroom, DIY, Christmas Decorations",
+            "link": "https://www.amazon.com/dp/B0BVYY4HRP/ref=sspa_mw_detail_1?ie=UTF8&psc=1&spc=MTo4MjMzMTA3ODc5NzUwMDM5OjE3OTI2ODU2Njk6c3BfcGhvbmVfZGV0YWlsOjMwMTYwMjA5MjA5NDgwMjo6Ojo&sp_csd=d2lkZ2V0TmFtZT1zcF9waG9uZV9kZXRhaWw",
+            "link_clean": "https://www.amazon.com/dp/B0BVYY4HRP/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0BVYY4HRP&device=mobile&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "badges": [
+              "Limited time deal"
+            ],
+            "thumbnail": "https://m.media-amazon.com/images/I/810-poEP69L._AC_UX450_UY450_SR450,450_.jpg",
+            "rating": 4.3,
+            "reviews": 1492,
+            "discount": "-11%",
+            "price": "$15.99",
+            "extracted_price": 15.99,
+            "price_unit": "$4.00 / count",
+            "extracted_price_unit": 4.0,
+            "old_price": "null"
+          },
+          {
+            "position": 3,
+            "asin": "B0CHMDM85R",
+            "title": "Brightown Battery Operated Fairy Lights,10 Feet 120 LEDs Warm White | Firecracker String Lights,Waterproof Cluster Lights for DIY Indoor Wreath Wedding Bedroom Christmas Decoration",
+            "link": "https://www.amazon.com/dp/B0CHMDM85R/ref=sspa_mw_detail_2?ie=UTF8&psc=1&spc=MTo4MjMzMTA3ODc5NzUwMDM5OjE3OTI2ODU2Njk6c3BfcGhvbmVfZGV0YWlsOjMwMDg0MjI2MjA5OTcwMjo6Ojo&sp_csd=d2lkZ2V0TmFtZT1zcF9waG9uZV9kZXRhaWw",
+            "link_clean": "https://www.amazon.com/dp/B0CHMDM85R/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0CHMDM85R&device=mobile&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "thumbnail": "https://m.media-amazon.com/images/I/81rdNuvBmOL._AC_UX450_UY450_SR450,450_.jpg",
+            "rating": 4.4,
+            "reviews": 3398,
+            "discount": "-11%",
+            "price": "$7.99",
+            "extracted_price": 7.99,
+            "old_price": "null",
+            "climate_pledge_friendly": true
+          },
+          {
+            "position": 4,
+            "asin": "B07S3TCC4P",
+            "title": "Led Fairy Lights Battery Operated, 2 Packs Mini Battery Powered Copper Wire Starry Fairy Lights for Bedroom, Christmas, Parties, Wedding, Centerpiece, Decoration (5m/16ft Warm White)",
+            "link": "https://www.amazon.com/dp/B07S3TCC4P/ref=sspa_mw_detail_3?ie=UTF8&psc=1&spc=MTo4MjMzMTA3ODc5NzUwMDM5OjE3OTI2ODU2Njk6c3BfcGhvbmVfZGV0YWlsOjMwMDUyOTEzNzY3MzgwMjo6Ojo&sp_csd=d2lkZ2V0TmFtZT1zcF9waG9uZV9kZXRhaWw",
+            "link_clean": "https://www.amazon.com/dp/B07S3TCC4P/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B07S3TCC4P&device=mobile&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "thumbnail": "https://m.media-amazon.com/images/I/71-Rq-r9s5L._AC_UX450_UY450_SR450,450_.jpg",
+            "rating": 4.4,
+            "reviews": 40611,
+            "price": "$9.99",
+            "extracted_price": 9.99,
+            "price_unit": "$0.31 / feet",
+            "extracted_price_unit": 0.31
+          },
+          {
+            "position": 5,
+            "asin": "B0D93F24Z7",
+            "title": "Brightown Clear Christmas String Lights 50 Count 10 Feet Incandescent Bulb | Mini Lights for Indoor Outdoor Xmas Tree Garland Birthday Wedding Party Festival Decoration, Green Wire",
+            "link": "https://www.amazon.com/dp/B0D93F24Z7/ref=sspa_mw_detail_4?ie=UTF8&psc=1&spc=MTo4MjMzMTA3ODc5NzUwMDM5OjE3OTI2ODU2Njk6c3BfcGhvbmVfZGV0YWlsOjMwMTM4OTI2ODE4NzQwMjo6Ojo&sp_csd=d2lkZ2V0TmFtZT1zcF9waG9uZV9kZXRhaWw",
+            "link_clean": "https://www.amazon.com/dp/B0D93F24Z7/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0D93F24Z7&device=mobile&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "badges": [
+              "Limited time deal"
+            ],
+            "thumbnail": "https://m.media-amazon.com/images/I/71zKqR793lL._AC_UX450_UY450_SR450,450_.jpg",
+            "rating": 4.5,
+            "reviews": 3063,
+            "discount": "-46%",
+            "price": "$6.99",
+            "extracted_price": 6.99,
+            "old_price": "null",
+            "climate_pledge_friendly": true
+          },
+          {
+            "position": 6,
+            "asin": "B0CRK8537L",
+            "title": "Minetom Battery Operated String Lights, 21FT 60 LED Globe Classroom Lights | 8 Modes &amp; Waterproof Christmas Lights for Indoor Outdoor Bedroom Classroom Camping Wreath Porch Christmas Decor, Warm White",
+            "link": "https://www.amazon.com/dp/B0CRK8537L/ref=sspa_mw_detail_5?ie=UTF8&psc=1&spc=MTo4MjMzMTA3ODc5NzUwMDM5OjE3OTI2ODU2Njk6c3BfcGhvbmVfZGV0YWlsOjMwMTU4MTk1NDAyMjkwMjo6Ojo&sp_csd=d2lkZ2V0TmFtZT1zcF9waG9uZV9kZXRhaWw",
+            "link_clean": "https://www.amazon.com/dp/B0CRK8537L/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0CRK8537L&device=mobile&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "badges": [
+              "Limited time deal"
+            ],
+            "thumbnail": "https://m.media-amazon.com/images/I/711s69VESEL._AC_UX450_UY450_SR450,450_.jpg",
+            "rating": 4.3,
+            "reviews": 2945,
+            "discount": "-31%",
+            "price": "$8.99",
+            "extracted_price": 8.99,
+            "price_unit": "$0.15 / count",
+            "extracted_price_unit": 0.15,
+            "old_price": "null",
+            "climate_pledge_friendly": true
+          },
+          {
+            "position": 7,
+            "asin": "B0D1TNWJSG",
+            "title": "AIKEI 12 Pack LED Fairy Lights Battery Operated, Mini String Lights Waterproof 7ft 20 Led Firefly Starry Lights for Wedding Party Bedroom Garden Christmas Decoration Purple",
+            "link": "https://www.amazon.com/dp/B0D1TNWJSG/ref=sspa_mw_detail_6?ie=UTF8&psc=1&spc=MTo4MjMzMTA3ODc5NzUwMDM5OjE3OTI2ODU2Njk6c3BfcGhvbmVfZGV0YWlsOjMwMDg3ODc5ODQ0ODcwMjo6Ojo&sp_csd=d2lkZ2V0TmFtZT1zcF9waG9uZV9kZXRhaWw",
+            "link_clean": "https://www.amazon.com/dp/B0D1TNWJSG/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0D1TNWJSG&device=mobile&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "thumbnail": "https://m.media-amazon.com/images/I/71kVhGK+2QL._AC_UX450_UY450_SR450,450_.jpg",
+            "rating": 4.4,
+            "reviews": 574,
+            "discount": "-5%",
+            "price": "$9.49",
+            "extracted_price": 9.49,
+            "price_unit": "$0.79 / count",
+            "extracted_price_unit": 0.79,
+            "old_price": "null"
+          }
+        ]
+      }
+    ],
+    "sustainability_features": {
+      "summary": "This product has sustainability features recognized by trusted certifications.",
+      "climate_pledge_friendly": true,
+      "learn_more_link": "https://www.amazon.com/climatepledgefriendly",
+      "features": [
+        {
+          "position": 1,
+          "title": "Carbon impact",
+          "text": "Carbon emissions from the lifecycle of this product were measured, reduced and/or offset.",
+          "certified_by": [
+            {
+              "name": "ClimatePartner Verified",
+              "logo": "https://m.media-amazon.com/images/I/314xGMCjZxL._SS128_.png",
+              "description": "ClimatePartner Verified certifies products and services from companies that have calculated their carbon footprint, set reduction targets, implemented reduction measures, and financed certified climate projects. ClimatePartner is an independent certification partner that enables companies to take measurable climate action with full transparency via an individual Climate ID page.",
+              "link": "https://www.climatepartner.com/en/knowledge/blog/introducing-climatepartner-verified"
+            }
+          ]
+        }
+      ]
+    },
+    "videos": [
+      {
+        "position": 1,
+        "title": "LED Fairy Lights- Battery operated",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/5ff75f2d-67a1-4342-8757-f69397023311/videopreview.jobtemplate.mp4.default.mp4",
+        "thumbnail": "https://m.media-amazon.com/images/I/91eOGqlkEfL.jpg",
+        "duration": "0:52",
+        "vendor": "DoubleDeckerPlus",
+        "vendor_thumbnail": "https://m.media-amazon.com/images/I/71QEYkOjP3L._CR0,0,853,853_._FMjpg_._SL34_.jpg",
+        "date": "Dec 5, 2024"
+      },
+      {
+        "position": 2,
+        "title": "Pick these! Pick these!",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/9d6378a1-27ff-4706-9c11-7ed9520986ed/videopreview.jobtemplate.mp4.default.mp4",
+        "thumbnail": "https://m.media-amazon.com/images/I/51Zdp1xAriL.jpg",
+        "duration": "0:57",
+        "vendor": "Granny Kate",
+        "vendor_thumbnail": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SL34_.png",
+        "date": "Oct 28, 2025"
+      },
+      {
+        "position": 3,
+        "title": "Outstanding String Lights! Incredible Quality #ValentinesDay2024 #Stringlights",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/a53a4c57-7999-4898-b7bc-6d58a7a5038f/videopreview.jobtemplate.mp4.default.mp4",
+        "thumbnail": "https://m.media-amazon.com/images/I/510ibv5HFKL.jpg",
+        "duration": "0:18",
+        "vendor": "Anna Nicholson",
+        "vendor_thumbnail": "https://images-na.ssl-images-amazon.com/images/S/influencer-profile-image-prod/logo/baileyhugojackson_1688655236087_original._FMjpg_._SL34_.jpeg",
+        "date": "Feb 4, 2024"
+      },
+      {
+        "position": 4,
+        "title": "Great value",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/fcefb278-2c32-49f9-a6f5-a8561702fb08/videopreview.jobtemplate.mp4.default.mp4",
+        "thumbnail": "https://m.media-amazon.com/images/I/51EDGi9ZXLL.jpg",
+        "duration": "0:40",
+        "vendor": "Shelly",
+        "vendor_thumbnail": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SL34_.png",
+        "date": "Apr 24, 2023"
+      },
+      {
+        "position": 5,
+        "title": "Glowing Transformation",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/0357ad48-8ca9-4ca5-9731-8213548a64f6/videopreview.jobtemplate.mp4.default.mp4",
+        "thumbnail": "https://m.media-amazon.com/images/I/614svipn7kL.jpg",
+        "duration": "0:21",
+        "vendor": "Daniel L. Boyd",
+        "vendor_thumbnail": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SL34_.png",
+        "date": "Feb 4, 2025"
+      },
+      {
+        "position": 6,
+        "title": "Bright Light, Batteries Included, Classy + Elegant",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/9bd36576-1de5-48ca-8609-4a939b65baf7/videopreview.jobtemplate.mp4.default.mp4",
+        "thumbnail": "https://m.media-amazon.com/images/I/61sUTDGiatL.jpg",
+        "duration": "0:30",
+        "vendor": "Jenn Ouverson",
+        "vendor_thumbnail": "https://m.media-amazon.com/images/I/61QhfeNPeQL._CR0,0,983,983_._FMjpg_._SL34_.jpg",
+        "date": "Sep 3, 2025"
+      },
+      {
+        "position": 7,
+        "title": "Perfect Way to set ambiance!",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/a284e119-7ddf-4424-9075-5523e84f4c3f/videopreview.jobtemplate.mp4.default.mp4",
+        "thumbnail": "https://m.media-amazon.com/images/I/610mPCuswUL.jpg",
+        "duration": "0:52",
+        "vendor": "Neon City Walkers",
+        "vendor_thumbnail": "https://m.media-amazon.com/images/I/71Rt2+JtVPL._CR0,0,1336,1336_._FMjpg_._SL34_.jpg",
+        "date": "Nov 8, 2024"
+      },
+      {
+        "position": 8,
+        "title": "Brighter than I expected",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/572128c2-53a8-4d02-bd74-50a6afe313a6/videopreview.jobtemplate.mp4.default.mp4",
+        "thumbnail": "https://m.media-amazon.com/images/I/515zB42-PpL.jpg",
+        "duration": "0:24",
+        "vendor": "DelighDead",
+        "vendor_thumbnail": "https://m.media-amazon.com/images/S/amazon-avatars-global/ee30c231-5f9c-41d6-bdf9-e05b6ead6a88._CR0%2C0%2C375%2C375_UX460_._SL34_.jpg",
+        "date": "Jun 10, 2023"
+      },
+      {
+        "position": 9,
+        "title": "Are These Fairy Lights ACTUALLY Worth The Hype?",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/c9a843f0-7784-4f52-af39-7a6a88a2fcf3/videopreview.jobtemplate.mp4.default.mp4",
+        "thumbnail": "https://m.media-amazon.com/images/I/714NIuhaLpL.jpg",
+        "duration": "1:16",
+        "vendor": "Teressa & Corey",
+        "vendor_thumbnail": "https://images-na.ssl-images-amazon.com/images/S/influencer-profile-image-prod/logo/elopewithtkm_1677439053877_original._FMjpg_._SL34_.jpeg",
+        "date": "Oct 29, 2023"
+      },
+      {
+        "position": 10,
+        "title": "Watch This Before You Buy These Fairy Lights!",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/a6e16bd8-5422-43c9-bbc3-555aa2d285c4/videopreview.jobtemplate.mp4.default.mp4",
+        "thumbnail": "https://m.media-amazon.com/images/I/B1b9QJ1JmaL.png",
+        "duration": "0:48",
+        "vendor": "Daniel & Oksana’s Favs",
+        "vendor_thumbnail": "https://m.media-amazon.com/images/I/81MQC8MH0gL._CR0,0,1290,1290_._FMjpg_._SL34_.jpg",
+        "date": "Dec 27, 2025"
+      }
+    ],
+    "product_description": [
+      {
+        "position": 1,
+        "title": "LED Battery Operated Fairy Lights",
+        "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/a7bac016-5f1f-40b7-85b0-6073b5e000c9.__CR0,0,600,450_PT0_SX600_V1___.jpg"
+      },
+      {
+        "position": 2
+      },
+      {
+        "position": 3,
+        "carousel_images": [
+          {
+            "position": 1,
+            "title": "Battery Operated Fairy Lights",
+            "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/58b567c6-8d6b-4fb8-8edd-4057721ab305.__CR0,0,600,450_PT0_SX600_V1___.jpg"
+          },
+          {
+            "position": 2,
+            "title": "Battery Operated Fairy Lights",
+            "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/7a76a4fb-2681-4482-b743-71f54e85b3cb.__CR0,0,600,450_PT0_SX600_V1___.jpg"
+          },
+          {
+            "position": 3,
+            "title": "Battery Operated Fairy Lights",
+            "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/0dcf06aa-bae0-4f0b-a24b-1392c316e9e0.__CR0,0,600,450_PT0_SX600_V1___.jpg"
+          },
+          {
+            "position": 4,
+            "title": "Battery Operated Fairy Lights",
+            "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/a0965bfb-14df-4a22-bbdf-9f1f091206e8.__CR0,0,600,450_PT0_SX600_V1___.jpg"
+          }
+        ]
+      },
+      {
+        "position": 4,
+        "title": "Battery Operated Fairy Lights",
+        "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/c34a0ce5-ed9a-4f3d-83bf-5e5bdb09b9fa.__CR0,0,600,450_PT0_SX600_V1___.jpg"
+      },
+      {
+        "position": 5,
+        "title": "Battery Operated Fairy Lights",
+        "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/3de65e16-cc9f-4968-a7f5-b7ebe8b5c5d1.__CR0,0,600,450_PT0_SX600_V1___.jpg"
+      },
+      {
+        "position": 6,
+        "title": "Battery Operated Fairy Lights",
+        "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/28c37a66-9fdc-4358-8b0a-cb1be45abcc9.__CR0,0,600,450_PT0_SX600_V1___.jpg"
+      },
+      {
+        "position": 7
+      }
+    ],
+    "product_details": {
+      "indoor_outdoor_usage": "Indoor",
+      "additional_features": "7ft Flexible Silver Wire, Energy Efficient, Long-lasting Brightness, Safe to Touch, Waterproof",
+      "light_source_type": "LED",
+      "power_source": "Battery Powered",
+      "light_color": "Warm white",
+      "controller_type": "Touch Control",
+      "voltage": "28 volts",
+      "wattage": "5 watts",
+      "control_method": "Touch",
+      "number_of_batteries": "2 CR2032 batteries required. (included)",
+      "ingress_protection_code_rating": "IP44",
+      "water_resistance_level": "Waterproof",
+      "color": "Warm White",
+      "theme": "Wedding Table Centerpieces, DIY, Craft Projects, Vases, Flowers, Mason Jars, Gifts, Christmas",
+      "occasion": "Wedding Table Centerpieces, DIY, Craft Projects, Vases, Flowers, Mason Jars, Gifts, Christmas",
+      "product_style": "Modern",
+      "hanging_pattern_layout": "Linear",
+      "form_factor": "String Lights",
+      "number_of_light_sources": "20",
+      "number_of_items": "12",
+      "item_dimensions": "9.84 x 11.81 x 11.81 inches",
+      "brand_name": "Brightown",
+      "model_number": "CR2032-20L",
+      "included_components": "1 × Small Screwdriver, 1 × User Manual, 12 × Brightown Battery Operated Fairy Lights",
+      "manufacturer_warranty_description": "12-month warranty.",
+      "upc": "763944058000",
+      "item_length": "7 feet",
+      "number_of_packs": "12",
+      "unit_count": "12 Count",
+      "manufacturer": "Brightown",
+      "manufacturer_part_number": "CR2032",
+      "best_sellers_rank": [
+        {
+          "text": "#141 in Home & Kitchen (See Top 100 in Home & Kitchen)",
+          "extracted_rank": 141,
+          "link": "https://www.amazon.com/gp/bestsellers/home-garden/ref=pd_zg_ts_home-garden",
+          "link_text": "See Top 100 in Home & Kitchen"
+        },
+        {
+          "text": "#1 in Indoor String Lights",
+          "extracted_rank": 1,
+          "link": "https://www.amazon.com/gp/bestsellers/home-garden/15704871/ref=pd_zg_hrsr_home-garden",
+          "link_text": "Indoor String Lights"
+        }
+      ],
+      "asin": "B07WG18RLT",
+      "customer_reviews": "4.6 out of 5 stars 50,857Reviews",
+      "material_type": "Copper",
+      "item_highlight": "20 LED Bulbs, Warm White, Waterproof, Flexible Silver Wire, Lovely for DIY Crafts Wedding Table Centerpieces Decoration"
+    },
+    "sponsored_brands": [
+      {
+        "position": 1,
+        "asin": "B0C4H14FFB",
+        "title": "3 PK 78FT 240LED Fairy Lights Battery Operated with Timer Remote Warm White | 8 Modes, Waterproof Wire, Timer & Memory, Twikle String Lights for Indoor Outdoor Classroom Christmas Tree Party Home Decor",
+        "link": "https://aax-us-east-retail-direct.amazon.com/x/c/JLsgf6hQ33MedM1Kbv7l8zAAAAGhZGR83wEAAAH2AQBvbm9fdHhuX2JpZDYgICBvbm9fdHhuX2ltcDIgICADSeO8/clv1c_ek-wBfHTEsbWTm7asDzNYoizTwsPiFoc4W3JqIf_lypCBcne6TNX3HsUWWPZHAh5eYe5IihK4h9ZXy8uRE0pi2X1ftmkLm2jfwZvhIPaHsRXBwFpoxbnozI4IPlwyhrh5JoAiA30ZuKMg0WQ2epnZACe8F2ajk3KEqbB7veo3ptvaQtf2TOZ-G5nhybfyosAFoNouycBmAbJw9Alw-BAMF6-VM5-RA3lhIbVhVYdKRM6_dhkYgdsCp3XXV1Ay_qdd_MWYfU1511NR23QyYprKFJhIHiJZVNpMph-5yTkuO09yJjTcAowwmtjVoAKITb86Z7kjHw1MyVjI0sHGjuFJJGawyXEaMadj_3jOAtILIGIYaJBilLad7m1kI870mxuKc-QYzMYwQ0Jp7XkJrjqYnX7-xNSFBF7pd_OcHR696cHjyOEH2QwNauEuSruOGoCXX9xYnRioysjb_GvCdp5L9rj3lWEd74T7v8BOBGboN8VnlHSgq2sYOmp_YwYItq-pqjNCU_mE4d8oz_nIXNRusuv1z53-rUBYuTqU2oz2f3kV5szs2aAs1c47FxNRmWhD40mAwBoQOf08e_-wsw3A8cYUDJwQom2xOD05TqskYESyeleQLbs4PdCfCFYg---vFn17rD9EQbQAYmVck1LtmmhXPGNKVNsdDkYRL5nlFjvufLi5NuOm4YyALh-GB9-wa5ig9CyZM2MdtDMaA1GSSvuUITw0QSk83GKanEIFhuZCLDoMhPUmMHxBQgjHJRyP4-Et0ocs7fp-zkYHqpoBe7imTHk_ps0wA_5AR0uG8OghKvSvFlVdIGUzLKtQofMFhdCR_wLO1_MZYBj2eIisEd5OaCvDv4KIkiDa_9KOA-ZxIj2I6-DUtICNmYP1zmgbl8Pc8xR3jGMtN3g-oh6oontnC-sCghtE_XXk18u8gMbOMM8RWapCQXCMX3oR_i9FLe4l3b1bqLYxckkySiDUkhUDzS41ioLceuh8Ljg26cGgf0NifqrfJOHeZdE3W38jpxCpj49iAZvDyztFIKv5yaQflRnKovj1xk3UN8o5MYsr-AbpyZP2WD05oeWpr-Xddjtax0vYBqhyCVxMt9wKMI29THPEWC8HvE-TNF1j4dtV1rE5P2uk1iiBBqB2ljY0aWueXc2u74d7agnmAd3h4dn7Nebj4m6h9ep2jZT7emP-KMcsVgTCm-t7Cvi7_W_Yt4-nMRxzu1z2JX_91VxbBfyGPavDUL72FXz1Dzur97XOTrHXkHIjznhiroVw-BfnWSCiSkT68yMpYhc8EYueypmNG9MccdEOIaVXoQNqNPUvSWBKUehnGnUxnz7pVeD07Xy_KmF19LYTczNOxliARSvkolCJnD_P4HvVpJ9jTvUDJ1gcnSCzb6jYjj1k_GfMK75SecGIaotegyJo8EZUfg3iiP0wNlVHtpaPDJuhyTn0H6CfM3rWQzQVCXjooQqbaM9LAO7ZHUwvWh77ObVdp3qb_KTxBfeGQhm5UNJOjvuNesZqGP9vW5AEaBMuDysrIU-u9V2xIUWz46yQXRRn3CNlDaaqY9y5U0kOr6NPUpnZpiCdIl1__jA-HmdrxBzfVErp-5Zby5auWCMVEFNggjXU0cXi29tOVHrqCCmv3Q/https://www.amazon.com/dp/B0C4H14FFB/?_encoding=UTF8&pd_rd_i=B0C4H14FFB&pd_rd_i=B0C4H14FFB&ref_=sbx_be_s_sparkle_ssd_cta&pd_rd_w=ExFDK&content-id=amzn1.sym.1a83c8f3-8ce8-4e44-8e99-1dc81daf0ff5&pf_rd_p=1a83c8f3-8ce8-4e44-8e99-1dc81daf0ff5&pf_rd_r=HNS44JF5FQQTJPMH3Q75&pd_rd_wg=aphys&pd_rd_r=94c76cb9-fa3e-4273-95b0-29b7f408c19d",
+        "link_clean": "https://www.amazon.com/dp/B0C4H14FFB/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0C4H14FFB&device=mobile&engine=amazon_product&language=en_US&shipping_location=US",
+        "thumbnail": "https://m.media-amazon.com/images/I/51cOtQlkjKL._AC_SR100,100_QL65_.jpg",
+        "video": {
+          "link": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/cd3127f1-4e45-456c-bb08-402651333ef8.mp4/productVideoOptimized.mp4",
+          "thumbnail": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/cd3127f1-4e45-456c-bb08-402651333ef8.mp4/r/THUMBNAIL_360P_FRAME_3_CAPTURE_2.JPG"
+        },
+        "rating": 4.3,
+        "reviews": 2603,
+        "price": "$15.29",
+        "extracted_price": 15.29,
+        "old_price": "$16.99",
+        "extracted_old_price": 16.99
+      },
+      {
+        "position": 2,
+        "asin": "B0DWMYJF8Y",
+        "title": "KAQ Fairy Lights Battery Operated with Remote, 4Pack 80FT 240LED Warm White | Timer & 8 Modes, Waterproof Wire, Memory, Cuttable Starry Twinkle String Lights for Bedroom Wedding Classroom Christmas Decor",
+        "link": "https://aax-us-east-retail-direct.amazon.com/x/c/JG29VaU5IVgeC0DUV_ncJsUAAAGhZGR84AEAAAH2AQBvbm9fdHhuX2JpZDYgICBvbm9fdHhuX2ltcDIgICDCjdgE/clv1c_ek-wBfHTLcbW7kZnOxwALWbeGcGXM4s5nJEmK4gP34OrTM3j0E3YzJxwceMIQ0eJXWZ2727K0QdS3oKnP-zqvwz5UMgV_H6mWuXHroEj_0AmTRnKsgCKb7f9zvU0ZvQ36t9g5lpuS2Nqgtq5Xg1yi_mWpNj0FtTrkOzW3TPyjCQdV21R9rsacNhCQK1ML_I1KTqdYduLnwfDz4jn4wihaPg_1X-fpGa-7BVrx7tVyypU6omfKn_vkTXymTu_CWMZQTP8wdiIZF3rm5UOyXwcuAoHrlyDIVFvNSFhbRq9OzlgGVaEpSis9B7rnC_TIT0jugtSQF6YFv_Dgp3LMqBXCaui9T_CGN7KteRk2V-xHor3yroogjAbfcyCbErwkF81v8urXGZ-P0zyquM3V-Hll4Tf7tRcMOFdHSuf94mzhsgHj0OEH2QwNSUFqSrvOK5CTXsH1csyTUsoAZ5WIhmFneEJh3BsmjDhx6Kh0Ekp_GHuNHlhxcL_Zi1t7Di0YVG_lv8Qy1E3h2I5QyANDCCYZWy2YiJdhqhAJ2Df5rTlblp7BWZBfTW_98YhTqghpAhd95Dl5ASVnQyx6-zxsS2WCWcj-M3dVElszPCeiiqCTyW1BYay2aUQuFc6aXt4HBoADQEvaNtAgrx8vJyDF913JnskG_5NQt-cqADuCaAyGougHZvIo27_9xsx3t7wJeKxmviRrTdfwRF8NLhYc3_2m4oNG4nxFXqocef6Daw2dUqnZkRof4sa9yUyYEKEMhNezNcwRzwFSoPIHWX6na9j5MJggzk8cx0wTm_EKqduNCav_VSy_a2OvnjZfRYQFE37L519nX0LPPi7HVlA6-ZqaBJTmY2W83vlYmQslWJk7HCQExcXve3Dzk0vX_CwwiH6_LCYhK6P7qgmO5FjqgLzWti_QENADUHdYIybS6OgXXmBpRnYrQREBK0JAszKikpDngj6M6lrl_7vtOMoC17wu33uJL4BV-mIvnQGgEhziv9R_yZB9EQ75bJ1H25McAI__IH_ZBa0TgSq-_cDEFIBlFEfIf3qW750m9sv3rIP4GqnrQ_MBPk2vcI7AH4Vq2chVfrZ1PqiIenqceiA9In_FZ7l8iKgA-sIJvJX3LRPC-u0a5SAw9JoRl3_Kj8enYSDCjznn9lvwsEkchI32L3QQuE9AmI3Ye-DtKLF3LB6dBZVKpJGpIO8CvtHJY-s45zbvpog7v5KhxzR_lZahBEXeSS9jE_1u2ChA3cIe1n4GmGCQkk_vEXXQi0VsqFRWrVO9eCFPHa07VEMj_TcfbTKvNl40StV9uKmvBjboG251g1wnngToizQV969N4lT3Vl-cqQID-wI3x7SJsIprOCGqBaw-9-ZmRF30Wru_seAZfaL7I5mTThfc26rNvWap8tkP2DXYXpxHYhB7TvWBn529TBpotdwHxW_pfIJ4JCFGVXLYkmAQR8NMyHdn-c-rP2XfPNK3Kzu9Q0i8Bo12hQGwGI_Qw_vUEUXugMN1sYlaIELtynPuLDhU9FAol_qY32nzV43kBwPWFwC5H__-Oivg3jgIc6JKcl1ruCS7idHLygYaLKIVcfDRO5_2dbuu27gwAh48YT6XBnKQJeuMlo_Fn_zDUgg30a4iSa7lww/https://www.amazon.com/dp/B0DWMYJF8Y/?_encoding=UTF8&pd_rd_i=B0DWMYJF8Y&pd_rd_i=B0DWMYJF8Y&ref_=sbx_be_s_sparkle_ssd_cta&pd_rd_w=ExFDK&content-id=amzn1.sym.1a83c8f3-8ce8-4e44-8e99-1dc81daf0ff5&pf_rd_p=1a83c8f3-8ce8-4e44-8e99-1dc81daf0ff5&pf_rd_r=HNS44JF5FQQTJPMH3Q75&pd_rd_wg=aphys&pd_rd_r=94c76cb9-fa3e-4273-95b0-29b7f408c19d",
+        "link_clean": "https://www.amazon.com/dp/B0DWMYJF8Y/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0DWMYJF8Y&device=mobile&engine=amazon_product&language=en_US&shipping_location=US",
+        "thumbnail": "https://m.media-amazon.com/images/I/51bw2oC-aQL._AC_SR100,100_QL65_.jpg",
+        "video": {
+          "link": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/d13726cc-d9c8-4779-a8ae-f3637dfbc48c.mp4/productVideoOptimized.mp4",
+          "thumbnail": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/d13726cc-d9c8-4779-a8ae-f3637dfbc48c.mp4/r/THUMBNAIL_360P_FRAME_3_CAPTURE_2.JPG"
+        },
+        "rating": 4.6,
+        "reviews": 851,
+        "price": "$17.09",
+        "extracted_price": 17.09,
+        "old_price": "$19.99",
+        "extracted_old_price": 19.99
+      },
+      {
+        "position": 3,
+        "asin": "B07XBZ4PBJ",
+        "title": "Metaku Globe String Lights Battery Operated Fairy Light 33ft 80LED & Remote | Waterproof Indoor Outdoor Hanging String Lights Decorative Christmas Lights for Home Party Patio Garden Classroom Wedding",
+        "link": "https://aax-us-east-retail-direct.amazon.com/x/c/JPHWD826j4ZihSSwF5J6vI4AAAGhZGR84QEAAAH2AQBvbm9fdHhuX2JpZDYgICBvbm9fdHhuX2ltcDIgICCab5bQ/clv1c_ek-wBfHXLcTWXmxhtwlAiFwLMC57Ktkbrp1U7G6j3UNkeO6v60T_J6UuQeLwBfoWoQcdWAQaYwe_3_CQuY2RKcIoz5HY2dn7G3g3p8Px_4ku6FTbe2cj-2vK7jm0I3SMh-UvtEJHuzIsqPVEINfxzsKzYN-WigUqItzgrjYnxqJHacouqEeJ9sJgcAzAiKulyzOb_k1aGUOQBYTK50lHm6OpXF62x29WQUMTtH1y1oztdQ67GUgP96MLdBjvu37JFCRPf6YcFKOip2EQaG4KHEeRwjXuUg79Xt9nZ6OYuIhUxsdeEZWNwK-YlC7zzl0d5d549T5HqesslsByowNN5v7_Oyv3gghSYpUtYJoLjuZZ6Kb1M0dmsJ5ubveX3gMiPaAtXgu_bisSHybotrFvG4ownzJcc2tWi5ZTjidkav-yXOO1eKBQ3pUhWhikzpngpjuVrHKFdkxl8Nq2fRKYG5EZXpbWwpFUCdq7WY6HaHlMLoYmNu2nba_hzP50y9Okty1EcymntrwKUOHnNiQd2YBYtp5KPHoE_14bdk5n54OInXVN2OQUxL6QGpJ5b2ktNvb-0oJPu1xIeNw7km8_5bnOUgu0z5Ldry_NxVeYx4hEVpOwmZ7RO2sfsbnQzqboUl0eIZSfxC5IVrVMPKVrEhfbFVhCk5eVS7I9cKNoFlgdY836UsjY9PNtMdswtRN0opHA-EpG0TvLJ0l4qWEWUg84PsMMr4CA2MXBVjIgs8z1i34dFQ14Daoy7Y-xkHXDaK8bQv4W3wq3t-2Dzc6ML-2o361KkeMvpleTuiclieJZ0JtdGkbtg4HUizyGG1XBDxrVhK8wOrCFtU9v1Cpb2OmhViyaoZZZJhdesZ1tbQ0mRq_ZrgY582hfCtQqdcjbiT9M5TzF3hs-kaBKcBoOSNciyYyYzrCdqGjPnOR_yCoGFSK-tyNBZ6k2jPYuRXeBEXDM-UF91burak3KLRSK5M0gaQspgby1swQMTEN6YFnRsyx08zvJHwZOIUIcxhC_QKktaJuiM1BtP6i903VhcJ11rje6lPsCSO3sNWgf4qzY7yEVzUxNmtwpthkJOtXnOJXP3Rj9KTBn3dBSxvOHApdUyXLupJQGa5Xhia1yVlqjqHZGc68NzIzriUcykiB6M714bRMkgzKwjob_EeyMdZ81CEuv5-Yli0tkzlqH3s4Kv2FOhQUaBaAtZ6PFvTBm8gdIKVcRN1wYnhiA2nhJQrkdkoTfaDaguxD4S0Um1pzMzWH-vESJpYVLWMY3tCP2tQstk9i8VXbPxX3IikNIO9PbmKfQBs2Gmc-xXldLVE5ot1huDQ_nnB8DDQM6JNTabg31HyDabug-AyuFAbbNypymD-GSUpq4Gq2vc6I8jU8dCv3BVXJoQllI__qO8vSsmK3z6erLv1mARaSfUedMmWeb7ulStK_ZiDIJa9leT8rnY5aVCaIDAfs7Wxsemp4lzLmTQvcMxamgSbkCGdy8qSWIE-psYrI_4qs-ufwyGhgGC7gMuKIKUZeqfNwkaoA8ugRNI2ad4fGWXR62BrVNVz1BIuHbd5x6dc4CXhctVsDziNwE0NiSV3YY7-vRQqbRqvDqo-xuQ9ra2ZofZwFvMddoF-u-jJy7Gdj1Bc0MkA/https://www.amazon.com/dp/B07XBZ4PBJ/?_encoding=UTF8&pd_rd_i=B07XBZ4PBJ&pd_rd_i=B07XBZ4PBJ&ref_=sbx_be_s_sparkle_ssd_cta&pd_rd_w=ExFDK&content-id=amzn1.sym.1a83c8f3-8ce8-4e44-8e99-1dc81daf0ff5&pf_rd_p=1a83c8f3-8ce8-4e44-8e99-1dc81daf0ff5&pf_rd_r=HNS44JF5FQQTJPMH3Q75&pd_rd_wg=aphys&pd_rd_r=94c76cb9-fa3e-4273-95b0-29b7f408c19d",
+        "link_clean": "https://www.amazon.com/dp/B07XBZ4PBJ/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B07XBZ4PBJ&device=mobile&engine=amazon_product&language=en_US&shipping_location=US",
+        "thumbnail": "https://m.media-amazon.com/images/I/51EVRBJtUqL._AC_SR100,100_QL65_.jpg",
+        "video": {
+          "link": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/d0ed0574-6da8-4d7a-90f9-83b5c9e7ef7a.mp4/productVideoOptimized.mp4",
+          "thumbnail": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/d0ed0574-6da8-4d7a-90f9-83b5c9e7ef7a.mp4/r/THUMBNAIL_360P_FRAME_3_CAPTURE_2.JPG"
+        },
+        "rating": 4.2,
+        "reviews": 6537,
+        "price": "$19.99",
+        "extracted_price": 19.99
+      },
+      {
+        "position": 4,
+        "asin": "B0DBMB2NGF",
+        "title": "KepStars 2 Pack Battery Operated String Lights Green Wire with Remote Timer | 33ft 100 LED Warm White Twinkle Fairy Battery Christmas Lights Waterproof, 8 Modes for Tree Wreath Garland Xmas Holiday Decor",
+        "link": "https://aax-us-east-retail-direct.amazon.com/x/c/JBraGDOreHUIhX9ZDouuR-YAAAGhZGR84gEAAAH2AQBvbm9fdHhuX2JpZDYgICBvbm9fdHhuX2ltcDIgICAm0Q9K/clv1c_ek-wBffzFcbarkl-pvuUew-uwb63TgPdoNq2b-nMC-lGvgYkFusV3tR0xQwf1wLj3HIwfWrQRD804QtywsvGeOqpsBkR0GrqMeAHTkEX_MoHTTEjGjk2zbnzuuH0Jn88rVJpDDiawe8X3sfUxPNxcF-CsvXclVnmgoSB3hdozpQGKVt9XA_IXFlYwubyKnQXITxrcv_ZEwTq-YxN7hjBdwNRLw4-BUc_3K4LFouW6bWha7mTgGaEZ5zXXY1DQ6VPuFiDJFagwymQIiL7LbLPqsSBI1hJCdEK91q7URaYUqiG4CE3gyZAvCt6V2SX6iclYTfwhirTK7J-lp0_Cw62F7yQHZa1-PuXpGJs-3maXChFPOe1P02_6YTFxNvHWd4eJwQH804EXq1uT9AeW2jUNydk-jMNPNNjc7_CpOoUPRVViQTuGrauVtkn4ddG96iEJLgcsIY_huyb_ZTvFux3U9QIOpSccXc8L7O5OqeUnFIY5aoO9IJmTAZg7b2Wz6_Kc0PsUz9mYH9UMRI_sG8A1z0zWEr2xihVYBAnLxcykS3tGYTGyVtBYbET0J36LDNYGYDg2Q_xw3ipndop8GhtCDmEHskDtAKJ3kepR06PwC77PqNHQHTM7_UiOL6HZs8VER29knh479-FqIHYDnPFtUC9O_6tco8dVTfnYqgyHpcA7EBPi2Z59xsz1hzgpaHxujixvbdvQVBkNKbc8_hGc3or_MmED0qSREc8H4T1tuA71bejteV5iCrDaToItZBMycnQ37sFTLO43OtXutp0IKnCg8ps6IqMpK818VvQeKOvcK5dbFD0qvvRvCQGWIX3eqtJSmxM5K0QtOTVBzEGOCx-YZVoJucDk0PzEkvAfgJ8XbB_NhZ9sZEcwn9rojSPgue-zjQJ33U_fPaoGvpF0OtRcxVlYFgK0u1Us84X40t8_CCc7PWNi7YxEcL8zSPT11k-LEHw72bd5QoZQCc_x73llgZI70-ghDosP3y7MJdFaUdL0NazCfwL3d9e6yyUTGPJ4KRLZrr0mdtk7zUV9SGMaC8Jmu3UDgUx9rkM7rCjzt0PxuMgJV9mb9AVHCGnEv6kGgZpOF6c-d0_heT26CbXdB_4JGpEDgvw83dmJHZlSxOawpMzTRd9L0tSIyfvht_sxdrLphapCi0of44r8MEs6lnRDlTt3-BI9ltqhgsmsGORHzRya5SSBUO_853e0UYJoVr6xxLbrlYq6Hb-gwWq6M1T2xybAQn64XTBxNRHz3yMEVUIaPIRKqFeClbsaYNNqFUGEIoLEr0I7okaGEFY_JwSqd5qJahMSlrMkOqYPxIYoXB1y-MSE-pwJ5k4sm2IQIhehI7Bcx2G3fTML33ghqAkkJmPFEDvK1OlzGdF5g3D6szVUaBJLMy_Yi2xyVFTdWc9j29d8bMJlDHDT990YZ6RNsL5HIWonwFzXoLFQo7rpGGUkki_jfNnws4ACzxNiKO3m8pKoUJIK9N2j7MbYX6XZcngmVI7xeICop467JL1jQKC32hcJ2v2Z-w1qLFJxEObnvi05PTilxI6A-M6stdQ180mPRsdHjqKU4vF1IGemxOJYQNZnsSZMUacsjCqpg0Jw9Qyvto_LwWiHIM7OEAqOavVXQ/https://www.amazon.com/dp/B0DBMB2NGF/?_encoding=UTF8&pd_rd_i=B0DBMB2NGF&pd_rd_i=B0DBMB2NGF&ref_=sbx_be_s_sparkle_ssd_cta&pd_rd_w=ExFDK&content-id=amzn1.sym.1a83c8f3-8ce8-4e44-8e99-1dc81daf0ff5&pf_rd_p=1a83c8f3-8ce8-4e44-8e99-1dc81daf0ff5&pf_rd_r=HNS44JF5FQQTJPMH3Q75&pd_rd_wg=aphys&pd_rd_r=94c76cb9-fa3e-4273-95b0-29b7f408c19d",
+        "link_clean": "https://www.amazon.com/dp/B0DBMB2NGF/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0DBMB2NGF&device=mobile&engine=amazon_product&language=en_US&shipping_location=US",
+        "thumbnail": "https://m.media-amazon.com/images/I/41xFfTqZbKL._AC_SR100,100_QL65_.jpg",
+        "video": {
+          "link": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/e1b8883b-1303-46a7-8ab2-c47d170972ee.mp4/productVideoOptimized.mp4",
+          "thumbnail": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/e1b8883b-1303-46a7-8ab2-c47d170972ee.mp4/r/THUMBNAIL_360P_FRAME_3_CAPTURE_2.JPG"
+        },
+        "rating": 4.2,
+        "reviews": 118,
+        "price": "$19.99",
+        "extracted_price": 19.99
+      },
+      {
+        "position": 5,
+        "asin": "B07GTXL94D",
+        "title": "12 Pack Purple Fairy Lights Battery Operated, 10 ft 30 LEDs String Lights | Waterproof Silver Wire Firefly Starry Moon Lights, Lovely for DIY Crafts Wedding Party Table Centerpieces Halloween Christmas",
+        "link": "https://aax-us-east-retail-direct.amazon.com/x/c/JIe-nTQv709NqOce1uhBHIwAAAGhZGR85AEAAAH2AQBvbm9fdHhuX2JpZDYgICBvbm9fdHhuX2ltcDIgICCS4-DS/clv1c_ek-wBfHTLcbW7kZnOxwALWbeGcGXM4s5nJEmK4hP34OrVUdPKvbEOZxw9eBmmmR2i48YAtjKtjdE3NkUmThoB9Ie3qV7ooQLVyPvpOogxK1jD3FJxCGKOijgYnt5qwhza3nPFtFbSMCIi5f76zd3rtDeuJ0ck0eCqNbIl3cLzocZFYMnLK3Q_NnP0wXPQKqhOcw9rM5KERH8DbBVN4kUt_u7nN-9Rs6RuigiOl300zzWE1vltkZeIWCRYsl92FxqGEMjKeIgwYg298Gh20Dncqx5S98oTTgJgA8GoDNUtAwTrWvyePDOigg947EDhtWdzNN5iH-YFv_6lBo1IuB2Bazd-f-diB36tQprZBlpt0L66qzK84iK4sDzT6bvNm5nqHXZK834w3RsEiYdtYE-mgzbp5B1CvMWwdhdQLL0qWBov7Rdiwviblo7nXYsALVdlaieJCIp_gjpNO7QL0F3uUONyphslGZKxANvYd-nXXpmVLT7zdcoe-n5419Cl5qaIkN7mXyw_g21nE6IkUp6aa3zsvJYIxffdNsyKQSgKFaNJe6fbkPHjkTARmgpBxJMwx4_6IBmHg8I8D-dALd494qjCLy-VOgdq0npm6fU4nNQBHQZpn-kPwJFV4H-gB0OVDVcpQ4k4yfJ8RQu8a7zFTehUPP58lcRbLtY-q2PhEC0z35HPBivqj935BrAoWfCuKWkPNO82_kNgZrD3iucw_sqL3axF-2I7F59Dwftvlu1zuW-9WZpjA9UO4rnsl7JhH8aFu6nYgQeFUlqxfvvNohMCra1MgckbvB3rJjPjV_oWOWraI5POksu3eDtqDdjCZScVjN4XAocOyMo63I3Jv4lCGVB7BYEAyP7q7BH680EHNijDMpBlzSR-xDXQkzFeT-YLq01YoEZPxAZSx5pYa8_Gq4ccMTOTlRTfG6RRRH1KeHqdGMU6CQJwKcrF3I_uLt0PI8CLiHgE-4iAr3PAT78JuERQzafEM3xoDqVeO63CfvjwunbqcgA56syjI1_6A3LYUt7kesC-hqbyX_NqhVFW9ZZoVLKW8Fgdg7zKzbgdbpp8IwlrCJnYPXANVWmhf0PnOFq9VFMgeGhe4rK3qG3tnV860QNQQ1KbY0aURg8fEb58DYUkjf-XEnGbgEg9HpP_g332XkpIRTqI6aFiSNnOIFzZj3Lsj14fplgW7kpyuIHgHsF19rHFeMtAiYy8a-G8jKQXrv9XbN8R9DDkvDvtr440vD3o90Ytgf_kG9RaH4uJeTm3aar9mPDWs6zwNKlLQcg-s1V1EhFr34JgNDrwLlMEICTmlh3EWFmj1FsWRhyf_GGqDFRYYToLZU1036oOuOjVHd5psKaR6dylG96Rg5BVXQw1r_6vb1_aKGfs8YbR62daEbsFYhUa5dG2rngObDNZu7vKfiRKKo47QTZvewNuV23JUolhdxeJ1hyLN41Pn3cd_YPE8rBkj7hUnk2yJBufA3lZ3dkSYJVdmcwxBY6cmUuX7fTHi6wI-2YJDZgjmkRbQmXUF3uQYtngvdIJDj7bSn0tCJhFrMzvWvWOkWUTt5dvqoX-Yc7LmHzSnKWlroT_v1gW7UzkZixrsASHOFDf1qKiQL5vM94XZALwiAr3-D-kkfHBKUHxHeTiCw/https://www.amazon.com/dp/B07GTXL94D/?_encoding=UTF8&pd_rd_i=B07GTXL94D&pd_rd_i=B07GTXL94D&ref_=sbx_be_s_sparkle_ssd_cta&pd_rd_w=ExFDK&content-id=amzn1.sym.1a83c8f3-8ce8-4e44-8e99-1dc81daf0ff5&pf_rd_p=1a83c8f3-8ce8-4e44-8e99-1dc81daf0ff5&pf_rd_r=HNS44JF5FQQTJPMH3Q75&pd_rd_wg=aphys&pd_rd_r=94c76cb9-fa3e-4273-95b0-29b7f408c19d",
+        "link_clean": "https://www.amazon.com/dp/B07GTXL94D/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B07GTXL94D&device=mobile&engine=amazon_product&language=en_US&shipping_location=US",
+        "thumbnail": "https://m.media-amazon.com/images/I/61v7iCRCpFL._AC_SR100,100_QL65_.jpg",
+        "video": {
+          "link": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/24461f62-152f-4320-8aa9-2a16c6e8688c.mp4/productVideoOptimized.mp4",
+          "thumbnail": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/24461f62-152f-4320-8aa9-2a16c6e8688c.mp4/r/THUMBNAIL_360P_FRAME_3_CAPTURE_2.JPG"
+        },
+        "rating": 4.6,
+        "reviews": 2310,
+        "price": "$12.99",
+        "extracted_price": 12.99
+      }
+    ],
+    "reviews_information": {
+      "summary": {
+        "text": "Customers find these string lights fantastic and appreciate their appearance, making any setting elegant. They work well and offer good value for money, with a nice warm glow and versatility for various projects. The battery life and durability receive mixed reviews - while some find the battery life good and say they stay lit for hours, others report that the batteries don't last long and break within a week.",
+        "insights": [
+          {
+            "title": "Lighting quality",
+            "sentiment": "positive",
+            "mentions": {
+              "total": 2100,
+              "positive": 1837,
+              "negative": 297
+            },
+            "summary": "Customers are satisfied with the lighting quality of these string lights, finding them fantastic and perfect for their needs.",
+            "examples": [
+              {
+                "position": 1,
+                "snippet": "These are perfect, I used them for my daughters sweet 16 center pieces and have since used them to decorate a trunk or treat, and our stroller while...",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R1UXE19P3VQYVJ"
+              },
+              {
+                "position": 2,
+                "snippet": "Fairy lights. Tiny, fragile. They work!",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R2BP4TQRJ1RKD"
+              },
+              {
+                "position": 3,
+                "snippet": "This is a great product. I'm they each feel super long longer than 7 ft but they are perfect for my little projects. I would recommend them to anyone.",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R2PS3RLHYPMF7O"
+              },
+              {
+                "position": 4,
+                "snippet": "Love these lights, they were perfect to add to my daughter’s costume! Nice and bright! They added the perfect glow and she got so many compliments....",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R1YJLNBC9OMYVY"
+              }
+            ]
+          },
+          {
+            "title": "Appearance",
+            "sentiment": "positive",
+            "mentions": {
+              "total": 1200,
+              "positive": 1179,
+              "negative": 30
+            },
+            "summary": "Customers love the appearance of these string lights, finding them very cute and saying they make any setting elegant.",
+            "examples": [
+              {
+                "position": 1,
+                "snippet": "These were beautiful! I used them for centerpieces and then I some leftover I used for a gift I was giving a friend. Very great quality and bright!",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R2I2DPNUGXVMKB"
+              },
+              {
+                "position": 2,
+                "snippet": "They’re small & cute & cheap, but I bought them 2.5 months ago and have already gone thru 3 rounds of batteries. They last about a week with use....",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R3M1399QQT90TD"
+              },
+              {
+                "position": 3,
+                "snippet": "...Overall, these lights offer great value for money. They are pretty, practical, and versatile, making them a superb choice for anyone looking to add...",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R1RLG28PROT7AT"
+              },
+              {
+                "position": 4,
+                "snippet": "They are very pretty, no matter where you use them. They're easy to set up and have a warm glow. I have a small, dark hallway with 3 door openings....",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R1QEQ4PGI8IN0U"
+              }
+            ]
+          },
+          {
+            "title": "Reliability",
+            "sentiment": "positive",
+            "mentions": {
+              "total": 1000,
+              "positive": 703,
+              "negative": 301
+            },
+            "summary": "Customers find that the string lights work great and serve their purpose well.",
+            "examples": [
+              {
+                "position": 1,
+                "snippet": "Used these for Halloween decorations and for accents in plants. Worked great. I also used these inside plastic pumpkins with tissue paper on top....",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R3UOGWE3V02AZ3"
+              },
+              {
+                "position": 2,
+                "snippet": "Works great using them on my entire table for night time very nice lights looking for works to purchase again my order didn’t have the remote but I...",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R18CIO95HWY39A"
+              },
+              {
+                "position": 3,
+                "snippet": "...use them again... they were dim so I changed the batteries and they stopped working. Tried putting in the old batteries and still nothing....",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R2CDQLL3LYPMP0"
+              },
+              {
+                "position": 4,
+                "snippet": "The good part is they work great .. the very bad part is trying to un tie them… a few were easy but most were tied up and twisted in a crazy puzzle...",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R1V68LWKI9Z8O5"
+              }
+            ]
+          },
+          {
+            "title": "Value for money",
+            "sentiment": "positive",
+            "mentions": {
+              "total": 954,
+              "positive": 775,
+              "negative": 179
+            },
+            "summary": "Customers find these string lights to be a great buy for the price.",
+            "examples": [
+              {
+                "position": 1,
+                "snippet": "Great value and use for these lights. I made some centerpieces for a surprise 50th anniversary party. I used these fairy lights for the centerpieces....",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/RUWCJ607UM1OL"
+              },
+              {
+                "position": 2,
+                "snippet": "Great price for these fairy light. Using them in whiskey bottles for center pieces. Hope they all work. Comes with a mini tool and extra batteries.",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R33M5SZINWO1TK"
+              },
+              {
+                "position": 3,
+                "snippet": "...They worked perfectly and what a good value for what ya get! Easy to use, little button on them for power, and the color is a nice warm light.",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R1BV6WWX2GLO1H"
+              },
+              {
+                "position": 4,
+                "snippet": "Quick delivery. Very easy to use. Good price. 1 or 2 would not turn on, but that occurred on the day of the event. Luckily I had extras....",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R6U3BWZQCGV9R"
+              }
+            ]
+          },
+          {
+            "title": "Brightness",
+            "sentiment": "positive",
+            "mentions": {
+              "total": 945,
+              "positive": 670,
+              "negative": 275
+            },
+            "summary": "Customers like the brightness of these string lights, describing them as very bright white with a nice warm glow.",
+            "examples": [
+              {
+                "position": 1,
+                "snippet": "...the girls costumes as christmas packages for the float they were bright and lasted long still using them on other things i would buy again love them .",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R145T4RYU06JL5"
+              },
+              {
+                "position": 2,
+                "snippet": "...They're very bright and the light they give off is a tiny bit warm but not overly yellowy and a tiny bit cool without giving off that blue/white cast...",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/RIUCFMES3N5SH"
+              },
+              {
+                "position": 3,
+                "snippet": "...Once you get them started it's not too bad. They are not very bright & the battery died after about 10 having on about 5 hrs per day....",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R18D6WPUDNKAP2"
+              },
+              {
+                "position": 4,
+                "snippet": "...Neatly wound strings that wind beautifully wherever I place them. Bright lights....",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R3KO709P4YAMO1"
+              }
+            ]
+          },
+          {
+            "title": "Versatility",
+            "sentiment": "positive",
+            "mentions": {
+              "total": 388,
+              "positive": 383,
+              "negative": 5
+            },
+            "summary": "Customers find these string lights versatile, being perfect for crafts and small projects, with one customer specifically mentioning their use in paper lanterns and layered wooden crafts.",
+            "examples": [
+              {
+                "position": 1,
+                "snippet": "...So easy and versatile. I'll be using some in hanging glass globe terrariums with air plants. I'll probably be buying another set soon just for fun.",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/RHLZGBU0MDJNI"
+              },
+              {
+                "position": 2,
+                "snippet": "These small lights were just what I needed to finish my Christmas crafts. They were a great value.",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R1DCV2GVLLH5TK"
+              },
+              {
+                "position": 3,
+                "snippet": "Exactly what I needed. These lights are longstanding. I used these in January and they still work 4 months later",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R31YBUQ9M902ZO"
+              },
+              {
+                "position": 4,
+                "snippet": "Great for crafts and all but 1 light worked. Yaaay!",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R2GSZ9N9C165RN"
+              }
+            ]
+          },
+          {
+            "title": "Battery life",
+            "sentiment": "mixed",
+            "mentions": {
+              "total": 958,
+              "positive": 554,
+              "negative": 404
+            },
+            "summary": "Customers have mixed experiences with the battery life of these fairy lights, with some reporting good performance while others mention that the batteries don't last very long.",
+            "examples": [
+              {
+                "position": 1,
+                "snippet": "...but they did the job battery lasted and liked that it came with extra batteries and the baby screwdriver that’s so hard to find around the house lol",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R1X6JZ3RNG4DM"
+              },
+              {
+                "position": 2,
+                "snippet": "Short battery life. I haven’t even used this for 1 week and the lights are no longer working? Assuming I have to change the battery ALREADY!",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R3SJF72NGCHCU"
+              },
+              {
+                "position": 3,
+                "snippet": "...They're just not powerful enough. But, they come with extra batteries, and they are well packaged, they don't tangle and they're pretty. For $13....",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R3NS3IOBH9HZ10"
+              },
+              {
+                "position": 4,
+                "snippet": "pretty for a day; very short battery life, dim as they die",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R2ZUXUGFH4SZIU"
+              }
+            ]
+          },
+          {
+            "title": "Durability",
+            "sentiment": "mixed",
+            "mentions": {
+              "total": 765,
+              "positive": 290,
+              "negative": 475
+            },
+            "summary": "Customers have mixed experiences with the string lights' durability, with some reporting they stay lit for hours while others mention they break within a week.",
+            "examples": [
+              {
+                "position": 1,
+                "snippet": "These fairy lights are cheaply made. The quality is poor and they randomly shut off. I had to play with the switch to get the lights to turn on....",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R3CTY5OPH1ZBPC"
+              },
+              {
+                "position": 2,
+                "snippet": "...Perfect length & long lasting when used in center pieces & table decorations for about 3 to 4 hours straight....",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R1MQKR62QXVTBV"
+              },
+              {
+                "position": 3,
+                "snippet": "Pretty & soft color. Don’t last, even with battery change.",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R3RJEPUMNO39VF"
+              },
+              {
+                "position": 4,
+                "snippet": "...lights came with extra batteries, which is awesome because they do not last long. I think each light's battery life lasted about a week....",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R1NJ21Z7RVNMNO"
+              }
+            ]
+          },
+          {
+            "title": "Lighting quality",
+            "sentiment": "positive",
+            "mentions": {
+              "total": 2100,
+              "positive": 1837,
+              "negative": 297
+            },
+            "summary": "Customers are satisfied with the lighting quality of these string lights, finding them fantastic and perfect for their needs.",
+            "examples": [
+              {
+                "position": 1,
+                "snippet": "These are perfect, I used them for my daughters sweet 16 center pieces and have since used them to decorate a trunk or treat, and our stroller while...",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R1UXE19P3VQYVJ"
+              },
+              {
+                "position": 2,
+                "snippet": "Fairy lights. Tiny, fragile. They work!",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R2BP4TQRJ1RKD"
+              },
+              {
+                "position": 3,
+                "snippet": "This is a great product. I'm they each feel super long longer than 7 ft but they are perfect for my little projects. I would recommend them to anyone.",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R2PS3RLHYPMF7O"
+              },
+              {
+                "position": 4,
+                "snippet": "Love these lights, they were perfect to add to my daughter’s costume! Nice and bright! They added the perfect glow and she got so many compliments....",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R1YJLNBC9OMYVY"
+              }
+            ]
+          },
+          {
+            "title": "Appearance",
+            "sentiment": "positive",
+            "mentions": {
+              "total": 1200,
+              "positive": 1179,
+              "negative": 30
+            },
+            "summary": "Customers love the appearance of these string lights, finding them very cute and saying they make any setting elegant.",
+            "examples": [
+              {
+                "position": 1,
+                "snippet": "These were beautiful! I used them for centerpieces and then I some leftover I used for a gift I was giving a friend. Very great quality and bright!",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R2I2DPNUGXVMKB"
+              },
+              {
+                "position": 2,
+                "snippet": "They’re small & cute & cheap, but I bought them 2.5 months ago and have already gone thru 3 rounds of batteries. They last about a week with use....",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R3M1399QQT90TD"
+              },
+              {
+                "position": 3,
+                "snippet": "...Overall, these lights offer great value for money. They are pretty, practical, and versatile, making them a superb choice for anyone looking to add...",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R1RLG28PROT7AT"
+              },
+              {
+                "position": 4,
+                "snippet": "They are very pretty, no matter where you use them. They're easy to set up and have a warm glow. I have a small, dark hallway with 3 door openings....",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R1QEQ4PGI8IN0U"
+              }
+            ]
+          },
+          {
+            "title": "Reliability",
+            "sentiment": "positive",
+            "mentions": {
+              "total": 1000,
+              "positive": 703,
+              "negative": 301
+            },
+            "summary": "Customers find that the string lights work great and serve their purpose well.",
+            "examples": [
+              {
+                "position": 1,
+                "snippet": "Used these for Halloween decorations and for accents in plants. Worked great. I also used these inside plastic pumpkins with tissue paper on top....",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R3UOGWE3V02AZ3"
+              },
+              {
+                "position": 2,
+                "snippet": "Works great using them on my entire table for night time very nice lights looking for works to purchase again my order didn’t have the remote but I...",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R18CIO95HWY39A"
+              },
+              {
+                "position": 3,
+                "snippet": "...use them again... they were dim so I changed the batteries and they stopped working. Tried putting in the old batteries and still nothing....",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R2CDQLL3LYPMP0"
+              },
+              {
+                "position": 4,
+                "snippet": "The good part is they work great .. the very bad part is trying to un tie them… a few were easy but most were tied up and twisted in a crazy puzzle...",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R1V68LWKI9Z8O5"
+              }
+            ]
+          },
+          {
+            "title": "Value for money",
+            "sentiment": "positive",
+            "mentions": {
+              "total": 954,
+              "positive": 775,
+              "negative": 179
+            },
+            "summary": "Customers find these string lights to be a great buy for the price.",
+            "examples": [
+              {
+                "position": 1,
+                "snippet": "Great value and use for these lights. I made some centerpieces for a surprise 50th anniversary party. I used these fairy lights for the centerpieces....",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/RUWCJ607UM1OL"
+              },
+              {
+                "position": 2,
+                "snippet": "Great price for these fairy light. Using them in whiskey bottles for center pieces. Hope they all work. Comes with a mini tool and extra batteries.",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R33M5SZINWO1TK"
+              },
+              {
+                "position": 3,
+                "snippet": "...They worked perfectly and what a good value for what ya get! Easy to use, little button on them for power, and the color is a nice warm light.",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R1BV6WWX2GLO1H"
+              },
+              {
+                "position": 4,
+                "snippet": "Quick delivery. Very easy to use. Good price. 1 or 2 would not turn on, but that occurred on the day of the event. Luckily I had extras....",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R6U3BWZQCGV9R"
+              }
+            ]
+          },
+          {
+            "title": "Brightness",
+            "sentiment": "positive",
+            "mentions": {
+              "total": 945,
+              "positive": 670,
+              "negative": 275
+            },
+            "summary": "Customers like the brightness of these string lights, describing them as very bright white with a nice warm glow.",
+            "examples": [
+              {
+                "position": 1,
+                "snippet": "...the girls costumes as christmas packages for the float they were bright and lasted long still using them on other things i would buy again love them .",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R145T4RYU06JL5"
+              },
+              {
+                "position": 2,
+                "snippet": "...They're very bright and the light they give off is a tiny bit warm but not overly yellowy and a tiny bit cool without giving off that blue/white cast...",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/RIUCFMES3N5SH"
+              },
+              {
+                "position": 3,
+                "snippet": "...Once you get them started it's not too bad. They are not very bright & the battery died after about 10 having on about 5 hrs per day....",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R18D6WPUDNKAP2"
+              },
+              {
+                "position": 4,
+                "snippet": "...Neatly wound strings that wind beautifully wherever I place them. Bright lights....",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R3KO709P4YAMO1"
+              }
+            ]
+          },
+          {
+            "title": "Versatility",
+            "sentiment": "positive",
+            "mentions": {
+              "total": 388,
+              "positive": 383,
+              "negative": 5
+            },
+            "summary": "Customers find these string lights versatile, being perfect for crafts and small projects, with one customer specifically mentioning their use in paper lanterns and layered wooden crafts.",
+            "examples": [
+              {
+                "position": 1,
+                "snippet": "...So easy and versatile. I'll be using some in hanging glass globe terrariums with air plants. I'll probably be buying another set soon just for fun.",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/RHLZGBU0MDJNI"
+              },
+              {
+                "position": 2,
+                "snippet": "These small lights were just what I needed to finish my Christmas crafts. They were a great value.",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R1DCV2GVLLH5TK"
+              },
+              {
+                "position": 3,
+                "snippet": "Exactly what I needed. These lights are longstanding. I used these in January and they still work 4 months later",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R31YBUQ9M902ZO"
+              },
+              {
+                "position": 4,
+                "snippet": "Great for crafts and all but 1 light worked. Yaaay!",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R2GSZ9N9C165RN"
+              }
+            ]
+          },
+          {
+            "title": "Battery life",
+            "sentiment": "mixed",
+            "mentions": {
+              "total": 958,
+              "positive": 554,
+              "negative": 404
+            },
+            "summary": "Customers have mixed experiences with the battery life of these fairy lights, with some reporting good performance while others mention that the batteries don't last very long.",
+            "examples": [
+              {
+                "position": 1,
+                "snippet": "...but they did the job battery lasted and liked that it came with extra batteries and the baby screwdriver that’s so hard to find around the house lol",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R1X6JZ3RNG4DM"
+              },
+              {
+                "position": 2,
+                "snippet": "Short battery life. I haven’t even used this for 1 week and the lights are no longer working? Assuming I have to change the battery ALREADY!",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R3SJF72NGCHCU"
+              },
+              {
+                "position": 3,
+                "snippet": "...They're just not powerful enough. But, they come with extra batteries, and they are well packaged, they don't tangle and they're pretty. For $13....",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R3NS3IOBH9HZ10"
+              },
+              {
+                "position": 4,
+                "snippet": "pretty for a day; very short battery life, dim as they die",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R2ZUXUGFH4SZIU"
+              }
+            ]
+          },
+          {
+            "title": "Durability",
+            "sentiment": "mixed",
+            "mentions": {
+              "total": 765,
+              "positive": 290,
+              "negative": 475
+            },
+            "summary": "Customers have mixed experiences with the string lights' durability, with some reporting they stay lit for hours while others mention they break within a week.",
+            "examples": [
+              {
+                "position": 1,
+                "snippet": "These fairy lights are cheaply made. The quality is poor and they randomly shut off. I had to play with the switch to get the lights to turn on....",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R3CTY5OPH1ZBPC"
+              },
+              {
+                "position": 2,
+                "snippet": "...Perfect length & long lasting when used in center pieces & table decorations for about 3 to 4 hours straight....",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R1MQKR62QXVTBV"
+              },
+              {
+                "position": 3,
+                "snippet": "Pretty & soft color. Don’t last, even with battery change.",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R3RJEPUMNO39VF"
+              },
+              {
+                "position": 4,
+                "snippet": "...lights came with extra batteries, which is awesome because they do not last long. I think each light's battery life lasted about a week....",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R1NJ21Z7RVNMNO"
+              }
+            ]
+          }
+        ],
+        "images": [
+          "https://m.media-amazon.com/images/I/71vaF4opF5L.jpg",
+          "https://m.media-amazon.com/images/I/71IJO5wcUqL.jpg",
+          "https://m.media-amazon.com/images/I/71AWsiWyecL.jpg",
+          "https://m.media-amazon.com/images/I/711g2Fa+bmL.jpg",
+          "https://m.media-amazon.com/images/I/81WJ4KfsOJL.jpg",
+          "https://m.media-amazon.com/images/I/71yYuDKZzpL.jpg",
+          "https://m.media-amazon.com/images/I/81BQnslvwzL.jpg",
+          "https://m.media-amazon.com/images/I/51g+0YRKJjL.jpg",
+          "https://m.media-amazon.com/images/I/61aXOi1qyhL.jpg",
+          "https://m.media-amazon.com/images/I/71rSEKuiWeL.jpg",
+          "https://m.media-amazon.com/images/I/71zhReqZKFL.jpg"
+        ]
+      },
+      "authors_reviews": [
+        {
+          "position": 1,
+          "title": "Great product!",
+          "text": "We used these lights for our wedding two days ago.We strung them up inside lanterns for the centerpieces for each table. Well, time got away from me and we just removed them from the car this afternoon.Guess what!!?? They’re still lit!!! Though they’re a little dim now, they’re still on!I’m giving these lights 5 stars because they’re certainly worth the money, they’re easy to turn on, the light color was bright enough but not too bright.Highly recommend!",
+          "rating": 5.0,
+          "date": "October 6, 2026",
+          "author": "JRV",
+          "author_link": "https://www.amazon.com/gp/profile/amzn1.account.AGQ5UG7CG2WNHTGPCVHH7UWVBBLA?ref=cm_cr_dp_mb_bdcrb_top",
+          "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SX110_.png",
+          "helpful_votes": "2 people found this helpful",
+          "verified_purchase": true,
+          "product": {
+            "color": "Warm White"
+          }
+        },
+        {
+          "position": 2,
+          "title": "Fairy lights",
+          "text": "⭐️⭐️⭐️⭐️⭐️These **Brightown 12-Pack LED Fairy Lights** are a delightful and versatile lighting set that brings charm and ambiance to any space or occasion!**✨ Beautiful Glow:** The warm LED lights give off a soft, cozy glow that instantly enhances the mood — perfect for decorating bedrooms, parties, weddings, holiday displays, or even DIY crafts.**🔋 Battery Operated:** Being battery powered makes these lights super flexible. You can place them anywhere — no outlet needed!**🌙 Flexible & Fun:** The silver wire is thin and bendable, so you can shape the lights however you like — around bottles, centerpieces, shelves, or wreaths.**💧 Waterproof Design:** They’re waterproof, which is great for both indoor and outdoor décor or seasonal settings.**🎉 12 Pack Value:** With 12 individual strings, you get plenty of lighting for multiple projects all at once. Ideal for table centerpieces, bedroom accents, or wrapping around décor elements.**🎨 DIY & Decorative Use:** Great for crafts, holidays (like Christmas or Halloween), special events, or everyday home style — these lights bring a whimsical, starry effect wherever you place them.Overall, a lovely and versatile set of string lights that’s worth the 5/5 — simple, charming, and perfect for lighting up your creativity! ✨🌟🎈",
+          "rating": 5.0,
+          "date": "February 25, 2026",
+          "author": "Nemah",
+          "author_link": "https://www.amazon.com/gp/profile/amzn1.account.AGP6H6SD5OTF36FUZUD2ZY5MYN2Q?ref=cm_cr_dp_mb_bdcrb_top",
+          "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SX110_.png",
+          "helpful_votes": "21 people found this helpful",
+          "verified_purchase": true,
+          "product": {
+            "color": "Warm White"
+          }
+        },
+        {
+          "position": 3,
+          "title": "good quality",
+          "text": "I love these lights, they worked for me inside my log cabin doll house for the holidays.",
+          "rating": 5.0,
+          "date": "October 8, 2026",
+          "author": "Bonnie Girvan",
+          "author_link": "https://www.amazon.com/gp/profile/amzn1.account.AEJQ4IJUM4DQAHSEBJAYCAGOVENQ?ref=cm_cr_dp_mb_bdcrb_top",
+          "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SX110_.png",
+          "images": [
+            "https://m.media-amazon.com/images/I/711g2Fa+bmL._SY500_.jpg",
+            "https://m.media-amazon.com/images/I/71yYuDKZzpL._SY500_.jpg"
+          ],
+          "helpful_votes": "3 people found this helpful",
+          "verified_purchase": true,
+          "product": {
+            "color": "Warm White"
+          }
+        },
+        {
+          "position": 4,
+          "title": "Great lights, Great quantity, Great price",
+          "text": "I've purchased many other fairly lights in the past several years ... these are my favorites. Perfect length & long lasting when used in center pieces & table decorations for about 3 to 4 hours straight. They are just as bright when turned on again.",
+          "rating": 5.0,
+          "date": "October 9, 2026",
+          "author": "Amazon Customer",
+          "author_link": "https://www.amazon.com/gp/profile/amzn1.account.AGJANBUFYEQBNJWO5UF3KRVDRA5Q?ref=cm_cr_dp_mb_bdcrb_top",
+          "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SX110_.png",
+          "helpful_votes": "One person found this helpful",
+          "verified_purchase": true,
+          "product": {
+            "color": "Warm White"
+          }
+        },
+        {
+          "position": 5,
+          "title": "Versatile and bright for the price",
+          "text": "I bought this 12-pack of Brightown LED fairy lights to decorate around my patio, and I’m impressed. They feel like a steal for how many strands you get at the price.The battery pack isn't waterproof, so make sure that part is sheltered if using them outdoors.The wires are also very thin like any fairy lights, which is great for flexibility but means you have to handle them gently to avoid kinks or breaks.Because of the small battery size, if you run them a lot, you’ll need to swap batteries more often than with larger packs, but that’s pretty typical for battery fairy lights.Highly recommend if you want lots of high quality, small, bendable, battery-powered lights.",
+          "rating": 4.0,
+          "date": "November 15, 2025",
+          "author": "Seth",
+          "author_link": "https://www.amazon.com/gp/profile/amzn1.account.AEUYXI5OHQV554ZF3R4NEOVX6PKA?ref=cm_cr_dp_mb_bdcrb_top",
+          "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/12e6f568-b821-4385-b236-c7e7b7816333._CR86%2C0%2C328%2C328_SX460_SX110_.jpg",
+          "helpful_votes": "17 people found this helpful",
+          "verified_purchase": true,
+          "product": {
+            "color": "Warm White"
+          }
+        },
+        {
+          "position": 6,
+          "title": "Look great on bikes",
+          "text": "Better than expected! While I doubt the battery holder is even water resistant, they look great on bike spokes and are significantly cheaper than the designed product... for short term use im sure but looked great on our camping trip. Simply used electrical tape to hold the battery holder to the inside of the spokes and did a si gle wrap of the wires around every other spoke, the wire being solid core wrapped nicely and held without issue",
+          "rating": 5.0,
+          "date": "August 31, 2026",
+          "author": "Anthony P",
+          "author_link": "https://www.amazon.com/gp/profile/amzn1.account.AFPNPDJTTW5OBMFKP75DKPPB3IYA?ref=cm_cr_dp_mb_bdcrb_top",
+          "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SX110_.png",
+          "images": [
+            "https://m.media-amazon.com/images/I/81BQnslvwzL._SY500_.jpg"
+          ],
+          "helpful_votes": "15 people found this helpful",
+          "verified_purchase": true,
+          "product": {
+            "color": "6 Colors"
+          }
+        },
+        {
+          "position": 7,
+          "title": "Shine the light",
+          "text": "Great addition to table centerpieces. Loved the length which brought so much light to the tables. Highly recommend",
+          "rating": 5.0,
+          "date": "October 6, 2026",
+          "author": "Laura Shemonia",
+          "author_link": "https://www.amazon.com/gp/profile/amzn1.account.AGV3ZGAX6VNGEDRQO66W25HWPSEA?ref=cm_cr_dp_mb_bdcrb_top",
+          "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SX110_.png",
+          "verified_purchase": true,
+          "product": {
+            "color": "Warm White"
+          }
+        },
+        {
+          "position": 8,
+          "title": "They liked them",
+          "text": "Sent for a gift",
+          "rating": 3.0,
+          "date": "October 13, 2026",
+          "author": "Connie",
+          "author_link": "https://www.amazon.com/gp/profile/amzn1.account.AH7IEDFTY6W3FFBFHTZIWWPVFAGQ?ref=cm_cr_dp_mb_bdcrb_top",
+          "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SX110_.png",
+          "helpful_votes": "One person found this helpful",
+          "verified_purchase": true,
+          "product": {
+            "color": "Warm White"
+          }
+        }
+      ],
+      "other_countries_reviews": [
+        {
+          "position": 1,
+          "title": "Small, bright and beautiful led lights",
+          "text": "We put the lights up around the windows, the front door window, over and around potted plants, imitation miniature trees and in pumpkins for Hallowe'en. They're still shining after 20 hours so far, meaning the included replaceable battery life is good. The wires are flexible and strong, considering how fine they are and we shaped them into heart shapes 💕 and stars ✨ using tape in the plumpkins 🎃 🎃 and windows. With the range of colours in the set, these are practical all year round and in all seasons. I'll be adding them to wreaths for the door for any festive season; also around picture frames, over the potted plants, later onto the Christmas trees 🎄, around vases and seasonal ornaments. These are a bargain and I'll definitely order more; twelve is not enough! The colours are bright and true and it's hard to pick a favourite; green and purple looked great in the plumpkins and windows, blue, green, red and warm white would brighten Christmas. They'd bring a bit of cheer to any festival and they seem to be reasonably moisture proof so far too, being in two outdoor plumpkins 🎃 🎃.I like these lights very much. I highly recommend them and will buy more.",
+          "rating": 5.0,
+          "date": "November 1, 2024",
+          "author": "Fluffy",
+          "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SX110_.png",
+          "verified_purchase": true,
+          "product": {
+            "color": "6 Colors"
+          },
+          "country": {
+            "code": "GB",
+            "name": "United Kingdom"
+          },
+          "language": {
+            "code": "en",
+            "name": "English (United Kingdom)"
+          }
+        },
+        {
+          "position": 2,
+          "title": "جميللل",
+          "text": "العدد صحيح، فكهم صعب شوية بس عمتا حلوين اوي",
+          "rating": 5.0,
+          "date": "December 2, 2025",
+          "author": "Maria",
+          "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SX110_.png",
+          "verified_purchase": true,
+          "product": {
+            "color": "Warm White"
+          },
+          "country": {
+            "code": "AE",
+            "name": "United Arab Emirates"
+          },
+          "language": {
+            "code": "ar",
+            "name": "Arabic"
+          }
+        },
+        {
+          "position": 3,
+          "title": "Great buy!",
+          "text": "These lights are perfect for accenting my Christmas decorations and lighting mini tabletop trees. Great value for the price and the included batteries and tool are convenient and make set up a breeze. Definitely recommend!",
+          "rating": 5.0,
+          "date": "February 23, 2024",
+          "author": "Michelle",
+          "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SX110_.png",
+          "verified_purchase": true,
+          "product": {
+            "color": "Warm White"
+          },
+          "country": {
+            "code": "CA",
+            "name": "Canada"
+          },
+          "language": {
+            "code": "en",
+            "name": "English (Canada)"
+          }
+        },
+        {
+          "position": 4,
+          "title": "Those are great..",
+          "text": "Very bright a easy to use for whatever whenever. Love it.",
+          "rating": 5.0,
+          "date": "December 1, 2022",
+          "author": "AMJ",
+          "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SX110_.png",
+          "verified_purchase": true,
+          "product": {
+            "color": "Warm White"
+          },
+          "country": {
+            "code": "SG",
+            "name": "Singapore"
+          },
+          "language": {
+            "code": "en",
+            "name": "English"
+          }
+        },
+        {
+          "position": 5,
+          "title": "Sehr gut",
+          "text": "Sehr gute Preis/Leistung",
+          "rating": 5.0,
+          "date": "February 19, 2026",
+          "author": "Holger",
+          "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SX110_.png",
+          "verified_purchase": true,
+          "product": {
+            "color": "6 Colors"
+          },
+          "country": {
+            "code": "DE",
+            "name": "Germany"
+          },
+          "language": {
+            "code": "de",
+            "name": "German (Germany)"
+          }
+        }
+      ]
+    }
+  }
+}

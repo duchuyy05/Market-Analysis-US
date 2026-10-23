@@ -1,0 +1,1307 @@
+{
+  "provider": "serpapi",
+  "endpoint": "https://serpapi.com/search.json",
+  "parameters": {
+    "engine": "amazon_product",
+    "asin": "B06WVB8P3B",
+    "amazon_domain": "amazon.com",
+    "language": "en_US",
+    "shipping_location": "US",
+    "device": "mobile",
+    "output": "json"
+  },
+  "fetched_at_utc": "2026-10-22T16:13:59.945453+00:00",
+  "raw_file": "supplements/supplement-2026-10-22T1610589019850000-ed08e5/raw/serpapi-ae12d4adec6a179a1052.json",
+  "response": {
+    "search_metadata": {
+      "id": "6ada3648e7a2a9a63f97f033",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/tBKq_4lrXoTGw947vF_6xH2zdtm9Uec-DCP4835-EMM/6ada3648e7a2a9a63f97f033.json",
+      "markdown_endpoint": "https://serpapi.com/searches/tBKq_4lrXoTGw947vF_6xH2zdtm9Uec-DCP4835-EMM/6ada3648e7a2a9a63f97f033.md",
+      "created_at": "2026-10-22 16:14:00 UTC",
+      "processed_at": "2026-10-22 16:14:00 UTC",
+      "amazon_product_url": "https://www.amazon.com/dp/B06WVB8P3B/?language=en_US",
+      "raw_html_file": "https://serpapi.com/searches/tBKq_4lrXoTGw947vF_6xH2zdtm9Uec-DCP4835-EMM/6ada3648e7a2a9a63f97f033.html",
+      "total_time_taken": 12.6
+    },
+    "search_parameters": {
+      "engine": "amazon_product",
+      "asin": "B06WVB8P3B",
+      "amazon_domain": "amazon.com",
+      "language": "en_US",
+      "device": "mobile",
+      "shipping_location": "US"
+    },
+    "product_results": {
+      "categories": [
+        {
+          "position": 1,
+          "name": "Tools & Home Improvement",
+          "link": "https://www.amazon.com/Tools-and-Home-Improvement/b/ref=m_dp_bc_1?ie=UTF8&node=228013",
+          "node": "228013",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=mobile&engine=amazon&language=en_US&node=228013&shipping_location=US"
+        },
+        {
+          "position": 2,
+          "name": "Lighting & Ceiling Fans",
+          "link": "https://www.amazon.com/lighting-ceiling-fans/b/ref=m_dp_bc_2?ie=UTF8&node=495224",
+          "node": "495224",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=mobile&engine=amazon&language=en_US&node=495224&shipping_location=US"
+        },
+        {
+          "position": 3,
+          "name": "Novelty Lighting",
+          "link": "https://www.amazon.com/Novelty-Lighting/b/ref=m_dp_bc_3?ie=UTF8&node=3736531",
+          "node": "3736531",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=mobile&engine=amazon&language=en_US&node=3736531&shipping_location=US"
+        },
+        {
+          "position": 4,
+          "name": "Disco Ball Lamps",
+          "link": "https://www.amazon.com/Disco-Ball-Lamps/b/ref=m_dp_bc_4?ie=UTF8&node=5486431011",
+          "node": "5486431011",
+          "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&device=mobile&engine=amazon&language=en_US&node=5486431011&shipping_location=US"
+        }
+      ],
+      "asin": "B06WVB8P3B",
+      "title": "Luditek Sound Activated Party Lights with Remote DJ Lighting, Disco Ball Strobe Stage Light for Home Room Dance Parties Birthday Karaoke Stocking Stuffers New Years Eve Halloween Christmas Decorations",
+      "link": "https://www.amazon.com/Activated-Control-Lighting-Parties-Birthday/dp/B06WVB8P3B/",
+      "link_clean": "https://www.amazon.com/dp/B06WVB8P3B/",
+      "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B06WVB8P3B&device=mobile&engine=amazon_product&language=en_US&shipping_location=US",
+      "badges": [
+        "Amazon's Choice"
+      ],
+      "brand": ".premium-logoByLine-brand-logo { max-height: 36px; height: auto; max-width: min(154px, 100%); min-width: 4px; width: auto; object-fit: contain; } Visit the Store, Luditek Luditek Visit the Store",
+      "thumbnail": "https://m.media-amazon.com/images/I/71G4t-Vi4cL._AC_UF894,1000_QL80_FMwebp_.jpg",
+      "thumbnails": [
+        "https://m.media-amazon.com/images/I/71G4t-Vi4cL._AC_UF894,1000_QL80_FMwebp_.jpg",
+        "https://m.media-amazon.com/images/I/71LCvCtxb-L._AC_UF894,1000_QL80_FMwebp_.jpg",
+        "https://m.media-amazon.com/images/I/61Q8tCht4DL._AC_UF894,1000_QL80_FMwebp_.jpg",
+        "https://m.media-amazon.com/images/I/71RZJw0RwbL._AC_UF894,1000_QL80_FMwebp_.jpg",
+        "https://m.media-amazon.com/images/I/71sDlT6GhzL._AC_UF894,1000_QL80_FMwebp_.jpg",
+        "https://m.media-amazon.com/images/I/71zQl9KOxaL._AC_UF894,1000_QL80_FMwebp_.jpg",
+        "https://m.media-amazon.com/images/I/71hLmuRnE8L._AC_UF894,1000_QL80_FMwebp_.jpg"
+      ],
+      "rating": 4.6,
+      "reviews": 44882,
+      "bought_last_month": "10K+ bought in past month",
+      "price": "$9.99",
+      "extracted_price": 9.99,
+      "delivery": [
+        "FREE delivery Wednesday, October 28 on orders shipped by Amazon over $35. Order within 12 hrs 45 mins",
+        "Arrives 3 days before Halloween"
+      ],
+      "stock": "In Stock"
+    },
+    "purchase_options": {
+      "single_offer": {
+        "price": "$9.99",
+        "extracted_price": 9.99,
+        "delivery": [
+          "FREE delivery Wednesday, October 28 on orders shipped by Amazon over $35. Order within 12 hrs 45 mins",
+          "Arrives 3 days before Halloween"
+        ],
+        "stock": "In Stock",
+        "features": {
+          "ships_from": {
+            "text": "Amazon",
+            "details": {
+              "heading": "Ships from",
+              "content": "Amazon"
+            }
+          },
+          "sold_by": {
+            "text": "Goodbuymall",
+            "details": {
+              "heading": "Sold by",
+              "content": "Goodbuymall"
+            },
+            "link": {
+              "text": "Goodbuymall",
+              "link": "https://www.amazon.com/gp/aw/sp.html/ref=dp_merchant_link?ie=UTF8&seller=A2PEPN83SCSDWO&asin=B06WVB8P3B&ref_=dp_merchant_link&isAmazonFulfilled=1"
+            }
+          },
+          "returns": {
+            "text": "FREE 30-day refund/replacement",
+            "details": {
+              "heading": "FREE 30-day refund/replacement"
+            },
+            "link": {
+              "text": "See exceptions",
+              "link": "https://www.amazon.com/gp/help/customer/display.html/?nodeId=GKQNFKFK5CF3C54B"
+            }
+          },
+          "packaging": {
+            "text": "Ships in product packaging"
+          }
+        }
+      }
+    },
+    "item_specifications": {
+      "color": "Black",
+      "shape": "Round",
+      "material": "Acrylonitrile Butadiene Styrene (ABS)",
+      "finish_type": "Unfinished",
+      "light_source_type": "Light Emitting Diode",
+      "power_source": "Corded Electric"
+    },
+    "about_item": [
+      "Multi-functional sound activated party lights: 3 sound-activated modes + 7 lighting modes + Rotating speed control",
+      "Bright 7 modes changing disco lighting: The disco ball light is easy to choose single colors or multicolor combination by the handy remote. (red, green, blue, red/green, red/blue, green/blue, or all the colors together)",
+      "Perfect party decorations: Good choice as party accessories for birthday party, pool party, disco party, dance party, pajama party, and Holiday, Wedding, Christmas, Karaoke, DJ, Christmas party decorations, Halloween party supplies, New years eve party supplies 2026, new years decorations and more imaginable uses.",
+      "Easy to Use: LED stage lights, Plug in and play, you can put it on your desk, and it also could be installed on the wall or ceiling",
+      "What you get: 1 x disco ball light, 1 x remote control, 1 x user guide. For Luditek party light, in addition to being supply for party decor and home decoration. It is also as a cool stuff toys stocking stuffers christmas gift for kids boys and girls"
+    ],
+    "related_products": [
+      {
+        "position": 1,
+        "asin": "B0CY2FM6PT",
+        "title": "Pinspot Light, Czgor 18W RGBW 4 in 1 LED Spot Lights with Remote | Super Bright with Light Guide Pillar, Manual Focus Disco Ball Spotlight, Soft Cozy Stage Effect Lighting for DJ Party Wedding",
+        "link": "https://www.amazon.com/dp/B0CY2FM6PT/ref=sspa_mw_detail_0?ie=UTF8&psc=1&spc=MTo1Nzc0ODA2MTM5NDUxMjkxOjE3OTI2ODU2NTE6c3BfcGhvbmVfZGV0YWlsOjMwMTMzMzQwMDU0NTgwMjo6Ojo&sp_csd=d2lkZ2V0TmFtZT1zcF9waG9uZV9kZXRhaWw",
+        "link_clean": "https://www.amazon.com/dp/B0CY2FM6PT/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0CY2FM6PT&device=mobile&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "thumbnail": "https://m.media-amazon.com/images/I/61tMdfOyrwL._AC_UX450_UY450_SR450,450_.jpg",
+        "rating": 4.0,
+        "reviews": 242,
+        "price": "$29.99",
+        "extracted_price": 29.99
+      },
+      {
+        "position": 2,
+        "asin": "B06ZY5J73Y",
+        "title": "Luditek Portable Disco Ball Party Lights Sound Activated Battery Powered | Karaoke Dancing Strobe Lights for Indoor Outdoor Christmas Halloween Party Decorations Supplies for Car Home",
+        "link": "https://www.amazon.com/dp/B06ZY5J73Y/ref=sspa_mw_detail_1?ie=UTF8&psc=1&spc=MTo1Nzc0ODA2MTM5NDUxMjkxOjE3OTI2ODU2NTE6c3BfcGhvbmVfZGV0YWlsOjIwMDAyNTc3NDU0OTQ2MTo6Ojo&sp_csd=d2lkZ2V0TmFtZT1zcF9waG9uZV9kZXRhaWw",
+        "link_clean": "https://www.amazon.com/dp/B06ZY5J73Y/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B06ZY5J73Y&device=mobile&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "thumbnail": "https://m.media-amazon.com/images/I/71a2E7c5oRL._AC_UX450_UY450_SR450,450_.jpg",
+        "rating": 4.5,
+        "reviews": 6316,
+        "price": "$12.99",
+        "extracted_price": 12.99
+      },
+      {
+        "position": 3,
+        "asin": "B0HBQ7GKXZ",
+        "title": "Ikarao Disco Ball Party Lights, Sound Activated Strobe with USB-C Charging | Built-In Lithium Battery, Waterproof Color-Changing DJ Light with Hanging Cord for Outdoors, Karaoke, Halloween &amp; Christmas",
+        "link": "https://www.amazon.com/dp/B0HBQ7GKXZ/ref=sspa_mw_detail_2?ie=UTF8&psc=1&spc=MTo1Nzc0ODA2MTM5NDUxMjkxOjE3OTI2ODU2NTE6c3BfcGhvbmVfZGV0YWlsOjMwMTU2MjAyMzc1NjEwMjo6Ojo&sp_csd=d2lkZ2V0TmFtZT1zcF9waG9uZV9kZXRhaWw",
+        "link_clean": "https://www.amazon.com/dp/B0HBQ7GKXZ/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0HBQ7GKXZ&device=mobile&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "thumbnail": "https://m.media-amazon.com/images/I/719solJLG1L._AC_UX450_UY450_SR450,450_.jpg",
+        "rating": 4.5,
+        "reviews": 11,
+        "discount": "-17%",
+        "price": "$24.99",
+        "extracted_price": 24.99,
+        "old_price": "null"
+      },
+      {
+        "position": 4,
+        "asin": "B0H39BBWD6",
+        "title": "YSH Disco Stage Light, RGB Magic Ball Effect, Sound Activated LED Pattern Strobe Light, USB Power Supply, Suitable for DJ, bar KTV、 Party Lights for Family Birthday Parties and Xmas Decorations",
+        "link": "https://www.amazon.com/dp/B0H39BBWD6/ref=sspa_mw_detail_3?ie=UTF8&psc=1&spc=MTo1Nzc0ODA2MTM5NDUxMjkxOjE3OTI2ODU2NTE6c3BfcGhvbmVfZGV0YWlsOjMwMTM3MTg3MzIwMTAwMjo6Ojo&sp_csd=d2lkZ2V0TmFtZT1zcF9waG9uZV9kZXRhaWw",
+        "link_clean": "https://www.amazon.com/dp/B0H39BBWD6/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0H39BBWD6&device=mobile&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "thumbnail": "https://m.media-amazon.com/images/I/71-OTKk7vhL._AC_UX450_UY450_SR450,450_.jpg",
+        "rating": 4.4,
+        "reviews": 15,
+        "discount": "-7%",
+        "price": "$27.99",
+        "extracted_price": 27.99,
+        "old_price": "null",
+        "save_with_coupon": "You pay $23.79"
+      },
+      {
+        "position": 5,
+        "asin": "B0B18VS9M7",
+        "title": "Dj Party Disco Ball Lights with Pattern and Sound Activated,10 ft USB Cable, Laucnpty LED Stage Strobe Light that Sync with Music, Christmas Rave/Home Karaoke/Dance/Club Bar Lights for Parties",
+        "link": "https://www.amazon.com/dp/B0B18VS9M7/ref=sspa_mw_detail_4?ie=UTF8&psc=1&spc=MTo1Nzc0ODA2MTM5NDUxMjkxOjE3OTI2ODU2NTE6c3BfcGhvbmVfZGV0YWlsOjMwMDg3MDU5OTA1NjcwMjo6Ojo&sp_csd=d2lkZ2V0TmFtZT1zcF9waG9uZV9kZXRhaWw",
+        "link_clean": "https://www.amazon.com/dp/B0B18VS9M7/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0B18VS9M7&device=mobile&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "thumbnail": "https://m.media-amazon.com/images/I/71QklTg9tvL._AC_UX450_UY450_SR450,450_.jpg",
+        "rating": 4.5,
+        "reviews": 756,
+        "price": "$39.99",
+        "extracted_price": 39.99,
+        "save_with_coupon": "You pay $35.99"
+      },
+      {
+        "position": 6,
+        "asin": "B0D1XJHGJ6",
+        "title": "Mini Disco Ball Light with Sound-Activated Multicolor Lighting | Sound-Activated Multicolor Lighting with Music Synchronization; Mini DJ Disco Light for Car Interiors, Rooms and Parties",
+        "link": "https://www.amazon.com/dp/B0D1XJHGJ6/ref=sspa_mw_detail_5?ie=UTF8&psc=1&spc=MTo1Nzc0ODA2MTM5NDUxMjkxOjE3OTI2ODU2NTE6c3BfcGhvbmVfZGV0YWlsOjMwMTU5MTAzMzA1NTAwMjo6Ojo&sp_csd=d2lkZ2V0TmFtZT1zcF9waG9uZV9kZXRhaWw",
+        "link_clean": "https://www.amazon.com/dp/B0D1XJHGJ6/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0D1XJHGJ6&device=mobile&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "badges": [
+          "Amazon's Choice"
+        ],
+        "thumbnail": "https://m.media-amazon.com/images/I/71EsSoxtlOL._AC_UX450_UY450_SR450,450_.jpg",
+        "rating": 4.4,
+        "reviews": 192,
+        "price": "$14.99",
+        "extracted_price": 14.99
+      },
+      {
+        "position": 7,
+        "asin": "B0H36W57J8",
+        "title": "54 LED Stage Lights for Parties, 54W RGBW Par Light with Remote &amp; DMX Mode | DMX512 Controlled Sound Activated Uplights for Events Wedding Birthday Christmas Music Show Dance Party DJ Lighting, 2 Pack",
+        "link": "https://www.amazon.com/dp/B0H36W57J8/ref=sspa_mw_detail_6?ie=UTF8&psc=1&spc=MTo1Nzc0ODA2MTM5NDUxMjkxOjE3OTI2ODU2NTE6c3BfcGhvbmVfZGV0YWlsOjMwMTQ4MTk5NjI5OTkwMjo6Ojo&sp_csd=d2lkZ2V0TmFtZT1zcF9waG9uZV9kZXRhaWw",
+        "link_clean": "https://www.amazon.com/dp/B0H36W57J8/",
+        "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0H36W57J8&device=mobile&engine=amazon_product&language=en_US&shipping_location=US",
+        "sponsored": true,
+        "thumbnail": "https://m.media-amazon.com/images/I/814ETfePBOL._AC_UX450_UY450_SR450,450_.jpg",
+        "rating": 4.3,
+        "reviews": 30,
+        "price": "$39.98",
+        "extracted_price": 39.98,
+        "price_unit": "$19.99 / count",
+        "extracted_price_unit": 19.99
+      }
+    ],
+    "related_product_sections": [
+      {
+        "title": "You might also like",
+        "items": [
+          {
+            "position": 1,
+            "asin": "B0CY2FM6PT",
+            "title": "Pinspot Light, Czgor 18W RGBW 4 in 1 LED Spot Lights with Remote | Super Bright with Light Guide Pillar, Manual Focus Disco Ball Spotlight, Soft Cozy Stage Effect Lighting for DJ Party Wedding",
+            "link": "https://www.amazon.com/dp/B0CY2FM6PT/ref=sspa_mw_detail_0?ie=UTF8&psc=1&spc=MTo1Nzc0ODA2MTM5NDUxMjkxOjE3OTI2ODU2NTE6c3BfcGhvbmVfZGV0YWlsOjMwMTMzMzQwMDU0NTgwMjo6Ojo&sp_csd=d2lkZ2V0TmFtZT1zcF9waG9uZV9kZXRhaWw",
+            "link_clean": "https://www.amazon.com/dp/B0CY2FM6PT/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0CY2FM6PT&device=mobile&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "thumbnail": "https://m.media-amazon.com/images/I/61tMdfOyrwL._AC_UX450_UY450_SR450,450_.jpg",
+            "rating": 4.0,
+            "reviews": 242,
+            "price": "$29.99",
+            "extracted_price": 29.99
+          },
+          {
+            "position": 2,
+            "asin": "B06ZY5J73Y",
+            "title": "Luditek Portable Disco Ball Party Lights Sound Activated Battery Powered | Karaoke Dancing Strobe Lights for Indoor Outdoor Christmas Halloween Party Decorations Supplies for Car Home",
+            "link": "https://www.amazon.com/dp/B06ZY5J73Y/ref=sspa_mw_detail_1?ie=UTF8&psc=1&spc=MTo1Nzc0ODA2MTM5NDUxMjkxOjE3OTI2ODU2NTE6c3BfcGhvbmVfZGV0YWlsOjIwMDAyNTc3NDU0OTQ2MTo6Ojo&sp_csd=d2lkZ2V0TmFtZT1zcF9waG9uZV9kZXRhaWw",
+            "link_clean": "https://www.amazon.com/dp/B06ZY5J73Y/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B06ZY5J73Y&device=mobile&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "thumbnail": "https://m.media-amazon.com/images/I/71a2E7c5oRL._AC_UX450_UY450_SR450,450_.jpg",
+            "rating": 4.5,
+            "reviews": 6316,
+            "price": "$12.99",
+            "extracted_price": 12.99
+          },
+          {
+            "position": 3,
+            "asin": "B0HBQ7GKXZ",
+            "title": "Ikarao Disco Ball Party Lights, Sound Activated Strobe with USB-C Charging | Built-In Lithium Battery, Waterproof Color-Changing DJ Light with Hanging Cord for Outdoors, Karaoke, Halloween &amp; Christmas",
+            "link": "https://www.amazon.com/dp/B0HBQ7GKXZ/ref=sspa_mw_detail_2?ie=UTF8&psc=1&spc=MTo1Nzc0ODA2MTM5NDUxMjkxOjE3OTI2ODU2NTE6c3BfcGhvbmVfZGV0YWlsOjMwMTU2MjAyMzc1NjEwMjo6Ojo&sp_csd=d2lkZ2V0TmFtZT1zcF9waG9uZV9kZXRhaWw",
+            "link_clean": "https://www.amazon.com/dp/B0HBQ7GKXZ/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0HBQ7GKXZ&device=mobile&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "thumbnail": "https://m.media-amazon.com/images/I/719solJLG1L._AC_UX450_UY450_SR450,450_.jpg",
+            "rating": 4.5,
+            "reviews": 11,
+            "discount": "-17%",
+            "price": "$24.99",
+            "extracted_price": 24.99,
+            "old_price": "null"
+          },
+          {
+            "position": 4,
+            "asin": "B0H39BBWD6",
+            "title": "YSH Disco Stage Light, RGB Magic Ball Effect, Sound Activated LED Pattern Strobe Light, USB Power Supply, Suitable for DJ, bar KTV、 Party Lights for Family Birthday Parties and Xmas Decorations",
+            "link": "https://www.amazon.com/dp/B0H39BBWD6/ref=sspa_mw_detail_3?ie=UTF8&psc=1&spc=MTo1Nzc0ODA2MTM5NDUxMjkxOjE3OTI2ODU2NTE6c3BfcGhvbmVfZGV0YWlsOjMwMTM3MTg3MzIwMTAwMjo6Ojo&sp_csd=d2lkZ2V0TmFtZT1zcF9waG9uZV9kZXRhaWw",
+            "link_clean": "https://www.amazon.com/dp/B0H39BBWD6/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0H39BBWD6&device=mobile&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "thumbnail": "https://m.media-amazon.com/images/I/71-OTKk7vhL._AC_UX450_UY450_SR450,450_.jpg",
+            "rating": 4.4,
+            "reviews": 15,
+            "discount": "-7%",
+            "price": "$27.99",
+            "extracted_price": 27.99,
+            "old_price": "null",
+            "save_with_coupon": "You pay $23.79"
+          },
+          {
+            "position": 5,
+            "asin": "B0B18VS9M7",
+            "title": "Dj Party Disco Ball Lights with Pattern and Sound Activated,10 ft USB Cable, Laucnpty LED Stage Strobe Light that Sync with Music, Christmas Rave/Home Karaoke/Dance/Club Bar Lights for Parties",
+            "link": "https://www.amazon.com/dp/B0B18VS9M7/ref=sspa_mw_detail_4?ie=UTF8&psc=1&spc=MTo1Nzc0ODA2MTM5NDUxMjkxOjE3OTI2ODU2NTE6c3BfcGhvbmVfZGV0YWlsOjMwMDg3MDU5OTA1NjcwMjo6Ojo&sp_csd=d2lkZ2V0TmFtZT1zcF9waG9uZV9kZXRhaWw",
+            "link_clean": "https://www.amazon.com/dp/B0B18VS9M7/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0B18VS9M7&device=mobile&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "thumbnail": "https://m.media-amazon.com/images/I/71QklTg9tvL._AC_UX450_UY450_SR450,450_.jpg",
+            "rating": 4.5,
+            "reviews": 756,
+            "price": "$39.99",
+            "extracted_price": 39.99,
+            "save_with_coupon": "You pay $35.99"
+          },
+          {
+            "position": 6,
+            "asin": "B0D1XJHGJ6",
+            "title": "Mini Disco Ball Light with Sound-Activated Multicolor Lighting | Sound-Activated Multicolor Lighting with Music Synchronization; Mini DJ Disco Light for Car Interiors, Rooms and Parties",
+            "link": "https://www.amazon.com/dp/B0D1XJHGJ6/ref=sspa_mw_detail_5?ie=UTF8&psc=1&spc=MTo1Nzc0ODA2MTM5NDUxMjkxOjE3OTI2ODU2NTE6c3BfcGhvbmVfZGV0YWlsOjMwMTU5MTAzMzA1NTAwMjo6Ojo&sp_csd=d2lkZ2V0TmFtZT1zcF9waG9uZV9kZXRhaWw",
+            "link_clean": "https://www.amazon.com/dp/B0D1XJHGJ6/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0D1XJHGJ6&device=mobile&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "badges": [
+              "Amazon's Choice"
+            ],
+            "thumbnail": "https://m.media-amazon.com/images/I/71EsSoxtlOL._AC_UX450_UY450_SR450,450_.jpg",
+            "rating": 4.4,
+            "reviews": 192,
+            "price": "$14.99",
+            "extracted_price": 14.99
+          },
+          {
+            "position": 7,
+            "asin": "B0H36W57J8",
+            "title": "54 LED Stage Lights for Parties, 54W RGBW Par Light with Remote &amp; DMX Mode | DMX512 Controlled Sound Activated Uplights for Events Wedding Birthday Christmas Music Show Dance Party DJ Lighting, 2 Pack",
+            "link": "https://www.amazon.com/dp/B0H36W57J8/ref=sspa_mw_detail_6?ie=UTF8&psc=1&spc=MTo1Nzc0ODA2MTM5NDUxMjkxOjE3OTI2ODU2NTE6c3BfcGhvbmVfZGV0YWlsOjMwMTQ4MTk5NjI5OTkwMjo6Ojo&sp_csd=d2lkZ2V0TmFtZT1zcF9waG9uZV9kZXRhaWw",
+            "link_clean": "https://www.amazon.com/dp/B0H36W57J8/",
+            "serpapi_link": "https://serpapi.com/search.json?amazon_domain=amazon.com&asin=B0H36W57J8&device=mobile&engine=amazon_product&language=en_US&shipping_location=US",
+            "sponsored": true,
+            "thumbnail": "https://m.media-amazon.com/images/I/814ETfePBOL._AC_UX450_UY450_SR450,450_.jpg",
+            "rating": 4.3,
+            "reviews": 30,
+            "price": "$39.98",
+            "extracted_price": 39.98,
+            "price_unit": "$19.99 / count",
+            "extracted_price_unit": 19.99
+          }
+        ]
+      }
+    ],
+    "videos": [
+      {
+        "position": 1,
+        "title": "Dance party anyone?",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/160cbc64-764c-49a3-a1b3-9d8f8e9ddb5d/videopreview.jobtemplate.mp4.default.mp4",
+        "thumbnail": "https://m.media-amazon.com/images/I/51r+YA20NZL.jpg",
+        "duration": "0:54",
+        "vendor": "Jenn D",
+        "vendor_thumbnail": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SL34_.png",
+        "date": "Sep 25, 2022"
+      },
+      {
+        "position": 2,
+        "title": "I can see why this is popular!",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/74bea729-867c-48d3-bbb4-7f0a22ceb639/videopreview.jobtemplate.mp4.default.mp4",
+        "thumbnail": "https://m.media-amazon.com/images/I/91PO97AeyxL.png",
+        "duration": "3:14",
+        "vendor": "✨🛍️ BigDealBabe 🛍️✨",
+        "vendor_thumbnail": "https://m.media-amazon.com/images/I/61rIyNFNwuL._CR0,0,720,720_._FMjpg_._SL34_.jpg",
+        "date": "Jun 27, 2025"
+      },
+      {
+        "position": 3,
+        "title": "Sound activated party light with a remote!",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/f56b2483-6ab6-4b66-9baf-e3172915eeea/videopreview.jobtemplate.mp4.default.mp4",
+        "thumbnail": "https://m.media-amazon.com/images/I/61agmFXJ5CL.jpg",
+        "duration": "0:36",
+        "vendor": "Paige Laura",
+        "vendor_thumbnail": "https://m.media-amazon.com/images/I/A1Hy5NMuI6L._CR0,29,1170,1170_._FMjpg_._SL34_.jpg",
+        "date": "May 30, 2024"
+      },
+      {
+        "position": 4,
+        "title": "Galaxy light that moves to the beat of the music",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/2c6fd178-baf7-4f3b-9def-b365345b643f/videopreview.jobtemplate.mp4.default.mp4",
+        "thumbnail": "https://m.media-amazon.com/images/I/81ySMEvNigL.jpg",
+        "duration": "1:43",
+        "vendor": "UGT",
+        "vendor_thumbnail": "https://m.media-amazon.com/images/I/91Ygzp0r5sL._CR0,0,2000,2000_._FMjpg_._SL34_.jpg",
+        "date": "Sep 18, 2024"
+      },
+      {
+        "position": 5,
+        "title": "Disco ball with multiple functions.",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/17bdfc0f-2388-46f1-8309-f86fbd463e18/videopreview.jobtemplate.mp4.default.mp4",
+        "thumbnail": "https://m.media-amazon.com/images/I/61O9yYuHr0L.jpg",
+        "duration": "0:30",
+        "vendor": "Kellyandherkrazies",
+        "vendor_thumbnail": "https://m.media-amazon.com/images/I/B1nLaveAinL._CR0,60,1822,1822_._FMjpg_._SL34_.jpg",
+        "date": "Sep 8, 2024"
+      },
+      {
+        "position": 6,
+        "title": "I recommend it.",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/1244c277-31e3-4ce3-91ac-9258a6d1e1b9/videopreview.jobtemplate.mp4.default.mp4",
+        "thumbnail": "https://m.media-amazon.com/images/I/61mL0adRUiL.jpg",
+        "duration": "0:33",
+        "vendor": "Yahia Wazzan",
+        "vendor_thumbnail": "https://m.media-amazon.com/images/S/amazon-avatars-global/fc0518a7-ceb1-4c15-96b6-c8746f7cd251._CR0%2C0%2C500%2C500_SX460_._SL34_.jpeg",
+        "date": "Dec 3, 2024"
+      },
+      {
+        "position": 7,
+        "title": "Worked well in a gym",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/21cdfe37-af48-4d1a-b542-b270f6aabf2f/videopreview.jobtemplate.mp4.342X192P_20HZ_350KBPS_VER_1_0.mp4",
+        "thumbnail": "https://m.media-amazon.com/images/I/51bjxVLyu4L.jpg",
+        "duration": "0:13",
+        "vendor": "Kindle Customer",
+        "vendor_thumbnail": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SL34_.png",
+        "date": "Oct 15, 2022"
+      },
+      {
+        "position": 8,
+        "title": "Makes a squeaking noise",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/d53af055-f1e9-4ff2-ae68-f996f6f688fd/videopreview.jobtemplate.mp4.default.mp4",
+        "thumbnail": "https://m.media-amazon.com/images/I/41PyfQ4JWFL.jpg",
+        "duration": "0:07",
+        "vendor": "Lucia",
+        "vendor_thumbnail": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SL34_.png",
+        "date": "Oct 6, 2021"
+      },
+      {
+        "position": 9,
+        "title": "First time video review!",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/9fd9940a-8371-4fb5-97a9-82c25bf1c5bf/videopreview.jobtemplate.mp4.342X192P_20HZ_350KBPS_VER_1_0.mp4",
+        "thumbnail": "https://m.media-amazon.com/images/I/61QFwWa0JWL.jpg",
+        "duration": "1:11",
+        "vendor": "Stone",
+        "vendor_thumbnail": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SL34_.png",
+        "date": "Oct 9, 2021"
+      },
+      {
+        "position": 10,
+        "title": "but it is a fun, cheap little addition for my son's room for ...",
+        "link": "https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/3fa23f7e-16f7-46c7-aec1-15f32253c201/videopreview.jobtemplate.mp4.342X192P_20HZ_350KBPS_VER_1_0.mp4",
+        "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/A1u4g+o0UBS.png",
+        "duration": "2:08",
+        "vendor": "LP",
+        "vendor_thumbnail": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SL34_.png",
+        "date": "Jan 20, 2018"
+      }
+    ],
+    "product_description": [
+      {
+        "position": 1,
+        "title": "disco lights",
+        "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/2b57e4f6-a810-4e8c-8bd4-509da99a2abd.__CR0,0,600,450_PT0_SX600_V1___.jpg"
+      },
+      {
+        "position": 2,
+        "title": "disco lights",
+        "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/f1662d07-fc10-443c-a4af-20b8beeffada.__CR0,0,600,450_PT0_SX600_V1___.jpg"
+      },
+      {
+        "position": 3,
+        "title": "disco lights",
+        "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/d4368817-4bef-4947-b009-c13a4c360217.__CR0,0,600,450_PT0_SX600_V1___.jpg"
+      },
+      {
+        "position": 4,
+        "title": "disco lights",
+        "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/e87cbb4a-af1c-4a46-89ad-4c438796f91b.__CR0,0,600,450_PT0_SX600_V1___.jpg"
+      },
+      {
+        "position": 5,
+        "title": "disco lights",
+        "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/39ad4bd5-ecc5-49dd-91e6-1ddcdfc41473.__CR0,0,600,450_PT0_SX600_V1___.jpg"
+      },
+      {
+        "position": 6,
+        "title": "disco lights",
+        "image": "https://m.media-amazon.com/images/S/aplus-media-library-service-media/445ed57b-9840-4385-a60b-8f8c594c04ee.__CR0,0,600,450_PT0_SX600_V1___.jpg"
+      }
+    ],
+    "product_details": {
+      "light_source_type": "Light Emitting Diode",
+      "power_source": "Corded Electric",
+      "number_of_batteries": "1 Lithium Metal batteries required.",
+      "voltage": "110 volts",
+      "maximum_compatible_light_source_wattage": "3 watts",
+      "light_source_wattage": "3 watts",
+      "mounting_type": "Tabletop, Wall Mount, Ceiling Mount",
+      "light_source_special_features": "remote control,sound activated",
+      "number_of_light_sources": "3",
+      "wattage": "3 watts",
+      "battery_description": "Lithium-Ion or Lithium Metal",
+      "color": "Black",
+      "shape": "Round",
+      "finish_types": "Unfinished",
+      "style_name": "Decorative",
+      "brand_name": "Luditek",
+      "model_number": "GT019",
+      "number_of_packs": "1",
+      "number_of_items": "1",
+      "manufacturer": "Luditek",
+      "upc": "713463433758",
+      "unit_count": "1 Count",
+      "included_components": "1*disco ball light,1*remote control,1*user manual",
+      "manufacturer_part_number": "GT019",
+      "best_sellers_rank": [
+        {
+          "text": "#79 in Tools & Home Improvement (See Top 100 in Tools & Home Improvement)",
+          "extracted_rank": 79,
+          "link": "https://www.amazon.com/gp/bestsellers/hi/ref=pd_zg_ts_hi",
+          "link_text": "See Top 100 in Tools & Home Improvement"
+        },
+        {
+          "text": "#1 in Disco Ball Lamps",
+          "extracted_rank": 1,
+          "link": "https://www.amazon.com/gp/bestsellers/hi/5486431011/ref=pd_zg_hrsr_hi",
+          "link_text": "Disco Ball Lamps"
+        }
+      ],
+      "asin": "B06WVB8P3B",
+      "customer_reviews": "4.6 out of 5 stars 44,882Reviews",
+      "material_type": "Acrylonitrile Butadiene Styrene (ABS)",
+      "item_weight": "8.32 ounces",
+      "item_dimensions_l_x_w_x_h": "3.43\"L x 3.43\"W x 3.82\"H"
+    },
+    "sponsored_brands": [
+      {
+        "position": 1,
+        "image": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/b3c4e53a-2b3f-45b3-a872-45511e029f2e._CR0,476,2000,1048_AC_SX414_CB1169409_QL70_.jpg",
+        "name": "YANGHOPES",
+        "brand_logo": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/c1eab134-738f-409e-bba5-2f54b9d173b1._CR0,0,1000,1000_AC_SX96_SY40_CB1169409_QL70_.jpg",
+        "headline": "DMX Moving Head DJ Light Rotating Beam Lights",
+        "link": "https://aax-us-east-retail-direct.amazon.com/x/c/JO3Ai7TkNYD2kYByKrOoFOUAAAGhZGQ1eAEAAAH2AQBvbm9fdHhuX2JpZDIgICBvbm9fdHhuX2ltcDEgICDA9zp6/clv1c_ek-wBXfWVcba3TK2ZyrC7XdcOO1Dnzj8TQ-t_egJ1d54u5nNTnw1jsj74UQvwtrbA-wrTRSqG76ff_Ys3ZsZivJYIAk2a1T1YdxVHLNgu8QwDAlpo5baT1HZIflsyhrhPPop2bj5qLlIrofwT_jh62CaocGM9tXuCEPyziH6JMafWHgn9KR_m5B0NZgo4nlwtI3XtBONLycIV-Jmul2Qavwx_2ov1J5GHIrBB4DbPrES93jRcwfuP53TPYFFA6XXzwiKZRmh8ymciCd47a3E4Ot3nEdTs6_WYoC1_SpkpFcjGMvTMB02on5WOkdeFpRznZDYEDE5teW4OT4g2_dG_ChcCYcLTQSp162G450rYu4wscPeqtfQh8h3-ic3eiTfSHtToGDG49Dk5MN-zRcw_u5dt-MuMlHU2qJqm7MlPSiy2D-OraARelII92bYjwhF8JWb7xcmFMGmN1wkITl03Mfca-9NZyp1U6axN8xkr3uqZR6GhDt4prorNwVoTFEnrEigviPjGltb5FTTeKXTNpYlPuMgfG8nY0mjddCVPsgdKBRFyZyt-MmtYnVBc0YPJ1ka1bZtnytpxAI85NjpGadyKERirqJxvzRqMkbgLcHqui2MoJdhdTJGG1Un69DTIknVUaGthZYrqIt5GlJIluRbBAoG5JscZGH_K86ZR9_4IGzeN1VZBkBrbECxAPalfNTjBPu6H36UqLASchcl-5u25fiJvTem8ra_JCCl6YFO7kswCj_D-r2vkocmLAloLLiwVoP9V2czDhtmpS3cW75SH291zOCFyPGeVFJWrXTEq5qe41onX_hpoIu8g_oi8owkZ9Agt-rFWyQj90kRPZDvxXcXmmal6VatWakMygpZkt6iia9rF_o9OHqSB9XyWaUZRC362lUoYzOLGfS4t0X1gWru-9JZOxVXCLvbWRizhpk2N_gu11iZf_D45vgU7v0UCZ97X-791w17G5y6ed02M-xysTpVCJFB_t1E9mR4mwT5Cixj6CjNqQAoDAyTtpK5hzXBuB5YwkWyYxryUx5NX0GvMqSqqCbarbfdnpRGWv-lwyD_bbE_1DBRPMDzrKfXbmbgiyp5nDPhCuRhRmuzVwbFNXzq8O69xNi6g_FOWe_gfWHupo48HOlOMzLjlMJ7j2A6p6WsjmScQLL7zziH9mO5qkLn7LZFZ3wG5qKVBLoQ0xwH6ySafoVGmzlx454EgSjTIFUZTh-Y_sUGBrvJodxhyZkbjNDritHqjBpUxOHgL6Wdz61AILvGYnb1KOPhyz6Ch2SS-CansPaPdYlNkbXXaSRneufGWe0jBidXkSLOnekplbGXYr2jF0Tzv1QUedILO52UwuPrNQ1N92YqeHRCtlAOTtjh-4Eb7PUiN406g2A5T_7G2Ou0h7p8213bJ9zAWpfDRl9563L-V6Ze_nXZquw3-4e6Wnx6D0F1eqIeCOY7n89E3Pj9nCsKWcZ9AFzFhiAc7hU3TPkja9kA4OlJc57eqlA-gvKo1U4gm3Bt2Ufuy1JjtozF-uW3nD0buJSEgP-U1c5aZswtFukBpNrvLQmsb5IuO5c6H10zFuom1PAa5yO2iSZBAmq0jGT_-v_3w0aggDJucFI/https://www.amazon.com/stores/page/609A522F-60BE-4D6A-A2D9-C838797DC151/?_encoding=UTF8&store_ref=SB_A00622491FDADX3GMC0JA-A06863561L5NQW1MHGAUM&pd_rd_plhdr=t&aaxitk=6325afb6079d1b540977e2ee38b8d478&hsa_cr_id=0&lp_slot=mobile-arbies&lp_page_asin=B06WVB8P3B&pd_rd_i=ad1&ref_=sbx_be_dp_arbies_mblsm_mb0_bkgd&pd_rd_w=juM3i&content-id=amzn1.sym.a0cf6175-49ce-4c72-8721-b2bed4d3a00e&pf_rd_p=a0cf6175-49ce-4c72-8721-b2bed4d3a00e&pf_rd_r=9NPG4NG5R83HM9PWVDRC&pd_rd_wg=uGNvY&pd_rd_r=9a9f400d-27c9-4f40-a049-ce8ed166b4c5"
+      },
+      {
+        "position": 2,
+        "image": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/4bccdcfa-6f91-47c2-b6ed-b2940858c0b0._CR0,477,2000,1047_AC_SX414_CB1169409_QL70_.jpg",
+        "name": "PartySticks",
+        "brand_logo": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/7164cb24-1e1f-4391-8341-9407cfbd966b._CR0,0,500,500_AC_SX96_SY40_CB1169409_QL70_.png",
+        "headline": "Party Brighter with Long Lasting Glow Sticks",
+        "link": "https://aax-us-east-retail-direct.amazon.com/x/c/JFfb7FSqA0nBKgnGg6AIqp4AAAGhZGQ1eQEAAAH2AQBvbm9fdHhuX2JpZDIgICBvbm9fdHhuX2ltcDEgICA1LbT6/clv1c_ek-YBXfWLcTSXk6hthlGgETDcGlTsertTsyCUyzE3sk1s4Tf5-5XeArAhRZ8T7RQ0Hq-WCS8HueH57rK6dsBa19jUJUBfz4K6PAgVKBaaEUiIVNDev3kO4oQZpN0oXlRp3nbAwogfd6Z-b0-hE4ekxigC1qVjLVqksfUH9_GhPafm28fMhidwUGIuuirJAHMvGi67d4iXdbYtKV_tEvu4VA7rXJmImeW9e7WuG046CDsTFh1WAwaCJkPTceO5asyIcH4hNvhzfpB-3zoI48ZCF-C3-KPOP_gdPzuBNj0dJ3-MpVk-jexQ6Xulca0OVh8XXblwRNqbQOdarFBqiuot_FsT3kcmxKPnnMo-gh8LHiyhVxRa3CU__k5ybvCx_LcX54UBOBu3f1yHzaK-OA4aboW_5zVItGXNyjDJ3Vw5-RBUoH2FQSv2sQg6QkZdvxWE8q_ZWwwpLilWZ-TWBuw0BYY-__ZNeI2CEo9pHFxiOMW3i5YFONlGxSS3P3cC6RY6evHN88EOA9RlXUYibywlOKZlnhHFMRX24DGBcZ9NWoRvS2c4IqBC99pvFaB_80kzeQC-vZhUxzh8pcKsw_U_4dG3er4wRnZweO24sqI1xR3QP7PBfn65N5MpxFsc3HfEq8S8epH7etlqzef0qMGef7B8YpOR7Qscs4PZ-WOy3jF1sYJaDDiqEgLYJ-NIiko_14UVedJG1bkB8g_JEhvlndoC3bpf3HJKb8hZaoIVkoh8JKWychXq_4zYPOTv4Sy30YT2flkfIIahzbo4va66uT2CJe4iMn5D6XsxHMxFl5PnLlp8oSxZeZM4mwqtREO3PQbFog3OtU359RtuGUAFc3sNfoCm-OuIEHbyEqKyFvHmMkjhu-xX7jyctxalLtLOFrB8E4KzLmQjwQ97raUuhdExq5PCgy1Aa-nkef9fINJRJybXYrtXds3xEgK-c1oaZjdrTzoFsssH089BxacQkWBzCxxmVGsYEzMXqceMM0UonhrS6KSF_VCJEhmzwa7xlmJ03MWFbQlJQWSOPxHnDvbB2GJxMCa_0dzyunBKSC-_lFJcFGEL7x5oMdgH_PWs5kJz3eF8IkH_1KvW7xU_NAyTaMyoeQ47K2BPzFyEpC7VNLwz6rUmfUQq1jtbqco2qUEQ1Tj0DmIwEJdcbUy82kfoeA4qBnp1t67GoSmNA8e5xCG0ZmHpm93yzITms8oOCXGsO3xYNGDZ9IGV-yPLfgqRFyD3HWXppcc6neN1599q8fpWHoD4esHzMb7pmxGO1JP-e6rR6JN5DufWFOyPAEU-E18uzVsR5Kt9JgARTEtMGTopkbATN4Mq7IE0K-I9mKYpHM8YGxbQyWKskudjTgGg_jeHoeBGXGe9owUMTou1HZFZ_oUu-rfobZyS11CTaasPUFsTg0wGOG9WkCOS81mx86Ln2AXc12dW22wE1h7hWW-jmxZ1fN3DGSJOg9bRdEmadEYZ3-gG6hlwxINsfW3vFiKrdsDfyEKblMp1ls0_6Ki2QshRP_eXg046heEKKs8T9jZyvBfwUYOs1TD8m9Y0vS4b4hT-JG3uCupH8Ayg9oLYZMEcMBudaAtTkPyd1Lo98Q6Bs_1NA/https://www.amazon.com/stores/page/15746303-4DB5-4C6C-9A48-90836768C00B/?_encoding=UTF8&store_ref=SB_A0376788906UPQO04S0R-A069534320U82CTI0ZO2I&pd_rd_plhdr=t&aaxitk=6342f07ef27dac3d87a5c48a360125a7&hsa_cr_id=0&lp_slot=mobile-arbies&lp_page_asin=B06WVB8P3B&pd_rd_i=ad2&ref_=sbx_be_dp_arbies_mblsm_mb1_bkgd&pd_rd_w=juM3i&content-id=amzn1.sym.a0cf6175-49ce-4c72-8721-b2bed4d3a00e&pf_rd_p=a0cf6175-49ce-4c72-8721-b2bed4d3a00e&pf_rd_r=9NPG4NG5R83HM9PWVDRC&pd_rd_wg=uGNvY&pd_rd_r=9a9f400d-27c9-4f40-a049-ce8ed166b4c5"
+      },
+      {
+        "position": 3,
+        "image": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/66634fe7-93df-47ff-85dd-5c4df3e1c260._CR0,0,1200,628_AC_SX414_CB1169409_QL70_.png",
+        "name": "MFL.",
+        "brand_logo": "https://m.media-amazon.com/images/S/al-na-9d5791cf-3faf/dc2131eb-3406-4131-84b3-958ba952d9c6._CR0,0,1500,750_AC_SX96_SY40_CB1169409_QL70_.jpg",
+        "headline": "MFL. DJ Strobe Lights",
+        "link": "https://aax-us-east-retail-direct.amazon.com/x/c/JJwxluNVD0bYCJtIgvGP7_gAAAGhZGQ1egEAAAH2AQBvbm9fdHhuX2JpZDIgICBvbm9fdHhuX2ltcDEgICCu87C2/clv1c_ek-wBXfWVcba3TK2ZyrC7XdcOO1Dnzj8TQ-tRbhMtN6IzUdpra1uVQLdr2O0NZIcbx1WL3PLeola3JGSRwDpPw42qk4NIkNG33hqoa35wk4Wk43yDE6NtR767foU1tNw-OtQ9MEkGsuhq_euBgy4PxPfra3cFlT4-vLa62_qrYQeTyf1RI52IvhoLBw6DGXLrk5MI54HB5eolGcwM0LoviHKFXV3HFaykGymAjf2MP3djEd43jZYdv5rhvZ5--qdgbOmTGV33ecgUQxwqiTyjQ9zmPue3TCRy4zYBqI4qtv43NC766wBif6tTrBKWjmUAdHYES3d9vv62aWmkBc1F7tRba_KWv5L5hf-w5XqUCp_6s1s88yIGtcPLYw2mc7KeAcvOuIcu5e2V28wfbS3nwWrSTqBFXFgYEbs8Y4yYQopG-yzkqk2ABjCoaSjfTTxC8dWgt6f0mxEsz1kKAdXwEfAaXuc_ZSpWIGbb0wcsGXIdXl5pq0wJr2EQ6F9Ayfgs6Cv8eSmcT-09t0rgkmxrw2G3xvt2HNEB8li4Wmb7Jv9Pp19QvF2nySEoOQsRlShaiPDVrfciV7Cgee9pmWroTm_Nh8WFTRQsr3mSqWKObd4YqxF365psXoSVety2ueyCwAFQKmaH9BDMJJ4rSCWMZ_lX3YF5mwgjAPFEK4yAhauA4-8tEXmDSZ7GnafZQM4UilM1NaNjlXSTT2SuWe60Jt23sNVyYXiUt8Vw61OdNd6KpLzz8gJaXEIb3NPpyYIzxFVk4Vwh6l4LuRoMu_dtHHd-y1soAs6THyqQYVwpUVzvdNdOCqsvQ4pO0zr018CrWhnpG3xdGcKT_3cPHarYxvtIsa0uC5i7oK5FoMmHHgug728tNYuYb7S_wzLiCvxihBC3jZ7pouVC0-DM7bHhHepjpK0u6GuU1TsT8Od9SKpa6idal8ruCDaqr1AerS51XQiKDXkC4alZv9Uz1iahVj2LWHZjmP2J2V-RlbGD7cErO6jCixj6FRRoc8-6YRjCCDEeLHAqakeimNVeiqKwhlCmxIzwRRnH6WM1Ds3-SV9cbaHJe8zaX1w4Wj_qxDhPfI9coehNdzTuB65I2ceavu8pRhbkpdnFjiyqYIA-WJJe6Y9k3S2kKjTXLMxcI0FQmM7-6OqQUDN_jPxN_GPj-WJ9InU7qCFCsRSbHGFcgAgcl_t9mRauS-w4NTbGUX0vTT4KPEDYSQbzs98mVfoLpf98Zzq1MvCPLWDeAU1to4fYIZmrRR77Tw05dWMB7agA7MoYfPUAXf8zqzI0Sijq1hB-7dCT9LCT7MzkFE_kj5p5oL3JLRZp4GY0Z4nqAHXRIWBZMcaNHO1J3ltNVhVBG2SB3WaxGvuNI8byTe-J_IqtZKPZaNvaGN3BQ6SxQjWE92CI7ARt4NQJSEx7QCZY1lAdloTugNNg7RmgQ2Rg6i97vyiBfqPPWlTCwlV-mi83JVN9qoTR_kFEeEgmos3hp8JD6O9WRO2bGmCvpA6Jwi_cEsP5gxjMndtQSQL5cPNNi8CP6797Geo9DZpuDjQkZ9TN2rBq10VpmO7kebBOCUgQPAzKDYU5wk-BvJVoW8ozB68QSvWPIUQK0ar4oTUKjOv27w/https://www.amazon.com/stores/page/634ECCFC-583B-41A0-B10E-F20189F1AFD7/?_encoding=UTF8&store_ref=SB_A09791593M06PLUV2UMWP-A0902244CBTBE75I5H73&pd_rd_plhdr=t&aaxitk=4f14d450e14060ffffb347dfef3ed7a7&hsa_cr_id=0&lp_slot=mobile-arbies&lp_page_asin=B06WVB8P3B&pd_rd_i=ad3&ref_=sbx_be_dp_arbies_mblsm_mb2_bkgd&pd_rd_w=juM3i&content-id=amzn1.sym.a0cf6175-49ce-4c72-8721-b2bed4d3a00e&pf_rd_p=a0cf6175-49ce-4c72-8721-b2bed4d3a00e&pf_rd_r=9NPG4NG5R83HM9PWVDRC&pd_rd_wg=uGNvY&pd_rd_r=9a9f400d-27c9-4f40-a049-ce8ed166b4c5"
+      }
+    ],
+    "reviews_information": {
+      "summary": {
+        "text": "Customers find the party light to be great value for money, with beautiful patterns that create a laser show effect and hours of dance-party fun in the garage. The brightness is praised, with one customer noting it's super bright even during the day. The size receives mixed feedback - while some say it's a small device that works huge, others find it very small. Durability is a concern, with multiple customers reporting it broke after two months of use. The remote control functionality is also mixed, with some finding it awesome while others report it doesn't work.",
+        "insights": [
+          {
+            "title": "Value for money",
+            "sentiment": "positive",
+            "mentions": {
+              "total": 1200,
+              "positive": 1129,
+              "negative": 157
+            },
+            "summary": "Customers find the party lights to be a great value, offering good quality for the price.",
+            "examples": [
+              {
+                "position": 1,
+                "snippet": "...Great price. Hope it actually lasts a while since it was such a great deal. My kids love it! Easy to handle and understand and makes a party LIT!",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R3JDBB097DVX1X"
+              },
+              {
+                "position": 2,
+                "snippet": "Great value. Fun light that has several different settings and can dance to music. It covers a good size space while still being bright....",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R2WNNVW6RTK48"
+              },
+              {
+                "position": 3,
+                "snippet": "Great buy for my two kiddos! They love it. Had it going on green and red when they woke up Christmas morning and our house has been a rave ever since.",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R3S12YTXVRCWIC"
+              },
+              {
+                "position": 4,
+                "snippet": "Better than expected. Worth the money. Is small and fits anywhere. Easy to handle. Lights are very bright and so cool. I would buy another one.",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/RSKA0J5QEQIF4"
+              }
+            ]
+          },
+          {
+            "title": "Party-friendly",
+            "sentiment": "positive",
+            "mentions": {
+              "total": 832,
+              "positive": 820,
+              "negative": 12
+            },
+            "summary": "Customers find these party lights suitable for small gatherings, with kids particularly enjoying them. One customer mentions their children feel like they're at a disco club when using them.",
+            "examples": [
+              {
+                "position": 1,
+                "snippet": "This products arrived on time and works very well. My kids love it!! They wanted to invite their friends over because they said it felt like a party....",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R14T7PC0XVUU0N"
+              },
+              {
+                "position": 2,
+                "snippet": "Bought it for my 3 year olds play room dance parties, she loves it. Works really well, can’t ask for better for the money.",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R7DEV0U9NSPW0"
+              },
+              {
+                "position": 3,
+                "snippet": "The light is small and packed a punch! Very affordable and great for parties. I have used it many times and it never fails to LIGHTEN up the mood!",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R2NLIS1H0VNWRV"
+              },
+              {
+                "position": 4,
+                "snippet": "...The kids loved it. Didn't get hot on it's own at all -- withstood some high heat being out in the sun for 2 days and still worked like a charm.",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R332UECNZH4TGA"
+              }
+            ]
+          },
+          {
+            "title": "Fun",
+            "sentiment": "positive",
+            "mentions": {
+              "total": 579,
+              "positive": 571,
+              "negative": 8
+            },
+            "summary": "Customers find the disco ball light fun, with hours of dance-party entertainment in their garages and kids having a blast with it. One customer mentions it's particularly enjoyable to use when drunk in the garage while listening to music.",
+            "examples": [
+              {
+                "position": 1,
+                "snippet": "Christmas gift for 12 year old daughter. It's very flashy and fun! Lights cover a suprising amount if ceiling/wall area. Lots of different settings....",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R22T5Y7F4Y3EXY"
+              },
+              {
+                "position": 2,
+                "snippet": "I ordered this for a Christmas party we were hosting and it is so fun. The remote is so easy to use and syncs with the music on different settings....",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R1ZMU3YMYS20Z8"
+              },
+              {
+                "position": 3,
+                "snippet": "This little ball of light is so much fun! So many light options and combined with a rotating light up disco ball the party went on all night!...",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R9E59X31ZQL6M"
+              },
+              {
+                "position": 4,
+                "snippet": "Super fun! Lights are great, wireless remote works great! For price perfect gift for daughter's birthday.",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R29YRDR8163462"
+              }
+            ]
+          },
+          {
+            "title": "Brightness",
+            "sentiment": "positive",
+            "mentions": {
+              "total": 416,
+              "positive": 368,
+              "negative": 48
+            },
+            "summary": "Customers praise the light's brightness, with one noting it's very powerful for its size and another mentioning it's super bright even during the day.",
+            "examples": [
+              {
+                "position": 1,
+                "snippet": "...It’s a great little light that can be wall mounted. It’s bright, rotates and makes a sweet little party environment. 10/10 will buy again",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R2GRQUIBVKKUVB"
+              },
+              {
+                "position": 2,
+                "snippet": "These lights are a great value! They are very bright, I bought two not expecting it to be so good but were having a party with a DJ and we wanted...",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R2GD1JY81AAX7L"
+              },
+              {
+                "position": 3,
+                "snippet": "...to look at when he wakes up in the middle of the night the lights are bright there’s no noise and is just perfect keeping him occupied light weight...",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R3207P90CS7UD4"
+              },
+              {
+                "position": 4,
+                "snippet": "...music persuaded me into buying this light and I'm glad i did its super bright plays to my music my room is 15x15 and it hits the entire room and i do...",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R3EB522IT3SF8Z"
+              }
+            ]
+          },
+          {
+            "title": "Appearance",
+            "sentiment": "positive",
+            "mentions": {
+              "total": 392,
+              "positive": 375,
+              "negative": 17
+            },
+            "summary": "Customers love the appearance of these party lights, describing them as beautiful and cool, with patterns that create a laser show effect.",
+            "examples": [
+              {
+                "position": 1,
+                "snippet": "I can’t believe how cool this is it has an amazing amount of lights for such a small device I need to order another one because I can’t decide if I...",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/RLMCT70F36W6H"
+              },
+              {
+                "position": 2,
+                "snippet": "“The light is amazing! It is cute and has wonderful funtion to make house fantastic and adorable! I love it!”",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R1XQ57ZOGX24XP"
+              },
+              {
+                "position": 3,
+                "snippet": "Got this for my daughter's sleep over party. It's super cool and fun. Pulsates to music which the girls loved. Fun little party light for cheap!",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R2Z9DO4BZQCBEX"
+              },
+              {
+                "position": 4,
+                "snippet": "Pretty cool and cheap. Only thing is it makes a screechy sound when it's rotatating. It's only audible if it's dead quiet. Still cute....",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R14HXM0X1TXK14"
+              }
+            ]
+          },
+          {
+            "title": "Size",
+            "sentiment": "mixed",
+            "mentions": {
+              "total": 500,
+              "positive": 303,
+              "negative": 197
+            },
+            "summary": "Customers have mixed opinions about the size of the light, with some finding it compact and functional, while others describe it as very small.",
+            "examples": [
+              {
+                "position": 1,
+                "snippet": "...The unit is compact and fits anywhere, very durable and the remote helps to change it up if you aren’t standing right next to the light....",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R2JSAXBOZTU3HP"
+              },
+              {
+                "position": 2,
+                "snippet": "When I first received this I was a little upset. It is SMALL! I mean Small. But I was pleasantly surprised at how bright and how much area it covers!...",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R1VDRI0CSD599P"
+              },
+              {
+                "position": 3,
+                "snippet": "...It's lightweight, and shines very bright for its small size. I am very disappointed because this light came broken and I had to send it back....",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R7XC9GF028KE4"
+              },
+              {
+                "position": 4,
+                "snippet": "This little light does it's things. People were right when they said little but mighty. We have it put up in our garage and it's perfect....",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R295IK7TO3AHW0"
+              }
+            ]
+          },
+          {
+            "title": "Remote control",
+            "sentiment": "mixed",
+            "mentions": {
+              "total": 400,
+              "positive": 242,
+              "negative": 158
+            },
+            "summary": "Customers have mixed experiences with the light's remote control: some find it awesome and easy to use, while others report that it doesn't work or comes without one.",
+            "examples": [
+              {
+                "position": 1,
+                "snippet": "I like all the different colors and designs the lights can make. Remote works just have to aim directly at it..I bought this to use for a birthday...",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R1U2LYO6DCO674"
+              },
+              {
+                "position": 2,
+                "snippet": "Remote doesn’t work tried to replace batteries still doesn’t work lights are nice and covers the room but we hv to let it just play as is because...",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R1RJ32JV33YURF"
+              },
+              {
+                "position": 3,
+                "snippet": "No remote",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R34IH2UGNRZW4G"
+              },
+              {
+                "position": 4,
+                "snippet": "...You will need screws if you chose to attach it. It comes with a remote, no matter where your sitting you can change the 7 different light...",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R3MPL4M0XLQ4X2"
+              }
+            ]
+          },
+          {
+            "title": "Durability",
+            "sentiment": "negative",
+            "mentions": {
+              "total": 417,
+              "positive": 99,
+              "negative": 318
+            },
+            "summary": "Customers report that the party lights are not durable, with multiple reviews mentioning they broke after two months of use or stopped working shortly after purchase.",
+            "examples": [
+              {
+                "position": 1,
+                "snippet": "The product was great! But it broke and I’m unsure on how to fix it, no matter the buttons I press on the remote the red doesn’t work and it flashes...",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R1FRC7FPQ5A7D0"
+              },
+              {
+                "position": 2,
+                "snippet": "Broke fast. Doesn’t last! Don’t waste $",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R3H6YZ1BD5IX1O"
+              },
+              {
+                "position": 3,
+                "snippet": "I just used it for one month, and it is already broken and not working. No light comes out from the machine :...",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R2DT4W8BX29SEU"
+              },
+              {
+                "position": 4,
+                "snippet": "...The lights are bright, durable, and have several modes to choose from. Highly recommend for anyone looking to enhance their parties or events!",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/RH1H1UFH9JC5F"
+              }
+            ]
+          },
+          {
+            "title": "Value for money",
+            "sentiment": "positive",
+            "mentions": {
+              "total": 1200,
+              "positive": 1129,
+              "negative": 157
+            },
+            "summary": "Customers find the party lights to be a great value, offering good quality for the price.",
+            "examples": [
+              {
+                "position": 1,
+                "snippet": "...Great price. Hope it actually lasts a while since it was such a great deal. My kids love it! Easy to handle and understand and makes a party LIT!",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R3JDBB097DVX1X"
+              },
+              {
+                "position": 2,
+                "snippet": "Great value. Fun light that has several different settings and can dance to music. It covers a good size space while still being bright....",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R2WNNVW6RTK48"
+              },
+              {
+                "position": 3,
+                "snippet": "Great buy for my two kiddos! They love it. Had it going on green and red when they woke up Christmas morning and our house has been a rave ever since.",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R3S12YTXVRCWIC"
+              },
+              {
+                "position": 4,
+                "snippet": "Better than expected. Worth the money. Is small and fits anywhere. Easy to handle. Lights are very bright and so cool. I would buy another one.",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/RSKA0J5QEQIF4"
+              }
+            ]
+          },
+          {
+            "title": "Party-friendly",
+            "sentiment": "positive",
+            "mentions": {
+              "total": 832,
+              "positive": 820,
+              "negative": 12
+            },
+            "summary": "Customers find these party lights suitable for small gatherings, with kids particularly enjoying them. One customer mentions their children feel like they're at a disco club when using them.",
+            "examples": [
+              {
+                "position": 1,
+                "snippet": "This products arrived on time and works very well. My kids love it!! They wanted to invite their friends over because they said it felt like a party....",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R14T7PC0XVUU0N"
+              },
+              {
+                "position": 2,
+                "snippet": "Bought it for my 3 year olds play room dance parties, she loves it. Works really well, can’t ask for better for the money.",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R7DEV0U9NSPW0"
+              },
+              {
+                "position": 3,
+                "snippet": "The light is small and packed a punch! Very affordable and great for parties. I have used it many times and it never fails to LIGHTEN up the mood!",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R2NLIS1H0VNWRV"
+              },
+              {
+                "position": 4,
+                "snippet": "...The kids loved it. Didn't get hot on it's own at all -- withstood some high heat being out in the sun for 2 days and still worked like a charm.",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R332UECNZH4TGA"
+              }
+            ]
+          },
+          {
+            "title": "Fun",
+            "sentiment": "positive",
+            "mentions": {
+              "total": 579,
+              "positive": 571,
+              "negative": 8
+            },
+            "summary": "Customers find the disco ball light fun, with hours of dance-party entertainment in their garages and kids having a blast with it. One customer mentions it's particularly enjoyable to use when drunk in the garage while listening to music.",
+            "examples": [
+              {
+                "position": 1,
+                "snippet": "Christmas gift for 12 year old daughter. It's very flashy and fun! Lights cover a suprising amount if ceiling/wall area. Lots of different settings....",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R22T5Y7F4Y3EXY"
+              },
+              {
+                "position": 2,
+                "snippet": "I ordered this for a Christmas party we were hosting and it is so fun. The remote is so easy to use and syncs with the music on different settings....",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R1ZMU3YMYS20Z8"
+              },
+              {
+                "position": 3,
+                "snippet": "This little ball of light is so much fun! So many light options and combined with a rotating light up disco ball the party went on all night!...",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R9E59X31ZQL6M"
+              },
+              {
+                "position": 4,
+                "snippet": "Super fun! Lights are great, wireless remote works great! For price perfect gift for daughter's birthday.",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R29YRDR8163462"
+              }
+            ]
+          },
+          {
+            "title": "Brightness",
+            "sentiment": "positive",
+            "mentions": {
+              "total": 416,
+              "positive": 368,
+              "negative": 48
+            },
+            "summary": "Customers praise the light's brightness, with one noting it's very powerful for its size and another mentioning it's super bright even during the day.",
+            "examples": [
+              {
+                "position": 1,
+                "snippet": "...It’s a great little light that can be wall mounted. It’s bright, rotates and makes a sweet little party environment. 10/10 will buy again",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R2GRQUIBVKKUVB"
+              },
+              {
+                "position": 2,
+                "snippet": "These lights are a great value! They are very bright, I bought two not expecting it to be so good but were having a party with a DJ and we wanted...",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R2GD1JY81AAX7L"
+              },
+              {
+                "position": 3,
+                "snippet": "...to look at when he wakes up in the middle of the night the lights are bright there’s no noise and is just perfect keeping him occupied light weight...",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R3207P90CS7UD4"
+              },
+              {
+                "position": 4,
+                "snippet": "...music persuaded me into buying this light and I'm glad i did its super bright plays to my music my room is 15x15 and it hits the entire room and i do...",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R3EB522IT3SF8Z"
+              }
+            ]
+          },
+          {
+            "title": "Appearance",
+            "sentiment": "positive",
+            "mentions": {
+              "total": 392,
+              "positive": 375,
+              "negative": 17
+            },
+            "summary": "Customers love the appearance of these party lights, describing them as beautiful and cool, with patterns that create a laser show effect.",
+            "examples": [
+              {
+                "position": 1,
+                "snippet": "I can’t believe how cool this is it has an amazing amount of lights for such a small device I need to order another one because I can’t decide if I...",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/RLMCT70F36W6H"
+              },
+              {
+                "position": 2,
+                "snippet": "“The light is amazing! It is cute and has wonderful funtion to make house fantastic and adorable! I love it!”",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R1XQ57ZOGX24XP"
+              },
+              {
+                "position": 3,
+                "snippet": "Got this for my daughter's sleep over party. It's super cool and fun. Pulsates to music which the girls loved. Fun little party light for cheap!",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R2Z9DO4BZQCBEX"
+              },
+              {
+                "position": 4,
+                "snippet": "Pretty cool and cheap. Only thing is it makes a screechy sound when it's rotatating. It's only audible if it's dead quiet. Still cute....",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R14HXM0X1TXK14"
+              }
+            ]
+          },
+          {
+            "title": "Size",
+            "sentiment": "mixed",
+            "mentions": {
+              "total": 500,
+              "positive": 303,
+              "negative": 197
+            },
+            "summary": "Customers have mixed opinions about the size of the light, with some finding it compact and functional, while others describe it as very small.",
+            "examples": [
+              {
+                "position": 1,
+                "snippet": "...The unit is compact and fits anywhere, very durable and the remote helps to change it up if you aren’t standing right next to the light....",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R2JSAXBOZTU3HP"
+              },
+              {
+                "position": 2,
+                "snippet": "When I first received this I was a little upset. It is SMALL! I mean Small. But I was pleasantly surprised at how bright and how much area it covers!...",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R1VDRI0CSD599P"
+              },
+              {
+                "position": 3,
+                "snippet": "...It's lightweight, and shines very bright for its small size. I am very disappointed because this light came broken and I had to send it back....",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R7XC9GF028KE4"
+              },
+              {
+                "position": 4,
+                "snippet": "This little light does it's things. People were right when they said little but mighty. We have it put up in our garage and it's perfect....",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R295IK7TO3AHW0"
+              }
+            ]
+          },
+          {
+            "title": "Remote control",
+            "sentiment": "mixed",
+            "mentions": {
+              "total": 400,
+              "positive": 242,
+              "negative": 158
+            },
+            "summary": "Customers have mixed experiences with the light's remote control: some find it awesome and easy to use, while others report that it doesn't work or comes without one.",
+            "examples": [
+              {
+                "position": 1,
+                "snippet": "I like all the different colors and designs the lights can make. Remote works just have to aim directly at it..I bought this to use for a birthday...",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R1U2LYO6DCO674"
+              },
+              {
+                "position": 2,
+                "snippet": "Remote doesn’t work tried to replace batteries still doesn’t work lights are nice and covers the room but we hv to let it just play as is because...",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R1RJ32JV33YURF"
+              },
+              {
+                "position": 3,
+                "snippet": "No remote",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R34IH2UGNRZW4G"
+              },
+              {
+                "position": 4,
+                "snippet": "...You will need screws if you chose to attach it. It comes with a remote, no matter where your sitting you can change the 7 different light...",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R3MPL4M0XLQ4X2"
+              }
+            ]
+          },
+          {
+            "title": "Durability",
+            "sentiment": "negative",
+            "mentions": {
+              "total": 417,
+              "positive": 99,
+              "negative": 318
+            },
+            "summary": "Customers report that the party lights are not durable, with multiple reviews mentioning they broke after two months of use or stopped working shortly after purchase.",
+            "examples": [
+              {
+                "position": 1,
+                "snippet": "The product was great! But it broke and I’m unsure on how to fix it, no matter the buttons I press on the remote the red doesn’t work and it flashes...",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R1FRC7FPQ5A7D0"
+              },
+              {
+                "position": 2,
+                "snippet": "Broke fast. Doesn’t last! Don’t waste $",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R3H6YZ1BD5IX1O"
+              },
+              {
+                "position": 3,
+                "snippet": "I just used it for one month, and it is already broken and not working. No light comes out from the machine :...",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/R2DT4W8BX29SEU"
+              },
+              {
+                "position": 4,
+                "snippet": "...The lights are bright, durable, and have several modes to choose from. Highly recommend for anyone looking to enhance their parties or events!",
+                "link": "https://www.amazon.com/portal/customer-reviews/srp/-/RH1H1UFH9JC5F"
+              }
+            ]
+          }
+        ]
+      },
+      "authors_reviews": [
+        {
+          "position": 1,
+          "title": "Cool arcade light",
+          "text": "This light is so fun! We have it set up in our home arcade. It is very easy to use, and has many different lighting options. We mounted it near the ceiling, so it gives the whole room a fun party vibe when it’s turned on. The quality is nice for the price, and the kids love turning it on to have dance parties. The remote easily changes all of the different modes, and functions very well. The remote is tiny though, so be sure to put it somewhere you won’t lose it!",
+          "rating": 5.0,
+          "date": "September 23, 2026",
+          "author": "Traci",
+          "author_link": "https://www.amazon.com/gp/profile/amzn1.account.AEW5I6UDN2DQNB35VHQXWVIRECHA?ref=cm_cr_dp_mb_bdcrb_top",
+          "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SX110_.png",
+          "helpful_votes": "4 people found this helpful",
+          "verified_purchase": true
+        },
+        {
+          "position": 2,
+          "title": "Product Review",
+          "text": "This Luditek Sound Activated Party Light is an absolute game-changer for home gatherings! If you’re looking to instantly transform a regular room into a vibrant dance floor, this little powerhouse is exactly what you need.What stands out immediately is how responsive the sound-activation mode is. It perfectly syncs with the beat of your music, pulsing and changing colors in a way that feels like a professional light show. Whether you’re playing upbeat dance tracks for a birthday or some festive tunes for a holiday party, the light keeps up flawlessly without you needing to manually adjust a thing.The inclusion of the remote control is a massive convenience, allowing you to toggle through different color modes, strobe speeds, and patterns from across the room. It’s incredibly compact, making it easy to tuck away or set up on a shelf, yet it packs enough brightness to cover a standard living room with ease.For the price, it’s an incredible value. It adds a professional, high-energy atmosphere to any event—from Halloween bashes to New Year’s Eve celebrations—and is guaranteed to be a hit with guests. If you want to elevate your home entertainment setup, this is a must-have addition. Highly recommended!",
+          "rating": 5.0,
+          "date": "May 22, 2026",
+          "author": "Ming Tak LOONG",
+          "author_link": "https://www.amazon.com/gp/profile/amzn1.account.AEAWUCABU5JQLLNDXRX5LGZBV2EQ?ref=cm_cr_dp_mb_bdcrb_top",
+          "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SX110_.png",
+          "helpful_votes": "7 people found this helpful",
+          "verified_purchase": true
+        },
+        {
+          "position": 3,
+          "title": "Great !",
+          "text": "I’m really happy with this party light! It adds so much color and energy to any celebration. The different lighting effects are bright and fun, and the remote makes it very easy to change the settings. It was simple to use and made the party atmosphere so much better. Great quality for the price and definitely worth it!",
+          "rating": 5.0,
+          "date": "August 12, 2026",
+          "author": "rachel",
+          "author_link": "https://www.amazon.com/gp/profile/amzn1.account.AHZTSQYMGMJ3Q4BJ3TIYPUD3KXCQ?ref=cm_cr_dp_mb_bdcrb_top",
+          "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SX110_.png",
+          "helpful_votes": "3 people found this helpful",
+          "verified_purchase": true
+        },
+        {
+          "position": 4,
+          "title": "It doesn’t have all of the colors included that the box art showed.",
+          "text": "We bought three of these lights because the price was great. We bought them for a going away party for some neighbors that were moving away. The lights were really cool, but I felt that the box art was misleading. It made it look like it had yellow and orange lights, and with a lot of other products like this, thought we could change the colors besides the pre-sets. We would’ve given the lights five stars if there were yellow and orange lights too. They weren’t perfectly for the party, and so I don’t think it’s a bad product. We just wished it had a tiny bit more variety.",
+          "rating": 4.0,
+          "date": "July 15, 2026",
+          "author": "Nathan Unck",
+          "author_link": "https://www.amazon.com/gp/profile/amzn1.account.AH5WG3RTWBVNIGIROHHTIC6OG5XQ?ref=cm_cr_dp_mb_bdcrb_top",
+          "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SX110_.png",
+          "helpful_votes": "7 people found this helpful",
+          "verified_purchase": true
+        },
+        {
+          "position": 5,
+          "title": "Great item!",
+          "text": "I love this light! It’s the perfect affordable way to light up a room for your nieces, nephews, kids of your own or pre- k, elementary school class parties",
+          "rating": 5.0,
+          "date": "October 14, 2026",
+          "author": "Shania",
+          "author_link": "https://www.amazon.com/gp/profile/amzn1.account.AFHSRG65WPZR46BJ7APANNCKLUAQ?ref=cm_cr_dp_mb_bdcrb_top",
+          "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SX110_.png",
+          "verified_purchase": true
+        },
+        {
+          "position": 6,
+          "title": "Beautiful Vibrant Colors are Perfect for a Party",
+          "text": "Get this for party decor or even just for fun. Kids love it and it makes for great family night vibes! It’s good quality it works just as described, the remote lets you change the color and the mode for whatever vibe you are going for. It’s easy to use and I like how you can adjust the brightness as well to suit your mood. I initially bought this just to decorate for a birthday but I use it almost daily because my children love it!",
+          "rating": 5.0,
+          "date": "October 12, 2026",
+          "author": "Kayla Perez",
+          "author_link": "https://www.amazon.com/gp/profile/amzn1.account.AH77ULLTPNUAS6HOFKUKT5OFAGAA?ref=cm_cr_dp_mb_bdcrb_top",
+          "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/933bd52f-2c0b-4118-a833-ae143e2b35e7._CR0%2C0%2C375%2C375_UX460_SX110_.jpg",
+          "images": [
+            "https://m.media-amazon.com/images/I/51NEEXeMtyL._SY500_.jpg",
+            "https://m.media-amazon.com/images/I/61yBb4nP5iL._SY500_.jpg",
+            "https://m.media-amazon.com/images/I/61dw5fCiI8L._SY500_.jpg"
+          ],
+          "helpful_votes": "One person found this helpful",
+          "verified_purchase": true
+        },
+        {
+          "position": 7,
+          "title": "So much fun for family dance nights!",
+          "text": "Such a fun little party light! My daughter loves having dance parties in the evenings. We turn off the lights, put on some music, and dance together. The colors are bright and look great in a dark room. It’s very easy to use, and the remote control makes it even more convenient. We’ve had so much fun with it!",
+          "rating": 5.0,
+          "date": "August 28, 2026",
+          "author": "Mariam",
+          "author_link": "https://www.amazon.com/gp/profile/amzn1.account.AFA7HL7TFPXPWBDBPNIJRM74QXBQ?ref=cm_cr_dp_mb_bdcrb_top",
+          "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/a496a3db-4236-4f0f-98a6-420b43f5c6f2._CR0%2C0%2C500%2C500_SX460_SX110_.jpeg",
+          "images": [
+            "https://m.media-amazon.com/images/I/61pIoFVJ1cL._SY500_.jpg"
+          ],
+          "helpful_votes": "3 people found this helpful",
+          "verified_purchase": true
+        },
+        {
+          "position": 8,
+          "title": "Noisy",
+          "text": "The motor in them is obnoxiously loud. But it look pretty cool if you can get passed thatThe noise you hear in the video is what it sounds like… this is the second one I’ve gotten, both do it.",
+          "rating": 3.0,
+          "date": "October 11, 2026",
+          "author": "Better Now",
+          "author_link": "https://www.amazon.com/gp/profile/amzn1.account.AEMSVQZPHEZAUUBH4AF32H7A4RMQ?ref=cm_cr_dp_mb_bdcrb_top",
+          "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/c2bc7461-1b6a-4567-abcb-ce69e93cd41a._CR0%2C0%2C507%2C507_SX460_SX110_.jpg",
+          "images": [
+            "https://m.media-amazon.com/images/I/31-FOtUkLEL._SY500_.jpg"
+          ],
+          "helpful_votes": "2 people found this helpful",
+          "verified_purchase": true
+        }
+      ],
+      "other_countries_reviews": [
+        {
+          "position": 1,
+          "title": "الجوده",
+          "text": "الوان ممتازة",
+          "rating": 4.0,
+          "date": "May 15, 2025",
+          "author": "hashim",
+          "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SX110_.png",
+          "verified_purchase": true,
+          "country": {
+            "code": "AE",
+            "name": "United Arab Emirates"
+          },
+          "language": {
+            "code": "ar",
+            "name": "Arabic"
+          }
+        },
+        {
+          "position": 2,
+          "title": "Funcional",
+          "text": "Funcional",
+          "rating": 5.0,
+          "date": "November 22, 2025",
+          "author": "Anahi Castillo",
+          "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SX110_.png",
+          "verified_purchase": true,
+          "country": {
+            "code": "MX",
+            "name": "Mexico"
+          },
+          "language": {
+            "code": "es",
+            "name": "Spanish (Mexico)"
+          }
+        },
+        {
+          "position": 3,
+          "title": "Great value and performance",
+          "text": "Wow what an amazing product. Was great for our garden party! Good value for money too",
+          "rating": 5.0,
+          "date": "March 12, 2024",
+          "author": "Pen",
+          "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SX110_.png",
+          "verified_purchase": true,
+          "country": {
+            "code": "AE",
+            "name": "United Arab Emirates"
+          },
+          "language": {
+            "code": "en",
+            "name": "English"
+          }
+        },
+        {
+          "position": 4,
+          "title": "Ok",
+          "text": "Nice",
+          "rating": 5.0,
+          "date": "August 28, 2026",
+          "author": "Sanjeev",
+          "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SX110_.png",
+          "verified_purchase": true,
+          "country": {
+            "code": "IN",
+            "name": "India"
+          },
+          "language": {
+            "code": "en",
+            "name": "English (India)"
+          }
+        },
+        {
+          "position": 5,
+          "title": "Remote Not working",
+          "text": "Price is cheap, so expect poor quality. I received it and i kept it. Later when i planned to use it, i noticed the remote does not work, so i threw it out, as there is no way it will work without a remote.",
+          "rating": 1.0,
+          "date": "April 2, 2024",
+          "author": "Akash Raj DXB",
+          "author_image": "https://m.media-amazon.com/images/S/amazon-avatars-global/default._SX110_.png",
+          "verified_purchase": true,
+          "country": {
+            "code": "AE",
+            "name": "United Arab Emirates"
+          },
+          "language": {
+            "code": "en",
+            "name": "English"
+          }
+        }
+      ]
+    }
+  }
+}
