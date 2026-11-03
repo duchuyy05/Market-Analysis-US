@@ -47,7 +47,7 @@ def checkpoint_summary(stage, data):
             "keywords": rows(data.get("rows", []), ("keyword", "measurement_query", "measurement_scope", "status", "positive_points", "observed_points", "observed_days", "partial_period", "analysis_year", "selection_months", "qualifying_months", "peak_month", "monthly_metrics", "analysis_observations", "relative_interest", "growth_pct", "score", "rank", "selected", "search_order", "reason", "provider", "evidence_ids"))}
     if stage in {"search", "enrich"} and isinstance(data, dict):
         return {"product_count": len(data.get("products", [])), "products": rows(data.get("products", []), ("product_id", "title", "source", "price", "currency", "rating", "detail_status", "business_fit", "url"), 30),
-                "excluded_products": data.get("exclusions", [])[:50], "source_status": data.get("source_status", []), "review_count": len(data.get("reviews", []))}
+                "excluded_products": data.get("exclusions", [])[:50], "source_status": data.get("source_status", []), "review_count": len(data.get("reviews", [])),"discussions":rows(data.get("discussions",[]),("title","link","score","num_comments","published_at","scope","evidence_ids"),20)}
     if stage == "history" and isinstance(data, list):
         return {"directions": rows(data, ("direction_id", "measurement_query", "normalization_context", "status", "stability", "growth_pct", "usable_years", "comparison_periods", "validation", "same_period", "seasonal_stability", "reason", "evidence_ids"))}
     if isinstance(data, list):

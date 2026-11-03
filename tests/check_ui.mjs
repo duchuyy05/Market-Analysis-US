@@ -46,7 +46,7 @@ async function until(condition, timeout = 15000) {
   }
 }
 
-function mockApi(postError, initialRun = completed, capabilities = {seasonal_history:true,company_domain:true,design_month_screening:true,manufacturing_models:true,design_content:true,exa_discovery:true}, keys={SERPAPI_API_KEY:true}) {
+function mockApi(postError, initialRun = completed, capabilities = {seasonal_history:true,company_domain:true,design_month_screening:true,manufacturing_models:true,design_content:true,exa_discovery:true,public_scrapers:true}, keys={SERPAPI_API_KEY:true}) {
   const posts = [];
   const requests = [];
   let created = false;
@@ -142,6 +142,16 @@ test('both configured keys select combined discovery and reconnect preserves the
   assert.equal(ui['web-provider'].value,'combined');assert.match(ui['web-provider-status'].textContent,/Exa: đã có key/);
   ui['web-provider'].value='auto';await context.initializeApplication();
   assert.equal(ui['web-provider'].value,'auto');
+});
+
+test('new dashboard sends direct tools without allowing product API calls and preserves design scope',async()=>{
+  const api=mockApi(),{elements:ui}=harness(api.fetcher);await until(()=>!ui.start.disabled);
+  assert.equal(ui['product-collection-mode'].value,'scraper');assert.equal(ui['source-shopping'].disabled,true);
+  ui.brief.value='Tìm mẫu in gì trên áo, nhân vật trên móc khóa';ui['scraper-budget'].value='12';ui['scraper-product-limit'].value='20';
+  ui['research-form'].listeners.submit({preventDefault(){}});await until(()=>api.posts.length===1);
+  assert.equal(api.posts[0].product_collection.mode,'scraper');assert.deepEqual(api.posts[0].product_collection.sources,['amazon','etsy','reddit']);
+  assert.equal(api.posts[0].limits.scraper_requests,12);assert.equal(api.posts[0].limits.products_per_direction,20);
+  assert.equal(api.posts[0].sources.amazon,false);assert.equal(api.posts[0].sources.shopping,false);assert.equal(api.posts[0].discovery.focus,'designs');
 });
 
 test('credit economy preset saves requests without changing caps dates or company scope and makes no API call',async()=>{
@@ -351,7 +361,7 @@ test('sparse Trends diagnosis is visible and a new study keeps the old budgets w
 test('Shopping estimate uses only its selected keyword cap and exposes Trends paid ceiling', async () => {
   const {elements:ui}=harness(mockApi().fetcher);await until(()=>!ui.start.disabled);
   ui['history-scope'].value='full';ui['monthly-enabled'].checked=false;ui['candidate-keywords'].value='32';
-  ui['source-shopping'].checked=true;ui['shopping-keywords'].value='2';
+  ui['product-collection-mode'].value='api';ui['source-shopping'].checked=true;ui['shopping-keywords'].value='2';
   ui['source-shopping'].listeners.change();
   assert.match(ui['request-estimate'].textContent,/10 Amazon \+ 2 Shopping = 12 lượt/);
   assert.match(ui['request-estimate'].textContent,/Trends được dùng tối đa 7 lượt/); // total17, reserve10
@@ -372,7 +382,7 @@ test('broad monthly preset is explicit and exposes the full history budget', asy
 
 test('seasonal presets count separate Q4 years honestly and keep discovery distinct', async () => {
   const api=mockApi(),{elements:ui}=harness(api.fetcher);await until(()=>!ui.start.disabled);
-  ui['history-start'].value='2023';ui['history-end'].value='2025';ui['history-scope'].value='seasonal';ui['history-months'].value='10,11,12';
+  ui['product-collection-mode'].value='api';ui['history-start'].value='2023';ui['history-end'].value='2025';ui['history-scope'].value='seasonal';ui['history-months'].value='10,11,12';
   ui['broad-monthly-preset'].onclick();
   assert.equal(ui['budget-custom'].value,'70');assert.equal(ui['trends-serp-budget'].value,'54');
   assert.match(ui['request-estimate'].textContent,/Lịch sử 64 keyword: khoảng 48 lượt SerpApi/);
@@ -457,7 +467,7 @@ test('Vietnamese brief submit sends the entered description and displays the res
   assert.equal(api.posts[0].sources.shopping, false);
   assert.equal(api.posts[0].trends.provider, 'auto');
   assert.equal(api.posts[0].limits.trends_serpapi_requests, 8);
-  assert.equal(api.posts[0].limits.serpapi_product_reserve, 10);
+  assert.equal(api.posts[0].limits.serpapi_product_reserve, 0);
   assert.equal(api.posts[0].limits.shopping_keywords, 2);
   assert.equal(api.posts[0].sources.trends, true);
   assert.equal(api.posts[0].limits.free_trends_requests, 40);
@@ -524,7 +534,7 @@ test('backend reconnect preserves entered inputs and cannot be bypassed by refre
   const monthOptions=ui['monthly-month'].children.length,budgetOptions=ui.budget.children.length;
   await context.loadLibrary();assert.equal(ui.start.disabled,true);
   await context.startResearch({brief:'Cannot bypass readiness',mode:'live'});assert.equal(api.posts.length,0);
-  capabilities.seasonal_history=capabilities.company_domain=capabilities.design_month_screening=capabilities.manufacturing_models=capabilities.design_content=capabilities.exa_discovery=true;
+  capabilities.seasonal_history=capabilities.company_domain=capabilities.design_month_screening=capabilities.manufacturing_models=capabilities.design_content=capabilities.exa_discovery=capabilities.public_scrapers=true;
   await ui['connection-retry'].onclick();
   assert.equal(ui.start.disabled,false);assert.match(ui['start-status'].textContent,/Sẵn sàng/);
   assert.equal(ui['connection-retry'].hidden,true);assert.equal(ui.brief.value,'Custom printed gifts');
@@ -539,7 +549,7 @@ test('failed reconnect remains blocked and permits another check without erasing
   await until(()=>ui['start-status'].textContent.includes('Server đang chạy code cũ'));ui.brief.value='Keep my description';
   unavailable=true;await ui['connection-retry'].onclick();
   assert.equal(ui.start.disabled,true);assert.equal(ui['connection-retry'].disabled,false);assert.match(ui['start-status'].textContent,/Server unavailable/);
-  unavailable=false;capabilities.seasonal_history=capabilities.company_domain=capabilities.design_month_screening=capabilities.manufacturing_models=capabilities.design_content=capabilities.exa_discovery=true;
+  unavailable=false;capabilities.seasonal_history=capabilities.company_domain=capabilities.design_month_screening=capabilities.manufacturing_models=capabilities.design_content=capabilities.exa_discovery=capabilities.public_scrapers=true;
   await ui['connection-retry'].onclick();assert.equal(ui.start.disabled,false);assert.equal(ui.brief.value,'Keep my description');assert.equal(api.posts.length,0);
 });
 
@@ -547,7 +557,7 @@ test('reconnect keeps start blocked with an explanation while research is active
   const capabilities={},api=mockApi(null,{...completed,status:'running'},capabilities);
   const {elements:ui}=harness(async(path,options)=>path==='/api/runs'&&!options?.method?{ok:true,json:async()=>[{...completed,status:'running'}]}:api.fetcher(path,options));
   await until(()=>ui['start-status'].textContent.includes('Server đang chạy code cũ'));
-  capabilities.seasonal_history=capabilities.company_domain=capabilities.design_month_screening=capabilities.manufacturing_models=capabilities.design_content=capabilities.exa_discovery=true;
+  capabilities.seasonal_history=capabilities.company_domain=capabilities.design_month_screening=capabilities.manufacturing_models=capabilities.design_content=capabilities.exa_discovery=capabilities.public_scrapers=true;
   await ui['connection-retry'].onclick();
   assert.match(ui['start-status'].textContent,/Một nghiên cứu đang chạy/);
   assert.equal(ui.start.disabled,true);assert.equal(api.posts.length,0);

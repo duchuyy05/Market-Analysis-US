@@ -5,6 +5,11 @@
 !**/.env.example
 GIAI-THICH-DU-AN-VA-DU-LIEU.md
 .venv/
+venv/
+outputs/
+tmp/
+.tmp-*/
+.pytest_cache/
 node_modules/
 .artifact-runtime/
 # Keep the bundled, sanitized Q4 demo; other research runs stay local.

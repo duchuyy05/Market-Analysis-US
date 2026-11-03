@@ -123,7 +123,11 @@ def public_listing_rows(run, pages, direction):
 
 
 def collect(run, client, config, directions, public_pages=()):
-    occurrences, archived_reviews, source_status = [], [], []
+    occurrences, archived_reviews, source_status, discussions = [], [], [], []
+    collection_mode=config.get("product_collection",{}).get("mode","api")
+    if config["mode"] != "offline" and collection_mode != "api":
+        from .scraped_products import collect as scrape
+        occurrences,source_status,discussions=scrape(run,client,config,directions)
     shopping_queries = set()
     for direction in directions:
         if config["mode"] == "offline":
@@ -132,7 +136,7 @@ def collect(run, client, config, directions, public_pages=()):
             archived_reviews.extend(reviews)
             source_status.extend([{"direction_id": direction["id"], "source": "amazon", "status": "archive", "count": len(rows)}, {"direction_id": direction["id"], "source": "shopping", "status": "unavailable", "reason": "Không có snapshot Shopping trong bộ lưu trữ"}])
             continue
-        for source, adapter in (("amazon", amazon), ("shopping", shopping)):
+        for source, adapter in (() if collection_mode=="scraper" else (("amazon", amazon), ("shopping", shopping))):
             if not config["sources"][source]:
                 source_status.append({"direction_id": direction["id"], "source": source, "status": "skipped"})
                 continue
@@ -184,13 +188,18 @@ def collect(run, client, config, directions, public_pages=()):
     products, offers, matches, excluded = resolve(occurrences)
     # De-duplicate archived reviews repeated through several direction queries.
     reviews = list({r["id"]: r for r in archived_reviews}.values())
-    return company_filter({"products": products, "offers": offers, "product_matches": matches, "search_occurrences": occurrences, "reviews": reviews, "exclusions": excluded, "source_status": source_status}, config, run)
+    return company_filter({"products": products, "offers": offers, "product_matches": matches, "search_occurrences": occurrences, "reviews": reviews, "exclusions": excluded, "source_status": source_status,"discussions":discussions}, config, run)
 
 
 def enrich(run, client, config, collected, directions):
     collected = company_filter(collected, config, run)
     if config["mode"] == "offline":
         return collected
+    if config.get("product_collection",{}).get("mode","api") != "api":
+        from .scraped_products import enrich as enrich_scraped
+        collected=enrich_scraped(run,client,config,collected)
+        if config["product_collection"]["mode"]=="scraper":
+            return company_filter(content_filter(collected,directions,run),config,run)
     products = {p["product_id"]: p for p in collected["products"]}
     queues = []
     for niche in config["niches"]:
@@ -211,6 +220,8 @@ def enrich(run, client, config, collected, directions):
                 chosen.append(queue[depth])
                 reviewed.add(queue[depth]["product_id"])
     for p in chosen:
+        if p.get("collection_method")=="public_http":
+            continue
         if config.get("discovery", {}).get("enabled") and sum(u["provider"] == "serpapi" and u.get("engine") == "amazon_product" for u in run.manifest["usage"]) >= config["limits"].get("product_details", 3):
             break
         try:

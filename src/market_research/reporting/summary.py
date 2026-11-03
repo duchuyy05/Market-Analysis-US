@@ -222,6 +222,13 @@ def build(run, data):
         doc.heading("Độ phủ bằng chứng theo hướng sản phẩm", 3)
         doc.table(["Hướng", "Mẫu / có chi tiết", "Khoảng giá USD", "Phản hồi thực lấy", "Nguồn mẫu"], evidence_rows)
         doc.paragraph("Giá là quan sát listing, chưa đồng nhất quy cách/phí vận chuyển. Tổng số sao và số đánh giá trên listing khác số phản hồi đã thu. Khớp keyword là bước lọc sơ bộ; mục đích sử dụng và phù hợp người nhận cần kiểm tra.", "note")
+    tool_sources=[row for row in data.get("source_status",[]) if row.get("collection_method")=="public_http"]
+    if tool_sources:
+        doc.heading("Kết quả công cụ thu thập trực tiếp",3)
+        doc.table(["Nguồn", "Trạng thái", "Mẫu / thảo luận", "Ghi nhận"],[[row["source"],row.get("status"),row.get("count",0),row.get("reason") or "Dữ liệu trang công khai tại thời điểm lấy"] for row in tool_sources[:15]])
+    if data.get("discussions"):
+        doc.heading("Thảo luận Reddit — nguồn ngữ cảnh, chưa xác minh người mua",3)
+        doc.table(["Thảo luận", "Điểm / bình luận", "Ngày đăng", "Phạm vi"], [[link(short(row["title"],160),row["link"]),str(row.get("score"))+" / "+str(row.get("num_comments")),row.get("published_at") or "Chưa có","Không phải doanh số hoặc review khách mua"] for row in data["discussions"][:10]])
     social = [p for p in data.get("web_context", []) if p.get("url") and p.get("platform") in {"facebook", "tiktok"}]
     if social:
         doc.table(["Nguồn công khai", "Trang liên quan", "Cách sử dụng"], [[p["platform"], link(short(p["title"], 110), p["url"]), "Khám phá ngữ cảnh/ý tưởng; chưa phải doanh số hoặc khán giả Mỹ đã xác minh"] for p in social[:3]])
@@ -256,7 +263,7 @@ def build(run, data):
     if missing:
         doc.paragraph("Thông tin còn thiếu: " + " | ".join(short(w, 160) for w in missing[:3]) + (f" | Còn {len(missing)-3} cảnh báo khác trong nhật ký." if len(missing)>3 else ""), "warning")
     usage = run.manifest.get("usage", [])
-    used = {name: sum(u["provider"] == name for u in usage) for name in ("serpapi", "tavily", "exa", "openrouter")}
-    doc.table(["Ngân sách", "Đã dùng / trần", "Lưu ý"], [[name, str(used[name]) + " / " + str(c["limits"].get(key, 0)), "Gồm thất bại/thử lại; ứng dụng chưa biết số dư credit miễn phí"] for name,key in (("serpapi","serpapi_requests"),("tavily","tavily_requests"),("exa","exa_requests"),("openrouter","llm_requests"))])
+    used = {name: sum(u["provider"] == name for u in usage) for name in ("public_scraper", "serpapi", "tavily", "exa", "openrouter")}
+    doc.table(["Ngân sách", "Đã dùng / trần", "Lưu ý"], [[name, str(used[name]) + " / " + str(c["limits"].get(key, 0)), "Gồm thất bại/thử lại; ứng dụng chưa biết số dư credit miễn phí"] for name,key in (("public_scraper","scraper_requests"),("serpapi","serpapi_requests"),("tavily","tavily_requests"),("exa","exa_requests"),("openrouter","llm_requests"))])
     doc.paragraph("Chi tiết kiểm tra: catalog.html giữ toàn bộ mẫu; report-details.html có toàn bộ review/nguồn/ranking; tables/ giữ chuỗi và sai số; dữ liệu database lưu quan sát để đối chiếu các lần chạy. Bản chính giới hạn số dòng để đọc nhanh, không xóa dữ liệu đầy đủ.", "note")
     return doc

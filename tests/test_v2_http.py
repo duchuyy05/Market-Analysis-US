@@ -167,6 +167,7 @@ def test_discovery_status_is_available_from_checkpoints_before_report_exists(app
     assert settings["capabilities"]["manufacturing_models"] is True
     assert settings["capabilities"]["design_content"] is True
     assert settings["capabilities"]["exa_discovery"] is True
+    assert settings["capabilities"]["public_scrapers"] is True
     assert type(settings["keys"]["EXA_API_KEY"]) is bool
     assert settings["capabilities"]["company_domain"] is True
     assert settings["capabilities"]["apify"] is False

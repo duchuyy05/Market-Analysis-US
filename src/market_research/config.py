@@ -17,6 +17,7 @@ DEFAULT_LIMITS = {
     "products_per_direction": 8, "enrich_per_niche": 4, "reviews_per_product": 20,
     "ranking_rows": 10, "timeout_seconds": 45, "retry_attempts": 1,
     "max_run_seconds": 1800, "max_output_tokens": 5000,
+    "scraper_requests": 30,
 }
 
 
@@ -128,6 +129,21 @@ def validate_config(value):
     if not isinstance(c["sources"], dict) or set(c["sources"]) - {"trends", "amazon", "shopping", "web"} or any(type(v) is not bool for v in c["sources"].values()):
         raise ValueError("sources cần các cờ boolean hợp lệ")
     c["sources"] = {"trends": True, "amazon": True, "shopping": False, "web": True, **c["sources"]}
+    collection = c.setdefault("product_collection", {})
+    if not isinstance(collection, dict) or set(collection) - {"mode", "sources", "cache_hours", "detail_limit"}:
+        raise ValueError("product_collection cần mode, sources, cache_hours, detail_limit")
+    c["product_collection"] = {"mode": "api", "sources": ["amazon", "etsy", "reddit"], "cache_hours": 24, "detail_limit": 2, **collection}
+    collection = c["product_collection"]
+    if collection["mode"] not in ("scraper", "hybrid", "api") or not isinstance(collection["sources"], list) or any(s not in ("amazon", "etsy", "reddit") for s in collection["sources"]):
+        raise ValueError("Chọn chế độ và nguồn lấy sản phẩm hợp lệ")
+    collection["sources"]=list(dict.fromkeys(collection["sources"]))
+    if collection["mode"]=="scraper":
+        # The total/Trends caps are unchanged; there is no product API budget
+        # to reserve when only direct collectors may retrieve products.
+        c["limits"]["serpapi_product_reserve"]=0
+    for field, maximum in (("cache_hours",168),("detail_limit",20)):
+        if type(collection[field]) is not int or not 0 <= collection[field] <= maximum:
+            raise ValueError("product_collection."+field+" ngoài giới hạn")
     from .providers.web import SOURCE_DOMAINS
     discovery = c.setdefault("discovery", {})
     if not isinstance(discovery, dict) or set(discovery) - {"enabled", "sites", "focus", "web_provider"}:

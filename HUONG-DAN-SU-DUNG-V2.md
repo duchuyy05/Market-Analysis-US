@@ -1,5 +1,15 @@
 # Hướng dẫn chi tiết dự án Market Research v2
 
+## Công cụ lấy sản phẩm trực tiếp và dashboard mới (03/11/2026)
+
+Dashboard mặc định chọn **Công cụ trực tiếp — không dùng API sản phẩm**. Chọn nguồn Amazon, Etsy, Reddit; đặt trần HTTP, số mẫu tối đa mỗi nguồn/keyword (mặc định 20) và số trang chi tiết. API OpenRouter/Tavily/Exa/Google Trends tiếp tục phục vụ hiểu yêu cầu, khám phá keyword/chủ đề và đo trend. Muốn thêm API sản phẩm phải chọn rõ chế độ kết hợp hoặc API; chế độ trực tiếp không gọi SerpApi để tìm mẫu/chi tiết, dù tài khoản đã có key.
+
+Phạm vi công ty và **Mục tiêu khám phá** vẫn được áp dụng: hình/nhân vật/họa tiết/câu chữ; kiểu dáng/chất liệu/phôi; hoặc suy ra từ yêu cầu. Công cụ nhận nguyên keyword được chọn, dữ liệu được lọc khớp nội dung và domain trước khi đưa vào báo cáo. Reddit được lưu ở bảng `discussions`, không biến bài viết/upvote thành sản phẩm bán hàng, doanh số hoặc review người mua. Amazon giữ nhãn mua theo tháng nếu có; giỏ hàng Etsy là tín hiệu riêng, không phải số bán. Không tự gán sao hoặc đổi VND/EUR sang USD; giá nguồn nào giữ đúng tiền tệ nguồn đó.
+
+Kết quả thử thật: lượt `scraper-live-check-20261103` có 9 mẫu Amazon và 9 link ảnh, không gọi API nào. Etsy bị HTTP 403, Reddit lỗi kết nối; báo cáo giữ rõ nguồn thiếu. Lượt kiểm tra này tắt Trends nên chỉ chứng minh công cụ và báo cáo hoạt động, chưa xác nhận mẫu đang hot trong tháng. Website có thể đổi cấu trúc/chặn truy cập; công cụ dừng nguồn khi bị chặn, không vượt CAPTCHA/đổi IP. Listing phù hợp đã có từ khám phá có thể được dùng lại khi lấy trực tiếp thất bại.
+
+Cài môi trường: `python -m pip install -e .` để có requests và BeautifulSoup. `scrapers/` là các import tương thích cho công cụ Gemini; phần dùng chung nằm ở `src/market_research/scraping/`. Các script độc lập chỉ giúp thử thu thập; workflow dashboard/run.py mới có đầy đủ domain, tháng/năm, bằng chứng và báo cáo. CLI cấu hình: `product_collection: {mode: scraper, sources: [amazon, etsy, reddit], detail_limit: 2, cache_hours: 24}`, `limits.scraper_requests: 30`. Cấu hình cũ không có trường này giữ cách API để chạy tiếp tương thích.
+
 ## Kết hợp Exa, Tavily và quota/credit miễn phí (03/11/2026)
 
 Thêm `EXA_API_KEY=...` vào `.env` ở thư mục dự án hoặc `api/.env`; không đưa key vào JSON nghiên cứu. Sau khi cập nhật code, dừng server cũ bằng Ctrl+C, chạy `python run.py` và tải lại trang. Mục nguồn web hiển thị đã có/chưa có key, không hiển thị giá trị key.

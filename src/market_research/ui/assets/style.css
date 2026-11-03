@@ -22,3 +22,5 @@
 .comparison-settings{margin:20px 0;padding-top:16px;border-top:1px solid #e7e8f5}.comparison-period-row{display:grid;grid-template-columns:22px minmax(130px,1fr) minmax(130px,1fr) 36px;gap:12px;align-items:end;margin:10px 0}.comparison-period-row label{font-size:11px;color:#848ba0}.comparison-period-row input{margin-top:5px}.period-number{align-self:center;color:#9890b3;font-size:11px}@media(max-width:600px){.comparison-period-row{grid-template-columns:16px minmax(0,1fr) minmax(0,1fr) 24px;gap:6px}.comparison-period-row input{font-size:11px;padding:8px;min-width:0}}
 .screening-diagnostic{margin:18px 0;padding:18px;border:1px solid #ebcf8b;border-radius:12px;background:#fff6e4;color:#6b4b12}.screening-diagnostic h2{font-size:17px;margin:0 0 10px}.screening-diagnostic p{line-height:1.55;margin:8px 0}
 @media(min-width:1050px){.budget-grid{grid-template-columns:repeat(4,minmax(0,1fr))}}
+
+.collection-settings{background:#f0f8f5;border:1px solid #c9e4d9;border-radius:12px;padding:22px;margin:20px 0}.collection-settings .badge{font-size:11px}#api-settings{margin:22px 0}#api-settings summary{font-weight:650;color:#4b5270}

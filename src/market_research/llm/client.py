@@ -6,8 +6,8 @@ from pathlib import Path
 from ..providers.client import SourceError, BudgetExceeded
 
 
-def json_object(body):
-    """Accept a fenced/prefaced JSON object; never execute model output."""
+def json_object(body, *, allow_singleton_array=False):
+    """Accept a JSON object, optionally wrapped in one complete single-item array."""
     if not isinstance(body, str) or len(body) > 200000:
         raise ValueError("Invalid model content")
     body = re.sub(r"^```(?:json)?\s*|\s*```$", "", body.strip())
@@ -15,10 +15,16 @@ def json_object(body):
         result = json.loads(body)
     except ValueError:
         # A frequent free-model response has a short introduction before JSON.
-        start = body.find("{")
+        starts = [index for token in ("{", "[") if (index := body.find(token)) >= 0]
+        start = min(starts, default=-1)
         if not 0 <= start <= 2000:
             raise
-        result, _ = json.JSONDecoder().raw_decode(body[start:])
+        result, end = json.JSONDecoder().raw_decode(body[start:])
+        # Never salvage the first object from a truncated/multi-plan array.
+        if isinstance(result, list) and body[start + end:].strip():
+            raise ValueError("Unexpected content after JSON array")
+    if allow_singleton_array and isinstance(result, list) and len(result) == 1 and isinstance(result[0], dict):
+        result = result[0]
     if not isinstance(result, dict):
         raise ValueError("Expected JSON object")
     return result
@@ -74,7 +80,7 @@ def decode_response(task, envelope, payload, requested_model):
     if not isinstance(body, str) or not body.strip():
         raise InvalidOutput("empty_content", "Model trả phản hồi rỗng, chưa có JSON để xử lý", model=actual, finish=finish)
     try:
-        result = json_object(body)
+        result = json_object(body, allow_singleton_array=task == "understand")
     except ValueError as error:
         raise InvalidOutput("invalid_json", "Model trả nội dung chưa đúng JSON", body=body, model=actual, finish=finish) from error
     try:

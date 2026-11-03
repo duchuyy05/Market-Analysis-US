@@ -51,7 +51,7 @@ def validate(dataset, evidence):
         if tested < len(directions):
             gaps.append(f"Kiểm chứng hồi cứu: chỉ có {tested}/{len(directions)} hướng có lần dự đoán năm đã biết và sai số; chưa xác nhận độ chính xác cho các hướng còn lại.")
     for status in dataset["source_status"]:
-        if status["status"] in {"unavailable", "empty"}:
+        if status["status"] in {"unavailable", "empty", "blocked", "limited"}:
             gaps.append(f"{status['source']} / {status['direction_id']}: {status.get('reason', 'Không có kết quả')}")
     return {"status": "failed" if errors else "partial" if gaps else "passed", "errors": sorted(set(errors)), "gaps": sorted(set(gaps)),
         "checks": ["known_evidence_ids", "idea_product_direction_match", "exact_review_quotes", "task1_structure", "source_coverage", "historical_coverage"],

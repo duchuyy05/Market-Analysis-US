@@ -23,7 +23,7 @@ from .workflow.trend_queries import product_context
 STAGES = [
     ("understand", "Hiểu mô tả"), ("discover", "Khám phá từ khóa đa nguồn"), ("screen", "Sàng lọc Trends US"), ("monthly", "Xếp hạng keyword theo tháng"),
     ("cluster", "Gom hướng sản phẩm"), ("select", "Chọn keyword tìm sản phẩm"),
-    ("search", "Tìm mẫu Amazon / Shopping"), ("enrich", "Lấy chi tiết / phản hồi"), ("history", "Lịch sử và dự báo"),
+    ("search", "Thu thập mẫu sản phẩm / thảo luận"), ("enrich", "Lấy chi tiết / phản hồi"), ("history", "Lịch sử và dự báo"),
     ("assess", "Đánh giá cơ hội"), ("ideas", "Đề xuất sản phẩm"), ("rank", "Xếp hạng"), ("commentary", "Nhận định bổ sung"), ("report", "Dựng và kiểm tra báo cáo"),
 ]
 
@@ -32,6 +32,7 @@ def export_tables(run, data):
     """Keep downloadable tables aligned with the saved analysis on rebuilds."""
     for name in ("keywords", "keyword_exclusions", "keyword_selection", "keyword_screening", "web_context", "discovery_sources", "directions", "products", "offers", "product_matches", "search_occurrences", "reviews", "review_themes", "ideas", "source_status"):
         run.table(name, data.get(name, []))
+    run.table("discussions",data.get("discussions",[]))
     run.table("all_candidates", data.get("search_occurrences", []))
     run.table("product_exclusions", data.get("exclusions", []))
     run.table("company_product_fit", [{"product_id": p["product_id"], "title": p["title"], **p.get("business_fit", {})} for p in data.get("products", [])])
@@ -135,7 +136,7 @@ def recover_understanding(run_id, root=ROOT):
         run.checkpoint("understand", result)
         state = run.manifest["stages"]["understand"]
         state.pop("error", None)
-        state.update(status="complete", note="Đã khôi phục từ phản hồi đã lưu, loại riêng seed chưa phù hợp; không gọi API.",
+        state.update(status="complete", note="Đã khôi phục và kiểm tra phản hồi đã lưu; không gọi API.",
                      finished_at=now(), recovered_from_saved=True)
         run.manifest.pop("error", None)
         run.manifest.pop("failed_stage", None)
@@ -145,7 +146,8 @@ def recover_understanding(run_id, root=ROOT):
         if config != original_input or run.manifest.get("usage", []) != original_usage or run.manifest.get("input_hash") != original_hash:
             raise RuntimeError("Khôi phục không được thay input hoặc usage")
         run.log("understand", "saved_plan_recovered", "Khôi phục riêng bước Hiểu mô tả từ dữ liệu đã lưu; chờ người dùng chạy tiếp", raw_file=saved["raw_file"],
-                retained_keywords=sum(len(n["seeds"]) for n in result["niches"]), api_requests_added=0)
+                retained_keywords=sum(len(n["seeds"]) for n in result["niches"]), api_requests_added=0,
+                shape_adjustment=saved.get("shape_adjustment"))
         run.save()
     return run
 

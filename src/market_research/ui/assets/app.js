@@ -213,18 +213,26 @@ function estimateRequests() {
   try {
     const top=topKeywordValue(), details=integerInput('product-details',0,1000), pool=integerInput('candidate-keywords',1,100);
     const total=budgetValue('budget'), trendCap=integerInput('trends-serp-budget',0,1000), reserve=integerInput('product-reserve',0,1000), provider=byId('trends-provider').value;
-    const effective=provider==='free'||provider==='off'?0:Math.min(trendCap,Math.max(0,total-reserve));
-    const shopping=byId('source-shopping').checked?Math.min(top,integerInput('shopping-keywords',0,100)):0;
-    const searches=top+shopping;
+    const effective=provider==='free'||provider==='off'?0:Math.min(trendCap,Math.max(0,total-(byId('product-collection-mode').value==='scraper'?0:reserve)));
+    const direct=byId('product-collection-mode').value==='scraper';
+    const shopping=!direct&&byId('source-shopping').checked?Math.min(top,integerInput('shopping-keywords',0,100)):0;
+    const searches=(direct?0:top)+shopping;
     const seasonal=byId('history-scope').value==='seasonal',monthly=seasonal||byId('monthly-enabled').checked, historyKeywords=monthly?Math.min(pool,integerInput('monthly-keywords',1,100)):top;
     const observation=analysisWindowInfo(),screening=seasonal?Math.ceil(pool/4)*observation.count:Math.ceil(pool/4), history=Math.ceil(historyKeywords/(monthly?4:5))*(seasonal?seasonWindowCount():1),shared=seasonal?Math.min(Math.ceil(pool/4),Math.ceil(historyKeywords/4))*observation.shared:0;
     const historyReserve=seasonal?Math.min(screening+history-shared,effective):Math.min(history,monthly?Math.max(1,Math.floor(effective/2)):Math.max(0,effective-1),Math.max(0,effective-1));
-    const estimate=screening+history-shared, productEstimate=searches+details;
+    const estimate=screening+history-shared, productEstimate=searches+(direct?0:details);
     const warning=effective>0&&estimate>effective?` Cần lưu ý: nếu miễn phí lỗi, trần Trends ${effective} thấp hơn dự trù ${estimate}; nên giảm ứng viên/Top keyword hoặc chỉnh lại trần trước khi chạy.`:'';
     const totalWarning=effective>0&&estimate+productEstimate>total?` Tổng dự trù ${estimate+productEstimate} SerpApi vượt trần ${total}, chưa tính thử lại.`:'';
     const phase=seasonal?`Sàng lọc ${pool} mẫu/keyword trong tháng ${collectionMonths(false).join(', ')} năm ${observation.year}: khoảng ${2*screening} HTTP miễn phí hoặc ${screening} lượt SerpApi. Dùng lại kỳ trùng lịch sử; Related khám phá trong cùng phạm vi nếu có ngân sách.`:`Sàng lọc ${pool} ứng viên: khoảng ${2*screening} HTTP miễn phí hoặc ${screening} lượt SerpApi.`;
     byId('request-estimate').textContent=`Trần tổng SerpApi: ${total} lượt, gồm Trends và mẫu hàng. Trends được dùng tối đa ${effective} lượt trong trần này; bảo vệ tối thiểu ${Math.min(total,reserve)} lượt cho mẫu hàng. Tìm mẫu cần khoảng ${top} Amazon + ${shopping} Shopping = ${searches} lượt, rồi tối đa ${details} chi tiết, chưa tính thử lại. ${phase} Lịch sử ${historyKeywords} keyword: khoảng ${history} lượt SerpApi, ${monthly?'4 keyword + anchor/yêu cầu; dùng lại chuỗi khi phân tích sản phẩm':'gom tối đa 5 keyword/yêu cầu'}. Dành trước ${historyReserve} lượt trong trần Trends cho lịch sử. Tổng dự trù ${estimate+productEstimate} lượt nếu Trends miễn phí không dùng được; không có cache. Số thực tế phụ thuộc keyword trùng, chất lượng và thử lại; không cam kết đủ mọi keyword.${warning}${totalWarning}`;
+    if(direct)byId('request-estimate').textContent=`Công cụ sản phẩm không dùng API: tối đa ${byId('scraper-budget').value} HTTP cho Amazon/Etsy/Reddit và chi tiết, dùng cache trước. ${phase} Lịch sử ${historyKeywords} keyword: khoảng ${history} lượt SerpApi nếu miễn phí không dùng được. API dành cho khám phá keyword và Trends; không gọi Amazon/Shopping API ở chế độ này. Nguồn bị chặn giữ trạng thái thiếu bằng chứng.`;
   } catch (_) { byId('request-estimate').textContent=''; }
+}
+function renderCollectionMode(){
+  const direct=byId('product-collection-mode').value==='scraper';
+  byId('source-shopping').disabled=direct;byId('product-details').disabled=direct;
+  byId('product-reserve').disabled=direct;
+  estimateRequests();
 }
 function applyResearchPreset(economy=false) {
   if(economy)byId('history-scope').value='seasonal';
@@ -439,7 +447,7 @@ function renderStages(run) {
     const item=node('div',label,'metric'); item.append(node('b',String(run.summary[key]))); byId('run-metrics').append(item);
   }
   byId('api-usage').replaceChildren();
-  for(const [provider,key,label] of [['serpapi','serpapi_requests','SerpApi'],['tavily','tavily_requests','Tavily'],['exa','exa_requests','Exa'],['openrouter','llm_requests','OpenRouter'],['google_trends_free','free_trends_requests','Trends miễn phí · HTTP']]) {
+  for(const [provider,key,label] of [['public_scraper','scraper_requests','Công cụ sản phẩm · HTTP'],['serpapi','serpapi_requests','SerpApi'],['tavily','tavily_requests','Tavily'],['exa','exa_requests','Exa'],['openrouter','llm_requests','OpenRouter'],['google_trends_free','free_trends_requests','Trends miễn phí · HTTP']]) {
     const used=run.request_counts?.[provider] ?? (run.usage||[]).filter(item=>item.provider===provider).length;
     const cap=run.input?.limits?.[key] ?? defaultLimits[key] ?? 0;
     const card=node('div',label,'usage-item'); card.append(node('strong',`${used} / ${cap} lượt`));
@@ -491,6 +499,12 @@ function prepareNewResearch(run) {
   byId('source-shopping').checked=Boolean(sources.shopping);byId('commentary').checked=Boolean(config.llm?.commentary);
   byId('discovery-focus').value=config.discovery?.focus||'auto';
   byId('web-provider').value=config.discovery?.web_provider||'auto';
+  byId('product-collection-mode').value=config.product_collection?.mode||'api';
+  for(const source of ['amazon','etsy','reddit'])byId('scrape-'+source).checked=(config.product_collection?.sources||['amazon','etsy','reddit']).includes(source);
+  byId('scraper-budget').value=String(config.limits?.scraper_requests??30);
+  byId('scraper-detail-limit').value=String(config.product_collection?.detail_limit??2);
+  byId('scraper-product-limit').value=String(config.limits?.products_per_direction??20);
+  renderCollectionMode();
   byId('business-profile').value=business.profile||'custom_manufacturing';for(const category of companyCategories)byId('business-'+category).checked=business.categories?.includes(category)??true;
   for(const site of publicSites)byId('source-'+site).checked=sources.web!==false&&(config.discovery?.sites||publicSites).includes(site);
   if(config.as_of_date)byId('cutoff').value=config.as_of_date;
@@ -637,10 +651,14 @@ byId('research-form').addEventListener('submit',event=>{
     limits.shopping_keywords=integerInput('shopping-keywords',0,100);
     limits.monthly_keywords=integerInput('monthly-keywords',1,100);
     limits.monthly_rows=integerInput('monthly-rows',1,50);
+    limits.scraper_requests=integerInput('scraper-budget',0,1000);
+    limits.products_per_direction=integerInput('scraper-product-limit',1,100);
+    const collectionMode=byId('product-collection-mode').value||'scraper';
     const provider=byId('trends-provider').value;
     const sites=publicSites.filter(site=>byId('source-'+site).checked);
     const config={brief:byId('brief').value.trim(),mode:'live',limits,llm:{enabled:limits.llm_requests>0,commentary:byId('commentary').checked},
       business:{profile:byId('business-profile').value,categories:companyCategories.filter(category=>byId('business-'+category).checked)},
+      product_collection:{mode:collectionMode,sources:['amazon','etsy','reddit'].filter(source=>byId('scrape-'+source).checked),detail_limit:integerInput('scraper-detail-limit',0,20),cache_hours:24},
       discovery:{enabled:true,sites,web_provider:['auto','tavily','exa','combined'].includes(byId('web-provider').value)?byId('web-provider').value:'auto',focus:['auto','designs','models'].includes(byId('discovery-focus').value)?byId('discovery-focus').value:'designs'},trends:{provider:['auto','free','serpapi'].includes(provider)?provider:'free',monthly_rankings:byId('monthly-enabled').checked,history_scope:byId('history-scope').value,history_months:collectionMonths(),analysis_year:byId('history-scope').value==='seasonal'?analysisYear():null},
       sources:{trends:provider!=='off',amazon:limits.serpapi_requests>0,shopping:byId('source-shopping').checked&&limits.serpapi_requests>0,web:sites.length>0&&(byId('web-provider').value==='exa'?limits.exa_requests>0:byId('web-provider').value==='tavily'?limits.tavily_requests>0:limits.tavily_requests+limits.exa_requests>0)}};
     if(recoveryInput){
@@ -650,6 +668,7 @@ byId('research-form').addEventListener('submit',event=>{
       if(recoveryInput.sources?.amazon===false&&limits.serpapi_requests===recoveryInput.limits?.serpapi_requests)config.sources.amazon=false;
       if(recoveryInput.llm?.enabled===false&&limits.llm_requests===recoveryInput.limits?.llm_requests)config.llm.enabled=false;
     }
+    if(collectionMode==='scraper'){config.sources.amazon=false;config.sources.shopping=false;config.limits.serpapi_product_reserve=0;}
     if(config.business.profile==='custom_manufacturing'&&!config.business.categories.length)throw new Error('Chọn ít nhất một nhóm hàng công ty có thể gia công');
     if(seeds.length) config.niches=recoveryInput?.niches?.length&&seeds.join(',')===recoveryInput.niches.flatMap(niche=>niche.seeds||[]).join(',')?recoveryInput.niches:[{name:config.brief.slice(0,120)||'Nghiên cứu từ keyword nhập sẵn',name_en:seeds[0],seeds}];
     if(byId('cutoff').value) config.as_of_date=byId('cutoff').value;
@@ -688,6 +707,8 @@ byId('screen-diagnostic-new').onclick=()=>{if(currentRun)prepareNewResearch(curr
 for(const view of ['history','products','reports','saved']) byId('nav-'+view).onclick=()=>{setView(view);if(view!=='products') loadLibrary().catch(error=>notice(error.message));};
 byId('budget-defaults').onclick=()=>{populateBudgets();byId('trends-serp-budget').value=String(defaultLimits.trends_serpapi_requests??8);byId('product-reserve').value=String(defaultLimits.serpapi_product_reserve??10);byId('free-trends-budget').value=String(defaultLimits.free_trends_requests??40);estimateRequests();};
 byId('credit-economy-preset').onclick=applyCreditEconomyPreset;
+byId('product-collection-mode').addEventListener('change',renderCollectionMode);
+byId('scraper-budget').addEventListener('change',estimateRequests);
 for(const id of ['top-keywords','top-keywords-custom','candidate-keywords','product-details','source-shopping','shopping-keywords','budget','budget-custom','trends-provider','trends-serp-budget','product-reserve','monthly-enabled','monthly-keywords'])byId(id).addEventListener('change',estimateRequests);
 byId('broad-monthly-preset').onclick=()=>{try{applyResearchPreset(false);}catch(error){notice(error.message);}};
 byId('seasonal-economy-preset').onclick=()=>{try{applyResearchPreset(true);}catch(error){notice(error.message);}};
@@ -728,7 +749,7 @@ async function initializeApplication(){
   connectionChecking=true;connectionReady=false;connectionError='';setSubmitting(submitting);
   try {
     const settings=await api('/api/settings');
-    const incompatible=settings.capabilities?.seasonal_history!==true||settings.capabilities?.company_domain!==true||settings.capabilities?.design_month_screening!==true||settings.capabilities?.manufacturing_models!==true||settings.capabilities?.design_content!==true||settings.capabilities?.exa_discovery!==true;
+    const incompatible=settings.capabilities?.seasonal_history!==true||settings.capabilities?.company_domain!==true||settings.capabilities?.design_month_screening!==true||settings.capabilities?.manufacturing_models!==true||settings.capabilities?.design_content!==true||settings.capabilities?.exa_discovery!==true||settings.capabilities?.public_scrapers!==true;
     byId('web-provider-status').textContent=`Tavily: ${settings.keys?.TAVILY_API_KEY?'đã có key':'chưa có key'} · Exa: ${settings.keys?.EXA_API_KEY?'đã có key':'chưa có key — thêm EXA_API_KEY vào .env'}`;
     defaultLimits=settings.limits; stageNames=settings.stages;
     if(!formInitialized){
@@ -739,6 +760,11 @@ async function initializeApplication(){
     byId('trends-serp-budget').value=String(defaultLimits.trends_serpapi_requests??8);byId('product-reserve').value=String(defaultLimits.serpapi_product_reserve??10);
     byId('shopping-keywords').value=String(defaultLimits.shopping_keywords??2);
     byId('history-scope').value='seasonal';byId('history-months').value='10,11,12';byId('business-profile').value='custom_manufacturing';for(const category of companyCategories)byId('business-'+category).checked=true;
+    byId('product-collection-mode').value='scraper';
+    for(const source of ['amazon','etsy','reddit'])byId('scrape-'+source).checked=true;
+    byId('scraper-budget').value=String(defaultLimits.scraper_requests??30);byId('scraper-detail-limit').value='2';
+    byId('scraper-product-limit').value='20';
+    renderCollectionMode();
     byId('discovery-focus').value='designs';
     byId('web-provider').value=settings.keys?.TAVILY_API_KEY&&settings.keys?.EXA_API_KEY?'combined':'auto';
     for(const site of publicSites)byId('source-'+site).checked=true;

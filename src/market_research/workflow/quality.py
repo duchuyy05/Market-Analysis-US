@@ -19,6 +19,9 @@ def has_backtest(history):
 
 
 def outcome(stage, data, config):
+    if stage=="search":
+        failed=sum(row.get("status") in {"blocked","unavailable","limited"} for row in data.get("source_status",[]))
+        return {"status":"partial" if failed or not data.get("products") else "complete","note":f"Có {len(data.get('products',[]))} mẫu và {len(data.get('discussions',[]))} thảo luận; {failed} nhánh bị chặn/thiếu. Thảo luận không phải doanh số hay review đã xác minh."}
     if isinstance(data, dict) and data.get("status") == "skipped":
         return {"status": "skipped", "note": "Bước không áp dụng với cấu hình này."}
     if stage == "commentary" and (config["mode"] == "offline" or not config["llm"]["enabled"] or not config["llm"]["commentary"]):

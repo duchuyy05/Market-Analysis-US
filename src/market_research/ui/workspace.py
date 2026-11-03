@@ -97,7 +97,7 @@ class Workspace:
         source = query.get("source", "all")
         saved_only = query.get("saved", "0") == "1"
         rules = sort_rules(query)
-        if source not in {"all", "amazon", "shopping", "public_web"}:
+        if source not in {"all", "amazon", "etsy", "shopping", "public_web"}:
             raise ValueError("Nguồn sản phẩm không hợp lệ")
         bounds = []
         for field in ("min_price", "max_price"):

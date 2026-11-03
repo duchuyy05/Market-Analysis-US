@@ -142,7 +142,7 @@ class Manager:
                 data["status"] = "interrupted"
             elif local_active and self.cancellations[data["run_id"]].is_set():
                 data["status"] = "cancelling"
-        data["request_counts"] = {provider: sum(u["provider"] == provider for u in data.get("usage", [])) for provider in ("serpapi", "tavily", "exa", "openrouter", "google_trends_free")}
+        data["request_counts"] = {provider: sum(u["provider"] == provider for u in data.get("usage", [])) for provider in ("public_scraper", "serpapi", "tavily", "exa", "openrouter", "google_trends_free")}
         return data
 
 
@@ -186,7 +186,7 @@ def handler_class(manager):
                 env = environment(manager.root)
                 return self.send(200, {"keys": {k: bool(env.get(k)) for k in ("SERPAPI_API_KEY", "TAVILY_API_KEY", "EXA_API_KEY", "OPENROUTER_API_KEY")}, "stages": STAGES, "limits": DEFAULT_LIMITS,
                     "business": {"default_profile": "custom_manufacturing", "categories": CATEGORY_LABELS},
-                    "capabilities": {"broad_discovery": True, "free_trends": True, "auto_trends_recovery": True, "stage_details": True, "seasonal_history": True, "design_month_screening": True, "manufacturing_models": True, "design_content": True, "exa_discovery": True, "company_domain": True, "public_sites": list(SOURCE_DOMAINS), "apify": False}})
+                    "capabilities": {"broad_discovery": True, "free_trends": True, "auto_trends_recovery": True, "stage_details": True, "seasonal_history": True, "design_month_screening": True, "manufacturing_models": True, "design_content": True, "exa_discovery": True, "public_scrapers": True, "company_domain": True, "public_sites": list(SOURCE_DOMAINS), "apify": False}})
             if path in {"/api/products", "/api/products/export.csv"}:
                 rows = manager.workspace.products(query)
                 if path.endswith(".csv"):
