@@ -1,0 +1,471 @@
+{
+  "date": "2026-10-30",
+  "understand_niche_overflow_20261030": {
+    "source_run": "run-20261030T084751-aea96a",
+    "observed_requests": 3,
+    "source_completion_tokens": 1242,
+    "source_reasoning_tokens": 0,
+    "source_finish_reason": "stop",
+    "root_cause": "Two HTTP429 responses followed by valid JSON containing10 niches instead of at most5",
+    "bounded_normalization": "Retain first5 model proposals; defer the rest with provenance, never call this a market ranking",
+    "targeted_tests_passed": 133,
+    "targeted_tests_failed": 0,
+    "targeted_tests_elapsed_seconds": 6.77,
+    "research_api_requests": 0,
+    "original_raw_manifest_events_usage_unchanged": true,
+    "saved_response_revalidated_without_provider_calls": true,
+    "actual_run_resumed": false,
+    "guide": "docs/llm-startup-recovery.md"
+  },
+  "dashboard_readiness_20261030": {
+    "root_cause": "Two Python dashboard listeners shared port8765; requests reached the old backend and compatibility checks left Start disabled",
+    "targeted_python_passed": 19,
+    "targeted_python_failed": 0,
+    "targeted_python_elapsed_seconds": 21.72,
+    "standalone_javascript_passed": 33,
+    "standalone_javascript_skipped": 1,
+    "research_api_requests": 0,
+    "old_idle_server_pid_stopped": 13052,
+    "new_server_pid_retained": 5952,
+    "live_settings_probes_after_fix": 3,
+    "live_seasonal_history_and_company_domain": true,
+    "checks": [
+      "Disabled Start displays its reason beside the button",
+      "Reconnect preserves user description, selected years/months and API budgets",
+      "Refreshing history and direct submission cannot bypass connection readiness",
+      "Failed reconnect remains retryable; active research keeps Start disabled",
+      "Windows exclusive port binding rejects both a second fixed server and a legacy reuse-address server",
+      "The original listener stays healthy after rejected duplicate binds",
+      "Live server serves the updated reconnect UI and current backend capabilities"
+    ],
+    "guide": "docs/seasonal-company-research.md"
+  },
+  "tests": {
+    "passed": 432,
+    "failed": 0,
+    "command": "python -B -m pytest -q -p no:cacheprovider",
+    "elapsed_seconds": 101.63
+  },
+  "checks": [
+    "Python compileall",
+    "JavaScript syntax",
+    "HTTP routes and output boundary",
+    "offline one-submission workflow",
+    "report-only without API",
+    "persistent budget/cache/resume",
+    "forecast holdout/no target-year fitting",
+    "identity and Sponsored handling",
+    "evidence/quote checks",
+    "secret scan of new code and examples",
+    "web MIME types independent of Windows registry associations",
+    "JavaScript form/demo events, initialization and visible errors",
+    "Q4 JavaScript-to-HTTP workflow with annual history and zero API requests",
+    "concurrent JSON reader/writer and bounded Windows lock retry",
+    "UI budget initialized from server defaults and explicit per-run override respected",
+    "cooperative stop during in-flight request, cache-preserving resume and server shutdown",
+    "product numeric sorting, unknowns last, filters and UTF-8 CSV formula escaping",
+    "persistent saved products/research and separate report edit revisions",
+    "JavaScript navigation, three-provider budgets, stop, product grid and report editor",
+    "unique DOM ids and direct event bindings",
+    "ordered multi-column sorting, priority reorder, tie-breaks, missing values and matching CSV order",
+    "Top keyword input validated from 1 to 100, unique-query cap with shared niche contexts, product query reduction and exported selection records",
+    "auto free429 to paid Trends before Amazon",
+    "strict paid Trends subcap with retries and product reserve",
+    "required screening gate and checkpoint resume",
+    "unusable data invalidates cache without deleting audit raw",
+    "bounded JSON repair and sanitized per-stage event logs",
+    "Shopping keyword cap independent of Amazon Top N",
+    "SQLite primary storage, idempotent migration, transactional rollback, stale/missing JSON mirrors",
+    "actual captured product history with duplicate replay and variant/currency guards",
+    "2021 dashboard preset and 2-6 year validation",
+    "rolling multi-year backtests, zero holdouts, baseline, monthly source resolution",
+    "six-section PDF with source images, clickable product/review links and bounded appendix",
+    "null/length LLM output regenerates and cached invalid replies do not repeat forever",
+    "effective understand plan schema and explicit input precedence",
+    "free model metadata cache, eligibility, mandatory reasoning and vendor diversity",
+    "budget/auth/HTTP429 errors retained through repair with sanitized provider detail",
+    "successful resume hides prior stage failure from active warnings"
+  ],
+  "budget_defaults": {
+    "top_keywords": 10,
+    "serpapi_requests": 20,
+    "source": "src/market_research/config.py: DEFAULT_LIMITS",
+    "ui_reads_server_default": true,
+    "sample_yaml_inherits_default": true,
+    "existing_run_limits_preserved": true,
+    "validation_provider_requests": 0,
+    "trends_provider": "auto",
+    "trends_serpapi_requests": 8,
+    "serpapi_product_reserve": 10,
+    "trends_related_requests": 0,
+    "shopping_keywords": 2
+  },
+  "workspace_ui": {
+    "top_keywords": "Required Trends screening before product search; measured-only Top N; awaiting_trends if recovery cannot produce a usable series. Legacy/explicit optional runs retain prior behavior.",
+    "guide": "docs/workspace-ui.md",
+    "javascript_checks": 21,
+    "provider_api_requests_during_validation": 0,
+    "cancellation": "Cooperative; an already-sent request finishes or times out, its response is retained, and no retry/next request starts",
+    "report_editing": "Separate Markdown/HTML copy with revision history; generated report and evidence remain unchanged",
+    "csv": "Filtered/sorted rows, Vietnamese headers, UTF-8 BOM, unknowns blank and formula text escaped",
+    "multi_sort": "Up to five unique columns in priority order; per-column asc/desc; star/price presets; CSV uses the same global ordering before pagination",
+    "visual_browser_qa": "Not performed; verified with DOM-event and HTTP integration tests",
+    "report_close": "Sticky close button returns to the originating list, unloads the iframe and never stops/deletes a run",
+    "report_close_validation": {
+      "command": "node --test tests/check_ui.mjs",
+      "passed": 9,
+      "failed": 0,
+      "skipped": 1,
+      "skip_reason": "HTTP integration requires a supplied test server; no backend change in this update"
+    },
+    "stage_inspection": "Keyboard accessible stage buttons, selected-stage polling, bounded checkpoint summaries and sanitized event logs"
+  },
+  "broad_discovery": {
+    "guide": "docs/workflow-discovery.md",
+    "apify": false,
+    "default_free_trends_http_limit": 40,
+    "candidate_limit": 32,
+    "product_details_limit": 3,
+    "shopping_default": false,
+    "public_sites": [
+      "tiktok",
+      "facebook",
+      "etsy",
+      "walmart",
+      "pinterest",
+      "ebay"
+    ],
+    "paid_provider_requests_for_this_update": 0,
+    "fixture_checks": [
+      "web newcomer wins before Amazon",
+      "verbatim keyword grounding",
+      "shared-anchor cross-batch scale",
+      "zero anchor stays unknown",
+      "HTTP budget per explore/widget",
+      "429 circuit and persistent cooldown",
+      "shared cache original timestamp and expiry",
+      "stop retains received free response",
+      "checkpoint polling before report",
+      "same-time report saves retain separate revisions"
+    ],
+    "free_trends_live_check": {
+      "date": "2026-10-28",
+      "result": "HTTP 429 at explore",
+      "successful_series": false,
+      "out_of_sandbox_http_attempts": 1,
+      "paid_requests": 0,
+      "automatic_paid_fallback": false
+    },
+    "visual_browser_qa": "Not performed; DOM-event and HTTP integration checks only"
+  },
+  "live_smoke": {
+    "run_id": "live-smoke-v2",
+    "scope": "one niche; source availability smoke test, not full Task 1 report",
+    "providers_observed": [
+      "OpenRouter free",
+      "SerpApi Amazon",
+      "SerpApi Google Shopping",
+      "SerpApi Trends"
+    ],
+    "limitations": [
+      "Related Queries returned no usable response",
+      "LLM clustering hit 429 and used a traceable seed fallback",
+      "SerpApi 6-request budget reached before detail enrichment"
+    ]
+  },
+  "visual_qa": "Not completed: Computer Use stopped because it could not confidently determine the Chrome URL. No further UI automation was attempted. HTTP and workflow tests passed.",
+  "archive_cleanup": {
+    "date": "2026-10-27",
+    "removed_archive_files": 89,
+    "retained_files": 87,
+    "retained_raw_files": 84,
+    "all_retained_raw_references_exist": true,
+    "offline_regression": "Replayed examples/offline-q4.json; all 14 dataset arrays matched example-q4 exactly",
+    "api_requests": 0,
+    "report_validation_errors": [],
+    "status": "partial: archive has no Shopping snapshot",
+    "temporary_verification_run_removed": true
+  },
+  "trends_recovery": {
+    "date": "2026-10-29",
+    "auto_fallback": "free to SerpApi on error, empty/malformed or failed quality check",
+    "paid_total_cap_preserved": true,
+    "required_before_products": true,
+    "no_series_state": "awaiting_trends",
+    "resume_uses_checkpoints": true,
+    "shared_anchor_quality_checked": true,
+    "wider_window_attempt": "365 days once if budget remains",
+    "invalid_cache_retains_raw_and_can_refetch": true,
+    "llm_json_repair": "one distinct repair request within LLM budget",
+    "shopping_keyword_cap": 2,
+    "paid_live_requests_in_this_update": 0,
+    "validation": "fixtures, offline archive and local HTTP/DOM integration; no successful live paid fallback claim"
+  },
+  "report_periods_quality_update": {
+    "date": "2026-10-29",
+    "comparison_windows": "up to12 independent monthly ranges, same native historical series, coverage tracked",
+    "pdf_export": "ReportLab with Unicode text and realURIannotations; optional project-local runtime",
+    "actual_pdf": {
+      "run_id": "run-20261029T013332-efc9ee",
+      "pages": 21,
+      "uri_links": 206,
+      "review_source_links": 22,
+      "selectable_characters": 39040,
+      "bytes": 194457,
+      "visual_review": "all page contacts plus high-resolution cover/reviews/last page"
+    },
+    "source_pdf": {
+      "path": "D:/DowLoad/samplebc.pdf",
+      "pages": 9,
+      "uri_links": 0,
+      "extracted_characters": 0
+    },
+    "collection_fixes": [
+      "shorter mapped measurement queries with explicit broader scope",
+      "multiple positive points required, zero stays distinct from missing",
+      "partial niche recovery picks a whole comparison window",
+      "detail slots allocated to active niches and globally topped up within caps",
+      "web noise filters and bounded focused retries",
+      "truncated configured model avoided at later steps",
+      "Noel selling window inferred only when not explicitly overridden"
+    ],
+    "existing_run_rebuild": {
+      "additional_provider_requests": 0,
+      "source_dataset_unchanged": true,
+      "source_evidence_unchanged": true,
+      "input_hash_unchanged": true,
+      "serpapi_attempts_before_after": 13,
+      "original_reports_backed_up": true
+    },
+    "main_html_published_after_companion_files": true
+  },
+  "historical_database_report": {
+    "date": "2026-10-29",
+    "history_year_selection": "2 to 6 completed years, 2004+, explicit dashboard 2021-2025 preset",
+    "backtests": "rolling-origin median same calendar month; earlier training years only; complete zero holdout years retained",
+    "metrics": [
+      "MAE",
+      "RMSE",
+      "WAPE",
+      "sMAPE",
+      "same-sample seasonal naive baseline",
+      "coverage",
+      "fold count"
+    ],
+    "storage": "data/market_research.sqlite3",
+    "migration": {
+      "runs": 14,
+      "datasets": 12,
+      "checkpoints": 232,
+      "events": 286,
+      "errors": [],
+      "legacy_files_changed": 0,
+      "sqlite_integrity_check": "ok"
+    },
+    "sample_run": "run-20261029T033942-2d0e89",
+    "sample_report": {
+      "pages": 10,
+      "embedded_source_images": 8,
+      "uri_links": 24,
+      "selectable_characters": 16766,
+      "six_sections_verified": true,
+      "historical_years_available": [
+        2023,
+        2024,
+        2025
+      ],
+      "product_capture_years": [
+        2026
+      ],
+      "ideas_available": 3,
+      "source_gaps_preserved": true
+    },
+    "visual_pdf_qa": "All 10 final pages inspected; no clipped text, overlaps or stretched images",
+    "actual_http_check": [
+      "historical_overview from SQLite with computed validation",
+      "application/pdf download",
+      "image/jpeg in bounded assets path"
+    ],
+    "raw_and_normalized_config_files_verified_unchanged": 210,
+    "source_evidence_semantically_unchanged": true,
+    "input_hash_and_api_usage_preserved": true,
+    "additional_research_provider_requests": 0,
+    "javascript_direct_test": {
+      "passed": 20,
+      "failed": 0,
+      "optional_http_skip": 1
+    }
+  },
+  "llm_startup_fix": {
+    "date": "2026-10-29",
+    "source_run": "run-20261029T105559-37467a",
+    "root_cause": "Both models returned null content with length finish; old low reasoning setting still consumed token budget, and unusable HTTP200 replies were cached as success",
+    "changes": [
+      "free JSON model metadata selection excluding mandatory reasoning",
+      "reasoning disabled when supported",
+      "two model attempts plus at most one repair/regeneration, within request caps",
+      "diverse vendor fallback",
+      "full effective understand plan validation",
+      "invalid response cache marking and retained failure archive",
+      "actual budget/auth/rate-limit messages retained and secrets scrubbed",
+      "resolved stage errors hidden from current dashboard warnings"
+    ],
+    "full_suite": {
+      "passed": 245,
+      "failed": 0,
+      "seconds": 152.67
+    },
+    "javascript": {
+      "passed": 21,
+      "failed": 0,
+      "optional_http_skip": 1
+    },
+    "live_diagnostic": {
+      "completion_requests": 2,
+      "providers": [
+        "openrouter"
+      ],
+      "models": [
+        "google/gemma-4-26b-a4b-it:free",
+        "google/gemma-4-31b-it:free"
+      ],
+      "result": "Both returned HTTP429; no successful live plan confirmed",
+      "serpapi_requests": 0,
+      "tavily_requests": 0,
+      "original_run_input_and_usage_unchanged": true
+    },
+    "guide": "docs/llm-startup-recovery.md"
+  },
+  "seasonal_company_domain_20261030": {
+    "full_regression_passed": 432,
+    "full_regression_failed": 0,
+    "standalone_javascript_passed": 25,
+    "standalone_javascript_skipped": 1,
+    "research_api_requests": 0,
+    "existing_user_runs_modified": false,
+    "new_live_default_business_profile": "custom_manufacturing",
+    "offline_and_frozen_legacy_profile": "general",
+    "dashboard_default_history_scope": "seasonal",
+    "dashboard_default_history_months": [
+      10,
+      11,
+      12
+    ],
+    "budget_defaults_automatically_raised": false,
+    "economy_estimate_q4_three_years": 17,
+    "wide_estimate_q4_three_years": 63,
+    "synthetic_pdf_pages_visually_inspected": 7,
+    "temporary_test_render_cleanup": {
+      "status": "blocked_by_automatic_approval_review",
+      "reason": "blocked by policy",
+      "action": "Recursive removal of current-task temporary test and PDF-render directories",
+      "temporary_directories_retained": true
+    },
+    "guide": "docs/seasonal-company-research.md",
+    "checks": [
+      "Requests contain only selected historical month windows, never January-September or future target-year months in Q4 mode",
+      "Recent screening and Related Trends are skipped in seasonal-only mode",
+      "Per-window cache/recovery and full-versus-seasonal checkpoint isolation preserve original usage",
+      "Selected-month forecasts and backtests survive report-only rebuild without new provider requests",
+      "Anchor-ratio100 normalization preserves raw values and allows chart values above100",
+      "Uncollected months stay absent/unranked and annual seasonality is not inferred from Q4",
+      "Manufacturable product categories are enforced before Trends, before details and before idea generation",
+      "A mixed model plan keeps usable company seeds and audits excluded seeds without an unnecessary model repair",
+      "Bags, mugs, printed depictions and nonpowered phone accessories are distinguished from actual forbidden contents/devices",
+      "Explicit bundled/integrated cosmetics, food and powered components do not inherit an allowed accessory title",
+      "Contradictory collection/compare/selling-month settings fail before source calls",
+      "Frozen legacy runs retain original domain/input hash and zero-budget seasonal runs wait before Amazon"
+    ]
+  },
+  "monthly_report_improvement_20261030": {
+    "source_run": "run-20261030T040036-2238b6",
+    "full_regression_passed": 326,
+    "full_regression_failed": 0,
+    "standalone_javascript_passed": 23,
+    "standalone_javascript_skipped": 1,
+    "research_api_requests": 0,
+    "report_pages": 13,
+    "embedded_product_images": 9,
+    "clickable_links": 51,
+    "original_input_usage_raw_preserved": true,
+    "backup": "data/runs/run-20261030T040036-2238b6/revisions/report-monthly-20261030T044118",
+    "source_candidates": 32,
+    "source_keywords_with_two_cycles": 9,
+    "new_discovery_target": 64,
+    "paid_defaults_unchanged": true,
+    "guide": "docs/monthly-keyword-research.md",
+    "verification": "docs/report4-verification.json",
+    "checks": [
+      "Bounded diverse LLM expansion with hypothesis labels and exact checkpoint reuse",
+      "Anchored candidate-wide history and selected-history cache reuse",
+      "Twelve calendar-month rankings distinguish seasonal suitability and comparable demand",
+      "Selling-month selection preserves recent facts and requires a common anchor context",
+      "SQLite projects candidate and selected histories without duplicate rows",
+      "Source images normalize safely, repair corrupt cache and expose missing-image diagnostics",
+      "Idea alternatives and specifications stay linked to exact products and observations",
+      "Dashboard preset and monthly table sorting/row limits do not create research requests",
+      "Thirteen report pages rendered and visually inspected"
+    ]
+  },
+  "workflow_audit_20261030": {
+    "source_run": "run-20261030T024654-9386f6",
+    "guide": "docs/run-audit-20261030.md",
+    "full_regression_passed": 264,
+    "full_regression_failed": 0,
+    "research_api_requests": 0,
+    "original_input_usage_raw_and_report_unchanged": true,
+    "checks": [
+      "Screening and product requests protect history reserve inside both SerpApi caps",
+      "No paid reserve when Trends is disabled or explicitly free",
+      "Ten history queries in two requests, exact query association and separate checkpoints",
+      "Zero signal never becomes a numerical forecast",
+      "Two training years without a rolling holdout remain partial",
+      "Low-signal exclusions do not taint completed screening or a full Top N selection",
+      "Disabled commentary is skipped and counts toward settled progress",
+      "Seed-rule grouping is disclosed and makes no new model calls after the cap",
+      "Old-run status projection leaves stored status and usage unchanged",
+      "Report exposes historical and review coverage; missing values are not formatted as percentages",
+      "Six generated PDF test pages rendered and visually inspected"
+    ]
+  },
+  "rate_limit_fix_20261030": {
+    "source_runs": [
+      "run-20261030T022343-210e2c",
+      "run-20261030T021331-cf3ca4"
+    ],
+    "targeted_suite": {
+      "passed": 97,
+      "failed": 0,
+      "provider_api_requests": 0
+    },
+    "changes": [
+      "Do not immediately retry OpenRouter429 on the same model",
+      "Repair schema using the responding model instead of an already unavailable model",
+      "At most one final recovery slot, different compatible vendor after two429 failures",
+      "Reject configured audio/embedding/incompatible catalog entries before chat",
+      "Distinguish configured model and actual planned candidates in logs",
+      "Keep typed HTTP status, sanitized upstream metadata and Retry-After"
+    ],
+    "live_status": "No additional inference calls; source429 availability is external and remains unconfirmed"
+  },
+  "visible_history_selection_20261030": {
+    "targeted_python_passed": 34,
+    "targeted_python_failed": 0,
+    "targeted_python_command": "python -B -m pytest -q -p no:cacheprovider tests/test_company_seasonal_config.py tests/test_seasonal_collection.py tests/test_v2_http.py",
+    "targeted_python_elapsed_seconds": 21.42,
+    "standalone_javascript_passed": 29,
+    "standalone_javascript_skipped": 1,
+    "research_api_requests": 0,
+    "existing_user_runs_modified": false,
+    "checks": [
+      "Collection year and month controls are outside collapsed settings with unique IDs",
+      "Range or custom nonconsecutive years submit sorted unique explicit lists",
+      "Month checkboxes and typed month lists stay synchronized",
+      "Full mode shows all months and restores previous seasonal selection on return",
+      "Invalid years or empty months fail before submission",
+      "Selected2021,2023,2025 with months10,12 creates exactly six windows",
+      "Cost estimates and comparison presets reflect selected years and months"
+    ],
+    "guide": "docs/seasonal-company-research.md"
+  }
+}

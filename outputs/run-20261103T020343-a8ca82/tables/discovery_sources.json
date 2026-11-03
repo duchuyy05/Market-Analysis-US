@@ -1,0 +1,118 @@
+[
+  {
+    "branch": "social",
+    "sites": [
+      "tiktok"
+    ],
+    "count": 0,
+    "raw_count": 0,
+    "filtered_count": 0,
+    "queries": 1,
+    "status": "empty",
+    "providers": [
+      "tavily"
+    ]
+  },
+  {
+    "branch": "social",
+    "sites": [
+      "facebook"
+    ],
+    "count": 6,
+    "raw_count": 8,
+    "filtered_count": 2,
+    "queries": 1,
+    "status": "available",
+    "providers": [
+      "tavily"
+    ]
+  },
+  {
+    "branch": "marketplaces",
+    "sites": [
+      "etsy"
+    ],
+    "count": 18,
+    "raw_count": 24,
+    "filtered_count": 6,
+    "queries": 3,
+    "status": "available",
+    "providers": [
+      "exa",
+      "tavily"
+    ]
+  },
+  {
+    "branch": "marketplaces",
+    "sites": [
+      "walmart"
+    ],
+    "count": 0,
+    "raw_count": 0,
+    "filtered_count": 0,
+    "queries": 3,
+    "status": "empty",
+    "providers": [
+      "exa",
+      "tavily"
+    ]
+  },
+  {
+    "branch": "marketplaces",
+    "sites": [
+      "ebay"
+    ],
+    "count": 0,
+    "raw_count": 0,
+    "filtered_count": 0,
+    "queries": 3,
+    "status": "empty",
+    "providers": [
+      "exa",
+      "tavily"
+    ]
+  },
+  {
+    "branch": "visual",
+    "sites": [
+      "pinterest"
+    ],
+    "count": 3,
+    "raw_count": 8,
+    "filtered_count": 5,
+    "queries": 2,
+    "status": "available",
+    "providers": [
+      "exa",
+      "tavily"
+    ]
+  },
+  {
+    "branch": "web_provider",
+    "provider": "tavily",
+    "count": 12,
+    "used": 1,
+    "cap": 10,
+    "queries": 3,
+    "status": "available"
+  },
+  {
+    "branch": "web_provider",
+    "provider": "exa",
+    "count": 15,
+    "used": 2,
+    "cap": 10,
+    "queries": 2,
+    "status": "available"
+  },
+  {
+    "branch": "llm_expansion",
+    "target": 64,
+    "rounds": 0,
+    "accepted": 0,
+    "rejected": 0,
+    "cache_reused": 0,
+    "status": "skipped",
+    "reason": "Đã đủ ứng viên trong phạm vi người dùng chọn"
+  }
+]

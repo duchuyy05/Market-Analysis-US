@@ -1,0 +1,331 @@
+{
+  "requests": [
+    {
+      "provider": "openrouter",
+      "engine": null,
+      "purpose": "llm_understand",
+      "data_type": null,
+      "requested_at": "2026-11-02T03:52:37.581442+00:00",
+      "status": "received",
+      "cost_usd": 0,
+      "requested_model": "xingchen-agi/xing4.0-29b-a4b:free",
+      "tokens": {
+        "prompt_tokens": 2228,
+        "completion_tokens": 1064,
+        "total_tokens": 3292,
+        "cost": 0,
+        "is_byok": false,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "audio_tokens": 0,
+          "video_tokens": 0
+        },
+        "cost_details": {
+          "upstream_inference_cost": 0,
+          "upstream_inference_prompt_cost": 0,
+          "upstream_inference_completions_cost": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "image_tokens": 0,
+          "audio_tokens": 0
+        }
+      },
+      "model": "xingchen-agi/xing4.0-29b-a4b:free"
+    },
+    {
+      "provider": "tavily",
+      "engine": null,
+      "purpose": null,
+      "data_type": null,
+      "requested_at": "2026-11-02T03:53:05.680546+00:00",
+      "status": "received",
+      "cost_usd": null
+    },
+    {
+      "provider": "tavily",
+      "engine": null,
+      "purpose": null,
+      "data_type": null,
+      "requested_at": "2026-11-02T03:53:08.877417+00:00",
+      "status": "received",
+      "cost_usd": null
+    },
+    {
+      "provider": "tavily",
+      "engine": null,
+      "purpose": null,
+      "data_type": null,
+      "requested_at": "2026-11-02T03:53:13.341771+00:00",
+      "status": "received",
+      "cost_usd": null
+    },
+    {
+      "provider": "openrouter",
+      "engine": null,
+      "purpose": "llm_extract",
+      "data_type": null,
+      "requested_at": "2026-11-02T03:53:15.458588+00:00",
+      "status": "HTTP 429: Provider returned error: xingchen-agi/xing4.0-29b-a4b:free is temporarily rate-limited upstream. Please retry shortly, or add your own key to accumulate your rate limits: https://openrouter.ai/settings/integrations",
+      "cost_usd": null,
+      "requested_model": "xingchen-agi/xing4.0-29b-a4b:free"
+    },
+    {
+      "provider": "openrouter",
+      "engine": null,
+      "purpose": "llm_extract",
+      "data_type": null,
+      "requested_at": "2026-11-02T03:53:17.297160+00:00",
+      "status": "HTTP 429: Provider returned error: google/gemma-4-26b-a4b-it:free is temporarily rate-limited upstream. Please retry shortly, or add your own key to accumulate your rate limits: https://openrouter.ai/settings/integrations",
+      "cost_usd": null,
+      "requested_model": "google/gemma-4-26b-a4b-it:free"
+    },
+    {
+      "provider": "openrouter",
+      "engine": null,
+      "purpose": "llm_extract",
+      "data_type": null,
+      "requested_at": "2026-11-02T03:53:17.941237+00:00",
+      "status": "received",
+      "cost_usd": 0,
+      "requested_model": "dots-studio/dots-3-note-preview:free",
+      "tokens": {
+        "prompt_tokens": 3417,
+        "completion_tokens": 60,
+        "total_tokens": 3477,
+        "cost": 0,
+        "is_byok": false,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "audio_tokens": 0,
+          "video_tokens": 0
+        },
+        "cost_details": {
+          "upstream_inference_cost": 0,
+          "upstream_inference_prompt_cost": 0,
+          "upstream_inference_completions_cost": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "image_tokens": 0,
+          "audio_tokens": 0
+        }
+      },
+      "model": "dots-studio/dots-3-note-preview:free"
+    },
+    {
+      "provider": "google_trends_free",
+      "engine": "explore",
+      "purpose": null,
+      "data_type": null,
+      "requested_at": "2026-11-02T03:53:20.661505+00:00",
+      "status": "HTTP 429",
+      "cost_usd": 0
+    },
+    {
+      "provider": "openrouter",
+      "engine": null,
+      "purpose": "llm_expand",
+      "data_type": null,
+      "requested_at": "2026-11-02T03:53:21.481191+00:00",
+      "status": "HTTP 429: Provider returned error: xingchen-agi/xing4.0-29b-a4b:free is temporarily rate-limited upstream. Please retry shortly, or add your own key to accumulate your rate limits: https://openrouter.ai/settings/integrations",
+      "cost_usd": null,
+      "requested_model": "xingchen-agi/xing4.0-29b-a4b:free"
+    },
+    {
+      "provider": "openrouter",
+      "engine": null,
+      "purpose": "llm_expand",
+      "data_type": null,
+      "requested_at": "2026-11-02T03:53:23.361311+00:00",
+      "status": "HTTP 429: Provider returned error: google/gemma-4-26b-a4b-it:free is temporarily rate-limited upstream. Please retry shortly, or add your own key to accumulate your rate limits: https://openrouter.ai/settings/integrations",
+      "cost_usd": null,
+      "requested_model": "google/gemma-4-26b-a4b-it:free"
+    },
+    {
+      "provider": "openrouter",
+      "engine": null,
+      "purpose": "llm_expand",
+      "data_type": null,
+      "requested_at": "2026-11-02T03:53:23.927342+00:00",
+      "status": "received",
+      "cost_usd": 0,
+      "requested_model": "dots-studio/dots-3-note-preview:free",
+      "tokens": {
+        "prompt_tokens": 2284,
+        "completion_tokens": 1558,
+        "total_tokens": 3842,
+        "cost": 0,
+        "is_byok": false,
+        "prompt_tokens_details": {
+          "cached_tokens": 0,
+          "cache_write_tokens": 0,
+          "audio_tokens": 0,
+          "video_tokens": 0
+        },
+        "cost_details": {
+          "upstream_inference_cost": 0,
+          "upstream_inference_prompt_cost": 0,
+          "upstream_inference_completions_cost": 0
+        },
+        "completion_tokens_details": {
+          "reasoning_tokens": 0,
+          "image_tokens": 0,
+          "audio_tokens": 0
+        }
+      },
+      "model": "dots-studio/dots-3-note-preview:free"
+    },
+    {
+      "provider": "serpapi",
+      "engine": "google_trends",
+      "purpose": "trends_history",
+      "data_type": "TIMESERIES",
+      "requested_at": "2026-11-02T03:53:45.835347+00:00",
+      "status": "received",
+      "cost_usd": null
+    },
+    {
+      "provider": "serpapi",
+      "engine": "google_trends",
+      "purpose": "trends_history",
+      "data_type": "TIMESERIES",
+      "requested_at": "2026-11-02T03:53:52.543753+00:00",
+      "status": "received",
+      "cost_usd": null
+    },
+    {
+      "provider": "serpapi",
+      "engine": "google_trends",
+      "purpose": "trends_history",
+      "data_type": "TIMESERIES",
+      "requested_at": "2026-11-02T03:53:54.000109+00:00",
+      "status": "received",
+      "cost_usd": null
+    },
+    {
+      "provider": "serpapi",
+      "engine": "google_trends",
+      "purpose": "trends_history",
+      "data_type": "TIMESERIES",
+      "requested_at": "2026-11-02T03:53:56.091608+00:00",
+      "status": "received",
+      "cost_usd": null
+    },
+    {
+      "provider": "serpapi",
+      "engine": "google_trends",
+      "purpose": "trends_history",
+      "data_type": "TIMESERIES",
+      "requested_at": "2026-11-02T03:53:57.930578+00:00",
+      "status": "received",
+      "cost_usd": null
+    },
+    {
+      "provider": "serpapi",
+      "engine": "google_trends",
+      "purpose": "trends_history",
+      "data_type": "TIMESERIES",
+      "requested_at": "2026-11-02T03:54:03.294121+00:00",
+      "status": "received",
+      "cost_usd": null
+    },
+    {
+      "provider": "serpapi",
+      "engine": "google_trends",
+      "purpose": "trends_history",
+      "data_type": "TIMESERIES",
+      "requested_at": "2026-11-02T03:54:05.740674+00:00",
+      "status": "received",
+      "cost_usd": null
+    },
+    {
+      "provider": "serpapi",
+      "engine": "google_trends",
+      "purpose": "trends_history",
+      "data_type": "TIMESERIES",
+      "requested_at": "2026-11-02T03:54:09.831496+00:00",
+      "status": "received",
+      "cost_usd": null
+    },
+    {
+      "provider": "openrouter",
+      "engine": null,
+      "purpose": "llm_cluster",
+      "data_type": null,
+      "requested_at": "2026-11-02T03:54:20.522132+00:00",
+      "status": "HTTP 429: Provider returned error: xingchen-agi/xing4.0-29b-a4b:free is temporarily rate-limited upstream. Please retry shortly, or add your own key to accumulate your rate limits: https://openrouter.ai/settings/integrations",
+      "cost_usd": null,
+      "requested_model": "xingchen-agi/xing4.0-29b-a4b:free"
+    },
+    {
+      "provider": "serpapi",
+      "engine": "amazon",
+      "purpose": "amazon_search",
+      "data_type": null,
+      "requested_at": "2026-11-02T03:54:22.904304+00:00",
+      "status": "received",
+      "cost_usd": null
+    },
+    {
+      "provider": "serpapi",
+      "engine": "amazon",
+      "purpose": "amazon_search",
+      "data_type": null,
+      "requested_at": "2026-11-02T03:54:25.770414+00:00",
+      "status": "received",
+      "cost_usd": null
+    },
+    {
+      "provider": "serpapi",
+      "engine": "amazon",
+      "purpose": "amazon_search",
+      "data_type": null,
+      "requested_at": "2026-11-02T03:54:33.076069+00:00",
+      "status": "received",
+      "cost_usd": null
+    },
+    {
+      "provider": "serpapi",
+      "engine": "amazon",
+      "purpose": "amazon_search",
+      "data_type": null,
+      "requested_at": "2026-11-02T03:54:35.837834+00:00",
+      "status": "received",
+      "cost_usd": null
+    },
+    {
+      "provider": "serpapi",
+      "engine": "amazon_product",
+      "purpose": "amazon_detail",
+      "data_type": null,
+      "requested_at": "2026-11-02T03:54:39.686889+00:00",
+      "status": "received",
+      "cost_usd": null
+    },
+    {
+      "provider": "serpapi",
+      "engine": "amazon_product",
+      "purpose": "amazon_detail",
+      "data_type": null,
+      "requested_at": "2026-11-02T03:54:54.373513+00:00",
+      "status": "received",
+      "cost_usd": null
+    },
+    {
+      "provider": "serpapi",
+      "engine": "amazon_product",
+      "purpose": "amazon_detail",
+      "data_type": null,
+      "requested_at": "2026-11-02T03:55:03.630246+00:00",
+      "status": "received",
+      "cost_usd": null
+    }
+  ],
+  "known_cost_usd": 0,
+  "total_cost_status": "unknown",
+  "cache_hits": 0,
+  "shared_cache_hits": 0
+}

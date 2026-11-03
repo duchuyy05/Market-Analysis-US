@@ -1,0 +1,7 @@
+# Báo cáo niche — Chủ đề Cuối Năm - Ốp Lưng & Phụ Kiện Điện Thoại
+
+NGHIÊN CỨU NGUỒN THẬT · 2026-11-03
+
+## Chủ đề Cuối Năm - Ốp Lưng & Phụ Kiện Điện Thoại
+
+Nhóm này chưa có keyword được chọn sau sàng lọc và giới hạn Top N, nên chưa có mẫu, comment hoặc idea đủ nguồn để phân tích. Giữ nhóm để thấy phần nghiên cứu còn thiếu; không điền bảng trống hoặc suy ra nhu cầu bằng 0.

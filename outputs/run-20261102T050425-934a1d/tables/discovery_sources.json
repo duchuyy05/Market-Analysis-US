@@ -1,0 +1,78 @@
+[
+  {
+    "branch": "social",
+    "sites": [
+      "tiktok"
+    ],
+    "count": 0,
+    "raw_count": 0,
+    "filtered_count": 0,
+    "queries": 1,
+    "status": "empty"
+  },
+  {
+    "branch": "social",
+    "sites": [
+      "facebook"
+    ],
+    "count": 3,
+    "raw_count": 8,
+    "filtered_count": 5,
+    "queries": 1,
+    "status": "available"
+  },
+  {
+    "branch": "marketplaces",
+    "sites": [
+      "etsy"
+    ],
+    "count": 5,
+    "raw_count": 7,
+    "filtered_count": 2,
+    "queries": 1,
+    "status": "available"
+  },
+  {
+    "branch": "marketplaces",
+    "sites": [
+      "walmart"
+    ],
+    "count": 0,
+    "raw_count": 0,
+    "filtered_count": 0,
+    "queries": 1,
+    "status": "empty"
+  },
+  {
+    "branch": "marketplaces",
+    "sites": [
+      "ebay"
+    ],
+    "count": 0,
+    "raw_count": 1,
+    "filtered_count": 1,
+    "queries": 1,
+    "status": "low_quality"
+  },
+  {
+    "branch": "visual",
+    "sites": [
+      "pinterest"
+    ],
+    "count": 7,
+    "raw_count": 8,
+    "filtered_count": 1,
+    "queries": 1,
+    "status": "available"
+  },
+  {
+    "branch": "llm_expansion",
+    "target": 64,
+    "rounds": 1,
+    "accepted": 0,
+    "rejected": 0,
+    "cache_reused": 0,
+    "status": "limited",
+    "reason": "Đã chạm ngân sách openrouter: 8 lượt"
+  }
+]

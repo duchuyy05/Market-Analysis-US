@@ -1,0 +1,55 @@
+# Mô tả là đầu vào chính. Không cần nhập keyword.
+mode: live
+brief: >-
+  Tôi muốn nghiên cứu quà và đồ trang trí lễ hội bán tại Mỹ trong tháng 11–12.
+  Tìm ba niche: trang trí bàn Thanksgiving, lịch Advent và quà nhỏ bỏ tất Noel.
+  Ưu tiên gọn nhẹ, giá bán 15–35 USD. Chưa có giá vốn.
+market: US
+history_years: [2023, 2024, 2025]
+target_year: 2026
+selling_months: [11, 12]
+comparison_periods:
+  - start: "2023-10"
+    end: "2023-12"
+  - start: "2024-10"
+    end: "2024-12"
+  - start: "2025-10"
+    end: "2025-12"
+price_range: [15, 35]
+sources:
+  trends: true
+  amazon: true
+  shopping: false
+  web: true
+llm:
+  enabled: true
+  commentary: false
+  model: null
+discovery:
+  enabled: true
+  sites: [tiktok, facebook, etsy, walmart, pinterest, ebay]
+trends:
+  provider: auto  # Miễn phí trước; lỗi/rỗng/thiếu độ phủ thì SerpApi trong trần bên dưới.
+  required: true  # Không tìm mẫu khi chưa có keyword đo Trends hợp lệ.
+  anchor: gift basket
+  screen_days: 90
+  cache_hours: 24
+  # Để sàng lọc mẫu/họa tiết trong tháng cụ thể, dùng ba trường dưới:
+  # history_scope: seasonal
+  # history_months: [10, 11, 12]  # Phải bao gồm các khoảng so sánh ở trên.
+  # analysis_year: 2025  # null: kỳ gần nhất các tháng đã chọn đã bắt đầu.
+limits:
+  top_keywords: 10
+  candidate_keywords: 32
+  free_trends_requests: 40  # Đếm HTTP thực tế; thường 2 HTTP/phép đo.
+  product_details: 3  # Toàn lượt, sau khi tìm mẫu Top N.
+  shopping_keywords: 2  # Nếu bật Shopping, chỉ đối chiếu 2 keyword.
+  trends_serpapi_requests: 8  # Nằm trong tổng trần SerpApi, không cộng thêm.
+  serpapi_product_reserve: 10  # Giữ lượt cho Amazon/Shopping/chi tiết.
+  trends_related_requests: 0  # Không chi SerpApi cho related; ưu tiên sàng lọc.
+  # SerpApi dùng mặc định trong src/market_research/config.py (hiện 20).
+  # Thêm serpapi_requests: 10 để ghi đè cho riêng cấu hình này.
+  tavily_requests: 3
+  llm_requests: 8
+  directions_per_niche: 4
+  enrich_per_niche: 4

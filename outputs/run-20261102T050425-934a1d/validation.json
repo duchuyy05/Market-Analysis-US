@@ -1,0 +1,20 @@
+{
+  "status": "partial",
+  "errors": [],
+  "gaps": [
+    "Dự báo: chỉ có 0/4 hướng đủ dữ liệu tạo dự báo; không điền dự báo thay cho dữ liệu thiếu.",
+    "Festive Keychains & Tech Accessories: chỉ có 0 idea có mẫu nguồn; không tự điền đủ số lượng",
+    "Gift Packaging & Stationery: chỉ có 0 idea có mẫu nguồn; không tự điền đủ số lượng",
+    "Kiểm chứng hồi cứu: chỉ có 0/4 hướng có lần dự đoán năm đã biết và sai số; chưa xác nhận độ chính xác cho các hướng còn lại.",
+    "Personalized Apparel & Accessories: chỉ có 1 idea có mẫu nguồn; không tự điền đủ số lượng"
+  ],
+  "checks": [
+    "known_evidence_ids",
+    "idea_product_direction_match",
+    "exact_review_quotes",
+    "task1_structure",
+    "source_coverage",
+    "historical_coverage"
+  ],
+  "limitation": "Kiểm tra tự động về cấu trúc/nguồn; chưa chứng minh mọi diễn giải hoặc giả thuyết kinh doanh đúng."
+}

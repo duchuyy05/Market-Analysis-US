@@ -1,0 +1,1935 @@
+{
+  "schema_version": 2,
+  "run_id": "live-smoke-v2",
+  "config": {
+    "mode": "live",
+    "brief": "Chỉ nghiên cứu một niche đồ treo cây thông Noel cá nhân hóa tại Mỹ, bán tháng 11–12. Tìm mẫu hàng thực tế và khoảng giá. Đây là lượt kiểm tra kết nối nhỏ.",
+    "niches": [
+      {
+        "name": "Đồ treo cây thông Noel cá nhân hóa",
+        "name_en": "Personalized Christmas tree ornament",
+        "customer_hypothesis": "Giả sử khách hàng tại Mỹ trong mùa Giáng sinh thích mua đồ treo cây thông Noel có tên hoặc yếu tố cá nhân.",
+        "seeds": [
+          "Personalized family name Christmas ornament",
+          "Custom pet portrait Christmas ornament",
+          "Custom hometown silhouette Christmas ornament"
+        ],
+        "id": "N-ae3010f0b823d747"
+      }
+    ],
+    "selling_months": [
+      11,
+      12
+    ],
+    "sources": {
+      "trends": true,
+      "amazon": true,
+      "shopping": true,
+      "web": false
+    },
+    "llm": {
+      "enabled": true,
+      "commentary": false,
+      "model": null
+    },
+    "limits": {
+      "serpapi_requests": 6,
+      "tavily_requests": 0,
+      "llm_requests": 4,
+      "keywords_per_niche": 40,
+      "directions_per_niche": 1,
+      "related_seeds_per_niche": 1,
+      "products_per_direction": 5,
+      "enrich_per_niche": 1,
+      "reviews_per_product": 20,
+      "ranking_rows": 10,
+      "timeout_seconds": 60,
+      "retry_attempts": 0,
+      "max_run_seconds": 1800,
+      "max_output_tokens": 5000
+    },
+    "category": "Personalized Christmas tree ornament",
+    "market": "US",
+    "query_language": "en",
+    "report_language": "vi",
+    "as_of_date": "2026-10-27",
+    "history_years": [
+      2023,
+      2024,
+      2025
+    ],
+    "target_year": 2026,
+    "price_range": null,
+    "required_features": [],
+    "excluded_features": [],
+    "preferences": [],
+    "preparation_days": null,
+    "schema_version": 2,
+    "assumptions": [
+      "Giả định mức giá và số ngày chuẩn bị chưa được cung cấp; cần thu thập từ mẫu hàng thực tế.",
+      "Phạm vi có dưới 3 niche; chưa đủ cấu trúc 3–5 niche của Task 1."
+    ],
+    "interpretation": "Nghiên cứu một niche đồ treo cây thông Noel cá nhân hóa tại thị trường Mỹ, chỉ tập trung bán trong khoảng tháng 11–12; cần tìm mẫu hàng thực tế và khoảng giá."
+  },
+  "keywords": [
+    {
+      "id": "K-8559da8b334d04f0",
+      "niche_id": "N-ae3010f0b823d747",
+      "text": "Personalized family name Christmas ornament",
+      "seed": "Personalized family name Christmas ornament",
+      "origin": "llm_candidate",
+      "evidence_ids": [],
+      "discovery_type": "seed"
+    },
+    {
+      "id": "K-3aac74748ba5af8e",
+      "niche_id": "N-ae3010f0b823d747",
+      "text": "Custom pet portrait Christmas ornament",
+      "seed": "Custom pet portrait Christmas ornament",
+      "origin": "llm_candidate",
+      "evidence_ids": [],
+      "discovery_type": "seed"
+    },
+    {
+      "id": "K-03b2429c7e821efd",
+      "niche_id": "N-ae3010f0b823d747",
+      "text": "Custom hometown silhouette Christmas ornament",
+      "seed": "Custom hometown silhouette Christmas ornament",
+      "origin": "llm_candidate",
+      "evidence_ids": [],
+      "discovery_type": "seed"
+    }
+  ],
+  "keyword_exclusions": [],
+  "web_context": [],
+  "directions": [
+    {
+      "id": "D-4df9e2b20028619a",
+      "niche_id": "N-ae3010f0b823d747",
+      "name": "Personalized family name Christmas ornament",
+      "keyword_id": "K-8559da8b334d04f0",
+      "keyword": "Personalized family name Christmas ornament",
+      "keyword_ids": [
+        "K-8559da8b334d04f0"
+      ],
+      "search_query": "Personalized family name Christmas ornament",
+      "customer_hypothesis": "Giả sử khách hàng tại Mỹ trong mùa Giáng sinh thích mua đồ treo cây thông Noel có tên hoặc yếu tố cá nhân.",
+      "evidence_ids": []
+    }
+  ],
+  "products": [
+    {
+      "product_id": "P-2f858c059e49c4d0",
+      "listing_id": "L-2f858c059e49c4d0",
+      "asin": "B0DHV7W351",
+      "title": "Personalized Christmas Ornaments 2026, Custom Photo Crystal Tree Ornament",
+      "source": "amazon",
+      "merchant": "Chưa xác định nhà bán (Amazon.com)",
+      "url": "https://www.amazon.com/dp/B0DHV7W351",
+      "provider_product_id": null,
+      "thumbnail": "https://m.media-amazon.com/images/I/711yxQMYxHL._AC_UL320_.jpg",
+      "price": 3.9,
+      "currency": "USD",
+      "rating": 4.4,
+      "review_count": 1600,
+      "rating_scope": "amazon_listing_may_share_variants",
+      "purchase_badge": "1K+ bought in past month",
+      "purchase_lower_bound": 1000,
+      "purchase_scope": "amazon_search_card",
+      "observed_at": "2026-10-27T03:55:16.140626+00:00",
+      "direction_ids": [
+        "D-4df9e2b20028619a"
+      ],
+      "evidence_ids": [
+        "E-dce239ae117da3a2"
+      ],
+      "sponsored": null,
+      "search_position": 5,
+      "description": "",
+      "attributes": {},
+      "variant": null,
+      "detail_status": "search_only",
+      "relevant": true,
+      "search_query": "personalized christmas ornament",
+      "occurrence_id": "S-bd50162567ff25be",
+      "discovery_sources": [
+        "amazon"
+      ]
+    },
+    {
+      "product_id": "P-7d0c89843478137b",
+      "listing_id": "L-a882fc32288ae513",
+      "asin": null,
+      "title": "Personalized Family Christmas Ornament, Custom Names Year Family Ornament Christmas Tree Ornament Gift for Family Personalized Keepsake Gift",
+      "source": "shopping",
+      "merchant": "Etsy - LaurieBethBoutique",
+      "url": "https://www.google.com/search?gl=us&hl=en&ibp=oshop&prds=catalogid%3A7227678111726956096%2Cproductid%3A402553338078456459%2CheadlineOfferDocid%3A17749355921759778831%2CimageDocid%3A18387727462274127580%2Crds%3ACID_7227678111726956096%7CPROD_CID_7227678111726956096%2Cpvt%3Ahg&q=Personalized+family+name+Christmas+ornament&udm=28",
+      "provider_product_id": "7227678111726956096",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcS3TiLHoZnOo1pjeLZ8nUabHgU9M01ke_ajwbC8iNRJ7jxsh8UChe-kyIpMKnmJD34Eh1f73xrLbV5daPhEs3WBdQ6Nx3fadA5wbcZcV2Fr",
+      "price": 9.99,
+      "currency": "USD",
+      "rating": 5.0,
+      "review_count": 1,
+      "rating_scope": "shopping_aggregate_or_merchant_unspecified",
+      "purchase_badge": null,
+      "purchase_lower_bound": null,
+      "purchase_scope": null,
+      "observed_at": "2026-10-27T03:47:19.866340+00:00",
+      "direction_ids": [
+        "D-4df9e2b20028619a"
+      ],
+      "evidence_ids": [
+        "E-559dba75432b353a"
+      ],
+      "sponsored": null,
+      "search_position": 1,
+      "description": "",
+      "attributes": {},
+      "variant": null,
+      "detail_status": "search_only",
+      "relevant": true,
+      "search_query": "Personalized family name Christmas ornament",
+      "occurrence_id": "S-3db31d7dc53db375",
+      "discovery_sources": [
+        "shopping"
+      ]
+    },
+    {
+      "product_id": "P-f83db3a0ad68c996",
+      "listing_id": "L-a402e162c533e002",
+      "asin": null,
+      "title": "Personalized Family Decorating Tree Ornament",
+      "source": "shopping",
+      "merchant": "OrnamentShop.com",
+      "url": "https://www.google.com/search?gl=us&hl=en&ibp=oshop&prds=catalogid%3A9711615773994152428%2Cproductid%3A16494592269364976912%2CheadlineOfferDocid%3A9225550432527325687%2CimageDocid%3A16698063571138568173%2Crds%3APC_1664846817818251208%7CPROD_PC_1664846817818251208%2Cgpcid%3A1664846817818251208%2Cmid%3A576462762270209996%2Cpvt%3Ahg&q=Personalized+family+name+Christmas+ornament&udm=28",
+      "provider_product_id": "9711615773994152428",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQ7wf67GcRrv8nNRr4UhO2wxOWXeMqRcwnvVKpHKcWsI3WzpYF6Ta4q2-VZEHXXsAzJiO_1HHstq31gMEne3WY5FjeyFT5gehCAdanEoe8PqruWFiHb0M4uIA",
+      "price": 14.95,
+      "currency": "USD",
+      "rating": 5.0,
+      "review_count": 81,
+      "rating_scope": "shopping_aggregate_or_merchant_unspecified",
+      "purchase_badge": null,
+      "purchase_lower_bound": null,
+      "purchase_scope": null,
+      "observed_at": "2026-10-27T03:47:19.866340+00:00",
+      "direction_ids": [
+        "D-4df9e2b20028619a"
+      ],
+      "evidence_ids": [
+        "E-160608bf794d8c5b"
+      ],
+      "sponsored": null,
+      "search_position": 2,
+      "description": "",
+      "attributes": {},
+      "variant": null,
+      "detail_status": "search_only",
+      "relevant": true,
+      "search_query": "Personalized family name Christmas ornament",
+      "occurrence_id": "S-91413b1051a47d9f",
+      "discovery_sources": [
+        "shopping"
+      ]
+    },
+    {
+      "product_id": "P-7939e52e9690913c",
+      "listing_id": "L-386b657609d6b470",
+      "asin": null,
+      "title": "Personalized Family Names Acrylic Christmas Ornament Custom Engraved wide",
+      "source": "shopping",
+      "merchant": "FinesseLaserDesigns",
+      "url": "https://www.google.com/search?gl=us&hl=en&ibp=oshop&prds=catalogid%3A596944774128778924%2Cproductid%3A8997648157656207137%2CheadlineOfferDocid%3A8009044117897106093%2CimageDocid%3A11665703266733223706%2Cgpcid%3A12051089306304906338%2Cmid%3A576462529889976784%2Cpvt%3Ahg&q=Personalized+family+name+Christmas+ornament&udm=28",
+      "provider_product_id": "596944774128778924",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcR56QgCvZjzxhkxHHbH6Ar7gGEUdfiNW13t87ndXK2OhfA7FCGL1--hqsyGpJ6EBI_iu6g1DGrotKSPWTsTfdXZrjZDdn7AVA",
+      "price": 29.99,
+      "currency": "USD",
+      "rating": null,
+      "review_count": null,
+      "rating_scope": "shopping_aggregate_or_merchant_unspecified",
+      "purchase_badge": null,
+      "purchase_lower_bound": null,
+      "purchase_scope": null,
+      "observed_at": "2026-10-27T03:47:19.866340+00:00",
+      "direction_ids": [
+        "D-4df9e2b20028619a"
+      ],
+      "evidence_ids": [
+        "E-79f8227b32941f2c"
+      ],
+      "sponsored": null,
+      "search_position": 3,
+      "description": "",
+      "attributes": {},
+      "variant": null,
+      "detail_status": "search_only",
+      "relevant": true,
+      "search_query": "Personalized family name Christmas ornament",
+      "occurrence_id": "S-477abbedd1431dd2",
+      "discovery_sources": [
+        "shopping"
+      ]
+    },
+    {
+      "product_id": "P-13c401eda458c315",
+      "listing_id": "L-276627016da41dad",
+      "asin": null,
+      "title": "Personalized Family Names Engraved Ornament",
+      "source": "shopping",
+      "merchant": "Sarah | The Redheaded Camel",
+      "url": "https://www.google.com/search?gl=us&hl=en&ibp=oshop&prds=productid%3A14753984723459049407%2CheadlineOfferDocid%3A14753984723459049407%2CimageDocid%3A16834617630531598308%2Cpvt%3Ahg&q=Personalized+family+name+Christmas+ornament&udm=28",
+      "provider_product_id": "14753984723459049407",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSq-zZdIW-Rg3ZvTkCtFFNHQHuL-lPa8PvP3YdBIz9ch_ZX-hFWpxIfPH01bUUqWf8RWo2aclNNckQ1bNwrTm78hAQD6wXwkw",
+      "price": 24.5,
+      "currency": "USD",
+      "rating": null,
+      "review_count": null,
+      "rating_scope": "shopping_aggregate_or_merchant_unspecified",
+      "purchase_badge": null,
+      "purchase_lower_bound": null,
+      "purchase_scope": null,
+      "observed_at": "2026-10-27T03:47:19.866340+00:00",
+      "direction_ids": [
+        "D-4df9e2b20028619a"
+      ],
+      "evidence_ids": [
+        "E-06b513d2f820b8c3"
+      ],
+      "sponsored": null,
+      "search_position": 4,
+      "description": "",
+      "attributes": {},
+      "variant": null,
+      "detail_status": "search_only",
+      "relevant": true,
+      "search_query": "Personalized family name Christmas ornament",
+      "occurrence_id": "S-0d5619794e3ff831",
+      "discovery_sources": [
+        "shopping"
+      ]
+    },
+    {
+      "product_id": "P-d3ac5ee57f94e6f0",
+      "listing_id": "L-d7912699f454f7ab",
+      "asin": null,
+      "title": "Personalized Family Name Christmas Ornament 2026, Custom 2-6 Names Tree Ornament, Family Keepsake Decoration, Holiday Gift for Family",
+      "source": "shopping",
+      "merchant": "Etsy - Seller",
+      "url": "https://www.google.com/search?gl=us&hl=en&ibp=oshop&prds=catalogid%3A4886923951002228267%2Cproductid%3A7694066412612047257%2CheadlineOfferDocid%3A14450128944037102387%2CimageDocid%3A8922026625229154397%2Cpvt%3Ahg&q=Personalized+family+name+Christmas+ornament&udm=28",
+      "provider_product_id": "4886923951002228267",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQmcrhtr0ykx7R71fgllCVS_46c2w0URDTZ041dvlJ8awdafX_8NCt-5edismL-CoGty43dg1A-91g1k-8skil5xTkCYxqbOOcaSqVEkEq7",
+      "price": 2.53,
+      "currency": "USD",
+      "rating": null,
+      "review_count": null,
+      "rating_scope": "shopping_aggregate_or_merchant_unspecified",
+      "purchase_badge": null,
+      "purchase_lower_bound": null,
+      "purchase_scope": null,
+      "observed_at": "2026-10-27T03:47:19.866340+00:00",
+      "direction_ids": [
+        "D-4df9e2b20028619a"
+      ],
+      "evidence_ids": [
+        "E-4ea88d6737bca7e1"
+      ],
+      "sponsored": null,
+      "search_position": 5,
+      "description": "",
+      "attributes": {},
+      "variant": null,
+      "detail_status": "search_only",
+      "relevant": true,
+      "search_query": "Personalized family name Christmas ornament",
+      "occurrence_id": "S-710df2501f3a98c3",
+      "discovery_sources": [
+        "shopping"
+      ]
+    }
+  ],
+  "offers": [
+    {
+      "product_id": "P-2f858c059e49c4d0",
+      "listing_id": "L-2f858c059e49c4d0",
+      "merchant": "Chưa xác định nhà bán (Amazon.com)",
+      "price": 3.9,
+      "currency": "USD",
+      "variant": null,
+      "observed_at": "2026-10-27T03:55:16.140626+00:00",
+      "url": "https://www.amazon.com/dp/B0DHV7W351",
+      "evidence_ids": [
+        "E-dce239ae117da3a2"
+      ],
+      "offer_id": "O-4df208cb68744487",
+      "unit_price": null,
+      "unit_count": null,
+      "shipping": null,
+      "tax": null
+    },
+    {
+      "product_id": "P-7d0c89843478137b",
+      "listing_id": "L-a882fc32288ae513",
+      "merchant": "Etsy - LaurieBethBoutique",
+      "price": 9.99,
+      "currency": "USD",
+      "variant": null,
+      "observed_at": "2026-10-27T03:47:19.866340+00:00",
+      "url": "https://www.google.com/search?gl=us&hl=en&ibp=oshop&prds=catalogid%3A7227678111726956096%2Cproductid%3A402553338078456459%2CheadlineOfferDocid%3A17749355921759778831%2CimageDocid%3A18387727462274127580%2Crds%3ACID_7227678111726956096%7CPROD_CID_7227678111726956096%2Cpvt%3Ahg&q=Personalized+family+name+Christmas+ornament&udm=28",
+      "evidence_ids": [
+        "E-559dba75432b353a"
+      ],
+      "offer_id": "O-5e1d13b59dac7903",
+      "unit_price": null,
+      "unit_count": null,
+      "shipping": null,
+      "tax": null
+    },
+    {
+      "product_id": "P-f83db3a0ad68c996",
+      "listing_id": "L-a402e162c533e002",
+      "merchant": "OrnamentShop.com",
+      "price": 14.95,
+      "currency": "USD",
+      "variant": null,
+      "observed_at": "2026-10-27T03:47:19.866340+00:00",
+      "url": "https://www.google.com/search?gl=us&hl=en&ibp=oshop&prds=catalogid%3A9711615773994152428%2Cproductid%3A16494592269364976912%2CheadlineOfferDocid%3A9225550432527325687%2CimageDocid%3A16698063571138568173%2Crds%3APC_1664846817818251208%7CPROD_PC_1664846817818251208%2Cgpcid%3A1664846817818251208%2Cmid%3A576462762270209996%2Cpvt%3Ahg&q=Personalized+family+name+Christmas+ornament&udm=28",
+      "evidence_ids": [
+        "E-160608bf794d8c5b"
+      ],
+      "offer_id": "O-daf22424a691aca2",
+      "unit_price": null,
+      "unit_count": null,
+      "shipping": null,
+      "tax": null
+    },
+    {
+      "product_id": "P-7939e52e9690913c",
+      "listing_id": "L-386b657609d6b470",
+      "merchant": "FinesseLaserDesigns",
+      "price": 29.99,
+      "currency": "USD",
+      "variant": null,
+      "observed_at": "2026-10-27T03:47:19.866340+00:00",
+      "url": "https://www.google.com/search?gl=us&hl=en&ibp=oshop&prds=catalogid%3A596944774128778924%2Cproductid%3A8997648157656207137%2CheadlineOfferDocid%3A8009044117897106093%2CimageDocid%3A11665703266733223706%2Cgpcid%3A12051089306304906338%2Cmid%3A576462529889976784%2Cpvt%3Ahg&q=Personalized+family+name+Christmas+ornament&udm=28",
+      "evidence_ids": [
+        "E-79f8227b32941f2c"
+      ],
+      "offer_id": "O-5b52aa297f2c9eb2",
+      "unit_price": null,
+      "unit_count": null,
+      "shipping": null,
+      "tax": null
+    },
+    {
+      "product_id": "P-13c401eda458c315",
+      "listing_id": "L-276627016da41dad",
+      "merchant": "Sarah | The Redheaded Camel",
+      "price": 24.5,
+      "currency": "USD",
+      "variant": null,
+      "observed_at": "2026-10-27T03:47:19.866340+00:00",
+      "url": "https://www.google.com/search?gl=us&hl=en&ibp=oshop&prds=productid%3A14753984723459049407%2CheadlineOfferDocid%3A14753984723459049407%2CimageDocid%3A16834617630531598308%2Cpvt%3Ahg&q=Personalized+family+name+Christmas+ornament&udm=28",
+      "evidence_ids": [
+        "E-06b513d2f820b8c3"
+      ],
+      "offer_id": "O-30a1ad6d14dd8ae8",
+      "unit_price": null,
+      "unit_count": null,
+      "shipping": null,
+      "tax": null
+    },
+    {
+      "product_id": "P-d3ac5ee57f94e6f0",
+      "listing_id": "L-d7912699f454f7ab",
+      "merchant": "Etsy - Seller",
+      "price": 2.53,
+      "currency": "USD",
+      "variant": null,
+      "observed_at": "2026-10-27T03:47:19.866340+00:00",
+      "url": "https://www.google.com/search?gl=us&hl=en&ibp=oshop&prds=catalogid%3A4886923951002228267%2Cproductid%3A7694066412612047257%2CheadlineOfferDocid%3A14450128944037102387%2CimageDocid%3A8922026625229154397%2Cpvt%3Ahg&q=Personalized+family+name+Christmas+ornament&udm=28",
+      "evidence_ids": [
+        "E-4ea88d6737bca7e1"
+      ],
+      "offer_id": "O-da1198105e66825e",
+      "unit_price": null,
+      "unit_count": null,
+      "shipping": null,
+      "tax": null
+    }
+  ],
+  "product_matches": [],
+  "search_occurrences": [
+    {
+      "product_id": "P-1409154df3230db0",
+      "listing_id": "L-1409154df3230db0",
+      "asin": "B0DHXDMQ8N",
+      "title": "Personalized Christmas Ornaments, Custom Photo Ornaments for Christmas Tree",
+      "source": "amazon",
+      "merchant": "Chưa xác định nhà bán (Amazon.com)",
+      "url": "https://www.amazon.com/dp/B0DHXDMQ8N",
+      "provider_product_id": null,
+      "thumbnail": "https://m.media-amazon.com/images/I/81FHiWTYpFL._AC_UL320_.jpg",
+      "price": 2.87,
+      "currency": "USD",
+      "rating": 4.7,
+      "review_count": 517,
+      "rating_scope": "amazon_listing_may_share_variants",
+      "purchase_badge": "200+ bought in past month",
+      "purchase_lower_bound": 200,
+      "purchase_scope": "amazon_search_card",
+      "observed_at": "2026-10-27T03:55:16.140626+00:00",
+      "direction_ids": [
+        "D-4df9e2b20028619a"
+      ],
+      "evidence_ids": [
+        "E-687ea57823759b1b"
+      ],
+      "sponsored": true,
+      "search_position": 1,
+      "description": "",
+      "attributes": {},
+      "variant": null,
+      "detail_status": "search_only",
+      "relevant": true,
+      "search_query": "personalized christmas ornament",
+      "occurrence_id": "S-e856c8ca5d9ee8c3"
+    },
+    {
+      "product_id": "P-f72838a2057bc8c5",
+      "listing_id": "L-f72838a2057bc8c5",
+      "asin": "B0HMG7GTZK",
+      "title": "Personalized Family Christmas Ornaments 2026, Custom Names Snowman Keepsake",
+      "source": "amazon",
+      "merchant": "Chưa xác định nhà bán (Amazon.com)",
+      "url": "https://www.amazon.com/dp/B0HMG7GTZK",
+      "provider_product_id": null,
+      "thumbnail": "https://m.media-amazon.com/images/I/81TaHEvjY7L._AC_UL320_.jpg",
+      "price": 4.95,
+      "currency": "USD",
+      "rating": 4.7,
+      "review_count": 26,
+      "rating_scope": "amazon_listing_may_share_variants",
+      "purchase_badge": null,
+      "purchase_lower_bound": null,
+      "purchase_scope": "amazon_search_card",
+      "observed_at": "2026-10-27T03:55:16.140626+00:00",
+      "direction_ids": [
+        "D-4df9e2b20028619a"
+      ],
+      "evidence_ids": [
+        "E-94ab591d859118cc"
+      ],
+      "sponsored": true,
+      "search_position": 2,
+      "description": "",
+      "attributes": {},
+      "variant": null,
+      "detail_status": "search_only",
+      "relevant": true,
+      "search_query": "personalized christmas ornament",
+      "occurrence_id": "S-af5f0c6f57a80234"
+    },
+    {
+      "product_id": "P-3516ae72f203fe24",
+      "listing_id": "L-3516ae72f203fe24",
+      "asin": "B0HGR2GFKW",
+      "title": "Personalized Christmas Ornaments 2026 Custom Crystal Glass Ornament with Photo Text Keepsake Gift for Family Couples Pets Baby's First Xmas Tree Decor Made in USA",
+      "source": "amazon",
+      "merchant": "Chưa xác định nhà bán (Amazon.com)",
+      "url": "https://www.amazon.com/dp/B0HGR2GFKW",
+      "provider_product_id": null,
+      "thumbnail": "https://m.media-amazon.com/images/I/91fqMC17GRL._AC_UL320_.jpg",
+      "price": 3.99,
+      "currency": "USD",
+      "rating": 4.7,
+      "review_count": 27,
+      "rating_scope": "amazon_listing_may_share_variants",
+      "purchase_badge": "200+ bought in past month",
+      "purchase_lower_bound": 200,
+      "purchase_scope": "amazon_search_card",
+      "observed_at": "2026-10-27T03:55:16.140626+00:00",
+      "direction_ids": [
+        "D-4df9e2b20028619a"
+      ],
+      "evidence_ids": [
+        "E-0739b897fdbd5347"
+      ],
+      "sponsored": true,
+      "search_position": 3,
+      "description": "",
+      "attributes": {},
+      "variant": null,
+      "detail_status": "search_only",
+      "relevant": true,
+      "search_query": "personalized christmas ornament",
+      "occurrence_id": "S-12ba99280b6e1eca"
+    },
+    {
+      "product_id": "P-eedcec29e08101f7",
+      "listing_id": "L-eedcec29e08101f7",
+      "asin": "B0HKF55CPD",
+      "title": "Personalized Christmas Ornaments ,Custom Family Photo Ornament",
+      "source": "amazon",
+      "merchant": "Chưa xác định nhà bán (Amazon.com)",
+      "url": "https://www.amazon.com/dp/B0HKF55CPD",
+      "provider_product_id": null,
+      "thumbnail": "https://m.media-amazon.com/images/I/71kZC-UYqvL._AC_UL320_.jpg",
+      "price": 6.99,
+      "currency": "USD",
+      "rating": 4.6,
+      "review_count": 41,
+      "rating_scope": "amazon_listing_may_share_variants",
+      "purchase_badge": null,
+      "purchase_lower_bound": null,
+      "purchase_scope": "amazon_search_card",
+      "observed_at": "2026-10-27T03:55:16.140626+00:00",
+      "direction_ids": [
+        "D-4df9e2b20028619a"
+      ],
+      "evidence_ids": [
+        "E-1f2e8af37c0831ab"
+      ],
+      "sponsored": true,
+      "search_position": 4,
+      "description": "",
+      "attributes": {},
+      "variant": null,
+      "detail_status": "search_only",
+      "relevant": true,
+      "search_query": "personalized christmas ornament",
+      "occurrence_id": "S-3fe1133b9dbbb75f"
+    },
+    {
+      "product_id": "P-2f858c059e49c4d0",
+      "listing_id": "L-2f858c059e49c4d0",
+      "asin": "B0DHV7W351",
+      "title": "Personalized Christmas Ornaments 2026, Custom Photo Crystal Tree Ornament",
+      "source": "amazon",
+      "merchant": "Chưa xác định nhà bán (Amazon.com)",
+      "url": "https://www.amazon.com/dp/B0DHV7W351",
+      "provider_product_id": null,
+      "thumbnail": "https://m.media-amazon.com/images/I/711yxQMYxHL._AC_UL320_.jpg",
+      "price": 3.9,
+      "currency": "USD",
+      "rating": 4.4,
+      "review_count": 1600,
+      "rating_scope": "amazon_listing_may_share_variants",
+      "purchase_badge": "1K+ bought in past month",
+      "purchase_lower_bound": 1000,
+      "purchase_scope": "amazon_search_card",
+      "observed_at": "2026-10-27T03:55:16.140626+00:00",
+      "direction_ids": [
+        "D-4df9e2b20028619a"
+      ],
+      "evidence_ids": [
+        "E-dce239ae117da3a2"
+      ],
+      "sponsored": null,
+      "search_position": 5,
+      "description": "",
+      "attributes": {},
+      "variant": null,
+      "detail_status": "search_only",
+      "relevant": true,
+      "search_query": "personalized christmas ornament",
+      "occurrence_id": "S-bd50162567ff25be"
+    },
+    {
+      "product_id": "P-7d0c89843478137b",
+      "listing_id": "L-a882fc32288ae513",
+      "asin": null,
+      "title": "Personalized Family Christmas Ornament, Custom Names Year Family Ornament Christmas Tree Ornament Gift for Family Personalized Keepsake Gift",
+      "source": "shopping",
+      "merchant": "Etsy - LaurieBethBoutique",
+      "url": "https://www.google.com/search?gl=us&hl=en&ibp=oshop&prds=catalogid%3A7227678111726956096%2Cproductid%3A402553338078456459%2CheadlineOfferDocid%3A17749355921759778831%2CimageDocid%3A18387727462274127580%2Crds%3ACID_7227678111726956096%7CPROD_CID_7227678111726956096%2Cpvt%3Ahg&q=Personalized+family+name+Christmas+ornament&udm=28",
+      "provider_product_id": "7227678111726956096",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcS3TiLHoZnOo1pjeLZ8nUabHgU9M01ke_ajwbC8iNRJ7jxsh8UChe-kyIpMKnmJD34Eh1f73xrLbV5daPhEs3WBdQ6Nx3fadA5wbcZcV2Fr",
+      "price": 9.99,
+      "currency": "USD",
+      "rating": 5.0,
+      "review_count": 1,
+      "rating_scope": "shopping_aggregate_or_merchant_unspecified",
+      "purchase_badge": null,
+      "purchase_lower_bound": null,
+      "purchase_scope": null,
+      "observed_at": "2026-10-27T03:47:19.866340+00:00",
+      "direction_ids": [
+        "D-4df9e2b20028619a"
+      ],
+      "evidence_ids": [
+        "E-559dba75432b353a"
+      ],
+      "sponsored": null,
+      "search_position": 1,
+      "description": "",
+      "attributes": {},
+      "variant": null,
+      "detail_status": "search_only",
+      "relevant": true,
+      "search_query": "Personalized family name Christmas ornament",
+      "occurrence_id": "S-3db31d7dc53db375"
+    },
+    {
+      "product_id": "P-f83db3a0ad68c996",
+      "listing_id": "L-a402e162c533e002",
+      "asin": null,
+      "title": "Personalized Family Decorating Tree Ornament",
+      "source": "shopping",
+      "merchant": "OrnamentShop.com",
+      "url": "https://www.google.com/search?gl=us&hl=en&ibp=oshop&prds=catalogid%3A9711615773994152428%2Cproductid%3A16494592269364976912%2CheadlineOfferDocid%3A9225550432527325687%2CimageDocid%3A16698063571138568173%2Crds%3APC_1664846817818251208%7CPROD_PC_1664846817818251208%2Cgpcid%3A1664846817818251208%2Cmid%3A576462762270209996%2Cpvt%3Ahg&q=Personalized+family+name+Christmas+ornament&udm=28",
+      "provider_product_id": "9711615773994152428",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQ7wf67GcRrv8nNRr4UhO2wxOWXeMqRcwnvVKpHKcWsI3WzpYF6Ta4q2-VZEHXXsAzJiO_1HHstq31gMEne3WY5FjeyFT5gehCAdanEoe8PqruWFiHb0M4uIA",
+      "price": 14.95,
+      "currency": "USD",
+      "rating": 5.0,
+      "review_count": 81,
+      "rating_scope": "shopping_aggregate_or_merchant_unspecified",
+      "purchase_badge": null,
+      "purchase_lower_bound": null,
+      "purchase_scope": null,
+      "observed_at": "2026-10-27T03:47:19.866340+00:00",
+      "direction_ids": [
+        "D-4df9e2b20028619a"
+      ],
+      "evidence_ids": [
+        "E-160608bf794d8c5b"
+      ],
+      "sponsored": null,
+      "search_position": 2,
+      "description": "",
+      "attributes": {},
+      "variant": null,
+      "detail_status": "search_only",
+      "relevant": true,
+      "search_query": "Personalized family name Christmas ornament",
+      "occurrence_id": "S-91413b1051a47d9f"
+    },
+    {
+      "product_id": "P-7939e52e9690913c",
+      "listing_id": "L-386b657609d6b470",
+      "asin": null,
+      "title": "Personalized Family Names Acrylic Christmas Ornament Custom Engraved wide",
+      "source": "shopping",
+      "merchant": "FinesseLaserDesigns",
+      "url": "https://www.google.com/search?gl=us&hl=en&ibp=oshop&prds=catalogid%3A596944774128778924%2Cproductid%3A8997648157656207137%2CheadlineOfferDocid%3A8009044117897106093%2CimageDocid%3A11665703266733223706%2Cgpcid%3A12051089306304906338%2Cmid%3A576462529889976784%2Cpvt%3Ahg&q=Personalized+family+name+Christmas+ornament&udm=28",
+      "provider_product_id": "596944774128778924",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcR56QgCvZjzxhkxHHbH6Ar7gGEUdfiNW13t87ndXK2OhfA7FCGL1--hqsyGpJ6EBI_iu6g1DGrotKSPWTsTfdXZrjZDdn7AVA",
+      "price": 29.99,
+      "currency": "USD",
+      "rating": null,
+      "review_count": null,
+      "rating_scope": "shopping_aggregate_or_merchant_unspecified",
+      "purchase_badge": null,
+      "purchase_lower_bound": null,
+      "purchase_scope": null,
+      "observed_at": "2026-10-27T03:47:19.866340+00:00",
+      "direction_ids": [
+        "D-4df9e2b20028619a"
+      ],
+      "evidence_ids": [
+        "E-79f8227b32941f2c"
+      ],
+      "sponsored": null,
+      "search_position": 3,
+      "description": "",
+      "attributes": {},
+      "variant": null,
+      "detail_status": "search_only",
+      "relevant": true,
+      "search_query": "Personalized family name Christmas ornament",
+      "occurrence_id": "S-477abbedd1431dd2"
+    },
+    {
+      "product_id": "P-13c401eda458c315",
+      "listing_id": "L-276627016da41dad",
+      "asin": null,
+      "title": "Personalized Family Names Engraved Ornament",
+      "source": "shopping",
+      "merchant": "Sarah | The Redheaded Camel",
+      "url": "https://www.google.com/search?gl=us&hl=en&ibp=oshop&prds=productid%3A14753984723459049407%2CheadlineOfferDocid%3A14753984723459049407%2CimageDocid%3A16834617630531598308%2Cpvt%3Ahg&q=Personalized+family+name+Christmas+ornament&udm=28",
+      "provider_product_id": "14753984723459049407",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSq-zZdIW-Rg3ZvTkCtFFNHQHuL-lPa8PvP3YdBIz9ch_ZX-hFWpxIfPH01bUUqWf8RWo2aclNNckQ1bNwrTm78hAQD6wXwkw",
+      "price": 24.5,
+      "currency": "USD",
+      "rating": null,
+      "review_count": null,
+      "rating_scope": "shopping_aggregate_or_merchant_unspecified",
+      "purchase_badge": null,
+      "purchase_lower_bound": null,
+      "purchase_scope": null,
+      "observed_at": "2026-10-27T03:47:19.866340+00:00",
+      "direction_ids": [
+        "D-4df9e2b20028619a"
+      ],
+      "evidence_ids": [
+        "E-06b513d2f820b8c3"
+      ],
+      "sponsored": null,
+      "search_position": 4,
+      "description": "",
+      "attributes": {},
+      "variant": null,
+      "detail_status": "search_only",
+      "relevant": true,
+      "search_query": "Personalized family name Christmas ornament",
+      "occurrence_id": "S-0d5619794e3ff831"
+    },
+    {
+      "product_id": "P-d3ac5ee57f94e6f0",
+      "listing_id": "L-d7912699f454f7ab",
+      "asin": null,
+      "title": "Personalized Family Name Christmas Ornament 2026, Custom 2-6 Names Tree Ornament, Family Keepsake Decoration, Holiday Gift for Family",
+      "source": "shopping",
+      "merchant": "Etsy - Seller",
+      "url": "https://www.google.com/search?gl=us&hl=en&ibp=oshop&prds=catalogid%3A4886923951002228267%2Cproductid%3A7694066412612047257%2CheadlineOfferDocid%3A14450128944037102387%2CimageDocid%3A8922026625229154397%2Cpvt%3Ahg&q=Personalized+family+name+Christmas+ornament&udm=28",
+      "provider_product_id": "4886923951002228267",
+      "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQmcrhtr0ykx7R71fgllCVS_46c2w0URDTZ041dvlJ8awdafX_8NCt-5edismL-CoGty43dg1A-91g1k-8skil5xTkCYxqbOOcaSqVEkEq7",
+      "price": 2.53,
+      "currency": "USD",
+      "rating": null,
+      "review_count": null,
+      "rating_scope": "shopping_aggregate_or_merchant_unspecified",
+      "purchase_badge": null,
+      "purchase_lower_bound": null,
+      "purchase_scope": null,
+      "observed_at": "2026-10-27T03:47:19.866340+00:00",
+      "direction_ids": [
+        "D-4df9e2b20028619a"
+      ],
+      "evidence_ids": [
+        "E-4ea88d6737bca7e1"
+      ],
+      "sponsored": null,
+      "search_position": 5,
+      "description": "",
+      "attributes": {},
+      "variant": null,
+      "detail_status": "search_only",
+      "relevant": true,
+      "search_query": "Personalized family name Christmas ornament",
+      "occurrence_id": "S-710df2501f3a98c3"
+    }
+  ],
+  "reviews": [],
+  "exclusions": [
+    {
+      "listing_id": "L-1409154df3230db0",
+      "reason": "Lần xuất hiện được đánh dấu Sponsored",
+      "evidence_ids": [
+        "E-687ea57823759b1b"
+      ]
+    },
+    {
+      "listing_id": "L-f72838a2057bc8c5",
+      "reason": "Lần xuất hiện được đánh dấu Sponsored",
+      "evidence_ids": [
+        "E-94ab591d859118cc"
+      ]
+    },
+    {
+      "listing_id": "L-3516ae72f203fe24",
+      "reason": "Lần xuất hiện được đánh dấu Sponsored",
+      "evidence_ids": [
+        "E-0739b897fdbd5347"
+      ]
+    },
+    {
+      "listing_id": "L-eedcec29e08101f7",
+      "reason": "Lần xuất hiện được đánh dấu Sponsored",
+      "evidence_ids": [
+        "E-1f2e8af37c0831ab"
+      ]
+    }
+  ],
+  "source_status": [
+    {
+      "direction_id": "D-4df9e2b20028619a",
+      "source": "amazon",
+      "status": "available",
+      "count": 5
+    },
+    {
+      "direction_id": "D-4df9e2b20028619a",
+      "source": "shopping",
+      "status": "available",
+      "count": 5
+    }
+  ],
+  "histories": [
+    {
+      "direction_id": "D-4df9e2b20028619a",
+      "keyword_id": "K-8559da8b334d04f0",
+      "status": "available",
+      "monthly": [
+        {
+          "year": 2023,
+          "month": 1,
+          "value": 0.0,
+          "observed_days": 31,
+          "calendar_days": 31,
+          "positive_points": 0,
+          "status": "complete"
+        },
+        {
+          "year": 2023,
+          "month": 2,
+          "value": 0.0,
+          "observed_days": 28,
+          "calendar_days": 28,
+          "positive_points": 0,
+          "status": "complete"
+        },
+        {
+          "year": 2023,
+          "month": 3,
+          "value": 0.0,
+          "observed_days": 31,
+          "calendar_days": 31,
+          "positive_points": 0,
+          "status": "complete"
+        },
+        {
+          "year": 2023,
+          "month": 4,
+          "value": 0.0,
+          "observed_days": 30,
+          "calendar_days": 30,
+          "positive_points": 0,
+          "status": "complete"
+        },
+        {
+          "year": 2023,
+          "month": 5,
+          "value": 0.0,
+          "observed_days": 31,
+          "calendar_days": 31,
+          "positive_points": 0,
+          "status": "complete"
+        },
+        {
+          "year": 2023,
+          "month": 6,
+          "value": 0.0,
+          "observed_days": 30,
+          "calendar_days": 30,
+          "positive_points": 0,
+          "status": "complete"
+        },
+        {
+          "year": 2023,
+          "month": 7,
+          "value": 0.0,
+          "observed_days": 31,
+          "calendar_days": 31,
+          "positive_points": 0,
+          "status": "complete"
+        },
+        {
+          "year": 2023,
+          "month": 8,
+          "value": 0.0,
+          "observed_days": 31,
+          "calendar_days": 31,
+          "positive_points": 0,
+          "status": "complete"
+        },
+        {
+          "year": 2023,
+          "month": 9,
+          "value": 0.0,
+          "observed_days": 30,
+          "calendar_days": 30,
+          "positive_points": 0,
+          "status": "complete"
+        },
+        {
+          "year": 2023,
+          "month": 10,
+          "value": 0.0,
+          "observed_days": 31,
+          "calendar_days": 31,
+          "positive_points": 0,
+          "status": "complete"
+        },
+        {
+          "year": 2023,
+          "month": 11,
+          "value": 0.0,
+          "observed_days": 30,
+          "calendar_days": 30,
+          "positive_points": 0,
+          "status": "complete"
+        },
+        {
+          "year": 2023,
+          "month": 12,
+          "value": 0.0,
+          "observed_days": 31,
+          "calendar_days": 31,
+          "positive_points": 0,
+          "status": "complete"
+        },
+        {
+          "year": 2024,
+          "month": 1,
+          "value": 0.0,
+          "observed_days": 31,
+          "calendar_days": 31,
+          "positive_points": 0,
+          "status": "complete"
+        },
+        {
+          "year": 2024,
+          "month": 2,
+          "value": 0.0,
+          "observed_days": 29,
+          "calendar_days": 29,
+          "positive_points": 0,
+          "status": "complete"
+        },
+        {
+          "year": 2024,
+          "month": 3,
+          "value": 0.0,
+          "observed_days": 31,
+          "calendar_days": 31,
+          "positive_points": 0,
+          "status": "complete"
+        },
+        {
+          "year": 2024,
+          "month": 4,
+          "value": 0.0,
+          "observed_days": 30,
+          "calendar_days": 30,
+          "positive_points": 0,
+          "status": "complete"
+        },
+        {
+          "year": 2024,
+          "month": 5,
+          "value": 0.0,
+          "observed_days": 31,
+          "calendar_days": 31,
+          "positive_points": 0,
+          "status": "complete"
+        },
+        {
+          "year": 2024,
+          "month": 6,
+          "value": 0.0,
+          "observed_days": 30,
+          "calendar_days": 30,
+          "positive_points": 0,
+          "status": "complete"
+        },
+        {
+          "year": 2024,
+          "month": 7,
+          "value": 0.0,
+          "observed_days": 31,
+          "calendar_days": 31,
+          "positive_points": 0,
+          "status": "complete"
+        },
+        {
+          "year": 2024,
+          "month": 8,
+          "value": 0.0,
+          "observed_days": 31,
+          "calendar_days": 31,
+          "positive_points": 0,
+          "status": "complete"
+        },
+        {
+          "year": 2024,
+          "month": 9,
+          "value": 0.0,
+          "observed_days": 30,
+          "calendar_days": 30,
+          "positive_points": 0,
+          "status": "complete"
+        },
+        {
+          "year": 2024,
+          "month": 10,
+          "value": 0.0,
+          "observed_days": 31,
+          "calendar_days": 31,
+          "positive_points": 0,
+          "status": "complete"
+        },
+        {
+          "year": 2024,
+          "month": 11,
+          "value": 0.0,
+          "observed_days": 30,
+          "calendar_days": 30,
+          "positive_points": 0,
+          "status": "complete"
+        },
+        {
+          "year": 2024,
+          "month": 12,
+          "value": 22.5806,
+          "observed_days": 31,
+          "calendar_days": 31,
+          "positive_points": 1,
+          "status": "complete"
+        },
+        {
+          "year": 2025,
+          "month": 1,
+          "value": 0.0,
+          "observed_days": 31,
+          "calendar_days": 31,
+          "positive_points": 0,
+          "status": "complete"
+        },
+        {
+          "year": 2025,
+          "month": 2,
+          "value": 0.0,
+          "observed_days": 28,
+          "calendar_days": 28,
+          "positive_points": 0,
+          "status": "complete"
+        },
+        {
+          "year": 2025,
+          "month": 3,
+          "value": 6.3871,
+          "observed_days": 31,
+          "calendar_days": 31,
+          "positive_points": 1,
+          "status": "complete"
+        },
+        {
+          "year": 2025,
+          "month": 4,
+          "value": 16.5,
+          "observed_days": 30,
+          "calendar_days": 30,
+          "positive_points": 1,
+          "status": "complete"
+        },
+        {
+          "year": 2025,
+          "month": 5,
+          "value": 0.0,
+          "observed_days": 31,
+          "calendar_days": 31,
+          "positive_points": 0,
+          "status": "complete"
+        },
+        {
+          "year": 2025,
+          "month": 6,
+          "value": 0.0,
+          "observed_days": 30,
+          "calendar_days": 30,
+          "positive_points": 0,
+          "status": "complete"
+        },
+        {
+          "year": 2025,
+          "month": 7,
+          "value": 0.0,
+          "observed_days": 31,
+          "calendar_days": 31,
+          "positive_points": 0,
+          "status": "complete"
+        },
+        {
+          "year": 2025,
+          "month": 8,
+          "value": 0.0,
+          "observed_days": 31,
+          "calendar_days": 31,
+          "positive_points": 0,
+          "status": "complete"
+        },
+        {
+          "year": 2025,
+          "month": 9,
+          "value": 0.0,
+          "observed_days": 30,
+          "calendar_days": 30,
+          "positive_points": 0,
+          "status": "complete"
+        },
+        {
+          "year": 2025,
+          "month": 10,
+          "value": 0.0,
+          "observed_days": 31,
+          "calendar_days": 31,
+          "positive_points": 0,
+          "status": "complete"
+        },
+        {
+          "year": 2025,
+          "month": 11,
+          "value": 0.0,
+          "observed_days": 30,
+          "calendar_days": 30,
+          "positive_points": 0,
+          "status": "complete"
+        },
+        {
+          "year": 2025,
+          "month": 12,
+          "value": 0.0,
+          "observed_days": 31,
+          "calendar_days": 31,
+          "positive_points": 0,
+          "status": "complete"
+        },
+        {
+          "year": 2026,
+          "month": 1,
+          "value": 0.0,
+          "observed_days": 31,
+          "calendar_days": 31,
+          "positive_points": 0,
+          "status": "complete"
+        },
+        {
+          "year": 2026,
+          "month": 2,
+          "value": 0.0,
+          "observed_days": 28,
+          "calendar_days": 28,
+          "positive_points": 0,
+          "status": "complete"
+        },
+        {
+          "year": 2026,
+          "month": 3,
+          "value": 8.4194,
+          "observed_days": 31,
+          "calendar_days": 31,
+          "positive_points": 1,
+          "status": "complete"
+        },
+        {
+          "year": 2026,
+          "month": 4,
+          "value": 11.6,
+          "observed_days": 30,
+          "calendar_days": 30,
+          "positive_points": 1,
+          "status": "complete"
+        },
+        {
+          "year": 2026,
+          "month": 5,
+          "value": 0.0,
+          "observed_days": 31,
+          "calendar_days": 31,
+          "positive_points": 0,
+          "status": "complete"
+        },
+        {
+          "year": 2026,
+          "month": 6,
+          "value": 0.0,
+          "observed_days": 30,
+          "calendar_days": 30,
+          "positive_points": 0,
+          "status": "complete"
+        },
+        {
+          "year": 2026,
+          "month": 7,
+          "value": 0.0,
+          "observed_days": 31,
+          "calendar_days": 31,
+          "positive_points": 0,
+          "status": "complete"
+        },
+        {
+          "year": 2026,
+          "month": 8,
+          "value": 0.0,
+          "observed_days": 31,
+          "calendar_days": 31,
+          "positive_points": 0,
+          "status": "complete"
+        },
+        {
+          "year": 2026,
+          "month": 9,
+          "value": 0.0,
+          "observed_days": 30,
+          "calendar_days": 30,
+          "positive_points": 0,
+          "status": "complete"
+        },
+        {
+          "year": 2026,
+          "month": 10,
+          "value": 1.8148,
+          "observed_days": 27,
+          "calendar_days": 31,
+          "positive_points": 1,
+          "status": "partial"
+        },
+        {
+          "year": 2026,
+          "month": 11,
+          "value": null,
+          "observed_days": 0,
+          "calendar_days": 30,
+          "positive_points": 0,
+          "status": "future"
+        },
+        {
+          "year": 2026,
+          "month": 12,
+          "value": null,
+          "observed_days": 0,
+          "calendar_days": 31,
+          "positive_points": 0,
+          "status": "future"
+        }
+      ],
+      "evidence_ids": [
+        "E-21c340ddc029439a"
+      ],
+      "stability": "insufficient",
+      "complete_years": [
+        2023,
+        2024,
+        2025
+      ],
+      "usable_years": [],
+      "annual_means": [],
+      "annual_cv": null,
+      "peak_months": [],
+      "peak_consistency": null,
+      "growth_pct": null,
+      "current_growth_pct": -12.53,
+      "current_comparison_months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "selling_window_fit_pct": null,
+      "forecast": [
+        {
+          "year": 2026,
+          "month": 1,
+          "prediction": null,
+          "historical_min": null,
+          "historical_max": null,
+          "observed": 0.0,
+          "observation_status": "complete",
+          "observed_minus_prediction": null,
+          "selling_month": false
+        },
+        {
+          "year": 2026,
+          "month": 2,
+          "prediction": null,
+          "historical_min": null,
+          "historical_max": null,
+          "observed": 0.0,
+          "observation_status": "complete",
+          "observed_minus_prediction": null,
+          "selling_month": false
+        },
+        {
+          "year": 2026,
+          "month": 3,
+          "prediction": null,
+          "historical_min": null,
+          "historical_max": null,
+          "observed": 8.4194,
+          "observation_status": "complete",
+          "observed_minus_prediction": null,
+          "selling_month": false
+        },
+        {
+          "year": 2026,
+          "month": 4,
+          "prediction": null,
+          "historical_min": null,
+          "historical_max": null,
+          "observed": 11.6,
+          "observation_status": "complete",
+          "observed_minus_prediction": null,
+          "selling_month": false
+        },
+        {
+          "year": 2026,
+          "month": 5,
+          "prediction": null,
+          "historical_min": null,
+          "historical_max": null,
+          "observed": 0.0,
+          "observation_status": "complete",
+          "observed_minus_prediction": null,
+          "selling_month": false
+        },
+        {
+          "year": 2026,
+          "month": 6,
+          "prediction": null,
+          "historical_min": null,
+          "historical_max": null,
+          "observed": 0.0,
+          "observation_status": "complete",
+          "observed_minus_prediction": null,
+          "selling_month": false
+        },
+        {
+          "year": 2026,
+          "month": 7,
+          "prediction": null,
+          "historical_min": null,
+          "historical_max": null,
+          "observed": 0.0,
+          "observation_status": "complete",
+          "observed_minus_prediction": null,
+          "selling_month": false
+        },
+        {
+          "year": 2026,
+          "month": 8,
+          "prediction": null,
+          "historical_min": null,
+          "historical_max": null,
+          "observed": 0.0,
+          "observation_status": "complete",
+          "observed_minus_prediction": null,
+          "selling_month": false
+        },
+        {
+          "year": 2026,
+          "month": 9,
+          "prediction": null,
+          "historical_min": null,
+          "historical_max": null,
+          "observed": 0.0,
+          "observation_status": "complete",
+          "observed_minus_prediction": null,
+          "selling_month": false
+        },
+        {
+          "year": 2026,
+          "month": 10,
+          "prediction": null,
+          "historical_min": null,
+          "historical_max": null,
+          "observed": 1.8148,
+          "observation_status": "partial",
+          "observed_minus_prediction": null,
+          "selling_month": false
+        },
+        {
+          "year": 2026,
+          "month": 11,
+          "prediction": null,
+          "historical_min": null,
+          "historical_max": null,
+          "observed": null,
+          "observation_status": "future",
+          "observed_minus_prediction": null,
+          "selling_month": true
+        },
+        {
+          "year": 2026,
+          "month": 12,
+          "prediction": null,
+          "historical_min": null,
+          "historical_max": null,
+          "observed": null,
+          "observation_status": "future",
+          "observed_minus_prediction": null,
+          "selling_month": true
+        }
+      ],
+      "backtest": {
+        "train_years": [],
+        "test_year": 2025,
+        "mae": null,
+        "seasonal_naive_mae": null,
+        "better_than_baseline": null,
+        "months_tested": 0
+      },
+      "method": "median_same_calendar_month_v1",
+      "thresholds": {
+        "stable_annual_cv_max": 0.25,
+        "min_annual_positive_points": 8,
+        "min_year_peak": 5
+      },
+      "notes": [
+        "Chỉ số tương đối trên cùng chuỗi/thang; không phải lượng tìm kiếm hay doanh số.",
+        "Khoảng min–max là độ phân tán lịch sử, không phải khoảng tin cậy xác suất.",
+        "Từ khóa được chọn hiện tại; kiểm chứng hồi cứu không chứng minh đã khám phá cơ hội trong quá khứ.",
+        "Ba chu kỳ năm và một năm holdout chỉ cung cấp căn cứ hạn chế; không bảo đảm năm tới."
+      ]
+    }
+  ],
+  "assessments": {
+    "directions": [
+      {
+        "direction_id": "D-4df9e2b20028619a",
+        "niche_id": "N-ae3010f0b823d747",
+        "status": "shortlist",
+        "demand": "negative",
+        "season": "unknown",
+        "purchase": "positive",
+        "differentiation": "unknown",
+        "business_fit": "positive",
+        "lead_time": "unknown",
+        "growth_pct": -12.53,
+        "growth_scope": "current_complete_months_yoy",
+        "stability": "insufficient",
+        "season_fit_pct": null,
+        "product_ids": [
+          "P-2f858c059e49c4d0",
+          "P-7d0c89843478137b",
+          "P-f83db3a0ad68c996",
+          "P-7939e52e9690913c",
+          "P-13c401eda458c315",
+          "P-d3ac5ee57f94e6f0"
+        ],
+        "all_product_ids": [
+          "P-2f858c059e49c4d0",
+          "P-7d0c89843478137b",
+          "P-f83db3a0ad68c996",
+          "P-7939e52e9690913c",
+          "P-13c401eda458c315",
+          "P-d3ac5ee57f94e6f0"
+        ],
+        "review_ids": [],
+        "evidence_ids": [
+          "E-06b513d2f820b8c3",
+          "E-160608bf794d8c5b",
+          "E-21c340ddc029439a",
+          "E-4ea88d6737bca7e1",
+          "E-559dba75432b353a",
+          "E-79f8227b32941f2c",
+          "E-dce239ae117da3a2"
+        ],
+        "rubric_version": "opportunity_v2",
+        "scope": "Ưu tiên nghiên cứu trong mẫu; chưa có chi phí để kết luận lợi nhuận"
+      }
+    ],
+    "product_checks": [
+      {
+        "product_id": "P-2f858c059e49c4d0",
+        "status": "eligible",
+        "failed": [],
+        "pending": [],
+        "evidence_ids": [
+          "E-dce239ae117da3a2"
+        ]
+      },
+      {
+        "product_id": "P-7d0c89843478137b",
+        "status": "eligible",
+        "failed": [],
+        "pending": [],
+        "evidence_ids": [
+          "E-559dba75432b353a"
+        ]
+      },
+      {
+        "product_id": "P-f83db3a0ad68c996",
+        "status": "eligible",
+        "failed": [],
+        "pending": [],
+        "evidence_ids": [
+          "E-160608bf794d8c5b"
+        ]
+      },
+      {
+        "product_id": "P-7939e52e9690913c",
+        "status": "eligible",
+        "failed": [],
+        "pending": [],
+        "evidence_ids": [
+          "E-79f8227b32941f2c"
+        ]
+      },
+      {
+        "product_id": "P-13c401eda458c315",
+        "status": "eligible",
+        "failed": [],
+        "pending": [],
+        "evidence_ids": [
+          "E-06b513d2f820b8c3"
+        ]
+      },
+      {
+        "product_id": "P-d3ac5ee57f94e6f0",
+        "status": "eligible",
+        "failed": [],
+        "pending": [],
+        "evidence_ids": [
+          "E-4ea88d6737bca7e1"
+        ]
+      }
+    ]
+  },
+  "ideas": [
+    {
+      "id": "I-297627cb1371158c",
+      "direction_id": "D-4df9e2b20028619a",
+      "niche_id": "N-ae3010f0b823d747",
+      "title": "Khảo sát dòng Personalized family name Christmas ornament",
+      "sell_what": "Personalized family name Christmas ornament; đối chiếu quy cách và thông tin sản phẩm trước khi chọn mẫu thử",
+      "customer": "Giả sử khách hàng tại Mỹ trong mùa Giáng sinh thích mua đồ treo cây thông Noel có tên hoặc yếu tố cá nhân.",
+      "customer_status": "hypothesis_from_brief_not_demographic_research",
+      "why_now": "Chưa đủ lịch sử để xác định thời điểm chắc chắn; cần kiểm chứng nhu cầu hiện tại. Có nhãn mua hiện tại trên mẫu đối chiếu; nhãn này không phải doanh số dự báo.",
+      "sample_product_id": "P-2f858c059e49c4d0",
+      "sample_url": "https://www.amazon.com/dp/B0DHV7W351",
+      "observed_specification": "quy cách mẫu cần kiểm tra thêm trên listing",
+      "improvement": null,
+      "improvement_evidence_ids": [],
+      "review_quote": null,
+      "next_test": "Xác minh quy cách, nhu cầu người nhận, giá vốn và thời gian chuẩn bị trước khi thử bán",
+      "status": "shortlist",
+      "generation_method": "python_rules_v2",
+      "evidence_ids": [
+        "E-21c340ddc029439a",
+        "E-dce239ae117da3a2"
+      ],
+      "limitations": [
+        "Chưa có giá vốn, phí sàn và thử nghiệm bán để kết luận lợi nhuận.",
+        "Idea là giả thuyết cần kiểm chứng; một review không đại diện toàn bộ khách hàng."
+      ]
+    }
+  ],
+  "rankings": {
+    "definitions": [
+      {
+        "id": "keyword_growth",
+        "label": "Tăng trưởng từ khóa",
+        "entity_type": "keyword",
+        "scope": "Cùng kỳ trên một chuỗi, nền đủ lớn; không phải search volume",
+        "version": "2.0",
+        "tie_policy": "dense_rank; ID chỉ ổn định hiển thị",
+        "sort": "descending metric within comparable group",
+        "status": "available",
+        "reason": null,
+        "count": 1
+      },
+      {
+        "id": "seasonal_directions",
+        "label": "Phù hợp kỳ bán",
+        "entity_type": "direction",
+        "scope": "Mẫu mùa vụ lịch sử và thời gian chuẩn bị nếu biết",
+        "version": "2.0",
+        "tie_policy": "dense_rank; ID chỉ ổn định hiển thị",
+        "sort": "descending metric within comparable group",
+        "status": "unavailable",
+        "reason": "Chưa có đủ mẫu/quan sát tương thích để xếp hạng",
+        "count": 0
+      },
+      {
+        "id": "direction_opportunity",
+        "label": "Hướng ưu tiên nghiên cứu",
+        "entity_type": "direction",
+        "scope": "Chỉ shortlist đủ điều kiện; thứ tự rubric, không phải xác suất thành công",
+        "version": "2.0",
+        "tie_policy": "dense_rank; ID chỉ ổn định hiển thị",
+        "sort": "descending metric within comparable group",
+        "status": "available",
+        "reason": null,
+        "count": 1
+      },
+      {
+        "id": "amazon_purchase_signal",
+        "label": "Tín hiệu mua Amazon",
+        "entity_type": "product",
+        "scope": "Nhãn mua làm tròn; cùng loại trang và cùng ngày quan sát",
+        "version": "2.0",
+        "tie_policy": "dense_rank; ID chỉ ổn định hiển thị",
+        "sort": "descending metric within comparable group",
+        "status": "available",
+        "reason": null,
+        "count": 1
+      },
+      {
+        "id": "comparable_price",
+        "label": "Giá các offer cùng quy cách",
+        "entity_type": "offer",
+        "scope": "Chỉ so cùng sản phẩm, biến thể và tiền tệ; không phải best value",
+        "version": "2.0",
+        "tie_policy": "dense_rank; ID chỉ ổn định hiển thị",
+        "sort": "descending metric within comparable group",
+        "status": "unavailable",
+        "reason": "Chưa có đủ mẫu/quan sát tương thích để xếp hạng",
+        "count": 0
+      },
+      {
+        "id": "differentiation_candidates",
+        "label": "Ý tưởng khác biệt",
+        "entity_type": "idea",
+        "scope": "Cải thiện có đoạn nguồn hỗ trợ; vẫn là giả thuyết cần thử",
+        "version": "2.0",
+        "tie_policy": "dense_rank; ID chỉ ổn định hiển thị",
+        "sort": "descending metric within comparable group",
+        "status": "unavailable",
+        "reason": "Chưa có đủ mẫu/quan sát tương thích để xếp hạng",
+        "count": 0
+      },
+      {
+        "id": "evidence_strength",
+        "label": "Độ phủ bằng chứng",
+        "entity_type": "direction",
+        "scope": "Số loại bằng chứng độc lập về mặt thông tin; không phải lợi nhuận",
+        "version": "2.0",
+        "tie_policy": "dense_rank; ID chỉ ổn định hiển thị",
+        "sort": "descending metric within comparable group",
+        "status": "available",
+        "reason": null,
+        "count": 1
+      },
+      {
+        "id": "niche_priority",
+        "label": "Niche ưu tiên",
+        "entity_type": "niche",
+        "scope": "Hướng shortlist tốt nhất trong mỗi niche; không ưu ái số lượng listing",
+        "version": "2.0",
+        "tie_policy": "dense_rank; ID chỉ ổn định hiển thị",
+        "sort": "descending metric within comparable group",
+        "status": "available",
+        "reason": null,
+        "count": 1
+      },
+      {
+        "id": "product_research_shortlist",
+        "label": "Mẫu nên đối chiếu",
+        "entity_type": "product",
+        "scope": "Mẫu đạt điều kiện thuộc hướng shortlist; không phải top bán chạy",
+        "version": "2.0",
+        "tie_policy": "dense_rank; ID chỉ ổn định hiển thị",
+        "sort": "descending metric within comparable group",
+        "status": "available",
+        "reason": null,
+        "count": 6
+      },
+      {
+        "id": "idea_priority",
+        "label": "Idea ưu tiên",
+        "entity_type": "idea",
+        "scope": "Trạng thái hướng và căn cứ của idea; chưa khẳng định hiệu quả kinh doanh",
+        "version": "2.0",
+        "tie_policy": "dense_rank; ID chỉ ổn định hiển thị",
+        "sort": "descending metric within comparable group",
+        "status": "available",
+        "reason": null,
+        "count": 1
+      }
+    ],
+    "items": [
+      {
+        "ranking_id": "amazon_purchase_signal",
+        "group": "amazon_search_card:2026-10-27",
+        "rank": 1,
+        "entity_id": "P-2f858c059e49c4d0",
+        "metric": 1000,
+        "evidence_ids": [
+          "E-dce239ae117da3a2"
+        ]
+      },
+      {
+        "ranking_id": "direction_opportunity",
+        "group": "N-ae3010f0b823d747",
+        "rank": 1,
+        "entity_id": "D-4df9e2b20028619a",
+        "metric": [
+          false,
+          false,
+          true,
+          true
+        ],
+        "evidence_ids": [
+          "E-06b513d2f820b8c3",
+          "E-160608bf794d8c5b",
+          "E-21c340ddc029439a",
+          "E-4ea88d6737bca7e1",
+          "E-559dba75432b353a",
+          "E-79f8227b32941f2c",
+          "E-dce239ae117da3a2"
+        ]
+      },
+      {
+        "ranking_id": "evidence_strength",
+        "group": "N-ae3010f0b823d747",
+        "rank": 1,
+        "entity_id": "D-4df9e2b20028619a",
+        "metric": [
+          true,
+          false,
+          true
+        ],
+        "evidence_ids": [
+          "E-06b513d2f820b8c3",
+          "E-160608bf794d8c5b",
+          "E-21c340ddc029439a",
+          "E-4ea88d6737bca7e1",
+          "E-559dba75432b353a",
+          "E-79f8227b32941f2c",
+          "E-dce239ae117da3a2"
+        ]
+      },
+      {
+        "ranking_id": "idea_priority",
+        "group": "category",
+        "rank": 1,
+        "entity_id": "I-297627cb1371158c",
+        "metric": [
+          false,
+          false,
+          true,
+          true
+        ],
+        "evidence_ids": [
+          "E-21c340ddc029439a",
+          "E-dce239ae117da3a2"
+        ]
+      },
+      {
+        "ranking_id": "keyword_growth",
+        "group": "N-ae3010f0b823d747:current_complete_months_yoy",
+        "rank": 1,
+        "entity_id": "K-8559da8b334d04f0",
+        "metric": -12.53,
+        "evidence_ids": [
+          "E-06b513d2f820b8c3",
+          "E-160608bf794d8c5b",
+          "E-21c340ddc029439a",
+          "E-4ea88d6737bca7e1",
+          "E-559dba75432b353a",
+          "E-79f8227b32941f2c",
+          "E-dce239ae117da3a2"
+        ]
+      },
+      {
+        "ranking_id": "niche_priority",
+        "group": "category",
+        "rank": 1,
+        "entity_id": "N-ae3010f0b823d747",
+        "metric": [
+          false,
+          false,
+          true,
+          true
+        ],
+        "evidence_ids": [
+          "E-06b513d2f820b8c3",
+          "E-160608bf794d8c5b",
+          "E-21c340ddc029439a",
+          "E-4ea88d6737bca7e1",
+          "E-559dba75432b353a",
+          "E-79f8227b32941f2c",
+          "E-dce239ae117da3a2"
+        ]
+      },
+      {
+        "ranking_id": "product_research_shortlist",
+        "group": "N-ae3010f0b823d747",
+        "rank": 1,
+        "entity_id": "P-13c401eda458c315",
+        "metric": [
+          false,
+          false,
+          true,
+          true
+        ],
+        "evidence_ids": [
+          "E-06b513d2f820b8c3"
+        ]
+      },
+      {
+        "ranking_id": "product_research_shortlist",
+        "group": "N-ae3010f0b823d747",
+        "rank": 1,
+        "entity_id": "P-2f858c059e49c4d0",
+        "metric": [
+          false,
+          false,
+          true,
+          true
+        ],
+        "evidence_ids": [
+          "E-dce239ae117da3a2"
+        ]
+      },
+      {
+        "ranking_id": "product_research_shortlist",
+        "group": "N-ae3010f0b823d747",
+        "rank": 1,
+        "entity_id": "P-7939e52e9690913c",
+        "metric": [
+          false,
+          false,
+          true,
+          true
+        ],
+        "evidence_ids": [
+          "E-79f8227b32941f2c"
+        ]
+      },
+      {
+        "ranking_id": "product_research_shortlist",
+        "group": "N-ae3010f0b823d747",
+        "rank": 1,
+        "entity_id": "P-7d0c89843478137b",
+        "metric": [
+          false,
+          false,
+          true,
+          true
+        ],
+        "evidence_ids": [
+          "E-559dba75432b353a"
+        ]
+      },
+      {
+        "ranking_id": "product_research_shortlist",
+        "group": "N-ae3010f0b823d747",
+        "rank": 1,
+        "entity_id": "P-d3ac5ee57f94e6f0",
+        "metric": [
+          false,
+          false,
+          true,
+          true
+        ],
+        "evidence_ids": [
+          "E-4ea88d6737bca7e1"
+        ]
+      },
+      {
+        "ranking_id": "product_research_shortlist",
+        "group": "N-ae3010f0b823d747",
+        "rank": 1,
+        "entity_id": "P-f83db3a0ad68c996",
+        "metric": [
+          false,
+          false,
+          true,
+          true
+        ],
+        "evidence_ids": [
+          "E-160608bf794d8c5b"
+        ]
+      }
+    ]
+  },
+  "review_themes": [],
+  "commentary": {}
+}

@@ -1,0 +1,34 @@
+{
+  "schema_version": 3,
+  "category": "Seasonal gifts and small decorations",
+  "market": "US",
+  "marketplace": "amazon.com",
+  "language": "en_US",
+  "years": [2023, 2024, 2025, 2026],
+  "months": [10, 11, 12],
+  "as_of_date": "2026-10-22",
+  "products_per_family": 2,
+  "max_mobile_review_requests": 6,
+  "min_positive_week_points_per_q4": 3,
+  "min_completed_years_for_timing": 2,
+  "ramp_up_profile_threshold_pct": 40,
+  "niches": [
+    {"id":"halloween","name":"Halloween gifts and decorations","name_vi":"Quà và đồ trang trí Halloween","discovery_query":"Halloween gifts decorations 2026 USA boo baskets lights window clings pillow covers craft kits"},
+    {"id":"thanksgiving","name":"Thanksgiving table decorations","name_vi":"Đồ trang trí bàn tiệc Thanksgiving","discovery_query":"Thanksgiving table decor 2026 USA table runner centerpieces gift hosting"},
+    {"id":"christmas","name":"Christmas gifts and decorations","name_vi":"Quà và đồ trang trí Noel","discovery_query":"Christmas gifts decorations 2026 USA advent calendars ornaments stocking stuffers lights gift baskets"}
+  ],
+  "families": [
+    {"id":"boo_baskets","niche_id":"halloween","name":"Boo basket gifts and fillers","name_vi":"Quà và phụ kiện Boo Basket","keyword":"boo basket","amazon_query":"halloween boo basket gift set","required_patterns":["boo|halloween","basket|gift box|gift set"],"idea_vi":"Thử bộ đồ cho Boo Basket có ghi rõ món đi kèm; phân biệt phụ kiện/giỏ rỗng với hộp quà đầy đủ."},
+    {"id":"halloween_lights","niche_id":"halloween","name":"Halloween lights","name_vi":"Đèn trang trí Halloween","keyword":"halloween lights","amazon_query":"halloween string lights battery operated","required_patterns":["halloween|pumpkin|ghost","light"],"idea_vi":"Thử bộ đèn Halloween, ghi rõ chiều dài, nguồn điện và đồ có trong gói; chưa tự nhận chống nước khi thiếu thông số."},
+    {"id":"halloween_window_clings","niche_id":"halloween","name":"Halloween window and wall stickers","name_vi":"Decal cửa kính/tường Halloween","keyword":"halloween window clings","amazon_query":"halloween window clings decorations","required_patterns":["halloween","window|cling"],"idea_vi":"Thử bộ decal cửa kính/tường Halloween, ghi rõ số tờ, kích thước và kiểu dán/tháo theo listing; không coi mọi sticker là loại bám tĩnh điện."},
+    {"id":"halloween_pillow_covers","niche_id":"halloween","name":"Halloween pillow covers","name_vi":"Vỏ gối Halloween","keyword":"halloween pillow covers","amazon_query":"halloween pillow covers set","required_patterns":["halloween|spooky","pillow"],"idea_vi":"Thử bộ vỏ gối Halloween, ghi đúng kích thước và việc có/không kèm ruột gối để khách không hiểu nhầm."},
+    {"id":"halloween_crafts","niche_id":"halloween","name":"Halloween craft kits","name_vi":"Bộ thủ công Halloween","keyword":"halloween crafts","amazon_query":"halloween craft kits","required_patterns":["halloween","craft|diy|art kits?"],"idea_vi":"Thử bộ thủ công Halloween, thể hiện số bộ, vật liệu và hướng dẫn; độ tuổi chỉ ghi khi nhà bán cung cấp."},
+    {"id":"thanksgiving_table_runners","niche_id":"thanksgiving","name":"Thanksgiving table runners","name_vi":"Khăn trải dọc bàn Thanksgiving","keyword":"thanksgiving table runner","amazon_query":"thanksgiving table runner","required_patterns":["thanksgiving|fall|autumn","table runner"],"idea_vi":"Thử khăn trải dọc bàn Thanksgiving, ghi rõ kích thước, chất liệu công bố và cách vệ sinh theo listing."},
+    {"id":"thanksgiving_centerpieces","niche_id":"thanksgiving","name":"Thanksgiving tabletop decoration accessories","name_vi":"Phụ kiện trang trí bàn Thanksgiving","keyword":"thanksgiving centerpiece","amazon_query":"thanksgiving centerpieces table decorations","required_patterns":["thanksgiving|fall|autumn","centerpiece|table decor"],"idea_vi":"Thử phụ kiện trang trí bàn Thanksgiving, có ảnh tỷ lệ kích thước và danh sách món đi kèm; không coi phụ kiện rời là centerpiece lắp sẵn."},
+    {"id":"advent_calendars","niche_id":"christmas","name":"Advent calendars","name_vi":"Lịch đếm ngược Advent Calendar","keyword":"advent calendar","amazon_query":"christmas advent calendar 2026","required_patterns":["advent","calendar"],"idea_vi":"Thử lịch đếm ngược Noel có nội dung được mô tả rõ; đối chiếu tháng khách bắt đầu tìm trước khi chọn thời điểm sẵn sàng bán."},
+    {"id":"christmas_ornaments","niche_id":"christmas","name":"Christmas ornaments","name_vi":"Đồ treo cây thông Noel","keyword":"christmas ornaments","amazon_query":"christmas ornaments set","required_patterns":["christmas|xmas","ornament"],"idea_vi":"Thử bộ đồ treo cây thông, ghi rõ số món, kích cỡ và chất liệu công bố, đối chiếu review về đóng gói."},
+    {"id":"stocking_stuffers","niche_id":"christmas","name":"Stocking stuffers","name_vi":"Quà nhỏ bỏ tất Noel","keyword":"stocking stuffers","amazon_query":"stocking stuffers christmas gifts","required_patterns":["stocking stuffer|christmas|xmas","gift|set|pack|toy|game|sock|cream|stuffer"],"idea_vi":"Thử gói quà nhỏ bỏ tất Noel, phân biệt giá theo món và theo pack, chọn đối tượng theo mô tả và phản hồi thực tế."},
+    {"id":"christmas_lights","niche_id":"christmas","name":"Christmas lights","name_vi":"Đèn trang trí Noel","keyword":"christmas lights","amazon_query":"christmas string lights","required_patterns":["christmas|xmas","light"],"idea_vi":"Thử bộ đèn Noel có thông số chiều dài và nguồn điện rõ; kiểm tra review về độ sáng, độ bền và đóng gói trước khi chọn mẫu."},
+    {"id":"christmas_gift_baskets","niche_id":"christmas","name":"Christmas gift baskets","name_vi":"Giỏ/hộp quà Noel","keyword":"christmas gift basket","amazon_query":"christmas gift baskets","required_patterns":["christmas|xmas|holiday","gift baskets?|gift box(?:es)?|gift sets?"],"idea_vi":"Thử hộp/giỏ quà Noel có bảng kê nội dung và quy cách rõ; không suy diễn hạn dùng, chất lượng hay biên lợi nhuận khi thiếu dữ liệu."}
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "mode": "live",
+  "brief": "Khảo sát phụ kiện bàn học và lưu trữ tại Mỹ. Các niche và seed được nhập rõ; không cần LLM lập phạm vi.",
+  "category": "Study desk accessories",
+  "selling_months": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12],
+  "niches": [
+    {"name": "Sắp xếp bàn học", "seeds": ["desk organizer", "pen holder"]},
+    {"name": "Sắp xếp dây điện", "seeds": ["cable organizer", "cable clips"]},
+    {"name": "Phụ kiện đọc sách", "seeds": ["book stand", "reading light"]}
+  ],
+  "llm": {"enabled": false, "commentary": false}
+}
